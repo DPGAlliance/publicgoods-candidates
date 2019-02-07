@@ -1,0 +1,13 @@
+language: generic
+
+services:
+  - docker
+
+env:
+  - DOCKER_COMPOSE_VERSION=1.23.2
+
+before_install:
+  - npm install
+
+script:
+  - npm test
