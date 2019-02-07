@@ -3,7 +3,7 @@
 	"$comment" : "Digital Public Good Metaschema: JSON Schema",
 	"title": "Digital Public Good",
  	"type": "object",
- 	"required": [ "name", "license", "SDGs", "type"],
+    "required": [ "name", "description", "website", "license", "SDGs", "type"],
  	"properties": {
  		"name": {
      		"type": "string",
@@ -21,7 +21,7 @@
     		"type": "string",
     		"description": "License under which the Global Digital Pubic Good is released."
     	},
-    	"license-link": {
+        "license_link": {
     		"type": "string",
     		"description": "Link to the license under which the Global Digital Pubic Good is released."
     	},
