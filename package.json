@@ -1,0 +1,14 @@
+{
+  "name": "dpgs",
+  "version": "0.0.1",
+  "description": "JSON schema validation for Digital Public Goods candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "ajv validate -s candidate-schema.json -d \"candidates/*.json\""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ajv-cli": "^3.0.0"
+  }
+}
