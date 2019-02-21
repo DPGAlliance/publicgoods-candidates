@@ -5,5 +5,5 @@
 	"license_link": "https://api.met.no/license_data.html",
 	"website": "https://api.met.no/",
 	"SDGs": [13],
-	"type": ["api", "data"]
+	"type": ["software", "data"]
 }
