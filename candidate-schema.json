@@ -41,12 +41,12 @@
     	},
     	"type": {
     		"type": "array",
-    		"description": "List of categories under which this Global Digital Public Good falls into: product, api, data, infrastructure.",
+    		"description": "List of categories under which this Global Digital Public Good falls into: software, data, standards.",
     		"minItems": 1,
     		"uniqueItems": true,
     		"items": {
     			"type": "string",
-    			"enum": ["product", "api", "data", "infrastructure"]
+    			"enum": ["software", "data", "standards"]
     		}
     	}
     }

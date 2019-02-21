@@ -5,5 +5,5 @@
 	"license-link": "https://creativecommons.org/licenses/by-sa/3.0/",
 	"website": "https://www.wikipedia.org/",
 	"SDGs": [4],
-	"type": ["product", "api", "data"]
+	"type": ["software", "data"]
 }

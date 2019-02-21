@@ -6,5 +6,5 @@
 	"license_link": "https://home.digitallibrary.io/cc/",
 	"website": "https://home.digitallibrary.io/",
 	"SDGs": [4],
-	"type": ["product", "api", "data"]
+	"type": ["software", "data"]
 }
