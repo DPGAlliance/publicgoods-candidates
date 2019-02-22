@@ -1,0 +1,9 @@
+{
+        "name": "MIT OpenCourseWare",
+        "description": "Web-based publication of virtually all MIT course content, open and available to the world.",
+        "license": "CC BY-NC-SA",
+        "license_link": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "website": "https://ocw.mit.edu",
+        "SDGs": [4],
+        "type": ["data"]
+}
