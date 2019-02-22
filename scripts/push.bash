@@ -1,12 +1,6 @@
 #!/bin/bash
-apt-get update && apt-get install php
-php -v
-git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress
 git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-website
 git clone https://github.com/unicef/publicgoods-scripts.git ../publicgoods-scripts
-pushd ../publicgoods-wordpress 
-php -S localhost:8000 &
-popd
 pushd ../publicgoods-scripts && ./static.bash && npm install && node index.js && popd
 git config --global user.email "lacabra@users.noreply.github.com"
 git config --global user.name "Victor Grau Serrat"
