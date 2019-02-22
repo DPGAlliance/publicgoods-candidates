@@ -15,5 +15,5 @@ before_install:
 script:
   - npm test
 
-deploy:
+after_success:
   - ./scripts/push.bash
