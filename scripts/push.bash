@@ -1,5 +1,6 @@
 #!/bin/bash
-
+apt-get update && apt-get install php
+php -v
 git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress
 git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-website
 git clone https://github.com/unicef/publicgoods-scripts.git ../publicgoods-scripts
