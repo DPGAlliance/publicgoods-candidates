@@ -1,6 +1,6 @@
 # Candidates for Digital Public Goods
 
-This repository is used to manage the process of adding candidates for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). 
+This repository is used to manage the process of adding candidates for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). This is one of four interconnected repositories; refer to the [publicgoods-website](https://github.com/unicef/publicgoods-website) for an overview.
 
 ## How to submit a new candidate for a Digital Public Good
 
