@@ -14,7 +14,7 @@ before_install:
       npm install;
       git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
       pushd ../publicgoods-wordpress;
-      php -S localhost:8000 &;
+      php -S localhost:8000 &
       popd;
     fi
 
