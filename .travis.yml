@@ -11,7 +11,7 @@ env:
 
 before_install:
   - npm install
-  - if [[ $TRAVIS_PULL_REQUEST == “false” ]] && [[ $TRAVIS_BRANCH == “master” ]]; then   
+  - if [[ $TRAVIS_PULL_REQUEST == "false" ]] && [[ $TRAVIS_BRANCH == "master" ]]; then   
       git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
       pushd ../publicgoods-wordpress;
       php -S localhost:8000 &
@@ -19,12 +19,12 @@ before_install:
     fi
 
 before_script:
-  - if [[ $TRAVIS_PULL_REQUEST == “false” ]] && [[ $TRAVIS_BRANCH == “master” ]]; then 
+  - if [[ $TRAVIS_PULL_REQUEST == "false" ]] && [[ $TRAVIS_BRANCH == "master" ]]; then 
       npm test;
     fi
 
 script:
-  - if [[ $TRAVIS_PULL_REQUEST == “false” ]] && [[ $TRAVIS_BRANCH == “master” ]]; then 
+  - if [[ $TRAVIS_PULL_REQUEST == "false" ]] && [[ $TRAVIS_BRANCH == "master" ]]; then 
       ./scripts/push.bash;
     else
       npm test;
