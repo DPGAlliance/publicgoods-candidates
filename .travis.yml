@@ -10,8 +10,8 @@ env:
     secure: 52crJmN2yDuoUrW1hWAiL8JiQqoJUptDHjh72u5/4vfgKsn6q1yamDbbh7gedFkhjjDSHT8Ml4xjZTdNH4toVs9nkZL4cZ1nswzW7Xi1qCC7NSttvIW+anMHrEDJRLMwJj7OgKrHrkrFXELzQGL/zyZqnPW8YjrljfdY+ym6s53fTgk3JUz/kiwJDnZ4GSdX0zE0Wet4GZD8eqytc6ZnSo/uynmLNErtWIz8FD34Ev7b/RnZ4ueIQveOGx8d8UUtgYM1K/WhMaKMNPwRbNTQUnT2PKqy5VZi+GCS9NpAMhX7qbN+9+F2MqJLdJB99jJdMG6C5jfMWnMokvxNKpJlub9xXEDE2doKZ6a1Zhe0uiwrXu/+P2nYsq3PMl+SIx3A1zBBtA7ar6H9moS7Mr9dxDjcjI1MGj/9a3LJJyEF+G0YClPbx6QOf4LSmEHZamNOlCXvGIq3VZX2K5rbjuClkFkKjhkKv0U8b3SXm6jTa4CuEfhU8chi+ABGTcwAVhLMExIwzwQE25eAqD8nMUqagUwT5YyXHT6Sf6+RP9V0gs3jJ5t0gGDZAmq1hwdoeeLHVjWUrP52LLvm9XEY5v9uscN797vggt/hKHwbjUqmUn+lmYweTFDTzMWw4+7Ku7ja+jN7lxZXdKnItxs9AqTbDyakMBnjQKvBcKdT/YKOVhg=
 
 before_install:
-  - if [[ $TRAVIS_PULL_REQUEST == “false” ]] && [[ $TRAVIS_BRANCH == “master” ]]; then
-      npm install;
+  - npm install
+  - if [[ $TRAVIS_PULL_REQUEST == “false” ]] && [[ $TRAVIS_BRANCH == “master” ]]; then   
       git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
       pushd ../publicgoods-wordpress;
       php -S localhost:8000 &
