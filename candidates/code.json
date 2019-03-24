@@ -1,0 +1,9 @@
+{
+        "name": "Code.org",
+        "description": "Platform expanding access to computer science in schools and increasing participation by women and underrepresented minorities.",
+        "license": "CC BY-NC-SA",
+        "license_link": "https://code.org/privacy",
+        "website": "https://code.org",
+        "SDGs": [4],
+        "type": ["data"]
+}
