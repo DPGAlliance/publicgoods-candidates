@@ -1,0 +1,9 @@
+{
+        "name": "OER Commons",
+        "description": "OER Commons is a public digital library of open educational resources.",
+        "license": "CC BY-NC-SA",
+        "license_link": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "website": "https://www.oercommons.org",
+        "SDGs": [4],
+        "type": ["data"]
+}
