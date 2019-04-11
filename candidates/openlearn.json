@@ -1,0 +1,9 @@
+{
+        "name": "OpenLearn",
+        "description": "Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.",
+        "license": "CC BY-NC-SA 4.0",
+        "license_link": "https://www.open.edu/openlearn/get-started/openlearn-welcomes-creative-commons-40",
+        "website": "https://www.open.edu/openlearn/",
+        "SDGs": [4],
+        "type": ["data"]
+}
