@@ -1,7 +1,7 @@
 {
         "name": "Open Stax",
         "description": "Publish high-quality, peer-reviewed, openly licensed college textbooks that are absolutely free online and low cost in print.",
-        "license": "Creative Commons Attribution 4.0 International License",
+        "license": "CC BY 4.0",
         "license_link": "https://openstax.org/license",
         "website": "https://openstax.org",
         "SDGs": [4],

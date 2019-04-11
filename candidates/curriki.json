@@ -1,7 +1,7 @@
 {
         "name": "Curriki",
         "description": "A community for teaching or studying: Create, share, and explore high quality K-12 content..",
-        "license": "Creative Commons Attribution Non-commercial",
+        "license": "CC BY-NC",
         "license_link": "https://www.curriki.org/terms-of-service",
         "website": "https://www.curriki.org",
         "SDGs": [4],

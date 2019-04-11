@@ -1,7 +1,7 @@
 {
         "name": "Scratch",
         "description": "Scratch is a block-based visual programming language and online community targeted primarily at children.",
-        "license": "Creative Commons Attribution-ShareAlike 2.0 license",
+        "license": "CC BY-SA 2.0",
         "license_link": "https://scratch.mit.edu/terms_of_use",
         "website": "https://scratch.mit.edu",
         "SDGs": [4],
