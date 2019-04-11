@@ -1,0 +1,9 @@
+{
+        "name": "JHSPH OpenCourseware",
+        "description": "JHSPH OpenCourseware offers open materials and images from more than a hundred courses developed by the faculty of Johns Hopkins School of Public Health, the world’s foremost institution of public health education and research.",
+        "license": "CC BY-NC-SA",
+        "license_link": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+        "website": "http://ocw.jhsph.edu/",
+        "SDGs": [3, 4],
+        "type": ["data"]
+}

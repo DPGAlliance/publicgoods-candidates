@@ -1,0 +1,9 @@
+{
+        "name": "Digital Literacy Library",
+        "description": "Lesson plans designed by experts to help young people develop skills needed to navigate the digital world, critically consume information and responsibly produce and share content.",
+        "license": "CC BY-SA 4.0",
+        "license_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "website": "https://www.facebook.com/safety/educators",
+        "SDGs": [4],
+        "type": ["data"]
+}
