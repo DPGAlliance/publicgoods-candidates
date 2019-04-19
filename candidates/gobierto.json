@@ -1,0 +1,9 @@
+{
+	"name": "Gobierto",
+	"description": "Gobierto is a web app that provides a set of tools to power efforts from public administrations towards transparency and citizen engagement, to enable better communication with their constituents and put public open data to work.",
+	"license": "AGPLv3",
+	"license-link": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt",
+	"website": "https://gobierto.es",
+	"SDGs": [11, 16],
+	"type": ["software"]
+}

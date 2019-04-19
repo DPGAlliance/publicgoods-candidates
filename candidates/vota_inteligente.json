@@ -1,0 +1,9 @@
+{
+	"name": "Vota Inteligente",
+	"description": "Web platform for citizen participation in which any person or organization can propose initiatives to electoral candidates so that they add them to their electoral commitments.",
+	"license": "GPLv3",
+	"license-link": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral/blob/master/LICENSE",
+	"website": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral",
+	"SDGs": [11, 16],
+	"type": ["software"]
+}
