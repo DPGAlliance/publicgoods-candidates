@@ -1,0 +1,9 @@
+{
+	"name": "Open Food Source",
+	"description": "A web-based open source software system that coordinates and manages local food systems where many producers sell to many customers in an online 24-7 marketplace.",
+	"license": "GPLv3",
+	"license-link": "https://github.com/openfoodsource/OFS_trunk/blob/master/LICENSE",
+	"website": "http://www.openfoodsource.org/",
+	"SDGs": [2,8,9,12],
+	"type": ["software"]
+}

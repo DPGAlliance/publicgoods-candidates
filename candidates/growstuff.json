@@ -1,0 +1,9 @@
+{
+	"name": "GrowStuff",
+	"description": "Open data project for small-scale food growers.",
+	"license": "AGPLv3",
+	"license-link": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt",
+	"website": "https://www.growstuff.org/",
+	"SDGs": [2,9],
+	"type": ["software", "data"]
+}
