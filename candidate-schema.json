@@ -46,7 +46,7 @@
     		"uniqueItems": true,
     		"items": {
     			"type": "string",
-    			"enum": ["software", "data", "standards"]
+    			"enum": ["software", "data", "standard"]
     		}
     	}
     }
