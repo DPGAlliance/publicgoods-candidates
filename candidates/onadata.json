@@ -1,0 +1,9 @@
+{
+	"name": "OnaData",
+	"description": "Collect, Analyze and Share Data!",
+	"license": "GPLv2",
+	"license-link": "https://github.com/onaio/onadata/blob/master/LICENSE",
+	"website": "https://github.com/onaio/onadata",
+	"SDGs": [3,4],
+	"type": ["software"]
+}

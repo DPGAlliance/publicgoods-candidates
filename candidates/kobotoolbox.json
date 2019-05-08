@@ -1,0 +1,9 @@
+{
+	"name": "KoboToolbox",
+	"description": "Simple, robust and powerful tools for data collection.",
+	"license": "BSD-2-Clause",
+	"license-link": "https://github.com/kobotoolbox/kobocat/blob/master/LICENSE",
+	"website": "https://www.kobotoolbox.org/",
+	"SDGs": [3, 4],
+	"type": ["software"]
+}
