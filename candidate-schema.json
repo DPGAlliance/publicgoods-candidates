@@ -49,15 +49,15 @@
     			"enum": ["software", "data", "standard"]
     		}
         },
-        "repo-org": {
+        "repo_org": {
             "type": "string",
             "description": "Link to Github organization"
         },
-        "repo-main": {
+        "repo_main": {
             "type": "string",
             "description": "Link to main Github repository"
         },
-        "repo-others": {
+        "repo_others": {
             "type": "array",
             "description": "Links to additional Github repositories beyond the main repo",
             "uniqueItems": true,
