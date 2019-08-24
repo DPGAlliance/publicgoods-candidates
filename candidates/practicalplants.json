@@ -2,7 +2,7 @@
 	"name": "Practical Plants",
 	"description": "A collaboratively edited encyclopedia and database of information on plants cultivated with a practical intention.",
 	"license": "CC BY-SA",
-	"license-link": "https://practicalplants.org/wiki/PracticalPlants:Copyrights",
+	"license_link": "https://practicalplants.org/wiki/PracticalPlants:Copyrights",
 	"website": "https://practicalplants.org",
 	"SDGs": [15],
 	"type": ["data"]

@@ -3,7 +3,7 @@
 	"initialism": "ODK",
 	"description": "Free and open-source software for collecting, managing, and using data in resource-constrained environments.",
 	"license": "Apache 2",
-	"license-link": "https://docs.opendatakit.org/security-privacy/?highlight=license#license",
+	"license_link": "https://docs.opendatakit.org/security-privacy/?highlight=license#license",
 	"website": "https://opendatakit.org/",
 	"SDGs": [3],
 	"type": ["software"]

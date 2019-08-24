@@ -3,7 +3,7 @@
 	"initialism": "MOSIP",
 	"description": "The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way.",
 	"license": "MPLv2",
-	"license-link": "https://github.com/mosip/mosip-platform/blob/master/LICENSE",
+	"license_link": "https://github.com/mosip/mosip-platform/blob/master/LICENSE",
 	"website": "https://mosip.io/",
 	"SDGs": [16, 17],
 	"type": ["software"],

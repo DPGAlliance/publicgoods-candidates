@@ -2,7 +2,7 @@
 	"name": "CropPlanning",
 	"description": "Crop Planning Software for small farmers and serious gardeners.",
 	"license": "GPLv3",
-	"license-link": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE",
+	"license_link": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE",
 	"website": "https://github.com/claytonrcarter/cropplanning",
 	"SDGs": [2,12],
 	"type": ["software"]

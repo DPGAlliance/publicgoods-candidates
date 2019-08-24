@@ -3,7 +3,7 @@
 	"initialism": "OpenHIM",
 	"description": "A middleware component designed to ease interoperability between disparate information systems, connecting health systems simply, securely and safely.",
 	"license": "MPLv2",
-	"license-link": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE",
+	"license_link": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE",
 	"website": "http://openhim.org/",
 	"SDGs": [3],
 	"type": ["software"]

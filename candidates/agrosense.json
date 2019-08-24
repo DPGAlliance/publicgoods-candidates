@@ -2,7 +2,7 @@
 	"name": "AgroSense",
 	"description": "Open source farm managament and precision agriculture software.",
 	"license": "GPLv3",
-	"license-link": "https://agrosense.eu/license.html",
+	"license_link": "https://agrosense.eu/license.html",
 	"website": "https://agrosense.eu/",
 	"SDGs": [2,9],
 	"type": ["software"]

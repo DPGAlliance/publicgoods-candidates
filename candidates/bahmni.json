@@ -2,7 +2,7 @@
 	"name": "Bahmni",
 	"description": "Open Source Hospital Management System built on top of OpenMRS, OpenELIS and OpenERP.",
 	"license": "AGPLv3",
-	"license-link": "https://www.bahmni.org/faq",
+	"license_link": "https://www.bahmni.org/faq",
 	"website": "https://www.bahmni.org/",
 	"SDGs": [3],
 	"type": ["software"]

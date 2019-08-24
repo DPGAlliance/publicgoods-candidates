@@ -3,7 +3,7 @@
 	"initialism": "PLOS",
 	"description": "A library of open-access journal sand other scientific literature under an open-content license.",
 	"license": "CC BY",
-	"license-link": "https://www.plos.org/license",
+	"license_link": "https://www.plos.org/license",
 	"website": "https://journals.plos.org/",
 	"SDGs": [4],
 	"type": ["data"]
