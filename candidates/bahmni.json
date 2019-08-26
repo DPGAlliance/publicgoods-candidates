@@ -5,5 +5,6 @@
 	"license_link": "https://www.bahmni.org/faq",
 	"website": "https://www.bahmni.org/",
 	"SDGs": [3],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/Bahmni/bahmni-core"
 }
