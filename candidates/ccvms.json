@@ -6,5 +6,6 @@
 	"license_link": "https://github.com/EL-BID/API-SGiS/blob/master/LICENSE.md",
 	"website": "https://github.com/EL-BID/ccvms",
 	"SDGs": [3, 16],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/EL-BID/API-SGiS"
 }

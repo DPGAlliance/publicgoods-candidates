@@ -5,5 +5,6 @@
 	"license_link": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt",
 	"website": "http://consulproject.org",
 	"SDGs": [11, 16],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/consul/consul"
 }

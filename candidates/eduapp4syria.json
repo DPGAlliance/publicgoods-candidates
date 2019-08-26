@@ -1,9 +1,10 @@
 {
-        "name": "EduApp4Syria",
-        "description": "EduApp4Syria is an international innovation competition that has sourced two open source smartphone applications with the aim of helping Syrian children learn how to read in Arabic and improve their psychosocial wellbeing.",
-        "license": "BSD-2",
-        "license_link": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria/blob/master/LICENSE",
-        "website": "https://norad.no/eduapp4syria",
-        "SDGs": [4],
-        "type": ["software"]
+	"name": "EduApp4Syria",
+	"description": "EduApp4Syria is an international innovation competition that has sourced two open source smartphone applications with the aim of helping Syrian children learn how to read in Arabic and improve their psychosocial wellbeing.",
+	"license": "BSD-2",
+	"license_link": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria/blob/master/LICENSE",
+	"website": "https://norad.no/eduapp4syria",
+	"SDGs": [4],
+	"type": ["software"],
+	"repo_main": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria/"
 }

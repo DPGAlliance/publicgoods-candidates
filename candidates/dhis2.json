@@ -6,5 +6,6 @@
 	"license_link": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE",
 	"website": "https://www.dhis2.org/",
 	"SDGs": [3],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/dhis2/dhis2-core"
 }

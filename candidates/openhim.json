@@ -6,5 +6,6 @@
 	"license_link": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE",
 	"website": "http://openhim.org/",
 	"SDGs": [3],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/jembi/openhim-core-js"
 }

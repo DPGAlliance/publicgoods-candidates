@@ -5,5 +5,6 @@
 	"license_link": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt",
 	"website": "https://www.growstuff.org/",
 	"SDGs": [2,9],
-	"type": ["software", "data"]
+	"type": ["software", "data"],
+	"repo_main": "https://github.com/Growstuff/growstuff"
 }

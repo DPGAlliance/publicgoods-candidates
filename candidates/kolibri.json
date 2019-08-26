@@ -1,9 +1,10 @@
 {
-        "name": "Kolibri",
-        "description": "Kolibri is an app that aims to make high quality education technology available in low-resource communities.",
-        "license": "MIT",
-        "license_link": "https://github.com/learningequality/kolibri/blob/develop/LICENSE",
-        "website": "https://learningequality.org/kolibri/",
-        "SDGs": [4],
-        "type": ["software"]
+    "name": "Kolibri",
+    "description": "Kolibri is an app that aims to make high quality education technology available in low-resource communities.",
+    "license": "MIT",
+    "license_link": "https://github.com/learningequality/kolibri/blob/develop/LICENSE",
+    "website": "https://learningequality.org/kolibri/",
+    "SDGs": [4],
+    "type": ["software"],
+    "repo_main": "https://github.com/learningequality/kolibri"
 }

@@ -5,5 +5,6 @@
 	"license_link": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral/blob/master/LICENSE",
 	"website": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral",
 	"SDGs": [11, 16],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral"
 }

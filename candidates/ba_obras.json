@@ -5,6 +5,7 @@
 	"license_link": "https://github.com/datosgcba/ba_obras/blob/master/LICENSE",
 	"website": "https://github.com/datosgcba/ba_obras",
 	"SDGs": [11, 16],
-	"type": ["software"]
+	"type": ["software"],
+	"repo_main": "https://github.com/datosgcba/ba_obras"
 }
 

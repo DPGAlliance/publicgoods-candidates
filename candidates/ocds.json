@@ -6,5 +6,6 @@
 	"license_link": "https://github.com/open-contracting/standard/blob/1.1-dev/LICENSE",
 	"website": "http://standard.open-contracting.org",
 	"SDGs": [16],
-	"type": ["standard"]
+	"type": ["standard"],
+	"repo_main": "https://github.com/open-contracting/standard"
 }

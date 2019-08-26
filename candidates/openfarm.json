@@ -5,5 +5,6 @@
 	"license_link": "https://github.com/openfarmcc/OpenFarm/blob/master/LICENSE",
 	"website": "https://openfarm.cc/",
 	"SDGs": [2,9],
-	"type": ["software", "data"]
+	"type": ["software", "data"],
+	"repo_main": "https://github.com/openfarmcc/OpenFarm"
 }
