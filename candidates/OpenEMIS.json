@@ -1,8 +1,0 @@
-{
-        "name": "OpenEMIS",
-        "description": "Generic Education Management Information System",
-        "license": "GPLv3",
-        "website": "http://www.openemis.org",
-        "SDGs": 4,
-        "type": "software",
-}

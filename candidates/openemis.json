@@ -1,0 +1,9 @@
+{
+        "name": "OpenEMIS",
+        "description": "An Education Management Information System for the education sector. Its main purpose is to collect, analyze, and report data related to the management of educational activities.",
+        "license": "GPLv2",
+        "license_link": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+        "website": "http://www.openemis.org",
+        "SDGs": [4],
+        "type": ["software"]
+}
