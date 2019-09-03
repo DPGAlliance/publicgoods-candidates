@@ -1,0 +1,9 @@
+{
+	"name": "African Storybook",
+	"description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
+	"license": "CC BY-SA",
+	"license_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+	"website": "https://www.africanstorybook.org/",
+	"SDGs": [4],
+	"type": ["data"]
+}
