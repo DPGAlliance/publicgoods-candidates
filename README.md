@@ -22,7 +22,8 @@ This repository is used to manage the process of adding candidates for considera
         "license_link": "OPTIONAL",
         "website": "REQUIRED",
         "SDGs": [REQUIRED, list SDGs by number],
-        "type": [REQUIRED, multiple choice from "software", "data", "standards"]
+        "type": [REQUIRED, multiple choice from "software", "data", "standards"],
+        "repo_main": "OPTIONAL: Link to main Github repository"
 }
 ```
 
