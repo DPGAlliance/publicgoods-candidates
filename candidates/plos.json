@@ -2,7 +2,7 @@
 	"name": "Pubic Library of Science",
 	"initialism": "PLOS",
 	"description": "A library of open-access journal sand other scientific literature under an open-content license.",
-	"license": "CC BY",
+	"license": ["CC-BY-4.0"],
 	"license_link": "https://www.plos.org/license",
 	"website": "https://journals.plos.org/",
 	"SDGs": [4],

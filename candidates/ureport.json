@@ -1,7 +1,7 @@
 {
     "name": "U-Report",
     "description": "Free social messaging tool and a real-time information system that allows community participation.",
-    "license": "AGPLv3",
+    "license": ["AGPL-3.0"],
     "license_link": "https://github.com/rapidpro/ureport/blob/master/LICENSE",
     "website": "https://ureport.in/",
     "SDGs": [10, 16],

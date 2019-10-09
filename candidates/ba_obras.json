@@ -1,7 +1,7 @@
 {
 	"name": "BA Obras",
 	"description": "Data Visualization frontend that informs about public works projects, allowing citizens to browse the works by neighborhood, by theme, by stage as well as including photos and videos the document the progress of each project.",
-	"license": "MIT",
+	"license": ["MIT"],
 	"license_link": "https://github.com/datosgcba/ba_obras/blob/master/LICENSE",
 	"website": "https://github.com/datosgcba/ba_obras",
 	"SDGs": [11, 16],

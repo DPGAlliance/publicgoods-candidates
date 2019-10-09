@@ -1,7 +1,7 @@
 {
 	"name": "Columbia International eHealth Lab's (CIEL) OpenMRS Concept Dictionary",
 	"description": "An implementation of the Open Concept Lab's Concept Dictionary for health applications.",
-	"license": "Modified CC-BY-NC",
+	"license": ["CC-BY-NC-3.0"],
 	"license_link": "https://openconceptlab.org/orgs/CIEL/sources/CIEL/about/",
 	"website": "https://openconceptlab.org/orgs/CIEL/sources/CIEL/about/",
 	"SDGs": [3],

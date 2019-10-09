@@ -1,7 +1,7 @@
 {
 	"name": "Open Food Facts",
 	"description": "Open Food Facts gathers information and data on food products from around the world.",
-	"license": "ODbLv1, DbCLv1, CC BY-SA, AGPLv3",
+	"license": ["ODbL-1.0", "CC-BY-SA-3.0", "AGPL-3.0"],
 	"license_link": "https://world.openfoodfacts.org/data",
 	"website": "http://openag.io/",
 	"SDGs": [2,9],

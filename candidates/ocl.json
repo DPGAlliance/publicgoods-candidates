@@ -2,7 +2,7 @@
 	"name": "Open Concept Lab",
 	"initialism": "OCL",
 	"description": "An open-source, cloud-based toolset for open and collaborative terminology, indicator, and core dataset management and development to accelerate convergence on best practices for data and data dictionary harmonization, information exchange, and reuse of analytics tools and approaches.",
-	"license": "MPLv2",
+	"license": ["MPL-2.0"],
 	"license_link": "https://openconceptlab.org/license/",
 	"website": "https://openconceptlab.org",
 	"SDGs": [3],
