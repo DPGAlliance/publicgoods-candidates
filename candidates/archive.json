@@ -1,7 +1,7 @@
 {
 	"name": "Archive",
 	"description": "Web application aimed at public administrations for archiving of electronic documents and records. Provides a management system for multidepartamental centers, and the integration with external applications that manage public records.",
-	"license": "EUPL 1.1",
+	"license": ["EUPL-1.1"],
 	"license_link": "https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12",
 	"website": "https://administracionelectronica.gob.es/ctt/archive",
 	"SDGs": [16],

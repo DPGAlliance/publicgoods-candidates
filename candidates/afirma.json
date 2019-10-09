@@ -1,7 +1,7 @@
 {
 	"name": "@firma",
 	"description": "Suite of solutions for digital identities and electronic signatures, aimed at public administrations for the implementation of authentication and electronic signatures in a streamlined and effective manner.", 
-	"license": "GPL 2+, EUPL 1.1",
+	"license": ["GPL-2.0", "EUPL-1.1"],
 	"license_link": "https://github.com/ctt-gob-es/clienteafirma/tree/master/license",
 	"website": "https://administracionelectronica.gob.es/ctt/clienteafirma",
 	"SDGs": [3, 16],

@@ -2,7 +2,7 @@
 	"name": "Cold Chain and Vaccination Management System",
 	"initialism": "CCVMS",
 	"description": "Monitoring and management tool for vaccine coverage and cold chain management.", 
-	"license": "CC-IGO BY-NC-ND 3.0",
+	"license": ["CC-BY-NC-ND-3.0"],
 	"license_link": "https://github.com/EL-BID/API-SGiS/blob/master/LICENSE.md",
 	"website": "https://github.com/EL-BID/ccvms",
 	"SDGs": [3, 16],

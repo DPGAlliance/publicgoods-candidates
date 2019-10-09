@@ -2,7 +2,7 @@
 	"name": "Open Health Information Mediator",
 	"initialism": "OpenHIM",
 	"description": "A middleware component designed to ease interoperability between disparate information systems, connecting health systems simply, securely and safely.",
-	"license": "MPLv2",
+	"license": ["MPL-2.0"],
 	"license_link": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE",
 	"website": "http://openhim.org/",
 	"SDGs": [3],

@@ -1,7 +1,7 @@
 {
         "name": "Open Textbook Library",
         "description": "Open textbooks are textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. These books have been reviewed by faculty from a variety of colleges and universities to assess their quality. ",
-        "license": "CC BY 4.0",
+        "license": ["CC-BY-4.0"],
         "license_link": "https://creativecommons.org/licenses/by/4.0/",
         "website": "https://open.umn.edu/opentextbooks/",
         "SDGs": [4],

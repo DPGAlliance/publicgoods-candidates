@@ -1,7 +1,7 @@
 {
 	"name": "OpenStreetMap",
 	"description": "A map of the world, created by people like you and free to use under an open license.",
-	"license": "ODbL",
+	"license": ["ODbL-1.0"],
 	"license_link": "https://www.openstreetmap.org/copyright",
 	"website": "https://www.openstreetmap.org",
 	"SDGs": [11],

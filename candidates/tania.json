@@ -1,7 +1,7 @@
 {
 	"name": "Tania",
 	"description": "Farmer journal to help you manage your farm easily by accessing information you need on-the-go.",
-	"license": "Apache 2",
+	"license": ["Apache-2.0"],
 	"license_link": "https://github.com/Tanibox/tania-core/blob/master/LICENSE",
 	"website": "https://usetania.org/",
 	"SDGs": [2,9],

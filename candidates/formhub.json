@@ -1,7 +1,7 @@
 {
 	"name": "formhub",
 	"description": "Mobile data collection made easy. Unmaintained -> see OnaData.",
-	"license": "GPLv2",
+	"license": ["GPL-2.0"],
 	"license_link": "https://github.com/SEL-Columbia/formhub/blob/master/LICENSE",
 	"website": "https://github.com/SEL-Columbia/formhub",
 	"SDGs": [3,4],

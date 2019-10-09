@@ -2,7 +2,7 @@
 	"name": "Global Digital Library",
 	"initialism": "GDL",
 	"description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
-	"license": "CC BY, CC BY-SA",
+	"license": ["CC-BY-3.0", "CC-BY-SA-3.0"],
 	"license_link": "https://home.digitallibrary.io/cc/",
 	"website": "https://home.digitallibrary.io/",
 	"SDGs": [4],

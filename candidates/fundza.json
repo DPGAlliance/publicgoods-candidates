@@ -1,7 +1,7 @@
 {
 	"name": "Fundza Novels",
 	"description": "Mobile novel, plays and poems for teenagers from South Africa",
-	"license": "CC-BY-SA",
+	"license": ["CC-BY-SA-2.5"],
 	"license_link": "https://creativecommons.org/licenses/by-sa/2.5/za/",
 	"website": "https://live.fundza.mobi/specials/yoza-content-on-fundza/",
 	"SDGs": [4],

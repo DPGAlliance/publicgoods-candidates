@@ -1,7 +1,7 @@
 {
 	"name": "farmOS",
 	"description": "A web-based application for farm management, planning, and record keeping.",
-	"license": "GPLv2",
+	"license": ["GPL-2.0"],
 	"license_link": "https://github.com/farmOS/farmOS/blob/7.x-1.x/LICENSE.txt",
 	"website": "https://farmos.org/",
 	"SDGs": [2,9],
