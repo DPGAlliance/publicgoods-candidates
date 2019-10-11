@@ -1,0 +1,14 @@
+{
+	"name": "Oppia",
+	"description": "Tool for collaboratively building interactive lessons.",
+	"license": ["Apache-2.0"],
+	"license_link": "https://github.com/oppia/oppia/blob/develop/LICENSE",
+	"website": "https://www.oppia.org/",
+	"SDGs": [4],
+	"type": ["software"],
+	"repo_org": "https://github.com/oppia",
+	"repo_main": "https://github.com/oppia/oppia",
+	"repo_others": [
+		"https://github.com/oppia/oppia-android"
+	]
+}

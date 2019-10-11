@@ -1,0 +1,12 @@
+{
+	"name": "healthsites.io",
+	"description": "Building an open data commons of health facility data with OpenStreetMap.",
+	"license": ["ODbL-1.0", "BSD-3-Clause"],
+	"license_link": "https://github.com/healthsites/healthsites/blob/master/LICENSE-CODE.txt",
+	"website": "https://healthsites.io",
+	"SDGs": [3, 16, 17],
+	"type": ["software", "data"],
+	"repo_org": "https://github.com/healthsites",
+	"repo_main": "https://github.com/healthsites/healthsites",
+	"repo_others": []
+}

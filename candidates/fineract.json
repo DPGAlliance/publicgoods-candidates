@@ -1,0 +1,12 @@
+{
+	"name": "Apache Fineract",
+	"description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
+	"license": ["Apache-2.0"],
+	"license_link": "https://github.com/apache/fineract/blob/develop/LICENSE_SOURCE",
+	"website": "https://fineract.apache.org/",
+	"SDGs": [16, 17],
+	"type": ["software"],
+	"repo_org": "https://github.com/apache",
+	"repo_main": "https://github.com/apache/fineract",
+	"repo_others": []
+}

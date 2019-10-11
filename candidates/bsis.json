@@ -1,0 +1,16 @@
+{
+	"name": "Blood Safety Information System",
+	"initialism": "BSIS",
+	"description": "System to monitor blood inventory from collection to transfusion.",
+	"license": ["BSD-3-Clause"],
+	"license_link": "https://github.com/jembi/bsis/blob/develop/LICENSE",
+	"website": "https://www.jembi.org",
+	"SDGs": [3],
+	"type": ["software"],
+	"repo_org": "https://github.com/jembi",
+	"repo_main": "https://github.com/jembi/bsis",
+	"repo_others": [
+		"https://github.com/jembi/bsis-reports",
+		"https://github.com/jembi/bsis-frontend"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "PlanWise",
+	"description": "PlanWise helps planners and responders in low-resource settings see how they can serve as many people as they can, as cost-effectively as they can.",
+	"license": ["GPL-3.0"],
+	"license_link": "https://github.com/instedd/planwise/blob/master/LICENSE.md",
+	"website": "https://planwise.instedd.org/",
+	"SDGs": [16, 17],
+	"type": ["software"],
+	"repo_org": "https://github.com/instedd/",
+	"repo_main": "https://github.com/instedd/planwise",
+	"repo_others": []
+}

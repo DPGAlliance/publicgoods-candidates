@@ -1,0 +1,14 @@
+{
+	"name": "Ushahidi",
+	"description": "An open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email.",
+	"license": ["AGPL-3.0"],
+	"license_link": "https://github.com/ushahidi/platform/blob/develop/LICENSE-AGPL",
+	"website": "https://www.ushahidi.com",
+	"SDGs": [16, 17],
+	"type": ["software"],
+	"repo_org": "https://github.com/ushahidi",
+	"repo_main": "https://github.com/ushahidi/platform",
+	"repo_others": [
+		"https://github.com/ushahidi/platform-client"
+	]
+}
