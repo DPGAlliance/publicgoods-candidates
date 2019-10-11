@@ -10,6 +10,6 @@
 	"repo_main": "https://github.com/logistimo/logistimo-web-service",
 	"repo_others": [
 		"https://github.com/logistimo/callisto-service",
-		"https://github.com/logistimo/asset-monitoring-service",
+		"https://github.com/logistimo/asset-monitoring-service"
 	]
 }
