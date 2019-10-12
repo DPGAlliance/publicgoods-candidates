@@ -2,7 +2,7 @@
 	"name": "Resource Map",
 	"description": "A free, open-source tool that helps you make better decisions by giving you better insight into the location and distribution of your resources.",
 	"license": ["GPL-3.0"],
-	"license_link": "https://github.com/instedd/verboice/blob/master/LICENSE",
+	"license_link": "https://github.com/instedd/resourcemap/blob/master/LICENSE",
 	"website": "http://resourcemap.instedd.org/",
 	"SDGs": [16, 17],
 	"type": ["software"],
