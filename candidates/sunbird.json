@@ -1,0 +1,22 @@
+{
+	"name": "Sunbird",
+	"description": "Sunbird is a searchable, discoverable repository of digital resources conceived as building blocks for education that can be repurposed to suit specific use cases.",
+	"license": ["MIT"],
+	"license_link": "https://github.com/project-sunbird/sunbird-data-pipeline/blob/master/LICENSE",
+	"website": "https://www.sunbird.org/",
+	"SDGs": [3, 16, 17],
+	"type": ["software"],
+	"repo_org": "https://github.com/project-sunbird",
+	"repo_main": "https://github.com/project-sunbird/sunbird-data-pipeline",
+	"repo_others": [
+		"https://github.com/project-sunbird/sunbird-lms-mw",
+		"https://github.com/project-sunbird/sunbird-devops",
+		"https://github.com/project-sunbird/sunbird-analytics",
+		"https://github.com/project-sunbird/sunbird-content-plugins",
+		"https://github.com/project-sunbird/sunbird-utils",
+		"https://github.com/project-sunbird/sunbird-learning-platform",
+		"https://github.com/project-sunbird/sunbird-course-service",
+		"https://github.com/project-sunbird/sunbird-content-editor"
+	]
+}
+
