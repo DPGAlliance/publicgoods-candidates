@@ -1,6 +1,5 @@
 {
 	"name": "DataSF",
-	"initialism": "MOSIP",
 	"description": "The official data portal to search hundreds of datasets from the City and County of San Francisco.",
 	"license": ["PDDL-1.0"],
 	"license_link": "http://www.opendatacommons.org/licenses/pddl/1.0/",
