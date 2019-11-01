@@ -1,0 +1,11 @@
+{
+	"name": "Synthea",
+	"description": "Synthea is an open-source, synthetic patient generator that models the medical history of synthetic patients. Our mission is to provide high-quality, synthetic, realistic but not real, patient data and associated health records covering every aspect of healthcare.",
+	"license": ["Apache-2.0"],
+	"license_link": "https://github.com/synthetichealth/synthea/blob/master/LICENSE",
+	"website": "https://synthetichealth.github.io/synthea/",
+	"SDGs": [3],
+	"type": ["software", "data"],
+	"repo_org": "https://github.com/synthetichealth",
+	"repo_main": "https://github.com/synthetichealth/synthea"
+}
