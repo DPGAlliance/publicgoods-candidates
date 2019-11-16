@@ -1,0 +1,10 @@
+{
+        "name": "GNU Health",
+        "initialism": "GH",
+        "description": "GNU Health is a social project that uses Free/Libre technology to deliver Freedom and Equity in healthcare and tackle the socioeconomic determinants of health and disease. It provides a Health, Hospital and Laboratory Information System for governments, practitioners and research institutions",
+        "license": ["GPL-3.0"],
+        "license_link": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+        "website": "https://www.gnuhealth.org",
+        "SDGs": [3,10,16],
+        "type": ["software", "data"]
+}
