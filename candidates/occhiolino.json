@@ -1,0 +1,9 @@
+{
+        "name": "Occhiolino",
+        "description": "GNU LIMS, also known as Occhiolino, is a modern Laboratory Information Management System for the healthcare and biomedical sectors, that has emerged as a GNU Health sub-project.",
+        "license": ["GPL-3.0"],
+        "license_link": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+        "website": "https://www.gnuhealth.org",
+        "SDGs": [3],
+        "type": ["software"]
+}
