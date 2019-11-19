@@ -1,0 +1,9 @@
+{
+        "name": "Thalamus",
+        "description": "The Thalamus project provides a RESTful API hub to all the GNU Health Federation nodes, providing a message server and an authentication server. Thalamus is part of the GNU Health project, but it is a self contained, independent server that can be used in different health related scenarios.",
+        "license": ["GPL-3.0"],
+        "license_link": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+        "website": "https://www.gnuhealth.org",
+        "SDGs": [3,10,16],
+        "type": ["software"]
+}
