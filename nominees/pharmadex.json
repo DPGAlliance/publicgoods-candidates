@@ -1,12 +1,21 @@
 {
-	"name": "Pharmadex",
-	"description": "Pharmadex is a web-based tool that helps streamline and track medicines registration for a national drug regulatory authority.",
-	"license": ["GPL-3.0"],
-	"license_link": "https://github.com/MSH/Pharmadex/blob/devel/LICENSE",
-	"website": "https://github.com/MSH/Pharmadex",
-	"SDGs": [16, 17],
-	"type": ["software"],
-	"repo_org": "https://github.com/MSH",
-	"repo_main": "https://github.com/MSH/Pharmadex",
-	"repo_others": [ ]
+    "name": "Pharmadex",
+    "description": "Pharmadex is a web-based tool that helps streamline and track medicines registration for a national drug regulatory authority.",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://github.com/MSH/Pharmadex/blob/devel/LICENSE"
+        }
+    ],
+    "website": "https://github.com/MSH/Pharmadex",
+    "SDGs": [
+        16,
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/MSH",
+    "repo_main": "https://github.com/MSH/Pharmadex",
+    "repo_others": []
 }

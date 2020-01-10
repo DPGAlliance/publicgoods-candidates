@@ -1,15 +1,24 @@
 {
-	"name": "Logistimo",
-	"description": "Open source software for supply chain and logistics management.",
-	"license": ["AGPL-3.0"],
-	"license_link": "https://github.com/logistimo/logistimo-web-service/blob/master/LICENSE",
-	"website": "https://www.logistimo.com/",
-	"SDGs": [8, 9],
-	"type": ["software"],
-	"repo_org": "https://github.com/logistimo/",
-	"repo_main": "https://github.com/logistimo/logistimo-web-service",
-	"repo_others": [
-		"https://github.com/logistimo/callisto-service",
-		"https://github.com/logistimo/asset-monitoring-service"
-	]
+    "name": "Logistimo",
+    "description": "Open source software for supply chain and logistics management.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "https://github.com/logistimo/logistimo-web-service/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://www.logistimo.com/",
+    "SDGs": [
+        8,
+        9
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/logistimo/",
+    "repo_main": "https://github.com/logistimo/logistimo-web-service",
+    "repo_others": [
+        "https://github.com/logistimo/callisto-service",
+        "https://github.com/logistimo/asset-monitoring-service"
+    ]
 }

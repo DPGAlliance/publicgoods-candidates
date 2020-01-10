@@ -1,10 +1,18 @@
 {
-	"name": "Bahmni",
-	"description": "Open Source Hospital Management System built on top of OpenMRS, OpenELIS and OpenERP.",
-	"license": ["AGPL-3.0"],
-	"license_link": "https://www.bahmni.org/faq",
-	"website": "https://www.bahmni.org/",
-	"SDGs": [3],
-	"type": ["software"],
-	"repo_main": "https://github.com/Bahmni/bahmni-core"
+    "name": "Bahmni",
+    "description": "Open Source Hospital Management System built on top of OpenMRS, OpenELIS and OpenERP.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "https://www.bahmni.org/faq"
+        }
+    ],
+    "website": "https://www.bahmni.org/",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/Bahmni/bahmni-core"
 }

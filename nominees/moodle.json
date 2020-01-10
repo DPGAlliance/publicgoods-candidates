@@ -1,9 +1,21 @@
 {
 	"name": "Moodle",
 	"description": "Learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments.",
-	"license": ["GPL-2.0", "GPL-3.0"],
-	"license_link": "https://docs.moodle.org/dev/License",
+	"license": [
+		{
+			"spdx": "GPL-2.0",
+			"link": "https://docs.moodle.org/dev/License"
+		},
+		{
+			"spdx": "GPL-3.0",
+			"link": "https://docs.moodle.org/dev/License"
+		}
+	],
 	"website": "https://moodle.org",
-	"SDGs": [4],
-	"type": ["software"]
+	"SDGs": [
+		4
+	],
+	"type": [
+		"software"
+	]
 }

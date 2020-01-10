@@ -1,10 +1,18 @@
 {
-        "name": "Open Smart Register Program",
-        "initialism": "OpenSRP",
-        "description": "Open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.",
-        "license": ["Apache-2.0"],
-        "license_link": "https://www.apache.org/licenses/LICENSE-2.0",
-        "website": "http://smartregister.org/",
-        "SDGs": [3],
-        "type": ["software"]
+    "name": "Open Smart Register Program",
+    "initialism": "OpenSRP",
+    "description": "Open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.",
+    "license": [
+        {
+            "spdx": "Apache-2.0",
+            "link": "https://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "website": "http://smartregister.org/",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ]
 }

@@ -1,12 +1,21 @@
 {
-	"name": "TenFour",
-	"description": "An emergency check-in application for teams that unites multiple communication channels: SMS, email, desktop, mobile and chat.",
-	"license": ["MIT"],
-	"license_link": "https://github.com/ushahidi/tenfour/blob/develop/LICENSE.txt",
-	"website": "https://www.tenfour.org/",
-	"SDGs": [16, 17],
-	"type": ["software"],
-	"repo_org": "https://github.com/ushahidi",
-	"repo_main": "https://github.com/ushahidi/tenfour",
-	"repo_others": [ ]
+    "name": "TenFour",
+    "description": "An emergency check-in application for teams that unites multiple communication channels: SMS, email, desktop, mobile and chat.",
+    "license": [
+        {
+            "spdx": "MIT",
+            "link": "https://github.com/ushahidi/tenfour/blob/develop/LICENSE.txt"
+        }
+    ],
+    "website": "https://www.tenfour.org/",
+    "SDGs": [
+        16,
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/ushahidi",
+    "repo_main": "https://github.com/ushahidi/tenfour",
+    "repo_others": []
 }

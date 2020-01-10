@@ -1,9 +1,17 @@
 {
-	"name": "ACCEDA",
-	"description": "Citizens' Access to Government Records (ACCEDA by its acronym in Spanish) is a modular platform developed by the Spanish government that provides a digital government office and digital tools for processing electronic forms and associated records.",
-	"license": ["EUPL-1.1"],
-	"license_link": "https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12",
-	"website": "https://administracionelectronica.gob.es/ctt/acceda",
-	"SDGs": [16],
-	"type": ["software"]
+    "name": "ACCEDA",
+    "description": "Citizens' Access to Government Records (ACCEDA by its acronym in Spanish) is a modular platform developed by the Spanish government that provides a digital government office and digital tools for processing electronic forms and associated records.",
+    "license": [
+        {
+            "spdx": "EUPL-1.1",
+            "link": "https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12"
+        }
+    ],
+    "website": "https://administracionelectronica.gob.es/ctt/acceda",
+    "SDGs": [
+        16
+    ],
+    "type": [
+        "software"
+    ]
 }

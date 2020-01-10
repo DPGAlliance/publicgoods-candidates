@@ -1,12 +1,20 @@
 {
-	"name": "LibreHealth",
-	"description": "LibreHealth EHR is a free and open-source electronic health records and medical practice management application.",
-	"license": ["MPL-2.0"],
-	"license_link": "https://github.com/LibreHealthIO/lh-ehr/blob/master/gpl_license.txt",
-	"website": "https://librehealth.io",
-	"SDGs": [3],
-	"type": ["software"],
-	"repo_org": "https://github.com/LibreHealthIO",
-	"repo_main": "https://github.com/LibreHealthIO/lh-ehr",
-	"repo_others": []
+    "name": "LibreHealth",
+    "description": "LibreHealth EHR is a free and open-source electronic health records and medical practice management application.",
+    "license": [
+        {
+            "spdx": "MPL-2.0",
+            "link": "https://github.com/LibreHealthIO/lh-ehr/blob/master/gpl_license.txt"
+        }
+    ],
+    "website": "https://librehealth.io",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/LibreHealthIO",
+    "repo_main": "https://github.com/LibreHealthIO/lh-ehr",
+    "repo_others": []
 }

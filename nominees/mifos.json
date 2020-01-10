@@ -1,15 +1,24 @@
 {
-	"name": "Mifos",
-	"description": "Mifos X is an extended platform for delivering the complete range of financial services needed for an effective financial inclusion solution.",
-	"license": ["MPL-2.0"],
-	"license_link": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt",
-	"website": "https://mifos.org/",
-	"SDGs": [10, 11],
-	"type": ["software"],
-	"repo_org": "https://github.com/openMF",
-	"repo_main": "https://github.com/openMF/community-app/",
-	"repo_others": [
-		"https://github.com/openMF/web-app",
-		"https://github.com/openMF/mifos-mobile"
-	]
+    "name": "Mifos",
+    "description": "Mifos X is an extended platform for delivering the complete range of financial services needed for an effective financial inclusion solution.",
+    "license": [
+        {
+            "spdx": "MPL-2.0",
+            "link": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
+        }
+    ],
+    "website": "https://mifos.org/",
+    "SDGs": [
+        10,
+        11
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/openMF",
+    "repo_main": "https://github.com/openMF/community-app/",
+    "repo_others": [
+        "https://github.com/openMF/web-app",
+        "https://github.com/openMF/mifos-mobile"
+    ]
 }

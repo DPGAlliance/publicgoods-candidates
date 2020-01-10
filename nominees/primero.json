@@ -1,10 +1,19 @@
 {
-	"name": "Primero",
-	"description": "An easy-to-use information management platform developed by the humanitarian protection community, now being used widely by social services workforce, humanitarian, and development workers.",
-	"license": ["AGPL-3.0"],
-	"license_link": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE",
-	"website": "https://www.primero.org/",
-	"SDGs": [10,16],
-	"type": ["software"],
-	"repo_main": "https://github.com/primeroIMS/primero"
+    "name": "Primero",
+    "description": "An easy-to-use information management platform developed by the humanitarian protection community, now being used widely by social services workforce, humanitarian, and development workers.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
+        }
+    ],
+    "website": "https://www.primero.org/",
+    "SDGs": [
+        10,
+        16
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/primeroIMS/primero"
 }

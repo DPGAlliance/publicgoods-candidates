@@ -1,9 +1,27 @@
 {
 	"name": "Open Food Facts",
 	"description": "Open Food Facts gathers information and data on food products from around the world.",
-	"license": ["ODbL-1.0", "CC-BY-SA-3.0", "AGPL-3.0"],
-	"license_link": "https://world.openfoodfacts.org/data",
+	"license": [
+		{
+			"spdx": "ODbL-1.0",
+			"link": "https://world.openfoodfacts.org/data"
+		},
+		{
+			"spdx": "CC-BY-SA-3.0",
+			"link": "https://world.openfoodfacts.org/data"
+		},
+		{
+			"spdx": "AGPL-3.0",
+			"link": "https://world.openfoodfacts.org/data"
+		}
+	],
 	"website": "http://openag.io/",
-	"SDGs": [2,9],
-	"type": ["software", "data"]
+	"SDGs": [
+		2,
+		9
+	],
+	"type": [
+		"software",
+		"data"
+	]
 }

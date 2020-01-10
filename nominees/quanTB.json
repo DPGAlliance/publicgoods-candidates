@@ -1,12 +1,22 @@
 {
-	"name": "QuanTB",
-	"description": "An electronic quantification and early warning system designed to improve procurement processes, ordering, and supply planning for TB treatment.",
-	"license": ["GPL-3.0"],
-	"license_link": "https://github.com/MSH/QuanTB/blob/devel/LICENSE",
-	"website": "https://github.com/MSH/QuanTB",
-	"SDGs": [3, 16, 17],
-	"type": ["software"],
-	"repo_org": "https://github.com/MSH",
-	"repo_main": "https://github.com/MSH/QuanTB",
-	"repo_others": [ ]
+    "name": "QuanTB",
+    "description": "An electronic quantification and early warning system designed to improve procurement processes, ordering, and supply planning for TB treatment.",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://github.com/MSH/QuanTB/blob/devel/LICENSE"
+        }
+    ],
+    "website": "https://github.com/MSH/QuanTB",
+    "SDGs": [
+        3,
+        16,
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/MSH",
+    "repo_main": "https://github.com/MSH/QuanTB",
+    "repo_others": []
 }

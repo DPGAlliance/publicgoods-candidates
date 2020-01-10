@@ -1,9 +1,22 @@
 {
 	"name": "Development Data Library",
 	"description": "The Development Data Library (DDL) is USAID’s public repository of Agency-funded, machine readable data. The DDL is part of USAID’s commitment to evidence-based programming and rigorous evaluation.",
-	"license": ["CC0-1.0","CC-BY-ND-4.0"],
-	"license_link": "https://data.usaid.gov/stories/s/225w-59pp",
+	"license": [
+		{
+			"spdx": "CC0-1.0",
+			"link": "https://data.usaid.gov/stories/s/225w-59pp"
+		},
+		{
+			"spdx": "CC-BY-ND-4.0",
+			"link": "https://data.usaid.gov/stories/s/225w-59pp"
+		}
+	],
 	"website": "https://data.usaid.gov/",
-	"SDGs": [16,17],
-	"type": ["data"]
+	"SDGs": [
+		16,
+		17
+	],
+	"type": [
+		"data"
+	]
 }

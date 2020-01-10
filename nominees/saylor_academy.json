@@ -1,9 +1,17 @@
 {
-        "name": "Saylor Academy",
-        "description": "Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn. We offer nearly 100 full-length courses at the college and professional levels, each of which is available right now -- at your pace, on your schedule, and free of cost.",
-        "license": ["CC-BY-3.0"],
-        "license_link": "https://creativecommons.org/licenses/by/3.0/",
-        "website": "https://www.saylor.org/",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "Saylor Academy",
+    "description": "Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn. We offer nearly 100 full-length courses at the college and professional levels, each of which is available right now -- at your pace, on your schedule, and free of cost.",
+    "license": [
+        {
+            "spdx": "CC-BY-3.0",
+            "link": "https://creativecommons.org/licenses/by/3.0/"
+        }
+    ],
+    "website": "https://www.saylor.org/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

@@ -1,9 +1,24 @@
 {
 	"name": "VIPS",
 	"description": "Open platform for automatic pest prediction created by NIBIO, Norway",
-	"license": ["AGPL-3.0", "NLOD-1.0"],
-	"license_link": "https://nibio.no/licenses",
+	"license": [
+		{
+			"spdx": "AGPL-3.0",
+			"link": "https://nibio.no/licenses"
+		},
+		{
+			"spdx": "NLOD-1.0",
+			"link": "https://nibio.no/licenses"
+		}
+	],
 	"website": "https://nibio.no/vips",
-	"SDGs": [2,13,15],
-	"type": ["software", "data"]
+	"SDGs": [
+		2,
+		13,
+		15
+	],
+	"type": [
+		"software",
+		"data"
+	]
 }

@@ -1,16 +1,25 @@
 {
-	"name": "Open Community Health System",
-	"initialism": "OpenCHS",
-	"description": "OpenCHS is a platform that supports field workers, when they provide services to their clients in a field or when they do data collection.",
-	"license": ["AGPL-3.0"],
-	"license_link": "https://github.com/OpenCHS/openchs-server/blob/master/LICENSE",
-	"website": "http://www.openchs.org/",
-	"SDGs": [3, 16],
-	"type": ["software"],
-	"repo_org": "https://github.com/OpenCHS/",
-	"repo_main": "https://github.com/OpenCHS/openchs-server",
-	"repo_others": [
-		"https://github.com/OpenCHS/openchs-webapp",
-		"https://github.com/OpenCHS/openchs-client"
-	]
+    "name": "Open Community Health System",
+    "initialism": "OpenCHS",
+    "description": "OpenCHS is a platform that supports field workers, when they provide services to their clients in a field or when they do data collection.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "https://github.com/OpenCHS/openchs-server/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://www.openchs.org/",
+    "SDGs": [
+        3,
+        16
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/OpenCHS/",
+    "repo_main": "https://github.com/OpenCHS/openchs-server",
+    "repo_others": [
+        "https://github.com/OpenCHS/openchs-webapp",
+        "https://github.com/OpenCHS/openchs-client"
+    ]
 }

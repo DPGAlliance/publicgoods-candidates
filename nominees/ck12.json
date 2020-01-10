@@ -1,9 +1,17 @@
 {
-        "name": "CK-12",
-        "description": "CK-12 provides free and fully customizable K-12 open educational resources aligned to state curriculum standards and tailored to meet student and teacher needs. The foundation's tools are used by 38,000 schools in the US, and additional international schools.",
-        "license": ["CC-BY-NC-3.0"],
-        "license_link": "https://ck12support.zendesk.com/hc/en-us/articles/200344745-Who-Owns-the-FlexBook-Textbook-I-Create-What-Are-My-Rights-as-a-Creator-",
-        "website": "https://www.ck12info.org",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "CK-12",
+    "description": "CK-12 provides free and fully customizable K-12 open educational resources aligned to state curriculum standards and tailored to meet student and teacher needs. The foundation's tools are used by 38,000 schools in the US, and additional international schools.",
+    "license": [
+        {
+            "spdx": "CC-BY-NC-3.0",
+            "link": "https://ck12support.zendesk.com/hc/en-us/articles/200344745-Who-Owns-the-FlexBook-Textbook-I-Create-What-Are-My-Rights-as-a-Creator-"
+        }
+    ],
+    "website": "https://www.ck12info.org",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

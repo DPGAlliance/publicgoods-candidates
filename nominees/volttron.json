@@ -1,16 +1,24 @@
 {
-	"name": "Volttron",
-	"description": "An open source platform for distributed sensing and control. The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.",
-	"license": ["MPL-2.0"],
-	"license_link": "https://github.com/VOLTTRON/volttron/blob/master/LICENSE.md",
-	"website": "https://volttron.org",
-	"SDGs": [9],
-	"type": ["software"],
-	"repo_org": "https://github.com/VOLTTRON",
-	"repo_main": "https://github.com/VOLTTRON/volttron",
-	"repo_others": [
-		"https://github.com/VOLTTRON/volttron-docker",
-		"https://github.com/VOLTTRON/volttron-GS",
-		"https://github.com/VOLTTRON/volttron-applications"
-	]
+    "name": "Volttron",
+    "description": "An open source platform for distributed sensing and control. The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.",
+    "license": [
+        {
+            "spdx": "MPL-2.0",
+            "link": "https://github.com/VOLTTRON/volttron/blob/master/LICENSE.md"
+        }
+    ],
+    "website": "https://volttron.org",
+    "SDGs": [
+        9
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/VOLTTRON",
+    "repo_main": "https://github.com/VOLTTRON/volttron",
+    "repo_others": [
+        "https://github.com/VOLTTRON/volttron-docker",
+        "https://github.com/VOLTTRON/volttron-GS",
+        "https://github.com/VOLTTRON/volttron-applications"
+    ]
 }

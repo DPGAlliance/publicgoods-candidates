@@ -1,9 +1,17 @@
 {
-        "name": "British Columbia Open Textbook Collection",
-        "description": "A collection of open textbooks that can help improve the learning experience for students while mitigating the financial barriers keeping them from achieving their academic goals.",
-        "license": ["CC-BY-4.0"],
-        "license_link": "https://creativecommons.org/licenses/by/4.0/",
-        "website": "https://open.bccampus.ca/",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "British Columbia Open Textbook Collection",
+    "description": "A collection of open textbooks that can help improve the learning experience for students while mitigating the financial barriers keeping them from achieving their academic goals.",
+    "license": [
+        {
+            "spdx": "CC-BY-4.0",
+            "link": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "website": "https://open.bccampus.ca/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

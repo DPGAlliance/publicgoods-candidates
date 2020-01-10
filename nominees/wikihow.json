@@ -1,9 +1,22 @@
 {
-        "name": "wikiHow",
-        "description": "An online wiki-style community consisting of an extensive database of how-to guides.",
-        "license": ["GPL-2.0", "CC-BY-NC-SA-3.0"],
-        "license_link": "https://www.wikihow.com/wikiHow:Creative-Commons",
-        "website": "https://www.wikihow.com",
-        "SDGs": [4],
-        "type": ["software", "data"]
+    "name": "wikiHow",
+    "description": "An online wiki-style community consisting of an extensive database of how-to guides.",
+    "license": [
+    	{
+    		"spdx": "GPL-2.0",
+    		"link": "https://www.wikihow.com/wikiHow:Powered-and-Inspired-by-MediaWiki"
+    	},
+    	{
+    		"spdx":	"CC-BY-NC-SA-3.0",
+    		"link": "https://www.wikihow.com/wikiHow:Creative-Commons"
+    	}
+    ],
+    "website": "https://www.wikihow.com",
+    "SDGs": [
+    	4
+    ],
+    "type": [
+    	"software",
+    	"data"
+    ]
 }

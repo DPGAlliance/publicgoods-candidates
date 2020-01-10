@@ -1,9 +1,17 @@
 {
-        "name": "TED",
-        "description": "Platform for spreading ideas, usually in the form of short, powerful talks",
-        "license": ["CC-BY-NC-ND-4.0"],
-        "license_link": "https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy",
-        "website": "https://www.ted.com/",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "TED",
+    "description": "Platform for spreading ideas, usually in the form of short, powerful talks",
+    "license": [
+        {
+            "spdx": "CC-BY-NC-ND-4.0",
+            "link": "https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy"
+        }
+    ],
+    "website": "https://www.ted.com/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

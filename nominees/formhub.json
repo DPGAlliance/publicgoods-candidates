@@ -1,10 +1,19 @@
 {
-	"name": "formhub",
-	"description": "Mobile data collection made easy. Unmaintained -> see OnaData.",
-	"license": ["GPL-2.0"],
-	"license_link": "https://github.com/SEL-Columbia/formhub/blob/master/LICENSE",
-	"website": "https://github.com/SEL-Columbia/formhub",
-	"SDGs": [3,4],
-	"type": ["software"],
-	"repo_main": "https://github.com/SEL-Columbia/formhub"
+    "name": "formhub",
+    "description": "Mobile data collection made easy. Unmaintained -> see OnaData.",
+    "license": [
+        {
+            "spdx": "GPL-2.0",
+            "link": "https://github.com/SEL-Columbia/formhub/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://github.com/SEL-Columbia/formhub",
+    "SDGs": [
+        3,
+        4
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/SEL-Columbia/formhub"
 }

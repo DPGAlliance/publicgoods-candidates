@@ -1,12 +1,21 @@
 {
-	"name": "Standard Energy Efficiency Data Platform",
-	"initialism": "SEED",
-	"description": "The SEED Platform is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.",
-	"license": ["BSD-4-Clause"],
-	"license_link": "https://github.com/SEED-platform/seed/blob/develop/LICENSE",
-	"website": "https://www.energy.gov/eere/buildings/standard-energy-efficiency-data-seed-platform",
-	"SDGs": [7, 11],
-	"type": ["software"],
-	"repo_org": "https://github.com/SEED-platform",
-	"repo_main": "https://github.com/SEED-platform/seed"
+    "name": "Standard Energy Efficiency Data Platform",
+    "initialism": "SEED",
+    "description": "The SEED Platform is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.",
+    "license": [
+        {
+            "spdx": "BSD-4-Clause",
+            "link": "https://github.com/SEED-platform/seed/blob/develop/LICENSE"
+        }
+    ],
+    "website": "https://www.energy.gov/eere/buildings/standard-energy-efficiency-data-seed-platform",
+    "SDGs": [
+        7,
+        11
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/SEED-platform",
+    "repo_main": "https://github.com/SEED-platform/seed"
 }

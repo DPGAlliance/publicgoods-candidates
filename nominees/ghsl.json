@@ -1,10 +1,19 @@
 {
-	"name": "Global Human Settlement Layer",
-	"initialism": "GHSL",
-	"description": "A new open and free tool (datasets) for assessing the human presence on the planet.",
-	"license": ["CC-BY-4.0"],
-	"license_link": "https://ec.europa.eu/info/legal-notice_en",
-	"website": "https://ghsl.jrc.ec.europa.eu/",
-	"SDGs": [16, 17],
-	"type": ["data"]
+    "name": "Global Human Settlement Layer",
+    "initialism": "GHSL",
+    "description": "A new open and free tool (datasets) for assessing the human presence on the planet.",
+    "license": [
+        {
+            "spdx": "CC-BY-4.0",
+            "link": "https://ec.europa.eu/info/legal-notice_en"
+        }
+    ],
+    "website": "https://ghsl.jrc.ec.europa.eu/",
+    "SDGs": [
+        16,
+        17
+    ],
+    "type": [
+        "data"
+    ]
 }

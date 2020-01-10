@@ -1,9 +1,17 @@
 {
-	"name": "African Storybook",
-	"description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
-	"license": ["CC-BY-SA-4.0"],
-	"license_link": "https://creativecommons.org/licenses/by-sa/4.0/",
-	"website": "https://www.africanstorybook.org/",
-	"SDGs": [4],
-	"type": ["data"]
+    "name": "African Storybook",
+    "description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
+    "license": [
+        {
+            "spdx": "CC-BY-SA-4.0",
+            "link": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+    ],
+    "website": "https://www.africanstorybook.org/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

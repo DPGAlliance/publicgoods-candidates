@@ -1,11 +1,23 @@
 {
-	"name": "Global Digital Library",
-	"initialism": "GDL",
-	"description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
-	"license": ["CC-BY-3.0", "CC-BY-SA-3.0"],
-	"license_link": "https://home.digitallibrary.io/cc/",
-	"website": "https://home.digitallibrary.io/",
-	"SDGs": [4],
-	"type": ["software", "data"],
-	"repo_main": "https://github.com/GlobalDigitalLibraryio/book-api"
+    "name": "Global Digital Library",
+    "initialism": "GDL",
+    "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
+    "license": [
+        {
+            "spdx": "CC-BY-3.0",
+            "link": "https://home.digitallibrary.io/cc/"
+        },
+        {   "spdx": "CC-BY-SA-3.0",
+            "link": "https://home.digitallibrary.io/cc/"
+        }
+    ],
+    "website": "https://home.digitallibrary.io/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "software",
+        "data"
+    ],
+    "repo_main": "https://github.com/GlobalDigitalLibraryio/book-api"
 }

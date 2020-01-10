@@ -1,9 +1,17 @@
 {
-        "name": "Code.org",
-        "description": "Platform expanding access to computer science in schools and increasing participation by women and underrepresented minorities.",
-        "license": ["CC-BY-NC-SA-4.0"],
-        "license_link": "https://code.org/tos",
-        "website": "https://code.org",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "Code.org",
+    "description": "Platform expanding access to computer science in schools and increasing participation by women and underrepresented minorities.",
+    "license": [
+        {
+            "spdx": "CC-BY-NC-SA-4.0",
+            "link": "https://code.org/tos"
+        }
+    ],
+    "website": "https://code.org",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

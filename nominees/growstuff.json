@@ -1,10 +1,20 @@
 {
-	"name": "GrowStuff",
-	"description": "Open data project for small-scale food growers.",
-	"license": ["AGPL-3.0"],
-	"license_link": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt",
-	"website": "https://www.growstuff.org/",
-	"SDGs": [2,9],
-	"type": ["software", "data"],
-	"repo_main": "https://github.com/Growstuff/growstuff"
+    "name": "GrowStuff",
+    "description": "Open data project for small-scale food growers.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt"
+        }
+    ],
+    "website": "https://www.growstuff.org/",
+    "SDGs": [
+        2,
+        9
+    ],
+    "type": [
+        "software",
+        "data"
+    ],
+    "repo_main": "https://github.com/Growstuff/growstuff"
 }

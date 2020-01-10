@@ -1,9 +1,17 @@
 {
-	"name": "iHRIS",
-	"description": "Open Source software that helps countries around the world track and manage their health workforce data to improve access to services.",
-	"license": ["GPL-3.0"],
-	"license_link": "https://www.ihris.org/2007/07/ihris-under-gplv3/",
-	"website": "https://www.ihris.org",
-	"SDGs": [3],
-	"type": ["software"]
+    "name": "iHRIS",
+    "description": "Open Source software that helps countries around the world track and manage their health workforce data to improve access to services.",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://www.ihris.org/2007/07/ihris-under-gplv3/"
+        }
+    ],
+    "website": "https://www.ihris.org",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ]
 }

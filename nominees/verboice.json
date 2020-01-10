@@ -1,12 +1,21 @@
 {
-	"name": "Verboice",
-	"description": "Open source toolkit for voice services; with special focus to the needs of medium- and low-income countries, scalable services, and interacting with vulnerable populations.",
-	"license": ["GPL-3.0"],
-	"license_link": "https://github.com/instedd/verboice/blob/master/LICENSE",
-	"website": "https://verboice.instedd.org/",
-	"SDGs": [16, 17],
-	"type": ["software"],
-	"repo_org": "https://github.com/instedd",
-	"repo_main": "https://github.com/instedd/verboice/",
-	"repo_others": []
+    "name": "Verboice",
+    "description": "Open source toolkit for voice services; with special focus to the needs of medium- and low-income countries, scalable services, and interacting with vulnerable populations.",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://github.com/instedd/verboice/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://verboice.instedd.org/",
+    "SDGs": [
+        16,
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/instedd",
+    "repo_main": "https://github.com/instedd/verboice/",
+    "repo_others": []
 }

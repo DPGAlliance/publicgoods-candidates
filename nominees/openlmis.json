@@ -1,12 +1,19 @@
 {
-        "name": "Open Logistics Management Information System",
-        "initialism": "OpenLMIS",
-        "description": "Cloud-based electronic logistics management information system (LMIS) purpose-built to manage health commodity distribution in low- and middle-income countries.",
-        "license": ["AGPL-3.0"],
-        "license_link": "http://openlmis.org/tools/license/",
-        "website": "http://openlmis.org",
-        "SDGs": [3, 9],
-        "type": ["software"]
+    "name": "Open Logistics Management Information System",
+    "initialism": "OpenLMIS",
+    "description": "Cloud-based electronic logistics management information system (LMIS) purpose-built to manage health commodity distribution in low- and middle-income countries.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "http://openlmis.org/tools/license/"
+        }
+    ],
+    "website": "http://openlmis.org",
+    "SDGs": [
+        3,
+        9
+    ],
+    "type": [
+        "software"
+    ]
 }
-
-

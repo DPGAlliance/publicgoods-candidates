@@ -1,15 +1,24 @@
 {
-	"name": "Humansis",
-	"description": "Humansis provides a more open, secure, functional and easy to use method of aid delivery, promoting transparency, and reducing opportunities for fraud and data theft.",
-	"license": ["MIT"],
-	"license_link": "https://github.com/humansis/front/blob/dev/LICENSE",
-	"website": "https://humansis.org/",
-	"SDGs": [16, 17],
-	"type": ["software"],
-	"repo_org": "https://github.com/humansis",
-	"repo_main": "https://github.com/humansis/front",
-	"repo_others": [
-		"https://github.com/humansis/api",
-		"https://github.com/humansis/vendor_app"
-	]
+    "name": "Humansis",
+    "description": "Humansis provides a more open, secure, functional and easy to use method of aid delivery, promoting transparency, and reducing opportunities for fraud and data theft.",
+    "license": [
+        {
+            "spdx": "MIT",
+            "link": "https://github.com/humansis/front/blob/dev/LICENSE"
+        }
+    ],
+    "website": "https://humansis.org/",
+    "SDGs": [
+        16,
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/humansis",
+    "repo_main": "https://github.com/humansis/front",
+    "repo_others": [
+        "https://github.com/humansis/api",
+        "https://github.com/humansis/vendor_app"
+    ]
 }

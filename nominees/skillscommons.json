@@ -1,9 +1,17 @@
 {
-        "name": "SkillsCommons",
-        "description": "Free and open digital library of Workforce Training Materials",
-        "license": ["CC-BY-4.0"],
-        "license_link": "https://creativecommons.org/licenses/by/4.0/",
-        "website": "https://www.skillscommons.org/",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "SkillsCommons",
+    "description": "Free and open digital library of Workforce Training Materials",
+    "license": [
+        {
+            "spdx": "CC-BY-4.0",
+            "link": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "website": "https://www.skillscommons.org/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }

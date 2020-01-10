@@ -1,11 +1,19 @@
 {
-	"name": "OpenEEmeter",
-	"description": "Using the OpenEEmeter, private companies, utilities, and regulators can consistently calculate changes in energy consumption for building efficiency projects and portfolios with confidence in the methods and replicability of results.",
-	"license": ["Apache-2.0"],
-	"license_link": "https://github.com/openeemeter/eemeter/blob/master/LICENSE",
-	"website": "http://eemeter.openee.io/",
-	"SDGs": [7],
-	"type": ["software"],
-	"repo_org": "https://github.com/openeemeter/eemeter",
-	"repo_main": "https://github.com/energy-market-methods/caltrack"
+    "name": "OpenEEmeter",
+    "description": "Using the OpenEEmeter, private companies, utilities, and regulators can consistently calculate changes in energy consumption for building efficiency projects and portfolios with confidence in the methods and replicability of results.",
+    "license": [
+        {
+            "spdx": "Apache-2.0",
+            "link": "https://github.com/openeemeter/eemeter/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://eemeter.openee.io/",
+    "SDGs": [
+        7
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/openeemeter/eemeter",
+    "repo_main": "https://github.com/energy-market-methods/caltrack"
 }

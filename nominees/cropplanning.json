@@ -1,10 +1,19 @@
 {
-	"name": "CropPlanning",
-	"description": "Crop Planning Software for small farmers and serious gardeners.",
-	"license": ["GPL-3.0"],
-	"license_link": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE",
-	"website": "https://github.com/claytonrcarter/cropplanning",
-	"SDGs": [2,12],
-	"type": ["software"],
-	"repo_main": "https://github.com/claytonrcarter/cropplanning"
+    "name": "CropPlanning",
+    "description": "Crop Planning Software for small farmers and serious gardeners.",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://github.com/claytonrcarter/cropplanning",
+    "SDGs": [
+        2,
+        12
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/claytonrcarter/cropplanning"
 }

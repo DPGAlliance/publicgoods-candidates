@@ -1,10 +1,19 @@
 {
-	"name": "OnaData",
-	"description": "Collect, Analyze and Share Data!",
-	"license": ["GPL-2.0"],
-	"license_link": "https://github.com/onaio/onadata/blob/master/LICENSE",
-	"website": "https://github.com/onaio/onadata",
-	"SDGs": [3,4],
-	"type": ["software"],
-	"repo_main": "https://github.com/onaio/onadata"
+    "name": "OnaData",
+    "description": "Collect, Analyze and Share Data!",
+    "license": [
+        {
+            "spdx": "GPL-2.0",
+            "link": "https://github.com/onaio/onadata/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://github.com/onaio/onadata",
+    "SDGs": [
+        3,
+        4
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/onaio/onadata"
 }

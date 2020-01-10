@@ -1,17 +1,27 @@
 {
-	"name": "CommCare",
-	"description": "Mobile data collection platform to improve the quality and efficiency of services in the most remote corners of the world.",
-	"license": ["BSD-3-Clause"],
-	"license_link": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE",
-	"website": "https://www.dimagi.com",
-	"SDGs": [3, 10, 16],
-	"type": ["software"],
-	"repo_org": "https://github.com/dimagi/",
-	"repo_main": "https://github.com/dimagi/commcare-hq",
-	"repo_others": [
-		"https://github.com/dimagi/commcare-cloud",
-		"https://github.com/dimagi/commcare-android",
-		"https://github.com/dimagi/commcare-core",
-		"https://github.com/dimagi/commcare-export"
-	]
+    "name": "CommCare",
+    "description": "Mobile data collection platform to improve the quality and efficiency of services in the most remote corners of the world.",
+    "license": [
+        {
+            "spdx": "BSD-3-Clause",
+            "link": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://www.dimagi.com",
+    "SDGs": [
+        3,
+        10,
+        16
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://github.com/dimagi/",
+    "repo_main": "https://github.com/dimagi/commcare-hq",
+    "repo_others": [
+        "https://github.com/dimagi/commcare-cloud",
+        "https://github.com/dimagi/commcare-android",
+        "https://github.com/dimagi/commcare-core",
+        "https://github.com/dimagi/commcare-export"
+    ]
 }

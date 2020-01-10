@@ -1,9 +1,17 @@
 {
-        "name": "Khan Academy",
-        "description": "Expert-created content and resources for every course and level, always free.",
-        "license": ["CC-BY-NC-SA-3.0"],
-        "license_link": "https://www.khanacademy.org/about/tos#5",
-        "website": "https://www.khanacademy.org",
-        "SDGs": [4],
-        "type": ["data"]
+    "name": "Khan Academy",
+    "description": "Expert-created content and resources for every course and level, always free.",
+    "license": [
+        {
+            "spdx": "CC-BY-NC-SA-3.0",
+            "link": "https://www.khanacademy.org/about/tos#5"
+        }
+    ],
+    "website": "https://www.khanacademy.org",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ]
 }
