@@ -31,5 +31,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed language from `candidates` to `nominees` to match the recent changes in [digitalpublicgoods.net](https://digitalpublicgoods.net)
 - Renamed folder from `candidates/` to `nominees/`, as well as `candidate-schema.json` to `nominee-schema.json`
 
+[0.2.1]: https://github.com/unicef/publicgoods-candidates/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/unicef/publicgoods-candidates/releases/tag/v0.1.0
