@@ -4,7 +4,7 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://opensource.org/licenses/AGPL-3.0"
+            "link": "https://github.com/afinidata2019/afinidata-content-manager/blob/master/LICENSE"
         }
     ],
     "website": "http://afinidata.com/en/home/",
@@ -15,7 +15,7 @@
         "software"
     ],
     "repo_main": "https://github.com/afinidata2019/afinidata-content-manager",
-    "other_repos": [
+    "repo_others": [
         "https://github.com/afinidata2019/afinidata_core"
     ],
     "supported_by": [
