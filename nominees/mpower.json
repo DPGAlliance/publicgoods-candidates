@@ -1,0 +1,23 @@
+{
+    "name": "mPower",
+    "description": "Digital registry to improve data collection and effeciency for frontline healthcare workers",
+    "license": [
+        {
+            "spdx": "Apache-2.0",
+            "link": "https://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "website": "http://www.mpower-social.com",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/OpenSRP/",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

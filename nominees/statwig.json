@@ -1,0 +1,23 @@
+{
+    "name": "Statwig",
+    "description": "Solution to track vaccine supply chain in a tranparent way using blockchain to reduce wastage",
+    "license": [
+        {
+            "spdx": "MIT",
+            "link": "https://gitlab.com/statwig-public/SupplyChainDemo/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://statwig.com",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://gitlab.com/statwig-public",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

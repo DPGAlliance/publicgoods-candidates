@@ -1,0 +1,23 @@
+{
+    "name": "Pixframe",
+    "description": "Game-based learning solution to assess skills and tailor educational content using AI",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://github.com/pixframe/towi/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://www.pixframestudios.com/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/pixframe/towi",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

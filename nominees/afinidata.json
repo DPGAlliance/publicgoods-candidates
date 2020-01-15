@@ -1,22 +1,26 @@
 {
     "name": "Afinidata",
-    "description": "Providing access to quality early childhood education using artificial intelligence.",
+    "description": "Providing access to quality early childhood education using artificial intelligence",
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://github.com/afinidata2019/afinidata-content-manager/blob/master/LICENSE"
+            "link": "https://opensource.org/licenses/AGPL-3.0"
         }
     ],
-    "website": "http://afinidata.com",
+    "website": "http://afinidata.com/en/home/",
     "SDGs": [
         4
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/afinidata",
     "repo_main": "https://github.com/afinidata2019/afinidata-content-manager",
-    "repo_others": [
+    "other_repos": [
         "https://github.com/afinidata2019/afinidata_core"
+    ],
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Somleng",
+    "description": "Low-cost interactive voice response system for communities with low literacy levels",
+    "license": [
+        {
+            "spdx": "MIT",
+            "link": "https://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "website": "http://www.somleng.org",
+    "SDGs": [
+        3,
+        9
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/somleng",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

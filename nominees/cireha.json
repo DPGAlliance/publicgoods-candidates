@@ -1,0 +1,31 @@
+{
+    "name": "CIREHA",
+    "description": "Augmentative and alternative communication system that enables children with speech and language impairments to communicate",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+        },
+        {
+            "spdx": "CC-BY-SA-3.0",
+            "link": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+        }
+    ],
+    "website": "http://www.cireha.com.ar/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "software",
+        "data"
+    ],
+    "repo_main": "https://github.com/cboard-org/cboard",
+    "repo_others": [
+        "https://github.com/mulberrysymbols/mulberry-symbols"
+    ],
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2020-10-15
+### Added
+- Added 32 more nominees supported by UNICEF Venture Fund
+- Added 'scripts/csvToJson.js' to automatically parse a spreadsheet containing a list of nominees and their attributes and generate json files for each nominee.
+
+### Changed
+- Modified 'nominee-schema.json' to add a new attribute 'supported_by', which is an array of objects initially containing one property 'org_name'
+
 ## [0.2.0] - 2020-01-10
 ### Added
 - Added 4 more nominees from the energy sector: caltrack, greenbutton, openeemeter, seed

@@ -1,0 +1,23 @@
+{
+    "name": "SayCel",
+    "description": "Scalable communications solution for poor rural communities",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "link": "https://opensource.org/licenses/AGPL-3.0"
+        }
+    ],
+    "website": "http://saycel.com",
+    "SDGs": [
+        9
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/saycel/Saycel.Phone",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

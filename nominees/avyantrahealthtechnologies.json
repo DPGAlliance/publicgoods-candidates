@@ -1,0 +1,26 @@
+{
+    "name": "Avyantra Health Technologies",
+    "description": "Helping the diagnosis of infants affected by neonatal sepsis using machine learning",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://opensource.org/licenses/gpl-license"
+        }
+    ],
+    "website": "www.avyantra.com",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/kvklrao/NEOSEPALG",
+    "repo_others": [
+        "https://github.com/kvklrao/NEOSEPDE"
+    ],
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

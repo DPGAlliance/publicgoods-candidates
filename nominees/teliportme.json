@@ -1,0 +1,23 @@
+{
+    "name": "Teliportme",
+    "description": "Solution that provides VR content across different platforms,creating 'remote' learning experiences using WebVR",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://github.com/teliportme/remixvr/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://www.teliportme.com/",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/teliportme/remixvr",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

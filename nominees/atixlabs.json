@@ -1,0 +1,29 @@
+{
+    "name": "Atix Labs",
+    "description": "Matching social enterprises to impact financing using smart contracts on blockchain technology",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://opensource.org/licenses/gpl-license"
+        }
+    ],
+    "website": "www.circlesofangels.com",
+    "SDGs": [
+        1,
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_org": "https://gitlab.com/atixlabs-oss",
+    "repo_main": "https://gitlab.com/atixlabs-oss/circles-of-angels",
+    "repo_others": [
+        "https://gitlab.com/atixlabs-oss/circles-of-angels-api",
+        "https://gitlab.com/atixlabs-oss/circles-of-angels-solidity"
+    ],
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

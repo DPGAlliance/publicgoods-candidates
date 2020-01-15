@@ -1,0 +1,23 @@
+{
+    "name": "Utopixar",
+    "description": "Platform to match youth volunteers to social enterprises",
+    "license": [
+        {
+            "spdx": "MIT",
+            "link": "https://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "website": "https://coinsence.org",
+    "SDGs": [
+        17
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/coinsence",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

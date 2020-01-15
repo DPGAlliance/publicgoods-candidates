@@ -1,0 +1,23 @@
+{
+    "name": "eKitabu",
+    "description": "Personalized 'e-ereading and learning app for children with disabilities",
+    "license": [
+        {
+            "spdx": "BSD-3-Clause",
+            "link": "https://choosealicense.com/licenses/bsd-3-clause/"
+        }
+    ],
+    "website": "http://www.ekitabu.com",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/eKitabu",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

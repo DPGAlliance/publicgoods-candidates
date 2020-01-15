@@ -1,0 +1,23 @@
+{
+    "name": "OneSmart",
+    "description": "Technology for transparent distribution of Government funds using blockchain",
+    "license": [
+        {
+            "spdx": "MIT",
+            "link": "https://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "website": "https://os.city",
+    "SDGs": [
+        11
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "Main Repo: https://gitlab.com/oscity/singletally",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

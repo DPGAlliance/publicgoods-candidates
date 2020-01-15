@@ -1,0 +1,23 @@
+{
+    "name": "Imisi3D",
+    "description": "Locally tailored interactve VR content to transform education in Nigeria",
+    "license": [
+        {
+            "spdx": "GPL-3.0",
+            "link": "https://www.gnu.org/licenses/gpl-3.0.html"
+        }
+    ],
+    "website": "www.imisi3d.com",
+    "SDGs": [
+        4
+    ],
+    "type": [
+        "data"
+    ],
+    "repo_main": "https://github.com/Imisi3D/leVRn-beta",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

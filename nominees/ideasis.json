@@ -1,0 +1,23 @@
+{
+    "name": "Ideasis",
+    "description": "Solution that helps children overcome their anxieties and fears using virtual reality",
+    "license": [
+        {
+            "spdx": "BSD-3-Clause",
+            "link": "https://github.com/Ideasis/VivoosVR/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://www.ideasis.com.tr/",
+    "SDGs": [
+        3
+    ],
+    "type": [
+        "data"
+    ],
+    "repo_main": "https://github.com/Ideasis/VivoosVR",
+    "supported_by": [
+        {
+            "org_name": "UNICEF Ventures Fund"
+        }
+    ]
+}

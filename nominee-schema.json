@@ -398,6 +398,18 @@
             "items": {
                 "type": "string"
             }
+        },
+        "supported_by": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "org_name": {
+                        "type": "string",
+                        "description": "Name of the organization"
+                    }
+                }
+            }
         }
     }
 }
