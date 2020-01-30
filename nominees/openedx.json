@@ -1,11 +1,13 @@
 {
         "name": "Open edX",
-        "initialism": "OPTIONAL",
         "description": "The Open edX platform provides the learning software technology behind edX. edX is a massive open online course (MOOC) provider. It hosts online university-level courses in a wide range of disciplines to a worldwide student body, including some courses at no charge. EdX is a nonprofit organization.",
-        "license": ["AGPL-3.0-only"],
-        "license_link": "https://spdx.org/licenses/AGPL-3.0-only.html#licenseText",
+        "license": [
+                "spdx": "AGPL-3.0-only",
+                "link": "https://github.com/edx/edx-platform/blob/master/LICENSE"
+        ]
         "website": "https://openedx.org/",
         "SDGs": [4],
         "type": ["software"],
+        "repo_org": "https://github.com/edx/",
         "repo_main": "https://github.com/edx/edx-platform"
 }
