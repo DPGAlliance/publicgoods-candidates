@@ -28,7 +28,7 @@
                 "properties": {
                     "spdx": {
                         "type": "string",
-                        "description": "SDPX identified for this license",
+                        "description": "SDPX identifier for this license",
                         "enum": ["0BSD",
                                 "AAL",
                                 "Abstyles",

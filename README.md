@@ -20,12 +20,23 @@ This repository is used to manage the process of adding nominees for considerati
         "name": "REQUIRED",
         "initialism": "OPTIONAL",
         "description": "REQUIRED",
-        "license": [REQUIRED, multiple choice from SPDX list]
-        "license_link": "OPTIONAL",
+        "license": [REQUIRED, Array of objects:
+                {
+                        "spdx": "SDPX identifier for this license",
+                        "license_link": "Link to the license under which this nominee is released"
+                }
+        ],
         "website": "REQUIRED",
-        "SDGs": [REQUIRED, list SDGs by number],
-        "type": [REQUIRED, multiple choice from "software", "data", "standards"],
-        "repo_main": "OPTIONAL: Link to main Github repository"
+        "SDGs": [REQUIRED, Array of numbers listing SDGs by number],
+        "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
+        "repo_org": "OPTIONAL: Link to org list of repositories",
+        "repo_main": "OPTIONAL: Link to main repository",
+        "repo_others": "[OPTIONAL: Array of strings, links to additional repositories]",
+        "supported_by": [OPTIONAL, Array of objects:
+                {
+                        "org_name": "Name of the supporting organization"
+                }
+        ]
 }
 ```
 
@@ -50,4 +61,5 @@ binary, for any purpose, commercial or non-commercial, and by any
 means.
 ```
 
-All the information compiled and aggregated in this repository is already in the public domain, thus  we dedicate this software to the public domain. As a result, we impose no limitations nor requirements of any kind of how you use it or reuse it. As a courtesy on your part, we would very much appreciate hearing from you either on how you are using the information in this repo, or any great ideas on how we can collaborate together. Email us at hello@digitalpublicgoods.net 💌
+All the information compiled and aggregated in this repository is already in the public domain, thus  we dedicate this software to the public domain. As a result, we impose no limitations nor requirements of any kind of how you use it or reuse it. As a courtesy on your part, we would very much appreciate hearing from you either on how you are using the information in this repo, or any great ideas on how we can collaborate together.
+Email us at hello@digitalpublicgoods.net 💌
