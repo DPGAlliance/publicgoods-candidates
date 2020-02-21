@@ -1,0 +1,19 @@
+{
+    "name": "Inclusion UKR",
+    "description": "Ukrainian inclusion font for printing and web.",
+    "license": [
+        {
+            "spdx": "CC-BY-NC-SA-4.0",
+            "link": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+        }
+    ],
+    "website": "https://github.com/Social-Synergy/inclusion-UKR",
+    "SDGs": [
+        4, 
+        10
+    ],
+    "type": [
+        "software"
+    ],
+    "repo_main": "https://github.com/Social-Synergy/inclusion-UKR"
+}
