@@ -1,0 +1,20 @@
+{
+        "name": "Open Civil Registration and Vital Statistics",
+        "initialism": "OpenCRVS",
+        "description": "Configurable software for civil registration designed for low resource settings",
+        "license": [
+                {
+                        "spdx": "MPL-2.0",
+                        "license_link": "https://github.com/opencrvs/opencrvs-core/blob/master/LICENSE"
+                }
+        ],
+        "website": "www.opencrvs.org",
+        "SDGs": [
+            16,
+            17
+        ],
+        "type": [
+            "software"
+        ],
+        "repo_main": "https://github.com/opencrvs/opencrvs-core",
+}
