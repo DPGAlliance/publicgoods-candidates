@@ -1,0 +1,14 @@
+{
+        "name": "Test Nominee",
+        "description": "This is a test nominee.",
+        "license": [
+                {
+                        "spdx": "xxx",
+                        "license_link": "https://localhost:5000"
+                }
+        ],
+        "website": "httsp://localhost:5000",
+        "SDGs": [3],
+        "type": ["software"],
+        
+}
