@@ -4,18 +4,23 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://github.com/instedd/planwise/blob/master/LICENSE.md"
+            "licenseURL": "https://github.com/instedd/planwise/blob/master/LICENSE.md"
         }
     ],
     "website": "https://planwise.instedd.org/",
     "SDGs": [
-        16,
-        17
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ],
+        [
+            17,
+            "Partnerships for the Goals"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/instedd/",
-    "repo_main": "https://github.com/instedd/planwise",
-    "repo_others": []
+    "repositoryURL": "https://github.com/instedd/planwise",
+    "sectors": []
 }

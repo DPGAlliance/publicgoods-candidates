@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://www.ihris.org/2007/07/ihris-under-gplv3/"
+            "licenseURL": "https://www.ihris.org/2007/07/ihris-under-gplv3/"
         }
     ],
     "website": "https://www.ihris.org",
     "SDGs": [
-        3
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software"
-    ]
+    ],
+    "sectors": []
 }

@@ -4,21 +4,30 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://opensource.org/licenses/mit-license.php"
+            "licenseURL": "https://opensource.org/licenses/mit-license.php"
         }
     ],
     "website": "",
     "SDGs": [
-        2,
-        3
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/kimetrica/MERON_model",
-    "supported_by": [
+    "repositoryURL": "https://github.com/kimetrica/MERON_model",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

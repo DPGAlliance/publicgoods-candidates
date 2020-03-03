@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "GPL-2.0",
-            "link": "https://github.com/farmOS/farmOS/blob/7.x-1.x/LICENSE.txt"
+            "licenseURL": "https://github.com/farmOS/farmOS/blob/7.x-1.x/LICENSE.txt"
         }
     ],
     "website": "https://farmos.org/",
     "SDGs": [
-        2,
-        9
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/farmOS/farmOS"
+    "repositoryURL": "https://github.com/farmOS/farmOS",
+    "sectors": []
 }

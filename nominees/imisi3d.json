@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://www.gnu.org/licenses/gpl-3.0.html"
+            "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html"
         }
     ],
     "website": "www.imisi3d.com",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "data"
     ],
-    "repo_main": "https://github.com/Imisi3D/leVRn-beta",
-    "supported_by": [
+    "repositoryURL": "https://github.com/Imisi3D/leVRn-beta",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

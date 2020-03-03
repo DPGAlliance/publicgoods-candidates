@@ -1,0 +1,21 @@
+{
+    "name": "Open Stax",
+    "description": "Publish high-quality, peer-reviewed, openly licensed college textbooks that are absolutely free online and low cost in print.",
+    "license": [
+        {
+            "spdx": "CC-BY-4.0",
+            "licenseURL": "https://openstax.org/license"
+        }
+    ],
+    "website": "https://openstax.org",
+    "SDGs": [
+        [
+            4,
+            "Quality Education"
+        ]
+    ],
+    "type": [
+        "data"
+    ],
+    "sectors": []
+}

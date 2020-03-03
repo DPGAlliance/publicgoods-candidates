@@ -4,17 +4,20 @@
     "license": [
         {
             "spdx": "Apache-2.0",
-            "link": "https://github.com/synthetichealth/synthea/blob/master/LICENSE"
+            "licenseURL": "https://github.com/synthetichealth/synthea/blob/master/LICENSE"
         }
     ],
     "website": "https://synthetichealth.github.io/synthea/",
     "SDGs": [
-        3
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software",
         "data"
     ],
-    "repo_org": "https://github.com/synthetichealth",
-    "repo_main": "https://github.com/synthetichealth/synthea"
+    "repositoryURL": "https://github.com/synthetichealth/synthea",
+    "sectors": []
 }

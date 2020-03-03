@@ -4,16 +4,19 @@
     "license": [
         {
             "spdx": "CC0-1.0",
-            "link": "https://github.com/energy-market-methods/caltrack/blob/master/LICENSE"
+            "licenseURL": "https://github.com/energy-market-methods/caltrack/blob/master/LICENSE"
         }
     ],
     "website": "http://docs.caltrack.org/en/latest/",
     "SDGs": [
-        7
+        [
+            7,
+            "Affordable and Clean Energy"
+        ]
     ],
     "type": [
         "standard"
     ],
-    "repo_org": "https://github.com/energy-market-methods",
-    "repo_main": "https://github.com/energy-market-methods/caltrack"
+    "repositoryURL": "https://github.com/energy-market-methods/caltrack",
+    "sectors": []
 }

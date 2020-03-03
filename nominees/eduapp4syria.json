@@ -4,15 +4,19 @@
     "license": [
         {
             "spdx": "BSD-2-Clause",
-            "link": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria/blob/master/LICENSE"
+            "licenseURL": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria/blob/master/LICENSE"
         }
     ],
     "website": "https://norad.no/eduapp4syria",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria"
+    "repositoryURL": "https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria",
+    "sectors": []
 }

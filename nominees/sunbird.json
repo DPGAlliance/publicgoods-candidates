@@ -4,28 +4,27 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://github.com/project-sunbird/sunbird-data-pipeline/blob/master/LICENSE"
+            "licenseURL": "https://github.com/project-sunbird/sunbird-data-pipeline/blob/master/LICENSE"
         }
     ],
     "website": "https://www.sunbird.org/",
     "SDGs": [
-        3,
-        16,
-        17
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ],
+        [
+            17,
+            "Partnerships for the Goals"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/project-sunbird",
-    "repo_main": "https://github.com/project-sunbird/sunbird-data-pipeline",
-    "repo_others": [
-        "https://github.com/project-sunbird/sunbird-lms-mw",
-        "https://github.com/project-sunbird/sunbird-devops",
-        "https://github.com/project-sunbird/sunbird-analytics",
-        "https://github.com/project-sunbird/sunbird-content-plugins",
-        "https://github.com/project-sunbird/sunbird-utils",
-        "https://github.com/project-sunbird/sunbird-learning-platform",
-        "https://github.com/project-sunbird/sunbird-course-service",
-        "https://github.com/project-sunbird/sunbird-content-editor"
-    ]
+    "repositoryURL": "https://github.com/project-sunbird/sunbird-data-pipeline",
+    "sectors": []
 }

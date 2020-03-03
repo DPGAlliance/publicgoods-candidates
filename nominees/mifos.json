@@ -4,21 +4,23 @@
     "license": [
         {
             "spdx": "MPL-2.0",
-            "link": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
+            "licenseURL": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
         }
     ],
     "website": "https://mifos.org/",
     "SDGs": [
-        10,
-        11
+        [
+            10,
+            "Reduced Inequalities"
+        ],
+        [
+            11,
+            "Sustainable Cities and Communities"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/openMF",
-    "repo_main": "https://github.com/openMF/community-app/",
-    "repo_others": [
-        "https://github.com/openMF/web-app",
-        "https://github.com/openMF/mifos-mobile"
-    ]
+    "repositoryURL": "https://github.com/openMF/community-app/",
+    "sectors": []
 }

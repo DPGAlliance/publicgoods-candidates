@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "Apache-2.0",
-            "link": "https://github.com/Tanibox/tania-core/blob/master/LICENSE"
+            "licenseURL": "https://github.com/Tanibox/tania-core/blob/master/LICENSE"
         }
     ],
     "website": "https://usetania.org/",
     "SDGs": [
-        2,
-        9
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/Tanibox/tania-core"
+    "repositoryURL": "https://github.com/Tanibox/tania-core",
+    "sectors": []
 }

@@ -1,0 +1,25 @@
+{
+    "name": "District Health Information System 2",
+    "description": "A health management data platform for reporting, analysis and dissemination of data for all health programs, developed on open source Java technologies.",
+    "license": [
+        {
+            "spdx": "BSD-3-Clause",
+            "licenseURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://www.dhis2.org/",
+    "SDGs": [
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/dhis2/dhis2-core",
+    "aliases": [
+        "DHIS2"
+    ],
+    "sectors": []
+}

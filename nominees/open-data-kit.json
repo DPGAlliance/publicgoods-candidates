@@ -1,0 +1,24 @@
+{
+    "name": "Open Data Kit",
+    "description": "Free and open-source software for collecting, managing, and using data in resource-constrained environments.",
+    "license": [
+        {
+            "spdx": "Apache-2.0",
+            "licenseURL": "https://docs.opendatakit.org/security-privacy/?highlight=license#license"
+        }
+    ],
+    "website": "https://opendatakit.org/",
+    "SDGs": [
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "aliases": [
+        "ODK"
+    ],
+    "sectors": []
+}

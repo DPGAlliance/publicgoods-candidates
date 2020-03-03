@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "CC-BY-4.0",
-            "link": "https://creativecommons.org/licenses/by/4.0/"
+            "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
         }
     ],
     "website": "https://www.skillscommons.org/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "data"
-    ]
+    ],
+    "sectors": []
 }

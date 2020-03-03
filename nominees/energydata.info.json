@@ -1,0 +1,21 @@
+{
+    "name": "Energydata.info",
+    "description": "Open data platform providing access to datasets and data analytics that are relevant to the energy sector.",
+    "license": [
+        {
+            "spdx": "CC-BY-4.0",
+            "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "website": "https://api.met.no/",
+    "SDGs": [
+        [
+            7,
+            "Affordable and Clean Energy"
+        ]
+    ],
+    "type": [
+        "data"
+    ],
+    "sectors": []
+}

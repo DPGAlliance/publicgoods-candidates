@@ -1,0 +1,26 @@
+{
+    "name": "U-Report",
+    "description": "Free social messaging tool and a real-time information system that allows community participation.",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "licenseURL": "https://github.com/rapidpro/ureport/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://ureport.in/",
+    "SDGs": [
+        [
+            10,
+            "Reduced Inequalities"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/rapidpro/ureport",
+    "sectors": []
+}

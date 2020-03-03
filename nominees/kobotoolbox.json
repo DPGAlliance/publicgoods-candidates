@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "BSD-2-Clause",
-            "link": "https://github.com/kobotoolbox/kobocat/blob/master/LICENSE"
+            "licenseURL": "https://github.com/kobotoolbox/kobocat/blob/master/LICENSE"
         }
     ],
     "website": "https://www.kobotoolbox.org/",
     "SDGs": [
-        3,
-        4
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/kobotoolbox/kobocat"
+    "repositoryURL": "https://github.com/kobotoolbox/kobocat",
+    "sectors": []
 }

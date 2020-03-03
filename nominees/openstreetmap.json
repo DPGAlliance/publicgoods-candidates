@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "ODbL-1.0",
-            "link": "https://www.openstreetmap.org/copyright"
+            "licenseURL": "https://www.openstreetmap.org/copyright"
         }
     ],
     "website": "https://www.openstreetmap.org",
     "SDGs": [
-        11
+        [
+            11,
+            "Sustainable Cities and Communities"
+        ]
     ],
     "type": [
         "data"
-    ]
+    ],
+    "sectors": []
 }

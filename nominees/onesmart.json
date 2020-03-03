@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://opensource.org/licenses/mit-license.php"
+            "licenseURL": "https://opensource.org/licenses/mit-license.php"
         }
     ],
     "website": "https://os.city",
     "SDGs": [
-        11
+        [
+            11,
+            "Sustainable Cities and Communities"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "Main Repo: https://gitlab.com/oscity/singletally",
-    "supported_by": [
+    "repositoryURL": "Main Repo: https://gitlab.com/oscity/singletally",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

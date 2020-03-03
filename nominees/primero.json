@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
+            "licenseURL": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
         }
     ],
     "website": "https://www.primero.org/",
     "SDGs": [
-        10,
-        16
+        [
+            10,
+            "Reduced Inequalities"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/primeroIMS/primero"
+    "repositoryURL": "https://github.com/primeroIMS/primero",
+    "sectors": []
 }

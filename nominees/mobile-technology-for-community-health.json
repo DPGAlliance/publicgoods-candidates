@@ -1,0 +1,33 @@
+{
+    "name": "Mobile Technology for Community Health",
+    "description": "A modular, extensible open source software project originally designed for mobile health (mHealth), which can also be used outside of the health domain.",
+    "license": [
+        {
+            "spdx": "BSD-3-Clause",
+            "licenseURL": "https://github.com/motech/motech/blob/master/LICENSE.txt"
+        }
+    ],
+    "website": "http://docs.motechproject.org",
+    "SDGs": [
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ],
+        [
+            17,
+            "Partnerships for the Goals"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/motech/MOTECH",
+    "aliases": [
+        "MOTECH"
+    ],
+    "sectors": []
+}

@@ -4,15 +4,19 @@
     "license": [
         {
             "spdx": "CC-BY-SA-3.0",
-            "link": "https://creativecommons.org/licenses/by-sa/3.0/"
+            "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
         }
     ],
     "website": "https://www.wikipedia.org/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software",
         "data"
-    ]
+    ],
+    "sectors": []
 }

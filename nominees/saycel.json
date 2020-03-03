@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://opensource.org/licenses/AGPL-3.0"
+            "licenseURL": "https://opensource.org/licenses/AGPL-3.0"
         }
     ],
     "website": "http://saycel.com",
     "SDGs": [
-        9
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/saycel/Saycel.Phone",
-    "supported_by": [
+    "repositoryURL": "https://github.com/saycel/Saycel.Phone",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

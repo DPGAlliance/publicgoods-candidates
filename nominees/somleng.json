@@ -4,21 +4,30 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://opensource.org/licenses/mit-license.php"
+            "licenseURL": "https://opensource.org/licenses/mit-license.php"
         }
     ],
     "website": "http://www.somleng.org",
     "SDGs": [
-        3,
-        9
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/somleng",
-    "supported_by": [
+    "repositoryURL": "https://github.com/somleng",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

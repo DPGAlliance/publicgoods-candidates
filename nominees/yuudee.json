@@ -4,24 +4,26 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+            "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
         }
     ],
     "website": "https://www.daokoudai.com/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "backend：https://github.com/xiaoyudi-China/yuudee",
-    "repo_others": [
-        "https://github.com/xiaoyudi-China/yuudee_iOS",
-        "https://github.com/xiaoyudi-China/yuudee_android"
-    ],
-    "supported_by": [
+    "repositoryURL": "backend：https://github.com/xiaoyudi-China/yuudee",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

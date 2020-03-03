@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "CC-BY-4.0",
-            "link": "https://storyweaver.org.in/attributions"
+            "licenseURL": "https://storyweaver.org.in/attributions"
         }
     ],
     "website": "https://storyweaver.org.in",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "data"
-    ]
+    ],
+    "sectors": []
 }

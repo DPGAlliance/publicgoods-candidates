@@ -2,20 +2,24 @@
     "name": "MERLOT",
     "description": "The MERLOT system provides access to curated online learning and support materials and content creation tools, led by an international community of educators, learners and researchers.",
     "license": [
-    	{
-    		"spdx": "CC-BY-NC-SA-3.0",
-    		"link": "http://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
-    	},
-    	{
-    		"spdx": "CC-BY-NC-ND-3.0",
-    		"link": "http://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
-    	}
+        {
+            "spdx": "CC-BY-NC-SA-3.0",
+            "licenseURL": "http://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
+        },
+        {
+            "spdx": "CC-BY-NC-ND-3.0",
+            "licenseURL": "http://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
+        }
     ],
     "website": "https://www.merlot.org/merlot/",
     "SDGs": [
-    	4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
-    	"data"
-    ]
+        "data"
+    ],
+    "sectors": []
 }

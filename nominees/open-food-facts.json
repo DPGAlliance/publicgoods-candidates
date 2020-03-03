@@ -1,0 +1,34 @@
+{
+    "name": "Open Food Facts",
+    "description": "Open Food Facts gathers information and data on food products from around the world.",
+    "license": [
+        {
+            "spdx": "ODbL-1.0",
+            "licenseURL": "https://world.openfoodfacts.org/data"
+        },
+        {
+            "spdx": "CC-BY-SA-3.0",
+            "licenseURL": "https://world.openfoodfacts.org/data"
+        },
+        {
+            "spdx": "AGPL-3.0",
+            "licenseURL": "https://world.openfoodfacts.org/data"
+        }
+    ],
+    "website": "http://openag.io/",
+    "SDGs": [
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
+    ],
+    "type": [
+        "software",
+        "data"
+    ],
+    "sectors": []
+}

@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "GPL-2.0",
-            "link": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
+            "licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
         }
     ],
     "website": "http://www.openemis.org",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
-    ]
+    ],
+    "sectors": []
 }

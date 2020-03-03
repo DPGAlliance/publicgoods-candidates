@@ -4,18 +4,23 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://github.com/instedd/pollit/blob/master/LICENSE"
+            "licenseURL": "https://github.com/instedd/pollit/blob/master/LICENSE"
         }
     ],
     "website": "https://pollit.instedd.org",
     "SDGs": [
-        16,
-        17
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ],
+        [
+            17,
+            "Partnerships for the Goals"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/instedd",
-    "repo_main": "https://github.com/instedd/pollit",
-    "repo_others": []
+    "repositoryURL": "https://github.com/instedd/pollit",
+    "sectors": []
 }

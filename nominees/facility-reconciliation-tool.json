@@ -1,0 +1,22 @@
+{
+    "name": "Facility Reconciliation Tool",
+    "description": "The Facility Reconciliation Tool is an open source and open standards-based product used to compare lists of (health) facilities from different data sources.",
+    "license": [
+        {
+            "spdx": "Apache-2.0",
+            "licenseURL": "https://github.com/openhie/facility-recon/blob/master/LICENSE"
+        }
+    ],
+    "website": "https://facility-recon.readthedocs.io",
+    "SDGs": [
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/openhie/facility-recon",
+    "sectors": []
+}

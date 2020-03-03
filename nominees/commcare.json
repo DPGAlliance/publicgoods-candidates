@@ -4,24 +4,27 @@
     "license": [
         {
             "spdx": "BSD-3-Clause",
-            "link": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
+            "licenseURL": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
         }
     ],
     "website": "https://www.dimagi.com",
     "SDGs": [
-        3,
-        10,
-        16
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            10,
+            "Reduced Inequalities"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/dimagi/",
-    "repo_main": "https://github.com/dimagi/commcare-hq",
-    "repo_others": [
-        "https://github.com/dimagi/commcare-cloud",
-        "https://github.com/dimagi/commcare-android",
-        "https://github.com/dimagi/commcare-core",
-        "https://github.com/dimagi/commcare-export"
-    ]
+    "repositoryURL": "https://github.com/dimagi/commcare-hq",
+    "sectors": []
 }

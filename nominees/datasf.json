@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "PDDL-1.0",
-            "link": "http://www.opendatacommons.org/licenses/pddl/1.0/"
+            "licenseURL": "http://www.opendatacommons.org/licenses/pddl/1.0/"
         }
     ],
     "website": "https://datasf.org/opendata",
     "SDGs": [
-        11
+        [
+            11,
+            "Sustainable Cities and Communities"
+        ]
     ],
     "type": [
         "data"
-    ]
+    ],
+    "sectors": []
 }

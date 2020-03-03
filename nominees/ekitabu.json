@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "BSD-3-Clause",
-            "link": "https://choosealicense.com/licenses/bsd-3-clause/"
+            "licenseURL": "https://choosealicense.com/licenses/bsd-3-clause/"
         }
     ],
     "website": "http://www.ekitabu.com",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/eKitabu",
-    "supported_by": [
+    "repositoryURL": "https://github.com/eKitabu",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

@@ -4,23 +4,26 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://github.com/afinidata2019/afinidata-content-manager/blob/master/LICENSE"
+            "licenseURL": "https://github.com/afinidata2019/afinidata-content-manager/blob/master/LICENSE"
         }
     ],
     "website": "http://afinidata.com/en/home/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/afinidata2019/afinidata-content-manager",
-    "repo_others": [
-        "https://github.com/afinidata2019/afinidata_core"
-    ],
-    "supported_by": [
+    "repositoryURL": "https://github.com/afinidata2019/afinidata-content-manager",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

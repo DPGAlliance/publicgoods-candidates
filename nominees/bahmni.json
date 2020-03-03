@@ -4,15 +4,19 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://www.bahmni.org/faq"
+            "licenseURL": "https://www.bahmni.org/faq"
         }
     ],
     "website": "https://www.bahmni.org/",
     "SDGs": [
-        3
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/Bahmni/bahmni-core"
+    "repositoryURL": "https://github.com/Bahmni/bahmni-core",
+    "sectors": []
 }

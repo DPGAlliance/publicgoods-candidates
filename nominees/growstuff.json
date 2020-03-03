@@ -4,17 +4,24 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt"
+            "licenseURL": "https://github.com/Growstuff/growstuff/blob/dev/LICENSE.txt"
         }
     ],
     "website": "https://www.growstuff.org/",
     "SDGs": [
-        2,
-        9
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software",
         "data"
     ],
-    "repo_main": "https://github.com/Growstuff/growstuff"
+    "repositoryURL": "https://github.com/Growstuff/growstuff",
+    "sectors": []
 }

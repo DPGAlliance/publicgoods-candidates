@@ -18,23 +18,26 @@ This repository is used to manage the process of adding nominees for considerati
 ```
 {
         "name": "REQUIRED",
-        "initialism": "OPTIONAL",
+        "aliases": "[OPTIONAL: Array of strings - Abbreviations, initialisms, or alternate names, where relevant",
         "description": "REQUIRED",
         "license": [REQUIRED, Array of objects:
                 {
                         "spdx": "SDPX identifier for this license",
-                        "license_link": "Link to the license under which this nominee is released"
+                        "licenseURL": "Link to the license under which this nominee is released"
                 }
         ],
         "website": "REQUIRED",
-        "SDGs": [REQUIRED, Array of numbers listing SDGs by number],
+        "SDGs": [REQUIRED, Array of objects listing SDGs by number and name],
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
-        "repo_org": "OPTIONAL: Link to org list of repositories",
-        "repo_main": "OPTIONAL: Link to main repository",
-        "repo_others": "[OPTIONAL: Array of strings, links to additional repositories]",
-        "supported_by": [OPTIONAL, Array of objects:
+        "repositoryURL": "OPTIONAL: Link to main repository",
+        "sectors:" [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
+        "organizations": [REQUIRED, Array of objects: 
                 {
-                        "org_name": "Name of the supporting organization"
+                        "name": "REQUIRED - Name of the organization",
+                        "website": "OPTIONAL - Website of the organization",
+                        "contact_name": "OPTIONAL - Name of contact individual in the organization",
+                        "contact_email": "OPTIONAL - Email for contact individual in the organization",
+                        "org_type": "REQUIRED - One of 'owner, 'maintainer', 'funder' or 'implementer'
                 }
         ]
 }

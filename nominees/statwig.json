@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://gitlab.com/statwig-public/SupplyChainDemo/blob/master/LICENSE"
+            "licenseURL": "https://gitlab.com/statwig-public/SupplyChainDemo/blob/master/LICENSE"
         }
     ],
     "website": "https://statwig.com",
     "SDGs": [
-        3
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://gitlab.com/statwig-public",
-    "supported_by": [
+    "repositoryURL": "https://gitlab.com/statwig-public",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

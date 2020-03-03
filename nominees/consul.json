@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt"
+            "licenseURL": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt"
         }
     ],
     "website": "http://consulproject.org",
     "SDGs": [
-        11,
-        16
+        [
+            11,
+            "Sustainable Cities and Communities"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/consul/consul"
+    "repositoryURL": "https://github.com/consul/consul",
+    "sectors": []
 }

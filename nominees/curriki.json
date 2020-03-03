@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "CC-BY-NC-3.0",
-            "link": "https://www.curriki.org/terms-of-service"
+            "licenseURL": "https://www.curriki.org/terms-of-service"
         }
     ],
     "website": "https://www.curriki.org",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "data"
-    ]
+    ],
+    "sectors": []
 }

@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://github.com/pixframe/towi/blob/master/LICENSE"
+            "licenseURL": "https://github.com/pixframe/towi/blob/master/LICENSE"
         }
     ],
     "website": "http://www.pixframestudios.com/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/pixframe/towi",
-    "supported_by": [
+    "repositoryURL": "https://github.com/pixframe/towi",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

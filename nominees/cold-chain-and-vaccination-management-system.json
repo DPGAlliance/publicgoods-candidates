@@ -1,0 +1,29 @@
+{
+    "name": "Cold Chain and Vaccination Management System",
+    "description": "Monitoring and management tool for vaccine coverage and cold chain management.",
+    "license": [
+        {
+            "spdx": "CC-BY-NC-ND-3.0",
+            "licenseURL": "https://github.com/EL-BID/API-SGiS/blob/master/LICENSE.md"
+        }
+    ],
+    "website": "https://github.com/EL-BID/ccvms",
+    "SDGs": [
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/EL-BID/API-SGiS",
+    "aliases": [
+        "CCVMS"
+    ],
+    "sectors": []
+}

@@ -4,15 +4,22 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://agrosense.eu/license.html"
+            "licenseURL": "https://agrosense.eu/license.html"
         }
     ],
     "website": "https://agrosense.eu/",
     "SDGs": [
-        2,
-        9
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
-    ]
+    ],
+    "sectors": []
 }

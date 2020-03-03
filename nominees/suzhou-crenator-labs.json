@@ -1,0 +1,29 @@
+{
+    "name": "Suzhou Crenator Labs",
+    "description": "VRMaker that allows children to create content for 'remedial' learning experiences",
+    "license": [
+        {
+            "spdx": "AGPL-3.0",
+            "licenseURL": "https://www.gnu.org/licenses/lgpl-3.0.html"
+        }
+    ],
+    "website": "http://www.vredumaster.com/",
+    "SDGs": [
+        [
+            4,
+            "Quality Education"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/VRMakerTeam/VRMaker",
+    "sectors": [],
+    "organizations": [
+        {
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
+        }
+    ]
+}

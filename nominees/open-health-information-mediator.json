@@ -1,0 +1,25 @@
+{
+    "name": "Open Health Information Mediator",
+    "description": "A middleware component designed to ease interoperability between disparate information systems, connecting health systems simply, securely and safely.",
+    "license": [
+        {
+            "spdx": "MPL-2.0",
+            "licenseURL": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://openhim.org/",
+    "SDGs": [
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/jembi/openhim-core-js",
+    "aliases": [
+        "OpenHIM"
+    ],
+    "sectors": []
+}

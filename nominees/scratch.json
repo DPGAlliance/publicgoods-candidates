@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "CC-BY-SA-2.0",
-            "link": "https://scratch.mit.edu/terms_of_use"
+            "licenseURL": "https://scratch.mit.edu/terms_of_use"
         }
     ],
     "website": "https://scratch.mit.edu",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
-    ]
+    ],
+    "sectors": []
 }

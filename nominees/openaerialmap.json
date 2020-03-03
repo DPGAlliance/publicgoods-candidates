@@ -4,31 +4,27 @@
     "license": [
         {
             "spdx": "BSD-3-Clause",
-            "link": "https://github.com/hotosm/oam-api/blob/develop/LICENSE"
+            "licenseURL": "https://github.com/hotosm/oam-api/blob/develop/LICENSE"
         }
     ],
     "website": "https://openaerialmap.org/",
     "SDGs": [
-        9,
-        16,
-        17
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ],
+        [
+            17,
+            "Partnerships for the Goals"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/hotosm/",
-    "repo_main": "https://github.com/hotosm/OpenAerialMap",
-    "repo_others": [
-        "https://github.com/hotosm/oam-catalog",
-        "https://github.com/hotosm/oam-browser",
-        "https://github.com/hotosm/oam-uploader",
-        "https://github.com/hotosm/oam-uploader-admin",
-        "https://github.com/hotosm/oam-uploader-api",
-        "https://github.com/hotosm/oam-dynamic-tiler",
-        "https://github.com/hotosm/openaerialmap.org",
-        "https://github.com/hotosm/oam-qgis-plugin",
-        "https://github.com/hotosm/oam-status",
-        "https://github.com/hotosm/oam-design-system",
-        "https://github.com/hotosm/oam-docs"
-    ]
+    "repositoryURL": "https://github.com/hotosm/OpenAerialMap",
+    "sectors": []
 }

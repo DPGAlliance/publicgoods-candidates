@@ -4,16 +4,19 @@
     "license": [
         {
             "spdx": "BSD-3-Clause",
-            "link": "https://github.com/jembi/hearth/blob/master/LICENSE"
+            "licenseURL": "https://github.com/jembi/hearth/blob/master/LICENSE"
         }
     ],
     "website": "https://github.com/jembi/hearth",
     "SDGs": [
-        3
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/jembi",
-    "repo_main": "https://github.com/jembi/hearth"
+    "repositoryURL": "https://github.com/jembi/hearth",
+    "sectors": []
 }

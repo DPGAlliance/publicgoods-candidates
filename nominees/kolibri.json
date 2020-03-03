@@ -4,15 +4,19 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://github.com/learningequality/kolibri/blob/develop/LICENSE"
+            "licenseURL": "https://github.com/learningequality/kolibri/blob/develop/LICENSE"
         }
     ],
     "website": "https://learningequality.org/kolibri/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/learningequality/kolibri"
+    "repositoryURL": "https://github.com/learningequality/kolibri",
+    "sectors": []
 }

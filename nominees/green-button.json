@@ -1,0 +1,22 @@
+{
+    "name": "Green Button",
+    "description": "Green Button is a secure way to get your energy usage information electronically.",
+    "license": [
+        {
+            "spdx": "Apache-2.0",
+            "licenseURL": "https://github.com/GreenButtonAlliance/OpenESPI-Common-java/blob/master/LICENSE"
+        }
+    ],
+    "website": "http://green-button.github.io",
+    "SDGs": [
+        [
+            7,
+            "Affordable and Clean Energy"
+        ]
+    ],
+    "type": [
+        "software"
+    ],
+    "repositoryURL": "https://github.com/GreenButtonAlliance/OpenESPI-Common-java",
+    "sectors": []
+}

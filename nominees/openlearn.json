@@ -4,14 +4,18 @@
     "license": [
         {
             "spdx": "CC-BY-NC-SA-4.0",
-            "link": "https://www.open.edu/openlearn/get-started/openlearn-welcomes-creative-commons-40"
+            "licenseURL": "https://www.open.edu/openlearn/get-started/openlearn-welcomes-creative-commons-40"
         }
     ],
     "website": "https://www.open.edu/openlearn/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "data"
-    ]
+    ],
+    "sectors": []
 }

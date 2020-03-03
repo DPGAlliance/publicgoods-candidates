@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://opensource.org/licenses/mit-license.php"
+            "licenseURL": "https://opensource.org/licenses/mit-license.php"
         }
     ],
     "website": "www.nubianvr.com",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "data"
     ],
-    "repo_main": "https://github.com/nubianvr-source/BasicElectronics",
-    "supported_by": [
+    "repositoryURL": "https://github.com/nubianvr-source/BasicElectronics",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

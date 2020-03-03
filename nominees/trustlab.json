@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://opensource.org/licenses/mit-license.php"
+            "licenseURL": "https://opensource.org/licenses/mit-license.php"
         }
     ],
     "website": "",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/TrustlabTech",
-    "supported_by": [
+    "repositoryURL": "https://github.com/TrustlabTech",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

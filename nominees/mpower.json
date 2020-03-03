@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "Apache-2.0",
-            "link": "https://www.apache.org/licenses/LICENSE-2.0"
+            "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
         }
     ],
     "website": "http://www.mpower-social.com",
     "SDGs": [
-        3
+        [
+            3,
+            "Good Health and Well-Being"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/OpenSRP/",
-    "supported_by": [
+    "repositoryURL": "https://github.com/OpenSRP/",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

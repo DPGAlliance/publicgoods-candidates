@@ -4,19 +4,19 @@
     "license": [
         {
             "spdx": "Apache-2.0",
-            "link": "https://github.com/oppia/oppia/blob/develop/LICENSE"
+            "licenseURL": "https://github.com/oppia/oppia/blob/develop/LICENSE"
         }
     ],
     "website": "https://www.oppia.org/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/oppia",
-    "repo_main": "https://github.com/oppia/oppia",
-    "repo_others": [
-        "https://github.com/oppia/oppia-android"
-    ]
+    "repositoryURL": "https://github.com/oppia/oppia",
+    "sectors": []
 }

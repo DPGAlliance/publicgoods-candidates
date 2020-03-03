@@ -4,16 +4,26 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+            "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
         }
     ],
     "website": "https://www.gnuhealth.org",
     "SDGs": [
-        3,
-        10,
-        16
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            10,
+            "Reduced Inequalities"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
     ],
     "type": [
         "software"
-    ]
+    ],
+    "sectors": []
 }

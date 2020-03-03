@@ -4,21 +4,23 @@
     "license": [
         {
             "spdx": "MIT",
-            "link": "https://github.com/humansis/front/blob/dev/LICENSE"
+            "licenseURL": "https://github.com/humansis/front/blob/dev/LICENSE"
         }
     ],
     "website": "https://humansis.org/",
     "SDGs": [
-        16,
-        17
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ],
+        [
+            17,
+            "Partnerships for the Goals"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/humansis",
-    "repo_main": "https://github.com/humansis/front",
-    "repo_others": [
-        "https://github.com/humansis/api",
-        "https://github.com/humansis/vendor_app"
-    ]
+    "repositoryURL": "https://github.com/humansis/front",
+    "sectors": []
 }

@@ -4,21 +4,19 @@
     "license": [
         {
             "spdx": "MPL-2.0",
-            "link": "https://github.com/VOLTTRON/volttron/blob/master/LICENSE.md"
+            "licenseURL": "https://github.com/VOLTTRON/volttron/blob/master/LICENSE.md"
         }
     ],
     "website": "https://volttron.org",
     "SDGs": [
-        9
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/VOLTTRON",
-    "repo_main": "https://github.com/VOLTTRON/volttron",
-    "repo_others": [
-        "https://github.com/VOLTTRON/volttron-docker",
-        "https://github.com/VOLTTRON/volttron-GS",
-        "https://github.com/VOLTTRON/volttron-applications"
-    ]
+    "repositoryURL": "https://github.com/VOLTTRON/volttron",
+    "sectors": []
 }

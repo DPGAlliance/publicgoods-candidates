@@ -4,17 +4,27 @@
     "license": [
         {
             "spdx": "AGPL-3.0",
-            "link": "https://github.com/rapidpro/rapidpro/blob/master/LICENSE"
+            "licenseURL": "https://github.com/rapidpro/rapidpro/blob/master/LICENSE"
         }
     ],
     "website": "https://rapidpro.io",
     "SDGs": [
-        3,
-        10,
-        16
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            10,
+            "Reduced Inequalities"
+        ],
+        [
+            16,
+            "Peace, Justice and Strong Institutions"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/rapidpro/rapidpro"
+    "repositoryURL": "https://github.com/rapidpro/rapidpro",
+    "sectors": []
 }

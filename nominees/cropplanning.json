@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE"
+            "licenseURL": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE"
         }
     ],
     "website": "https://github.com/claytonrcarter/cropplanning",
     "SDGs": [
-        2,
-        12
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            12,
+            "Responsible Consumption and Production"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/claytonrcarter/cropplanning"
+    "repositoryURL": "https://github.com/claytonrcarter/cropplanning",
+    "sectors": []
 }

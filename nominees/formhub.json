@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "GPL-2.0",
-            "link": "https://github.com/SEL-Columbia/formhub/blob/master/LICENSE"
+            "licenseURL": "https://github.com/SEL-Columbia/formhub/blob/master/LICENSE"
         }
     ],
     "website": "https://github.com/SEL-Columbia/formhub",
     "SDGs": [
-        3,
-        4
+        [
+            3,
+            "Good Health and Well-Being"
+        ],
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/SEL-Columbia/formhub"
+    "repositoryURL": "https://github.com/SEL-Columbia/formhub",
+    "sectors": []
 }

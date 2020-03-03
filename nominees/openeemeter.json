@@ -4,16 +4,19 @@
     "license": [
         {
             "spdx": "Apache-2.0",
-            "link": "https://github.com/openeemeter/eemeter/blob/master/LICENSE"
+            "licenseURL": "https://github.com/openeemeter/eemeter/blob/master/LICENSE"
         }
     ],
     "website": "http://eemeter.openee.io/",
     "SDGs": [
-        7
+        [
+            7,
+            "Affordable and Clean Energy"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_org": "https://github.com/openeemeter/eemeter",
-    "repo_main": "https://github.com/energy-market-methods/caltrack"
+    "repositoryURL": "https://github.com/energy-market-methods/caltrack",
+    "sectors": []
 }

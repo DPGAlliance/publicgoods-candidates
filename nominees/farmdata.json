@@ -4,15 +4,22 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "http://www.gnu.org/copyleft/gpl.html"
+            "licenseURL": "http://www.gnu.org/copyleft/gpl.html"
         }
     ],
     "website": "https://sourceforge.net/projects/farmdata/",
     "SDGs": [
-        2,
-        9
+        [
+            2,
+            "Zero Hunger"
+        ],
+        [
+            9,
+            "Industry, Innovation and Infrastructure"
+        ]
     ],
     "type": [
         "software"
-    ]
+    ],
+    "sectors": []
 }

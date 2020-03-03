@@ -4,20 +4,26 @@
     "license": [
         {
             "spdx": "GPL-3.0",
-            "link": "https://github.com/teliportme/remixvr/blob/master/LICENSE"
+            "licenseURL": "https://github.com/teliportme/remixvr/blob/master/LICENSE"
         }
     ],
     "website": "http://www.teliportme.com/",
     "SDGs": [
-        4
+        [
+            4,
+            "Quality Education"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/teliportme/remixvr",
-    "supported_by": [
+    "repositoryURL": "https://github.com/teliportme/remixvr",
+    "sectors": [],
+    "organizations": [
         {
-            "org_name": "UNICEF Ventures Fund"
+            "name": "UNICEF Ventures Fund",
+            "org_type": "funder",
+            "website": "https://unicefinnovationfund.org/"
         }
     ]
 }

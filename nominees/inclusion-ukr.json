@@ -4,16 +4,23 @@
     "license": [
         {
             "spdx": "CC-BY-NC-SA-4.0",
-            "link": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+            "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
         }
     ],
     "website": "https://github.com/Social-Synergy/inclusion-UKR",
     "SDGs": [
-        4, 
-        10
+        [
+            4,
+            "Quality Education"
+        ],
+        [
+            10,
+            "Reduced Inequalities"
+        ]
     ],
     "type": [
         "software"
     ],
-    "repo_main": "https://github.com/Social-Synergy/inclusion-UKR"
+    "repositoryURL": "https://github.com/Social-Synergy/inclusion-UKR",
+    "sectors": []
 }
