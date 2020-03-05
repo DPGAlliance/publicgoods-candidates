@@ -1,7 +1,7 @@
 {
-  "name": "Ilhasoft",
+  "name": "Bothub",
   "description": "A multi-lingual chatbot training platform for easy and intuitive automated responses",
-  "website": "https://ilhasoft.com.br/en/",
+  "website": "https://bothub.it/",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -22,7 +22,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Ilhasoft",
+  "repositoryURL": "https://github.com/bothub-it/bothub",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

@@ -1,6 +1,6 @@
 {
   "name": "Datawheel Chile",
-  "description": "Data visualization solution  for public information to improve decsion-making",
+  "description": "Data visualization solution for public information to improve decsion-making",
   "website": "https://www.datawheel.us/",
   "license": [
     {
@@ -30,7 +30,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Datawheel",
+  "repositoryURL": "https://github.com/Datawheel/canon",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

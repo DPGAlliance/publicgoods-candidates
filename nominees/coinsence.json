@@ -1,5 +1,5 @@
 {
-  "name": "Utopixar",
+  "name": "Coinsence",
   "description": "Platform to match youth volunteers to social enterprises",
   "website": "https://coinsence.org",
   "license": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/coinsence",
+  "repositoryURL": "https://github.com/coinsence/coinsence-monorepo",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
