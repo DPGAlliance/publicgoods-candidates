@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.0] - 2020-03-03
+## [0.3.0] - 2020-03-05
 ### Added
 - Added `scripts/migrate-v0.3.0.js` to automatically migrate to the new version of the JSON schema.
+- Imported more than 200 new nominees from [publicgoods/products](https://github.com/publicgoods/products)
+- Added `scripts/check-filenames.bash` to automatically check the proper naming of nominees.
+- Added `scripts/order-fields.js` to automatically check the proper ordering of properties in each nominee file.
 
 ### Changed
 - Modified 'nominee-schema.json' to match the product-schema.json available at https://github.com/publicgoods/data-schema
