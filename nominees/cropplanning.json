@@ -1,26 +1,33 @@
 {
-    "name": "CropPlanning",
-    "description": "Crop Planning Software for small farmers and serious gardeners.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE"
-        }
+  "name": "CropPlanning",
+  "description": "Crop Planning Software for small farmers and serious gardeners.",
+  "website": "https://github.com/claytonrcarter/cropplanning",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/claytonrcarter/cropplanning/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
     ],
-    "website": "https://github.com/claytonrcarter/cropplanning",
-    "SDGs": [
-        [
-            2,
-            "Zero Hunger"
-        ],
-        [
-            12,
-            "Responsible Consumption and Production"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/claytonrcarter/cropplanning",
-    "sectors": []
+    [
+      12,
+      "Responsible Consumption and Production"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/claytonrcarter/cropplanning",
+  "organizations": [
+    {
+      "name": "Crop Planning",
+      "website": "https://github.com/claytonrcarter/cropplanning",
+      "org_type": "owner"
+    }
+  ]
 }

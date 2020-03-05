@@ -1,29 +1,29 @@
 {
-    "name": "eKitabu",
-    "description": "Personalized 'e-ereading and learning app for children with disabilities",
-    "license": [
-        {
-            "spdx": "BSD-3-Clause",
-            "licenseURL": "https://choosealicense.com/licenses/bsd-3-clause/"
-        }
-    ],
-    "website": "http://www.ekitabu.com",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/eKitabu",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "eKitabu",
+  "description": "Personalized 'e-ereading and learning app for children with disabilities",
+  "website": "https://www.ekitabu.com",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://choosealicense.com/licenses/bsd-3-clause/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/eKitabu",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

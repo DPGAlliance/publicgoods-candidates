@@ -1,0 +1,29 @@
+{
+  "name": "Uwazi",
+  "description": "Uwazi is a web-based, open-source solution for building and sharing document collections for human rights defenders",
+  "website": "https://www.uwazi.io",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/huridocs/uwazi/blob/development/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/huridocs/uwazi",
+  "organizations": [
+    {
+      "name": "Huridocs",
+      "website": "https://www.huridocs.org/",
+      "org_type": "owner"
+    }
+  ]
+}

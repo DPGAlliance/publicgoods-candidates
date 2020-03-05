@@ -1,0 +1,33 @@
+{
+  "name": "Landsat Util",
+  "description": "Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://github.com/developmentseed/landsat-util/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/developmentseed/landsat-util",
+  "organizations": [
+    {
+      "name": "Development Seed",
+      "website": "https://developmentseed.org/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,29 +1,29 @@
 {
-    "name": "Trustlab",
-    "description": "Blockchain technology solution for trasparent payments for schools in South Africa",
-    "license": [
-        {
-            "spdx": "MIT",
-            "licenseURL": "https://opensource.org/licenses/mit-license.php"
-        }
-    ],
-    "website": "",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/TrustlabTech",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Trustlab",
+  "description": "Blockchain technology solution for trasparent payments for schools in South Africa",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/TrustlabTech",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

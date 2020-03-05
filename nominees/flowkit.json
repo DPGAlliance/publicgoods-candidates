@@ -1,0 +1,37 @@
+{
+  "name": "FlowKit",
+  "description": "Use FlowKit to analyze the Call Detail Record (CDR) data created by mobile network operators (MNOs). CDR data is primarily used for generating subscriber bills and settling accounts with other carriers.",
+  "website": "https://flowminder.github.io/FlowKit/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/Flowminder/FlowKit/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Flowminder/FlowKit",
+  "organizations": [
+    {
+      "name": "Flowminder",
+      "website": "https://www.flowminder.org/",
+      "org_type": "owner"
+    }
+  ]
+}

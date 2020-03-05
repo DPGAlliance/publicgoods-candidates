@@ -1,0 +1,37 @@
+{
+  "name": "PublicLab Plots2",
+  "description": "A collaborative knowledge-exchange platform in Rails.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/publiclab/plots2/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/publiclab/plots2",
+  "organizations": [
+    {
+      "name": "PublicLab",
+      "website": "https://publiclab.org/",
+      "org_type": "owner"
+    }
+  ]
+}

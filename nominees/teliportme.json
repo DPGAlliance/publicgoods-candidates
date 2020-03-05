@@ -1,29 +1,29 @@
 {
-    "name": "Teliportme",
-    "description": "Solution that provides VR content across different platforms,creating 'remote' learning experiences using WebVR",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/teliportme/remixvr/blob/master/LICENSE"
-        }
-    ],
-    "website": "http://www.teliportme.com/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/teliportme/remixvr",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Teliportme",
+  "description": "Solution that provides VR content across different platforms,creating 'remote' learning experiences using WebVR",
+  "website": "https://www.teliportme.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/teliportme/remixvr/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/teliportme/remixvr",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

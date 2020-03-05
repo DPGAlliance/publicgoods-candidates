@@ -1,0 +1,37 @@
+{
+  "name": "@firma",
+  "description": "Suite of solutions for digital identities and electronic signatures, aimed at public administrations for the implementation of authentication and electronic signatures in a streamlined and effective manner.",
+  "website": "https://administracionelectronica.gob.es/ctt/clienteafirma",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/ctt-gob-es/clienteafirma/blob/master/license/LICENSE.txt"
+    },
+    {
+      "spdx": "EUPL-1.1",
+      "licenseURL": "https://github.com/ctt-gob-es/clienteafirma/blob/master/license/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/ctt-gob-es/clienteafirma",
+  "organizations": [
+    {
+      "name": "Technology Transfer Center, Government of Spain",
+      "website": "https://administracionelectronica.gob.es/",
+      "org_type": "owner"
+    }
+  ]
+}

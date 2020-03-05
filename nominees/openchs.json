@@ -1,0 +1,32 @@
+{
+  "name": "OpenCHS",
+  "description": "OpenCHS is a platform that supports field workers, when they provide services to their clients in a field or when they do data collection.",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/OpenCHS/openchs-server/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OpenCHS/openchs-server",
+  "organizations": [
+    {
+      "name": "Avni",
+      "website": "https://avniproject.org/",
+      "org_type": "owner"
+    }
+  ]
+}

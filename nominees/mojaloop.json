@@ -1,26 +1,42 @@
 {
-    "name": "Mojaloop",
-    "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
-        }
+  "name": "Mojaloop",
+  "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
+  "website": "https://mojaloop.io/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
     ],
-    "website": "https://mojaloop.io/",
-    "SDGs": [
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/mojaloop/mojaloop",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/mojaloop/mojaloop",
+  "organizations": [
+    {
+      "name": "MojaLoop",
+      "website": "https://mojaloop.io/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Bill & Melinda Gates Foundation",
+      "website": "https://www.gatesfoundation.org",
+      "org_type": "funder"
+    }
+  ]
 }

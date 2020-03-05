@@ -1,0 +1,37 @@
+{
+  "name": "Mifos Community App",
+  "description": "This is the default web application built on top of the MifosX platform for the mifos user community.",
+  "website": "https://mifos.org",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openMF/community-app",
+  "organizations": [
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org/",
+      "org_type": "owner"
+    }
+  ]
+}

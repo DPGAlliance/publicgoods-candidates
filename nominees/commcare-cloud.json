@@ -1,0 +1,29 @@
+{
+  "name": "CommCare Cloud",
+  "description": "Tools for standing up and managing a CommCare HQ server environment. An easily customizable, open source mobile platform that supports frontline workers in low-resource settings.",
+  "website": "https://dimagi.github.io/commcare-cloud/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/dimagi/commcare-cloud/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/dimagi/commcare-cloud",
+  "organizations": [
+    {
+      "name": "Dimagi",
+      "website": "https://www.dimagi.com/",
+      "org_type": "owner"
+    }
+  ]
+}

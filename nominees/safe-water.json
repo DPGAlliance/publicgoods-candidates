@@ -1,0 +1,29 @@
+{
+  "name": "Safe Water",
+  "description": "We are trying to predict health-based drinking water violations in the United States.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforboston/safe-water/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      6,
+      "Clean Water and Sanitation"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/codeforboston/safe-water",
+  "organizations": [
+    {
+      "name": "Code for Boston",
+      "website": "https://www.codeforboston.org/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "LookingGlass",
+  "description": "Intuitive and configurable search interface for document archives.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/TransparencyToolkit/LookingGlass/blob/master/COPYING"
+    }
+  ],
+  "SDGs": [
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/TransparencyToolkit/LookingGlass",
+  "organizations": [
+    {
+      "name": "Transparency Toolkit",
+      "website": "https://transparencytoolkit.org/",
+      "org_type": "owner"
+    }
+  ]
+}

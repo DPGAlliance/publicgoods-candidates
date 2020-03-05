@@ -1,33 +1,45 @@
 {
-    "name": "Mobile Technology for Community Health",
-    "description": "A modular, extensible open source software project originally designed for mobile health (mHealth), which can also be used outside of the health domain.",
-    "license": [
-        {
-            "spdx": "BSD-3-Clause",
-            "licenseURL": "https://github.com/motech/motech/blob/master/LICENSE.txt"
-        }
+  "name": "Mobile Technology for Community Health",
+  "aliases": [
+    "MOTECH"
+  ],
+  "description": "A modular, extensible open source software project originally designed for mobile health (mHealth), which can also be used outside of the health domain.",
+  "website": "https://docs.motechproject.org",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/motech/motech/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "http://docs.motechproject.org",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/motech/MOTECH",
-    "aliases": [
-        "MOTECH"
-    ],
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/motech/MOTECH",
+  "organizations": [
+    {
+      "name": "MOTECH",
+      "website": "https://motechproject.org",
+      "org_type": "owner"
+    },
+    {
+      "name": "Grameen Foundation",
+      "website": "https://grameenfoundation.org/",
+      "org_type": "funder"
+    }
+  ]
 }

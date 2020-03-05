@@ -1,0 +1,37 @@
+{
+  "name": "uData",
+  "description": "Customizable and skinnable social platform dedicated to (open)data.",
+  "website": "https://getudata.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/opendatateam/udata/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opendatateam/udata",
+  "organizations": [
+    {
+      "name": "Open Data Team",
+      "website": "https://getudata.org/",
+      "org_type": "owner"
+    }
+  ]
+}

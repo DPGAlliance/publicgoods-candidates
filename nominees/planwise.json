@@ -1,26 +1,33 @@
 {
-    "name": "PlanWise",
-    "description": "PlanWise helps planners and responders in low-resource settings see how they can serve as many people as they can, as cost-effectively as they can.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/instedd/planwise/blob/master/LICENSE.md"
-        }
+  "name": "PlanWise",
+  "description": "PlanWise helps planners and responders in low-resource settings see how they can serve as many people as they can, as cost-effectively as they can.",
+  "website": "https://planwise.instedd.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/instedd/planwise/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "website": "https://planwise.instedd.org/",
-    "SDGs": [
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/instedd/planwise",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/instedd/planwise",
+  "organizations": [
+    {
+      "name": "InSTEDD",
+      "website": "https://instedd.org/",
+      "org_type": "owner"
+    }
+  ]
 }

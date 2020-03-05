@@ -1,29 +1,29 @@
 {
-    "name": "Rah-e-maa",
-    "description": "A mobile app that mproves maternal health in Pakistan by engaging fathers",
-    "license": [
-        {
-            "spdx": "CC-BY-4.0",
-            "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
-        }
-    ],
-    "website": "www.superabbu.com",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/faisalmlalani/rah-e-maa",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Rah-e-maa",
+  "description": "A mobile app that mproves maternal health in Pakistan by engaging fathers",
+  "website": "www.superabbu.com",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/faisalmlalani/rah-e-maa",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

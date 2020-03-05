@@ -1,26 +1,36 @@
 {
-    "name": "Inclusion UKR",
-    "description": "Ukrainian inclusion font for printing and web.",
-    "license": [
-        {
-            "spdx": "CC-BY-NC-SA-4.0",
-            "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
-        }
+  "name": "Inclusion UKR",
+  "description": "Ukrainian inclusion font for printing and web.",
+  "website": "https://github.com/Social-Synergy/inclusion-UKR",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ],
-    "website": "https://github.com/Social-Synergy/inclusion-UKR",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ],
-        [
-            10,
-            "Reduced Inequalities"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/Social-Synergy/inclusion-UKR",
-    "sectors": []
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Social-Synergy/inclusion-UKR",
+  "organizations": [
+    {
+      "name": "UNICEF Ukraine",
+      "org_type": "owner"
+    },
+    {
+      "name": "Social Synergy",
+      "org_type": "owner"
+    }
+  ]
 }

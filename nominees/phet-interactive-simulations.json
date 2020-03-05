@@ -1,33 +1,40 @@
 {
-    "name": "PhET Interactive Simulations",
-    "description": "Free science and math simulations for teaching STEM topics, including physics, chemistry, biology, and math, from University of Colorado Boulder.",
-    "license": [
-        {
-            "spdx": "CC-BY-4.0",
-            "licenseURL": "https://phet.colorado.edu/en/licensing"
-        },
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://phet.colorado.edu/en/licensing"
-        },
-        {
-            "spdx": "MIT",
-            "licenseURL": "https://phet.colorado.edu/en/licensing"
-        }
-    ],
-    "website": "https://phet.colorado.edu/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software",
-        "data"
-    ],
-    "aliases": [
-        "PhET"
-    ],
-    "sectors": []
+  "name": "PhET Interactive Simulations",
+  "aliases": [
+    "PhET"
+  ],
+  "description": "Free science and math simulations for teaching STEM topics, including physics, chemistry, biology, and math, from University of Colorado Boulder.",
+  "website": "https://phet.colorado.edu/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://phet.colorado.edu/en/licensing"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://phet.colorado.edu/en/licensing"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://phet.colorado.edu/en/licensing"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "University of Colorado, Boulder",
+      "website": "https://phet.colorado.edu/",
+      "org_type": "owner"
+    }
+  ]
 }

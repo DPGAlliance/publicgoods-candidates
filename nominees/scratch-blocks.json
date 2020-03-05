@@ -1,0 +1,29 @@
+{
+  "name": "Scratch Blocks",
+  "description": "Scratch Blocks is a library for building creative computing interfaces. ",
+  "website": "",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/LLK/scratch-blocks/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/LLK/scratch-blocks",
+  "organizations": [
+    {
+      "name": "Scratch",
+      "website": "https://scratch.mit.edu/about",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Open Civil Registration and Vital Statistics",
+  "aliases": [
+    "OpenCRVS"
+  ],
+  "description": "Configurable software for civil registration designed for low resource settings",
+  "website": "www.opencrvs.org",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/opencrvs/opencrvs-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opencrvs/opencrvs-core",
+  "organizations": [
+    {
+      "name": "OpenCRVS",
+      "website": "https://www.opencrvs.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Plan International",
+      "website": "https://plan-international.org/",
+      "org_type": "owner"
+    }
+  ]
+}

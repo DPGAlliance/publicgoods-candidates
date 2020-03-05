@@ -1,0 +1,29 @@
+{
+  "name": "Eviction maps",
+  "description": "Data visualization tool for the Eviction Lab at Princeton University",
+  "website": "https://evictionlab.org/map/#/2016?geography=states",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/EvictionLab/eviction-maps/blob/development/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/EvictionLab/eviction-maps",
+  "organizations": [
+    {
+      "name": "EvictionLab",
+      "website": "https://evictionlab.org/",
+      "org_type": "owner"
+    }
+  ]
+}

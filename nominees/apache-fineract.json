@@ -1,26 +1,37 @@
 {
-    "name": "Apache Fineract",
-    "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://github.com/apache/fineract/blob/develop/LICENSE_SOURCE"
-        }
+  "name": "Apache Fineract",
+  "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
+  "website": "https://fineract.apache.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/apache/fineract/blob/develop/LICENSE_SOURCE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
     ],
-    "website": "https://fineract.apache.org/",
-    "SDGs": [
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/apache/fineract",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/apache/fineract",
+  "organizations": [
+    {
+      "name": "The Apache Software Foundation",
+      "website": "https://www.apache.org/",
+      "org_type": "owner"
+    }
+  ]
 }

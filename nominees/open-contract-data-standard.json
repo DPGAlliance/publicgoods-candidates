@@ -1,25 +1,32 @@
 {
-    "name": "Open Contract Data Standard",
-    "description": "The Open Contracting Data Standard (OCDS) enables disclosure of data and documents at all stages of the contracting process by defining a common data model. It was created to support organizations to increase contracting transparency, and allow deeper analysis of contracting data by a wide range of users.",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://github.com/open-contracting/standard/blob/1.1-dev/LICENSE"
-        }
-    ],
-    "website": "http://standard.open-contracting.org",
-    "SDGs": [
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ]
-    ],
-    "type": [
-        "standard"
-    ],
-    "repositoryURL": "https://github.com/open-contracting/standard",
-    "aliases": [
-        "OCDS"
-    ],
-    "sectors": []
+  "name": "Open Contract Data Standard",
+  "aliases": [
+    "OCDS"
+  ],
+  "description": "The Open Contracting Data Standard (OCDS) enables disclosure of data and documents at all stages of the contracting process by defining a common data model. It was created to support organizations to increase contracting transparency, and allow deeper analysis of contracting data by a wide range of users.",
+  "website": "https://standard.open-contracting.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/open-contracting/standard/blob/1.1-dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositoryURL": "https://github.com/open-contracting/standard",
+  "organizations": [
+    {
+      "name": "Open Contracting Partnership",
+      "website": "https://www.open-contracting.org/",
+      "org_type": "owner"
+    }
+  ]
 }

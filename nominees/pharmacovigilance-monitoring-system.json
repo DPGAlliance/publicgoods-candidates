@@ -1,33 +1,40 @@
 {
-    "name": "PharmacoVigilance Monitoring System",
-    "description": "A web-based application used to monitor the safety of medicines.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/MSH/PViMS/blob/devel/LICENSE"
-        }
+  "name": "PharmacoVigilance Monitoring System",
+  "aliases": [
+    "PViMS"
+  ],
+  "description": "A web-based application used to monitor the safety of medicines.",
+  "website": "https://github.com/MSH/PViMS",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/MSH/PViMS/blob/devel/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "https://github.com/MSH/PViMS",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/MSH/PViMS",
-    "aliases": [
-        "PViMS"
-    ],
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/MSH/PViMS",
+  "organizations": [
+    {
+      "name": "Management Sciences for Health",
+      "website": "https://www.msh.org/",
+      "org_type": "owner"
+    }
+  ]
 }

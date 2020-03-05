@@ -1,0 +1,38 @@
+{
+  "name": "Global Power Plant Data-Base",
+  "description": "A comprehensive, global, open source database of power plants",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/MIT"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositoryURL": "https://github.com/wri/global-power-plant-database",
+  "organizations": [
+    {
+      "name": "World Resources Institute",
+      "website": "https://www.wri.org/about",
+      "org_type": "owner"
+    }
+  ]
+}

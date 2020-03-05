@@ -1,30 +1,37 @@
 {
-    "name": "Global Digital Library",
-    "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
-    "license": [
-        {
-            "spdx": "CC-BY-3.0",
-            "licenseURL": "https://home.digitallibrary.io/cc/"
-        },
-        {
-            "spdx": "CC-BY-SA-3.0",
-            "licenseURL": "https://home.digitallibrary.io/cc/"
-        }
-    ],
-    "website": "https://home.digitallibrary.io/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software",
-        "data"
-    ],
-    "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
-    "aliases": [
-        "GDL"
-    ],
-    "sectors": []
+  "name": "Global Digital Library",
+  "aliases": [
+    "GDL"
+  ],
+  "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
+  "website": "https://home.digitallibrary.io/",
+  "license": [
+    {
+      "spdx": "CC-BY-3.0",
+      "licenseURL": "https://home.digitallibrary.io/cc/"
+    },
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://home.digitallibrary.io/cc/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
+  "organizations": [
+    {
+      "name": "Global Book Alliance",
+      "website": "https://www.globalbookalliance.org/",
+      "org_type": "owner"
+    }
+  ]
 }

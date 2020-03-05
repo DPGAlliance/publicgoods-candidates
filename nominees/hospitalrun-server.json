@@ -1,0 +1,29 @@
+{
+  "name": "HospitalRun Server",
+  "description": "Node backend for HospitalRun",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/HospitalRun/hospitalrun-server/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/HospitalRun/hospitalrun-server",
+  "organizations": [
+    {
+      "name": "HospitalRun",
+      "website": "https://hospitalrun.io/",
+      "org_type": "owner"
+    }
+  ]
+}

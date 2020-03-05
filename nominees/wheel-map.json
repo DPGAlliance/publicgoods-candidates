@@ -1,0 +1,33 @@
+{
+  "name": "Wheel Map",
+  "description": "Source code of classic wheelmap.org",
+  "website": "https://wheelmap.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/sozialhelden/wheelmap-classic/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/sozialhelden/wheelmap-classic",
+  "organizations": [
+    {
+      "name": "Sozialhelden",
+      "website": "https://sozialhelden.de/en/social-heroes/",
+      "org_type": "owner"
+    }
+  ]
+}

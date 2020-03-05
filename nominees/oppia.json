@@ -1,22 +1,29 @@
 {
-    "name": "Oppia",
-    "description": "Tool for collaboratively building interactive lessons.",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://github.com/oppia/oppia/blob/develop/LICENSE"
-        }
-    ],
-    "website": "https://www.oppia.org/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/oppia/oppia",
-    "sectors": []
+  "name": "Oppia",
+  "description": "Tool for collaboratively building interactive lessons.",
+  "website": "https://www.oppia.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/oppia/oppia/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/oppia/oppia",
+  "organizations": [
+    {
+      "name": "Oppia",
+      "website": "https://www.oppia.org",
+      "org_type": "owner"
+    }
+  ]
 }

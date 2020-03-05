@@ -1,21 +1,28 @@
 {
-    "name": "Book Dash",
-    "description": "Book Dash gathers creative volunteers to create new African storybooks that anyone can freely print, translate and distribute.",
-    "license": [
-        {
-            "spdx": "CC-BY-SA-4.0",
-            "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
-        }
-    ],
-    "website": "https://bookdash.org",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "data"
-    ],
-    "sectors": []
+  "name": "Book Dash",
+  "description": "Book Dash gathers creative volunteers to create new African storybooks that anyone can freely print, translate and distribute.",
+  "website": "https://bookdash.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Book Dash",
+      "website": "https://bookdash.org/",
+      "org_type": "owner"
+    }
+  ]
 }

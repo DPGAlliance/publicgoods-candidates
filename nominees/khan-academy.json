@@ -1,21 +1,28 @@
 {
-    "name": "Khan Academy",
-    "description": "Expert-created content and resources for every course and level, always free.",
-    "license": [
-        {
-            "spdx": "CC-BY-NC-SA-3.0",
-            "licenseURL": "https://www.khanacademy.org/about/tos#5"
-        }
-    ],
-    "website": "https://www.khanacademy.org",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "data"
-    ],
-    "sectors": []
+  "name": "Khan Academy",
+  "description": "Expert-created content and resources for every course and level, always free.",
+  "website": "https://www.khanacademy.org",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
+      "licenseURL": "https://www.khanacademy.org/about/tos#5"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Khan Academy",
+      "website": "https://www.khanacademy.org",
+      "org_type": "owner"
+    }
+  ]
 }

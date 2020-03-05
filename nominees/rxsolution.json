@@ -1,30 +1,37 @@
 {
-    "name": "RxSolution",
-    "description": "RxSolution is an electronic pharmaceutical management system used to manage inventory, purchase and issue stocks, and dispense medication.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/MSH/RxSolution/blob/Devel/LICENSE"
-        }
+  "name": "RxSolution",
+  "description": "RxSolution is an electronic pharmaceutical management system used to manage inventory, purchase and issue stocks, and dispense medication.",
+  "website": "https://github.com/MSH/RxSolution",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/MSH/RxSolution/blob/Devel/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "https://github.com/MSH/RxSolution",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/MSH/RxSolution",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/MSH/RxSolution",
+  "organizations": [
+    {
+      "name": "Management Sciences for Health",
+      "website": "https://www.msh.org",
+      "org_type": "owner"
+    }
+  ]
 }

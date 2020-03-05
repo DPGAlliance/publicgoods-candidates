@@ -1,21 +1,28 @@
 {
-    "name": "OpenEMIS",
-    "description": "An Education Management Information System for the education sector. Its main purpose is to collect, analyze, and report data related to the management of educational activities.",
-    "license": [
-        {
-            "spdx": "GPL-2.0",
-            "licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
-        }
-    ],
-    "website": "http://www.openemis.org",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "sectors": []
+  "name": "OpenEMIS",
+  "description": "An Education Management Information System for the education sector. Its main purpose is to collect, analyze, and report data related to the management of educational activities.",
+  "website": "https://www.openemis.org",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "OpenEMIS",
+      "website": "https://www.openemis.org",
+      "org_type": "owner"
+    }
+  ]
 }

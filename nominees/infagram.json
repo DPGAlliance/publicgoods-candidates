@@ -1,0 +1,37 @@
+{
+  "name": "Infagram",
+  "description": "Infragram is an online tool for analyzing plant health with near-infrared imagery.",
+  "website": "https://infragram.org/",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/publiclab/infragram/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/publiclab/infragram",
+  "organizations": [
+    {
+      "name": "PublicLab",
+      "website": "https://publiclab.org/",
+      "org_type": "owner"
+    }
+  ]
+}

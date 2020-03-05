@@ -1,29 +1,29 @@
 {
-    "name": "Conative Labs",
-    "description": "IoT solution that monitors water quality in real-time",
-    "license": [
-        {
-            "spdx": "LGPL-3.0",
-            "licenseURL": "https://www.gnu.org/licenses/lgpl-3.0.html"
-        }
-    ],
-    "website": "http://www.nilebot.com",
-    "SDGs": [
-        [
-            6,
-            "Clean Water and Sanitation"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/conative-labs/",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Conative Labs",
+  "description": "IoT solution that monitors water quality in real-time",
+  "website": "https://www.nilebot.com",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://www.gnu.org/licenses/lgpl-3.0.html"
+    }
+  ],
+  "SDGs": [
+    [
+      6,
+      "Clean Water and Sanitation"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/conative-labs/",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

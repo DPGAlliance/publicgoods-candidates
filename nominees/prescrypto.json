@@ -1,29 +1,29 @@
 {
-    "name": "Prescrypto",
-    "description": "Tracking medical prescriptions in a data secure and consolidated way over blockchain",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://github.com/Prescrypto/rxchain/blob/master/LICENSE"
-        }
-    ],
-    "website": "https://www.prescrypto.com",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/prescrypto/rxchain/",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Prescrypto",
+  "description": "Tracking medical prescriptions in a data secure and consolidated way over blockchain",
+  "website": "https://www.prescrypto.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Prescrypto/rxchain/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/prescrypto/rxchain/",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

@@ -4,12 +4,25 @@
   "description": "JSON schema validation for Digital Public Goods nominees",
   "main": "index.js",
   "scripts": {
-    "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\""
+    "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\"",
+    "check": "./scripts/check-filenames.bash",
+    "check:fix": "./scripts/check-filenames.bash --fix",
+    "lint": "for f in ./products/*.json; do jsonlint \"$f\" > tempfile.tmp; truncate -s -1 tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
+    "lint:fix": "for f in ./products/*.json; do echo $f; jsonlint \"$f\" -i; done",
+    "order": "node scripts/order-fields.js",
+    "order:fix": "node scripts/order-fields.js --fix"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
     "ajv-cli": "^3.0.0",
-    "csvtojson": "^2.0.10"
+    "csvtojson": "^2.0.10",
+    "husky": "^4.2.3",
+    "jsonlint": "^1.6.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test && npm run order && npm run check"
+    }
   }
 }

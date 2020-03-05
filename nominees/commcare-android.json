@@ -1,0 +1,29 @@
+{
+  "name": "CommCare Android",
+  "description": "Android App for CommCare, an easily customizable, open source mobile platform that supports frontline workers in low-resource settings. By replacing paper-based forms, frontline workers can use CommCare to track and support their clients with registration forms, checklists, SMS reminders, and multimedia.",
+  "website": "https://play.google.com/store/apps/details?id=org.commcare.dalvik&hl=en",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/dimagi/commcare-android/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/dimagi/commcare-android",
+  "organizations": [
+    {
+      "name": "Dimagi",
+      "website": "https://www.dimagi.com/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,29 +1,36 @@
 {
-    "name": "Open Insurance Management Information System",
-    "description": "OpenIMIS is open source software that manages social (health) protection schemes. It links beneficiary, provider and payer data.",
-    "license": [
-        {
-            "spdx": "AGPL-3.0",
-            "licenseURL": "https://github.com/openimis/web_app_vb/blob/master/GNU%20AFFERO%20GENERAL%20PUBLIC%20LICENSE.md"
-        }
+  "name": "Open Insurance Management Information System",
+  "aliases": [
+    "OpenIMIS"
+  ],
+  "description": "OpenIMIS is open source software that manages social (health) protection schemes. It links beneficiary, provider and payer data.",
+  "website": "https://www.openimis.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/openimis/web_app_vb/blob/master/GNU%20AFFERO%20GENERAL%20PUBLIC%20LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "http://www.openimis.org/",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            9,
-            "Industry, Innovation and Infrastructure"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/openimis/web_app_vb",
-    "aliases": [
-        "OpenIMIS"
-    ],
-    "sectors": []
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openimis/web_app_vb",
+  "organizations": [
+    {
+      "name": "OpenIMIS",
+      "website": "https://www.openimis.org/",
+      "org_type": "owner"
+    }
+  ]
 }

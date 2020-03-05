@@ -1,0 +1,29 @@
+{
+  "name": "Alaveteli",
+  "description": "Provide a Freedom of Information request system for your jurisdiction",
+  "website": "https://alaveteli.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/mysociety/alaveteli/blob/develop/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/mysociety/alaveteli",
+  "organizations": [
+    {
+      "name": "mySociety",
+      "website": " https://www.mysociety.org/",
+      "org_type": "owner"
+    }
+  ]
+}

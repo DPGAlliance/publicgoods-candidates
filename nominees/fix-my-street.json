@@ -1,0 +1,29 @@
+{
+  "name": "Fix My Street",
+  "description": "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions",
+  "website": "https://fixmystreet.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/mysociety/fixmystreet/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/mysociety/fixmystreet",
+  "organizations": [
+    {
+      "name": "mySociety",
+      "website": " https://www.mysociety.org/",
+      "org_type": "owner"
+    }
+  ]
+}

@@ -1,29 +1,29 @@
 {
-    "name": "Yuudee",
-    "description": "Personalized learning app for children with autism",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
-        }
-    ],
-    "website": "https://www.daokoudai.com/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "backend：https://github.com/xiaoyudi-China/yuudee",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Yuudee",
+  "description": "Personalized learning app for children with autism",
+  "website": "https://www.daokoudai.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "backend：https://github.com/xiaoyudi-China/yuudee",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

@@ -1,26 +1,33 @@
 {
-    "name": "OnaData",
-    "description": "Collect, Analyze and Share Data!",
-    "license": [
-        {
-            "spdx": "GPL-2.0",
-            "licenseURL": "https://github.com/onaio/onadata/blob/master/LICENSE"
-        }
+  "name": "OnaData",
+  "description": "Collect, Analyze and Share Data!",
+  "website": "https://github.com/onaio/onadata",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/onaio/onadata/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "https://github.com/onaio/onadata",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/onaio/onadata",
-    "sectors": []
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/onaio/onadata",
+  "organizations": [
+    {
+      "name": "Ona",
+      "website": "https://ona.io",
+      "org_type": "owner"
+    }
+  ]
 }

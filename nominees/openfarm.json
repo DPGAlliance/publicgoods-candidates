@@ -1,31 +1,38 @@
 {
-    "name": "OpenFarm",
-    "description": "Free and open database and web application for farming and gardening knowledge. One might think of it as the Wikipedia for growing plants, though it functions more like a cooking recipes site.",
-    "license": [
-        {
-            "spdx": "MIT",
-            "licenseURL": "https://github.com/openfarmcc/OpenFarm/blob/master/LICENSE"
-        },
-        {
-            "spdx": "CC0-1.0",
-            "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
-        }
+  "name": "OpenFarm",
+  "description": "Free and open database and web application for farming and gardening knowledge. One might think of it as the Wikipedia for growing plants, though it functions more like a cooking recipes site.",
+  "website": "https://openfarm.cc/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openfarmcc/OpenFarm/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
     ],
-    "website": "https://openfarm.cc/",
-    "SDGs": [
-        [
-            2,
-            "Zero Hunger"
-        ],
-        [
-            9,
-            "Industry, Innovation and Infrastructure"
-        ]
-    ],
-    "type": [
-        "software",
-        "data"
-    ],
-    "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
-    "sectors": []
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
+  "organizations": [
+    {
+      "name": "OpenFarm",
+      "website": "https://www.openfarm.cc",
+      "org_type": "owner"
+    }
+  ]
 }

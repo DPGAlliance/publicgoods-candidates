@@ -1,0 +1,33 @@
+{
+  "name": "UNICEF MagicBox",
+  "description": "With MagicBox, Unicef can gain critical insights into the needs of vulnerable populations, and make more informed decisions to respond to disaster, epidemics and other challenges.",
+  "website": "https://unicefstories.org/magicbox/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/unicef/magicbox-open-api/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/unicef/magicbox-open-api",
+  "organizations": [
+    {
+      "name": "UNICEF Innovation",
+      "website": "https://www.unicef.org/innovation/",
+      "org_type": "owner"
+    }
+  ]
+}

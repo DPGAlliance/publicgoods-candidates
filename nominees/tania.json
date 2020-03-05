@@ -1,26 +1,33 @@
 {
-    "name": "Tania",
-    "description": "Farmer journal to help you manage your farm easily by accessing information you need on-the-go.",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://github.com/Tanibox/tania-core/blob/master/LICENSE"
-        }
+  "name": "Tania",
+  "description": "Farmer journal to help you manage your farm easily by accessing information you need on-the-go.",
+  "website": "https://usetania.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Tanibox/tania-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
     ],
-    "website": "https://usetania.org/",
-    "SDGs": [
-        [
-            2,
-            "Zero Hunger"
-        ],
-        [
-            9,
-            "Industry, Innovation and Infrastructure"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/Tanibox/tania-core",
-    "sectors": []
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Tanibox/tania-core",
+  "organizations": [
+    {
+      "name": "Tanibox",
+      "website": "https://www.tanibox.com",
+      "org_type": "owner"
+    }
+  ]
 }

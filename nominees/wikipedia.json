@@ -1,22 +1,29 @@
 {
-    "name": "Wikipedia",
-    "description": "A multilingual, web-based, free encyclopedia based on a model of openly editable and viewable content, a wiki.",
-    "license": [
-        {
-            "spdx": "CC-BY-SA-3.0",
-            "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
-        }
-    ],
-    "website": "https://www.wikipedia.org/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software",
-        "data"
-    ],
-    "sectors": []
+  "name": "Wikipedia",
+  "description": "A multilingual, web-based, free encyclopedia based on a model of openly editable and viewable content, a wiki.",
+  "website": "https://www.wikipedia.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Wikimedia Foundation",
+      "website": "https://wikimediafoundation.org/",
+      "org_type": "owner"
+    }
+  ]
 }

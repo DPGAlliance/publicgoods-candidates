@@ -1,26 +1,33 @@
 {
-    "name": "Pollit",
-    "description": "Pollit helps you use the ease of text messaging to conduct surveys reaching your audience at their convenience.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/instedd/pollit/blob/master/LICENSE"
-        }
+  "name": "Pollit",
+  "description": "Pollit helps you use the ease of text messaging to conduct surveys reaching your audience at their convenience.",
+  "website": "https://pollit.instedd.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/instedd/pollit/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "website": "https://pollit.instedd.org",
-    "SDGs": [
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/instedd/pollit",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/instedd/pollit",
+  "organizations": [
+    {
+      "name": "InSTEDD",
+      "website": "https://instedd.org/",
+      "org_type": "owner"
+    }
+  ]
 }

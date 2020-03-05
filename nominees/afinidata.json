@@ -1,29 +1,29 @@
 {
-    "name": "Afinidata",
-    "description": "Providing access to quality early childhood education using artificial intelligence",
-    "license": [
-        {
-            "spdx": "AGPL-3.0",
-            "licenseURL": "https://github.com/afinidata2019/afinidata-content-manager/blob/master/LICENSE"
-        }
-    ],
-    "website": "http://afinidata.com/en/home/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/afinidata2019/afinidata-content-manager",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Afinidata",
+  "description": "Providing access to quality early childhood education using artificial intelligence",
+  "website": "https://afinidata.com/en/home/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/afinidata2019/afinidata-content-manager/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/afinidata2019/afinidata-content-manager",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

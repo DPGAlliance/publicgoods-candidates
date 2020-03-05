@@ -1,29 +1,29 @@
 {
-    "name": "W3 Engineers",
-    "description": "Mobile connectivity platform reselling small connectivity top-ups in refugee settelements",
-    "license": [
-        {
-            "spdx": "Apache-2.0",
-            "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
-        }
-    ],
-    "website": "https://w3engineers.com",
-    "SDGs": [
-        [
-            10,
-            "Reduced Inequalities"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/w3-engineers/telemesh",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "W3 Engineers",
+  "description": "Mobile connectivity platform reselling small connectivity top-ups in refugee settelements",
+  "website": "https://w3engineers.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "SDGs": [
+    [
+      10,
+      "Reduced Inequalities"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/w3-engineers/telemesh",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

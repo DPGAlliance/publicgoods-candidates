@@ -1,34 +1,34 @@
 {
-    "name": "CIREHA",
-    "description": "Augmentative and alternative communication system that enables children with speech and language impairments to communicate",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
-        },
-        {
-            "spdx": "CC-BY-SA-3.0",
-            "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-        }
-    ],
-    "website": "http://www.cireha.com.ar/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "software",
-        "data"
-    ],
-    "repositoryURL": "https://github.com/cboard-org/cboard",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "CIREHA",
+  "description": "Augmentative and alternative communication system that enables children with speech and language impairments to communicate",
+  "website": "https://www.cireha.com.ar/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+    },
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/cboard-org/cboard",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

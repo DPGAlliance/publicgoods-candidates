@@ -1,30 +1,30 @@
 {
-    "name": "Autonomous Systems Research",
-    "description": "An open ecosystem of drone imagery and other remote sensing data to boost agricultural in sub-Saharan Africa",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
-        }
-    ],
-    "website": "http://as-research.org",
-    "SDGs": [
-        [
-            2,
-            "Zero Hunger"
-        ]
-    ],
-    "type": [
-        "software",
-        "data"
-    ],
-    "repositoryURL": "https://github.com/team-asr",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Autonomous Systems Research",
+  "description": "An open ecosystem of drone imagery and other remote sensing data to boost agricultural in sub-Saharan Africa",
+  "website": "https://as-research.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/team-asr",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

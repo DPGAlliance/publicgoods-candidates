@@ -1,0 +1,29 @@
+{
+  "name": "5Calls Frontend",
+  "description": "Frontend for the 5calls.org site",
+  "website": "https://5calls.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/5calls/5calls/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/5calls/5calls",
+  "organizations": [
+    {
+      "name": "5Calls",
+      "website": "https://5calls.org/",
+      "org_type": "owner"
+    }
+  ]
+}

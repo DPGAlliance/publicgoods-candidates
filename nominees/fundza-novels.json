@@ -1,21 +1,28 @@
 {
-    "name": "Fundza Novels",
-    "description": "Mobile novel, plays and poems for teenagers from South Africa",
-    "license": [
-        {
-            "spdx": "CC-BY-SA-2.5",
-            "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/za/"
-        }
-    ],
-    "website": "https://live.fundza.mobi/specials/yoza-content-on-fundza/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "data"
-    ],
-    "sectors": []
+  "name": "Fundza Novels",
+  "description": "Mobile novel, plays and poems for teenagers from South Africa",
+  "website": "https://live.fundza.mobi/specials/yoza-content-on-fundza/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-2.5",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/za/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "FunDza",
+      "website": "https://www.fundza.co.za",
+      "org_type": "owner"
+    }
+  ]
 }

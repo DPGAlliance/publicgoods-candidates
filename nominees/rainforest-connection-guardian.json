@@ -1,0 +1,33 @@
+{
+  "name": "Rainforest Connection Guardian",
+  "description": "Rainforest Connection (RFCx) creates acoustic monitoring systems for those who wish to end illegal deforestation in real-time.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/rfcx/rfcx-guardian-android/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      15,
+      "Life On Land"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/rfcx/rfcx-guardian-android",
+  "organizations": [
+    {
+      "name": "Rainforest Connection",
+      "website": "https://rfcx.org/",
+      "org_type": "owner"
+    }
+  ]
+}

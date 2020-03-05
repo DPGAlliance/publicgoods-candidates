@@ -1,0 +1,29 @@
+{
+  "name": "Who Owns What - NYC",
+  "description": "Who owns what in NYC? ",
+  "website": "https://whoownswhat.justfix.nyc/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/JustFixNYC/who-owns-what/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/JustFixNYC/who-owns-what",
+  "organizations": [
+    {
+      "name": "JustFix",
+      "website": "https://justfix.nyc",
+      "org_type": "owner"
+    }
+  ]
+}

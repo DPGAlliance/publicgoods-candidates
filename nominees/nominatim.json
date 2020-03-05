@@ -1,0 +1,29 @@
+{
+  "name": "Nominatim",
+  "description": "Nominatim (from the Latin, 'by name') is a tool to search OpenStreetMap data by name and address (geocoding) and to generate synthetic addresses of OSM points (reverse geocoding).",
+  "website": "https://nominatim.openstreetmap.org/",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/openstreetmap/Nominatim/blob/master/COPYING"
+    }
+  ],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openstreetmap/Nominatim",
+  "organizations": [
+    {
+      "name": "Open Street Map",
+      "website": "https://www.openstreetmap.org",
+      "org_type": "owner"
+    }
+  ]
+}

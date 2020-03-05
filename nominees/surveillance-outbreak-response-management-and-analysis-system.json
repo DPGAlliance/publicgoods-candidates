@@ -1,33 +1,42 @@
 {
-    "name": "Surveillance, Outbreak Response Management and Analysis System",
-    "description": "An open source eHealth system - consisting of separate web and mobile apps - that is geared towards optimizing the processes used in monitoring the spread of infectious diseases and responding to outbreak situations.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/LICENSE"
-        }
+  "name": "Surveillance Outbreak Response Management and Analysis System",
+  "aliases": [
+    "SORMAS"
+  ],
+  "description": "An open source eHealth system - consisting of separate web and mobile apps - that is geared towards optimizing the processes used in monitoring the spread of infectious diseases and responding to outbreak situations.",
+  "website": "https://www.sormas.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "https://www.sormas.org",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/hzi-braunschweig/SORMAS-Project",
-    "aliases": [
-        "SORMAS"
-    ],
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/hzi-braunschweig/SORMAS-Project",
+  "organizations": [
+    {
+      "name": "Helmholtz Centre for Infection Research",
+      "website": "https://www.helmholtz-hzi.de/",
+      "org_type": "owner"
+    }
+  ]
 }

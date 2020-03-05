@@ -1,25 +1,32 @@
 {
-    "name": "Blood Safety Information System",
-    "description": "System to monitor blood inventory from collection to transfusion.",
-    "license": [
-        {
-            "spdx": "BSD-3-Clause",
-            "licenseURL": "https://github.com/jembi/bsis/blob/develop/LICENSE"
-        }
-    ],
-    "website": "https://www.jembi.org",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/jembi/bsis",
-    "aliases": [
-        "BSIS"
-    ],
-    "sectors": []
+  "name": "Blood Safety Information System",
+  "aliases": [
+    "BSIS"
+  ],
+  "description": "System to monitor blood inventory from collection to transfusion.",
+  "website": "https://www.jembi.org",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/jembi/bsis/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/jembi/bsis",
+  "organizations": [
+    {
+      "name": "Jembi Health Systems NPC",
+      "website": "https://www.jembi.org/",
+      "org_type": "owner"
+    }
+  ]
 }

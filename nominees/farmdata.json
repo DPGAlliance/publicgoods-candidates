@@ -1,25 +1,32 @@
 {
-    "name": "FarmData",
-    "description": "Web-based organic vegetable farm data entry and reporting.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "http://www.gnu.org/copyleft/gpl.html"
-        }
+  "name": "FarmData",
+  "description": "Web-based organic vegetable farm data entry and reporting.",
+  "website": "https://sourceforge.net/projects/farmdata/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/copyleft/gpl.html"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
     ],
-    "website": "https://sourceforge.net/projects/farmdata/",
-    "SDGs": [
-        [
-            2,
-            "Zero Hunger"
-        ],
-        [
-            9,
-            "Industry, Innovation and Infrastructure"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "sectors": []
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "FarmData",
+      "website": "https://sourceforge.net/projects/farmdata/",
+      "org_type": "owner"
+    }
+  ]
 }

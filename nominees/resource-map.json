@@ -1,26 +1,33 @@
 {
-    "name": "Resource Map",
-    "description": "A free, open-source tool that helps you make better decisions by giving you better insight into the location and distribution of your resources.",
-    "license": [
-        {
-            "spdx": "GPL-3.0",
-            "licenseURL": "https://github.com/instedd/resourcemap/blob/master/LICENSE"
-        }
+  "name": "Resource Map",
+  "description": "A free, open-source tool that helps you make better decisions by giving you better insight into the location and distribution of your resources.",
+  "website": "https://resourcemap.instedd.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/instedd/resourcemap/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "website": "http://resourcemap.instedd.org/",
-    "SDGs": [
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/instedd/resourcemap",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/instedd/resourcemap",
+  "organizations": [
+    {
+      "name": "InSTEDD",
+      "website": "https://instedd.org/",
+      "org_type": "owner"
+    }
+  ]
 }

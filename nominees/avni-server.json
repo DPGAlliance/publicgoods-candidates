@@ -1,0 +1,36 @@
+{
+  "name": "Avni Server",
+  "aliases": [
+    "OpenCHS"
+  ],
+  "description": "Open Source field service delivery and data collection platform for non-profits and governments in all sectors — health, water, education, social service.",
+  "website": "https://avniproject.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/avniproject/avni-server/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/avniproject/avni-server",
+  "organizations": [
+    {
+      "name": "Samanvay Foundation",
+      "website": "https://samanvayfoundation.org/",
+      "org_type": "owner"
+    }
+  ]
+}

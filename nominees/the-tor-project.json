@@ -1,0 +1,36 @@
+{
+  "name": "The Tor Project",
+  "description": "Providing secure and private web access",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/TheTorProject/gettor/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/TheTorProject/gettor",
+  "organizations": [
+    {
+      "name": "Tor Project",
+      "website": "torproject.org",
+      "org_type": "owner"
+    }
+  ]
+}

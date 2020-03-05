@@ -1,0 +1,29 @@
+{
+  "name": "Mifos Web App",
+  "description": "Mifos X Web App is the revamped version of the Mifos X Community App built on top of the Fineract Platform leveraging the popular Angular framework.",
+  "website": "https://openmf.github.io/web-app/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/openMF/web-app/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openMF/web-app",
+  "organizations": [
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org/",
+      "org_type": "owner"
+    }
+  ]
+}

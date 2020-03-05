@@ -1,24 +1,29 @@
 {
-    "name": "Open Up Resources",
-    "description": "Open Up Resources is a nonprofit developing the very best core curricula available to districts, provided for free to promote equity in education.",
-    "license": [
-        {
-            "spdx": "CC-BY-4.0",
-            "licenseURL": "https://openupresources.org/oer-and-creative-commons-licenses/"
-        }
-    ],
-    "website": "https://openupresources.org",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "data"
-    ],
-    "aliases": [
-        "OPTIONAL"
-    ],
-    "sectors": []
+  "name": "Open Up Resources",
+  "aliases": [],
+  "description": "Open Up Resources is a nonprofit developing the very best core curricula available to districts, provided for free to promote equity in education.",
+  "website": "https://openupresources.org",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://openupresources.org/oer-and-creative-commons-licenses/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Open Up Resources",
+      "website": "https://openupresources.org/",
+      "org_type": "owner"
+    }
+  ]
 }

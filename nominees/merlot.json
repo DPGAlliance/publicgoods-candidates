@@ -1,25 +1,37 @@
 {
-    "name": "MERLOT",
-    "description": "The MERLOT system provides access to curated online learning and support materials and content creation tools, led by an international community of educators, learners and researchers.",
-    "license": [
-        {
-            "spdx": "CC-BY-NC-SA-3.0",
-            "licenseURL": "http://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
-        },
-        {
-            "spdx": "CC-BY-NC-ND-3.0",
-            "licenseURL": "http://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
-        }
-    ],
-    "website": "https://www.merlot.org/merlot/",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "data"
-    ],
-    "sectors": []
+  "name": "MERLOT",
+  "description": "The MERLOT system provides access to curated online learning and support materials and content creation tools, led by an international community of educators, learners and researchers.",
+  "website": "https://www.merlot.org/merlot/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
+      "licenseURL": "https://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
+    },
+    {
+      "spdx": "CC-BY-NC-ND-3.0",
+      "licenseURL": "https://info.merlot.org/merlothelp/topic.htm#t=Policies_and_Practices.htm"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "MERLOT",
+      "website": "https://merlot.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "California State University Center for Distributed Learning",
+      "website": "https://www.cdl.edu",
+      "org_type": "owner"
+    }
+  ]
 }

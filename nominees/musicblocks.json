@@ -1,0 +1,29 @@
+{
+  "name": "MusicBlocks",
+  "description": "Music Blocks is a collection of manipulative tools for exploring musical concepts in an integrative and fun way.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/sugarlabs/musicblocks/blob/master/Licence.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/sugarlabs/musicblocks",
+  "organizations": [
+    {
+      "name": "SugarLabs",
+      "website": "https://sugarlabs.org/",
+      "org_type": "owner"
+    }
+  ]
+}

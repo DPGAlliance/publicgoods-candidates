@@ -1,29 +1,29 @@
 {
-    "name": "Nubian",
-    "description": "Learning content built in WebXR, adpated to the local context of the school system in Ghana",
-    "license": [
-        {
-            "spdx": "MIT",
-            "licenseURL": "https://opensource.org/licenses/mit-license.php"
-        }
-    ],
-    "website": "www.nubianvr.com",
-    "SDGs": [
-        [
-            4,
-            "Quality Education"
-        ]
-    ],
-    "type": [
-        "data"
-    ],
-    "repositoryURL": "https://github.com/nubianvr-source/BasicElectronics",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+  "name": "Nubian",
+  "description": "Learning content built in WebXR, adpated to the local context of the school system in Ghana",
+  "website": "www.nubianvr.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "https://github.com/nubianvr-source/BasicElectronics",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-    "name": "Kimetrica",
-    "description": "Facial recognition technology to detect severe malnutrition from a single photo",
-    "license": [
-        {
-            "spdx": "MIT",
-            "licenseURL": "https://opensource.org/licenses/mit-license.php"
-        }
+  "name": "Kimetrica",
+  "description": "Facial recognition technology to detect severe malnutrition from a single photo",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
     ],
-    "website": "",
-    "SDGs": [
-        [
-            2,
-            "Zero Hunger"
-        ],
-        [
-            3,
-            "Good Health and Well-Being"
-        ]
-    ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/kimetrica/MERON_model",
-    "sectors": [],
-    "organizations": [
-        {
-            "name": "UNICEF Ventures Fund",
-            "org_type": "funder",
-            "website": "https://unicefinnovationfund.org/"
-        }
+    [
+      3,
+      "Good Health and Well-Being"
     ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/kimetrica/MERON_model",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ]
 }

@@ -1,30 +1,37 @@
 {
-    "name": "Sunbird",
-    "description": "Sunbird is a searchable, discoverable repository of digital resources conceived as building blocks for education that can be repurposed to suit specific use cases.",
-    "license": [
-        {
-            "spdx": "MIT",
-            "licenseURL": "https://github.com/project-sunbird/sunbird-data-pipeline/blob/master/LICENSE"
-        }
+  "name": "Sunbird",
+  "description": "Sunbird is a searchable, discoverable repository of digital resources conceived as building blocks for education that can be repurposed to suit specific use cases.",
+  "website": "https://www.sunbird.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/project-sunbird/sunbird-data-pipeline/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
     ],
-    "website": "https://www.sunbird.org/",
-    "SDGs": [
-        [
-            3,
-            "Good Health and Well-Being"
-        ],
-        [
-            16,
-            "Peace, Justice and Strong Institutions"
-        ],
-        [
-            17,
-            "Partnerships for the Goals"
-        ]
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ],
-    "type": [
-        "software"
-    ],
-    "repositoryURL": "https://github.com/project-sunbird/sunbird-data-pipeline",
-    "sectors": []
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/project-sunbird/sunbird-data-pipeline",
+  "organizations": [
+    {
+      "name": "EkStep Foundation",
+      "website": "https://www.sunbird.org",
+      "org_type": "owner"
+    }
+  ]
 }
