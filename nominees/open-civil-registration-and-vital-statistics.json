@@ -4,7 +4,7 @@
     "OpenCRVS"
   ],
   "description": "Configurable software for civil registration designed for low resource settings",
-  "website": "www.opencrvs.org",
+  "website": "https://www.opencrvs.org",
   "license": [
     {
       "spdx": "MPL-2.0",
