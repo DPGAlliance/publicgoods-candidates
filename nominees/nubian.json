@@ -1,7 +1,7 @@
 {
   "name": "Nubian",
   "description": "Learning content built in WebXR, adpated to the local context of the school system in Ghana",
-  "website": "www.nubianvr.com",
+  "website": "https://www.nubianvr.com",
   "license": [
     {
       "spdx": "MIT",

@@ -62,6 +62,9 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
       // upgrade to HTTPS :)
       if (product.hasOwnProperty("website")) {
         product["website"] = product["website"].replace(/http:/g, "https:");
+        if(product['website'] != '' && ! product['website'].match('https://')){
+          product['website'] = 'https://' + product['website']
+        }
       }
       if (product.hasOwnProperty("repositoryURL")) {
         product["repositoryURL"] = product["repositoryURL"].replace(

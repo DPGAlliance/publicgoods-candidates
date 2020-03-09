@@ -1,7 +1,7 @@
 {
   "name": "Avyantra Health Technologies",
   "description": "Helping the diagnosis of infants affected by neonatal sepsis using machine learning",
-  "website": "www.avyantra.com",
+  "website": "https://www.avyantra.com",
   "license": [
     {
       "spdx": "GPL-3.0",
