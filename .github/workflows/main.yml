@@ -13,7 +13,7 @@ jobs:
       - name: Validate JSON schema
         run: npm test
       - name: Linter
-        run: npm lint
+        run: npm run lint
       - name: Check filenames
         run: ./scripts/check-filenames.bash
       - name: Check order of fields in each file
@@ -35,4 +35,6 @@ jobs:
           php -S localhost:8000 &
           popd
       - name: Deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
         run: ./scripts/push.bash
