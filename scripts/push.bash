@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-website
+git clone https://${GITHUB_TOKEN}@github.com/unicef/publicgoods-website.git ../publicgoods-website
 git clone https://github.com/unicef/publicgoods-scripts.git ../publicgoods-scripts
 pushd ../publicgoods-scripts && ./static.bash && npm install && node index.js && popd
 git config --global user.email "lacabra@users.noreply.github.com"
