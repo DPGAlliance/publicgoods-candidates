@@ -1,0 +1,40 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependecies
+        run: npm install
+      - name: Validate JSON schema
+        run: npm test
+      - name: Linter
+        run: npm run lint
+      - name: Check filenames
+        run: ./scripts/check-filenames.bash
+      - name: Check order of fields in each file
+        run: npm run order
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependecies
+        run: npm install
+      - name: Run Server
+        run: |
+          git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
+          pushd ../publicgoods-wordpress;
+          php -S localhost:8000 &
+          popd
+      - name: Deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
+        run: ./scripts/push.bash
