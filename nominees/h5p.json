@@ -1,0 +1,29 @@
+{
+  "name": "H5P",
+  "description": "H5P makes it easy to create, share and reuse HTML5 content and applications. H5P empowers everyone to create rich and interactive web experiences more efficiently - all you need is a web browser and a web site with an H5P plugin.",
+  "website": "https://h5p.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://spdx.org/licenses/MIT.html"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Joubel",
+      "website": "https://h5p.org/Joubel",
+      "org_type": "maintainer"
+    }
+  ]
+}
