@@ -15,7 +15,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "ajv-cli": "^3.0.0",
+    "ajv-cli": "^3.1.0",
     "csvtojson": "^2.0.10",
     "husky": "^4.2.3",
     "jsonlint": "^1.6.3"
@@ -24,5 +24,8 @@
     "hooks": {
       "pre-commit": "npm test && npm run order && npm run check"
     }
+  },
+  "dependencies": {
+    "minimist": "^1.2.3"
   }
 }
