@@ -1,9 +1,9 @@
 {
-  "name": "Pubic Library of Science",
+  "name": "Public Library of Science",
   "aliases": [
     "PLOS"
   ],
-  "description": "A library of open-access journal sand other scientific literature under an open-content license.",
+  "description": "A library of open-access journal and other scientific literature under an open-content license.",
   "website": "https://journals.plos.org/",
   "license": [
     {
@@ -19,7 +19,7 @@
   ],
   "sectors": [],
   "type": [
-    "data"
+    "content"
   ],
   "organizations": [
     {

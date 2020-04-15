@@ -551,6 +551,7 @@
         "enum": [
           "software",
           "data",
+          "content",
           "standard"
         ]
       }

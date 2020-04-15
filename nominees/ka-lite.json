@@ -20,7 +20,8 @@
   ],
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "content"
   ],
   "repositoryURL": "https://github.com/learningequality/ka-lite",
   "organizations": [

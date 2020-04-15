@@ -29,7 +29,8 @@
   "sectors": [],
   "type": [
     "software",
-    "data"
+    "data",
+    "content"
   ],
   "organizations": [
     {

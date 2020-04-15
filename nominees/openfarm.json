@@ -25,7 +25,8 @@
   "sectors": [],
   "type": [
     "software",
-    "data"
+    "data",
+    "content"
   ],
   "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
   "organizations": [

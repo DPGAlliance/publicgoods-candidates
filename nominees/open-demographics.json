@@ -16,7 +16,8 @@
   ],
   "sectors": [],
   "type": [
-    "software"
+    "content",
+    "data"
   ],
   "repositoryURL": "https://github.com/drnikki/open-demographics",
   "organizations": [

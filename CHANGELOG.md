@@ -6,23 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2020-04-15
+### Changed
+- Modified `nominee-schema.json` to split the `data` type into `data` and `content`. Re-classified all nominees originally tagged as data accordingly.
+- Added `H5P` and `WHO-app` as new nominees.
+- Switched CI from Travis to GitHub Actions.
+- Excluded nominees with `ND` licenses and moved them out from `nominees/` into `excluded-nd`.
+
 ## [0.3.0] - 2020-03-05
 ### Added
 - Added `scripts/migrate-v0.3.0.js` to automatically migrate to the new version of the JSON schema.
-- Imported more than 200 new nominees from [publicgoods/products](https://github.com/publicgoods/products)
+- Imported more than 200 new nominees from [publicgoods/products](https://github.com/publicgoods/products).
 - Added `scripts/check-filenames.bash` to automatically check the proper naming of nominees.
 - Added `scripts/order-fields.js` to automatically check the proper ordering of properties in each nominee file.
 
 ### Changed
-- Modified 'nominee-schema.json' to match the product-schema.json available at https://github.com/publicgoods/data-schema
+- Modified 'nominee-schema.json' to match the product-schema.json available at https://github.com/publicgoods/data-schema.
 
 ## [0.2.1] - 2020-10-15
 ### Added
-- Added 32 more nominees supported by UNICEF Venture Fund
+- Added 32 more nominees supported by UNICEF Venture Fund.
 - Added `scripts/csvToJson.js` to automatically parse a spreadsheet containing a list of nominees and their attributes and generate json files for each nominee.
 
 ### Changed
-- Modified 'nominee-schema.json' to add a new attribute 'supported_by', which is an array of objects initially containing one property 'org_name'
+- Modified `nominee-schema.json` to add a new attribute `supported_by`, which is an array of objects initially containing one property `org_name`.
 
 ## [0.2.0] - 2020-01-10
 ### Added
@@ -41,6 +48,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed language from `candidates` to `nominees` to match the recent changes in [digitalpublicgoods.net](https://digitalpublicgoods.net)
 - Renamed folder from `candidates/` to `nominees/`, as well as `candidate-schema.json` to `nominee-schema.json`
 
+[0.4.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/unicef/publicgoods-candidates/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.1.0...v0.2.0
