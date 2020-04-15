@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "GPL-2.0",
-      "licenseURL": "https://github.com/openstreetmap/Nominatim/blob/master/COPYING"
+      "licenseURL": "https://github.com/osm-search/Nominatim/blob/master/COPYING"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openstreetmap/Nominatim",
+  "repositoryURL": "https://github.com/osm-search/Nominatim",
   "organizations": [
     {
       "name": "Open Street Map",

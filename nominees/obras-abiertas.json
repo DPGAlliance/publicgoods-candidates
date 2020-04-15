@@ -1,5 +1,5 @@
 {
-  "name": "BA Obras",
+  "name": "Obras Abiertas",
   "description": "Data Visualization frontend that informs about public works projects, allowing citizens to browse the works by neighborhood, by theme, by stage as well as including photos and videos the document the progress of each project.",
   "website": "https://github.com/datosgcba/ba_obras",
   "license": [
@@ -22,7 +22,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/datosgcba/ba_obras",
+  "repositoryURL": "https://github.com/datosgcba/obras-abiertas",
   "organizations": [
     {
       "name": "Buenos Aires Data",

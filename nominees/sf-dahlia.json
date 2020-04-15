@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/Exygy/sf-dahlia-web/blob/master/LICENSE.md"
+      "licenseURL": "https://github.com/SFDigitalServices/sf-dahlia-web/blob/master/LICENSE.md"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Exygy/sf-dahlia-web",
+  "repositoryURL": "https://github.com/SFDigitalServices/sf-dahlia-web",
   "organizations": [
     {
       "name": "Exygy",
