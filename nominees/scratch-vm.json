@@ -1,6 +1,6 @@
 {
   "name": "Scratch VM",
-  "description": "Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0",
+  "description": "Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.",
   "website": "",
   "license": [
     {
