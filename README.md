@@ -18,7 +18,7 @@ This repository is used to manage the process of adding nominees for considerati
 ```
 {
         "name": "REQUIRED",
-        "aliases": "[OPTIONAL: Array of strings - Abbreviations, initialisms, or alternate names, where relevant",
+        "aliases": "[OPTIONAL: Array of strings - Abbreviations, initialisms, or alternate names, where relevant]",
         "description": "REQUIRED",
         "license": [REQUIRED, Array of objects:
                 {
@@ -30,7 +30,7 @@ This repository is used to manage the process of adding nominees for considerati
         "SDGs": [REQUIRED, Array of objects listing SDGs by number and name],
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
         "repositoryURL": "OPTIONAL: Link to main repository",
-        "sectors:" [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
+        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
         "organizations": [REQUIRED, Array of objects: 
                 {
                         "name": "REQUIRED - Name of the organization",
