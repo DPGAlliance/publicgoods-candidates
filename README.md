@@ -18,7 +18,7 @@ This repository is used to manage the process of adding nominees for considerati
 ```
 {
         "name": "REQUIRED",
-        "aliases": "[OPTIONAL: Array of strings - Abbreviations, initialisms, or alternate names, where relevant",
+        "aliases": "[OPTIONAL: Array of strings - Abbreviations, initialisms, or alternate names, where relevant]",
         "description": "REQUIRED",
         "license": [REQUIRED, Array of objects:
                 {
@@ -30,7 +30,7 @@ This repository is used to manage the process of adding nominees for considerati
         "SDGs": [REQUIRED, Array of objects listing SDGs by number and name],
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
         "repositoryURL": "OPTIONAL: Link to main repository",
-        "sectors:" [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
+        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
         "organizations": [REQUIRED, Array of objects: 
                 {
                         "name": "REQUIRED - Name of the organization",
@@ -41,6 +41,82 @@ This repository is used to manage the process of adding nominees for considerati
                 }
         ]
 }
+```
+
+### Specifying SDGs
+
+In order to make it easy for downstream projects to process data from the SDGs field, data must comply to the following format (you must select one or more elements of the following array, where an element is defined by a `number` and `string` pair):
+```json
+[
+  [
+    1,
+    "No Poverty"
+  ],
+  [
+    2,
+    "Zero Hunger"
+  ],
+  [
+    3,
+    "Good Health and Well-Being"
+  ],
+  [
+    4,
+    "Quality Education"
+  ],
+  [
+    5,
+    "Gender Equality"
+  ],
+  [
+    6,
+    "Clean Water and Sanitation"
+  ],
+  [
+    7,
+    "Affordable and Clean Energy"
+  ],
+  [
+    8,
+    "Decent Work and Economic Growth"
+  ],
+  [
+    9,
+    "Industry, Innovation and Infrastructure"
+  ],
+  [
+    10,
+    "Reduced Inequalities"
+  ],
+  [
+    11,
+    "Sustainable Cities and Communities"
+  ],
+  [
+    12,
+    "Responsible Consumption and Production"
+  ],
+  [
+    13,
+    "Climate Action"
+  ],
+  [
+    14,
+    "Life Below Water"
+  ],
+  [
+    15,
+    "Life On Land"
+  ],
+  [
+    16,
+    "Peace, Justice and Strong Institutions"
+  ],
+  [
+    17,
+    "Partnerships for the Goals"
+  ]
+]
 ```
 
 ## Requirements and Considerations
