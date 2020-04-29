@@ -43,6 +43,82 @@ This repository is used to manage the process of adding nominees for considerati
 }
 ```
 
+### Specifying SDGs
+
+In order to make it easy for downstream projects to process data from the SDGs field, data must comply to the following format (you must select one or more elements of the following array, where an element is defined by a `number` and `string` pair):
+```json
+[
+  [
+    1,
+    "No Poverty"
+  ],
+  [
+    2,
+    "Zero Hunger"
+  ],
+  [
+    3,
+    "Good Health and Well-Being"
+  ],
+  [
+    4,
+    "Quality Education"
+  ],
+  [
+    5,
+    "Gender Equality"
+  ],
+  [
+    6,
+    "Clean Water and Sanitation"
+  ],
+  [
+    7,
+    "Affordable and Clean Energy"
+  ],
+  [
+    8,
+    "Decent Work and Economic Growth"
+  ],
+  [
+    9,
+    "Industry, Innovation and Infrastructure"
+  ],
+  [
+    10,
+    "Reduced Inequalities"
+  ],
+  [
+    11,
+    "Sustainable Cities and Communities"
+  ],
+  [
+    12,
+    "Responsible Consumption and Production"
+  ],
+  [
+    13,
+    "Climate Action"
+  ],
+  [
+    14,
+    "Life Below Water"
+  ],
+  [
+    15,
+    "Life On Land"
+  ],
+  [
+    16,
+    "Peace, Justice and Strong Institutions"
+  ],
+  [
+    17,
+    "Partnerships for the Goals"
+  ]
+]
+```
+
 ## Requirements and Considerations
 
 For those projects that match [the initial set of requirements](https://digitalpublicgoods.net/nominate/), anyone can open a [Pull Request](https://github.com/unicef/publicgoods-candidates/pulls) on this repository as a submission following these guidelines:
