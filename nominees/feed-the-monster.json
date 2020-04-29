@@ -2,6 +2,7 @@
   "name": "Feed The Monster",
   "aliases": [],
   "description": "Feed The Monster teaches your child the fundamentals of reading. Collect monster eggs and feed them letters so they can grow into new friends! Available in 48 languages.",
+  "website": "https://play.google.com/store/apps/developer?id=Curious%20Learning",
   "license": [
     {
       "spdx": "BSD-2-Clause",
@@ -12,52 +13,41 @@
       "licenseURL": "https://creativecommons.org/licenses/by/4.0/legalcode"
     }
   ],
-  "website": "https://play.google.com/store/apps/developer?id=Curious%20Learning",
   "SDGs": [
     [
       4,
       "Quality Education"
     ]
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/curiouslearning/Norad-Eduapp4syria",
-  "sectors": [],
   "organizations": [
     {
       "name": "Curious Learning",
       "website": "https://curiouslearning.org",
-      "contact_name": "",
-      "contact_email": "info@curiouslearning.org",
       "org_type": "implementer"
     },
     {
       "name": "Apps Factory",
       "website": "",
-      "contact_name": "",
-      "contact_email": "",
       "org_type": "owner"
     },
     {
       "name": "CET - The Center For Educational Technology",
       "website": "",
-      "contact_name": "",
-      "contact_email": "",
       "org_type": "owner"
     },
     {
       "name": "IRC – The International Rescue Committee",
       "website": "",
-      "contact_name": "",
-      "contact_email": "",
       "org_type": "owner"
     },
     {
       "name": "EduApp4Syria",
       "website": "https://norad.no/eduapp4syria",
-      "contact_name": "",
-      "contact_email": "",
       "org_type": "funder"
     }
   ]
