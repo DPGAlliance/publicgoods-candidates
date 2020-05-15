@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Removed `eduapp4syria.json`
+- Added `antura-and-the-letters.json`
+
 ## [0.4.0] - 2020-04-15
 ### Changed
 - Modified `nominee-schema.json` to split the `data` type into `data` and `content`. Re-classified all nominees originally tagged as data accordingly.

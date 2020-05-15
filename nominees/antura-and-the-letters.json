@@ -1,0 +1,38 @@
+{
+  "name": "Antura and the Letters",
+  "description": "Open source smartphone application that teaches children how to read in Arabic and improve their psychosocial wellbeing.",
+  "website": "https://www.antura.org",
+  "license": [
+    {
+      "spdx": "BSD-2-Clause",
+      "licenseURL": "https://github.com/vgwb/Antura_arabic/blob/master/LICENSE.md"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/vgwb/Antura_arabic/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/vgwb/Antura_arabic/",
+  "organizations": [
+    {
+      "name": "Antura",
+      "website": "https://antura.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Norad",
+      "website": "https://norad.no",
+      "org_type": "funder"
+    }
+  ]
+}
