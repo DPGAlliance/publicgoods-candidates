@@ -1,3 +1,6 @@
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
+
 # Nominees, Candidates and Digital Public Goods
 
 Welcome! 👋 We are glad that have found this repo and you are interested in Digital Public Goods, and using technology to make this world  a more just and equitable one. We are in this together: the more the greater impact!
