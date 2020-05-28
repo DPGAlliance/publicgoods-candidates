@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed `eduapp4syria.json`
 - Added `antura-and-the-letters.json`
 - Added [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/), and corresponding badge in README
+- Added `marytts.json`, `octopus-microfinance.json`, `odoo.json`, `open-bank-project.json`, `opencbs.json`, `openrefine.json`, `reconcile.cvs`, `safe-open-source-microfinance-suite.json`, `x-road.json` (#31)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
