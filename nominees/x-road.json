@@ -1,0 +1,33 @@
+{
+  "name": "X-Road",
+  "description": "A free and open-source data exchange layer solution that enables organizations to exchange information securely over the Internet.",
+  "website": "https://x-road.global/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/nordic-institute/X-Road/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/nordic-institute/X-Road",
+  "organizations": [
+    {
+      "name": "Nordic Institute for Interoperability Solutions",
+      "website": "https://www.niis.org/",
+      "org_type": "owner"
+    }
+  ]
+}

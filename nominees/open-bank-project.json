@@ -1,0 +1,33 @@
+{
+  "name": "Open Bank Project",
+  "description": "Open Bank Project is the global standard and open source platform for Open Banking.",
+  "website": "https://www.openbankproject.com/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/OpenBankProject/OBP-API/blob/develop/NOTICE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OpenBankProject/OBP-API",
+  "organizations": [
+    {
+      "name": "TESOBE",
+      "website": "https://www.tesobe.com/",
+      "org_type": "owner"
+    }
+  ]
+}
