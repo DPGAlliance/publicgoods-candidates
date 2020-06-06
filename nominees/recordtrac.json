@@ -1,0 +1,32 @@
+{
+  "name": "RecordTrac",
+  "description": "A public record request management tool for government agencies..",
+  "website": "https://github.com/codeforamerica/recordtrac",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/codeforamerica/recordtrac/blob/master/LICENSE.mkd"
+    }
+  ],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ]
+}
