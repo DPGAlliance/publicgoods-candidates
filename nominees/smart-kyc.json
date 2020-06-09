@@ -1,0 +1,28 @@
+{
+  "name": "Smart KYC",
+  "description": "An open source Know Your Customer (KYC) web application.",
+  "website": "https://github.com/accubits/smart-kyc",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/accubits/smart-kyc/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "Accubits Technologies",
+      "website": "https://accubits.com/",
+      "org_type": "owner"
+    }
+  ]
+}
