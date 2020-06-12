@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `marytts.json`, `octopus-microfinance.json`, `odoo.json`, `open-bank-project.json`, `opencbs.json`, `openrefine.json`, `reconcile.cvs`, `safe-open-source-microfinance-suite.json`, `x-road.json` (#31)
 - Added `recordtrac.json` (#34)
 - Added `smart-kyc.json` (#35)
+- Added `openhie.json` (#36)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
