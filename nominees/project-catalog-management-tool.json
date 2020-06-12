@@ -1,0 +1,40 @@
+{
+  "name": "Project Catalog Management Tool",
+  "aliases": [
+    "PCMT"
+  ],
+  "description": "PCMT is open source software that allows organizations to publish and manage product catalogs.  It supports GS1 standards for identifying products, capturing data from barcodes, and sharing data. PCMT also acts as a OpenHIE Product Registry, sharing master product data to enable interoperability across eHealth ecosystems.",
+  "website": "https://pcmt.gitlab.io/website/",
+  "license": [
+    {
+      "spdx": "NPOSL-3.0",
+      "licenseURL": "https://gitlab.com/pcmt/pcmt/-/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://gitlab.com/pcmt/pcmt/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://gitlab.com/pcmt/pcmt",
+  "organizations": [
+    {
+      "name": "VillageReach",
+      "website": "https://www.villagereach.org/",
+      "org_type": "owner"
+    }
+  ]
+}
