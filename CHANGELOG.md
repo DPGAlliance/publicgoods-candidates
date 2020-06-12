@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `recordtrac.json` (#34)
 - Added `smart-kyc.json` (#35)
 - Added `openhie.json` (#36)
+- Added `dspace.json` (#37)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
