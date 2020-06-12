@@ -1,0 +1,28 @@
+{
+  "name": "OpenHIE",
+  "description": "OpenHIE is a global mission-driven Community of Pracce dedicated to improving the health of the underserved through open and collaborave, development and support of country driven, large scale health information sharing architectures.",
+  "website": "https://ohie.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "organizations": [
+    {
+      "name": "OpenHIE",
+      "website": "https://ohie.org",
+      "org_type": "owner"
+    }
+  ]
+}
