@@ -1,0 +1,28 @@
+{
+  "name": "OpenACH",
+  "description": "A free, open-source, secure web-based Automated Clearing House (ACH) origination and payment processing platform.",
+  "website": "https://openach.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openach/openach/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "OpenACH, Inc.",
+      "website": "https://openach.com/",
+      "org_type": "owner"
+    }
+  ]
+}
