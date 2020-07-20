@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `hapi-fhir.json` (#38)
 - Added `project-catalog-management-tool.json` (#39)
 - Added `openach.json` (#40)
+- Added `sempo.json` (#42)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
