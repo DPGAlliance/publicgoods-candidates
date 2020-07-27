@@ -1,0 +1,50 @@
+{
+        "name": "OpenMined",
+        "aliases": "[]",
+        "description": "OpenMined is an open-source community whose goal is to make the world more privacy-preserving by lowering the barrier-to-entry to private AI technologies.",
+        "license": [
+                {
+                        "spdx": "Apache-2.0",
+                        "licenseURL": "https://github.com/OpenMined/PySyft/blob/master/LICENSE"
+                }
+        ],
+        "website": "https://openmined.org",
+        "SDGs": [
+                [
+                        9,
+                        "Industry, Innovation and Infrastructure"
+                ],
+                [
+                        10,
+                        "Reduced Inequalities"
+                ],
+                [
+                        16,
+                        "Peace, Justice and Strong Institutions"
+                ],
+                [
+                        17,
+                        "Partnerships for the Goals"
+                ]
+        ],
+        "type": [
+                "software",
+                "data"
+        ],
+        "repositoryURL": "https://github.com/OpenMined/PySyft",
+        "sectors": [
+                "health",
+                "aid",
+                "private",
+                "government"
+        ],
+        "organizations": [
+                {
+                        "name": "OpenMined",
+                        "website": "https://openmined.org",
+                        "contact_name": "Emma Bluemke",
+                        "contact_email": "partnerships@openmined.org",
+                        "org_type": "maintainer'
+                }
+        ]
+}
