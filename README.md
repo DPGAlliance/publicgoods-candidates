@@ -122,6 +122,86 @@ In order to make it easy for downstream projects to process data from the SDGs f
 ]
 ```
 
+### Specifying Sectors
+
+Similarly to the SDGs field above, the data in the `sectors` must be from the predefined list below (you should select one or more elements of the following array, where an element is a `string`):
+
+```json
+[
+  "Advocacy",
+  "Agriculture",
+  "Anti-corruption",
+  "Big Data",
+  "Business Advocacy",
+  "Capacity Development",
+  "Centers of Excellence",
+  "Civil society",
+  "Climate",
+  "Communication",
+  "Conflict Resolution",
+  "Consulting",
+  "Corporate Partnerships",
+  "Corporation and Business Management",
+  "Data Collection",
+  "Data Management & Policy",
+  "Data Security",
+  "Demobilization & Reintegration",
+  "Democracy",
+  "Development Impact",
+  "Digital Development",
+  "Digital/Data/Tech",
+  "Disarmament",
+  "Economics/Finance",
+  "Education",
+  "Emergency Response",
+  "Employment",
+  "Energy",
+  "Engineering",
+  "Enterprise Ecosystems",
+  "Entertainment",
+  "Environment",
+  "Fair & Responsible Media",
+  "Female Genital Mutilation",
+  "Food",
+  "Fragile States",
+  "Gender and Minority Groups",
+  "Governance",
+  "Health",
+  "Humanitarian",
+  "Hunger",
+  "Infrastructure",
+  "Justice",
+  "Livelihoods",
+  "Logistics",
+  "Management",
+  "Media",
+  "Membership Associations",
+  "Midwifery",
+  "Natural Resource Conflicts",
+  "NGO",
+  "Nutrition",
+  "Peace",
+  "Platform creation",
+  "Religious Engagement",
+  "Research",
+  "Resource Management",
+  "Security",
+  "Stability",
+  "Supply Chain Solutions",
+  "Sustainability",
+  "Sustainable Cities",
+  "Training & Employment",
+  "Transition",
+  "Transparency & Accountability",
+  "Travel and Hospitality",
+  "Violent Extremism",
+  "Water and Sanitation",
+  "Workforce",
+  "World Population",
+  "Youth"
+]
+```
+
 ## Requirements and Considerations
 
 For those projects that match [the initial set of requirements](https://digitalpublicgoods.net/nominate/), anyone can open a [Pull Request](https://github.com/unicef/publicgoods-candidates/pulls) on this repository as a submission following these guidelines:
