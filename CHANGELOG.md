@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `sempo.json` (#42)
 - Added `mit-climate-primer.json` (#44)
 - Added `lockdown-learning-repository.json` (#45)
+- Added CI badge
 
 ## [0.4.0] - 2020-04-15
 ### Changed
