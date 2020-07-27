@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `project-catalog-management-tool.json` (#39)
 - Added `openach.json` (#40)
 - Added `mit-climate-primer.json` (#44)
+- Added `lockdown-learning-repository.json` (#45)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
