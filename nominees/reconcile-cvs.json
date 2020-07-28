@@ -1,7 +1,7 @@
 {
   "name": "Reconcile CVS",
   "description": "A simple OpenRefine reconciliation service that runs on top of a CSV file.",
-  "website": "http://okfnlabs.org/reconcile-csv/",
+  "website": "https://okfnlabs.org/reconcile-csv/",
   "license": [
     {
       "spdx": "BSD-2-Clause",
