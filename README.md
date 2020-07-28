@@ -38,9 +38,9 @@ This repository is used to manage the process of adding nominees for considerati
                 {
                         "name": "REQUIRED - Name of the organization",
                         "website": "OPTIONAL - Website of the organization",
+                        "org_type": "REQUIRED - One of 'owner, 'maintainer', 'funder' or 'implementer',
                         "contact_name": "OPTIONAL - Name of contact individual in the organization",
-                        "contact_email": "OPTIONAL - Email for contact individual in the organization",
-                        "org_type": "REQUIRED - One of 'owner, 'maintainer', 'funder' or 'implementer'
+                        "contact_email": "OPTIONAL - Email for contact individual in the organization"
                 }
         ]
 }

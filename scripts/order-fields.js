@@ -29,7 +29,9 @@ const propertiesOrder = [
   "organizations",
   "name",
   "website",
-  "org_type"
+  "org_type",
+  "contact_name",
+  "contact_email"
 ];
 
 let fix = false;
@@ -102,7 +104,7 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
     } else {
       if (JSON.stringify(product, propertiesOrder, 2) != jsonData) {
         console.log(
-          "JSON properties not in the expected order for" +
+          "JSON properties not in the expected order for " +
             productFiles[i] +
             ". Re-run with --fix to fix."
         );
