@@ -1,13 +1,13 @@
 {
   "name": "Sigo leyendo",
   "description": "Open library of high quality children's books with the goal to increase access to books and promote the culture of reading in Latin America",
+  "website": "https://www.sigoleyendo.org/",
   "license": [
     {
       "spdx": "CC-BY-4.0",
       "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
-  "website": "https://www.sigoleyendo.org/",
   "SDGs": [
     [
       4,
