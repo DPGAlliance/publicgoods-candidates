@@ -185,7 +185,8 @@ function assignPR(numPR) {
   my_options['url'] = baseURL + 'issues/' + numPR;
   my_options['body'] = JSON.stringify({
     'assignees': [
-      'lacabra'
+      'ericboucher',
+      'conradsp'
     ]
   })
 
