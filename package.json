@@ -16,9 +16,11 @@
   "license": "MIT",
   "devDependencies": {
     "ajv-cli": "^3.1.0",
+    "btoa": "^1.2.1",
     "csvtojson": "^2.0.10",
     "husky": "^4.2.3",
-    "jsonlint": "^1.6.3"
+    "jsonlint": "^1.6.3",
+    "request": "^2.88.2"
   },
   "husky": {
     "hooks": {
