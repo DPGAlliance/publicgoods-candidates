@@ -7,8 +7,8 @@
     "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\" -d \"excluded-nd/*.json\"",
     "check": "./scripts/check-filenames.bash",
     "check:fix": "./scripts/check-filenames.bash --fix",
-    "lint": "for f in ./nominees/*.json; do jsonlint \"$f\" > tempfile.tmp; truncate -s -1 tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
-    "lint:fix": "for f in ./nominees/*.json; do echo $f; jsonlint \"$f\" -i; done",
+    "lint": "for f in ./nominees/*.json; do jsonlint \"$f\" > tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
+    "lint:fix": "for f in ./nominees/*.json; do echo \"$f\"; jsonlint \"$f\" -i; echo >> \"$f\"; done",
     "order": "node scripts/order-fields.js",
     "order:fix": "node scripts/order-fields.js --fix"
   },

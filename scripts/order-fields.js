@@ -90,7 +90,7 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
       // rewrite the file with the desired order
       fs.writeFileSync(
         path.join(productsPath, productFiles[i]),
-        JSON.stringify(product, propertiesOrder, 2),
+        JSON.stringify(product, propertiesOrder, 2) + "\n",
         "utf8",
         function(err) {
           if (err) {
@@ -102,7 +102,7 @@ glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
         }
       );
     } else {
-      if (JSON.stringify(product, propertiesOrder, 2) != jsonData) {
+      if (JSON.stringify(product, propertiesOrder, 2) + "\n" != jsonData) {
         console.log(
           "JSON properties not in the expected order for " +
             productFiles[i] +
