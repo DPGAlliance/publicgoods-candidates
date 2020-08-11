@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added a newline at the end of each JSON nominee file, and adjusted the CI accordingly (#48)
 - Added `meilisearch.json` (#50)
 - Added `code.etalab.gouv.fr.json` (#52)
+- Added `oer-plan-ceibal-uruguay.json` (#53)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
