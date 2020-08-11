@@ -1,0 +1,33 @@
+{
+  "name": "MeiliSearch",
+  "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.",
+  "website": "https://www.meilisearch.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/meilisearch/MeiliSearch/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "Meili SAS",
+      "website": "https://www.meilisearch.com/",
+      "org_type": "owner",
+      "contact_email": "bonjour@meilisearch.com"
+    }
+  ]
+}
