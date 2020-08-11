@@ -23,17 +23,17 @@ This repository is used to manage the process of adding nominees for considerati
         "name": "REQUIRED",
         "aliases": "[OPTIONAL: Array of strings - Abbreviations, initialisms, or alternate names, where relevant]",
         "description": "REQUIRED",
+        "website": "REQUIRED",
         "license": [REQUIRED, Array of objects:
                 {
                         "spdx": "SDPX identifier for this license",
                         "licenseURL": "Link to the license under which this nominee is released"
                 }
         ],
-        "website": "REQUIRED",
         "SDGs": [REQUIRED, Array of objects listing SDGs by number and name],
+        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
         "repositoryURL": "OPTIONAL: Link to main repository",
-        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
         "organizations": [REQUIRED, Array of objects: 
                 {
                         "name": "REQUIRED - Name of the organization",
