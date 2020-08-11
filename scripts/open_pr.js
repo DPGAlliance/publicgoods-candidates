@@ -98,10 +98,12 @@ async function commitFiles(){
   for (file of files) { 
     if (file.match(/nominees\/.*\.json/)) {
 
-      commitFiles.push(file);
+      let commitFile = file.replace(/^nominees/,'products');
+
+      commitFiles.push(commitFile);
 
       let my_options = options;
-      my_options['url'] = baseURL + 'contents/' + file;
+      my_options['url'] = baseURL + 'contents/' + commitFile;
 
       let promise = new Promise((resolve, reject) => {
         request.get(my_options, function(error, response, body) {
@@ -129,8 +131,6 @@ async function commitFiles(){
       }else{
         body['message'] = 'BLD: add file ' + file;
       }
-
-      my_options['url'] = baseURL + 'contents/'+file;
       my_options['body'] = JSON.stringify(body);
 
       promise = new Promise((resolve, reject) => {
@@ -156,10 +156,10 @@ function createPR(files){
   my_options = options;
   my_options['url'] = baseURL + 'pulls';
   my_options['body'] = JSON.stringify({
-    'title': 'Add new nominee(s): ' + files.toString(),
+    'title': 'Add new product(s): ' + files.toString(),
     'head': branchName,
     'base': 'master',
-    'body': 'Add new nominees from [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods/candidates)'
+    'body': 'Add new product(s) from [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods/candidates)'
   })
 
   request.post(options, function (error, response, body) {
@@ -172,7 +172,7 @@ function createPR(files){
       response = JSON.parse(body);
       numPR = response['number'];
 
-      //assignPR(numPR);
+      assignPR(numPR);
     }
   });
 }
