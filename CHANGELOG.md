@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `lockdown-learning-repository.json` (#45)
 - Added CI badge
 - Added a newline at the end of each JSON nominee file, and adjusted the CI accordingly (#48)
+- Added `meilisearch.json` (#50)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
