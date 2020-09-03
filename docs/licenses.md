@@ -160,8 +160,7 @@ ZPL-2.0|Zope Public License 2.0
 0BSD
 AAL
 AFL-3.0
-AGPL-3.0-only
-AGPL-3.0-or-later
+AGPL-3.0
 Apache-1.1
 Apache-2.0
 APL-1.0
@@ -222,10 +221,8 @@ HPND
 IPA
 IPL-1.0
 ISC
-LGPL-2.1-only
-LGPL-2.1-or-later
-LGPL-3.0-only
-LGPL-3.0-or-later
+LGPL-2.1
+LGPL-3.0
 LiLiQ-P-1.1
 LiLiQ-R-1.1
 LiLiQ-Rplus-1.1

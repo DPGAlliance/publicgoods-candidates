@@ -27,6 +27,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `meilisearch.json` (#50)
 - Added `code.etalab.gouv.fr.json` (#52)
 - Added `oer-plan-ceibal-uruguay.json` (#53)
+- Added `typescript.json` and `webpack.json` (#55)
+- Updated the license requirements for content, data and software nominees resulting in the exclusion of 5 prior nominees. Documented explicitly which licenses are approved and why, and updated the `nominee-schema.json` accordingly (#56)
 
 ## [0.4.0] - 2020-04-15
 ### Changed
