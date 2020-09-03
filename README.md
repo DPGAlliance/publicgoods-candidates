@@ -212,6 +212,10 @@ For those projects that match [the initial set of requirements](https://digitalp
 
 From the set of nominee json files, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
 
+## Development
+
+Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
+
 ## License
 
 ```
