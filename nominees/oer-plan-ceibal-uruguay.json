@@ -4,12 +4,20 @@
   "website": "https://rea.ceibal.edu.uy/",
   "license": [
     {
-      "spdx": "CC-BY-NC-SA-4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
+    },
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
     },
     {
       "spdx": "CC-BY-NC-4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
     }
   ],
   "SDGs": [
