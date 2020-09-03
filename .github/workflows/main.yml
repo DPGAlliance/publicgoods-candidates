@@ -42,7 +42,10 @@ jobs:
   open_pr:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
+    if: |
+      github.ref == 'refs/heads/master' &&
+      !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
+      !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
 
     steps:
       - uses: actions/checkout@v2
@@ -56,5 +59,3 @@ jobs:
           GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
         run:
           node scripts/open_pr.js
-
-
