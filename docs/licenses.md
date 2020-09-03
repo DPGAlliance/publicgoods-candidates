@@ -54,8 +54,7 @@ Full Name | SPDX Identifier
 0BSD|0-clause BSD License 
 AAL|Attribution Assurance License 
 AFL-3.0|Academic Free License 3.0 
-AGPL-3.0-only|GNU Affero General Public License version 3 only
-AGPL-3.0-or-later|GNU Affero General Public License version 3 or later
+AGPL-3.0|GNU Affero General Public License version 3 
 Apache-1.1|Apache Software License 1.1 
 Apache-2.0|Apache License 2.0 
 APL-1.0|Adaptive Public License 
@@ -87,18 +86,14 @@ EUDatagrid|EU DataGrid Software License
 EUPL-1.2|European Union Public License 1.2 
 Fair|Fair License 
 Frameworx-1.0|Frameworx License 
-GPL-2.0-only|GNU General Public License version 2 only
-GPL-2.0-or-later|GNU General Public License version 2 or later
-GPL-3.0-only|GNU General Public License version 3 only
-GPL-3.0-or-later|GNU General Public License version 3 or later
+GPL-2.0|GNU General Public License version 2 
+GPL-3.0|GNU General Public License version 3 
 HPND|Historical Permission Notice and Disclaimer 
 IPA|IPA Font License 
 IPL-1.0|IBM Public License 1.0 
 ISC|ISC License 
-LGPL-2.1-only|GNU Lesser General Public License version 2.1 only
-LGPL-2.1-or-later|GNU Lesser General Public License version 2.1 or later
-LGPL-3.0-only|GNU Lesser General Public License version 3 only
-LGPL-3.0-or-later|GNU Lesser General Public License version 3 or later
+LGPL-2.1|GNU Lesser General Public License version 2.1
+LGPL-3.0|GNU Lesser General Public License version 3
 LiLiQ-P-1.1|Licence Libre du Québec – Permissive 
 LiLiQ-R-1.1|Licence Libre du Québec – Réciprocité 
 LiLiQ-Rplus-1.1|Licence Libre du Québec – Réciprocité forte 
@@ -221,10 +216,8 @@ EUDatagrid
 EUPL-1.2
 Fair
 Frameworx-1.0
-GPL-2.0-only
-GPL-2.0-or-later
-GPL-3.0-only
-GPL-3.0-or-later
+GPL-2.0
+GPL-3.0
 HPND
 IPA
 IPL-1.0
