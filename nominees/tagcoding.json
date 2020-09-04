@@ -1,0 +1,32 @@
+{
+  "name": "tagcoding",
+  "description": "#tagcoding means that one uses standardized hashtags to relate online information to specific topics.",
+  "website": "http://www.wikinetix.com",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "http://www.wikinetix.com/terms-of-use"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Wikinetix",
+      "website": "http://www.wikinetix.com/",
+      "org_type": "owner"
+    }
+  ]
+}
