@@ -4,7 +4,7 @@
   "description": "JSON schema validation for Digital Public Goods nominees",
   "main": "index.js",
   "scripts": {
-    "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\" -d \"excluded-nd/*.json\"",
+    "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\"",
     "check": "./scripts/check-filenames.bash",
     "check:fix": "./scripts/check-filenames.bash --fix",
     "lint": "for f in ./nominees/*.json; do jsonlint \"$f\" > tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",

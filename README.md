@@ -11,7 +11,7 @@ This repository is used to manage the process of adding nominees for considerati
 
 1. Go to the [nominees](https://github.com/unicef/publicgoods-candidates/tree/master/nominees) folder, and click on `Create new file`
 2. Name the new file with the name of the digital public good in [kebab-case](https://wiki.c2.com/?KebabCase), and `.json` as the extension. For example: [wikipedia.json](https://github.com/unicef/publicgoods-candidates/blob/master/nominees/wikipedia.json) or [inlcusion-ukr.json](https://github.com/unicef/publicgoods-candidates/blob/master/nominees/inclusion-ukr.json)
-3. Use the [template](https://github.com/unicef/publicgoods-candidates#template) from the section below to include the requested information. Be sure to include the fields marked `REQUIRED` with the corresponding information, as well as any `OPTIONAL` fields. Delete any lines marked `OPTIONAL` that you don't want to include. For the `license` field, be sure to use an approved [SPDX identifier](https://spdx.github.io/spdx-spec/appendix-I-SPDX-license-list/#i1-licenses-with-short-identifiers).
+3. Use the [template](https://github.com/unicef/publicgoods-candidates#template) from the section below to include the requested information. Be sure to include the fields marked `REQUIRED` with the corresponding information, as well as any `OPTIONAL` fields. Delete any lines marked `OPTIONAL` that you don't want to include. For the `license` field, refer to the [Specifying Licenses](#specifying-licenses) section for the list of approved licenses.
 4. Scroll down and accept the suggested field for the commit message `Create <filename>`, and choose `Create a new branch for this commit and start a pull request`. Click on `Propose new file`
 5. You are taken to a new page where you can leave a comment about the file you are about to propose to add, and finally click on `Create Pull Request`
 6. Wait for the green checkmark to say `All checks have passed` to have confirmation that the file complies with the expected format, and is ready to merge pending a review.
@@ -45,6 +45,16 @@ This repository is used to manage the process of adding nominees for considerati
         ]
 }
 ```
+
+### Specifying Licenses
+
+Licenses for open source software, open content and open data are vetted and approved by third party organizations, and we rely on their criteria in order to include them in our list of approved licenses. On top of it, we use [SPDX identifiers](https://spdx.org/licenses/) to easily, efficiently and uniquely refer to each license.
+
+* **Open Content**: you are encouraged to use one of the Creative Commons licenses which allow for both derivatives and commercial reuse: [CC BY](https://creativecommons.org/licenses/by/4.0/) or [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), or dedicate content to the public domain ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)). We also accept the following licenses which do not allow for commercial reuse: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) and [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* **Open Data**: only accepting [conformant licenses](https://opendefinition.org/licenses/) to the Open Definition from the Open Data Commons.
+* **Open Source Software**: only accepting [approved licenses](https://opensource.org/licenses) from the Open Source Initiative.
+
+Refer to the [current list of approved licenses](/docs/licenses.md) for additional information.
 
 ### Specifying SDGs
 
