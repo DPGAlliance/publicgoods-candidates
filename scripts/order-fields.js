@@ -23,6 +23,7 @@ const propertiesOrder = [
   "spdx",
   "licenseURL",
   "SDGs",
+  "SDGevidence",
   "sectors",
   "type",
   "repositoryURL",
