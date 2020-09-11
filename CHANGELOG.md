@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.5.0] - 2020-09-11
 
-### Changed
-- Removed `eduapp4syria.json`
+### Added
 - Added `antura-and-the-letters.json`
 - Added [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/), and corresponding badge in README
 - Added `marytts.json`, `octopus-microfinance.json`, `odoo.json`, `open-bank-project.json`, `opencbs.json`, `openrefine.json`, `reconcile.cvs`, `safe-open-source-microfinance-suite.json`, `x-road.json` (#31)
@@ -28,7 +27,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `code.etalab.gouv.fr.json` (#52)
 - Added `oer-plan-ceibal-uruguay.json` (#53)
 - Added `typescript.json` and `webpack.json` (#55)
-- Updated the license requirements for content, data and software nominees resulting in the exclusion of 5 prior nominees. Documented explicitly which licenses are approved and why, and updated the `nominee-schema.json` accordingly (#56)
+- Added `tagcoding.json` (#60)
+
+### Changed
+- Updated the license requirements for content, data and software nominees. Documented explicitly which licenses are approved and why, and updated the `nominee-schema.json` accordingly (#56)
+
+### Removed 
+- Removed `eduapp4syria.json`
+- Removed 5 prior nominees as a result of updating the license requirements above" `acceda.json`, `archive.json`, `energyplus.json`, `pulseox.json`, `stethoscope.json`
+
 
 ## [0.4.0] - 2020-04-15
 ### Changed
@@ -72,6 +79,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed language from `candidates` to `nominees` to match the recent changes in [digitalpublicgoods.net](https://digitalpublicgoods.net)
 - Renamed folder from `candidates/` to `nominees/`, as well as `candidate-schema.json` to `nominee-schema.json`
 
+[0.5.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/unicef/publicgoods-candidates/compare/v0.2.0...v0.2.1
