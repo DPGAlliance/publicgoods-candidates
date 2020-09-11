@@ -8,12 +8,12 @@ This file lists the excluded projects, the date of exclusion and the reason for 
 
 Nominee | Exclusion Date | Reason
 --- | --- | ---
-Acceda | September 3rd, 2020 | EUPL-1.1 is not an OSI-approved license
-Archive | September 3rd, 2020 |  EUPL-1.1 is not an OSI-approved license
-EnergyPlus | September 3rd, 2020 | BSD-4-Clause is not an OSI-approved license
-PulseOx | September 3rd, 2020 | Not accepting nominations for open hardware (license TAPR-OHL-1.0)
-Stethoscope| September 3rd, 2020 | Not accepting nominations for open hardware (license TAPR-OHL-1.0)
-Standard Energy Efficiency Data Platform | September 3rd, 2020 | BSD-4-Clause is not an OSI-approved license
+Acceda | Sept 3rd, 2020 | EUPL-1.1 is not an OSI-approved license
+Archive | Sept 3rd, 2020 |  EUPL-1.1 is not an OSI-approved license
+EnergyPlus | Sept 3rd, 2020 | BSD-4-Clause is not an OSI-approved license
+PulseOx | Sept 3rd, 2020 | Not accepting nominations for open hardware (license TAPR-OHL-1.0)
+Stethoscope| Sept 3rd, 2020 | Not accepting nominations for open hardware (license TAPR-OHL-1.0)
+Standard Energy Efficiency Data Platform | Sept 3rd, 2020 | BSD-4-Clause is not an OSI-approved license
 Cold chain and vaccination management system | April 4th, 2020 | No longer accepting Creative Commons licenses that do not allow No-Derivate works
 Development Data Library | April 4th, 2020 |  No longer accepting Creative Commons licenses that do not allow No-Derivate works
 Merlot | April 4th, 2020 |  No longer accepting Creative Commons licenses that do not allow No-Derivate works
