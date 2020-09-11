@@ -21,6 +21,7 @@
   "type": [
     "software"
   ],
+  "repositoryURL": "https://github.com/openmrs/openmrs-core",
   "organizations": [
     {
       "name": "OpenMRS",

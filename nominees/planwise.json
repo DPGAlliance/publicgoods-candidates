@@ -1,7 +1,7 @@
 {
   "name": "PlanWise",
   "description": "PlanWise helps planners and responders in low-resource settings see how they can serve as many people as they can, as cost-effectively as they can.",
-  "website": "https://planwise.instedd.org/",
+  "website": "https://planwise.instedd.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -30,7 +30,7 @@
   "organizations": [
     {
       "name": "InSTEDD",
-      "website": "https://instedd.org/",
+      "website": "https://instedd.org",
       "org_type": "owner"
     }
   ]

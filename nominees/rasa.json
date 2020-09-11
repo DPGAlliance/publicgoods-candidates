@@ -1,0 +1,29 @@
+{
+  "name": "Rasa",
+  "description": "Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.",
+  "website": "https://www.rasa.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/RasaHQ/rasa/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/RasaHQ/rasa",
+  "organizations": [
+    {
+      "name": "Rasa",
+      "website": "https://rasa.com",
+      "org_type": "owner"
+    }
+  ]
+}

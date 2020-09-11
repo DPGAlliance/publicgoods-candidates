@@ -4,7 +4,7 @@
     "OpenIMIS"
   ],
   "description": "OpenIMIS is open source software that manages social (health) protection schemes. It links beneficiary, provider and payer data.",
-  "website": "https://www.openimis.org/",
+  "website": "https://openimis.org",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -21,15 +21,23 @@
       "Industry, Innovation and Infrastructure"
     ]
   ],
-  "sectors": [],
+  "sectors": [
+    "Social Protection",
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/openimis/web_app_vb",
   "organizations": [
     {
+      "name": "GIZ",
+      "website": "https://www.giz.de/en/html/index.html",
+      "org_type": "owner"
+    },
+    {
       "name": "OpenIMIS",
-      "website": "https://www.openimis.org/",
+      "website": "https://openimis.org",
       "org_type": "owner"
     }
   ]

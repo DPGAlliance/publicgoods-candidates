@@ -1,7 +1,7 @@
 {
   "name": "Oppia",
   "description": "Tool for collaboratively building interactive lessons.",
-  "website": "https://www.oppia.org/",
+  "website": "https://www.oppia.org",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -12,6 +12,10 @@
     [
       4,
       "Quality Education"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
     ]
   ],
   "sectors": [],

@@ -1,6 +1,7 @@
 {
   "name": "The Tor Project",
   "description": "Providing secure and private web access",
+  "website": "https://torproject.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -29,7 +30,7 @@
   "organizations": [
     {
       "name": "Tor Project",
-      "website": "torproject.org",
+      "website": "https://torproject.org",
       "org_type": "owner"
     }
   ]

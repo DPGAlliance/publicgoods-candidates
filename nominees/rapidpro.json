@@ -1,7 +1,7 @@
 {
   "name": "RapidPro",
   "description": "Open Source platform that allows anyone to build interactive messaging systems using an easy visual interface",
-  "website": "https://rapidpro.io",
+  "website": "https://community.rapidpro.io",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -34,7 +34,7 @@
       "org_type": "owner"
     },
     {
-      "name": "UNICEF",
+      "name": "United Nations Children’s Fund (UNICEF)",
       "website": "https://unicef.org",
       "org_type": "funder"
     }

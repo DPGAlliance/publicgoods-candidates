@@ -1,7 +1,7 @@
 {
   "name": "CommCare",
   "description": "CommCare is an easily customizable, open source mobile platform that supports frontline workers in low-resource settings. By replacing paper-based forms, frontline workers can use CommCare to track and support their clients with registration forms, checklists, SMS reminders, and multimedia.",
-  "website": "https://dimagi.com/commcare",
+  "website": "https://www.dimagi.com/commcare",
   "license": [
     {
       "spdx": "BSD-3-Clause",
@@ -12,6 +12,18 @@
     [
       3,
       "Good Health and Well-Being"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
     ]
   ],
   "sectors": [],
@@ -22,7 +34,7 @@
   "organizations": [
     {
       "name": "Dimagi",
-      "website": "https://www.dimagi.com/",
+      "website": "https://dimagi.com",
       "org_type": "owner"
     }
   ]

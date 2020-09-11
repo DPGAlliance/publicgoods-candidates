@@ -1,7 +1,7 @@
 {
   "name": "Ushaidi Platform",
   "description": "Ushahidi is an open source web application for information collection, visualization and interactive mapping. ",
-  "website": "https://www.ushahidi.com",
+  "website": "https://ushahidi.com",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -9,14 +9,6 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ],
     [
       1,
       "No Poverty"
@@ -48,6 +40,14 @@
     [
       11,
       "Sustainable Cities and Communities"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
     ]
   ],
   "sectors": [],
@@ -57,8 +57,8 @@
   "repositoryURL": "https://github.com/ushahidi/platform",
   "organizations": [
     {
-      "name": "Ushaidi",
-      "website": "https://www.ushahidi.com/",
+      "name": "Ushahidi",
+      "website": "https://ushahidi.com",
       "org_type": "owner"
     }
   ]
