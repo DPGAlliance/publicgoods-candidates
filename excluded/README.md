@@ -7,6 +7,7 @@ This file lists the excluded projects, the date of exclusion and the reason for 
 **⚠️ We do not accept new projects that do not meet the minimum criteria. ⚠️**
 
 Nominee | Exclusion Date | Reason
+--- | --- | ---
 Acceda | September 3rd, 2020 | EUPL-1.1 is not an OSI-approved license
 Archive | September 3rd, 2020 |  EUPL-1.1 is not an OSI-approved license
 EnergyPlus | September 3rd, 2020 | BSD-4-Clause is not an OSI-approved license
