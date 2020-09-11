@@ -28,13 +28,18 @@
   "repositoryURL": "https://github.com/opencrvs/opencrvs-core",
   "organizations": [
     {
+      "name": "Jembi Health Systems NPC",
+      "website": "https://jembi.org",
+      "org_type": "owner"
+    },
+    {
       "name": "OpenCRVS",
-      "website": "https://www.opencrvs.org/",
+      "website": "https://www.opencrvs.org",
       "org_type": "owner"
     },
     {
       "name": "Plan International",
-      "website": "https://plan-international.org/",
+      "website": "https://plan-international.org",
       "org_type": "owner"
     }
   ]

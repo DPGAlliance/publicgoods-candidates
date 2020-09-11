@@ -1,7 +1,7 @@
 {
   "name": "Humansis",
   "description": "Humansis provides a more open, secure, functional and easy to use method of aid delivery, promoting transparency, and reducing opportunities for fraud and data theft.",
-  "website": "https://humansis.org/",
+  "website": "https://www.humansis.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -9,14 +9,6 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ],
     [
       1,
       "No Poverty"
@@ -52,6 +44,14 @@
     [
       9,
       "Industry, Innovation and Infrastructure"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
     ]
   ],
   "sectors": [],
@@ -61,14 +61,14 @@
   "repositoryURL": "https://github.com/humansis/front",
   "organizations": [
     {
-      "name": "Humansis",
-      "website": "https://www.humansis.org/",
+      "name": "Digital Impact Alliance",
+      "website": "https://digitalimpactalliance.org",
       "org_type": "owner"
     },
     {
-      "name": "Digital Impact Alliance",
-      "website": "https://digitalimpactalliance.org/",
-      "org_type": "funder"
+      "name": "Humansis",
+      "website": "https://humansis.org",
+      "org_type": "owner"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "OpenSRP"
   ],
   "description": "Open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.",
-  "website": "https://smartregister.org/",
+  "website": "https://smartregister.org",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -27,7 +27,7 @@
   "organizations": [
     {
       "name": "OpenSRP",
-      "website": "https://smartregister.org/",
+      "website": "https://smartregister.org",
       "org_type": "owner"
     }
   ]

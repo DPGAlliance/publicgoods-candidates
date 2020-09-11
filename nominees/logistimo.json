@@ -1,7 +1,7 @@
 {
   "name": "Logistimo",
   "description": "Open source software for supply chain and logistics management.",
-  "website": "https://www.logistimo.com/",
+  "website": "https://www.logistimo.com",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "Logistimo",
-      "website": "https://www.logistimo.com/",
+      "website": "https://www.logistimo.com",
       "org_type": "owner"
     }
   ]

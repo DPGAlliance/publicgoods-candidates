@@ -1,7 +1,7 @@
 {
   "name": "Apache Fineract",
   "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
-  "website": "https://fineract.apache.org/",
+  "website": "https://fineract.apache.org",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -30,7 +30,12 @@
   "organizations": [
     {
       "name": "The Apache Software Foundation",
-      "website": "https://www.apache.org/",
+      "website": "https://apache.org",
+      "org_type": "owner"
+    },
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org",
       "org_type": "owner"
     }
   ]

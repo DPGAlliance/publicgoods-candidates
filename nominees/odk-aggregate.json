@@ -1,7 +1,7 @@
 {
   "name": "ODK Aggregate",
   "description": "ODK Aggregate is a Java server that stores, analyzes, and presents survey data collected using ODK Collect. ",
-  "website": "",
+  "website": "https://opendatakit.org",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -9,6 +9,34 @@
     }
   ],
   "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
     [
       17,
       "Partnerships for the Goals"

@@ -4,7 +4,7 @@
     "OpenHIM"
   ],
   "description": "A middleware component designed to ease interoperability between disparate information systems, connecting health systems simply, securely and safely.",
-  "website": "https://openhim.org/",
+  "website": "https://openhim.org",
   "license": [
     {
       "spdx": "MPL-2.0",

@@ -1,7 +1,7 @@
 {
   "name": "Verboice",
   "description": "Open source toolkit for voice services; with special focus to the needs of medium- and low-income countries, scalable services, and interacting with vulnerable populations.",
-  "website": "https://verboice.instedd.org/",
+  "website": "https://verboice.instedd.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "InSTEDD",
-      "website": "https://instedd.org/",
+      "website": "https://instedd.org",
       "org_type": "owner"
     }
   ]

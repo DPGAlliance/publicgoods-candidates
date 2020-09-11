@@ -1,7 +1,7 @@
 {
   "name": "mUzima",
   "description": "mUzima is a mobile extension to the widely deployed OpenMRS electronic record system. This improves the reach of clinical care beyond tethered and connected settings.",
-  "website": "https://www.muzima.org/",
+  "website": "https://www.muzima.org",
   "license": [
     {
       "spdx": "MPL-2.0",
@@ -14,12 +14,12 @@
       "Good Health and Well-Being"
     ],
     [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
       5,
       "Gender Equality"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
     ]
   ],
   "sectors": [
@@ -32,7 +32,7 @@
   "organizations": [
     {
       "name": "mUzima",
-      "website": "https://www.muzima.org/",
+      "website": "https://muzima.org",
       "org_type": "owner"
     }
   ]
