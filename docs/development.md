@@ -2,11 +2,26 @@
 
 This document contains additional information related to the development of this repo.
 
+## Overview
+
+This repository is mostly an open data repository, one that holds primarily an open data set of potential Digital Public Goods and documents their progression through a vetting process. Open source code is used to enforce and guarantee data quality and consistency and is all contained within the `scripts/` folder. Scripts are written mostly in Javascript and one in Bash. Here are the various checks that are performed on the data:
+
+* `npm test` validates the JSON schema for all data files, which means that it ensures that all JSON files have the required fields, and each of these fields has the expected data type.
+*  `npm run lint` runs a JSON linter on the data files, which expects a 2-space identation and a predefined separation of fields line by line.
+* `./scripts/check-filenames.bash` checks that all data files are named consistely, that is by using the `field` name in *kebab-case*, in which punctuation is removed and spaces are replaced by single hyphens.
+* `npm run order` checks that the data fields in all JSON files are in a predefined order, again to ensure consistency.
+
+All the above checks are run as a precommit git hook and in the CI, and any failure results in a rejection of the proposed changes until all checks pass.
+
+## Git Hooks
+
+[Husky](https://github.com/typicode/husky) is used to implement the above checks in a git precommit hook, and configured in the `husky` section in the [../package.json](../package.json). You can manually run them by executing the above commands, or simply try to commit your changes, and the git hook will automatically invoke them before the commit runs.
+
 ## CI - Continous Integration
 
 This repository relies on **GitHub Actions** for its Continuous Integration. The CI configuration can be found in [.github/workflows/main.yml](../.github/workflows/main.yml) and is composed of the following three stages:
 
-* **build** This is where the CI validates the data that is to be committed to the repository in a multistep process:
+* **build** This is where the CI validates the data that is to be committed to the repository in a multistep process, as described in the overview section above.
     1. `npm install` installs the project dependencies required to run the subsequent steps
     2. `npm test` validates the JSON schema for all data files, which means that it ensures that all JSON files have the required fields, and each of these fields has the expected data type
     3. `npm run lint` runs a JSON linter on the data files, which expects a 2-space identation and a predefined separation of fields line by line
