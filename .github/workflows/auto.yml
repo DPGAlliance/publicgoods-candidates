@@ -6,9 +6,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-
   deploy:
-    needs: build
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
 
