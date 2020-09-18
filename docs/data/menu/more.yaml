@@ -1,0 +1,7 @@
+---
+more:
+
+  - name: "View Source"
+    ref: "https://github.com/unicef/publicgoods-candidates"
+    external: true
+    icon: "github"

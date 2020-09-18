@@ -1,3 +1,14 @@
+##### ---- Hugo ---- #####
+# Generated files by hugo
+/docs/public/
+/docs/resources/_gen/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+
 # Logs
 logs
 *.log
