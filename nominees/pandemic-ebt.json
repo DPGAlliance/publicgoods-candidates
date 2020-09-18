@@ -1,0 +1,28 @@
+{
+  "name": "Pandemic EBT",
+  "description": "Rails app to support online Pandemic EBT (P-EBT) applications in California. P-EBT benefits help families in California buy food when school is closed.",
+  "website": "https://ca.p-ebt.org/en/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/codeforamerica/pandemic-ebt-ca/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/codeforamerica/pandemic-ebt",
+  "organizations": [
+    {
+      "name": "Code for America",
+      "org_type": "owner",
+      "contact_email": ""
+    }
+  ]
+}

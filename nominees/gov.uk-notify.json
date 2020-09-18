@@ -1,0 +1,27 @@
+{
+  "name": "GOV.UK Notify",
+  "description": "Send emails, text messages and letters to users. It's been adopted by the US Department of Veterans Affairs and the Canadian Digital Service.",
+  "website": "https://www.notifications.service.gov.uk/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/alphagov/notifications-api/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/alphagov/notifications-api",
+  "organizations": [
+    {
+      "name": "The United Kingdom Government Digital Services",
+      "org_type": "owner"
+    }
+  ]
+}
