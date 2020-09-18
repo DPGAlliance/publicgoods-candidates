@@ -1,4 +1,7 @@
-# Development
+---
+title: Development
+
+---
 
 This document contains additional information related to the development of this repo.
 
