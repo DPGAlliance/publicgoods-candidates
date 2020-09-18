@@ -1,0 +1,36 @@
+---
+os: linux
+dist: bionic
+language: go
+go:
+  - "1.14.x"
+
+# Setup the GeekDoc theme for deployment on GitHub Pages.
+git:
+  submodules: false
+before_install:
+  - install -d docs/themes/hugo-geekdoc
+  - "curl --location https://github.com/xoxys/hugo-geekdoc/releases/download/v${GEEKDOC_VERSION}/hugo-geekdoc.tar.gz | tar -xvz --directory=docs/themes/hugo-geekdoc"
+
+# Download a specific version of the Hugo release tarball, extract the `hugo`
+# binary from the tarball to $GOPATH/bin so it is executable in the build env
+install: "curl --location https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz | tar -xvz --directory=$(go env GOPATH)/bin hugo"
+script:
+  - cd docs/
+  - hugo
+
+deploy:
+  committer_from_gh: true
+  local_dir: "public/"
+  provider: pages
+  skip_cleanup: true
+  target_branch: gh-pages
+  token: "$GITHUB_TOKEN"
+  on:
+    branch: master
+
+env:
+  global:
+    - GEEKDOC_VERSION: "0.4.0"
+    - HUGO_VERSION: "0.75.1"
+    - secure: Bo+oH7dUjy31t57iixOv1T0Ts/wwqFAO+oiFKpn5vl2XuNsxxH5tHxY2RYDjFeI5FCYaXyeugYWM9bSmeK3N0QQaIEL8+pIKdT1MZVhebhrvqJkj1QE04DskQ+ujczmmIqwkT4mVuBilE1PCAvbxPgsvaMJ1kljH6M+56wBWaAKjcOLBD3J4MS6J8yNMY+S0zuHGA9HLZxUvicPjdW5oj4Yq5Dbf7zD5oY+3pNrlT3g1R0lhs1320ivMIhB990TdBU6P4uhOdJycxXceEWrjqHIAh+0I20Q+UX4KrRPVmUcLE8xyNF28ToQwkkUzatFnEXu9aXEtQonEc/aEFxoHluCuoAr//WETPtwXGS38em6Yq4nFAhy0in4llRAPWMXm/JWFxiaYwsPmglAMMezSrYwIxxlH12KRttTRizKgG7eVbrRymSrcyVTlMnmt2WC1YFJpVnwvk7BbDuXjsy0YD5V6+W4sn0++c9G6UnvGNJm+geKDATBbAB/Un2dlwrnZy38ZB+0PWJcdyldHEiLREiOuVVlkMqypdVh3JjSJlYfyoRoe89m3JzFebu9/Y/rT62cTnlXUk4uov/lMuk7HcraJIH2nTkVpuHIZAw0pxgmqi2ogznaDCIhoNNDtRHurDYOr2njheBtY1A+/82jLaHwkdsGIRpiXihUZWaHxgz0=
