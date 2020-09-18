@@ -1,0 +1,28 @@
+{
+  "name": "FindTheMasks",
+  "description": "Rapid response technology to connect personal protective equipment (PPE) donations with healthcare workers in need.",
+  "website": "https://findthemasks.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/findthemasks/findthemasks/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/findthemasks/findthemasks",
+  "organizations": [
+    {
+      "name": "FindTheMasks",
+      "org_type": "owner",
+      "contact_email": "contact@findthemasks.com"
+    }
+  ]
+}

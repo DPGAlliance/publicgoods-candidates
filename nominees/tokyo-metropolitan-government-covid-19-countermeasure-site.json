@@ -1,0 +1,31 @@
+{
+  "name": "Tokyo Metropolitan Government COVID-19 Countermeasure Site",
+  "description": "A data visualization website that conveys an updated, digestible dataset to reflect the status of the spread of coronavirus within the city. The site has been reused by the City and County of San Francisco.",
+  "website": "https://stopcovid19.metro.tokyo.lg.jp/en/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/tokyo-metropolitan-gov/covid19/blob/development/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/tokyo-metropolitan-gov/covid19",
+  "organizations": [
+    {
+      "name": "Tokyo Metropolitan Government",
+      "org_type": "owner"
+    }
+  ]
+}

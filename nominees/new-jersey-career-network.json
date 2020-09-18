@@ -1,0 +1,36 @@
+{
+  "name": "New Jersey Career Network",
+  "description": "An initiative developed in partnership with the New Jersey Department of Labor and Workforce Development and the John J. Heldrich Center for Workforce Development at Rutgers University to create 21st century in-person services and digital tools to enable job seekers to identify, prepare for, and obtain jobs.",
+  "website": "https://careers.gardenstate.tech",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/newjersey/career-network/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/newjersey/career-network",
+  "organizations": [
+    {
+      "name": "State of New Jersey Office of Innovation",
+      "org_type": "owner",
+      "contact_email": "team@innovation.nj.gov"
+    }
+  ]
+}

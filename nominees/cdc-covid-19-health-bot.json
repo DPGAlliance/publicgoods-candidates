@@ -1,0 +1,27 @@
+{
+  "name": "CDC COVID-19 Health Bot",
+  "description": "This project collects automated screening protocols and self-checker algorithms from organizations implementing CDC screening protocols in interactive web sites, chat bots, and other technology.",
+  "website": "https://github.com/CDCgov/covid19healthbot",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/CDCgov/covid19healthbot/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/CDCgov/covid19healthbot",
+  "organizations": [
+    {
+      "name": "Center for Disease Control",
+      "org_type": "owner"
+    }
+  ]
+}
