@@ -13,6 +13,26 @@ This repository is mostly an open data repository, one that holds primarily an o
 
 All the above checks are run as a precommit git hook and in the CI, and any failure results in a rejection of the proposed changes until all checks pass.
 
+## Installation
+
+1. Clone this repository to your computer:
+    - Using HTTPS:
+    ```bash
+    git clone https://github.com/unicef/publicgoods-candidates.git
+    ```
+    - Using SSH:
+    ```bash
+    git clone git@github.com:unicef/publicgoods-candidates.git
+    ```
+    
+2. Install the project dependencies:
+    ```bash
+    cd publicgoods-candidates
+    npm install
+    ```
+
+You are now ready to create new files for new nominees of Digital Public Goods or suggest changes to the existing ones. All of them can be found inside the `nominees/` folder. Refer to the [contributing guidelines](/CONTRIBUTING.md).
+
 ## Git Hooks
 
 [Husky](https://github.com/typicode/husky) is used to implement the above checks in a git precommit hook, and configured in the `husky` section in the [../package.json](../package.json). You can manually run them by executing the above commands, or simply try to commit your changes, and the git hook will automatically invoke them before the commit runs.
