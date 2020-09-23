@@ -6,12 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## Added
-- Added `oppia.json` and `rasa.json` (#62)
-- Added `gdl-radio.json` (#66)
+## [0.6.0] - 2020-09-23
 
-## Changed
+### Added
+- Added `oppia.json` and `rasa.json` (#62)
+- Added 60 new nominees from [newamericafoundation/pandemic-response-repository](https://github.com/newamericafoundation/pandemic-response-repository/) (#65)
+- Added `gdl-radio.json` (#67)
+
+### Changed
 - Attempted to standardize website and URL fields from 30+ nominees (#62)
+- Modified the JSON schema adding an enum field `stage` from the set `["nominee", "candidate", "DPG"]`, and modified all nominee files accordigly.
 
 ## [0.5.0] - 2020-09-11
 
