@@ -4,8 +4,8 @@
   "website": "https://github.com/CDCgov/covid19healthbot",
   "license": [
     {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/CDCgov/covid19healthbot/blob/master/LICENSE"
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://github.com/CDCgov/covid19healthbot/blob/master/README.md"
     }
   ],
   "SDGs": [
@@ -15,7 +15,7 @@
     ]
   ],
   "type": [
-    "software"
+    "data"
   ],
   "repositoryURL": "https://github.com/CDCgov/covid19healthbot",
   "organizations": [
