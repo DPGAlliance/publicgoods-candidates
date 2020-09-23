@@ -1,0 +1,33 @@
+{
+  "name": "GDL Radio",
+  "description": "A centralized resource library for USAID and other donor-funded Interactive Radio Instruction (IRI) and Interactive Audio Instruction (IAI) resources.",
+  "website": "https://gdlradio.org",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Global Book Alliance",
+      "website": "https://www.globalbookalliance.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "United States Agency for International Development (USAID)",
+      "website": "https://www.usaid.gov/",
+      "org_type": "funder"
+    }
+  ]
+}
