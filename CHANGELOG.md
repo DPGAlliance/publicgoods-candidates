@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 - Added `oppia.json` and `rasa.json` (#62)
+- Added `gdl-radio.json` (#66)
 
 ## Changed
 - Attempted to standardize website and URL fields from 30+ nominees (#62)
