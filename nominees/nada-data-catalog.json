@@ -1,0 +1,40 @@
+{
+  "name": "NADA - Data Catalog",
+  "description": "An open-source software designed for researchers to browse, search, compare, apply for access and download research data.",
+  "website": "https://nada.ihsn.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/ihsn/nada/blob/master/license.txt"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ]
+  ],
+  "SDGevidence": "https://nada.ihsn.org/",
+  "sectors": [],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositoryURL": "https://github.com/ihsn/nada",
+  "organizations": [
+    {
+      "name": "World Bank",
+      "website": "https://www.worldbank.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
