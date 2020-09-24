@@ -399,6 +399,14 @@
           }
         }
       }
+    },
+    "stage": {
+      "type": "string",
+      "enum": [
+        "nominee",
+        "candidate",
+        "DPG"
+      ]
     }
   }
 }

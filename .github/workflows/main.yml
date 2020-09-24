@@ -1,6 +1,8 @@
 name: CI
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
 
 jobs:
   build:
@@ -28,12 +30,12 @@ jobs:
       - uses: actions/checkout@v2
       - name: Install dependecies
         run: npm install
-      - name: Run Server
-        run: |
-          git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
-          pushd ../publicgoods-wordpress;
-          php -S localhost:8000 &
-          popd
+      # - name: Run Server
+      #   run: |
+      #     git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
+      #     pushd ../publicgoods-wordpress;
+      #     php -S localhost:8000 &
+      #     popd
       - name: Deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
