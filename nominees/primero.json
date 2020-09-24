@@ -1,6 +1,6 @@
 {
   "name": "Primero",
-  "description": "Primero is an open source software platform that helps social services, humanitarian and development workers manage protection-related data, with tools that facilitate case management, incident monitoring and family tracing and reunification.",
+  "description": "A web app for confidential case management and incident monitoring in social welfare, child protection, and gender based violence.",
   "website": "https://www.primero.org/",
   "license": [
     {
@@ -10,14 +10,19 @@
   ],
   "SDGs": [
     [
-      10,
-      "Reduced Inequalities"
+      5,
+      "Gender Equality"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
     ],
     [
       16,
       "Peace, Justice and Strong Institutions"
     ]
   ],
+  "SDGevidence": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf",
   "sectors": [
     "Gender and Minority Groups",
     "Humanitarian",
@@ -29,8 +34,8 @@
   "repositoryURL": "https://github.com/primeroIMS/primero",
   "organizations": [
     {
-      "name": "Primero",
-      "website": "https://www.primero.org/",
+      "name": "UNICEF",
+      "website": "https://unicef.org",
       "org_type": "owner"
     }
   ],
