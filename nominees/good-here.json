@@ -1,0 +1,72 @@
+{
+  "name": "Good Here",
+  "description": "Good Here helps you discover social impact startups, connect with the social impact community, and find soci",
+  "website": "https://goodhere.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/goodhere/goodhere/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/",
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content"
+  ],
+  "repositoryURL": "https://github.com/goodhere/goodhere",
+  "organizations": [
+    {
+      "name": "Ben Matthew",
+      "org_type": "owner"
+    }
+  ]
+}
+
