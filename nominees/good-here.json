@@ -1,6 +1,6 @@
 {
   "name": "Good Here",
-  "description": "Good Here helps you discover social impact startups, connect with the social impact community, and find soci",
+  "description": "Good Here helps you discover social impact startups, connect with the social impact community, and find social impact opportunities.",
   "website": "https://goodhere.org/",
   "license": [
     {
@@ -67,6 +67,6 @@
       "name": "Ben Matthew",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
