@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Attempted to standardize website and URL fields from 30+ nominees (#62)
-- Modified the JSON schema adding an enum field `stage` from the set `["nominee", "candidate", "DPG"]`, and modified all nominee files accordigly.
+- Modified the JSON schema adding an enum field `stage` from the set `["nominee", "candidate", "DPG"]`, and modified all nominee files accordigly. (#68)
 
 ## [0.5.0] - 2020-09-11
 
@@ -92,6 +92,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed language from `candidates` to `nominees` to match the recent changes in [digitalpublicgoods.net](https://digitalpublicgoods.net)
 - Renamed folder from `candidates/` to `nominees/`, as well as `candidate-schema.json` to `nominee-schema.json`
 
+[0.6.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.2.1...v0.3.0
