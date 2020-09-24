@@ -1,0 +1,34 @@
+{
+  "name": "OpenLMIS",
+  "description": "Software to support national supply chains manage medical supplies and avoid stockouts",
+  "website": "https://openlmis.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0-only",
+      "licenseURL": "https://openlmis.org/tools/license/"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "SDGevidence": "Mission/vision: https://openlmis.org/about/\nImpact: https://openlmis.org/impact/\nOpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making. ",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OpenLMIS",
+  "organizations": [
+    {
+      "name": "VillageReach",
+      "org_type": "owner"
+    }
+  ]
+}
+
