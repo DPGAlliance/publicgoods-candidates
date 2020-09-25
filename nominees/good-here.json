@@ -6,6 +6,10 @@
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/goodhere/goodhere/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/goodhere/goodhere/blob/master/README.md"
     }
   ],
   "SDGs": [
