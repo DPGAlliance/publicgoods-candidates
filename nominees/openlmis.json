@@ -1,11 +1,11 @@
 {
   "name": "OpenLMIS",
-  "description": "Software to support national supply chains manage medical supplies and avoid stockouts",
+  "description": "Cloud-based electronic logistics management information system (LMIS) built to support national supply chains manage medical supplies and avoid stockouts",
   "website": "https://openlmis.org/",
   "license": [
     {
-      "spdx": "AGPL-3.0-only",
-      "licenseURL": "https://openlmis.org/tools/license/"
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/OpenLMIS/openlmis-ref-distro/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -23,12 +23,13 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenLMIS",
+  "repositoryURL": "https://github.com/OpenLMIS/openlmis-ref-distro",
   "organizations": [
     {
       "name": "VillageReach",
+      "website": "https://www.villagereach.org"
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
