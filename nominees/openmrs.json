@@ -1,8 +1,5 @@
 {
-  "name": "Open Medical Record System",
-  "aliases": [
-    "OpenMRS"
-  ],
+  "name": "OpenMRS",
   "description": "Software platform and reference application which enables design of a customized medical records system with no programming knowledge.",
   "website": "https://openmrs.org",
   "license": [

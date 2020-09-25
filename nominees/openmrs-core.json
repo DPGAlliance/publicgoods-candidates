@@ -1,11 +1,11 @@
 {
-  "name": "Open MRS Android Client",
-  "description": "OpenMRS Android client",
+  "name": "OpenMRS Core",
+  "description": "OpenMRS API and web application code",
   "website": "",
   "license": [
     {
       "spdx": "MPL-2.0",
-      "licenseURL": "https://github.com/openmrs/openmrs-contrib-android-client/blob/master/copyright/copyright"
+      "licenseURL": "https://github.com/openmrs/openmrs-core/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openmrs/openmrs-contrib-android-client",
+  "repositoryURL": "https://github.com/openmrs/openmrs-core",
   "organizations": [
     {
       "name": "Open MRS",

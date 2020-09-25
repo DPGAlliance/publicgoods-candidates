@@ -1,8 +1,5 @@
 {
-  "name": "Open Logistics Management Information System",
-  "aliases": [
-    "OpenLMIS"
-  ],
+  "name": "OpenLMIS",
   "description": "Cloud-based electronic logistics management information system (LMIS) purpose-built to manage health commodity distribution in low- and middle-income countries.",
   "website": "https://openlmis.org",
   "license": [
