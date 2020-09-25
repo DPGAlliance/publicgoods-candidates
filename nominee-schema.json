@@ -10,7 +10,8 @@
     "license",
     "organizations",
     "SDGs",
-    "type"
+    "type",
+    "stage"
   ],
   "properties": {
     "name": {
@@ -265,6 +266,10 @@
           ]
         ]
       }
+    },
+    "SDGevidence": {
+      "type": "string",
+      "description": "Relevant links or information to support the relevance to SDGs."
     },
     "sectors": {
       "type": "array",
