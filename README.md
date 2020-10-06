@@ -15,7 +15,8 @@ Please read through our [contributing guidelines](/CONTRIBUTING.md). We are alwa
 
 ## 🛠 Development
 
-Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
+Refer to the [Development Guide](https://unicef.github.io/publicgoods-candidates/development/) for information related to doing development with this repository.
+
 
 ## :memo: License
 
