@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 13
+    }
   ],
   "sectors": [],
   "type": [

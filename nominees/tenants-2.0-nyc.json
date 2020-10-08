@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [

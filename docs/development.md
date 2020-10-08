@@ -52,4 +52,24 @@ This repository relies on **GitHub Actions** for its Continuous Integration. The
 
 * **open_pr** The data from this repo is synced with [publicgoods/products](https://github.org/publicgoods/products) as a collaborative and joint effort between multiple organizations to maintain a broader list of open source projects in the social impact sector. This stage checks for any changes on the data files, and if any are found, a PR is automatically opened against [publicgoods/products](https://github.org/publicgoods/products) to keep both repos in sync.
 
-✅ ProTip: Include either `[skip pr]` or `[pr skip]` in either the commit message, the pull request title, or the pull request body to prevent this last action from happening automatically.
+✅&nbsp;&nbsp;ProTip: Include either `[skip pr]` or `[pr skip]` in either the commit message, the pull request title, or the pull request body to prevent this last action from happening automatically.
+
+## Release New Version
+
+Follow these steps to release a new version:
+
+1. Document your upcoming changes in `CHANGELOG.md`. Follow the existing structure and be consistent with the order of subsections: `Added`, `Changed`, `Deleted`. Also be sure to link the version in the diff list at the very bottom of the CHANGELOG.
+2. Commit all the changes that will be included in the new version.
+3. Tag the last commit, for example, for version 0.7.0:
+    ```bash
+    git tag -a v0.7.0 -m "Version 0.7.0"
+    ```
+4. Push the tag to the origin:
+    ```bash
+    git push origin --tags
+    ```
+5. Visit https://github.com/unicef/publicgoods-candidates/releases and click on `Draft a New Release`:
+    - Select the version you just tagged in step 3 above
+    - Enter the `Release title`, for example `v0.7.0` consistent with the preceeding steps.
+    - In the `Describe this release`, copy and paste the text from the CHANGELOG for this version in *raw form* (it's markdown after all). Preview and verify that it looks good (you can edit this information again later, no big deal if something is wrong in the description).
+

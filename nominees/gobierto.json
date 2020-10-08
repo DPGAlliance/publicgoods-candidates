@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [
