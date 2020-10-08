@@ -13,18 +13,15 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      13,
-      "Climate Action"
-    ],
-    [
-      15,
-      "Life On Land"
-    ]
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 13
+    },
+    {
+      "SDGNumber": 15
+    }
   ],
   "sectors": [],
   "type": [

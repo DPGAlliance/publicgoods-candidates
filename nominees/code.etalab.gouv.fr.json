@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [

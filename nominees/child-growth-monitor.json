@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      3,
-      "Good Health and Well-Being"
-    ]
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 3
+    }
   ],
   "sectors": [],
   "type": [

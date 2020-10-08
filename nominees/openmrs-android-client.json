@@ -1,5 +1,5 @@
 {
-  "name": "Open MRS Android Client",
+  "name": "OpenMRS Android Client",
   "description": "OpenMRS Android client",
   "website": "",
   "license": [
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ]
+    {
+      "SDGNumber": 3
+    }
   ],
   "sectors": [],
   "type": [

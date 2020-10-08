@@ -9,20 +9,19 @@
     }
   ],
   "SDGs": [
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
+    }
   ],
-  "SDGevidence": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf",
   "sectors": [
     "Gender and Minority Groups",
     "Humanitarian",

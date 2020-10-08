@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 9
+    }
   ],
   "sectors": [],
   "type": [

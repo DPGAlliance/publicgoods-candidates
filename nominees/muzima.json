@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 5
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [
     "Health"

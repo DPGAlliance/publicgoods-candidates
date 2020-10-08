@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [

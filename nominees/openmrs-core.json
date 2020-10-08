@@ -1,5 +1,5 @@
 {
-  "name": "Open MRS Core",
+  "name": "OpenMRS Core",
   "description": "OpenMRS API and web application code",
   "website": "",
   "license": [
@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ]
+    {
+      "SDGNumber": 3
+    }
   ],
   "sectors": [],
   "type": [
