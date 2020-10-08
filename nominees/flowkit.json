@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 11
+    }
   ],
   "sectors": [],
   "type": [

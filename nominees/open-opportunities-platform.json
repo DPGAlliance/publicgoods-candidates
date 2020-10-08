@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 16
+    }
   ],
   "type": [
     "software"

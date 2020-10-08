@@ -9,20 +9,19 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      6,
-      "Clean Water and Sanitation"
-    ]
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://nada.ihsn.org/showcase"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://nada.ihsn.org/showcase"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://nada.ihsn.org/showcase"
+    }
   ],
-  "SDGevidence": "https://nada.ihsn.org/",
   "sectors": [],
   "type": [
     "data",

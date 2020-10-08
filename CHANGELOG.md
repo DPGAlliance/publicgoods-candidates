@@ -4,7 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## [0.7.0] - 2020-10-08
+
+### Added
+- Added `scripts/migrate-v0.7.0.json` to adjust all existing JSON files to the change introduced in the `nominee-schema.json` described below.
+
+### Changed
+- [Breaking changes] Modified the JSON schema to account for SDG evidence. Thus, `SDGs` is not longer an array of enums, but an array of objects, that contains a required `SDGNumber` and an optional `evidenceText` and `evidenceURL`, one of which should be required. This field is not made mandatory retroactively, but will be required in future nominations.
 
 ## [0.6.0] - 2020-09-23
 
@@ -92,6 +98,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed language from `candidates` to `nominees` to match the recent changes in [digitalpublicgoods.net](https://digitalpublicgoods.net)
 - Renamed folder from `candidates/` to `nominees/`, as well as `candidate-schema.json` to `nominee-schema.json`
 
+[0.7.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.6.0...v0.7.0
 [0.6.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/unicef/publicgoods-candidates/compare/v0.3.0...v0.4.0
