@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [

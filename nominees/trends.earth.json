@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      15,
-      "Life On Land"
-    ],
-    [
-      14,
-      "Life Below Water"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 15
+    },
+    {
+      "SDGNumber": 14
+    },
+    {
+      "SDGNumber": 13
+    }
   ],
   "sectors": [],
   "type": [

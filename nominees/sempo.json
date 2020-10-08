@@ -9,22 +9,18 @@
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 1
+    },
+    {
+      "SDGNumber": 8
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [
     "Economics/Finance",

@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      7,
-      "Affordable and Clean Energy"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 7
+    },
+    {
+      "SDGNumber": 13
+    }
   ],
   "sectors": [],
   "type": [

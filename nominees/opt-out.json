@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      5,
-      "Gender Equality"
-    ]
+    {
+      "SDGNumber": 5
+    }
   ],
   "sectors": [],
   "type": [
