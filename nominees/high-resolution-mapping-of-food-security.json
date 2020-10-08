@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ]
+    {
+      "SDGNumber": 2
+    }
   ],
   "sectors": [],
   "type": [

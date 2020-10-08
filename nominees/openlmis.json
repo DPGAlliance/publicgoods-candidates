@@ -9,16 +9,17 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making.",
+      "evidenceURL": "https://openlmis.org/impact/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "OpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making.",
+      "evidenceURL": "https://openlmis.org/impact/"
+    }
   ],
-  "SDGevidence": "Mission/vision: https://openlmis.org/about/\nImpact: https://openlmis.org/impact/\nOpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making. ",
   "sectors": [],
   "type": [
     "software"
