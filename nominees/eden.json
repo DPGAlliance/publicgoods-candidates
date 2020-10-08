@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 13
+    }
   ],
   "sectors": [],
   "type": [

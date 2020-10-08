@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [

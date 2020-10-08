@@ -1,0 +1,34 @@
+{
+  "name": "CNB Guatemala",
+  "description": "A digital online version of the Guatemalan National Basic Curriculum, aligned open educational resources and other teacher development resources.",
+  "website": "http://cnbGuatemala.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "http://cnbguatemala.org/wiki/CNB:Derechos_de_autor"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "http://cnbguatemala.org/wiki/Ayuda:Website_tour_(English), https://www.prensalibre.com/guatemala/comunitario/curriculo-nacional-base-en-linea-aporta-herramientas-a-docentes/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "http://cnbguatemala.org/wiki/Ayuda:Website_tour_(English), https://www.prensalibre.com/guatemala/comunitario/curriculo-nacional-base-en-linea-aporta-herramientas-a-docentes/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Online Learning Initiative",
+      "website": "http://online-learning-initiative.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

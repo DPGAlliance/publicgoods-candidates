@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 11
+    }
   ],
   "sectors": [],
   "type": [

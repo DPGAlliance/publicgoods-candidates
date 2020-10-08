@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [

@@ -1,0 +1,41 @@
+{
+  "name": "PreSCo",
+  "description": "Digital Health with advanced application of machine learning for advancing neonatal health",
+  "website": "https://www.avyantra.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/kvklrao/Avyantra_Presco_Project/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We are aligned with Sustainable Development Goals SDG 3 for Good health and well-being, SDG 5 for Gender equality, SDG 10 for reduced inequalities. Our platform integrates urban and rural healthcare with the objective of meeting the current challenges of lack of resources, infrastructure, trained manpower and specialists in rural areas. In developing countries like India, more than 60 percent of the population is located in rural parts fo the country. Most of the times they have to travel to urban centres, on an average of 50 to 100 kms, to avail of quality healthcare. Upto 70 percent people even pay out of their pockets. This practice makes many drop out of treatments mid-way and even pushes close to 60 - 80 million people into poverty every year due to high healthcare costs. Especially, in the case of women and children, at least 40 percent babies and children lose their lives due to transport to urban tertiary centres. Health workers volunteering in the rural pockets, primary health centres and other rural healthcare service providers and professional are not equipped to handle these issues. Our platform harnesses the potential of artificial intelligence, machine learning and cloud architecture to provide for accessible and affordable quality healthcare to the hinterlands of the country to ensure equitable and universal healthcare to all.",
+      "evidenceURL": "https://www.unicef.org/innovation/FundGraduate/Avyantra, https://www.youtube.com/watch?v=ijCu99AbKlg, https://www.unicef.org/press-releases/unicef-cryptocurrency-fund-announces-its-largest-investment-startups-developing-and"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We are aligned with Sustainable Development Goals SDG 3 for Good health and well-being, SDG 5 for Gender equality, SDG 10 for reduced inequalities. Our platform integrates urban and rural healthcare with the objective of meeting the current challenges of lack of resources, infrastructure, trained manpower and specialists in rural areas. In developing countries like India, more than 60 percent of the population is located in rural parts fo the country. Most of the times they have to travel to urban centres, on an average of 50 to 100 kms, to avail of quality healthcare. Upto 70 percent people even pay out of their pockets. This practice makes many drop out of treatments mid-way and even pushes close to 60 - 80 million people into poverty every year due to high healthcare costs. Especially, in the case of women and children, at least 40 percent babies and children lose their lives due to transport to urban tertiary centres. Health workers volunteering in the rural pockets, primary health centres and other rural healthcare service providers and professional are not equipped to handle these issues. Our platform harnesses the potential of artificial intelligence, machine learning and cloud architecture to provide for accessible and affordable quality healthcare to the hinterlands of the country to ensure equitable and universal healthcare to all.",
+      "evidenceURL": "https://www.unicef.org/innovation/FundGraduate/Avyantra, https://www.youtube.com/watch?v=ijCu99AbKlg, https://www.unicef.org/press-releases/unicef-cryptocurrency-fund-announces-its-largest-investment-startups-developing-and"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "We are aligned with Sustainable Development Goals SDG 3 for Good health and well-being, SDG 5 for Gender equality, SDG 10 for reduced inequalities. Our platform integrates urban and rural healthcare with the objective of meeting the current challenges of lack of resources, infrastructure, trained manpower and specialists in rural areas. In developing countries like India, more than 60 percent of the population is located in rural parts fo the country. Most of the times they have to travel to urban centres, on an average of 50 to 100 kms, to avail of quality healthcare. Upto 70 percent people even pay out of their pockets. This practice makes many drop out of treatments mid-way and even pushes close to 60 - 80 million people into poverty every year due to high healthcare costs. Especially, in the case of women and children, at least 40 percent babies and children lose their lives due to transport to urban tertiary centres. Health workers volunteering in the rural pockets, primary health centres and other rural healthcare service providers and professional are not equipped to handle these issues. Our platform harnesses the potential of artificial intelligence, machine learning and cloud architecture to provide for accessible and affordable quality healthcare to the hinterlands of the country to ensure equitable and universal healthcare to all.",
+      "evidenceURL": "https://www.unicef.org/innovation/FundGraduate/Avyantra, https://www.youtube.com/watch?v=ijCu99AbKlg, https://www.unicef.org/press-releases/unicef-cryptocurrency-fund-announces-its-largest-investment-startups-developing-and"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/kvklrao/Avyantra_Presco_Project",
+  "organizations": [
+    {
+      "name": "Avyantra Health Technologies",
+      "website": "https://www.avyantra.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

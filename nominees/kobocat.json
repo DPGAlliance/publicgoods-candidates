@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [

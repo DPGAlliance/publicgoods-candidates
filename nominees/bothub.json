@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      4,
-      "Quality Education"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 4
+    }
   ],
   "sectors": [],
   "type": [
