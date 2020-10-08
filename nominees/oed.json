@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      7,
-      "Affordable and Clean Energy"
-    ]
+    {
+      "SDGNumber": 7
+    }
   ],
   "sectors": [],
   "type": [

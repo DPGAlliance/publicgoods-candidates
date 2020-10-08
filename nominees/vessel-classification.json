@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      14,
-      "Life Below Water"
-    ]
+    {
+      "SDGNumber": 14
+    }
   ],
   "sectors": [],
   "type": [

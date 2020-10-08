@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 9
+    }
   ],
   "sectors": [],
   "type": [
