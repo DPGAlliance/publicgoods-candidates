@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ]
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 8
+    }
   ],
   "sectors": [],
   "type": [

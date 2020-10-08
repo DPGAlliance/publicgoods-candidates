@@ -9,50 +9,39 @@
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ],
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      6,
-      "Clean Water and Sanitation"
-    ],
-    [
-      7,
-      "Affordable and Clean Energy"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 1
+    },
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 5
+    },
+    {
+      "SDGNumber": 6
+    },
+    {
+      "SDGNumber": 7
+    },
+    {
+      "SDGNumber": 8
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [

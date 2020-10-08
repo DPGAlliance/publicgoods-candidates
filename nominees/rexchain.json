@@ -1,6 +1,6 @@
 {
   "name": "RexChain",
-  "description": "Public infrastructure for the safe and private shariong of ePrescriptions",
+  "description": "Public infrastructure for the safe and private sharing of ePrescriptions",
   "website": "https://www.rexchain.io",
   "license": [
     {
@@ -9,16 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.newsweek.com/2019/03/08/blockchain-impact-award-winner-prescrypto-1339339.html"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://www.newsweek.com/2019/03/08/blockchain-impact-award-winner-prescrypto-1339339.html"
+    }
   ],
-  "SDGevidence": "Best described here: https://www.newsweek.com/2019/03/08/blockchain-impact-award-winner-prescrypto-1339339.html\n\n",
   "sectors": [],
   "type": [
     "software"
@@ -27,8 +26,9 @@
   "organizations": [
     {
       "name": "Prescrypto",
+      "website": "https://www.prescrypto.com",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-

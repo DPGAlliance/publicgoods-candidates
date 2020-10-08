@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      12,
-      "Responsible Consumption and Production"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 12
+    },
+    {
+      "SDGNumber": 9
+    }
   ],
   "sectors": [],
   "type": [
