@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [

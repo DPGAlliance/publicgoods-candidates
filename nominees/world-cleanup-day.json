@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      13,
-      "Climate Action"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 13
+    },
+    {
+      "SDGNumber": 11
+    }
   ],
   "sectors": [],
   "type": [

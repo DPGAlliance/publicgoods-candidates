@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [
