@@ -9,22 +9,18 @@
     }
   ],
   "SDGs": [
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [
     "Advocacy",

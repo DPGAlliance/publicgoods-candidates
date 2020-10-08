@@ -13,52 +13,51 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      7,
-      "Affordable and Clean Energy"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      12,
-      "Responsible Consumption and Production"
-    ],
-    [
-      13,
-      "Climate Action"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    }
   ],
-  "SDGevidence": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/",
   "sectors": [],
   "type": [
     "software",

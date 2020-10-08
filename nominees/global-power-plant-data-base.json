@@ -13,14 +13,12 @@
     }
   ],
   "SDGs": [
-    [
-      12,
-      "Responsible Consumption and Production"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 12
+    },
+    {
+      "SDGNumber": 13
+    }
   ],
   "sectors": [],
   "type": [

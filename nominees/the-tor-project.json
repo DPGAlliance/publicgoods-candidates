@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 5
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [

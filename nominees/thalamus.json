@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ]
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 16
+    }
   ],
   "sectors": [],
   "type": [
