@@ -20,10 +20,9 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ]
+    {
+      "SDGNumber": 4
+    }
   ],
   "sectors": [],
   "type": [

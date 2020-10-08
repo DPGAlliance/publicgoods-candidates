@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 11
+    }
   ],
   "sectors": [],
   "type": [

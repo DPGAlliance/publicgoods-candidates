@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ]
+    {
+      "SDGNumber": 8
+    }
   ],
   "sectors": [],
   "type": [

@@ -9,18 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 13
+    }
   ],
   "sectors": [],
   "type": [

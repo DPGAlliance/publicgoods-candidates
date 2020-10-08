@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      12,
-      "Responsible Consumption and Production"
-    ]
+    {
+      "SDGNumber": 12
+    }
   ],
   "sectors": [],
   "type": [

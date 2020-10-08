@@ -9,10 +9,9 @@
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ]
+    {
+      "SDGNumber": 1
+    }
   ],
   "sectors": [],
   "type": [
