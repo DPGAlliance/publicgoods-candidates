@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      12,
-      "Responsible Consumption and Production"
-    ]
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 12
+    }
   ],
   "sectors": [],
   "type": [

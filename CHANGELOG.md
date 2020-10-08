@@ -4,7 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## [0.7.0] - 2020-10-08
+
+### Added
+- Added `scripts/migrate-v0.7.0.json` to adjust all existing JSON files to the change introduced in the `nominee-schema.json` described below.
+
+### Changed
+- [Breaking changes] Modified the JSON schema to account for SDG evidence. Thus, `SDGs` is not longer an array of enums, but an array of objects, that contains a required `SDGNumber` and an optional `evidenceText` and `evidenceURL`, one of which should be required. This field is not made mandatory retroactively, but will be required in future nominations.
 
 ## [0.6.0] - 2020-09-23
 

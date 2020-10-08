@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 5
+    },
+    {
+      "SDGNumber": 10
+    }
   ],
   "sectors": [],
   "type": [

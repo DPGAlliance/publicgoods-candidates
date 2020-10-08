@@ -9,14 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [

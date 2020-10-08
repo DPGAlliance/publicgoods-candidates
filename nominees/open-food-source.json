@@ -9,22 +9,18 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      12,
-      "Responsible Consumption and Production"
-    ]
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 8
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 12
+    }
   ],
   "sectors": [],
   "type": [

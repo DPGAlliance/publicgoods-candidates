@@ -9,22 +9,18 @@
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 1
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 11
+    }
   ],
   "sectors": [],
   "type": [
