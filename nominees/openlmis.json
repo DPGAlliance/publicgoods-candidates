@@ -1,7 +1,7 @@
 {
   "name": "OpenLMIS",
-  "description": "Cloud-based electronic logistics management information system (LMIS) purpose-built to manage health commodity distribution in low- and middle-income countries.",
-  "website": "https://openlmis.org",
+  "description": "Cloud-based electronic logistics management information system (LMIS) built to support national supply chains manage medical supplies and avoid stockouts",
+  "website": "https://openlmis.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -10,10 +10,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "OpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making.",
+      "evidenceURL": "https://openlmis.org/impact/"
     },
     {
-      "SDGNumber": 9
+      "SDGNumber": 9,
+      "evidenceText": "OpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making.",
+      "evidenceURL": "https://openlmis.org/impact/"
     }
   ],
   "sectors": [],
@@ -23,8 +27,8 @@
   "repositoryURL": "https://github.com/OpenLMIS/openlmis-ref-distro",
   "organizations": [
     {
-      "name": "OpenLMIS",
-      "website": "https://openlmis.org",
+      "name": "VillageReach",
+      "website": "https://www.villagereach.org",
       "org_type": "owner"
     }
   ],
