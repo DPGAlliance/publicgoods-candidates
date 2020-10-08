@@ -9,13 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ]
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Kitkit School is transforming learning and delivering powerful results for children, regardless of initial capacity and access to resources. Since Kitkit was developed in 2016, our partner organizations have helped make our growing impact possible, delivering Kitkit School to children and hard-to-reach communities across the globe. Our comprehensive learning app has demonstrated significant gains in literacy and numeracy, improved outcomes for those who need it the most and transformative benefits beyond academics.",
+      "evidenceURL": "https://www.xprize.org/prizes/global-learning, http://kitkitschool.com/impact/"
+    }
   ],
-  "SDGevidence": "Kitkit School is transforming learning and delivering powerful results for children, regardless of initial capacity and access to resources. Since Kitkit was developed in 2016, our partner organizations have helped make our growing impact possible, delivering Kitkit School to children and hard-to-reach communities across the globe. Our comprehensive learning app has demonstrated significant gains in literacy and numeracy, improved outcomes for those who need it the most and transformative benefits beyond academics. Links: https://www.xprize.org/prizes/global-learning, http://kitkitschool.com/impact/",
-  "sectors": [],
   "type": [
     "software"
   ],

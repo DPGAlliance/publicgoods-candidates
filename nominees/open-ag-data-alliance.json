@@ -17,14 +17,12 @@
     }
   ],
   "SDGs": [
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 9
+    }
   ],
   "sectors": [],
   "type": [

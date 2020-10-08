@@ -12,14 +12,12 @@
     }
   ],
   "SDGs": [
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 17
+    }
   ],
   "sectors": [],
   "type": [
