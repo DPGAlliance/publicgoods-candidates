@@ -8,10 +8,9 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ]
+    {
+      "SDGNumber": 3
+    }
   ],
   "type": [
     "data"
