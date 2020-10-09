@@ -1,0 +1,103 @@
+{
+  "name": "string",
+  "description": "text",
+  "website": "string",
+  "license": [
+    {
+      "spdx": "string",
+      "licenseURL": "string"
+    }
+  ],
+  "SDGs": [["number", "string"]],
+  "type": ["string"],
+  "repositoryURL": "string",
+  "organizations": [
+    {
+      "name": "string",
+      "org_type": "string",
+      "contact_email": "string"
+    }
+  ],
+  "stage": "string",
+  "sdgRelevanceURLs": ["string"],
+  "nextAction": "string",
+  "ownership": {
+    "isOwnershipExplicit": "boolean",
+    "copyrightURL": "string"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "boolean",
+    "documentationURL": "string"
+  },
+  "platformIndependence": {
+    "isHardwareDependent": "boolean",
+    "isSoftwarePltIndependent": "boolean",
+    "pltIndependenceDesc": "text"
+  },
+  "NonePII": {
+    "collectsNonePII": "boolean",
+    "nonePIIAccessMechanism": "string"
+  },
+  "authorizeFollowUp": "boolean",
+  "locations": {
+    "developmentCountry": ["string"],
+    "deploymentCountries": ["string"]
+  },
+  "privacy": {
+    "isPrivacyCompliant": "boolean",
+    "privacyComplianceList": ["string"]
+  },
+  "localIntlLaws": {
+    "isLocIntlAdherent": "boolean",
+    "locIntlComplianceList": ["string"]
+  },
+  "standards": {
+    "supportsStandards": "boolean",
+    "standardsList": ["string"],
+    "evidenceSupport": "string"
+  },
+  "bestPractices": {
+    "implementBestPractices": "boolean",
+    "bestPracticesList": ["string"]
+  },
+  "PII": {
+    "collectsPII": "boolean",
+    "types": ["string"],
+    "thirdPartyDataSharing": "boolean",
+    "dataSharingIncidents": ["string"]
+  },
+  "riskStrategy": {
+    "riskReductionExists": "boolean",
+    "riskReductionStrategyDesc": "string",
+    "privacySecurityStrategy": "string",
+    "riskReductionPIISteps": ["string"]
+  },
+  "content": {
+    "collectStoreDistribute": "boolean",
+    "type": "string",
+    "contentFilter": "boolean",
+    "contentFilterMechanisms": ["string"]
+  },
+  "communication": {
+    "userInteraction": "boolean",
+    "underageProtection": "boolean",
+    "underageProtectionPolicy": "string"
+  },
+  "harassment": {
+    "harassmentProtection": "boolean",
+    "harassmentProtectionSteps": ["string"]
+  },
+  "harm": {
+    "preventHarm": "boolean",
+    "riskMitigationStepsPreventHarm": ["string"],
+    "additionalMechanismsInfo": "string"
+  },
+  "termsOfService": {
+    "termsOfServiceURLs": ["string"]
+  },
+  "policyGuidelinesDocumentation": {
+    "policyGuidelinesDocumentation": "boolean",
+    "policyGuidelinesDocumentationURLs": ["string"]
+  },
+  "prURL": "string"
+}

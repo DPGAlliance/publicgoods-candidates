@@ -1,0 +1,119 @@
+{
+  "name": "project Name",
+  "description": "project description",
+  "website": "project website URL",
+  "license": [
+    {
+      "spdx": "software package data index",
+      "licenseURL": "open license"
+    }
+  ],
+  "SDGs": [["number", "sustainable development goal"]],
+  "type": ["category of project"],
+  "repositoryURL": "repository linnk",
+  "organizations": [
+    {
+      "name": "orgnization name",
+      "org_type": "organization type",
+      "contact_email": "contact email"
+    }
+  ],
+  "stage": "nominee or candidate",
+  "sdgRelevanceURLs": ["SDG relevance URLS"],
+  "nextAction": "action to consider on initial submit",
+  "ownership": {
+    "isOwnershipExplicit": "is project ownership well documented",
+    "copyrightURL": "link to copyright & trademarks"
+  },
+  "platformIndependence": {
+    "isHardwareDependent": "does project have mandatory dependencies (i.e. hardware)",
+    "isSoftwarePltIndependent": "are open source components independent of hardware",
+    "pltIndependenceDesc": "open source components platform independence description"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "does documentation exist for source code, use cases etc",
+    "documentationURL": "relevant documentation links"
+  },
+  "NonePII": {
+    "collectsNonePII": "does project collect or use non-PII data",
+    "nonePIIAccessMechanism": "mechanism for extracting non-PII data"
+  },
+  "authorizeFollowUp": "permission to contact someone for follow-up on submission",
+  "locations": {
+    "developmentCountry": ["country project was developed in"],
+    "deploymentCountries": ["list of countries project actively deployed in"]
+  },
+  "privacy": {
+    "isPrivacyCompliant": "confirm project complies with all relevant privacy laws",
+    "privacyComplianceList": [
+      "list of relevant privacy laws project complies with"
+    ]
+  },
+  "localIntlLaws": {
+    "isLocIntlAdherent": "does project adhere to international and domestic laws",
+    "locIntlComplianceList": [
+      "list of applicable international & domestic laws project complies with"
+    ]
+  },
+  "standards": {
+    "supportsStandards": "does project support standards",
+    "standardsList": ["list of standards project supports"],
+    "evidenceSupport": "links to provide evidence of supporting standards"
+  },
+  "bestPractices": {
+    "implementBestPractices": "does project implement design, technical, sector best practices ",
+    "bestPracticesList": ["list of best practices adhered to"]
+  },
+  "PII": {
+    "collectsPII": "does project collect PII data",
+    "types": ["list types of PII data collected"],
+    "thirdPartyDataSharing": "does project share PII data with 3rd parties",
+    "dataSharingIncidents": [
+      "describe circumstances for sharing PII data with 3rd parties"
+    ]
+  },
+  "riskStrategy": {
+    "riskReductionExists": "does project have strategies to minimize adverse impacts on privacy",
+    "riskReductionStrategyDesc": "strategies to minimize adverse impacts on privacy",
+    "privacySecurityStrategy": "does project ensure the privacy and security of this data",
+    "riskReductionPIISteps": [
+      "steps taken to prevent adverse impact related to PII"
+    ]
+  },
+  "content": {
+    "collectStoreDistribute": "does project collect, store or distribute content",
+    "type": "kind of content collected, stored or distributed",
+    "contentFilter": "does project have mechanisms for mechanisms for detecting and moderating inappropriate/illegal",
+    "contentFilterMechanisms": [
+      "mechanisms for detecting/moderating inappropriate/illegal content"
+    ]
+  },
+  "communication": {
+    "userInteraction": "does project facilitate interactions with or between users",
+    "underageProtection": "does project address safety and security of underage users",
+    "underageProtectionPolicy": "steps to address safety and security of underage users"
+  },
+  "harassment": {
+    "harassmentProtection": "does projects prootect users against grief, abuse and harassment",
+    "harassmentProtectionSteps": [
+      "steps taken to protect users against gried, abuse etc"
+    ]
+  },
+  "harm": {
+    "preventHarm": "does project ensure it prevent, anticipates or does no harm ",
+    "riskMitigationStepsPreventHarm": [
+      "list mitigations used to prevent no harm"
+    ],
+    "additionalMechanismsInfo": "additional info on project's mechanisms, processes or policies"
+  },
+  "termsOfService": {
+    "termsOfServiceURLs": ["links to privacy policies and terms of service"]
+  },
+  "policyGuidelinesDocumentation": {
+    "policyGuidelinesDocumentation": "does project have policy/guidelines/documentation",
+    "policyGuidelinesDocumentationURLs": [
+      "links to the relevant policy/guidelines/documentation"
+    ]
+  },
+  "prURL": "link to PR submitted earlier"
+}
