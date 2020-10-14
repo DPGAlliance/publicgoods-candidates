@@ -1,0 +1,468 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "",
+  "$comment": "Digital Public Good Metaschema: JSON Schema",
+  "type": "object",
+  "title": "Digital Public Good",
+  "required": [
+    "name",
+    "ownership",
+    "platformIndependence",
+    "documentation",
+    "NonePII",
+    "authorizeFollowUp",
+    "contactInfo",
+    "locations",
+    "privacy",
+    "localIntlLaws",
+    "standards",
+    "bestPractices",
+    "PII",
+    "riskStrategy",
+    "content",
+    "communication",
+    "harassment",
+    "harm",
+    "termsOfService",
+    "policyGuidelinesDocumentation",
+    "prURL"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "project name"
+    },
+    "ownership": {
+      "type": "object",
+      "description": "ownership documentation, copyright & trademarks",
+      "required": ["isOwnershipExplicit"],
+      "properties": {
+        "isOwnershipExplicit": {
+          "type": "string",
+          "description": "is project ownership well documented."
+        },
+        "copyrightURL": {
+          "type": "string",
+          "description": "link to copyright & trademarks"
+        }
+      }
+    },
+    "platformIndependence": {
+      "type": "object",
+      "description": "hardware dependencies, software platform independency",
+      "required": ["isHardwareDependent"],
+      "properties": {
+        "isHardwareDependent": {
+          "type": "string",
+          "description": "does project have mandatory dependencies (i.e. hardware)"
+        },
+        "isSoftwarePltIndependent": {
+          "type": "string",
+          "description": "are open source components independent of hardware"
+        },
+        "pltIndependenceDesc": {
+          "type": "string",
+          "description": "open source components platform independence description"
+        }
+      }
+    },
+    "documentation": {
+      "type": "object",
+      "description": "source code documentation, use cases, relevant documentation links",
+      "required": ["isDocumentationAvailable"],
+      "properties": {
+        "isDocumentationAvailable": {
+          "type": "string",
+          "description": "does documentation exist for source code, use cases etc"
+        },
+        "documentationURL": {
+          "type": "array",
+          "description": "relevant documentation links",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "NonePII": {
+      "type": "object",
+      "description": "non-PII data & mechanisms for extraction",
+      "required": ["collectsNonePII"],
+      "properties": {
+        "collectsNonePII": {
+          "type": "string",
+          "description": "does project collect or use non-PII data"
+        },
+        "nonePIIAccessMechanism": {
+          "type": "string",
+          "description": "mechanism for extracting non-PII data"
+        }
+      }
+    },
+    "authorizeFollowUp": {
+      "type": "string",
+      "description": "permission to contact someone for follow-up on submission"
+    },
+    "contactInfo": {
+      "type": "object",
+      "description": "name & role of contact person",
+      "required": ["name", "role"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "name of contact person."
+        },
+        "role": {
+          "type": "string",
+          "description": "role on project."
+        }
+      }
+    },
+    "locations": {
+      "type": "object",
+      "description": "development & deployment countries",
+      "required": ["developmentCounties", "deploymentCountries"],
+      "properties": {
+        "developmentCounties": {
+          "type": "array",
+          "description": "list of countries project developed in",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "deploymentCountries": {
+          "type": "array",
+          "description": "list of countries project actively deployed in",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "privacy": {
+      "type": "object",
+      "description": "privacy laws & relevant list",
+      "required": ["isPrivacyCompliant"],
+      "properties": {
+        "isPrivacyCompliant": {
+          "type": "string",
+          "description": "confirm project complies with all relevant privacy laws"
+        },
+        "privacyComplianceList": {
+          "type": "array",
+          "description": "list of relevant privacy laws project complies with",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "localIntlLaws": {
+      "type": "object",
+      "description": "adeherence to local & international laws.",
+      "required": ["isLocIntlAdherent"],
+      "properties": {
+        "isLocIntlAdherent": {
+          "type": "string",
+          "description": "does project adhere to international and domestic laws"
+        },
+        "locIntlComplianceList": {
+          "type": "array",
+          "description": "list of applicable international & domestic laws project complies with",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "standards": {
+      "type": "object",
+      "description": "standards support and evidence",
+      "required": ["supportsStandards"],
+      "properties": {
+        "supportStandards": {
+          "type": "string",
+          "description": "does project support standards"
+        },
+        "standardsList": {
+          "type": "array",
+          "description": "list of standards project supports",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "evidenceSupport": {
+          "type": "array",
+          "description": "links to provide evidence of supporting standards",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "bestPractices": {
+      "type": "object",
+      "description": "design, technical & sector best practices",
+      "required": ["implementBestPractices"],
+      "properties": {
+        "implementBestPractices": {
+          "type": "string",
+          "description": "does project implement design, technical, sector best practices"
+        },
+        "bestPracticesList": {
+          "type": "array",
+          "description": "list of best practices adhered to",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PII": {
+      "type": "object",
+      "description": "PII data, types, third parties, data sharing circumstances",
+      "required": ["collectsPII"],
+      "properties": {
+        "collectsPII": {
+          "type": "string",
+          "description": "does project collect PII data"
+        },
+        "types": {
+          "type": "array",
+          "description": "list types of PII data collected",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "thirdPartyDataSharing": {
+          "type": "string",
+          "description": "does project share PII data with 3rd parties"
+        },
+        "dataSharingIncidents": {
+          "type": "array",
+          "description": "describe circumstances for sharing PII data with 3rd parties",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "riskStrategy": {
+      "type": "object",
+      "description": "risk management strategy & prevention steps",
+      "required": ["riskReductionExists"],
+      "properties": {
+        "riskReductionExists": {
+          "type": "string",
+          "description": "does project have strategies to minimize adverse impacts on privacy"
+        },
+        "riskReductionStrategyDesc": {
+          "type": "string",
+          "description": "strategies to minimize adverse impacts on privacy"
+        },
+        "privacySecurityStrategy": {
+          "type": "string",
+          "description": "does project ensure the privacy and security of this data"
+        },
+        "riskReductionPIISteps": {
+          "type": "array",
+          "description": "steps taken to prevent adverse impact related to PII",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "content": {
+      "type": "object",
+      "description": "content collection, storage, distribution & mechanisms",
+      "required": ["collectStoreDistribute"],
+      "properties": {
+        "collectStoreDistribute": {
+          "type": "string",
+          "description": "does project collect, store or distribute content"
+        },
+        "type": {
+          "type": "string",
+          "description": "kind of content collected, stored or distributed"
+        },
+        "contentFilter": {
+          "type": "string",
+          "description": "have mechanisms for detecting & moderating illegal content"
+        },
+        "contentFilterMechanisms": {
+          "type": "array",
+          "description": "mechanisms for detecting/moderating inappropriate/illegal content",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "communication": {
+      "type": "object",
+      "description": "user interactions, underage protections, safety & security",
+      "required": ["userInteraction"],
+      "properties": {
+        "userInteraction": {
+          "type": "string",
+          "description": "does project facilitate interactions with or between users"
+        },
+        "underageProtection": {
+          "type": "string",
+          "description": "does project address safety and security of underage users"
+        },
+        "underageProtectionPolicy": {
+          "type": "array",
+          "description": "steps to address safety and security of underage users",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "harassment": {
+      "type": "object",
+      "description": "harassment & steps to protect",
+      "required": ["harassmentProtection"],
+      "properties": {
+        "harassmentProtection": {
+          "type": "string",
+          "description": "does projects protect users against grief, abuse and harassment"
+        },
+        "harassmentProtectionSteps": {
+          "type": "array",
+          "description": "steps taken to protect users against grief, abuse etc",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "harm": {
+      "type": "object",
+      "description": "prevention of harm, mitigation list, additional mechanisms",
+      "required": ["preventHarm"],
+      "properties": {
+        "preventHarm": {
+          "type": "string",
+          "description": "does project ensure it prevents, anticipates or does no harm"
+        },
+        "riskMitigationStepsPreventHarm": {
+          "type": "array",
+          "description": "list mitigations used to prevent no harm",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "additionalMechanismsInfo": {
+          "type": "string",
+          "description": "additional info on project's mechanisms, processes or policies"
+        }
+      }
+    },
+    "termsOfService": {
+      "type": "object",
+      "description": "privacy policies  & terms of service",
+      "properties": {
+        "termsOfServiceURLs": {
+          "type": "array",
+          "description": "links to privacy policies and terms of service",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "policyGuidelinesDocumentation": {
+      "type": "object",
+      "description": "policy/guidelines/documentation & links",
+      "required": ["policyGuidelinesDocumentation"],
+      "properties": {
+        "policyGuidelinesDocumentation": {
+          "type": "string",
+          "description": "does project have policy/guidelines/documentation"
+        },
+        "policyGuidelinesDocumentationURLs": {
+          "type": "array",
+          "description": "links to the relevant policy/guidelines/documentation",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "prURL": {
+      "type": "string",
+      "description": "link to PR submitted earlier."
+    }
+  }
+}
