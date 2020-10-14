@@ -30,50 +30,50 @@
   "properties": {
     "name": {
       "type": "string",
-      "description": "project name"
+      "description": "The name of the Digital Public Good."
     },
     "ownership": {
       "type": "object",
-      "description": "ownership documentation, copyright & trademarks",
+      "description": "3. Documentatation of Ownership",
       "required": ["isOwnershipExplicit"],
       "properties": {
         "isOwnershipExplicit": {
           "type": "string",
-          "description": "is project ownership well documented."
+          "description": "Is project ownership well documented."
         },
         "copyrightURL": {
           "type": "string",
-          "description": "link to copyright & trademarks"
+          "description": "Link to copyright & trademarks"
         }
       }
     },
-    "platformIndependence": {
+    "dependencies": {
       "type": "object",
-      "description": "hardware dependencies, software platform independency",
-      "required": ["isHardwareDependent"],
+      "description": "4. Mandatory dependencies",
+      "required": ["mandatoryDepsCreateMoreRestrictions"],
       "properties": {
-        "isHardwareDependent": {
+        "mandatoryDepsCreateMoreRestrictions": {
           "type": "string",
-          "description": "does project have mandatory dependencies (i.e. hardware)"
+          "description": "Does this open project have mandatory dependencies (i.e. hardware) that create more restrictions than the original license?"
         },
         "isSoftwarePltIndependent": {
           "type": "string",
-          "description": "are open source components independent of hardware"
+          "description": "Are the open source components able to demonstrate independence from the closed component and/or are there functional, open alternatives?"
         },
         "pltIndependenceDesc": {
           "type": "string",
-          "description": "open source components platform independence description"
+          "description": "Describe how the open source components are independent and/or list the open alternatives for the closed component"
         }
       }
     },
     "documentation": {
       "type": "object",
-      "description": "source code documentation, use cases, relevant documentation links",
+      "description": "5. Documentation",
       "required": ["isDocumentationAvailable"],
       "properties": {
         "isDocumentationAvailable": {
           "type": "string",
-          "description": "does documentation exist for source code, use cases etc"
+          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements for this project"
         },
         "documentationURL": {
           "type": "array",
@@ -88,48 +88,29 @@
         }
       }
     },
-    "NonePII": {
+    "NonPII": {
       "type": "object",
-      "description": "non-PII data & mechanisms for extraction",
+      "description": "6. Is non PII data accessible?",
       "required": ["collectsNonePII"],
       "properties": {
-        "collectsNonePII": {
+        "collectsNonPII": {
           "type": "string",
-          "description": "does project collect or use non-PII data"
+          "description": "Does this project collect or use non-personally identifiable information (PII) data?"
         },
         "nonePIIAccessMechanism": {
           "type": "string",
-          "description": "mechanism for extracting non-PII data"
-        }
-      }
-    },
-    "authorizeFollowUp": {
-      "type": "string",
-      "description": "permission to contact someone for follow-up on submission"
-    },
-    "contactInfo": {
-      "type": "object",
-      "description": "name & role of contact person",
-      "required": ["name", "role"],
-      "properties": {
-        "name": {
-          "type": "string",
-          "description": "name of contact person."
-        },
-        "role": {
-          "type": "string",
-          "description": "role on project."
+          "description": "Is there a mechanism for extracting or importing non personally identifiable data from the system in a non-proprietary format?"
         }
       }
     },
     "locations": {
       "type": "object",
-      "description": "development & deployment countries",
+      "description": "Development & deployment countries",
       "required": ["developmentCounties", "deploymentCountries"],
       "properties": {
         "developmentCounties": {
           "type": "array",
-          "description": "list of countries project developed in",
+          "description": "List of countries this project was developed in.",
           "items": {
             "anyOf": [
               {
@@ -140,7 +121,7 @@
         },
         "deploymentCountries": {
           "type": "array",
-          "description": "list of countries project actively deployed in",
+          "description": "List of countries this project is actively deployed in.",
           "items": {
             "anyOf": [
               {
@@ -153,16 +134,16 @@
     },
     "privacy": {
       "type": "object",
-      "description": "privacy laws & relevant list",
-      "required": ["isPrivacyCompliant"],
+      "description": "7. Does the project adhere to privacy and other applicable international and domestic laws?",
+      "required": ["isPrivacyCompliant", "isLocIntlAdherent"],
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
-          "description": "confirm project complies with all relevant privacy laws"
+          "description": "Does this project comply with all relevant privacy laws?"
         },
         "privacyComplianceList": {
           "type": "array",
-          "description": "list of relevant privacy laws project complies with",
+          "description": "List of relevant privacy laws project complies with",
           "items": {
             "anyOf": [
               {
@@ -170,21 +151,14 @@
               }
             ]
           }
-        }
-      }
-    },
-    "localIntlLaws": {
-      "type": "object",
-      "description": "adeherence to local & international laws.",
-      "required": ["isLocIntlAdherent"],
-      "properties": {
+        },
         "isLocIntlAdherent": {
           "type": "string",
-          "description": "does project adhere to international and domestic laws"
+          "description": "To the best of your knowledge does this project comply with all applicable international and domestic laws?"
         },
         "locIntlComplianceList": {
           "type": "array",
-          "description": "list of applicable international & domestic laws project complies with",
+          "description": "List of applicable international & domestic laws project complies with",
           "items": {
             "anyOf": [
               {
@@ -197,16 +171,16 @@
     },
     "standards": {
       "type": "object",
-      "description": "standards support and evidence",
-      "required": ["supportsStandards"],
+      "description": "8. Does the project adhere to standards and best practices?",
+      "required": ["supportsStandards", "implementBestPractices"],
       "properties": {
         "supportStandards": {
           "type": "string",
-          "description": "does project support standards"
+          "description": "Does this project support standards?"
         },
         "standardsList": {
           "type": "array",
-          "description": "list of standards project supports",
+          "description": "List of standards project supports",
           "items": {
             "anyOf": [
               {
@@ -215,9 +189,9 @@
             ]
           }
         },
-        "evidenceSupport": {
+        "evidenceStandardSupport": {
           "type": "array",
-          "description": "links to provide evidence of supporting standards",
+          "description": "Links to provide evidence of supporting standards",
           "items": {
             "anyOf": [
               {
@@ -225,21 +199,14 @@
               }
             ]
           }
-        }
-      }
-    },
-    "bestPractices": {
-      "type": "object",
-      "description": "design, technical & sector best practices",
-      "required": ["implementBestPractices"],
-      "properties": {
+        },
         "implementBestPractices": {
           "type": "string",
-          "description": "does project implement design, technical, sector best practices"
+          "description": "Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles?"
         },
         "bestPracticesList": {
           "type": "array",
-          "description": "list of best practices adhered to",
+          "description": "List of principles and best practices this project supports",
           "items": {
             "anyOf": [
               {
@@ -459,10 +426,6 @@
           }
         }
       }
-    },
-    "prURL": {
-      "type": "string",
-      "description": "link to PR submitted earlier."
     }
   }
 }
