@@ -7,16 +7,12 @@
   "required": [
     "name",
     "ownership",
-    "platformIndependence",
+    "dependencies",
     "documentation",
-    "NonePII",
-    "authorizeFollowUp",
-    "contactInfo",
+    "NonPII",
     "locations",
     "privacy",
-    "localIntlLaws",
     "standards",
-    "bestPractices",
     "PII",
     "riskStrategy",
     "content",
@@ -24,8 +20,7 @@
     "harassment",
     "harm",
     "termsOfService",
-    "policyGuidelinesDocumentation",
-    "prURL"
+    "policyGuidelinesDocumentation"
   ],
   "properties": {
     "name": {
