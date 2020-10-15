@@ -87,7 +87,7 @@
     "NonPII": {
       "type": "object",
       "description": "6. Is non PII data accessible?",
-      "required": ["collectsNonePII"],
+      "required": ["collectsNonPII"],
       "properties": {
         "collectsNonPII": {
           "type": "string",
@@ -99,38 +99,9 @@
             "Unknown"
           ]
         },
-        "nonePIIAccessMechanism": {
+        "nonPIIAccessMechanism": {
           "type": "string",
           "description": "Is there a mechanism for extracting or importing non personally identifiable data from the system in a non-proprietary format?"
-        }
-      }
-    },
-    "locations": {
-      "type": "object",
-      "description": "Development & deployment countries",
-      "required": ["developmentCounties", "deploymentCountries"],
-      "properties": {
-        "developmentCounties": {
-          "type": "array",
-          "description": "List of countries this project was developed in.",
-          "items": {
-            "anyOf": [
-              {
-                "type": "string"
-              }
-            ]
-          }
-        },
-        "deploymentCountries": {
-          "type": "array",
-          "description": "List of countries this project is actively deployed in.",
-          "items": {
-            "anyOf": [
-              {
-                "type": "string"
-              }
-            ]
-          }
         }
       }
     },
@@ -295,7 +266,7 @@
               "type": "string",
               "description": "Does this project collect or store personally identifiable data?",
               "uniqueItems": true,
-              "enum": ["Yes", "No"]
+              "enum": ["Yes", "No", "Unknown"]
             },
             "typesOfDataCollected": {
               "type": "array",
@@ -346,7 +317,7 @@
               "type": "string",
               "description": "Does this project collect, store or distribute content?",
               "uniqueItems": true,
-              "enum": ["Yes", "No"]
+              "enum": ["Yes", "No", "Unknown"]
             },
             "type": {
               "contentType": "string",
@@ -369,8 +340,7 @@
               "enum": [
                 "Yes",
                 "No",
-                "Unknown",
-                "This project does not collect, store or distribute content"
+                "Unknown"
               ]
             },
             "illegalContentDetectionMechanism": {
@@ -395,7 +365,7 @@
               "type": "string",
               "description": "Does this project facilitate interactions with or between users or contributors?",
               "uniqueItems": true,
-              "enum": ["Yes", "No"]
+              "enum": ["Yes", "No", "Unknown"]
             },
             "addressSafetySecurityUnderageUsers": {
               "type": "string",
@@ -421,8 +391,7 @@
               "enum": [
                 "Yes",
                 "No",
-                "Unknown",
-                "This project has no mechanism for interaction between users or contributors"
+                "Unknown"
               ]
             },
             "harassmentProtectionSteps": {
@@ -480,6 +449,35 @@
           }
         }
       }
-    }
+    },
+    "locations": {
+      "type": "object",
+      "description": "Development & deployment countries",
+      "required": ["developmentCounties", "deploymentCountries"],
+      "properties": {
+        "developmentCounties": {
+          "type": "array",
+          "description": "List of countries this project was developed in.",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "deploymentCountries": {
+          "type": "array",
+          "description": "List of countries this project is actively deployed in.",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
   }
 }
