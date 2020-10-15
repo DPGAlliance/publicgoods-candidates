@@ -96,8 +96,7 @@
           "enum": [
             "Yes",
             "No",
-            "Unknown",
-            "This project does not collect or store any non-PII data"
+            "Unknown"
           ]
         },
         "nonePIIAccessMechanism": {
