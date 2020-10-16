@@ -12,108 +12,138 @@ const fs = require("fs");
 const path = require("path");
 const glob = require("glob");
 
-const productsPath = "./nominees/";
+const sets = [
+  {
+    path: './nominees/',
+    schema: 'nominee-schema.json'
+  },
+  {
+    path: './screening/',
+    schema: 'screening-schema.json'
+  },
+]
 
-const propertiesOrder = [
-  "name",
-  "aliases",
-  "description",
-  "website",
-  "license",
-  "spdx",
-  "licenseURL",
-  "SDGs",
-  "SDGNumber",
-  "evidenceText",
-  "evidenceURL",
-  "sectors",
-  "type",
-  "repositoryURL",
-  "organizations",
-  "name",
-  "website",
-  "org_type",
-  "contact_name",
-  "contact_email",
-  "stage"
-];
+// Retrieves all object keys in order. Function gets recursively
+// called for objects and arrays to include all keys of all children.
+function getKeys(obj) {
+  let keys = [];
+  for(const key in obj){
+    keys.push(key);
+    if(obj[key].type == 'object'){
+      keys = keys.concat(getKeys(obj[key].properties))
+    }
+    if(obj[key].type == 'array'){
+      keys = keys.concat(getKeys(obj[key].items.properties))
+    }
+  }
+  return keys
+}
+
+// Reads JSON schema and returns object
+function readSchema(filename) {
+  const data = fs.readFileSync(filename, "utf8", function(err) {
+    if (err) {
+      console.log(
+        "An error occured while reading JSON Object from file: " +
+          productFiles[i]
+      );
+      return console.log(err);
+    }
+  })
+  return JSON.parse(data);
+}
+
+function checkOrder(productsPath, propertiesOrder) {
+
+  glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
+    // iterate over all product files
+    for (let i = 0; i < productFiles.length; i++) {
+      // read data from the file
+      jsonData = fs.readFileSync(
+        path.join(productsPath, productFiles[i]),
+        "utf8",
+        function(err) {
+          if (err) {
+            console.log(
+              "An error occured while reading JSON Object from file: " +
+                productFiles[i]
+            );
+            return console.log(err);
+          }
+        }
+      );
+
+      // parse data from JSON into array of dictionaries
+      product = JSON.parse(jsonData);
+
+      if (fix) {
+        // upgrade to HTTPS :)
+        if (product.hasOwnProperty("website")) {
+          product["website"] = product["website"].replace(/http:/g, "https:");
+          if(product['website'] != '' && ! product['website'].match('https://')){
+            product['website'] = 'https://' + product['website']
+          }
+        }
+        if (product.hasOwnProperty("repositoryURL")) {
+          product["repositoryURL"] = product["repositoryURL"].replace(
+            /http:/g,
+            "https:"
+          );
+        }
+        if(product.hasOwnProperty("license")) {
+          for (let i = 0; i < product["license"].length; i++) {
+            product["license"][i]["licenseURL"] = product["license"][i][
+              "licenseURL"
+            ].replace(/http:/g, "https:");
+          }
+        }
+        if(product.hasOwnProperty("organizations")) {
+          for (let i = 0; i < product["organizations"].length; i++) {
+            if (product["organizations"][i].hasOwnProperty("website")) {
+              product["organizations"][i]["website"] = product["organizations"][i][
+                "website"
+              ].replace(/http:/g, "https:");
+            }
+          }
+        }
+
+        JSON.stringify(product, propertiesOrder, 2)
+
+        // rewrite the file with the desired order
+        fs.writeFileSync(
+          path.join(productsPath, productFiles[i]),
+          JSON.stringify(product, propertiesOrder, 2) + "\n",
+          "utf8",
+          function(err) {
+            if (err) {
+              console.log(
+                "An error occured while writing JSON Object to file: " + fnames[e]
+              );
+              return console.log(err);
+            }
+          }
+        );
+      } else {
+        if (JSON.stringify(product, propertiesOrder, 2) + "\n" != jsonData) {
+          console.log(
+            "JSON properties not in the expected order for " + productsPath +
+              productFiles[i] +
+              ". Re-run with --fix to fix."
+          );
+          process.exit(1);
+        }
+      }
+    }
+  })
+}
 
 let fix = false;
 if (process.argv.length == 3 && process.argv[2] == "--fix") {
   fix = true;
 }
 
-glob("*.json", { cwd: productsPath }, async (err, productFiles) => {
-  // iterate over all product files
-  for (let i = 0; i < productFiles.length; i++) {
-    // read data from the file
-    jsonData = fs.readFileSync(
-      path.join(productsPath, productFiles[i]),
-      "utf8",
-      function(err) {
-        if (err) {
-          console.log(
-            "An error occured while reading JSON Object from file: " +
-              productFiles[i]
-          );
-          return console.log(err);
-        }
-      }
-    );
-
-    // parse data from JSON into array of dictionaries
-    product = JSON.parse(jsonData);
-
-    if (fix) {
-      // upgrade to HTTPS :)
-      if (product.hasOwnProperty("website")) {
-        product["website"] = product["website"].replace(/http:/g, "https:");
-        if(product['website'] != '' && ! product['website'].match('https://')){
-          product['website'] = 'https://' + product['website']
-        }
-      }
-      if (product.hasOwnProperty("repositoryURL")) {
-        product["repositoryURL"] = product["repositoryURL"].replace(
-          /http:/g,
-          "https:"
-        );
-      }
-      for (let i = 0; i < product["license"].length; i++) {
-        product["license"][i]["licenseURL"] = product["license"][i][
-          "licenseURL"
-        ].replace(/http:/g, "https:");
-      }
-      for (let i = 0; i < product["organizations"].length; i++) {
-        if (product["organizations"][i].hasOwnProperty("website")) {
-          product["organizations"][i]["website"] = product["organizations"][i][
-            "website"
-          ].replace(/http:/g, "https:");
-        }
-      }
-
-      // rewrite the file with the desired order
-      fs.writeFileSync(
-        path.join(productsPath, productFiles[i]),
-        JSON.stringify(product, propertiesOrder, 2) + "\n",
-        "utf8",
-        function(err) {
-          if (err) {
-            console.log(
-              "An error occured while writing JSON Object to file: " + fnames[e]
-            );
-            return console.log(err);
-          }
-        }
-      );
-    } else {
-      if (JSON.stringify(product, propertiesOrder, 2) + "\n" != jsonData) {
-        console.log(
-          "JSON properties not in the expected order for " +
-            productFiles[i] +
-            ". Re-run with --fix to fix."
-        );
-        process.exit(1);
-      }
-    }
-  }
-});
+sets.forEach((item) => {
+  let schema = readSchema(item.schema);
+  let propertiesOrder = getKeys(schema.properties);
+  checkOrder(item.path, propertiesOrder);
+})
