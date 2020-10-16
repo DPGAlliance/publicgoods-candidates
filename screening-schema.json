@@ -185,7 +185,7 @@
       "type": "object",
       "description": "8. Does the project adhere to standards and best practices?",
       "required": [
-        "supportsStandards",
+        "supportStandards",
         "implementBestPractices"
       ],
       "properties": {
@@ -267,6 +267,10 @@
                 "No",
                 "Unknown"
               ]
+            },
+             "additionalInfoMechanismProcessesPolicies": {
+              "type": "string",
+              "description": "Is there any additional information you would like to share about the mechanisms, processes or policies that this project uses to avoid doing harm?"
             },
             "additionalMitigationSteps": {
               "type": "array",
