@@ -60,20 +60,27 @@
             "Unknown"
           ]
         },
-        "isSoftwarePltIndependent": {
-          "type": "string",
-          "description": "Are the open source components able to demonstrate independence from the closed component and/or are there functional, open alternatives?",
-          "uniqueItems": true,
-          "enum": [
-            "Yes",
-            "No",
-            "Unknown",
-            ""
-          ]
+        "if": {
+          "properties": { "mandatoryDepsCreateMoreRestrictions": { "const": "Yes" }}
         },
-        "pltIndependenceDesc": {
-          "type": "string",
-          "description": "Describe how the open source components are independent and/or list the open alternatives for the closed component"
+        "then": {
+          "properties": {
+            "isSoftwarePltIndependent": {
+              "type": "string",
+              "description": "Are the open source components able to demonstrate independence from the closed component and/or are there functional, open alternatives?",
+              "uniqueItems": true,
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown",
+                ""
+              ]
+            },
+            "pltIndependenceDesc": {
+              "type": "string",
+              "description": "Describe how the open source components are independent and/or list the open alternatives for the closed component"
+            }
+          }
         }
       }
     },
