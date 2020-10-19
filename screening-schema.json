@@ -67,7 +67,8 @@
           "enum": [
             "Yes",
             "No",
-            "Unknown"
+            "Unknown",
+            ""
           ]
         },
         "pltIndependenceDesc": {
@@ -406,7 +407,8 @@
               "enum": [
                 "Yes",
                 "No",
-                "Unknown"
+                "Unknown",
+                ""
               ]
             },
             "policyGuidelinesDocumentationLink": {
@@ -420,7 +422,8 @@
               "enum": [
                 "Yes",
                 "No",
-                "Unknown"
+                "Unknown",
+                ""
               ]
             },
             "illegalContentDetectionMechanism": {
@@ -437,8 +440,7 @@
           "type": "object",
           "description": "Protection from harassment",
           "required": [
-            "addressSafetySecurityUnderageUsers",
-            "griefAbuseHarassmentProtection"
+            "userInteraction"
           ],
           "properties": {
             "userInteraction": {
@@ -453,12 +455,13 @@
             },
             "addressSafetySecurityUnderageUsers": {
               "type": "string",
-              "description": "Does the project take steps to address the safety and security of underage users?",
+              "description": "If yes - Does the project take steps to address the safety and security of underage users?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
                 "No",
-                "Unknown"
+                "Unknown",
+                ""
               ]
             },
             "stepsAddressRiskPreventSafetyUnderageUsers": {
@@ -474,12 +477,13 @@
             },
             "griefAbuseHarassmentProtection": {
               "type": "string",
-              "description": "Does the project help users and contributors protect themselves against grief, abuse, and harassment?",
+              "description": "If yes - Does the project help users and contributors protect themselves against grief, abuse, and harassment?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
                 "No",
-                "Unknown"
+                "Unknown",
+                ""
               ]
             },
             "harassmentProtectionSteps": {
@@ -532,7 +536,8 @@
               "enum": [
                 "Yes",
                 "No",
-                "Unknown"
+                "Unknown",
+                "N/A"
               ]
             },
             "underageProtectionSteps": {
