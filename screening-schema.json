@@ -23,13 +23,19 @@
     "ownership": {
       "type": "object",
       "description": "3. Is ownership clearly defined?",
-      "required": ["isOwnershipExplicit"],
+      "required": [
+        "isOwnershipExplicit"
+      ],
       "properties": {
         "isOwnershipExplicit": {
           "type": "string",
           "description": "Is the ownership of the project and everything that the project produces clearly defined and documented i.e. This can be through copyright, trademark, or other publicly available information.",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "copyrightURL": {
           "type": "string",
@@ -40,19 +46,30 @@
     "dependencies": {
       "type": "object",
       "description": "4. Does the license of libraries/dependencies undermind the openess of the project?",
-      "required": ["mandatoryDepsCreateMoreRestrictions"],
+      "required": [
+        "mandatoryDepsCreateMoreRestrictions"
+      ],
       "properties": {
         "mandatoryDepsCreateMoreRestrictions": {
           "type": "string",
           "description": "Does this open project have mandatory dependencies (i.e. hardware) that create more restrictions than the original license?",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "isSoftwarePltIndependent": {
           "type": "string",
           "description": "Are the open source components able to demonstrate independence from the closed component and/or are there functional, open alternatives?",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown", ""]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown",
+            ""
+          ]
         },
         "pltIndependenceDesc": {
           "type": "string",
@@ -63,13 +80,19 @@
     "documentation": {
       "type": "object",
       "description": "5. Is there documentation?",
-      "required": ["isDocumentationAvailable"],
+      "required": [
+        "isDocumentationAvailable"
+      ],
       "properties": {
         "isDocumentationAvailable": {
           "type": "string",
           "description": "Does some documentation exist of the source code, use cases, and/or functional requirements for this project",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "documentationURL": {
           "type": "array",
@@ -87,13 +110,19 @@
     "NonPII": {
       "type": "object",
       "description": "6. Is non PII data accessible?",
-      "required": ["collectsNonPII"],
+      "required": [
+        "collectsNonPII"
+      ],
       "properties": {
         "collectsNonPII": {
           "type": "string",
           "description": "Does this project collect or use non-personally identifiable information (PII) data?",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "nonPIIAccessMechanism": {
           "type": "string",
@@ -104,13 +133,20 @@
     "privacy": {
       "type": "object",
       "description": "7. Does the project adhere to privacy and other applicable international and domestic laws?",
-      "required": ["isPrivacyCompliant", "isLocIntlAdherent"],
+      "required": [
+        "isPrivacyCompliant",
+        "isLocIntlAdherent"
+      ],
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
           "description": "Does this project comply with all relevant privacy laws?",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "privacyComplianceList": {
           "type": "array",
@@ -127,7 +163,11 @@
           "type": "string",
           "description": "To the best of your knowledge does this project comply with all applicable international and domestic laws?",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "locIntlComplianceList": {
           "type": "array",
@@ -145,13 +185,20 @@
     "standards": {
       "type": "object",
       "description": "8. Does the project adhere to standards and best practices?",
-      "required": ["supportStandards", "implementBestPractices"],
+      "required": [
+        "supportStandards",
+        "implementBestPractices"
+      ],
       "properties": {
         "supportStandards": {
           "type": "string",
           "description": "Does this project support standards i.e. w3c?",
           "uniqueItems": true,
-          "enum": ["Yes", "No", "Unknown"]
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown"
+          ]
         },
         "standardsList": {
           "type": "array",
@@ -207,13 +254,19 @@
         "preventHarm": {
           "type": "object",
           "description": "Has this project taken steps to anticipate, prevent and do no harm?",
-          "required": ["stepsToPreventHarm"],
+          "required": [
+            "stepsToPreventHarm"
+          ],
           "properties": {
             "stepsToPreventHarm": {
               "type": "string",
               "description": "On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "additionalInfoMechanismProcessesPolicies": {
               "type": "string",
@@ -235,13 +288,19 @@
         "privacyFreedom": {
           "type": "object",
           "description": "Privacy and Freedom",
-          "required": ["freedomOfExpressionRiskStrategy"],
+          "required": [
+            "freedomOfExpressionRiskStrategy"
+          ],
           "properties": {
             "freedomOfExpressionRiskStrategy": {
               "type": "string",
               "description": "Does this project have strategies in place to anticipate, respond to and minimize adverse impacts on privacy and freedom of expression where governments or bad actors are believed to be using this projects’s products or services for illegitimate or political purposes",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "freedomOfExpressionRiskStrategyDescrition": {
               "type": "string",
@@ -265,7 +324,11 @@
               "type": "string",
               "description": "Does this project collect or store personally identifiable data?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "typesOfDataCollected": {
               "type": "array",
@@ -282,7 +345,11 @@
               "type": "string",
               "description": "If yes - Does this project share this data with third parties?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "dataSharingCircumstances": {
               "type": "array",
@@ -299,7 +366,11 @@
               "type": "string",
               "description": "If yes - Does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from it's collection, storage and distribution",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "privacySecurityDescription": {
               "type": "string",
@@ -310,13 +381,19 @@
         "inappropriateIllegalContent": {
           "type": "object",
           "description": "Inappropriate/Illegal Content",
-          "required": ["collectStoreDistribute"],
+          "required": [
+            "collectStoreDistribute"
+          ],
           "properties": {
             "collectStoreDistribute": {
               "type": "string",
               "description": "Does this project collect, store or distribute content?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "type": {
               "contentType": "string",
@@ -326,7 +403,12 @@
               "type": "string",
               "description": "If yes - does this project have policies that describes what is considered innappropriate content i.e. child sexual abuse materials?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown", ""]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown",
+                ""
+              ]
             },
             "policyGuidelinesDocumentationLink": {
               "type": "string",
@@ -336,7 +418,12 @@
               "type": "string",
               "description": "If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown", ""]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown",
+                ""
+              ]
             },
             "illegalContentDetectionMechanism": {
               "type": "string",
@@ -351,19 +438,30 @@
         "protectionFromHarassment": {
           "type": "object",
           "description": "Protection from harassment",
-          "required": ["userInteraction"],
+          "required": [
+            "userInteraction"
+          ],
           "properties": {
             "userInteraction": {
               "type": "string",
               "description": "Does this project facilitate interactions with or between users or contributors?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "griefAbuseHarassmentProtection": {
               "type": "string",
               "description": "If yes - Does the project help users and contributors protect themselves against grief, abuse, and harassment?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown", ""]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown",
+                ""
+              ]
             },
             "harassmentProtectionSteps": {
               "type": "array",
@@ -381,13 +479,19 @@
         "transparency": {
           "type": "object",
           "description": "Transparency",
-          "required": ["discoverablePrivacyPolicy"],
+          "required": [
+            "discoverablePrivacyPolicy"
+          ],
           "properties": {
             "discoverablePrivacyPolicy": {
               "type": "string",
               "description": "Does this project have a clearly discoverable privacy policy and/or terms of service?",
               "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown"]
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown"
+              ]
             },
             "termsOfServiceURL": {
               "type": "string",
@@ -400,7 +504,10 @@
     "locations": {
       "type": "object",
       "description": "Development & deployment countries",
-      "required": ["developmentCounties", "deploymentCountries"],
+      "required": [
+        "developmentCounties",
+        "deploymentCountries"
+      ],
       "properties": {
         "developmentCounties": {
           "type": "array",
