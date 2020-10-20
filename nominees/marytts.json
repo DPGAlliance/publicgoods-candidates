@@ -1,7 +1,7 @@
 {
   "name": "MaryTTS",
   "description": "Open source text-to-speech (TTS) platform.",
-  "website": "http://mary.dfki.de/",
+  "website": "https://mary.dfki.de/",
   "license": [
     {
       "spdx": "GPL-3.0",

@@ -86,10 +86,6 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "",
-      "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
-      ],
       "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
@@ -98,10 +94,6 @@
     "transparency": {
       "discoverablePrivacyPolicy": "Yes",
       "termsOfServiceURL": "https://www.plan.org.au/privacy-policy/\n\nIn order to understand and mitigate the risks (particularly for children) within a digital civil registration system, the project created “Identifying and addressing risks to children in digitised birth registration systems: a step-by-step guide”. (https://www.ohchr.org/Documents/Issues/Children/BirthRegistrationMarginalized/PlanInternationalGeneva_4.pdf) If not anticipated, digital civil registration systems can present a number of child protection threats:\n- Identity theft or fraud\n- Privacy violation\n- Targeting based on personal characteristics\n- Personal security violation or exploitation\n- Exclusion from the benefits of birth registration\nThe risk assessment tool, which forms part of this guide, should be used in collaboration with any OpenCRVS implementation to ensure these and other risks are identified and mitigated against. OpenCRVS has been designed specifically for low resource settings and to overcome the barriers typically seen in countries where birth and death registration is low. See https://documentation.opencrvs.org/opencrvs-core/docs/system_overview/keyFeatures which shows features that facilitate inclusion and aim to mitigate the risk that individuals are disadvantaged because they are not registered in the civil registry."
-    },
-    "childOnlineSafety": {
-      "underageProtection": "N/A",
-      "underageProtectionSteps": []
     }
   },
   "locations": {

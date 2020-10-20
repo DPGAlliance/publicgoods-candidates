@@ -1,11 +1,11 @@
 {
   "name": "OpenCBS",
   "description": "OpenCBS is an open-source loan tracking software for microfinance institutions.",
-  "website": "http://opencbs.com/",
+  "website": "https://opencbs.com/",
   "license": [
     {
       "spdx": "LGPL-3.0",
-      "licenseURL": "http://opencbs.com/en/Frequently-asked-questions/"
+      "licenseURL": "https://opencbs.com/en/Frequently-asked-questions/"
     }
   ],
   "SDGs": [
@@ -24,7 +24,7 @@
   "organizations": [
     {
       "name": "OpenCBS",
-      "website": "http://opencbs.com/",
+      "website": "https://opencbs.com/",
       "org_type": "owner"
     }
   ],
