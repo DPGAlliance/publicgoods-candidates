@@ -248,8 +248,7 @@
         "dataPrivacySecurity",
         "inappropriateIllegalContent",
         "protectionFromHarassment",
-        "transparency",
-        "childOnlineSafety"
+        "transparency"
       ],
       "properties": {
         "preventHarm": {
@@ -269,7 +268,7 @@
                 "Unknown"
               ]
             },
-             "additionalInfoMechanismProcessesPolicies": {
+            "additionalInfoMechanismProcessesPolicies": {
               "type": "string",
               "description": "Is there any additional information you would like to share about the mechanisms, processes or policies that this project uses to avoid doing harm?"
             },
@@ -455,7 +454,7 @@
             },
             "addressSafetySecurityUnderageUsers": {
               "type": "string",
-              "description": "If yes - Does the project take steps to address the safety and security of underage users?",
+              "description": "If yes - does the project take steps to address the safety and security of underage users?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -466,7 +465,7 @@
             },
             "stepsAddressRiskPreventSafetyUnderageUsers": {
               "type": "array",
-              "description": "Please describe the steps this project takes to address risk or prevent access by underage users:",
+              "description": "If yes - please describe the steps this project takes to address risk or prevent access by underage users.",
               "items": {
                 "anyOf": [
                   {
@@ -477,7 +476,7 @@
             },
             "griefAbuseHarassmentProtection": {
               "type": "string",
-              "description": "If yes - Does the project help users and contributors protect themselves against grief, abuse, and harassment?",
+              "description": "If yes - does the project help users and contributors protect themselves against grief, abuse, and harassment?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -488,7 +487,7 @@
             },
             "harassmentProtectionSteps": {
               "type": "array",
-              "description": "Please describe",
+              "description": "If yes - please describe the steps taken to help users protect users and contributors.",
               "items": {
                 "anyOf": [
                   {
@@ -519,37 +518,6 @@
             "termsOfServiceURL": {
               "type": "string",
               "description": "Link to a clearly discoverable privacy policy and/or terms of service"
-            }
-          }
-        },
-        "childOnlineSafety": {
-          "type": "object",
-          "description": "Child Online Safety",
-          "required": [
-            "underageProtection"
-          ],
-          "properties": {
-            "underageProtection": {
-              "type": "string",
-              "description": "Does the project address the safety and security of underage users?",
-              "uniqueItems": true,
-              "enum": [
-                "Yes",
-                "No",
-                "Unknown",
-                "N/A"
-              ]
-            },
-            "underageProtectionSteps": {
-              "type": "array",
-              "description": "Describe the steps to address safety and security of underage users",
-              "items": {
-                "anyOf": [
-                  {
-                    "type": "string"
-                  }
-                ]
-              }
             }
           }
         }

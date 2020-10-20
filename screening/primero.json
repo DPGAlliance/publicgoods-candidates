@@ -93,10 +93,6 @@
     "transparency": {
       "discoverablePrivacyPolicy": "Unknown",
       "termsOfServiceURL": "These are managed at the programme level, depending on lead agency, role of gov't., and other accountabilities"
-    },
-    "childOnlineSafety": {
-      "underageProtection": "N/A",
-      "underageProtectionSteps": []
     }
   },
   "locations": {

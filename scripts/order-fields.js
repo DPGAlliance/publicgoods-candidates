@@ -23,6 +23,12 @@ const sets = [
   },
 ]
 
+const httpOnlyURLs = [
+  'mary.dfki.de',
+  'opencbs.com',
+  'vaccineledger.com'
+]
+
 // Retrieves all object keys in order. Function gets recursively
 // called for objects and arrays to include all keys of all children.
 function getKeys(obj) {
@@ -79,9 +85,11 @@ function checkOrder(productsPath, propertiesOrder) {
       if (fix) {
         // upgrade to HTTPS :)
         if (product.hasOwnProperty("website")) {
-          product["website"] = product["website"].replace(/http:/g, "https:");
-          if(product['website'] != '' && ! product['website'].match('https://')){
-            product['website'] = 'https://' + product['website']
+          if(! httpOnlyURLs.find( element => product["website"].match(new RegExp(element)))) {
+            product["website"] = product["website"].replace(/http:/g, "https:");
+            if(product['website'] != '' && ! product['website'].match('https://')) {
+              product['website'] = 'https://' + product['website']
+            }
           }
         }
         if (product.hasOwnProperty("repositoryURL")) {
@@ -92,17 +100,21 @@ function checkOrder(productsPath, propertiesOrder) {
         }
         if(product.hasOwnProperty("license")) {
           for (let i = 0; i < product["license"].length; i++) {
-            product["license"][i]["licenseURL"] = product["license"][i][
-              "licenseURL"
-            ].replace(/http:/g, "https:");
+            if(! httpOnlyURLs.find( element => product["license"][i]["licenseURL"].match(new RegExp(element)))) {
+              product["license"][i]["licenseURL"] = product["license"][i][
+                "licenseURL"
+              ].replace(/http:/g, "https:");
+            }
           }
         }
         if(product.hasOwnProperty("organizations")) {
           for (let i = 0; i < product["organizations"].length; i++) {
             if (product["organizations"][i].hasOwnProperty("website")) {
-              product["organizations"][i]["website"] = product["organizations"][i][
-                "website"
-              ].replace(/http:/g, "https:");
+              if(! httpOnlyURLs.find( element => product["organizations"][i]["website"].match(new RegExp(element)))) {
+                product["organizations"][i]["website"] = product["organizations"][i][
+                  "website"
+                ].replace(/http:/g, "https:");
+              }
             }
           }
         }
