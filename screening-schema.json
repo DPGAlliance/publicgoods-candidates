@@ -452,9 +452,31 @@
                 "Unknown"
               ]
             },
+            "addressSafetySecurityUnderageUsers": {
+              "type": "string",
+              "description": "If yes - does the project take steps to address the safety and security of underage users?",
+              "uniqueItems": true,
+              "enum": [
+                "Yes",
+                "No",
+                "Unknown",
+                ""
+              ]
+            },
+            "stepsAddressRiskPreventSafetyUnderageUsers": {
+              "type": "array",
+              "description": "If yes - please describe the steps this project takes to address risk or prevent access by underage users.",
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            },
             "griefAbuseHarassmentProtection": {
               "type": "string",
-              "description": "If yes - Does the project help users and contributors protect themselves against grief, abuse, and harassment?",
+              "description": "If yes - does the project help users and contributors protect themselves against grief, abuse, and harassment?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -465,7 +487,7 @@
             },
             "harassmentProtectionSteps": {
               "type": "array",
-              "description": "Please describe",
+              "description": "If yes - please describe the steps taken to help users protect users and contributors.",
               "items": {
                 "anyOf": [
                   {
