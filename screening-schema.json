@@ -201,8 +201,7 @@
         "dataPrivacySecurity",
         "inappropriateIllegalContent",
         "protectionFromHarassment",
-        "transparency",
-        "childOnlineSafety"
+        "transparency"
       ],
       "properties": {
         "preventHarm": {
@@ -393,30 +392,6 @@
             "termsOfServiceURL": {
               "type": "string",
               "description": "Link to a clearly discoverable privacy policy and/or terms of service"
-            }
-          }
-        },
-        "childOnlineSafety": {
-          "type": "object",
-          "description": "Child Online Safety",
-          "required": ["underageProtection"],
-          "properties": {
-            "addressSafetySecurityUnderageUsers": {
-              "type": "string",
-              "description": "If yes - Does the project take steps to address the safety and security of underage users?",
-              "uniqueItems": true,
-              "enum": ["Yes", "No", "Unknown", ""]
-            },
-            "stepsAddressRiskPreventSafetyUnderageUsers": {
-              "type": "array",
-              "description": "Please describe the steps this project takes to address risk or prevent access by underage users:",
-              "items": {
-                "anyOf": [
-                  {
-                    "type": "string"
-                  }
-                ]
-              }
             }
           }
         }
