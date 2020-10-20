@@ -45,7 +45,7 @@
       ]
     },
     "privacyFreedom": {
-      "freedomOfExpressionRiskStrategy": "",
+      "freedomOfExpressionRiskStrategy": "Unknown",
       "freedomOfExpressionRiskStrategyDescrition": ""
     },
     "dataPrivacySecurity": {
@@ -81,11 +81,11 @@
       "harassmentProtectionSteps": ["n/a"]
     },
     "transparency": {
-      "discoverablePrivacyPolicy": "",
+      "discoverablePrivacyPolicy": "Unknown",
       "termsOfServiceURL": "These are managed at the programme level, depending on lead agency, role of gov't., and other accountabilities"
     },
     "childOnlineSafety": {
-      "underageProtection": "",
+      "underageProtection": "N/A",
       "underageProtectionSteps": []
     }
   },
