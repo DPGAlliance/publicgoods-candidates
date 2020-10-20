@@ -1,7 +1,7 @@
 {
   "name": "VaccineLedger",
   "description": "A supply chain optimization platform that ensure quality, safety and fair distribution of COVID-19 and other vaccines",
-  "website": "https://vaccineledger.com",
+  "website": "http://vaccineledger.com",
   "license": [
     {
       "spdx": "MIT",
