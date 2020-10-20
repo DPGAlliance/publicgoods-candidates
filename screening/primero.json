@@ -81,10 +81,6 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
-      "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "n/a"
-      ],
       "griefAbuseHarassmentProtection": "No",
       "harassmentProtectionSteps": [
         "n/a"
