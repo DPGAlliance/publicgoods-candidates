@@ -11,7 +11,9 @@
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
-    "documentationURL": ["https://support.primero.org/documentation"]
+    "documentationURL": [
+      "https://support.primero.org/documentation"
+    ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
@@ -29,8 +31,12 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "standardsList": ["WCAG"],
-    "evidenceStandardSupport": ["Yes. We use Fortify on Demand, OWASP"],
+    "standardsList": [
+      "WCAG"
+    ],
+    "evidenceStandardSupport": [
+      "Yes. We use Fortify on Demand, OWASP"
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       " the Principles for Digital Development/UNICEF Innovation Principles. (All)"
@@ -76,9 +82,13 @@
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
-      "stepsAddressRiskPreventSafetyUnderageUsers": ["n/a"],
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "n/a"
+      ],
       "griefAbuseHarassmentProtection": "No",
-      "harassmentProtectionSteps": ["n/a"]
+      "harassmentProtectionSteps": [
+        "n/a"
+      ]
     },
     "transparency": {
       "discoverablePrivacyPolicy": "Unknown",
@@ -90,7 +100,9 @@
     }
   },
   "locations": {
-    "developmentCounties": ["United States"],
+    "developmentCounties": [
+      "United States"
+    ],
     "deploymentCountries": [
       "Sierra Leone",
       "Jordan",
