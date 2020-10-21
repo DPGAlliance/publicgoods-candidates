@@ -4,11 +4,13 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
     pushd ../publicgoods-scripts && \
         ./static.bash && \
         npm install && \
+        node generate_screened.js && \
         node index.js && \
         node generate_nominees.js && \
         npm run build && \
         ./moveFiles.bash && \
     popd && \
+    git add git registry/*.html && \
     git config --global user.email "lacabra@users.noreply.github.com" && \
     git config --global user.name "Victor Grau Serrat" && \
     pushd ../publicgoods-website && \
