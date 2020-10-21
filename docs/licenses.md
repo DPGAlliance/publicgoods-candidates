@@ -6,7 +6,7 @@ Licenses for open source software, open content and open data are vetted and app
 * **Open Data**: only accepting [conformant licenses](https://opendefinition.org/licenses/) to the Open Definition from the Open Data Commons.
 * **Open Source Software**: only accepting [approved licenses](https://opensource.org/licenses) from the Open Source Initiative.
 
-The full list of licenses is included below.
+The full list of licenses is included below. If you use a license that is not currently listed here but you believe should be included please email nominations@digitalpublicgoods.net. We may accept licenses that are pending review by the corresponding licensing group. 
 
 ## Content
 
