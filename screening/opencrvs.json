@@ -81,8 +81,7 @@
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
-      "illegalContentDetectionMechanism": "",
-      "responseTime": ""
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",

@@ -428,10 +428,6 @@
             "illegalContentDetectionMechanism": {
               "type": "string",
               "description": "Please describe the mechanism for detecting and reporting innapropriate/illegal content?"
-            },
-            "responseTime": {
-              "type": "string",
-              "description": "What is the response time?"
             }
           }
         },
