@@ -247,8 +247,7 @@
         "privacyFreedom",
         "dataPrivacySecurity",
         "inappropriateIllegalContent",
-        "protectionFromHarassment",
-        "transparency"
+        "protectionFromHarassment"
       ],
       "properties": {
         "preventHarm": {
@@ -491,29 +490,6 @@
                   }
                 ]
               }
-            }
-          }
-        },
-        "transparency": {
-          "type": "object",
-          "description": "Transparency",
-          "required": [
-            "discoverablePrivacyPolicy"
-          ],
-          "properties": {
-            "discoverablePrivacyPolicy": {
-              "type": "string",
-              "description": "Does this project have a clearly discoverable privacy policy and/or terms of service?",
-              "uniqueItems": true,
-              "enum": [
-                "Yes",
-                "No",
-                "Unknown"
-              ]
-            },
-            "termsOfServiceURL": {
-              "type": "string",
-              "description": "Link to a clearly discoverable privacy policy and/or terms of service"
             }
           }
         }
