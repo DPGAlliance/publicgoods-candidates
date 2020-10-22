@@ -68,9 +68,7 @@
         "This app allows many service providers/protection actors to work on a common instance and exchange referrals and other data under strict information sharing protocols when in the best interest of the client and with their consent"
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Data Breach SOP, Primero Board (interagency governance), linkages with RD4C.org, very stringent business processes including regular programme level audits",
-      "discoverablePrivacyPolicy": "Unknown",
-      "termsOfServiceURL": "These are managed at the programme level, depending on lead agency, role of gov't., and other accountabilities"
+      "privacySecurityDescription": "Data Breach SOP, Primero Board (interagency governance), linkages with RD4C.org, very stringent business processes including regular programme level audits. These are managed at the programme level, depending on lead agency, role of gov't., and other accountabilities"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
