@@ -426,11 +426,7 @@
             },
             "illegalContentDetectionMechanism": {
               "type": "string",
-              "description": "Please describe the mechanism for detecting and reporting innapropriate/illegal content?"
-            },
-            "responseTime": {
-              "type": "string",
-              "description": "What is the response time?"
+              "description": "If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (include average response time if known)?"
             }
           }
         },
