@@ -1,0 +1,41 @@
+{
+  "name": "adfa",
+  "description": "adfa",
+  "website": "https://www.asfad.com",
+  "license": [
+    {
+      "spdx": "Apache-1.1",
+      "licenseURL": "https://thinkingmachin.es/"
+    }
+  ],
+  "SDGs": [
+    [
+      15,
+      "Life On Land"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "www.adfad.com",
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "aimodel",
+    "standard",
+    "content"
+  ],
+  "repositoryURL": "https://www.adfafdaf.com",
+  "organizations": [
+    {
+      "name": "adaf",
+      "org_type": "owner"
+    }
+  ]
+}
