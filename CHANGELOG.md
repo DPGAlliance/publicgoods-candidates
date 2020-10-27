@@ -6,8 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+- Added `mobile-wach.json` (#104)
+
 ### Changed
-- Renamed facility-reconciliation-tool.json to global-open-facility-registry.json (#103)
+- Renamed `facility-reconciliation-tool.json` to global-open-facility-registry.json (#103)
 
 ## [0.7.0] - 2020-10-08
 
