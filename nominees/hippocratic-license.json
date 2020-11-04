@@ -1,0 +1,43 @@
+{
+  "name": "Hippocratic License",
+  "description": "An open source license designed to prevent human rights abuses.",
+  "website": "https://firstdonoharm.dev",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/EthicalSource/hippocratic-license/blob/release/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "SDGevidence": "https://www.theatlantic.com/technology/archive/2020/01/ice-contract-github-sparks-developer-protests/604339/\nhttps://www.wired.com/story/open-source-license-requires-users-do-no-harm/amp",
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositoryURL": "https://github.com/EthicalSource/hippocratic-license",
+  "organizations": [
+    {
+      "name": "Ethical Source Movement",
+      "org_type": "owner"
+    }
+  ]
+}
+
