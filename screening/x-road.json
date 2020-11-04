@@ -1,0 +1,111 @@
+{
+  "name": "X-Road",
+  "ownership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/nordic-institute/X-Road-development"
+  },
+  "dependencies": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://x-road.global/resources"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "isLocIntlAdherent": "Yes",
+    "locIntlComplianceList": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "RFC6960, RFC3161, ETSI TS 102 918"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-ss_x-road_security_server_architecture.md"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Following the Principles for Digital Development where applicable"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://www.niis.org/procedure-for-use-of-data-and-data-processing",
+      "additionalMitigationSteps": [
+        ""
+      ]
+    },
+    "privacyFreedom": {
+      "freedomOfExpressionRiskStrategy": "Unknown",
+      "freedomOfExpressionRiskStrategyDescrition": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Technical documentation and other materials related to knowledge-sharing",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Internal and external monitoring of media, social media, websites and documentation base."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCounties": [
+      "Estonia",
+      "Finland"
+    ],
+    "deploymentCountries": [
+      "Estonia",
+      "Finland",
+      "Iceland",
+      "The Faroe Islands",
+      "Azerbaijan",
+      "Argentina",
+      "Cambodia",
+      "Colombia",
+      "El Salvador",
+      "Germany",
+      "Japan",
+      "Kyrgyztan",
+      "Palestine",
+      "Vietnam"
+    ]
+  }
+}
