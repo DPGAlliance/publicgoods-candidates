@@ -1,0 +1,97 @@
+{
+  "name": "OpenG2P",
+  "ownership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.openg2p.org/"
+  },
+  "dependencies": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.openg2p.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "nonPIIAccessMechanism": "Yes"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "OpenG2P is a tool used by adopters, the OpenG2P foundation by itself does not store any PII"
+    ],
+    "isLocIntlAdherent": "Yes",
+    "locIntlComplianceList": [
+      "OpenG2P is a tool used by adopters, the OpenG2P foundation by itself does not store any PII"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "w3c verifiable credentials and others under explorations especially around handling of PII "
+    ],
+    "evidenceStandardSupport": [
+      "Work in progress especially around compliance to open standards around handling and security of PII"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principals for Digital Development; the Responsible Digital Payments Guidelines by the Better Than Cash Alliance"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "",
+      "additionalMitigationSteps": [
+        "https://openg2p.org/"
+      ]
+    },
+    "privacyFreedom": {
+      "freedomOfExpressionRiskStrategy": "Unknown",
+      "freedomOfExpressionRiskStrategyDescrition": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "This is defined by adopters and only collects cash transfer beneficiary demographic data as defined by programs that adopt OpenG2P",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://openg2p.org/",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "OpenG2P is a tool used by the adopters independent of the foundation building blocks of OpenG2P.  By design, we don't have visibility of their citizen/beneficiary data.  However, we are investing resources in establishing principals, guidelines, best practices around the collection and storage of data by adopters."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Not relevant "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://openg2p.org/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCounties": [
+      "Sierra Leone"
+    ],
+    "deploymentCountries": [
+      "Sierra Leone"
+    ]
+  }
+}
