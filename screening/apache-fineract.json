@@ -34,7 +34,7 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "W3C, Open Banking Standards, Java Coding Standards "
+      "W3C, Open Banking Standards, Java Coding Standards"
     ],
     "evidenceStandardSupport": [
       "https://cwiki.apache.org/confluence/display/FINERACT/Coding+Conventions",
