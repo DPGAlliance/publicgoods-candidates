@@ -9,12 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 9,
+      "evidenceText": "",
+      "evidenceURL": "https://stories.thinkingmachin.es/geomancer/"
+    }
   ],
-  "SDGevidence": "https://stories.thinkingmachin.es/geomancer/ ",
   "sectors": [],
   "type": [
     "software"
@@ -25,5 +25,6 @@
       "name": "Thinking Machines Data Science Inc.",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
