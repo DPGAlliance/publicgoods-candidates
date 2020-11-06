@@ -1,6 +1,6 @@
 {
   "name": "Telemesh",
-  "description": "An open-source blockchain & mesh enabled messaging application for the unconnected",
+  "description": "An open-source blockchain & mesh enabled messaging application for the unconnected.",
   "website": "https://telemesh.net/",
   "license": [
     {
@@ -11,13 +11,11 @@
   "SDGs": [
     {
       "SDGNumber": 1,
-      "evidenceText": "Telemesh believes that access to connectivity and communication is the key to improve people's lives, social status, and economic development. Access to connectivity directly impacts most of  SDG goals.",
-      "evidenceURL": ""
+      "evidenceText": "Telemesh believes that access to connectivity and communication is the key to improve people's lives, social status, and economic development. Access to connectivity directly impacts most of  SDG goals."
     },
     {
       "SDGNumber": 4,
-      "evidenceText": "Connectivity is an effective medium to promptly deliver economic resources and provide access to the global economy. When people have access to connectivity, it will improve education, health, employment opportunities, and, ultimately, GDP. The Telemesh project aims to connect remote rural populations in an accessible, affordable, and sustainable way. Telemesh can lead to improvements in major socio-economic sectors and lift millions of people out of poverty. ",
-      "evidenceURL": ""
+      "evidenceText": "Connectivity is an effective medium to promptly deliver economic resources and provide access to the global economy. When people have access to connectivity, it will improve education, health, employment opportunities, and, ultimately, GDP. The Telemesh project aims to connect remote rural populations in an accessible, affordable, and sustainable way. Telemesh can lead to improvements in major socio-economic sectors and lift millions of people out of poverty. "
     },
     {
       "SDGNumber": 9,
@@ -38,6 +36,7 @@
   "organizations": [
     {
       "name": "W3 Engineers Ltd.",
+      "website": "https://w3engineers.com",
       "org_type": "owner"
     }
   ],
