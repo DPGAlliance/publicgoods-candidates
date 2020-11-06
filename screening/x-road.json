@@ -32,7 +32,9 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "RFC6960, RFC3161, ETSI TS 102 918"
+      "RFC6960",
+      "RFC3161",
+      "ETSITS 102 918"
     ],
     "evidenceStandardSupport": [
       "https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-ss_x-road_security_server_architecture.md"
