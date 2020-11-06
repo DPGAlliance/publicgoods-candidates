@@ -1,11 +1,11 @@
 {
   "name": "CNB Guatemala",
   "description": "A digital online version of the Guatemalan National Basic Curriculum, aligned open educational resources and other teacher development resources.",
-  "website": "http://cnbGuatemala.org",
+  "website": "https://cnbGuatemala.org",
   "license": [
     {
       "spdx": "CC-BY-SA-4.0",
-      "licenseURL": "http://cnbguatemala.org/wiki/CNB:Derechos_de_autor"
+      "licenseURL": "https://cnbguatemala.org/wiki/CNB:Derechos_de_autor"
     }
   ],
   "SDGs": [
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "Online Learning Initiative",
-      "website": "http://online-learning-initiative.org",
+      "website": "https://online-learning-initiative.org",
       "org_type": "owner"
     }
   ],

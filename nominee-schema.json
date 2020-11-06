@@ -347,14 +347,6 @@
             "type": "string",
             "description": "Website of the organization"
           },
-          "contact_name": {
-            "type": "string",
-            "description": "Name of contact individual in the organization"
-          },
-          "contact_email": {
-            "type": "string",
-            "description": "Email for contact individual in the organization"
-          },
           "org_type": {
             "type": "string",
             "enum": [
@@ -363,6 +355,14 @@
               "funder",
               "implementer"
             ]
+          },
+          "contact_name": {
+            "type": "string",
+            "description": "Name of contact individual in the organization"
+          },
+          "contact_email": {
+            "type": "string",
+            "description": "Email for contact individual in the organization"
           }
         }
       }

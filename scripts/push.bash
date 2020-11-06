@@ -4,6 +4,7 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
     pushd ../publicgoods-scripts && \
         ./static.bash && \
         npm install && \
+        node generate_screened.js && \
         node index.js && \
         node generate_nominees.js && \
         npm run build && \
@@ -13,6 +14,6 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
     git config --global user.name "Victor Grau Serrat" && \
     pushd ../publicgoods-website && \
     git remote set-url origin https://${GITHUB_TOKEN}@github.com/unicef/publicgoods-website.git && \
-    git add author blog category tag && \
+    git add author blog category registry tag && \
     git commit -am "BLD: $GITHUB_SHA" || true && \
     git push --set-upstream origin master

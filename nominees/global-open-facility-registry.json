@@ -1,7 +1,10 @@
 {
-  "name": "Facility Reconciliation Tool",
+  "name": "Global Open Facility Registry",
+  "aliases": [
+    "GOFR"
+  ],
   "description": "The Facility Reconciliation Tool is an open source and open standards-based product used to compare lists of (health) facilities from different data sources.",
-  "website": "https://facility-recon.readthedocs.io",
+  "website": "https://www.facilitymatch.net/",
   "license": [
     {
       "spdx": "Apache-2.0",
