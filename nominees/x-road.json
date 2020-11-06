@@ -10,10 +10,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 16
+      "SDGNumber": 16,
+      "evidenceText": "",
+      "evidenceURL": ""
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 17,
+      "evidenceText": "",
+      "evidenceURL": ""
     }
   ],
   "sectors": [],
