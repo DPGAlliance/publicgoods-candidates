@@ -53,8 +53,7 @@
   "sectors": [],
   "type": [
     "software",
-    "data",
-    "standard"
+    "data"
   ],
   "repositoryURL": "https://github.com/OpenG2P/openg2p-erp",
   "organizations": [
