@@ -9,16 +9,15 @@
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://stories.thinkingmachin.es/philippines-most-vulnerable-communities/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://aiforsocialgood.github.io/icml2019/accepted/track1/pdfs/7_aisg_icml2019.pdf"
+    }
   ],
-  "SDGevidence": "1 - https://stories.thinkingmachin.es/philippines-most-vulnerable-communities/\n2 - https://aiforsocialgood.github.io/icml2019/accepted/track1/pdfs/7_aisg_icml2019.pdf\n",
   "sectors": [],
   "type": [
     "aimodel"
@@ -28,5 +27,6 @@
       "name": "Thinking Machines Data Science Inc.",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
