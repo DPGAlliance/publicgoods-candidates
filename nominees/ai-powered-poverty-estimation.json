@@ -1,6 +1,6 @@
 {
   "name": "AI Powered Poverty Estimation",
-  "description": "Using AI on satellite imagery to scalably and quickly estimate poverty",
+  "description": "Using AI on satellite imagery to scalably and quickly estimate poverty.",
   "website": "https://thinkingmachin.es",
   "license": [
     {
@@ -22,9 +22,11 @@
   "type": [
     "aimodel"
   ],
+  "repositoryURL": "https://github.com/thinkingmachines/ph-poverty-mapping",
   "organizations": [
     {
       "name": "Thinking Machines Data Science Inc.",
+      "website": "https://thinkingmachin.es",
       "org_type": "owner"
     }
   ],
