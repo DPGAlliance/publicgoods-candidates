@@ -2,7 +2,7 @@
   "name": "Modular Open Source Identity Plaform",
   "ownership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/mosip/mosip/blob/master/LICENSE, https://www.mosip.io/resource/ip-policy-trademark-and-copyright"
+    "copyrightURL": "https://www.mosip.io/resource/ip-policy-trademark-and-copyright"
   },
   "dependencies": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
