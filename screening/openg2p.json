@@ -64,10 +64,6 @@
         "User authentication, authorization, and roles; for interfaces that users log into, e.g. beneficiary administration system, we advocate the following minimum."
       ]
     },
-    "privacyFreedom": {
-      "freedomOfExpressionRiskStrategy": "Unknown",
-      "freedomOfExpressionRiskStrategyDescrition": ""
-    },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
