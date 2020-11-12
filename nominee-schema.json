@@ -36,7 +36,7 @@
     },
     "license": {
       "type": "array",
-      "description": "License(s) under which the Global Digital Pubic Good is released.",
+      "description": "DPGs must use an open license. Please identify which of these approved open source license this project uses:",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -183,7 +183,7 @@
           },
           "licenseURL": {
             "type": "string",
-            "description": "Link to the license under which the Global Digital Pubic Good is released."
+            "description": "Please link to where the license is indicated for this project:"
           }
         }
       }
