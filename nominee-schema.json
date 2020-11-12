@@ -350,7 +350,7 @@
           },
           "org_type": {
             "type": "string",
-            "description": "Type of organization"
+            "description": "Type of organization",
             "enum": [
               "owner",
               "maintainer",
@@ -371,7 +371,7 @@
     },
     "stage": {
       "type": "string",
-      "description": "Screening stage of Digital Public Good"
+      "description": "Screening stage of Digital Public Good",
       "enum": [
         "nominee",
         "candidate",
