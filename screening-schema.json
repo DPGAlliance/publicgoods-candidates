@@ -52,7 +52,7 @@
       "properties": {
         "mandatoryDepsCreateMoreRestrictions": {
           "type": "string",
-          "description": "Does this open project have mandatory dependencies (i.e. hardware) that create more restrictions than the original license?",
+          "description": "Does this open project have mandatory dependencies (i.e. libraries, hardware) that create more restrictions than the original license?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -62,7 +62,7 @@
         },
         "isSoftwarePltIndependent": {
           "type": "string",
-          "description": "Are the open source components able to demonstrate independence from the closed component and/or are there functional, open alternatives?",
+          "description": "If yes - are the open source components able to demonstrate independence from the closed component(s) and/or are there functional, open alternatives?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -73,7 +73,7 @@
         },
         "pltIndependenceDesc": {
           "type": "string",
-          "description": "f yes - please describe how the open source components are independent and/or list the open alternatives for the closed component:"
+          "description": "If yes - please describe how the open source components are independent and/or list the open alternatives for the closed component:"
         }
       }
     },
@@ -86,7 +86,7 @@
       "properties": {
         "isDocumentationAvailable": {
           "type": "string",
-          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements for this project",
+          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements.\n For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -126,7 +126,7 @@
         },
         "nonPIIAccessMechanism": {
           "type": "string",
-          "description": "If yes - Describe the mechanism for extracting or importing non-personally identifiable information from the system in a non-proprietary format:"
+          "description": "If yes - describe the mechanism for extracting or importing non-personally identifiable information from the system in a non-proprietary format:"
         }
       }
     },
@@ -140,7 +140,7 @@
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
-          "description": "To the best of your knowledge does this project complies with all relevant privacy laws?",
+          "description": "To the best of your knowledge does this project comply with all relevant privacy laws?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -192,7 +192,7 @@
       "properties": {
         "supportStandards": {
           "type": "string",
-          "description": "Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C.)",
+          "description": "Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -309,7 +309,7 @@
         },
         "dataPrivacySecurity": {
           "type": "object",
-          "description": "Data Privacy & Security",
+          "description": "9.a. Data Privacy & Security",
           "required": [
             "collectsPII",
             "typesOfDataCollected",
@@ -321,7 +321,7 @@
           "properties": {
             "collectsPII": {
               "type": "string",
-              "description": "Does this project collect or store personally identifiable data?",
+              "description": "Does this project collect or store personally identifiable information (PII) data?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -331,7 +331,7 @@
             },
             "typesOfDataCollected": {
               "type": "array",
-              "description": "If yes - Please list the types of data collected and/or stored by the project",
+              "description": "If yes - please list the types of data collected and/or stored by the project:",
               "items": {
                 "anyOf": [
                   {
@@ -342,7 +342,7 @@
             },
             "thirdPartyDataSharing": {
               "type": "string",
-              "description": "If yes - Does this project share this data with third parties?",
+              "description": "If yes - does this project share this data with third parties?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -352,7 +352,7 @@
             },
             "dataSharingCircumstances": {
               "type": "array",
-              "description": "Please describe the circumstances with which this project shares data with third parties. Please add links as relevant",
+              "description": "Please describe the circumstances with which this project shares data with third parties. Please add links as relevant.",
               "items": {
                 "anyOf": [
                   {
@@ -363,7 +363,7 @@
             },
             "ensurePrivacySecurity": {
               "type": "string",
-              "description": "If yes - Does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from it's collection, storage and distribution",
+              "description": "If yes - does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -373,13 +373,13 @@
             },
             "privacySecurityDescription": {
               "type": "string",
-              "description": "If yes - Please describe the steps, and include a link to the privacy policy and/or terms of service:"
+              "description": "If yes - please describe the steps, and include a link to the privacy policy and/or terms of service:"
             }
           }
         },
         "inappropriateIllegalContent": {
           "type": "object",
-          "description": "Inappropriate/Illegal Content",
+          "description": "9.b. Inappropriate & Illegal Content",
           "required": [
             "collectStoreDistribute"
           ],
@@ -396,11 +396,11 @@
             },
             "type": {
               "contentType": "string",
-              "description": "If yes - what kinds of content does this project, collect, store or distribute? (i.e. childrens books, weather data)"
+              "description": "If yes - what kinds of content does this project, collect, store or distribute? (i.e. childrens books)"
             },
             "contentFilter": {
               "type": "string",
-              "description": "If yes - does this project have policies that describes what is considered innappropriate content i.e. child sexual abuse materials?",
+              "description": "If yes - does this project have policies that describe what is considered innappropriate content? (i.e. child sexual abuse materials)",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -411,7 +411,7 @@
             },
             "policyGuidelinesDocumentationLink": {
               "type": "string",
-              "description": "Please link to the relevant policy/guidelines/documentation."
+              "description": "If yes - please link to the relevant policy/guidelines/documentation."
             },
             "illegalContentDetection": {
               "type": "string",
@@ -432,7 +432,7 @@
         },
         "protectionFromHarassment": {
           "type": "object",
-          "description": "Protection from harassment",
+          "description": "9.c. Protection from harassment",
           "required": [
             "userInteraction"
           ],
