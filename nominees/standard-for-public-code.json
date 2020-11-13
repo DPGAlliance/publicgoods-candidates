@@ -9,24 +9,27 @@
     }
   ],
   "SDGs": [
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      16,
-      "Peace, Justice and Strong Institutions"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
+      "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
+      "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
+      "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
+      "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
+    }
   ],
-  "SDGevidence": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:\n\nhttps://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\n\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html",
   "sectors": [],
   "type": [
     "standard"
@@ -37,6 +40,6 @@
       "website": "https://publiccode.net",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
