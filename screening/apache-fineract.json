@@ -53,10 +53,6 @@
         "Our social mission is imperative to the project and as a top-level project within the Apache Software Foundation, we adhere to all the norms, governance, policies and procedures of ASF and the Apache Way"
       ]
     },
-    "privacyFreedom": {
-      "freedomOfExpressionRiskStrategy": "Unknown",
-      "freedomOfExpressionRiskStrategyDescrition": "Since we're not directly hosting the software for the financial institutions using it, we're not directly engaged in strategies to respond to and minimize impact of govt. However we work to ensure all users of our software are in compliance and are adhering to principles around consumer protection and data privacy and are working to endorse and adopt standards around open source foundation identity like Mosip. "
-    },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
