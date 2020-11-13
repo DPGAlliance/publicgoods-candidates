@@ -33,6 +33,11 @@
       "name": "Health Information Systems Programme (HISP), University of Oslo",
       "website": "https://www.mn.uio.no/ifi/english/research/networks/hisp/",
       "org_type": "owner"
+    },
+    {	
+      "name": "Norad",	
+      "website": "https://norad.no",	
+      "org_type": "funder"	
     }
   ],
   "stage": "nominee"
