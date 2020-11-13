@@ -27,7 +27,6 @@
       "c. All-access should via strong authentication mechanism and permissioned; this also includes access to other OpenG2P projects.",
       "d. Datastore should not be on a internet-facing network.",
       "e. Tamper resistant logging of system access should be implemented across all potential routes of attacks",
-      "\n",
       "OpenG2P blocks by default not on externally-accessible networks. This default can be relaxed for the following situations:",
       "a. Needs to communicate with systems of external parties, in which case we advise the use of VPNs and other secure end-to-end/point-to-point secure communication strategies.",
       "b. Needs to be accessed by a wide variety of users, e.g. admin systems, in which case just interfaces should adopt industry-standard authentication strategies.",
@@ -38,14 +37,14 @@
     ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [
-      " The OpenG2P framework confers privacy, security, and consent as an inalienable right of every person regardless of their gender and economic situation. A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies.",
+      "The OpenG2P framework confers privacy, security, and consent as an inalienable right of every person regardless of their gender and economic situation. A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies.",
       "The OpenG2P framework is conceptualized as supportive of Government transfer systems, and the organization of such transfer programs are at the behest of governmental agencies. We take approaches that are protective of security and privacy while remaining consistent with governmental policies."
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "w3c verifiable credentials and others under explorations especially around handling of PII "
+      "w3c verifiable credentials and others under explorations especially around handling of PII"
     ],
     "evidenceStandardSupport": [
       "Work in progress especially around compliance to open standards around handling and security of PII"
@@ -84,16 +83,14 @@
       "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
-      "policyGuidelinesDocumentationLink": "https://openg2p.org/",
-      "illegalContentDetection": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
-      "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "Not relevant "
-      ],
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         ""
