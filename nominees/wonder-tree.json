@@ -1,0 +1,37 @@
+{
+  "name": "Wonder Tree",
+  "description": "Augmented Reality Games for Children with Social Needs",
+  "website": "https://www.wondertree.co",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Wonder-Tree/PoseCamera/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "SDGevidence": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment",
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "organizations": [
+    {
+      "name": "Wonder Tree",
+      "org_type": "owner"
+    }
+  ]
+}
+
