@@ -1,5 +1,5 @@
 {
-  "name": "Mifos",
+  "name": "Mifos Community App",
   "ownership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://mifos.org/about-us/financial-legal/"
@@ -45,10 +45,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "",
-      "additionalMitigationSteps": [
-        "https://openmf.github.io/privacy_policy_mifos_mobile.html"
-      ]
+      "additionalInfoMechanismProcessesPolicies": "https://openmf.github.io/privacy_policy_mifos_mobile.html"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
