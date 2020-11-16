@@ -13,15 +13,50 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 16
+      "SDGNumber": 1,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 2,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://mosip.io/news-events/technology-contributors-coalition"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://mosip.io/news-events/mosip-presents-during-un-general-assembly-2019"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-ministry-of-peace-federal-democratic-republic-of-ethiopia-sign-mou-on-mosip"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://mosip.io/news-events/global-virtual-summit-on-digital-identity-for-refugees-mosip-presentation"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://mosip.io/news-events/global-virtual-summit-on-digital-identity-for-refugees-mosip-presentation"
     }
   ],
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "standard"
   ],
   "repositoryURL": "https://github.com/mosip/commons",
   "organizations": [
