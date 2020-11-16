@@ -28,15 +28,15 @@
     },
     "description": {
       "type": "string",
-      "description": "Concise 1-line description of Global Digital Public Good"
+      "description": "Concise 1-line description of Digital Public Good."
     },
     "website": {
       "type": "string",
-      "description": "Public website for the Global Digital Public Good."
+      "description": "Public website for the Digital Public Good."
     },
     "license": {
       "type": "array",
-      "description": "License(s) under which the Global Digital Pubic Good is released.",
+      "description": "Digital Public Goodss must use an open license. Please identify which of these approved open licenses this project uses:",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -183,14 +183,14 @@
           },
           "licenseURL": {
             "type": "string",
-            "description": "Link to the license under which the Global Digital Pubic Good is released."
+            "description": "Please link to where the license is indicated for this project:"
           }
         }
       }
     },
     "SDGs": {
       "type": "array",
-      "description": "List of Sustainable Development Goals that this Global Digital Public Good addresses.",
+      "description": "Please identify which of the Sustainable Development Goals this project is relevant to:",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -224,11 +224,11 @@
           },
           "evidenceText": {
             "type": "string",
-            "description": "Evidence of SDG relevance in text form."
+            "description": "Please supply information to support this relevance."
           },
           "evidenceURL": {
             "type": "string",
-            "description": "Evidence of SDG relevance in the form of a link."
+            "description": "Please supply links to support this relevance."
           }
         }
       }
@@ -317,7 +317,7 @@
     },
     "type": {
       "type": "array",
-      "description": "List of categories under which this Global Digital Public Good falls into: software, data, standards.",
+      "description": "What category best describes this project?",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -333,7 +333,7 @@
     },
     "repositoryURL": {
       "type": "string",
-      "description": "Link to Github (or other) repository"
+      "description": "Link to Github (or other) repository."
     },
     "organizations": {
       "type": "array",
@@ -350,6 +350,7 @@
           },
           "org_type": {
             "type": "string",
+            "description": "Type of organization",
             "enum": [
               "owner",
               "maintainer",
@@ -370,6 +371,7 @@
     },
     "stage": {
       "type": "string",
+      "description": "Screening stage of Digital Public Good",
       "enum": [
         "nominee",
         "candidate",
