@@ -1,5 +1,8 @@
 {
   "name": "DHIS2",
+  "aliases": [
+    "District Health Information System 2"
+  ],
   "description": "DHIS2 is a free, open-source, fully customizable platform for collecting, analyzing, visualizing, and sharing aggregate and individual-data for district-level, national, regional, and international system and program management in health, education, and other domains.",
   "website": "https://www.dhis2.org/",
   "license": [
