@@ -18,6 +18,7 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
     "nonPIIAccessMechanism": "Non personally identifiable information can be extracted from OpenCRVS through a non-proprietary export of performance management reports (in csv format). This will include non-PII data such as the no. of applications received, no. of certificates issued, configurable by date and vital event, and disaggregated by gender.Regarding import, OpenCRVS enables the upload of country reference data such as the full administrative structure including statistical IDs, population sizes, crude birth/death rates by location, health facilities, civil registration offices, all in a non-proprietary format. "
   },
   "privacy": {

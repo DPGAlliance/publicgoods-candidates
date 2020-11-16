@@ -124,9 +124,20 @@
             "Unknown"
           ]
         },
+        "checkNonPIIAccessMechanism": {
+          "type": "string",
+          "description": "If yes - is there a mechanism for extracting or importing non-personally identifiable information (non-PII) from the system in a non-proprietary format?",
+          "uniqueItems": true,
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown",
+            ""
+          ]
+        },
         "nonPIIAccessMechanism": {
           "type": "string",
-          "description": "If yes - is there a mechanism for extracting or importing non-personally identifiable information (non-PII) from the system in a non-proprietary format?"
+          "description": "If yes - describe the mechanism for extracting or importing non-personally identifiable information from the system in a non-proprietary format:"
         }
       }
     },
