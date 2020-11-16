@@ -120,6 +120,7 @@
   },
   "locations": {
     "developmentCounties": [
+      "India",
       "Philippines"
     ],
     "deploymentCountries": [
