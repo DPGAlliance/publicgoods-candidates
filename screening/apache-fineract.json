@@ -48,10 +48,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "https://www.apache.org/foundation/policies/privacy.html",
-      "additionalMitigationSteps": [
-        "Our social mission is imperative to the project and as a top-level project within the Apache Software Foundation, we adhere to all the norms, governance, policies and procedures of ASF and the Apache Way"
-      ]
+      "additionalInfoMechanismProcessesPolicies": "Our social mission is imperative to the project and as a top-level project within the Apache Software Foundation, we adhere to all the norms, governance, policies and procedures of ASF and the Apache Way \n https://www.apache.org/foundation/policies/privacy.html"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
