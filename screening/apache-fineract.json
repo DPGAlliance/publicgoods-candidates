@@ -19,7 +19,7 @@
   },
   "NonPII": {
     "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "No",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
