@@ -475,11 +475,11 @@
       "type": "object",
       "description": "Development & deployment countries",
       "required": [
-        "developmentCounties",
+        "developmentCountries",
         "deploymentCountries"
       ],
       "properties": {
-        "developmentCounties": {
+        "developmentCountries": {
           "type": "array",
           "description": "List of countries this project was developed in.",
           "items": {
