@@ -1,7 +1,7 @@
 {
   "name": "Geoprism Registry",
   "description": "Geoprism Registry is the first implementation of the Common Geo-Registry (CGR) specification: a single source of reference information for the standardization, management and use of geographic data over time.",
-  "website": "http://dsme.community/common-geo-registry",
+  "website": "https://dsme.community/common-geo-registry",
   "license": [
     {
       "spdx": "LGPL-3.0",

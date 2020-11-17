@@ -17,7 +17,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "nonPIIAccessMechanism": "yes"
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Unknown",
@@ -45,10 +46,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "Primero is linked to Responsible Data for Children, which focuses on empowering frontline workers to make good decisions about the gathering, storage and use of PII. Primero has built-in features to ensure privacy and accountability.  ",
-      "additionalMitigationSteps": [
-        "Primero is an extension of +20 years of interagency collaboration in the Protection sector, bringing together dozens of organizations around a community of practice based on do no harm. This includes the CPIMS and GBVIMS Steering Committees, the global standard bearers in information management for child protection and gender based violence. All processes, products, deployments etc are carefully regulated and monitoring for protective outcomes."
-      ]
+      "additionalInfoMechanismProcessesPolicies": "Primero is linked to Responsible Data for Children, which focuses on empowering frontline workers to make good decisions about the gathering, storage and use of PII. Primero has built-in features to ensure privacy and accountability.  \n Primero is an extension of +20 years of interagency collaboration in the Protection sector, bringing together dozens of organizations around a community of practice based on do no harm. This includes the CPIMS and GBVIMS Steering Committees, the global standard bearers in information management for child protection and gender based violence. All processes, products, deployments etc are carefully regulated and monitoring for protective outcomes."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
