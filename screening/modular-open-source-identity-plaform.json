@@ -73,10 +73,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "MOSIP has a set of guidelines it adheres to while working with a country who is willing to adopt MOSIP. These guidelines also typically form part of the MOUs we enter into. The principles of engagement can be found here: https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf",
-      "additionalMitigationSteps": [
-        "https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf"
-      ]
+      "additionalInfoMechanismProcessesPolicies": "MOSIP has a set of guidelines it adheres to while working with a country who is willing to adopt MOSIP. These guidelines also typically form part of the MOUs we enter into. The principles of engagement can be found here: https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
