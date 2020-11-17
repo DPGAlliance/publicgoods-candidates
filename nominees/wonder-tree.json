@@ -9,29 +9,33 @@
     }
   ],
   "SDGs": [
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment"
+    }
   ],
-  "SDGevidence": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment",
-  "sectors": [],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Education",
+    "Health"
+  ],
   "type": [
     "aimodel"
   ],
   "organizations": [
     {
       "name": "Wonder Tree",
+      "website": "https://wondertree.co/",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
