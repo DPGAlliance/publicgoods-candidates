@@ -1,5 +1,8 @@
 {
   "name": "OpenCRVS",
+  "aliases": [
+    "Open Civil Registration and Vital Statistics"
+  ],
   "description": "OpenCRVS is an open-source software for civil registration, designed for low resource settings",
   "website": "https://www.opencrvs.org/",
   "license": [
