@@ -1,42 +1,38 @@
 {
   "name": "Primero",
-  "description": "A web app for confidential case management and incident monitoring in social welfare, child protection, and gender based violence.",
+  "description": "Primero? is an open source software platform that helps social services, humanitarian and development workers manage protection-related data, with tools that facilitate case management, incident monitoring and family tracing and reunification.",
   "website": "https://www.primero.org/",
   "license": [
     {
-      "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/primeroIMS"
     }
   ],
   "SDGs": [
-    {
-      "SDGNumber": 5,
-      "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
-    },
-    {
-      "SDGNumber": 8,
-      "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
-    },
-    {
-      "SDGNumber": 16,
-      "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
-    }
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
   ],
-  "sectors": [
-    "Gender and Minority Groups",
-    "Humanitarian",
-    "Management"
-  ],
+  "SDGevidence": "Quality GBV data is an important element of the approach to gender-based violence prevention and response programming in humanitarian settings. It is part of the evidence base with which service providers can improve programming for survivors through better targeting, more effective mobilization of donor support, and more successful advocacy for new or improved services. In developed and stable settings, it is challenging to obtain reliable data on gender-based violence. Humanitarian contexts where institutions, infrastructure, and human resources may be weakened or compromised pose further challenges. Ethical and safety issues around data collection, management and sharing are paramount to ensuring survivor safety and recovery. Further, using traditional paper-based information management systems invites opportunities for breaches of confidentiality, theft of sensitive data, and erodes opportunities for analysis to improve programming. Primero, the Protection Related Information Management System, and the module called GBVIMS+ are the latest database iterations of the GBVIMS. GBVIMS+ is a web application that was developed to enable GBV humanitarian actors to safely collect, store, manage and share data for incident monitoring and case management. It also includes a mobile application to facilitate frontline staff access to a safer way to track incidents and individual survivors (women and girls) progress as they go through the case management process following an act of gender-based violence. Primero combines field proven tools, global best practices, and the latest open source technology to bring a user friendly and scalable solution for data management. The system utilizes technology enhancements with an on/offline data collection platform. It also features language compatibility and is based in a secure framework with role-based access incident tracking processes, so case workers can manage their work on the go, wherever they are. It is supported by the GBVIMS Steering Committee (UNICEF, UNHCR, UNFPA, IRC and IMC). \n\nAdditional Links:\nhttps://drive.google.com/file/d/1uA19XlEYHFWPwKXYf01Kebc67IHjSZ1q/view\n\nhttps://uploads.strikinglycdn.com/files/20ead74b-de5e-4cfd-9892-2beb89343b1b/Primero-Coronavirus-Brief-final.pdf\n\n\n\n",
+  "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/primeroIMS/primero",
+  "repositoryURL": "https://github.com/orgs/primeroIMS",
   "organizations": [
     {
-      "name": "UNICEF",
-      "website": "https://unicef.org",
+      "name": "UNICEF (though it is managed by an inter-agency governance structure)",
       "org_type": "owner"
     }
-  ],
-  "stage": "DPG"
+  ]
 }
+
