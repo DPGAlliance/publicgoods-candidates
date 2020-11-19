@@ -1,0 +1,42 @@
+{
+  "name": "Application development to aid less privileged ",
+  "description": "App will aid easy access to donor and less privileged people",
+  "website": "https://hokfoundation.com/",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://hokfoundation.com/ways-to-give/"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "SDGevidence": "This chairty is almost 2 years old and what we majorly do is to reach out to less privileged people and get them clothes collected from all over the world ( USa , Canada , Uk) we have people sending us messages on IG and website asking to send their clothes and also to sponsor orphans in sending them to sch. \nhttps://www.instagram.com/p/B2ih9cRHl_x/?igshid=1uzrhvs52wk3j",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://wordpress.org/about/license/",
+  "organizations": [
+    {
+      "name": "House of Kevin foundation.",
+      "org_type": "owner"
+    }
+  ]
+}
+
