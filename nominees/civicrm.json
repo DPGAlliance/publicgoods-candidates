@@ -1,0 +1,94 @@
+{
+  "name": "CiviCRM",
+  "description": "Making making data-driven organizing accessible and affordable to civic groups and organizations around the world.",
+  "website": "https://civicrm.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0-only",
+      "licenseURL": "https://github.com/civicrm"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ],
+    [
+      14,
+      "Life Below Water"
+    ],
+    [
+      15,
+      "Life On Land"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "Without civic organizing there can be no collective action. Without collective action we cannot achieve the Sustainable Development Goals. Organizations are all about people. To be effective in driving social change, leaders need to know who their supporters are, understand their concerns, know how to reach and mobilize them, and target undecided citizens. Civi, a constituent relationship management (CRM) system, keeps track of relationships and enables easy outreach and input via SMS, Facebook Messenger, and email. Civi can help political parties, civic organizations, and elected officials manage daily operations, engage in mass communication, coordinate campaigns, plan activities and events, raise funds, and view reports on all those activities. Civi is used by over 10,000 non-profits and has been deployed by the National Democratic Institute in over 30 countries.\n\n",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/civicrm",
+  "organizations": [
+    {
+      "name": "CiviCRM LLC",
+      "org_type": "owner"
+    }
+  ]
+}
+
