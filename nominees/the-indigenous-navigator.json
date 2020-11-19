@@ -1,0 +1,94 @@
+{
+  "name": "The Indigenous Navigator",
+  "description": "A tool to monitor the implementation of the UNDRIP & SDGs as they relate to Indigenous Peoples",
+  "website": "https://www.indigenousnavigator.org",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-4.0",
+      "licenseURL": "https://www.indigenousnavigator.org"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ],
+    [
+      14,
+      "Life Below Water"
+    ],
+    [
+      15,
+      "Life On Land"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "https://www.ilo.org/global/docs/WCMS_760038/lang--en/index.htm; https://www.iwgia.org/en/resources/publications/3878-ini-covid-19-report.html; https://www.iwgia.org/en/resources/publications/3877-ini2020-experiences.html; https://www.iwgia.org/en/ip-i-iw/3656-iw-2020-navigator.html; The small grants facility also directly supports projects which together address every SDG.",
+  "sectors": [],
+  "type": [
+    "data",
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "The Indigenous Navigator",
+      "org_type": "owner"
+    }
+  ]
+}
+
