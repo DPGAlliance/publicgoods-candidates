@@ -1,5 +1,8 @@
 {
-  "name": "African Terrestrial Fibre Network Mapping Project (AfTerFibre)",
+  "name": "African Terrestrial Fibre Network Mapping Project",
+  "aliases": [
+    "AfTerFibre"
+  ],
   "description": "This is an Open Data, Open Source map of fibre optic infrastructure projects across the African continent.",
   "website": "https://afterfibre.nsrc.org",
   "license": [
