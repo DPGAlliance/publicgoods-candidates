@@ -1,0 +1,40 @@
+{
+  "name": "Drone Management System",
+  "description": "It is a web based system to manage a fleet of drones operating in the country",
+  "website": "http://dms.prokurainnovations.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/prokuranepal/DMS_React"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "SDGevidence": "The aim is to save lives with last mile delivery system in areas which are inaccessible via means of road transportation. The DMS (Drone Management System) helps to manage and monitor all the drones connected the system.\nhttps://news.trust.org/item/20180430000050-xvs99\nhttps://www.nepalitimes.com/banner/drones-to-the-rescue/\nhttps://www.np.undp.org/content/nepal/en/home/blog/2018/healthcare-on-wings.html\nhttps://thehimalayantimes.com/kathmandu/test-flight-of-medical-drones-to-begin-from-mid-april/\nhttps://myrepublica.nagariknetwork.com/news/locals-delighted-after-medical-drone-reaches-ramche-carrying-drugs/",
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "standard"
+  ],
+  "repositoryURL": "https://github.com/prokuranepal/DMS_React",
+  "organizations": [
+    {
+      "name": "Prokura Innovations Pvt. Ltd.",
+      "org_type": "owner"
+    }
+  ]
+}
+
