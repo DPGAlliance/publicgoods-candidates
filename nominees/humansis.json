@@ -1,64 +1,30 @@
 {
   "name": "Humansis",
-  "description": "Humansis provides a more open, secure, functional and easy to use method of aid delivery, promoting transparency, and reducing opportunities for fraud and data theft.",
-  "website": "https://www.humansis.org",
+  "description": "Humanitarian Delivery Platform",
+  "website": "https://www.humansis.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/humansis/front/blob/dev/LICENSE"
+      "licenseURL": "https://github.com/humansis/"
     }
   ],
   "SDGs": [
-    {
-      "SDGNumber": 1
-    },
-    {
-      "SDGNumber": 2
-    },
-    {
-      "SDGNumber": 3
-    },
-    {
-      "SDGNumber": 4
-    },
-    {
-      "SDGNumber": 5
-    },
-    {
-      "SDGNumber": 6
-    },
-    {
-      "SDGNumber": 7
-    },
-    {
-      "SDGNumber": 8
-    },
-    {
-      "SDGNumber": 9
-    },
-    {
-      "SDGNumber": 16
-    },
-    {
-      "SDGNumber": 17
-    }
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
   ],
+  "SDGevidence": "https://www.globalinnovationexchange.org/innovation/humansis",
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/humansis/front",
+  "repositoryURL": "https://github.com/humansis/",
   "organizations": [
     {
-      "name": "Digital Impact Alliance",
-      "website": "https://digitalimpactalliance.org",
-      "org_type": "owner"
-    },
-    {
-      "name": "Humansis",
-      "website": "https://humansis.org",
+      "name": "People in Need",
       "org_type": "owner"
     }
-  ],
-  "stage": "nominee"
+  ]
 }
+
