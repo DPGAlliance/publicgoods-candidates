@@ -9,6 +9,10 @@
     {
       "spdx": "CC-BY-4.0",
       "licenseURL": "https://afterfibre.nsrc.org/#aftAbout"
+    },
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/stevesong/nsrc-afterfibre/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -22,8 +26,10 @@
     "Digital/Data/Tech"
   ],
   "type": [
-    "data"
+    "data",
+    "software"
   ],
+  "repositoryURL": "https://github.com/stevesong/nsrc-afterfibre/",
   "organizations": [
     {
       "name": "Network Startup Resource Center (NSRC)",
