@@ -10,16 +10,30 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1
+      "SDGNumber": 1,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
     },
     {
-      "SDGNumber": 16
+      "SDGNumber": 9,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 10,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Economics/Finance",
+    "Digital/Data/Tech"
+  ],
   "type": [
     "software"
   ],

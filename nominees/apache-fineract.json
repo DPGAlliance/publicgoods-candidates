@@ -10,13 +10,16 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
     },
     {
-      "SDGNumber": 16
+      "SDGNumber": 16,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 17,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
     }
   ],
   "sectors": [],
