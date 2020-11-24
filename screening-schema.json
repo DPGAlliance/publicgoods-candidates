@@ -45,7 +45,7 @@
     },
     "dependencies": {
       "type": "object",
-      "description": "4. Does the license of libraries/dependencies undermind the openess of the project?",
+      "description": "4. Does the license of libraries/dependencies undermine the openess of the project?",
       "required": [
         "mandatoryDepsCreateMoreRestrictions"
       ],
@@ -475,11 +475,11 @@
       "type": "object",
       "description": "Development & deployment countries",
       "required": [
-        "developmentCounties",
+        "developmentCountries",
         "deploymentCountries"
       ],
       "properties": {
-        "developmentCounties": {
+        "developmentCountries": {
           "type": "array",
           "description": "List of countries this project was developed in.",
           "items": {

@@ -2,8 +2,8 @@
 git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-website && \
     git clone https://github.com/unicef/publicgoods-scripts.git ../publicgoods-scripts && \
     pushd ../publicgoods-scripts && \
-        ./static.bash && \
         npm install && \
+        ./static.bash && \
         node generate_screened.js && \
         node index.js && \
         node generate_nominees.js && \
