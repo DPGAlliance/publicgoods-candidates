@@ -1,0 +1,105 @@
+{
+  "name": "Geomancer",
+  "ownership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/thinkingmachines/geomancer"
+  },
+  "dependencies": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/thinkingmachines/geomancer",
+      "https://arxiv.org/abs/1910.05571"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Philippines’ Data Privacy Act",
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "isLocIntlAdherent": "Yes",
+    "locIntlComplianceList": [
+      "Philippines’ Data Privacy Act",
+      "General Data Protection Regulation (GDPR)"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "UNICEF Open Source Best Practices:",
+      "- Repository must provide design files that include photos / drawings, written instructions, other explanations for product setup / installation,",
+      "- Repository must provide design schematics / explanations using standard components and open source tools, when possible",
+      "- When distributing software and hardware, label versions, and define open and closed source tools included",
+      "- Project format on github must include a quick project overview (short description of the project’s goals & background)",
+      "- Project format on github must include info about the directory structure (brief description of what’s there, including aliases, commands)",
+      "- Project format on github must include info about how developers can get started developing (how to clone the repository, create a branch, install, copy a database)",
+      "- Project format on github must include code promotion workflow (this might be dependent on the license you choose, but outline if people should fork your repository, create feature branches, or commit to master branch",
+      "- Project format on github must include dev environment: outline development environment, and how to get code to various places in the environments",
+      "- Project format on github must include links to more information and project details including documentation, BOM, or schematics",
+      "- Project format on github must include test coverage metrics and process for running test coverage that can be reproduced",
+      "- Software/API: The source code for the application layer, including well-documented instructions for setting up the multiple components, deploying docker images, any drivers necessary for the chipsets should be included here as well. This should all be linked to on github. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We do not distribute or process Personally Identifiable Information, only openly available data from OpenStreetMap."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "OpenStreetMap Data",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "1 - https://wiki.osmfoundation.org/wiki/Privacy_Policy   \n 2 - https://www.geofabrik.de/geofabrik/imprint.html ",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Philippines"
+    ],
+    "deploymentCountries": [
+      "Philippines"
+    ]
+  }
+}
