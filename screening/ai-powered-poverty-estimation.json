@@ -1,0 +1,93 @@
+{
+  "name": "AI Powered Poverty Estimation",
+  "ownership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/thinkingmachines/ph-poverty-mapping/blob/master/LICENSE"
+  },
+  "dependencies": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Anyone who would like to replicate the project would need to use/avail of their own machines to train and/or run the AI models with applicable required hardware requirements. Also, the user would have to acquire their own imagery. The model training code can be used to train using alternative imagery sources. Note however that results may vary depending on the quality of imagery."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/thinkingmachines/ph-poverty-mapping"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Philippines’ Data Privacy Act",
+      "General Data Protection Regulation"
+    ],
+    "isLocIntlAdherent": "Yes",
+    "locIntlComplianceList": [
+      "Philippines’ Data Privacy Act",
+      "General Data Protection Regulation"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Google Responsible AI Practices: https://ai.google/responsibilities/responsible-ai-practices/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We did not publicly publish satellite images that would reveal people’s living situations. We did not try to de-anonymize the DHS training data used."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "Conditions of Use for The DHS Program datasets: https://dhsprogram.com/data/terms-of-use.cfm",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Philippines"
+    ],
+    "deploymentCountries": [
+      "Philippines"
+    ]
+  }
+}
