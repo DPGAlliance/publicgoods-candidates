@@ -1,0 +1,34 @@
+{
+  "name": "openIMIS",
+  "description": "An opensource tool to manage health financing schemes",
+  "website": "https://www.openimis.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0-only",
+      "licenseURL": "https://openimis.atlassian.net/wiki/spaces/OP/pages/40566798/Licenses"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "SDGevidence": "The project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\n\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries. \n\nSome documentation of openIMIS work: http://health.bmz.de/what_we_do/openimis/index.html ",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openimis",
+  "organizations": [
+    {
+      "name": "Deutsche Gesellschaft f?r Internationale Zusammenarbeit (GIZ)",
+      "org_type": "owner"
+    }
+  ]
+}
+
