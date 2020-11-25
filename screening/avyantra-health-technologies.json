@@ -1,0 +1,91 @@
+{
+  "name": "Avyantra Health Technologies",
+  "ownership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing"
+  },
+  "dependencies": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "In India, we currently do not have any legislation on Privacy Law but we are adhering to the standards followed for data privacy across the globe."
+    ],
+    "isLocIntlAdherent": "Yes",
+    "locIntlComplianceList": [
+      "We are currently complying with collection of non-personal data as per global security norms such as Global data protection regulation (GDPR)."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We are proposing to thoroughly validate our solution to mitigate any such effects."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "We are collecting date and place of birth of a baby/infant and no other information that can be linked or identified to the person."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We are collecting anonymized data (clinical data of patients) with prior approvals and clearances from hospitals."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "This project does not collect, store or distribute content"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
