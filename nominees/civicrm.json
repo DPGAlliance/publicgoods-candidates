@@ -10,12 +10,19 @@
   ],
   "SDGs": [
     {
+      "SDGNumber": 9,
+      "evidenceText": "CiviCRM is a tool for doing good, helping non-profits and associations around the world to engage with their constituents, and pool their innovation efforts together.",
+      "evidenceURL": "https://civicrm.org/case-studies"
+    },
+    {
       "SDGNumber": 16,
-      "evidenceText": "Without civic organizing there can be no collective action. Without collective action we cannot achieve the Sustainable Development Goals. Organizations are all about people. To be effective in driving social change, leaders need to know who their supporters are, understand their concerns, know how to reach and mobilize them, and target undecided citizens. Civi, a constituent relationship management (CRM) system, keeps track of relationships and enables easy outreach and input via SMS, Facebook Messenger, and email. Civi can help political parties, civic organizations, and elected officials manage daily operations, engage in mass communication, coordinate campaigns, plan activities and events, raise funds, and view reports on all those activities. Civi is used by over 10,000 non-profits and has been deployed by the National Democratic Institute in over 30 countries."
+      "evidenceText": "NDI.org uses CivICRM to promote democracy around the world as part of Demtools. They have interesting case studies on their sites about how CiviCRM was used in Ukraine or Côte d'Ivoire, for example.",
+      "evidenceURL": "https://dem.tools/"
     },
     {
       "SDGNumber": 17,
-      "evidenceText": "Without civic organizing there can be no collective action. Without collective action we cannot achieve the Sustainable Development Goals. Organizations are all about people. To be effective in driving social change, leaders need to know who their supporters are, understand their concerns, know how to reach and mobilize them, and target undecided citizens. Civi, a constituent relationship management (CRM) system, keeps track of relationships and enables easy outreach and input via SMS, Facebook Messenger, and email. Civi can help political parties, civic organizations, and elected officials manage daily operations, engage in mass communication, coordinate campaigns, plan activities and events, raise funds, and view reports on all those activities. Civi is used by over 10,000 non-profits and has been deployed by the National Democratic Institute in over 30 countries."
+      "evidenceText": "CiviCRM is an Open Source solution for non-profits. While technically one could argue that the technology is neutral, we all know technology isn't neutral, and we encourage collaboration between organisations 'whose fundamental objective is to make a meaningful difference in the world'.",
+      "evidenceURL": "https://civicrm.org/about"
     }
   ],
   "sectors": [
