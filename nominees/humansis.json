@@ -22,9 +22,24 @@
   "repositoryURL": "https://github.com/humansis/front",
   "organizations": [
     {
+      "name": "Humansis",
+      "website": "https://humansis.org",
+      "org_type": "owner"
+    },
+    {
       "name": "People in Need",
       "website": "https://www.clovekvtisni.cz/en/",
       "org_type": "owner"
+    },
+    {
+      "name": "Relief Applications",
+      "website": "https://reliefapplications.org/",
+      "org_type": "maintainer"
+    },
+    {
+      "name": "Digital Impact Alliance",
+      "website": "https://digitalimpactalliance.org",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
