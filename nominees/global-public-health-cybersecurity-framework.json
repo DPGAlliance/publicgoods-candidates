@@ -1,0 +1,29 @@
+{
+  "name": "Global Public Health Cybersecurity Framework",
+  "description": "Development and Addition of a Cybersecurity Assessment Section into Technology Involving Global Public Health",
+  "website": "https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1075&context=ijcic",
+  "license": [
+    {
+      "spdx": "CC-BY-1.0",
+      "licenseURL": "https://vc.bridgew.edu/ijcic/"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "SDGevidence": "The United Nations Sustainable Development Goal (SDG) 3 aims to ensure healthy lives and promote wellbeing for all. Ample digital health innovations aim to contribute to SDG 3. Specifically, SDG 3 states good health and wellbeing direct patient interaction, and thus health informatics and telemedicine can be improved through better connectivity. In 2017, the International Telecommunication Union (ITU), a specialized agency of the United Nations responsible for issues and\nconcerns related to information and communications technology, launched ?Digital Health for Africa.? This is a partnership to scale up the use of digital technologies to strengthen the delivery of public health services in Africa. Another such effort is ?Be He@lthy, Be Mobile,? a collaboration between ITU and the World Health Organization (WHO) that assists governments in introducing and scaling up digital\nmHealth services (International Telecommunications Union, 2017).\n\nAs technology health products and innovative digital solutions continue to increase, researchers and information technology engineers must always consider the risks associated with their technology implementations. Given the hyper-sensitivity and attention assumed to cybersecurity in this current day and climate, it would be negligent not to provide such a focus (Mierzwa et al., 2019). Cybersecurity risk assessments are valuable in protecting those populations to benefit with digital health solutions. Our goal is to provide an approachable cyersecurity framework that global public health researchers can approach with greater ease and confidence. ",
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Kean Center for Cybersecurity - Stan Mierzwa",
+      "org_type": "owner"
+    }
+  ]
+}
+
