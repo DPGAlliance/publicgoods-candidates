@@ -22,7 +22,6 @@
   ],
   "sectors": [],
   "type": [
-    "software",
     "content"
   ],
   "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
