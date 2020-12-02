@@ -20,13 +20,13 @@
     "nonPIIAccessMechanism": "The project allows each deployment to define what data they collect. Some of these could be non-PII data. "
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "MOSIP enables the compliance of privacy laws through its security and feature implementations. However, the owners of specific implementations are responsible for complying with legislations in their jurisdictions."
     ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [
-      ""
+      "The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
     ]
   },
   "standards": {
@@ -116,7 +116,7 @@
     }
   },
   "locations": {
-    "developmentCounties": [
+    "developmentCountries": [
       "India",
       "Philippines"
     ],
