@@ -1,0 +1,31 @@
+{
+  "name": "Oppia.org",
+  "description": "Free online learning resource containing engaging, effective, and accessible lessons that are meant to address the educational needs of the most underserved students.",
+  "website": "https://oppia.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/oppia/oppia"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ]
+  ],
+  "SDGevidence": "This resource was created at its core to make quality education accessible for all - especially those that do not have access to traditional educational materials, classrooms, or trained teachers. All students need to start learning is an internet connection and a smartphone or computer to get started. All of the lessons are interactive and include audio translations, and with the release of the first curated basic mathematics curriculum, anyone can use the platform to learn, practice, or review their basic numeracy skills - which are foundational for success both in and out of the classroom. By making the platform accessible via mobile phone, adding audio translations, and creating impactful lessons that truly engage and teach students, Oppia is an open resource that is meant to help everyone learn the skills they need to succeed. You can find more info about the organization behind the project at https://www.oppiafoundation.org/about and you can also read more about Oppia's impact and approach at https://www.oppiafoundation.org/about-oppia ",
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositoryURL": "https://github.com/oppia/oppia",
+  "organizations": [
+    {
+      "name": "Oppia Foundation",
+      "org_type": "owner"
+    }
+  ]
+}
+
