@@ -13,10 +13,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "The project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\n\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries.",
+      "evidenceURL": "http://health.bmz.de/what_we_do/openimis/index.html"
     },
     {
-      "SDGNumber": 9
+      "SDGNumber": 9,
+      "evidenceText": "The project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\n\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries.",
+      "evidenceURL": "http://health.bmz.de/what_we_do/openimis/index.html"
     }
   ],
   "sectors": [
@@ -29,13 +33,8 @@
   "repositoryURL": "https://github.com/openimis/web_app_vb",
   "organizations": [
     {
-      "name": "GIZ",
+      "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "website": "https://www.giz.de/en/html/index.html",
-      "org_type": "owner"
-    },
-    {
-      "name": "OpenIMIS",
-      "website": "https://openimis.org",
       "org_type": "owner"
     }
   ],
