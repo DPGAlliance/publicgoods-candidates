@@ -1,8 +1,5 @@
 {
-  "name": "Open Insurance Management Information System",
-  "aliases": [
-    "OpenIMIS"
-  ],
+  "name": "openIMIS",
   "description": "OpenIMIS is open source software that manages social (health) protection schemes. It links beneficiary, provider and payer data.",
   "website": "https://openimis.org",
   "license": [
@@ -35,6 +32,11 @@
     {
       "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "website": "https://www.giz.de/en/html/index.html",
+      "org_type": "owner"
+    },
+    {
+      "name": "OpenIMIS",
+      "website": "https://openimis.org",
       "org_type": "owner"
     }
   ],
