@@ -9,12 +9,11 @@
     }
   ],
   "SDGs": [
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/integreat-case-studies-sustainability-public-sector-open-source-communities \n https://integreat-app.de/en/concept/ \n https://tuerantuer.de/digitalfabrik/publikationen/"
+    }
   ],
-  "SDGevidence": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/integreat-case-studies-sustainability-public-sector-open-source-communities\nhttps://integreat-app.de/en/concept/\nhttps://tuerantuer.de/digitalfabrik/publikationen/",
   "sectors": [],
   "type": [
     "software"
@@ -22,9 +21,9 @@
   "repositoryURL": "http://github.com/integreat",
   "organizations": [
     {
-      "name": "T?r an T?r - Digitalfabrik gGmbH",
+      "name": "Tür an Tür - Digitalfabrik gGmbH",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
