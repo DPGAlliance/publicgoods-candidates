@@ -1,0 +1,36 @@
+{
+  "name": "SisuID",
+  "description": "Free open source digital authentication for eSocieties",
+  "website": "https://sisuid.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://sisuid.com"
+    }
+  ],
+  "SDGs": [
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ]
+  ],
+  "SDGevidence": "SisuID aims to provide affordable, inclusive and transparent digital trust infrastructure for the first step towards a digital society, digital identity and authentication.",
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "standard"
+  ],
+  "repositoryURL": "https://sisuid.com",
+  "organizations": [
+    {
+      "name": "SisuID Consortium (Note: the solution source code is to be released as open source. Currently part of the backend is published under Linux Foundation with project name Janssen)",
+      "org_type": "owner"
+    }
+  ]
+}
+
