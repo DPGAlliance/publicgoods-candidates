@@ -151,7 +151,7 @@
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
-          "description": "To the best of your knowledge does this project comply with all relevant privacy laws?",
+          "description": "To the best of your knowledge, does this project comply with all relevant privacy laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS).",
           "uniqueItems": true,
           "enum": [
             "Yes",
