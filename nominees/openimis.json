@@ -1,0 +1,44 @@
+{
+  "name": "openIMIS",
+  "description": "OpenIMIS is open source software that manages social (health) protection schemes. It links beneficiary, provider and payer data.",
+  "website": "https://openimis.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/openimis/web_app_vb/blob/master/GNU%20AFFERO%20GENERAL%20PUBLIC%20LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\n\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries.",
+      "evidenceURL": "http://health.bmz.de/what_we_do/openimis/index.html"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\n\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries.",
+      "evidenceURL": "http://health.bmz.de/what_we_do/openimis/index.html"
+    }
+  ],
+  "sectors": [
+    "Social Protection",
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openimis/web_app_vb",
+  "organizations": [
+    {
+      "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "website": "https://www.giz.de/en/html/index.html",
+      "org_type": "owner"
+    },
+    {
+      "name": "OpenIMIS",
+      "website": "https://openimis.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
