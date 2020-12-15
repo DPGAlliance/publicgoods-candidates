@@ -1,6 +1,6 @@
 {
   "name": "CommCare",
-  "description": "CommCare is an easily customizable, open source mobile platform that supports frontline workers in low-resource settings. By replacing paper-based forms, frontline workers can use CommCare to track and support their clients with registration forms, checklists, SMS reminders, and multimedia.",
+  "description": "CommCare is an easily customizable, open source mobile platform that supports frontline workers in low-resource settings. CommCare provides a no-code app building platform used for building powerful frontline service delivery and data collection applications. By replacing paper-based forms, frontline workers can use CommCare to track and support their clients with registration forms, checklists, SMS reminders, and multimedia.",
   "website": "https://www.dimagi.com/commcare",
   "license": [
     {
@@ -10,16 +10,28 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
     },
     {
-      "SDGNumber": 6
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.dimagi.com/blog/usaid-advancing-nutrition-2020/"
     },
     {
-      "SDGNumber": 10
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
     },
     {
-      "SDGNumber": 16
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     }
   ],
   "sectors": [],
