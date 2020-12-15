@@ -9,12 +9,12 @@
     }
   ],
   "SDGs": [
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ]
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Juniper is a tool that enables applications like the UNICEF CryptoFund",
+      "evidenceURL": "https://www.unicef.org/press-releases/unicef-launches-cryptocurrency-fund"
+    }
   ],
-  "SDGevidence": "Juniper is a tool that enables applications like the UNICEF CryptoFund - https://www.unicef.org/press-releases/unicef-launches-cryptocurrency-fund. ",
   "sectors": [],
   "type": [
     "software"
@@ -23,8 +23,9 @@
   "organizations": [
     {
       "name": "UNICEF",
+      "website": "https://unicef.org",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
