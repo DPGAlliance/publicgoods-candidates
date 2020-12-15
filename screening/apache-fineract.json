@@ -19,6 +19,7 @@
   },
   "NonPII": {
     "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
@@ -48,14 +49,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "https://www.apache.org/foundation/policies/privacy.html",
-      "additionalMitigationSteps": [
-        "Our social mission is imperative to the project and as a top-level project within the Apache Software Foundation, we adhere to all the norms, governance, policies and procedures of ASF and the Apache Way"
-      ]
-    },
-    "privacyFreedom": {
-      "freedomOfExpressionRiskStrategy": "Unknown",
-      "freedomOfExpressionRiskStrategyDescrition": "Since we're not directly hosting the software for the financial institutions using it, we're not directly engaged in strategies to respond to and minimize impact of govt. However we work to ensure all users of our software are in compliance and are adhering to principles around consumer protection and data privacy and are working to endorse and adopt standards around open source foundation identity like Mosip. "
+      "additionalInfoMechanismProcessesPolicies": "Our social mission is imperative to the project and as a top-level project within the Apache Software Foundation, we adhere to all the norms, governance, policies and procedures of ASF and the Apache Way \n https://www.apache.org/foundation/policies/privacy.html"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -90,7 +84,7 @@
     }
   },
   "locations": {
-    "developmentCounties": [
+    "developmentCountries": [
       "India",
       "Kenya",
       "Germany",

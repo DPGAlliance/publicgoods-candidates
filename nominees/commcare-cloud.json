@@ -10,7 +10,28 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.dimagi.com/blog/usaid-advancing-nutrition-2020/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     }
   ],
   "sectors": [],

@@ -17,6 +17,7 @@
   },
   "NonPII": {
     "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
@@ -48,14 +49,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "https://www.niis.org/procedure-for-use-of-data-and-data-processing",
-      "additionalMitigationSteps": [
-        ""
-      ]
-    },
-    "privacyFreedom": {
-      "freedomOfExpressionRiskStrategy": "Unknown",
-      "freedomOfExpressionRiskStrategyDescrition": ""
+      "additionalInfoMechanismProcessesPolicies": "https://www.niis.org/procedure-for-use-of-data-and-data-processing"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -90,7 +84,7 @@
     }
   },
   "locations": {
-    "developmentCounties": [
+    "developmentCountries": [
       "Estonia",
       "Finland"
     ],
