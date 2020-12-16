@@ -1,0 +1,39 @@
+{
+  "name": "Project Connect",
+  "description": "Project Connect aims to create a global, live map of schools and their connection to the internet",
+  "website": "https://projectconnect.unicef.io/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/unicef/magicbox-maps"
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "SDGevidence": "https://www.projectconnect.world/",
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/unicef/magicbox-maps",
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "org_type": "owner"
+    }
+  ]
+}
+
