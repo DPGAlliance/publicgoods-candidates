@@ -6,6 +6,10 @@
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/alextyers/period-tracker-app-whitelabelled/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://docs.google.com/document/d/15OngEE5xjxSF5hWezCPHTssApHhG4DFZ2EcMadl0EPA/edit"
     }
   ],
   "SDGs": [
