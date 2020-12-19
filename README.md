@@ -1,36 +1,32 @@
-# Candidates for Digital Public Goods
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) ![CI](https://github.com/unicef/publicgoods-candidates/workflows/CI/badge.svg)
 
-This repository is used to manage the process of adding candidates for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). This is one of four interconnected repositories; refer to the [publicgoods-website](https://github.com/unicef/publicgoods-website) for an overview.
 
-## How to submit a new candidate for a Digital Public Good
+# Nominees, Candidates and Digital Public Goods
 
-1. Go to the [candidates](https://github.com/unicef/publicgoods-candidates/tree/master/candidates) folder, and click on `Create new file`
-2. Name the new file with the name of the digital public good (or its initalism if the name is too long), and `.json` as the extension. For example: [wikipedia.json](https://github.com/unicef/publicgoods-candidates/blob/master/candidates/wikipedia.json) or [dhis2.json](https://github.com/unicef/publicgoods-candidates/blob/master/candidates/dhis2.json)
-3. Use the [template](https://github.com/unicef/publicgoods-candidates#template) from the section below to include the requested information. Be sure to include the fields marked `REQUIRED` with the corresponding information, as well as any `OPTIONAL` fields. Delete any lines marked `OPTIONAL` that you don't want to submit.
-4. Scroll down and accept the suggested field for the commit message `Create <filename>`, and choose `Create a new branch for this commit and start a pull request`. Click on `Propose new file`
-5. You are taken to a new page where you can leave a comment about the file you are about to propose to add, and finally click on `Create Pull Request`
-6. Wait for the green checkmark to say `All checks have passed` to have confirmation that the file complies with the expected format, and is ready to merge pending a review.
+Welcome! 👋 We are glad that have found this repo and you are interested in Digital Public Goods, and using technology to make this world  a more just and equitable one. We are in this together: the more the greater impact!
 
-## Template
+This repository is used to manage the process of adding nominees for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). This is one of four interconnected repositories; refer to the [publicgoods-website](https://github.com/unicef/publicgoods-website) for an overview.
+
+From the set of data files found in the `nominees/` folder, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
+
+## 🙋🏽 How to nominate a Digital Public Good
+
+Please read through our [contributing guidelines](/CONTRIBUTING.md). We are always accepting new nominations for Digital Public Goods.
+
+## 🛠 Development
+
+Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
+
+## :memo: License
 
 ```
-{
-        "name": "REQUIRED",
-        "initialism": "OPTIONAL",
-        "description": "REQUIRED",
-        "license": "REQUIRED",
-        "license_link": "OPTIONAL",
-        "website": "REQUIRED",
-        "SDGs": [REQUIRED, list SDGs by number],
-        "type": [REQUIRED, multiple choice from "software", "data", "standards"]
-}
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 ```
 
-## Requirements and Considerations
-
-For those projects that match [the initial set of requirements](https://digitalpublicgoods.net/public-goods/), anyone can open a [Pull Request](https://github.com/unicef/publicgoods-candidates/pulls) on this repository as a submission following these guidelines:
-- Data for each candidate is stored as a JSON file. JSON ([JavaScript Object Notation](https://www.json.org)) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.
-- Each candidate json file is kept under the `candidates/` folder, add yours there. Use any other of the existing candidates as a reference for what fields to include, and how to enter the required information.
-- Each candidate json file is validated using the [JSON-schema](https://json-schema.org) found at the root of this repository: [candidate-schema.json](candidate-schema.json). Each submission needs to pass the automated validation (`continuous-integration/travis-ci`) before being merged into the existing repository.
-
-From the set of candidate json files, [this list](https://digitalpublicgoods.net/candidate/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
+All the information compiled and aggregated in this repository is already in the public domain, thus  we dedicate this software to the public domain. As a result, we impose no limitations nor requirements of any kind of how you use it or reuse it. As a courtesy on your part, we would very much appreciate hearing from you either on how you are using the information in this repo, or any great ideas on how we can collaborate together.
+Email us at hello@digitalpublicgoods.net 💌

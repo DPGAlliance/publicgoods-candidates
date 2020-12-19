@@ -1,0 +1,36 @@
+{
+  "name": "Cold Chain and Vaccination Management System",
+  "aliases": [
+    "CCVMS"
+  ],
+  "description": "Monitoring and management tool for vaccine coverage and cold chain management.",
+  "website": "https://github.com/EL-BID/ccvms",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-ND-3.0",
+      "licenseURL": "https://github.com/EL-BID/API-SGiS/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/EL-BID/API-SGiS",
+  "organizations": [
+    {
+      "name": "InterAmerican Development Bank",
+      "website": "https://code.iadb.org/",
+      "org_type": "funder"
+    }
+  ]
+}

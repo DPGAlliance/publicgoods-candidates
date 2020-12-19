@@ -1,0 +1,37 @@
+{
+  "name": "MIT Climate Primer",
+  "description": "An interactive website that tells the story of climate change, from the Massachusetts Institute of Technology. Explore how scientists know what they know about how humans are changing Earth’s climate, what the known (and unknown) risks are, and what we can do.",
+  "website": "https://climateprimer.mit.edu",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://climateprimer.mit.edu/license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7
+    },
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 12
+    },
+    {
+      "SDGNumber": 13
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Massachusetts Institute of Technology",
+      "website": "https://climateprimer.mit.edu/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

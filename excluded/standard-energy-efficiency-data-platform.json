@@ -1,0 +1,36 @@
+{
+  "name": "Standard Energy Efficiency Data Platform",
+  "aliases": [
+    "SEED"
+  ],
+  "description": "The SEED Platform is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.",
+  "website": "https://www.energy.gov/eere/buildings/standard-energy-efficiency-data-seed-platform",
+  "license": [
+    {
+      "spdx": "BSD-4-Clause",
+      "licenseURL": "https://github.com/SEED-platform/seed/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/SEED-platform/seed",
+  "organizations": [
+    {
+      "name": "Office of Energy Efficiency and Renewable Energy",
+      "website": "https://energy.gov",
+      "org_type": "owner"
+    }
+  ]
+}

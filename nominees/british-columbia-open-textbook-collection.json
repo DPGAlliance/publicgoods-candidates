@@ -1,0 +1,33 @@
+{
+  "name": "British Columbia Open Textbook Collection",
+  "description": "A collection of open textbooks that can help improve the learning experience for students while mitigating the financial barriers keeping them from achieving their academic goals.",
+  "website": "https://open.bccampus.ca/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "BCcampus",
+      "website": "https://bccampus.ca/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Ministry of Advanced Education, Skills and Training, Government of British Columbia",
+      "website": "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/advanced-education-skills-training",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

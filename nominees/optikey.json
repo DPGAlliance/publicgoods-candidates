@@ -1,0 +1,29 @@
+{
+  "name": "OptiKey",
+  "description": "OptiKey - Full computer control and speech with your eyes.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/OptiKey/OptiKey/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/OptiKey/OptiKey",
+  "organizations": [
+    {
+      "name": "OptiKey",
+      "website": "https://www.optikey.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

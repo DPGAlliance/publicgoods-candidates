@@ -1,0 +1,37 @@
+{
+  "name": "Avyantra Health Technologies",
+  "description": "Helping the diagnosis of infants affected by neonatal sepsis using machine learning",
+  "website": "https://www.avyantra.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/kvklrao/Avyantra_Presco_Project/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.unicef.org/innovation/stories/avyantra-using-machine-learning-facilitate-early-treatment-infants-neonatal-sepsis"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://www.unicef.org/innovation/stories/avyantra-using-machine-learning-facilitate-early-treatment-infants-neonatal-sepsis"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/kvklrao/Avyantra_Presco_Project",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

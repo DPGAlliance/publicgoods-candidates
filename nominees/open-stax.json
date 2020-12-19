@@ -1,0 +1,28 @@
+{
+  "name": "Open Stax",
+  "description": "Publish high-quality, peer-reviewed, openly licensed college textbooks that are absolutely free online and low cost in print.",
+  "website": "https://openstax.org",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://openstax.org/license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Rice University",
+      "website": "https://openstax.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OER Africa",
+  "description": "OER Africa aims to provide a home for all African Open Education Resources (OER) courseware",
+  "website": "https://www.oerafrica.org",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "OER Africa",
+      "website": "https://oerafrica.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,20 @@
+name: Automatic Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependecies
+        run: npm install
+      - name: Deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
+        run: ./scripts/push.bash

@@ -1,0 +1,31 @@
+{
+  "name": "Public Library of Science",
+  "aliases": [
+    "PLOS"
+  ],
+  "description": "A library of open-access journal and other scientific literature under an open-content license.",
+  "website": "https://journals.plos.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://www.plos.org/license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "PLOS",
+      "website": "https://www.plos.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

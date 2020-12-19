@@ -1,0 +1,28 @@
+{
+  "name": "OpenStreetMap",
+  "description": "A map of the world, created by people like you and free to use under an open license.",
+  "website": "https://www.openstreetmap.org",
+  "license": [
+    {
+      "spdx": "ODbL-1.0",
+      "licenseURL": "https://www.openstreetmap.org/copyright"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "OpenStreetMap Foundation",
+      "website": "https://wiki.osmfoundation.org/wiki/Main_Page",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

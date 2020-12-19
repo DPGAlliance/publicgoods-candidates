@@ -1,0 +1,28 @@
+{
+  "name": "Digital Literacy Library",
+  "description": "Lesson plans designed by experts to help young people develop skills needed to navigate the digital world, critically consume information and responsibly produce and share content.",
+  "website": "https://www.facebook.com/safety/educators",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Facebook",
+      "website": "https://facebook.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

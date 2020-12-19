@@ -1,0 +1,54 @@
+{
+  "name": "Mojaloop",
+  "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
+  "website": "https://mojaloop.io/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+    }
+  ],
+  "sectors": [
+    "Economics/Finance",
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/mojaloop/mojaloop",
+  "organizations": [
+    {
+      "name": "MojaLoop",
+      "website": "https://mojaloop.io/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Bill & Melinda Gates Foundation",
+      "website": "https://www.gatesfoundation.org",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

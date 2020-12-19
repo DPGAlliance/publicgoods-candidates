@@ -1,0 +1,28 @@
+{
+  "name": "Practical Plants",
+  "description": "A collaboratively edited encyclopedia and database of information on plants cultivated with a practical intention.",
+  "website": "https://practicalplants.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://practicalplants.org/wiki/PracticalPlants:Copyrights"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Practical Plants",
+      "website": "https://practicalplants.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

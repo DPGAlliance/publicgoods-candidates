@@ -1,9 +1,0 @@
-{
-        "name": "RapidPro",
-        "description": "Open Source platform that allows anyone to build interactive messaging systems using an easy visual interface",
-        "license": "AGPLv3",
-        "license_link": "https://github.com/rapidpro/rapidpro/blob/master/LICENSE",
-        "website": "https://rapidpro.io",
-        "SDGs": [3, 10, 16],
-        "type": ["software"]
-}

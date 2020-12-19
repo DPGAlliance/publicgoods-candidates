@@ -1,0 +1,29 @@
+{
+  "name": "OpenMRS",
+  "description": "Software platform and reference application which enables design of a customized medical records system with no programming knowledge.",
+  "website": "https://openmrs.org",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://openmrs.org/license/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openmrs/openmrs-core",
+  "organizations": [
+    {
+      "name": "OpenMRS",
+      "website": "https://openmrs.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

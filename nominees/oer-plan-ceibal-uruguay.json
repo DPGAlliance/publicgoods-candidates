@@ -1,0 +1,44 @@
+{
+  "name": "OER Plan Ceibal Uruguay",
+  "description": "Repository of Open Educational Resources (OER) from Plan Ceibal Uruguay.",
+  "website": "https://rea.ceibal.edu.uy/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
+    },
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
+    },
+    {
+      "spdx": "CC-BY-NC-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://rea.ceibal.edu.uy/licenciamiento"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Plan Ceibal",
+      "website": "https://www.ceibal.edu.uy/",
+      "org_type": "owner",
+      "contact_email": "ceibal@ceibal.edu.uy"
+    }
+  ],
+  "stage": "nominee"
+}

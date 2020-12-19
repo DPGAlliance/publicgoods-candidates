@@ -1,0 +1,33 @@
+{
+  "name": "SkillsCommons",
+  "description": "Free and open digital library of Workforce Training Materials",
+  "website": "https://www.skillscommons.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Center for Usability in Design and Accessibility, California State University, Long Beach",
+      "website": "https://partner.skillscommons.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "US Department of Labor’s Trade Adjustment Assistance Community College and Career Training (TAACCCT) program",
+      "website": "https://www.dol.gov/agencies/eta/tradeact/community-colleges/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

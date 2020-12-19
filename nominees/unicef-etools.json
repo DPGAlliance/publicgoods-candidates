@@ -1,0 +1,32 @@
+{
+  "name": "UNICEF eTools",
+  "description": "eTools is an online platform that strengthens UNICEF country programme management for results.",
+  "website": "https://etoolsinfo.unicef.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/unicef/etools/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/unicef/etools",
+  "organizations": [
+    {
+      "name": "UNICEF Innovation",
+      "website": "https://www.unicef.org/innovation/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

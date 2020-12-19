@@ -1,0 +1,28 @@
+{
+  "name": "DataSF",
+  "description": "The official data portal to search hundreds of datasets from the City and County of San Francisco.",
+  "website": "https://datasf.org/opendata",
+  "license": [
+    {
+      "spdx": "PDDL-1.0",
+      "licenseURL": "https://www.opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "DataSF",
+      "website": "https://datasf.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

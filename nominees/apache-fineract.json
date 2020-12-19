@@ -1,0 +1,43 @@
+{
+  "name": "Apache Fineract",
+  "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
+  "website": "https://fineract.apache.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/apache/fineract/blob/develop/LICENSE_SOURCE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/apache/fineract",
+  "organizations": [
+    {
+      "name": "The Apache Software Foundation",
+      "website": "https://apache.org",
+      "org_type": "owner"
+    },
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

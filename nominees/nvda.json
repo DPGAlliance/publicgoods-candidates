@@ -1,0 +1,29 @@
+{
+  "name": "NVDA",
+  "description": "NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/nvaccess/nvda/blob/master/copying.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/nvaccess/nvda",
+  "organizations": [
+    {
+      "name": "NVAccess",
+      "website": "https://www.nvaccess.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

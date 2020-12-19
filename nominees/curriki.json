@@ -1,0 +1,28 @@
+{
+  "name": "Curriki",
+  "description": "A community for teaching or studying: Create, share, and explore high quality K-12 content..",
+  "website": "https://www.curriki.org",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-3.0",
+      "licenseURL": "https://www.curriki.org/terms-of-service"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Curriki",
+      "website": "https://www.curriki.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

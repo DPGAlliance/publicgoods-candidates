@@ -1,0 +1,36 @@
+{
+  "name": "Global Digital Library",
+  "aliases": [
+    "GDL"
+  ],
+  "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
+  "website": "https://home.digitallibrary.io/",
+  "license": [
+    {
+      "spdx": "CC-BY-3.0",
+      "licenseURL": "https://home.digitallibrary.io/cc/"
+    },
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://home.digitallibrary.io/cc/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
+  "organizations": [
+    {
+      "name": "Global Book Alliance",
+      "website": "https://www.globalbookalliance.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

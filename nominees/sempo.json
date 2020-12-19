@@ -1,0 +1,43 @@
+{
+  "name": "Sempo",
+  "description": "Inclusive payments for emerging markets",
+  "website": "https://withsempo.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/teamsempo/SempoBlockchain/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1
+    },
+    {
+      "SDGNumber": 8
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [
+    "Economics/Finance",
+    "Humanitarian",
+    "Transparency & Accountability",
+    "NGO"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/teamsempo/SempoBlockchain",
+  "organizations": [
+    {
+      "name": "Sempo",
+      "website": "https://withsempo.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

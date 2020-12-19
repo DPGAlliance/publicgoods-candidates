@@ -1,0 +1,34 @@
+{
+  "name": "Lockdown Learning Repository",
+  "description": "A device- and access-agnostic Glideapp-based resource repository for students, teachers, parents, and school leaders.",
+  "website": "https://lockdownlearning.glideapp.io",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Adhyayan Quality Education Services Pvt Ltd",
+      "website": "https://www.adhyayan.asia/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

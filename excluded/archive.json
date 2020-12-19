@@ -1,0 +1,28 @@
+{
+  "name": "Archive",
+  "description": "Web application aimed at public administrations for archiving of electronic documents and records. Provides a management system for multidepartamental centers, and the integration with external applications that manage public records.",
+  "website": "https://administracionelectronica.gob.es/ctt/archive",
+  "license": [
+    {
+      "spdx": "EUPL-1.1",
+      "licenseURL": "https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12"
+    }
+  ],
+  "SDGs": [
+    [
+      16,
+      "Peace, Justice and Strong Institutions"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "Technology Transfer Center, Government of Spain",
+      "website": "https://administracionelectronica.gob.es/",
+      "org_type": "owner"
+    }
+  ]
+}

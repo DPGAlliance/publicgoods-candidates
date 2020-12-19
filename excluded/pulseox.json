@@ -1,0 +1,29 @@
+{
+  "name": "PulseOx",
+  "description": "This device allows for the noninvasive measurement of an individual’s oxygen saturation. The open source pulse oximeter is about to begin clinical trials.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "TAPR-OHL-1.0",
+      "licenseURL": "https://github.com/GliaX/pulseox/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/GliaX/pulseox",
+  "organizations": [
+    {
+      "name": "Glia",
+      "website": "https://glia.org",
+      "org_type": "owner"
+    }
+  ]
+}

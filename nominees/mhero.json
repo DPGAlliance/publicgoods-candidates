@@ -1,0 +1,28 @@
+{
+  "name": "mHero",
+  "description": "mHero is a two-way, mobile phone-based communication system that uses basic text messaging, or SMS, to connect ministries of health and health workers.",
+  "website": "https://www.mhero.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.ihris.org/2007/07/ihris-under-gplv3/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "IntraHealth International",
+      "website": "https://www.intrahealth.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

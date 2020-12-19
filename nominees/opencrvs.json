@@ -1,0 +1,38 @@
+{
+  "name": "OpenCRVS",
+  "aliases": [
+    "Open Civil Registration and Vital Statistics"
+  ],
+  "description": "OpenCRVS is an open-source software for civil registration, designed for low resource settings",
+  "website": "https://www.opencrvs.org/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://www.opencrvs.org/license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "OpenCRVS is a digital public good to help achieve universal civil registration and evidence-based decision making in all country contexts.\nOpenCRVS was created in direct response to: \nSDG Goal/Target 16.9: \"By 2030, provide legal identity for all, including birth registration\"\nIndicator: Proportion of children under 5 years whose births have been registered with a civil authority, by age\n addition (as of March 2017), 67 of the 230 SDG indicators can be measured effectively by using data derived from well-functioning CRVS systems, in particular for the numerators (births, deaths) and denominators (total population, live births, total deaths). These indicators cover 12 of the SDG 17 goals (Goals 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, and 17).",
+      "evidenceURL": "https://documentation.opencrvs.org/opencrvs-core/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "OpenCRVS is a digital public good to help achieve universal civil registration and evidence-based decision making in all country contexts.\nOpenCRVS was created in direct response to: \nSDG Goal/Target 17.18: \"By 2020? increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics\nrelevant in national contexts\"\nIndicator 1: Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance\nwith the Fundamental Principles of Official Statistics\nSDG Goal/Target 17.19: \"By 2030? support statistical capacity building in countries\"\nIndicator 2: Proportion of countries that have conducted at least one population and housing census in the last 10 years and have achieved 100 percent birth\nregistration and 80 percent death registration.\nIn addition (as of March 2017), 67 of the 230 SDG indicators can be measured effectively by using data derived from well-functioning CRVS systems, in particular for the numerators (births, deaths) and denominators (total population, live births, total deaths). These indicators cover 12 of the SDG 17 goals (Goals 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, and 17).",
+      "evidenceURL": "https://documentation.opencrvs.org/opencrvs-core/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/opencrvs/opencrvs-core",
+  "organizations": [
+    {
+      "name": "Plan International Australia",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

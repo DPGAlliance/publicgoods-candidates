@@ -1,0 +1,29 @@
+{
+  "name": "StarHealth",
+  "description": "HealthTools is a suite of data-driven web and SMS-based tools that help citizens check everything from medicine prices and hospital services, to whether their doctor is a quack or not. The toolkit was pioneered in Kenya, and has since also been deployed in Ghana, Nigeria, and South Africa.",
+  "website": "https://health.the-star.co.ke/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth",
+  "organizations": [
+    {
+      "name": "Code for Africa",
+      "website": "https://codeforafrica.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "African Storybook",
+  "description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
+  "website": "https://www.africanstorybook.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Saide",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

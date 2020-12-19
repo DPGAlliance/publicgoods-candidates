@@ -1,0 +1,32 @@
+{
+  "name": "Global Open Facility Registry",
+  "aliases": [
+    "GOFR"
+  ],
+  "description": "The Facility Reconciliation Tool is an open source and open standards-based product used to compare lists of (health) facilities from different data sources.",
+  "website": "https://www.facilitymatch.net/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/openhie/facility-recon/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openhie/facility-recon",
+  "organizations": [
+    {
+      "name": "OpenHIE",
+      "website": "https://ohie.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

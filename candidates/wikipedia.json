@@ -1,9 +1,0 @@
-{
-	"name": "Wikipedia",
-	"description": "A multilingual, web-based, free encyclopedia based on a model of openly editable and viewable content, a wiki.",
-	"license": "CC BY-SA",
-	"license-link": "https://creativecommons.org/licenses/by-sa/3.0/",
-	"website": "https://www.wikipedia.org/",
-	"SDGs": [4],
-	"type": ["software", "data"]
-}

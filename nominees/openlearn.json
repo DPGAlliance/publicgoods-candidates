@@ -1,0 +1,28 @@
+{
+  "name": "OpenLearn",
+  "description": "Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.",
+  "website": "https://www.open.edu/openlearn/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://www.open.edu/openlearn/get-started/openlearn-welcomes-creative-commons-40"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Open University",
+      "website": "https://www.open.edu",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

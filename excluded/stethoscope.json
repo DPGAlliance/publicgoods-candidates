@@ -1,0 +1,29 @@
+{
+  "name": "Stethoscope",
+  "description": "Our open source stethoscope is research-validated to operate as well as a Littmann Cardiology III, but can be produced using 3D printed parts for a fraction of the price.",
+  "website": "https://glia.org/stethoscope/",
+  "license": [
+    {
+      "spdx": "TAPR-OHL-1.0",
+      "licenseURL": "https://github.com/GliaX/Stethoscope/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/GliaX/Stethoscope",
+  "organizations": [
+    {
+      "name": "Glia",
+      "website": "https://glia.org",
+      "org_type": "owner"
+    }
+  ]
+}
