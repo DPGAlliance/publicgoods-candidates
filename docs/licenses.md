@@ -27,6 +27,7 @@ CC-BY-NC-SA-1.0 | Creative Commons Attribution Non Commercial Share Alike 1.0 Ge
 CC-BY-NC-SA-2.0 | Creative Commons Attribution Non Commercial Share Alike 2.0 Generic
 CC-BY-NC-SA-2.5 | Creative Commons Attribution Non Commercial Share Alike 2.5 Generic
 CC-BY-NC-SA-3.0 | Creative Commons Attribution Non Commercial Share Alike 3.0 Unported
+CC-BY-NC-SA-3.0-US | Creative Commons Attribution Non Commercial Share Alike 3.0 United States
 CC-BY-NC-SA-4.0 | Creative Commons Attribution Non Commercial Share Alike 4.0 International
 CC-BY-SA-1.0 | Creative Commons Attribution Share Alike 1.0 Generic
 CC-BY-SA-2.0 | Creative Commons Attribution Share Alike 2.0 Generic
