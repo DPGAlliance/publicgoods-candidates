@@ -1,0 +1,58 @@
+{
+  "name": "high resolution population density data ",
+  "description": "Gridded, 30 m resolution population density data were developed combining existing open datasets",
+  "website": "https://www.unicef.org/innovation/Magicbox",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/dohyung-kim/population"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "SDGevidence": "https://github.com/dohyung-kim/population/blob/master/README.md",
+  "sectors": [],
+  "type": [
+    "data",
+    "aimodel"
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF ",
+      "org_type": "owner"
+    }
+  ]
+}
+
