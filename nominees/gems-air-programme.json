@@ -1,0 +1,29 @@
+{
+  "name": "GEMS Air Programme",
+  "description": "real-time air pollution monitoring and exposure",
+  "website": "https://www.iqair.com/unep",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://en.wikipedia.org/wiki/IQAir"
+    }
+  ],
+  "SDGs": [
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ]
+  ],
+  "SDGevidence": "This application provides real-time estimates for PM2.5 (11.6.2) globally at high resolution.  It applies AI and statistical methods to scale estimates and estimate real-time exposure to air pollution.\n\nhttps://www.unenvironment.org/explore-topics/air/what-we-do/monitoring-air-quality\n\nhttps://www.unenvironment.org/news-and-stories/press-release/worlds-largest-platform-air-quality-data-launched-tenth-world-urban\n\nhttps://medium.com/frontier-technologies-hub/pilot-story-internet-of-things-for-an-air-quality-data-revolution-8addc3c76125\n\n",
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "UN Environment Programme",
+      "org_type": "owner"
+    }
+  ]
+}
+
