@@ -1,0 +1,46 @@
+{
+  "name": "Period Dignity Bristol",
+  "description": "A map app to connect people with free menstrual products",
+  "website": "https://www.periodfriendlybristol.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/PeriodFriendlyBristol"
+    }
+  ],
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/PeriodFriendlyBristol",
+  "organizations": [
+    {
+      "name": "Bristol City Council ",
+      "org_type": "owner"
+    }
+  ]
+}
+
