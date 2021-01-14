@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[9]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "Timidan",
+  "timestamp": 1608081588
+}
