@@ -1,0 +1,34 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "That link points to the Apache 2.0 license",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes, specifically 1.4",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Yes, specifically 16.4 & 16.5",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Yes, Apache Fineract touches on most of the targets listed in Goal 17 such as 17.1-17.4.",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Yes, the ownership is clearly defined and well documented.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Yes, they provide extensive documentation to cover the criteria listed.",
+    "confidence": "5"
+  },
+  "user": "KZFlyer",
+  "timestamp": 1609037244
+}
