@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "The following statement appears in the link below: \n\"This software is under the terms and conditions of the GNU General Public License as published by the Free Software Foundation : version 2 of the License\".\nhttps://docs.google.com/document/d/1NW1N5AowWKiqWAPz6486xGIcXt7kUfMN/edit#\n\nGPL-3.0 improvement over V.2 should be considered in the final evaluation. ",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes, it is contributing to SDG 3.2",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "It is related to innovation but it does not contribute to any indicators.",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Yes, but with the consideration of the first comment",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "Amircode2050",
+  "timestamp": 1609176235
+}

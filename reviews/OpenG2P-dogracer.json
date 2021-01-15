@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "The core pieces of OpenG2P (ERP, payment, vouchering) seem to be released under the GPL-3.0 license. There are other pieces of the OpenG2P toolbox outside of this core functionality (7 repos) that are licensed in other ways.",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Efficient distribution of financial aid could help those living truly \"paycheck to paycheck\" with just in time money to buy food when hungry, but its a bit of a stretch to say that 'efficient cash transfers' directly contribute to this SDG.",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "Too much of a stretch to say that more efficient cash transfers will somehow lead to increased well-being. Seems like a separate problem space to me.",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "Sure more banking services for a population that previously went without should be able to save money more easily for tuition, remote learning equipment. However this doesn't seem strictly aligned with the projects 'key principles' and documentation on their site seems sparse about this.",
+    "confidence": "2"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Using technology to distribute funds instead of relying on people that could have gender bias issues to provide these basic banking services should help.",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "I don't see the connection to clean water.",
+    "confidence": "5"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "I don't see a strong connection to renewable or more affordable energy. ",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "This project seems like an ideal fit for delivering pandemic relief to a country's citizens to help them sustain livelihoods during crises.",
+    "confidence": "5"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "By removing a middleman from the relief distribution process, that should promote a more efficient lift to the impoverished; helping with income inequality.",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "An auditable system for payments and identity management should help provide untainted data/statistics and transparency.",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "one layer down in the online documentation, it is all @TODOs   that is not 'clearly defined and documented' by any stretch.  https://docs.openg2p.org/guides/",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "Again, all @TODOs even in the Quickstart tutorial section:\nhttps://docs.openg2p.org/guides/get-started/\nthat's pretty bad...",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "Export to CSV is mentioned and seems they have done what they can when possible for each building block to only keep data that is needed for each building block's function.",
+    "confidence": "4"
+  },
+  "user": "dogracer",
+  "timestamp": 1608358688
+}
