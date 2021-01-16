@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "The link is to the project GIT repository which is licenced under GPL-3.0 - actual source found by clicking into the project at this URL: https://github.com/OpenG2P/openg2p-erp/blob/master/LICENSE",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Specifically supports 1.4 with fair and equitable access to financial resources.",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "OpenG2P does not offer direct support to SDG 2.  It would arguably provide indirect support by ensuring that recipients of cash transfers could procure necessary food items where cash transfers had not been possible previously.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "Again, at best this would indirectly support SDG 3 by providing cash transfers where or if they had not previously been possible.",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "By utilising blockchain rather than physical cash yo",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "Specifically 8.10 access to banking and financial institutions.",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "Specificaly 10.2 would also assist in 10.5 as a usable dataset for governance.",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "Meets multiple technology and capacity building target requirements.",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "While the landing page appears to have all necessary content when you click through on a different sections you're met with no actual detail just \"Todo\"",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "The answer did not specifically deal with non-PII but branched into how to treat PII.  The project can export non-PII data in CSV.",
+    "confidence": "4"
+  },
+  "user": "hackleberryfinn",
+  "timestamp": 1610327467
+}
