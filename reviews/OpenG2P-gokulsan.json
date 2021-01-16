@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "A few of them are on Apache 2.0 license.",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "No evidence of poverty reduction related tools. OpenG2P tools are mostly focusing on civil registries and digital identities and digital payments. ",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Tools for Payments and Identity Management could help to target hunger eradication program to an extent. ",
+    "confidence": "3"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management could help to deliver good health and well being services. ",
+    "confidence": "2"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management could help to deliver targeted quality education services. ",
+    "confidence": "2"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management could help to deliver targeted gender equality services. ",
+    "confidence": "2"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management could help to deliver targeted clean water and sanitation services. ",
+    "confidence": "2"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management could help to deliver targeted clean energy  services. ",
+    "confidence": "2"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management and Digital Payment could help to deliver targeted clean water and sanitation services. ",
+    "confidence": "2"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "Tools for Digital Identity Management could help to deliver targeted clean water and sanitation services to an extent. ",
+    "confidence": "2"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "Tools for ERP could help to connect and collaborate on partnerships.",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "gokulsan",
+  "timestamp": 1608198833
+}
