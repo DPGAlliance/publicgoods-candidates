@@ -1,0 +1,44 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "Relevant but it does not address the indicators under SDG 9 directly.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "Relevant but it does not address the indicators under SDG 10 directly.",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "Relevant but it does not address the indicators under SDG 16 directly.",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "Amircode2050",
+  "timestamp": 1609178842
+}
