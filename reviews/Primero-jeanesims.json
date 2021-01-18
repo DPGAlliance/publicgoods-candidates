@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "The links go to SDG4 the link provided to evidence goes to the UNICEF website I can't see any evidence of what Primero is and how it will meet SDG5?",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "The link provided does it provide evidence the project will meet SDG8. Need to provide a link to some targeted information about how the project meets the SDG8.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The link provided does not support the SDG. It goes to the UNICEF site where you can search for evaluation reports.",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "No documentation available.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "jeanesims",
+  "timestamp": 1608468570
+}
