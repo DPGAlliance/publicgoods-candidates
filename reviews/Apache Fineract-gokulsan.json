@@ -1,0 +1,34 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Fineract platform could be used by micro finance institutions for the service delivery and hence it could help the poverty eradication programs. ",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "The platform architecture of FIneract will help us to build strong and justice driven institutions in financial services. ",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "gokulsan",
+  "timestamp": 1608205007
+}

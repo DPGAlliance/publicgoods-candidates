@@ -1,0 +1,69 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[8]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "bejarano-tech",
+  "timestamp": 1610481865
+}
