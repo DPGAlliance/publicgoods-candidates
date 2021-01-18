@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Most of the projects under openg2p are license under GPL-3.0",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "It quite possible that payment will be done on time.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "Clean water and sanitation are important but it all depends on the source. If there are no regularities then it is quite unhealthy to be able to get clean water and hygiene ",
+    "confidence": "2"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "1"
+  },
+  "SDG[9]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "aga7hokakological",
+  "timestamp": 1609914976
+}

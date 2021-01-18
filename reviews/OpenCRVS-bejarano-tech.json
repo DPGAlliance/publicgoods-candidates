@@ -2,7 +2,7 @@
   "license": {
     "answer": true,
     "comment": "",
-    "confidence": "2"
+    "confidence": "5"
   },
   "SDG[0]": {
     "answer": true,
@@ -12,12 +12,7 @@
   "SDG[1]": {
     "answer": true,
     "comment": "",
-    "confidence": "2"
-  },
-  "SDG[2]": {
-    "answer": false,
-    "comment": "",
-    "confidence": "2"
+    "confidence": "5"
   },
   "ownership": {
     "answer": true,
@@ -34,6 +29,6 @@
     "comment": "",
     "confidence": "4"
   },
-  "user": "twood25",
-  "timestamp": 1609054182
+  "user": "bejarano-tech",
+  "timestamp": 1610635434
 }
