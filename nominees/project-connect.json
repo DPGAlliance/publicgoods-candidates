@@ -9,20 +9,22 @@
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ]
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Project Connect continues as a venture inside UNICEF’s Office of Innovation within Magic Box, a platform for partners to come and connect their datasets and expertise to better understand the situation of children and youth, and to create insights that will help governments and other humanitarian actors improve their programmes around education, health and emergencies.     ",
+      "evidenceURL": "https://www.projectconnect.world/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Project Connect continues as a venture inside UNICEF’s Office of Innovation within Magic Box, a platform for partners to come and connect their datasets and expertise to better understand the situation of children and youth, and to create insights that will help governments and other humanitarian actors improve their programmes around education, health and emergencies.      ",
+      "evidenceURL": "https://www.projectconnect.world/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Project Connect continues as a venture inside UNICEF’s Office of Innovation within Magic Box, a platform for partners to come and connect their datasets and expertise to better understand the situation of children and youth, and to create insights that will help governments and other humanitarian actors improve their programmes around education, health and emergencies.     ",
+      "evidenceURL": "https://www.projectconnect.world/"
+    }
   ],
-  "SDGevidence": "https://www.projectconnect.world/",
   "sectors": [],
   "type": [
     "software",
@@ -34,6 +36,6 @@
       "name": "UNICEF",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
