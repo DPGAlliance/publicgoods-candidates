@@ -1,0 +1,59 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "n/a",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "leylas-acclab",
+  "timestamp": 1610467223
+}
