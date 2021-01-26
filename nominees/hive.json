@@ -1,6 +1,6 @@
 {
-  "name": "Hive: Drone Monitoring and Management System",
-  "description": "Web application to manage, control and monitor the network of drones",
+  "name": "Hive",
+  "description": "Drone Monitoring and Management System to manage, control and monitor the network of drones",
   "website": "http://dms.prokurainnovations.com",
   "license": [
     {
