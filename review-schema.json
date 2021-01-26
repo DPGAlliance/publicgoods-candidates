@@ -1,0 +1,75 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome",
+    "definitions": {
+        "Welcome": {
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "licensing": {
+                    "type": "string"
+                },
+                "sdgRelevance": {
+                    "type": "string"
+                },
+                "clearOwnership": {
+                    "type": "string"
+                },
+                "platformIndependence": {
+                    "type": "string"
+                },
+                "documentation": {
+                    "type": "string"
+                },
+                "extractionMechanism": {
+                    "type": "string"
+                },
+                "privacyAdherenceApplicableLaws": {
+                    "type": "string"
+                },
+                "standardsAdherenceBestPractices": {
+                    "type": "string"
+                },
+                "doNoHarm": {
+                    "type": "string"
+                },
+                "dataPrivacySecurity": {
+                    "type": "string"
+                },
+                "inappropriateIllegalContent": {
+                    "type": "string"
+                },
+                "harrassmentProtection": {
+                    "type": "string"
+                },
+                "developmentDeploymentCountries": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "clearOwnership",
+                "dataPrivacySecurity",
+                "description",
+                "developmentDeploymentCountries",
+                "doNoHarm",
+                "documentation",
+                "extractionMechanism",
+                "harrassmentProtection",
+                "inappropriateIllegalContent",
+                "licensing",
+                "name",
+                "platformIndependence",
+                "privacyAdherenceApplicableLaws",
+                "sdgRelevance",
+                "standardsAdherenceBestPractices"
+            ],
+            "title": "Technical review"
+        }
+    }
+}

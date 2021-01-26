@@ -4,11 +4,11 @@
   "description": "JSON schema validation for Digital Public Goods nominees",
   "main": "index.js",
   "scripts": {
-    "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\" && ajv validate -s screening-schema.json -d \"screening/*.json\"",
+    "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\" && ajv validate -s screening-schema.json -d \"screening/*.json\" && ajv validate -s review-schema.json -d \"reviews/technical-reviews/*.json\"",
     "check": "./scripts/check-filenames.bash",
     "check:fix": "./scripts/check-filenames.bash --fix",
-    "lint": "for f in ./nominees/*.json ./screening/*.json; do jsonlint \"$f\" > tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
-    "lint:fix": "for f in ./nominees/*.json ./screening/*.json; do echo \"$f\"; jsonlint \"$f\" -i; echo >> \"$f\"; done",
+    "lint": "for f in ./nominees/*.json ./screening/*.json ./reviews/technical-reviews/*.json; do jsonlint \"$f\" > tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
+    "lint:fix": "for f in ./nominees/*.json ./screening/*.json ./reviews/technical-reviews/*.json; do echo \"$f\"; jsonlint \"$f\" -i; echo >> \"$f\"; done",
     "order": "node scripts/order-fields.js",
     "order:fix": "node scripts/order-fields.js --fix"
   },
