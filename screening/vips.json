@@ -1,0 +1,96 @@
+{
+  "name": "VIPS",
+  "ownership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://nibio.no/en/services/vips"
+  },
+  "dependencies": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Incomplete documentation (Work in progress) available here: https://gitlab.nibio.no/VIPS/VIPSLogic/-/tree/develop/docs"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "REST"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "isLocIntlAdherent": "Yes",
+    "locIntlComplianceList": [
+      "GDPR"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      "",
+      ""
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Email",
+        "Phone number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Access to PII requires valid login. Servers are in-house, safe from e.g. the US Patriot Act."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Weather data, risk model outputs, field observations of pests",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Norway"
+    ],
+    "deploymentCountries": [
+      "Norway",
+      "Sweden",
+      "India"
+    ]
+  }
+}
