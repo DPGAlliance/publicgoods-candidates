@@ -31,13 +31,21 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTTPS",
+      "HTML5",
+      "CSS",
+      "JSON",
+      "Rest",
+      "AJAX",
+      "Java EE compliant",
+      "i10n",
+      "i18n"
     ],
     "evidenceStandardSupport": [
-      "",
-      ""
+      "https://gitlab.nibio.no/VIPS/VIPSLogic",
+      "https://gitlab.nibio.no/VIPS/VIPSWeb"
     ],
     "implementBestPractices": "No",
     "bestPracticesList": [
@@ -46,8 +54,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "VIPS uses the https protocol to ensure safe communication between the user and the system. \n VIPS requires authentication to edit data. Users' personal data is only available to them. \n Geolocation data of field pest observations can be hidden or obfuscated by the user. \n Users in the admin system are assigned only the relevant roles for them. \n Credentials are encrypted on the server. \n All new functionality is tested using unit tests and subsequently functionality tested by VIPS staff before it's deployed to production."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
