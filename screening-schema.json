@@ -6,8 +6,8 @@
   "title": "Digital Public Good",
   "required": [
     "name",
-    "ownership",
-    "dependencies",
+    "clearOwnership",
+    "platformIndependence",
     "documentation",
     "NonPII",
     "locations",
@@ -20,7 +20,7 @@
       "type": "string",
       "description": "The name of the Digital Public Good."
     },
-    "ownership": {
+    "clearOwnership": {
       "type": "object",
       "description": "3. Is ownership clearly defined?",
       "required": [
@@ -43,7 +43,7 @@
         }
       }
     },
-    "dependencies": {
+    "platformIndependence": {
       "type": "object",
       "description": "4. Does the license of libraries/dependencies undermine the openess of the project?",
       "required": [

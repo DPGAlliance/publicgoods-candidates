@@ -1,10 +1,10 @@
 {
   "name": "Apache Fineract",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://www.apache.org/legal/src-headers.html"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
