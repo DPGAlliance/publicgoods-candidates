@@ -5,15 +5,15 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-client"
+      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-client/blob/master/LICENSE"
     },
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server"
+      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server/blob/master/LICENSE"
     },
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-wrapper"
+      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-wrapper/blob/master/LICENSE"
     }
   ],
   "SDGs": [
