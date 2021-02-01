@@ -9,38 +9,42 @@
     }
   ],
   "SDGs": [
-    [
-      5,
-      "Gender Equality"
-    ],
-    [
-      6,
-      "Clean Water and Sanitation"
-    ],
-    [
-      10,
-      "Reduced Inequalities"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ],
-    [
-      17,
-      "Partnerships for the Goals"
-    ]
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690"
+    }
   ],
-  "SDGevidence": "https://www.bristolpost.co.uk/news/bristol-news/period-poverty-period-friendly-bristol-3657690",
-  "sectors": [],
+  "sectors": [
+    "Gender and Minority Groups",
+    "Sustainable Cities",
+    "Water and Sanitation"
+  ],
   "type": [
     "software"
   ],
   "repositoryURL": "https://github.com/PeriodFriendlyBristol",
   "organizations": [
     {
-      "name": "Bristol City Council ",
+      "name": "Bristol City Council",
+      "website": "https://www.bristol.gov.uk/",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
