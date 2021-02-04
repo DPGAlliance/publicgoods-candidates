@@ -5,15 +5,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-client/blob/master/LICENSE"
-    },
-    {
-      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server/blob/master/LICENSE"
-    },
-    {
-      "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-wrapper/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -46,7 +38,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/PeriodFriendlyBristol",
+  "repositoryURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server",
   "organizations": [
     {
       "name": "Bristol City Council",
