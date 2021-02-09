@@ -1,10 +1,10 @@
 {
   "name": "MET Norway Weather API",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "Unless specified otherwise, all data and products are licensed under the Norwegian Licence for Open Government Data (NLOD) 2.0 and Creative Commons 4.0 BY International licences, see https://api.met.no/doc/License and https://developer.yr.no/doc/License/ and references therein. The Norwegian Meteorological Institute's official data sources and products are freely available to the public for use, dissemination and further processing. The same applies to our open download services. Exceptions to the free principle apply to customised deliveries and with the dissemination of data produced by partners, or if special  delivery guarantees are required. The latter does not apply to Met Norway Weather."
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
