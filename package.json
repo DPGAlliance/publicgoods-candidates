@@ -18,7 +18,9 @@
     "ajv-cli": "^3.1.0",
     "btoa": "^1.2.1",
     "csvtojson": "^2.0.10",
+    "del": "^6.0.0",
     "husky": "^4.2.3",
+    "isomorphic-git": "^1.8.0",
     "jsonlint": "^1.6.3",
     "request": "^2.88.2"
   },
@@ -28,6 +30,7 @@
     }
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "minimist": "^1.2.3"
   }
 }
