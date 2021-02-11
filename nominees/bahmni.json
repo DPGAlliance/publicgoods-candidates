@@ -10,13 +10,16 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
     },
     {
-      "SDGNumber": 10
+      "SDGNumber": 10,
+      "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 17,
+      "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
     }
   ],
   "sectors": [
