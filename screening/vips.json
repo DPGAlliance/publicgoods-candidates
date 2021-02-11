@@ -1,10 +1,10 @@
 {
   "name": "VIPS",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://nibio.no/en/services/vips"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
