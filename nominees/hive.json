@@ -1,7 +1,7 @@
 {
   "name": "Hive",
   "description": "Drone Monitoring and Management System to manage, control and monitor the network of drones",
-  "website": "http://dms.prokurainnovations.com",
+  "website": "https://dms.prokurainnovations.com",
   "license": [
     {
       "spdx": "MIT",
@@ -40,7 +40,7 @@
     },
     {
       "name": "UNICEF Innovation Fund",
-      "website": "http://www.unicefinnovationfund.org/home",
+      "website": "https://www.unicefinnovationfund.org/home",
       "org_type": "funder"
     }
   ],
