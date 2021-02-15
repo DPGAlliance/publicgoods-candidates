@@ -1,10 +1,10 @@
 {
   "name": "Modular Open Source Identity Plaform",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://www.mosip.io/resource/ip-policy-trademark-and-copyright"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
     "pltIndependenceDesc": "For evey closed source software and hardware component that MOSIP interacts with, we provide standard interfaces for interaction. Either by using existing open standards (ex: For HSM we use JCE), or by defining standard interfaces for conformance (ex: MOSIP biometrics interfaces)"
