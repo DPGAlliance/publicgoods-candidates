@@ -5,39 +5,44 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/farmbot"
+      "licenseURL": "https://github.com/FarmBot/farmbot_os/blob/staging/LICENSE"
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ],
-    [
-      2,
-      "Zero Hunger"
-    ],
-    [
-      3,
-      "Good Health and Well-Being"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 1,
+      "evidenceText": "The FarmBot is an agriculture robotic farming machine which aims to \"Create an open and accessible technology aiding everyone to grow food and to grow food for everyone.\" The FarmBot device is an open source, precision agriculture computer numerical controlled gardening tool to help you grow vegetables. Users can add, update and modify the open source project's hardware, software and documentation."
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "The FarmBot is an agriculture robotic farming machine which aims to \"Create an open and accessible technology aiding everyone to grow food and to grow food for everyone.\" The FarmBot device is an open source, precision agriculture computer numerical controlled gardening tool to help you grow vegetables. Users can add, update and modify the open source project's hardware, software and documentation."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The FarmBot is an agriculture robotic farming machine which aims to \"Create an open and accessible technology aiding everyone to grow food and to grow food for everyone.\" The FarmBot device is an open source, precision agriculture computer numerical controlled gardening tool to help you grow vegetables. Users can add, update and modify the open source project's hardware, software and documentation.",
+      "evidenceURL": "https://www.youtube.com/channel/UC2O2FyrBnJjzyTSKHxpa9_A"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The FarmBot is an agriculture robotic farming machine which aims to \"Create an open and accessible technology aiding everyone to grow food and to grow food for everyone.\" The FarmBot device is an open source, precision agriculture computer numerical controlled gardening tool to help you grow vegetables. Users can add, update and modify the open source project's hardware, software and documentation.",
+      "evidenceURL": "https://www.youtube.com/channel/UC2O2FyrBnJjzyTSKHxpa9_A"
+    }
   ],
-  "SDGevidence": "The FarmBot is an agriculture robotic farming machine which aims to \"Create an open and accessible technology aiding everyone to grow food and to grow food for everyone.\" The FarmBot device is an open source, precision agriculture computer numerical controlled gardening tool to help you grow vegetables. Users can add, update and modify the open source project's hardware, software and documentation.\n\nFor complete details of the project view our videos on our YouTube Channel\nhttps://www.youtube.com/channel/UC2O2FyrBnJjzyTSKHxpa9_A",
-  "sectors": [],
+  "sectors": [
+    "Agriculture",
+    "Digital/Data/Tech",
+    "Engineering"
+  ],
   "type": [
-    "software",
-    "standard"
+    "software"
   ],
-  "repositoryURL": "https://github.com/farmbot",
+  "repositoryURL": "https://github.com/FarmBot/farmbot_os",
   "organizations": [
     {
-      "name": "Rory Aronson and Rick Carlino",
+      "name": "FarmBot Inc",
+      "website": "https://farm.bot/",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
