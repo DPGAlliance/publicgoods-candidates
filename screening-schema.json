@@ -170,6 +170,17 @@
             ]
           }
         },
+        "adherenceSteps": {
+          "type": "array",
+          "description": "If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
         "isLocIntlAdherent": {
           "type": "string",
           "description": "To the best of your knowledge does this project comply with all applicable international and domestic laws?",

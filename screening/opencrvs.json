@@ -24,6 +24,9 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
       "OpenCRVS is configurable to ensure that it remains within the privacy laws of the jurisdiction in which it is implemented. A number of product features facilitate data protection and confidentiality: \n- access to the system follows a strict role-based permission model to ensure that personally identifiable data is only accessible to those that need it for genuine business purposes (e.g. validating a birth registration application). \n- data subjects are required to give their consent before the collection of personal data (e.g. during the birth registration application). \n- data subjects have the right to rectify data related to them, if it is inaccurate or incomplete (e.g. through the correct record function)."
     ],
     "isLocIntlAdherent": "Yes",
