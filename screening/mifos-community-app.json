@@ -24,6 +24,9 @@
     "privacyComplianceList": [
       "GDPR"
     ],
+    "adherenceSteps": [
+      ""
+    ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [
       "OFAC"

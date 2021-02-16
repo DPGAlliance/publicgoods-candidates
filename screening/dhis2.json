@@ -26,6 +26,9 @@
       "All activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation.",
       "For countries using the DHIS2 software in other regions are responsible for complying with local legislation"
     ],
+    "adherenceSteps": [
+      ""
+    ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [
       "All activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation.",

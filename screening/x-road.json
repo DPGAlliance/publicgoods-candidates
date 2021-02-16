@@ -25,6 +25,9 @@
     "privacyComplianceList": [
       "GDPR"
     ],
+    "adherenceSteps": [
+      ""
+    ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [
       "All relevant Estonian domestic laws (including Public Information Act and related regulations)",

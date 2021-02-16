@@ -23,7 +23,13 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/July%202020%20Community%20Event/Presentations/Code%20Quality%20Security%20PI%2010%20Report%20-%2020%20July%202020%20v1.9%20Final.pdf"
+      "EEA Data Subject"
+    ],
+    "adherenceSteps": [
+      "Below are the external links to Mojaloop's terms of use, privacy policy and other relevant documentation:",
+      "- https://mojaloop.io/terms-of-use/",
+      "- https://mojaloop.io/privacy-policy/",
+      "- https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/July%202020%20Community%20Event/Presentations/Code%20Quality%20Security%20PI%2010%20Report%20-%2020%20July%202020%20v1.9%20Final.pdf"
     ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [

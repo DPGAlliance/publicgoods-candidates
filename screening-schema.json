@@ -151,7 +151,7 @@
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
-          "description": "To the best of your knowledge, does this project comply with all relevant privacy laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS).",
+          "description": "Has this project taken steps to ensure adherence with relevant privacy, domestic, and international laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS) (yes/no)",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -161,7 +161,18 @@
         },
         "privacyComplianceList": {
           "type": "array",
-          "description": "If yes - please list the relevant privacy laws that the project complies with:",
+          "description": "If yes, please list some of relevant laws that the project complies with:",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "adherenceSteps": {
+          "type": "array",
+          "description": "If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):",
           "items": {
             "anyOf": [
               {
