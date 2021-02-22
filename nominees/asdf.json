@@ -1,0 +1,30 @@
+{
+  "name": "asdf",
+  "description": "asdf",
+  "website": "https://digitallibrary.io",
+  "license": [
+    {
+      "spdx": "Apache-1.1",
+      "licenseURL": "https://digitallibrary.io"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ]
+  ],
+  "SDGevidence": "asdfads",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://digitallibrary.io",
+  "organizations": [
+    {
+      "name": "asdf",
+      "org_type": "owner"
+    }
+  ]
+}
+
