@@ -6,10 +6,6 @@
     {
       "spdx": "CC-BY-4.0",
       "licenseURL": "https://developer.yr.no/doc/License/"
-    },
-    {
-      "spdx": "NLOD-1.0",
-      "licenseURL": "https://api.met.no/license_data.html"
     }
   ],
   "SDGs": [
