@@ -1,10 +1,10 @@
 {
   "name": "DHIS2",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
@@ -25,6 +25,9 @@
     "privacyComplianceList": [
       "All activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation.",
       "For countries using the DHIS2 software in other regions are responsible for complying with local legislation"
+    ],
+    "adherenceSteps": [
+      ""
     ],
     "isLocIntlAdherent": "Yes",
     "locIntlComplianceList": [

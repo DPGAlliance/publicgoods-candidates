@@ -1,10 +1,10 @@
 {
   "name": "OpenG2P",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://docs.openg2p.org/"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
@@ -23,7 +23,10 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "OpenG2P components are flexible to be used within country specific privacy laws, however for users needing to store PII, e.g. Beneficiary Database follow a minimum set of data-handling conventions and procedures as per the Guiding Principles of OpenG2P:",
+      "OpenG2P components are flexible to be used within country specific privacy laws."
+    ],
+    "adherenceSteps": [
+      "For users needing to store PII, e.g. Beneficiary Database follow a minimum set of data-handling conventions and procedures as per the Guiding Principles of OpenG2P:",
       "a. Data should be encrypted at rest, advisably with a regularly rotating key scheme and these keys kept safely off system.",
       "c. All-access should via strong authentication mechanism and permissioned; this also includes access to other OpenG2P projects.",
       "d. Datastore should not be on a internet-facing network.",
