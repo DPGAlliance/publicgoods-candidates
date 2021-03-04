@@ -25,11 +25,8 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "MOSIP enables the compliance of privacy laws through its security and feature implementations. However, the owners of specific implementations are responsible for complying with legislations in their jurisdictions."
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
+      "- MOSIP enables the compliance of privacy laws through its security and feature implementations. However, the owners of specific implementations are responsible for complying with legislations in their jurisdictions.",
+      "- The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
     ]
   },
   "standards": {
