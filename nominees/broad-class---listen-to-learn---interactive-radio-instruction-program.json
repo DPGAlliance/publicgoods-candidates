@@ -1,0 +1,37 @@
+{
+  "name": "\"Broad Class - Listen to Learn\" - Interactive Radio Instruction Program",
+  "description": "Broadclass is an outreach program to improve the quality, equity and inclusiveness of education and is a viable route for achieving SDGs",
+  "website": "https://www.power99.foundation",
+  "license": [
+    {
+      "spdx": "Unlicense",
+      "licenseURL": "https://www.power99.foundation "
+    }
+  ],
+  "SDGs": [
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "SDGevidence": "www.facebook.com/broadclass; https://en.unesco.org/news/radio-monologues",
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "POWER99 Foundation",
+      "org_type": "owner"
+    }
+  ]
+}
+
