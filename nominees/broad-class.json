@@ -1,0 +1,37 @@
+{
+  "name": "Broad Class",
+  "description": "Broadclass is an outreach program to improve the quality, equity and inclusiveness of education and is a viable route for achieving SDGs",
+  "website": "https://www.power99.foundation",
+  "license": [
+    {
+      "spdx": "Unlicense",
+      "licenseURL": "https://www.power99.foundation "
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "www.facebook.com/broadclass; https://en.unesco.org/news/radio-monologues"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "www.facebook.com/broadclass; https://en.unesco.org/news/radio-monologues"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "www.facebook.com/broadclass; https://en.unesco.org/news/radio-monologues"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "POWER99 Foundation",
+      "website": "https://www.power99.foundation",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
