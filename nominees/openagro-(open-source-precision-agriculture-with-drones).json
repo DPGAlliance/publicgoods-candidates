@@ -1,0 +1,39 @@
+{
+  "name": "OpenAgro (Open Source Precision Agriculture with Drones)",
+  "description": "Set of Machine Learning Algorithms & Computer Vision developed with the goal of determining health states and relevant information for efficient management of resources of different types of crops using drone data (UAV)",
+  "website": "https://rentadrone.cl/developers/precision-agriculture-maps/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/RentadroneCL/Precision_Agriculture/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ]
+  ],
+  "SDGevidence": "https://journals.urfu.ru/index.php/r-economy/article/view/3531/2875",
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositoryURL": "https://github.com/RentadroneCL/Precision_Agriculture",
+  "organizations": [
+    {
+      "name": "Rentadrone.cl",
+      "org_type": "owner"
+    }
+  ]
+}
+
