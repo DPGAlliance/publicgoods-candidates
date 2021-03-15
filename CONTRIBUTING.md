@@ -99,9 +99,14 @@ Please correct any errors until you see that all checks pass
                         "licenseURL": "Link to the license under which this nominee is released"
                 }
         ],
-        "SDGs": [REQUIRED, Array of objects listing SDGs by number and name that this project is relevant to],
-        "SDGevidence": [REQUIRED, provide links or information to support this relevance as a text field]
-        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
+        "SDGs": [REQUIRED, Array of objects (at least one object is required):
+                {
+                        "SDGNumber": "Number of the Sustainable Development Goal",
+                        "evidenceText": "provide information to support this relevance",
+                        "evidenceURL": "provide links to support this relevance"
+                }
+        ],
+        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.],
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
         "repositoryURL": "OPTIONAL: Link to main repository",
         "organizations": [REQUIRED, Array of objects (at least one object is required):
@@ -112,7 +117,8 @@ Please correct any errors until you see that all checks pass
                         "contact_name": "OPTIONAL - Name of contact individual in the organization",
                         "contact_email": "OPTIONAL - Email for contact individual in the organization"
                 }
-        ]
+        ],
+        "stage": "REQUIRED: Screening stage of Digital Public Good"
 }
 ```
 
