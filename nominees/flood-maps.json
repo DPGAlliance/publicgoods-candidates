@@ -1,0 +1,41 @@
+{
+  "name": "Flood Maps",
+  "description": "A simple web map to visualize flood information on maps.",
+  "website": "http://osm-in.github.io/flood-map/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/osm-in/flood-map/blob/gh-pages/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://www.thehindu.com/news/cities/chennai/crowdsourced-map-to-mark-inundated-areas/article7935008.ece"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/osm-in/flood-map",
+  "organizations": [
+    {
+      "name": "Aruna Sankaranarayan",
+      "org_type": "maintainer"
+    },
+    {
+      "name": "Arun ganesh",
+      "org_type": "maintainer"
+    },
+    {
+      "name": "Sajjad Anwar",
+      "org_type": "maintainer"
+    },
+    {
+      "name": "Sanjay Bhangar",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "nominee"
+}
