@@ -21,20 +21,9 @@
   "repositoryURL": "https://github.com/osm-in/flood-map",
   "organizations": [
     {
-      "name": "Aruna Sankaranarayan",
-      "org_type": "maintainer"
-    },
-    {
-      "name": "Arun ganesh",
-      "org_type": "maintainer"
-    },
-    {
-      "name": "Sajjad Anwar",
-      "org_type": "maintainer"
-    },
-    {
-      "name": "Sanjay Bhangar",
-      "org_type": "maintainer"
+      "name": "OpenStreetMap",
+      "website": "https://www.openstreetmap.org/",
+      "org_type": "owner"
     }
   ],
   "stage": "nominee"
