@@ -1,0 +1,29 @@
+{
+    "name": "ACRT API",
+    "description": "Core API for Africa COVID-19 Response Toolkit. Ingests and pushes data to Toolkit components.",
+    "website": "https://github.com/africa-covid-19-response-toolkit/api",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/africa-covid-19-response-toolkit/api/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3
+      }
+    ],
+    "type": [
+      "data"
+    ],
+    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/api",
+    "organizations": [
+      {
+        "name": "Ethiopia COVID-19 Response Team",
+        "website": "https://ethiocovid19rt.com/",
+        "org_type": "owner",
+        "contact_email": "acrt@ethiocovid19rt.com"
+      }
+    ],
+    "stage": "nominee"
+  }

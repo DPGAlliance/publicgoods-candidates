@@ -1,0 +1,29 @@
+{
+    "name": "ACRT House Vacancy Bot",
+    "description": "A Telegram bot that allows housing officials/owners to report vacancy to a central source and allows health works/government officials to consume that information.",
+    "website": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot",
+    "organizations": [
+      {
+        "name": "Ethiopia COVID-19 Response Team",
+        "website": "https://ethiocovid19rt.com/",
+        "org_type": "owner",
+        "contact_email": "acrt@ethiocovid19rt.com"
+      }
+    ],
+    "stage": "nominee"
+  }
