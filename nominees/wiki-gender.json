@@ -10,10 +10,13 @@
     ],
     "SDGs": [
             {
-                    "SDGNumber": "5"
+                    "SDGNumber": 5
             }
     ],
-    "type": ["software", "data"],
+    "sectors": [],
+    "type": [
+        "software"
+    ],
     "repositoryURL": "https://github.com/wiki-gender/wiki-gender.github.io",
     "organizations": [
             {
