@@ -1,7 +1,7 @@
 {
   "name": "Awareness Website",
   "description": "A static public website that any government body can use to spread awareness about COVID-19 to their population.",
-  "website": "http://ethiopia-covid19.com/",
+  "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
