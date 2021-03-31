@@ -4,7 +4,7 @@
   "website": "https://www.ushahidi.com/",
   "license": [
     {
-      "spdx": "LGPL-3.0-only",
+      "spdx": "LGPL-3.0",
       "licenseURL": "https://github.com/ushahidi/Ushahidi_Web/blob/develop/License.txt"
     }
   ],
