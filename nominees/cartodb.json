@@ -10,13 +10,16 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 8
+      "SDGNumber": 8,
+      "evidenceURL": "https://carto.com/industries/financial-services/"
     },
     {
-      "SDGNumber": 9
+      "SDGNumber": 9,
+      "evidenceURL": "https://carto.com/industries/real-estate/"
     },
     {
-      "SDGNumber": 11
+      "SDGNumber": 11,
+      "evidenceURL": "https://carto.com/industries/cities-government/"
     }
   ],
   "sectors": [],
