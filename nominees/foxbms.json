@@ -10,10 +10,12 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 7
+      "SDGNumber": 7,
+      "evidenceURL": "https://iisb-foxbms.iisb.fraunhofer.de/foxbms/docs/latest/general_information/motivation/motivation.html"
     },
     {
-      "SDGNumber": 13
+      "SDGNumber": 13,
+      "evidenceURL": "https://iisb-foxbms.iisb.fraunhofer.de/foxbms/docs/latest/general_information/motivation/motivation.html"
     }
   ],
   "type": [
