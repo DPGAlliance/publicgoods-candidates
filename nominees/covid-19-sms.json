@@ -1,7 +1,7 @@
 {
   "name": "Covid-19-SMS",
   "description": "A nodejs api to send sms msg using africatalking api for delevering information about COVID-19 virus.",
-  "website": "https://github.com/africa-covid-19-response-toolkit/awareness-sms",
+  "website": "https://ethiocovid19rt.com/projects",
   "license": [
     {
       "spdx": "MIT",
@@ -10,7 +10,8 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceURL": "https://drive.google.com/file/d/1fFUO3d1D9iUx79HON2-ZSGmFh7zc_RCu/view"
     }
   ],
   "type": [
