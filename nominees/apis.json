@@ -10,10 +10,12 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 7
+      "SDGNumber": 7,
+      "evidenceURL": "https://www.sonycsl.co.jp/tokyo/11481/"
     },
     {
-      "SDGNumber": 13
+      "SDGNumber": 13,
+      "evidenceURL": "https://www.sonycsl.co.jp/tokyo/11481/"
     }
   ],
   "type": [
