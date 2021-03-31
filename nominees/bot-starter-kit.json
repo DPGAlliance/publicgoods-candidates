@@ -1,7 +1,7 @@
 {
   "name": "Bot Starter Kit",
   "description": "A basic template/starter kit for building a Messenger or Telegram bot integrated with the core ACRT API.",
-  "website": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit",
+  "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
