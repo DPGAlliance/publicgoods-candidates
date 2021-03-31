@@ -10,13 +10,16 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 7
+      "SDGNumber": 7,
+      "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
     },
     {
-      "SDGNumber": 13
+      "SDGNumber": 13,
+      "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
     },
     {
-      "SDGNumber": 15
+      "SDGNumber": 15,
+      "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
     }
   ],
   "type": [
