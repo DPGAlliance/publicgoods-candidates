@@ -1,0 +1,30 @@
+{
+  "name": "Immunization Calculation Engine (ICE)",
+  "description": "ICE is an open source immunization evaluation and forecasting clinical decision support system",
+  "website": "https://cdsframework.atlassian.net/wiki/spaces/ICE/overview",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://cdsframework.atlassian.net/wiki/spaces/CDSF/pages/14352414/Open-Source+License"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "SDGevidence": "ICE promotes best practices for immunization to ensure that infectious diseases that can be controlled through vaccination are contained.",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/18972704/Downloads",
+  "organizations": [
+    {
+      "name": "HLN Consulting, LLC",
+      "org_type": "owner"
+    }
+  ]
+}
+
