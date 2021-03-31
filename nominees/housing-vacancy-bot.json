@@ -1,7 +1,7 @@
 {
   "name": "Housing Vacancy Bot",
   "description": "A Telegram bot that allows housing officials/owners to report vacancy to a central source and allows health works/government officials to consume that information.",
-  "website": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot",
+  "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
