@@ -1,7 +1,7 @@
 {
   "name": "Heroes Bot",
   "description": "A Telegram bot that allows frontline healthcare workers to log symptoms they are experiencing, get counseling, best practice information, logistical assistance and provide creative ways to distress.",
-  "website": "https://github.com/africa-covid-19-response-toolkit/heroes-bot",
+  "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
