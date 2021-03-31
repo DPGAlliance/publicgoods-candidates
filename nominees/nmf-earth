@@ -11,7 +11,8 @@
   "SDGs": [
     {
       "SDGNumber": 12,
-      "evidenceText": "The app is a sustainable guide to help you reduce your digital carbon footprint - carbon emissions related to transport, food, electricity and streaming"
+      "evidenceText": "The app offers a sustainable guide to help users transition to a more environmentally friendly lifestyle, reduce carbon emissions related to transport, food, electricity and streaming",
+      "evidenceURL": "https://voices.earth/podcast/nmf-earth-offers-mobile-app-for-tracking-your-carbon-footprint/"
     }
   ],
   "sectors": [],
