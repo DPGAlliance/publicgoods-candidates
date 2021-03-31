@@ -1,7 +1,7 @@
 {
   "name": "Internal Dashboard",
   "description": "Internal dashboard for officials to get real time data and updates on COVID-19 on surveillance, case tracking, and monitoring.",
-  "website": "http://dashboard.ethiopia-covid19.com/",
+  "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
