@@ -11,7 +11,8 @@
   "SDGs": [
     {
       "SDGNumber": 4,
-      "evidenceURL": "https://www.eduactiv8.org/about/"
+      "evidenceText": "eduActiv8 includes activities for building basic math and early literacy skills, including a variety of spelling, matching, and listening activities"
+      "evidenceURL": "https://opensource.com/article/19/4/early-literacy-tools"
     }
   ],
   "sectors": [],
