@@ -1,0 +1,30 @@
+{
+    "name": "ACRT Internal Dashboard",
+    "description": "Internal dashboard for officials to get real-time data and updates on COVID-19 on surveillance, case tracking, and monitoring.",
+    "website": "http://dashboard.ethiopia-covid19.com/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://medium.com/africa-covid-19-response-toolkit/introducing-the-open-source-africa-covid-19-response-toolkit-6d4a571027a8"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard",
+    "organizations": [
+      {
+        "name": "Ethiopia COVID-19 Response Team",
+        "website": "https://ethiocovid19rt.com/",
+        "org_type": "owner",
+        "contact_email": "acrt@ethiocovid19rt.com"
+      }
+    ],
+    "stage": "nominee"
+  }
