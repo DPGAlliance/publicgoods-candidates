@@ -1,0 +1,43 @@
+{
+  "name": "a11yproject",
+  "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
+  "website": "https://www.a11yproject.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/a11yproject/a11yproject.com/blob/main/LICENSE-APLv2"
+    }
+  ],
+  "SDGs": [
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "\nAccessibility is incredibly important, yet often overlooked in traditional digital design and development education. Because of this, The A11Y Project strives to be a living example of how to create beautiful, accessible, and inclusive digital experiences.\n\nDisability\nOne in four people in the United States has a disability. For many, technology built with accessibility in mind makes things easier. For people with disabilities, technology makes things possible.\n\nWebsites and apps can be made to work in such a way that it can be understood by assistive technology such as screen readers, refreshable braille displays, and screen magnifiers. Many disabled people rely on such devices to do things like order food, pay taxes, apply to jobs, and talk with their friends and family.\n\nAdditionally, websites and web apps can be designed to be understood by the widest possible audience. This includes accommodating things like colorblindness, Dyslexia and Dyscalculia, seizure and migraine triggers, as well as reading comprehension level and cognitive load.\n\nhttps://www.a11yproject.com/about/",
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/a11yproject/a11yproject.com",
+  "organizations": [
+    {
+      "name": "The Accessibility",
+      "org_type": "owner"
+    }
+  ]
+}
+
