@@ -25,14 +25,10 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR, PSD2"
+      "GDPR, PSD2, OFAC, AML, CFT"
     ],
     "adherenceSteps": [
       ""
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "OFAC, AML, CFT"
     ]
   },
   "standards": {

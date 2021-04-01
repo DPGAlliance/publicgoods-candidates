@@ -32,11 +32,6 @@
       "- Typically Hospital/Center that use Bahmni are deemed as data controllers, with the implementer may not have access to data, unless for authorised access functions like support or maintenance. In hosted models, the agency hosting would be required to fulfil compliance requirements and adopt data protection strategy so applicable in a country.",
       "- Since Bahmni is built on other FOSS products like OpenMRS and Odoo, the related GDPR/Privacy centric steps are provided by them. Reference: https://www.odoo.com/gdpr, and https://talk.openmrs.org/t/gdpr-and-openmrs/18205",
       "- We continue to evaluate features and development practices to adhere to GDPR, HIPAA and Data Protection/Privacy laws to protect citizen data."
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "GDPR",
-      "HIPAA"
     ]
   },
   "standards": {
