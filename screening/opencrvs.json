@@ -24,14 +24,11 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Bangladesh: Birth and Death Registration Act, 2004",
+      "Bangladesh: Birth and Death Registration Rule, 2006."
     ],
     "adherenceSteps": [
-      "OpenCRVS is configurable to ensure that it remains within the privacy laws of the jurisdiction in which it is implemented. A number of product features facilitate data protection and confidentiality: \n- access to the system follows a strict role-based permission model to ensure that personally identifiable data is only accessible to those that need it for genuine business purposes (e.g. validating a birth registration application). \n- data subjects are required to give their consent before the collection of personal data (e.g. during the birth registration application). \n- data subjects have the right to rectify data related to them, if it is inaccurate or incomplete (e.g. through the correct record function)."
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "OpenCRVS is configurable to ensure that it remains compliant with international and domestic laws of the jurisdiction in which it is implemented. A number of product features facilitate this compliance. For example, the Bangladesh pilot implementation of OpenCRVS is configured to comply with the applicable legislation for civil registration e.g. Birth and Death Registration Act, 2004 and Birth and Death Registration Rule, 2006."
+      "OpenCRVS is configurable to ensure that it remains within the privacy, international and domestic laws laws of the jurisdiction in which it is implemented. A number of product features facilitate data protection and confidentiality: \n- access to the system follows a strict role-based permission model to ensure that personally identifiable data is only accessible to those that need it for genuine business purposes (e.g. validating a birth registration application). \n- data subjects are required to give their consent before the collection of personal data (e.g. during the birth registration application). \n- data subjects have the right to rectify data related to them, if it is inaccurate or incomplete (e.g. through the correct record function). For example, the Bangladesh pilot implementation of OpenCRVS is configured to comply with the applicable legislation for civil registration e.g. Birth and Death Registration Act, 2004 and Birth and Death Registration Rule, 2006."
     ]
   },
   "standards": {
