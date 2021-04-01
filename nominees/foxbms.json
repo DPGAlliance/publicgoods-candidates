@@ -25,6 +25,7 @@
   "organizations": [
     {
       "name": "foxBMS",
+      "website": "https://foxbms.org/",
       "org_type": "owner",
       "contact_email": "info@foxbms.org"
     }
