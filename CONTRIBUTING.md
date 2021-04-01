@@ -53,11 +53,11 @@ Again you have two options:
 * Alternatively, you can create and edit a new file in your computer, after cloning this repository:
     - Using HTTPS:
     ```bash
-    git clone https://github.com/enigmampc/covid-self-reporting.git
+    git clone https://github.com/unicef/publicgoods-candidates.git
     ```
     - Using SSH:
     ```bash
-    git clone git@github.com:enigmampc/covid-self-reporting.git
+    git clone git@github.com:unicef/publicgoods-candidates.git
     ```
     Change to the `nominees/` folder, and create the new file there.
  
@@ -99,9 +99,14 @@ Please correct any errors until you see that all checks pass
                         "licenseURL": "Link to the license under which this nominee is released"
                 }
         ],
-        "SDGs": [REQUIRED, Array of objects listing SDGs by number and name that this project is relevant to],
-        "SDGevidence": [REQUIRED, provide links or information to support this relevance as a text field]
-        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
+        "SDGs": [REQUIRED, Array of objects (at least one object is required, and either evidenceText or evidenceURL is REQUIRED for each SDG entry):
+                {
+                        "SDGNumber": "Number of the Sustainable Development Goal",
+                        "evidenceText": "provide information to support this relevance",
+                        "evidenceURL": "provide links to support this relevance"
+                }
+        ],
+        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.],
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
         "repositoryURL": "OPTIONAL: Link to main repository",
         "organizations": [REQUIRED, Array of objects (at least one object is required):
@@ -112,7 +117,8 @@ Please correct any errors until you see that all checks pass
                         "contact_name": "OPTIONAL - Name of contact individual in the organization",
                         "contact_email": "OPTIONAL - Email for contact individual in the organization"
                 }
-        ]
+        ],
+        "stage": "REQUIRED: Screening stage of Digital Public Good"
 }
 ```
 
@@ -125,82 +131,6 @@ Licenses for open source software, open content and open data are vetted and app
 * **Open Source Software**: only accepting [approved licenses](https://opensource.org/licenses) from the Open Source Initiative.
 
 Refer to the [current list of approved licenses](/docs/licenses.md) for additional information.
-
-### Specifying SDGs
-
-In order to make it easy for downstream projects to process data from the SDGs field, data must comply to the following format (you must select one or more elements of the following array, where an element is defined by a `number` and `string` pair):
-```json
-[
-  [
-    1,
-    "No Poverty"
-  ],
-  [
-    2,
-    "Zero Hunger"
-  ],
-  [
-    3,
-    "Good Health and Well-Being"
-  ],
-  [
-    4,
-    "Quality Education"
-  ],
-  [
-    5,
-    "Gender Equality"
-  ],
-  [
-    6,
-    "Clean Water and Sanitation"
-  ],
-  [
-    7,
-    "Affordable and Clean Energy"
-  ],
-  [
-    8,
-    "Decent Work and Economic Growth"
-  ],
-  [
-    9,
-    "Industry, Innovation and Infrastructure"
-  ],
-  [
-    10,
-    "Reduced Inequalities"
-  ],
-  [
-    11,
-    "Sustainable Cities and Communities"
-  ],
-  [
-    12,
-    "Responsible Consumption and Production"
-  ],
-  [
-    13,
-    "Climate Action"
-  ],
-  [
-    14,
-    "Life Below Water"
-  ],
-  [
-    15,
-    "Life On Land"
-  ],
-  [
-    16,
-    "Peace, Justice and Strong Institutions"
-  ],
-  [
-    17,
-    "Partnerships for the Goals"
-  ]
-]
-```
 
 ### Specifying Sectors
 
