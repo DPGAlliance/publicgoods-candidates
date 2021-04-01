@@ -1,0 +1,30 @@
+{
+  "name": "Formpack",
+  "description": "Formpack is a tool used by kpi to parse and repackage survey data for exports, reports, and maps based on different languages available from the form definition.",
+  "website": "https://www.kobotoolbox.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/kobotoolbox/formpack/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://www.kobotoolbox.org/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/kobotoolbox/formpack",
+  "organizations": [
+    {
+      "name": "Kobo Toolbox",
+      "website": "https://www.kobotoolbox.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
