@@ -1,7 +1,7 @@
 {
   "name": "Open Drone Suite",
   "description": "This project develops and maintains aerial platforms capable of heavy payload delivery for roles including aerial seed bombing for re-forestation, desert locust management including fumigation, and vaccine heavy payload delivery.",
-  "website": "http://as-research.org",
+  "website": "https://as-research.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -34,7 +34,7 @@
   "organizations": [
     {
       "name": "Autonomous Systems Research Ltd",
-      "website": "http://as-research.org",
+      "website": "https://as-research.org",
       "org_type": "owner"
     },
     {
