@@ -1,0 +1,30 @@
+{
+  "name": "ACRT Emergency Relief Package Tracker",
+  "description": "Web app that allows organizations to track and manage the distribution of emergency relief packages. Pick up and drop off can be logged via a mobile interface that captures your GPS location and plots that on a dashboard.",
+  "website": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://medium.com/africa-covid-19-response-toolkit/introducing-the-open-source-africa-covid-19-response-toolkit-6d4a571027a8"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker",
+  "organizations": [
+    {
+      "name": "Ethiopia COVID-19 Response Team",
+      "website": "https://ethiocovid19rt.com/",
+      "org_type": "owner",
+      "contact_email": "acrt@ethiocovid19rt.com"
+    }
+  ],
+  "stage": "nominee"
+}
