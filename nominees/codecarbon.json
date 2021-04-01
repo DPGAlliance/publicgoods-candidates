@@ -10,15 +10,7 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 7,
-      "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
-    },
-    {
       "SDGNumber": 13,
-      "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
-    },
-    {
-      "SDGNumber": 15,
       "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
     }
   ],
@@ -29,6 +21,7 @@
   "organizations": [
     {
       "name": "mlco2",
+      "website": "https://mlco2.github.io/codecarbon/",
       "org_type": "owner"
     }
   ],
