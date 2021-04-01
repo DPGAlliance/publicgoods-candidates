@@ -1,10 +1,10 @@
 {
-  "name": "Modular Open Source Identity Plaform",
-  "ownership": {
+  "name": "Modular Open Source Identity Platform",
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://www.mosip.io/resource/ip-policy-trademark-and-copyright"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
     "pltIndependenceDesc": "For evey closed source software and hardware component that MOSIP interacts with, we provide standard interfaces for interaction. Either by using existing open standards (ex: For HSM we use JCE), or by defining standard interfaces for conformance (ex: MOSIP biometrics interfaces)"
@@ -22,11 +22,11 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "MOSIP enables the compliance of privacy laws through its security and feature implementations. However, the owners of specific implementations are responsible for complying with legislations in their jurisdictions."
+      "GDPR"
     ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
+    "adherenceSteps": [
+      "- MOSIP enables the compliance of privacy laws through its security and feature implementations. However, the owners of specific implementations are responsible for complying with legislations in their jurisdictions.",
+      "- The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
     ]
   },
   "standards": {
