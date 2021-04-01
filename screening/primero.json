@@ -1,10 +1,10 @@
 {
   "name": "Primero",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": ""
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
@@ -23,11 +23,11 @@
   "privacy": {
     "isPrivacyCompliant": "Unknown",
     "privacyComplianceList": [
-      "product is designed to facilitate compliance with GDPR"
+      "- GDPR",
+      "- Each domestic legal framework is distinct so this is managed on a case-by-case basis. Compliant with UNICEF and other UN Agency policy. Designed to foster rights-based approach to data management. Aligned with Responsible Data for Children https://www.rd4c.org"
     ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "Each domestic legal framework is distinct so this is managed on a case-by-case basis. Compliant with UNICEF and other UN Agency policy. Designed to foster rights-based approach to data management. Aligned with Responsible Data for Children https://www.rd4c.org"
+    "adherenceSteps": [
+      ""
     ]
   },
   "standards": {

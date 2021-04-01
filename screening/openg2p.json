@@ -1,10 +1,10 @@
 {
   "name": "OpenG2P",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://docs.openg2p.org/"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
@@ -23,7 +23,12 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "OpenG2P components are flexible to be used within country specific privacy laws, however for users needing to store PII, e.g. Beneficiary Database follow a minimum set of data-handling conventions and procedures as per the Guiding Principles of OpenG2P:",
+      "- OpenG2P components are flexible to be used within country specific privacy laws.",
+      "- The OpenG2P framework confers privacy, security, and consent as an inalienable right of every person regardless of their gender and economic situation. A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies.",
+      "- The OpenG2P framework is conceptualized as supportive of Government transfer systems, and the organization of such transfer programs are at the behest of governmental agencies. We take approaches that are protective of security and privacy while remaining consistent with governmental policies."
+    ],
+    "adherenceSteps": [
+      "For users needing to store PII, e.g. Beneficiary Database follow a minimum set of data-handling conventions and procedures as per the Guiding Principles of OpenG2P:",
       "a. Data should be encrypted at rest, advisably with a regularly rotating key scheme and these keys kept safely off system.",
       "c. All-access should via strong authentication mechanism and permissioned; this also includes access to other OpenG2P projects.",
       "d. Datastore should not be on a internet-facing network.",
@@ -35,11 +40,6 @@
       "d. A system of authentication that factors, password strength, password expiration and rotation, and brute force protection. We also advocate for Two-factor authentication procedures where possible.",
       "e. System of roles and authorization that provides the exact amount of rights a user needs to perform their tasks and nothing more.",
       "f. Audited access with sessions and CRUD logs."
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "The OpenG2P framework confers privacy, security, and consent as an inalienable right of every person regardless of their gender and economic situation. A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies.",
-      "The OpenG2P framework is conceptualized as supportive of Government transfer systems, and the organization of such transfer programs are at the behest of governmental agencies. We take approaches that are protective of security and privacy while remaining consistent with governmental policies."
     ]
   },
   "standards": {

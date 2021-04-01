@@ -1,10 +1,10 @@
 {
   "name": "Avyantra Health Technologies",
-  "ownership": {
+  "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing"
   },
-  "dependencies": {
+  "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
@@ -23,11 +23,11 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "In India, we currently do not have any legislation on Privacy Law but we are adhering to the standards followed for data privacy across the globe."
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
+      "In India, we currently do not have any legislation on Privacy Law but we are adhering to the standards followed for data privacy across the globe.",
       "We are currently complying with collection of non-personal data as per global security norms such as Global data protection regulation (GDPR)."
+    ],
+    "adherenceSteps": [
+      ""
     ]
   },
   "standards": {
