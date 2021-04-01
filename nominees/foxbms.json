@@ -4,7 +4,7 @@
   "website": "https://foxbms.org/",
   "license": [
     {
-      "spdx": "CC-BY-4.0",
+      "spdx": "BSD-3-Clause",
       "licenseURL": "https://github.com/foxBMS/foxbms-1/blob/master/LICENSE"
     }
   ],
