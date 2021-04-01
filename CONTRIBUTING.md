@@ -53,11 +53,11 @@ Again you have two options:
 * Alternatively, you can create and edit a new file in your computer, after cloning this repository:
     - Using HTTPS:
     ```bash
-    git clone https://github.com/enigmampc/covid-self-reporting.git
+    git clone https://github.com/unicef/publicgoods-candidates.git
     ```
     - Using SSH:
     ```bash
-    git clone git@github.com:enigmampc/covid-self-reporting.git
+    git clone git@github.com:unicef/publicgoods-candidates.git
     ```
     Change to the `nominees/` folder, and create the new file there.
  
