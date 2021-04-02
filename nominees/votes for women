@@ -1,5 +1,5 @@
 {
-  "name": "Women’s issues within political party platforms",
+  "name": "Votes for women",
   "description": "A data story about how often women's issues appeared in the text within political party platforms",
   "website": "https://pudding.cool/projects/votes-for-women/",
   "license": [
@@ -12,15 +12,14 @@
     {
       "SDGNumber": 5,
       "evidenceText": "This project explores every political party platform between 1840 and 2016 to find how often women's issues appeared in the text. 45 documents. 934,068 total words. 28,854 words related to women.",
-      "evidenceURL": "https://pudding.cool/projects/votes-for-women/, https://github.com/the-pudding/votes-for-women"
+      "evidenceURL": "https://pudding.cool/projects/votes-for-women/"
     }
   ],
   "sectors": [
     "Gender and Minority Groups"
   ],
   "type": [
-    "software",
-    "data"
+    "software"
   ],
   "repositoryURL": "https://github.com/the-pudding/votes-for-women",
   "organizations": [
