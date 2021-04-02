@@ -112,7 +112,7 @@ Please correct any errors until you see that all checks pass
         "organizations": [REQUIRED, Array of objects (at least one object is required):
                 {
                         "name": "REQUIRED - Name of the organization",
-                        "website": "OPTIONAL - Website of the organization",
+                        "website": "REQUIRED - Website of the organization",
                         "org_type": "REQUIRED - One of 'owner, 'maintainer', 'funder' or 'implementer',
                         "contact_name": "OPTIONAL - Name of contact individual in the organization",
                         "contact_email": "OPTIONAL - Email for contact individual in the organization"
