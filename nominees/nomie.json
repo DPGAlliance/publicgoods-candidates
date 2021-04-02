@@ -11,7 +11,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "This app has a great privacy policy. It doesn't collect, use, sell or track personal data. Users can store their data locally or encrypted in Blockstack app",
+      "evidenceText": "Users can track their habits, mental health, allergies, goals, period, emotions, meals, drugs and anything else that will help to improve the quality of their lives. This app has a great privacy policy. It doesn't collect, use, sell or track personal data. There are no central servers and accounts like in google fit or relevant apps. Users can store their data locally or encrypted in Blockstack app.",
       "evidenceURL": "https://nomie.app/privacy"
     }
   ],
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "Nomie",
-      "website": "https://github.com/open-nomie",
+      "website": "https://nomie.app/",
       "org_type": "owner"
     }
   ],
