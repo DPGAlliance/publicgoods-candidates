@@ -20,6 +20,73 @@ options = {
   }
 }
 
+/**
+ * 
+ * @param {Object} my_options request parameters
+ * @param {String} MODE request method GET | POST | DELETE
+ */
+
+function apiCall(my_options, MODE = 'GET') {
+
+  if (MODE === 'GET') {
+    const promise = new Promise((resolve, reject) => {
+      request.get(my_options, function(error, response, body) {
+        if(error){
+          reject(error);
+        }else{
+          if(response.statusCode==200 || response.statusCode == 201){
+            resolve(JSON.parse(body));
+          } else {
+            resolve(null);
+          }
+        }
+      });
+    })
+      .then(data => data)
+      .catch(err => console.err(err.message));
+
+    return promise;
+
+  } else if (MODE === 'POST') {
+    const promise = new Promise((resolve, reject) => {
+      request.post(my_options, function(error, response, body) {
+        if(error){
+          reject(error);
+        }else{
+          if(response.statusCode === 201 || response.statusCode == 200) {
+            console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+            resolve(JSON.parse(body));
+          }else {
+            resolve(null);
+          }
+        }
+      });
+    })
+      .then(data => data)
+      .catch(err => console.error(err.message));
+
+    return promise;
+
+  } else if (MODE === 'DELETE') {
+    const promise = new Promise((resolve, reject) => {
+      request.delete(my_options, function(error, response, body) {
+        if(error){
+          reject(error);
+        }else{
+          if(response.statusCode >= 200 && response.statusCode < 300) {
+            console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+            resolve(JSON.parse(body));
+          }else {
+            resolve(JSON.parse(body));
+          }
+        }
+      });
+    }).then(data => data)
+    .catch(err => console.error(err.message));
+    return promise;
+  }
+}
+
 /** 
  * Returns a Javascript object (array) of the files that have changed
  * @return {Array} List of changed files
@@ -76,21 +143,20 @@ function createBranch(head) {
     "ref": "refs/heads/" + branchName,
     "sha": head
   });
-
   request.post(my_options, function (error, response, body) {
     if(error) {
       console.error('error:', error); // Print the error if one occurred
     } else {
       console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
       console.log('body:', body); // Print the body
-      commitFiles();
+      commitFiles(head);
     }
   });
 }
 
 /** Commits the files that have changed
  */
-async function commitFiles(){
+async function commitFiles(head){
   const files = getChangedFiles();
   console.log('These are the files that have changed:')
   console.log(files);
@@ -105,45 +171,61 @@ async function commitFiles(){
       let my_options = options;
       my_options['url'] = baseURL + 'contents/' + commitFile;
 
-      let promise = new Promise((resolve, reject) => {
-        request.get(my_options, function(error, response, body) {
-          if(error){
-            reject(error);
-          }else{
-            if(response.statusCode==200){
-              resolve(JSON.parse(body));
-            } else {
-              resolve(null);
-            }
-          }
-        });
-      });
+      
+      let responseIfFileExists;
+      let fileContents;
 
-      const responseIfFileExists = await promise;
-      const fileContents = fs.readFileSync(file, 'utf8');
-      var body = {
-        'content': btoa(fileContents),
-        'branch': branchName
-      }
-      if(responseIfFileExists){
-        body['message'] = 'BLD: edit file ' + file;
-        body['sha'] = responseIfFileExists['sha'];
-      }else{
-        body['message'] = 'BLD: add file ' + file;
-      }
-      my_options['body'] = JSON.stringify(body);
+      try{
+        responseIfFileExists = await apiCall(my_options);
+        if (!fs.existsSync(file)) {
 
-      promise = new Promise((resolve, reject) => {
-        request.put(my_options, function(error, response, body) {
-          if(error){
-            reject(error);
-          }else{
-            resolve(body);
+          my_options['url'] = baseURL + 'git/trees/' + head;
+          let base_tree = await apiCall(my_options);
+
+          const productTree = base_tree.tree.filter(item => item.path === 'products');
+          my_options['url'] = productTree[0].url;
+
+          const productTreeList = await apiCall(my_options);
+
+          const deletedFile = productTreeList.tree.filter(item => item.path === file.split('/')[1]);
+
+          my_options['url'] = baseURL + 'contents/' + commitFile;
+          my_options['body'] = JSON.stringify({
+            'message': 'BLD: Delete file ' + file,
+            'sha': deletedFile[0].sha,
+            'branch': branchName,
+          });
+          const deletedCommit = await apiCall(my_options, 'DELETE');
+        }
+        else {
+          fileContents = fs.readFileSync(file, 'utf8')
+          var body = {
+            'content': btoa(fileContents),
+            'branch': branchName
           }
-        });
-      });
-      response = await promise;
-      console.log('Received response: ' + response)
+          if(responseIfFileExists){
+            body['message'] = 'BLD: edit file ' + file;
+            body['sha'] = responseIfFileExists['sha'];
+          }else{
+            body['message'] = 'BLD: add file ' + file;
+          }
+          my_options['body'] = JSON.stringify(body);
+    
+          promise = new Promise((resolve, reject) => {
+            request.put(my_options, function(error, response, body) {
+              if(error){
+                reject(error);
+              }else{
+                resolve(body);
+              }
+            });
+          });
+          response = await promise;
+          console.log('Received response: ' + response)
+        }
+      } catch (err) {
+        console.error(err.message);
+      }
     }
   }
   createPR(commitFiles);
@@ -156,10 +238,10 @@ function createPR(files){
   my_options = options;
   my_options['url'] = baseURL + 'pulls';
   my_options['body'] = JSON.stringify({
-    'title': 'Add new product(s): ' + files.toString(),
+    'title': 'Add/Delete new product(s): ' + files.toString(),
     'head': branchName,
     'base': 'master',
-    'body': 'Add new product(s) from [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods/candidates)'
+    'body': 'Add/Delete new product(s) from [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods/candidates)'
   })
 
   request.post(options, function (error, response, body) {
