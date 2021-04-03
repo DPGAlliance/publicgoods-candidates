@@ -1,6 +1,6 @@
 {
   "name": "Zamba",
-  "description": "Zambaa is a command-line tool built in Python to automatically identify the species seen in camera trap videos from sites in central Africa. The tool makes predictions for 24 common species in these videos.",
+  "description": "ZambaaA is a command-line tool built in Python to automatically identify the species seen in camera trap videos from sites in central Africa. The tool makes predictions for 24 common species in these videos.",
   "website": "https://zamba.drivendata.org/",
   "license": [
     {
