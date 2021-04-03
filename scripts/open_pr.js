@@ -3,7 +3,7 @@ const path = require('path');
 const btoa = require('btoa');
 const request = require('request');
 
-const githubUser = 'publicgoods';
+const githubUser = 'DivyanshiSingh';
 const githubRepo = 'products';
 const baseURL = 'https://api.github.com/repos/' + githubUser + '/' + githubRepo + '/';
 
@@ -11,7 +11,7 @@ const branchName = 'unicef/publicgoods-candidates-'+process.env.GITHUB_SHA.subst
 
 options = {
   auth: {
-    'user': 'lacabra',
+    'user': 'DivyanshiSingh',
     'pass': process.env.GITHUBTOKEN
   },
   headers: {
@@ -119,8 +119,15 @@ async function commitFiles(){
         });
       });
 
-      const responseIfFileExists = await promise;
-      const fileContents = fs.readFileSync(file, 'utf8');
+      let responseIfFileExists;
+      let fileContents;
+      try {
+        responseIfFileExists = await promise;
+        fileContents = fs.readFileSync(file, 'utf8');  
+      } catch (error) {
+        
+      }
+      
       var body = {
         'content': btoa(fileContents),
         'branch': branchName
