@@ -76,7 +76,7 @@ function createBranch(head) {
     "ref": "refs/heads/" + branchName,
     "sha": head
   });
-
+console.log(my_options);
   request.post(my_options, function (error, response, body) {
     if(error) {
       console.error('error:', error); // Print the error if one occurred
