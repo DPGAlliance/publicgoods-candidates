@@ -4,7 +4,7 @@
   "website": "http://datawinners.com/",
   "license": [
     {
-      "spdx": " Apache-2.0",
+      "spdx": "Apache-2.0",
       "licenseURL": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
