@@ -53,11 +53,11 @@ Again you have two options:
 * Alternatively, you can create and edit a new file in your computer, after cloning this repository:
     - Using HTTPS:
     ```bash
-    git clone https://github.com/enigmampc/covid-self-reporting.git
+    git clone https://github.com/unicef/publicgoods-candidates.git
     ```
     - Using SSH:
     ```bash
-    git clone git@github.com:enigmampc/covid-self-reporting.git
+    git clone git@github.com:unicef/publicgoods-candidates.git
     ```
     Change to the `nominees/` folder, and create the new file there.
  
@@ -112,7 +112,7 @@ Please correct any errors until you see that all checks pass
         "organizations": [REQUIRED, Array of objects (at least one object is required):
                 {
                         "name": "REQUIRED - Name of the organization",
-                        "website": "OPTIONAL - Website of the organization",
+                        "website": "REQUIRED - Website of the organization",
                         "org_type": "REQUIRED - One of 'owner, 'maintainer', 'funder' or 'implementer',
                         "contact_name": "OPTIONAL - Name of contact individual in the organization",
                         "contact_email": "OPTIONAL - Email for contact individual in the organization"
