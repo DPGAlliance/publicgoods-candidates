@@ -1,0 +1,42 @@
+{
+        "name": "A11Y Project",
+        "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
+        "website": "https://www.a11yproject.com/",
+        "license": [
+                {
+                        "spdx": "Apache-2.0",
+                        "licenseURL": "https://github.com/a11yproject/a11yproject.com/blob/main/LICENSE-APLv2"
+                }
+        ],
+        "SDGs": [
+                {
+            "SDGNumber": "8",
+            "evidenceURL": "https://www.a11yproject.com/about/"
+        },
+        {
+            "SDGNumber": "9",
+            "evidenceURL": "https://www.a11yproject.com/about/"
+
+        },
+        {
+            "SDGNumber": "12",
+            "evidenceURL": "https://www.a11yproject.com/about/"
+
+        }
+        ],
+        "type": [
+        "software",
+        "data"
+        ],
+        "repositoryURL": "https://github.com/a11yproject/a11yproject.com",
+        "organizations": [
+                {
+                      
+        "name": "The Accessibility",
+        "website": "https://www.a11yproject.com/contact/",
+        "org_type": "owner",
+                        
+                }
+        ],
+        "stage": " "
+}
