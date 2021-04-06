@@ -11,13 +11,14 @@
     "SDGs": [
       {
         "SDGNumber": 3,
-        "evidenceURL": "http://berkeleyair.com/about-us/mission/"      
+        "evidenceURL": "http://berkeleyair.com/about-us/mission/"
       },
       {
         "SDGNumber": 7,
         "evidenceURL": "https://escholarship.org/uc/item/7hw5z2w2"
       }
     ],
+    "sectors": [],
     "type": [
       "software"
     ],
@@ -30,4 +31,7 @@
       }
     ],
     "stage": "nominee"
-}
+  }
+
+
+  
