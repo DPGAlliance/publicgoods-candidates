@@ -25,15 +25,14 @@
         }
         ],
         "type": [
-        "software",
-        "data"
+        "software"
         ],
         "repositoryURL": "https://github.com/a11yproject/a11yproject.com",
         "organizations": [
                 {
                       
         "name": "The Accessibility",
-        "website": "https://www.a11yproject.com/contact/",
+        "website": "https://www.a11yproject.com/",
         "org_type": "owner",
                         
                 }
