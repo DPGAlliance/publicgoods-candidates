@@ -1,5 +1,5 @@
 {
-    "name": "Berkely UCB Particle and Temperature Sensor UCB Pats",
+    "name": "Berkeley UCB Particle and Temperature Sensor UCB Pats",
     "description": "UCB Particle and Temperature Sensor is a small, portable data-logging device that uses an optical scattering sensor to measure concentrations of fine particle (~PM2.5) in indoor environments. It saves sampled data until transferred and analyzed by a fit-for-purpose processing software on a computer. An upgraded version, PATS+, which is due to be launched in early 2015, will include other pollutants such as carbon monoxide, carbon dioxide, and black carbon. It logs data to an SD card storage and contains multiple power options. Optional software provides interactive data handling and device management.",
     "website": "https://berkeleyair.com/",
     "license": [
@@ -24,7 +24,7 @@
     ],
     "organizations": [
       {
-        "name": "Berkely Air Monitoring Group",
+        "name": "Berkeley Air Monitoring Group",
         "website": "https://berkeleyair.com/",
         "org_type": "owner",
         "contact_email": "info@berkeleyair.com"
@@ -34,4 +34,3 @@
   }
 
 
-  

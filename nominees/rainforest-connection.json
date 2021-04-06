@@ -4,8 +4,8 @@
   "website": "https://rfcx.org/",
   "license": [
     {
-      "spdx": "",
-      "licenseURL": ""
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/rfcx/rfcx-org-archived-2020/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -14,7 +14,6 @@
       "evidenceURL": "https://rfcx.org/our_work"
     }
   ],
-  "sectors": [],
   "type": [
     "software"
   ],
@@ -28,5 +27,3 @@
   ],
   "stage": "nominee"
 }
-
-
