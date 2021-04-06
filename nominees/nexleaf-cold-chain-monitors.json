@@ -1,0 +1,29 @@
+{
+    "name": "Nexleaf Cold Chain Monitors",
+    "description": "Nexleaf Cold Chain Monitor is a cell phone-enabled sensor that remotely monitors the temperatures of refrigerated units used to store and transport vaccines and drug along the supply chain from warehouses to local health clinics. Sensor periodically transmits temperature data to the cloud server that oversees and provides SMS and email alerts if the temperature-sensitive good reach critical temperatures.",
+    "website": "https://nexleaf.org/",
+    "license": [
+      {
+        "spdx": "",
+        "licenseURL": ""
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://nexleaf.org/vaccines/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "organizations": [
+      {
+        "name": "Nexleaf Analytics",
+        "website": "https://nexleaf.org/",
+        "org_type": "owner",
+        "contact_email": "info@nexleaf.org"
+      }
+    ],
+    "stage": "nominee"
+}
