@@ -67,6 +67,23 @@ function apiCall(my_options, MODE = 'GET') {
 
     return promise;
 
+  } else if(MODE === 'PUT') {
+    const promise = new Promise((resolve, reject) => {
+      request.put(my_options, function(error, response, body) {
+        if(error){
+          reject(error);
+        }else{
+          if(response.statusCode >= 200 && response.statusCode <= 300) {
+            resolve(JSON.parse(body));
+          }else{
+            resolve(null);
+          }
+        }
+      });
+    })
+      .then(data => data)
+      .catch(err => console.error(err.message));
+    return promise;
   } else if (MODE === 'DELETE') {
     const promise = new Promise((resolve, reject) => {
       request.delete(my_options, function(error, response, body) {
@@ -136,24 +153,22 @@ function getHead() {
 /** Creates a new branch using a global branchName variable
  * @param {string} SHA of where to create a branch in the tree
  */
-function createBranch(head) {
+async function createBranch(head) {
   my_options = options;
   my_options['url'] = baseURL + 'git/refs';
   my_options['body'] = JSON.stringify({
     "ref": "refs/heads/" + branchName,
     "sha": head
   });
-  request.post(my_options, function (error, response, body) {
-    if(error) {
-      console.error('error:', error); // Print the error if one occurred
-    } else {
-      console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-      console.log('body:', body); // Print the body
+  try{
+    const branchCreated = await apiCall(my_options, 'POST');
+    if ( branchCreated ){
       commitFiles(head);
     }
-  });
+  } catch(error){
+    console.error(error);
+  }
 }
-
 /** Commits the files that have changed
  */
 async function commitFiles(head){
@@ -211,16 +226,7 @@ async function commitFiles(head){
           }
           my_options['body'] = JSON.stringify(body);
     
-          promise = new Promise((resolve, reject) => {
-            request.put(my_options, function(error, response, body) {
-              if(error){
-                reject(error);
-              }else{
-                resolve(body);
-              }
-            });
-          });
-          response = await promise;
+          response = await apiCall(my_options, 'PUT');
           console.log('Received response: ' + response)
         }
       } catch (err) {
@@ -234,7 +240,7 @@ async function commitFiles(head){
 /** Creates a new PR using global branchName variable
  * @param {Array} List of files that have changed in this PR
  */
-function createPR(files){
+async function createPR(files){
   my_options = options;
   my_options['url'] = baseURL + 'pulls';
   my_options['body'] = JSON.stringify({
@@ -243,20 +249,13 @@ function createPR(files){
     'base': 'master',
     'body': 'Add/Delete new product(s) from [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods/candidates)'
   })
-
-  request.post(options, function (error, response, body) {
-    if(error) {
-      console.error('error:', error); // Print the error if one occurred
-    } else {
-      console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-      console.log('body:', body); // Print the body
-
-      response = JSON.parse(body);
-      numPR = response['number'];
-
-      assignPR(numPR);
-    }
-  });
+  try{
+    const createPrData = await apiCall(my_options, 'POST');
+    const numPR = createPrData['number'];
+    assignPR(numPR);
+  }catch(error){
+    console.error(error);
+  }
 }
 
 /** Assigns a PR to a list of GitHub users
