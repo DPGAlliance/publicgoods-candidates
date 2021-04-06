@@ -1,0 +1,44 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "This is the right link to the project's license page",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The link provides specification on how this project would help in financial inclusion, among others.",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "This projects aims to create payment platforms \"connecting digital financial service providers and customers by providing specifications, standards and open-source software\" (https://github.com/mojaloop/mojaloop)",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "This project focus on financial inclusion solutions, to include everyone from everywhere to the global economy.",
+    "confidence": "5"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "One of the economic issues this project aims to solve is to help undeserved women to become economically active, thus creating more opportunities to them. This opportunity impacts directly the indicator SDG 16.",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Yes, and you can find this quote in the provided link: \"Mojaloop is open source and interoperable, everyone can build something amazing on top of it. Governments could use Mojaloop to deliver support payments to citizens right into their mobile wallets, for example.\"",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "This project is very well documented.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Mojaloop is very well documented.",
+    "confidence": "5"
+  },
+  "user": "llbrito",
+  "timestamp": 1617368575
+}
