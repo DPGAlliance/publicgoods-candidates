@@ -15,7 +15,9 @@
       "evidenceURL": "https://www.cambridge.org/core/journals/oryx/article/camelotintuitive-software-for-cameratrap-data-management/FA1117F3CFAE41421812E3A81AAC0B05"
     }
   ],
-  "sectors": ["Environment"],
+  "sectors": [
+    "Environment"
+  ],
   "type": [
     "software"
     ],
