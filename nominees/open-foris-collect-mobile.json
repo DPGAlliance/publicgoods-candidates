@@ -1,11 +1,11 @@
 {
-  "name": "Open Foris Collect",
-  "description": "Open Foris Collect is the main entry point for data collected in field-based inventories. It provides a fast, easy, flexible way to set up a survey with a user-friendly interface. Collect handles multiple data types and complex validation rules, all in a multilanguage environment.",
-  "website": "http://www.openforis.org/newwebsite/tools/collect.html",
+  "name": "Open Foris Collect Mobile",
+  "description": "Open Foris Collect Mobile is a fast, intuitive and flexible data collection tool for field-based surveys. This Android app allows the completion of complex data structures, such as biophysical, socio-economic or biodiversity surveys.",
+  "website": "http://www.openforis.org/newwebsite/tools/collect-mobile.html",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/openforis/collect/blob/master/LICENSE.TXT"
+      "licenseURL": "https://github.com/openforis/collect-mobile/blob/master/LICENSE.txt"
     }
   ],
   "SDGs": [
@@ -32,7 +32,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openforis/collect",
+  "repositoryURL": "https://github.com/openforis/collect-mobile",
   "organizations": [
     {
       "name": "Food and Agriculture Organization (FAO) of the United Nations",
