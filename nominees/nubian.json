@@ -1,11 +1,11 @@
 {
-  "name": "Nubian",
-  "description": "Learning content built in WebXR, adpated to the local context of the school system in Ghana",
+  "name": "Project Konko",
+  "description": "Project Konko is an Open Source Virtual Reality lesson creator built in Unity. It is designed & supported by NubianVR (www.nubianvr.com) and primarily targetted at the Oculus Go VR device - intended to be adapted to other devices down the line. It seeks to provide the tools that will allow developers, creators and educators to: (1)deploy 2D & 360 video lessons in Virtual Reality (2) manipulate 3D object in Virtual Reality environments (3) build multiple choice lesson assessment in Virtual Reality (4) maintain a badge & leaderboard functionality for Virtual Reality lessons.",
   "website": "https://www.nubianvr.com",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+      "licenseURL": "https://github.com/nubianvr-source/ProjectKonko/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,12 +17,13 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "https://github.com/nubianvr-source/BasicElectronics",
+  "repositoryURL": "https://github.com/nubianvr-source/ProjectKonko",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
       "website": "https://unicefinnovationfund.org/",
       "org_type": "funder"
+      "contact_email": "info@nubianvr.com"
     }
   ],
   "stage": "nominee"
