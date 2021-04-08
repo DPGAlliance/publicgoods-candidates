@@ -11,13 +11,13 @@
   "SDGs": [
     {
       "SDGNumber": 17,
-      "evidenceURL": "https://opencollective.com/community"
+      "evidenceURL": "https://medium.com/open-collective/what-is-open-collective-how-it-works-c51bacc73d94"
     }
   ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opencollective",
+  "repositoryURL": "https://github.com/opencollective/opencollective",
   "organizations": [
     {
       "name": "Open Collective",
@@ -28,4 +28,3 @@
   ],
   "stage": "nominee"
 }
-
