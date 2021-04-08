@@ -10,12 +10,13 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 4
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.unicef.org/innovation/FundGraduate/NubianVR \n https://medium.com/making-nubianvr/nubianvrs-educational-vision-the-vision-the-road-map-7fd59ec8d486"
     }
   ],
   "sectors": [],
   "type": [
-    "data"
+    "software"
   ],
   "repositoryURL": "https://github.com/nubianvr-source/ProjectKonko",
   "organizations": [
