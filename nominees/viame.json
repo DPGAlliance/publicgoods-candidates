@@ -1,11 +1,11 @@
 {
   "name": "VIAME",
-  "description": "A DIY AI system for analyzing imagery and video, orginally targeting marine species analysis.",
+  "description": "A do-it-yourself AI system for analyzing imagery and video, orginally targeting marine species analysis.",
   "website": "https://www.viametoolkit.org/",
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "licenseURL": "https://github.com/VIAME/VIAME"
+      "licenseURL": "https://github.com/VIAME/VIAME/blob/master/LICENSE.txt"
     }
   ],
   "SDGs": [
