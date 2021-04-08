@@ -1,5 +1,5 @@
 {
-  "name": "OpenSourceEcology",
+  "name": "Open Source Ecology",
   "description": "Creating and sharing open source industrial machine designs",
   "website": "https://www.opensourceecology.org/",
   "license": [
@@ -26,7 +26,7 @@
   "repositoryURL": "https://github.com/OpenSourceEcology/cross-platform-python-gui",
   "organizations": [
     {
-      "name": "OpenSourceEcology",
+      "name": "Open Source Ecology",
       "website": "https://www.opensourceecology.org/",
       "org_type": "owner"
     }
