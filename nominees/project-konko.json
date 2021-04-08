@@ -23,7 +23,12 @@
     {
       "name": "UNICEF Ventures Fund",
       "website": "https://unicefinnovationfund.org/",
-      "org_type": "funder",
+      "org_type": "funder"
+    },
+     {
+      "name": "NubianVR",
+      "website": "https://www.nubianvr.com",
+      "org_type": "owner",
       "contact_email": "info@nubianvr.com"
     }
   ],
