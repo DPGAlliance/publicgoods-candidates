@@ -1,6 +1,6 @@
 {
   "name": "Power BI React",
-  "description": "Power BI allows for data to be stored in the cloud or hosted on the user’s computer. Single-view live dashboard is filled with interactive charts, analysis, graphs, and maps. Power BI for React provides components and services to enable developers to easily embed Power BI reports into their applications.",
+  "description": "Power BI allows for data to be stored in the cloud or hosted on the user's computer. Single-view live dashboard is filled with interactive charts, analysis, graphs, and maps. Power BI for React provides components and services to enable developers to easily embed Power BI reports into their applications.",
   "website": "https://powerbi.microsoft.com/en-us/",
   "license": [
     {
