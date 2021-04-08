@@ -4,7 +4,7 @@
   "website": "https://www.opensourceecology.org/",
   "license": [
     {
-      "spdx": "GPL-3.0 License",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/OpenSourceEcology/cross-platform-python-gui"
     }
   ],
