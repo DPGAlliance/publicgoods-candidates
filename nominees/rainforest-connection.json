@@ -1,0 +1,29 @@
+{
+  "name": "Rainforest Connection",
+  "description": "Rainforest Connection Sensor is a solar-powered listening device that monitors and pinpoints signs of environmental destruction activities at great distance to prevent illegal logging, poaching, and enrichment of indigenous communities' habitats in rain forest areas. The sensor consists of recycled cell-phones equipped with solar panels and special enclosures to withstand tough weather conditions when placed in tree canopies. Upon picking up the sound of a chainsaw, gunshot, or animal distress call, the device uses minimal GSM connectivity to transmit an alert to a cloud server.",
+  "website": "https://rfcx.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/rfcx/rfcx-org-archived-2020/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://rfcx.org/our_work#deforestation"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "organizations": [
+    {
+      "name": "Rainforest Connection",
+      "website": "https://rfcx.org/",
+      "org_type": "owner",
+      "contact_email": "contact@rfcx.org"
+    }
+  ],
+  "stage": "nominee"
+}
