@@ -1,6 +1,9 @@
 {
   "name": "SORMAS",
-  "description": "SORMAS (Surveillance Outbreak Response Management & Analysis System) is the digital solution for mHealth and eHealth surveillance for epidemics world wide. It covers infectious diseases from COVID-19 to Ebola and provides digital infrastructure for timely management and control measures to verify disease cases.",
+  "aliases": [
+    "Surveillance Outbreak Response Management & Analysis System"
+  ],
+  "description": "SORMAS is the digital solution for mHealth and eHealth surveillance for epidemics world wide. It covers infectious diseases from COVID-19 to Ebola and provides digital infrastructure for timely management and control measures to verify disease cases.",
   "website": "https://sormas.org/",
   "license": [
     {
