@@ -15,8 +15,8 @@
     },
     {
       "SDGNumber": 17,
-      "evidenceURL": "https://www.sttrcancer.org/en/biotools/oncoscape.html",
-      "evidenceText": "In partnership with Github and Amazon Web Services, the Fred Hutch based team has developed a web-based portal equipped with rich data, powerful statistics and a simple interface to empower doctors, researchers, and scientists in investigating hypotheses, discovering novel patterns and associations, and ultimately expediting the process of translational research and precision medicine."
+      "evidenceText": "In partnership with Github and Amazon Web Services, the Fred Hutch based team has developed a web-based portal equipped with rich data, powerful statistics and a simple interface to empower doctors, researchers, and scientists in investigating hypotheses, discovering novel patterns and associations, and ultimately expediting the process of translational research and precision medicine.",
+      "evidenceURL": "https://www.sttrcancer.org/en/biotools/oncoscape.html"
     }
   ],
   "type": [
