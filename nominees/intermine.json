@@ -4,7 +4,7 @@
   "website": "http://intermine.org/",
   "license": [
     {
-      "spdx": "LGPL",
+      "spdx": "LGPL-2.1",
       "licenseURL": "https://github.com/intermine/intermine/blob/dev/LICENSE"
     }
   ],
