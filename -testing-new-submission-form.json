@@ -1,0 +1,57 @@
+{
+	"name": " Testing New Submission Form",
+	"description": " Testing is an open-source software for civil registration, designed for low resource settings",
+	"website": "https://www.opencrvs.org/",
+	"type": [
+		"data"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": 2,
+			"evidenceText": "SDG 2"
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "UN SDG ",
+		"website": "https://sdgs.un.org/goals"
+	},
+	"license": [
+		{
+			"spdx": "Apache-1.1",
+			"licenseURL": "https://github.com/unicef/publicgoods-candidates/blob/master/LICENSE"
+		}
+	],
+	"clearOwnership": {
+		"isOwnershipExplicit": "No"
+	},
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "No"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "No"
+	},
+	"NonPII": {
+		"collectsNonPII": "No"
+	},
+	"privacy": {
+		"isPrivacyCompliant": "No"
+	},
+	"standards": {
+		"supportStandards": "No",
+		"implementBestPractices": "No"
+	},
+	"preventHarm": {
+		"stepsToPreventHarm": "No"
+	},
+	"dataPrivacySecurity": {
+		"collectsPII": "No"
+	},
+	"inappropriateIllegalContent": {
+		"collectStoreDistribute": "No"
+	},
+	"protectionFromHarassment": {
+		"userInteraction": "No"
+	},
+	"locations": {}
+}
