@@ -26,7 +26,12 @@
   "organizations": [
     {
       "name": "Fred Hutchinson Cancer Research Center",
-      "website": "https://fredhutch.org/",
+      "website": "https://www.fredhutch.org/en/research/institutes-networks-ircs/seattle-translational-tumor-research.html",
+      "org_type": "owner"
+    },
+    {
+      "name": "Seattle Translational Tumor Research",
+      "website": "https://www.sttrcancer.org/",
       "org_type": "owner"
     }
   ],
