@@ -1,0 +1,29 @@
+{
+  "name": "tim",
+  "description": "tenda",
+  "website": "https://www.google.com/search?q=cuisine+complete&rlz=1C5CHFA_enFR788FR789&oq=&aqs=chrome.2.35i39i362l8...8.25027j0j1&sourceid=chrome&ie=UTF-8",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause-LBNL",
+      "licenseURL": "https://www.google.com/search?q=cuisine+complete&rlz=1C5CHFA_enFR788FR789&oq=&aqs=chrome.2.35i39i362l8...8.25027j0j1&sourceid=chrome&ie=UTF-8"
+    }
+  ],
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ]
+  ],
+  "SDGevidence": "nana",
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "oma",
+      "org_type": "owner"
+    }
+  ]
+}
+
