@@ -14,7 +14,7 @@
       "evidenceURL": "https://bigbluebutton.org/2020/04/19/bigbluebutton-at-orange-county-public-schools/"
     }
   ],
-  "sectors": [],
+  "sectors": ["Education"],
   "type": [
     "software"
   ],
