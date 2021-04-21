@@ -1,0 +1,30 @@
+{
+  "name": "tata",
+  "description": "Health and wellbeing",
+  "website": "https://uxfol.io/",
+  "license": [
+    {
+      "spdx": "BSD-1-Clause",
+      "licenseURL": "https://uxfol.io/"
+    }
+  ],
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ]
+  ],
+  "SDGevidence": "https://www.ikea.com/fr/fr/rooms/bathroom/how-to/?icid=fr|20210204|hub-inspi|how-to|bathroom",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://uxfol.io/",
+  "organizations": [
+    {
+      "name": "kit",
+      "org_type": "owner"
+    }
+  ]
+}
+
