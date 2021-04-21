@@ -1,34 +1,45 @@
 {
-  "name": "tim",
+  "name": "Tim",
   "description": "About health and wellbeing",
   "website": "https://www.upwork.com/messages/rooms/room_30a6e31a9095d01ca1cef247f4d47373",
   "license": [
     {
       "spdx": "Artistic-1.0",
       "licenseURL": "https://www.upwork.com/messages/rooms/room_30a6e31a9095d01ca1cef247f4d47373"
+    },
+    {
+      "spdx": "BSD-3-Clause-LBNL",
+      "licenseURL": "https://www.google.com/search?q=cuisine+complete&rlz=1C5CHFA_enFR788FR789&oq=&aqs=chrome.2.35i39i362l8...8.25027j0j1&sourceid=chrome&ie=UTF-8"
     }
   ],
   "SDGs": [
-    [
-      4,
-      "Quality Education"
-    ],
-    [
-      6,
-      "Clean Water and Sanitation"
-    ]
+    {
+      "SDGNumber": 4,
+      "evidenceText": "",
+      "evidenceURL": "https://www.upwork.com/messages/rooms/room_30a6e31a9095d01ca1cef247f4d47373"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "",
+      "evidenceURL": ""
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://www.upwork.com/messages/rooms/room_30a6e31a9095d01ca1cef247f4d47373"
+    }
   ],
-  "SDGevidence": "https://www.upwork.com/messages/rooms/room_30a6e31a9095d01ca1cef247f4d47373",
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "content"
   ],
   "repositoryURL": "https://www.upwork.com/messages/rooms/room_30a6e31a9095d01ca1cef247f4d47373",
   "organizations": [
     {
       "name": "Anne",
+      "website": "",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
