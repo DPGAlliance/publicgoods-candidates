@@ -1,0 +1,30 @@
+{
+        "name": "The Programming Historian"
+        "description": "Project of digital humanities and digital history methodology. It helps humanists learn digital tools, techniques, and workflows that facilitate research and teaching.",
+        "website": "https://programminghistorian.org/",
+        "license": [
+                {
+                        "spdx": "CC-BY-4.0",
+                        "licenseURL": "https://programminghistorian.org/en/about"
+                }
+        ],
+        "SDGs": [
+                {
+                        "SDGNumber": "4",
+                        "evidenceText": "The Programming Historian team is committed to open source values. All contributed lessons make use of open source programming languages and software whenever possible. This policy is meant to minimize costs for all parties, and to allow the greatest possible level of participation.  In order to ensure quality education, they believe everyone should be able to benefit from the tutorials, not just those with large research budgets for expensive proprietary software.",
+                        "evidenceURL": "https://programminghistorian.org/en/about"
+                }
+        ],
+        "sectors": ["Education"],
+        "type": ["software"],
+        "repositoryURL": "https://github.com/programminghistorian",
+        "organizations": [
+                {
+                        "name": "ProgHist Limited",
+                        "website": "https://programminghistorian.org/",
+                        "org_type": "owner",
+                        
+                }
+        ],
+        "stage": "nominee"
+}
