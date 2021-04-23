@@ -1,0 +1,29 @@
+{
+  "name": "Scikit Learn",
+  "description": "Scikit Learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy",
+  "website": "https://scikit-learn.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/scikit-learn/scikit-learn/blob/main/COPYING"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://opensource.com/article/18/9/how-use-scikit-learn-data-science-projects"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/scikit-learn/scikit-learn",
+  "organizations": [
+    {
+      "name": "Scikit Learn",
+      "website": "https://scikit-learn.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
