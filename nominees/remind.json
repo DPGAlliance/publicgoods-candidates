@@ -4,7 +4,7 @@
   "website": "https://www.pik-potsdam.de/research/transformation-pathways/models/remind",
   "license": [
     {
-      "spdx": "	AGPL-3.0",
+      "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/remindmodel/remind/blob/develop/LICENSE"
     }
   ],
