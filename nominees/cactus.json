@@ -1,0 +1,34 @@
+{
+  "name": "Cactus",
+  "description": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.",
+  "website": "https://www.sandia.gov/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/SNL-WaterPower/CACTUS/blob/dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "SDGevidence": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/SNL-WaterPower/CACTUS/",
+  "organizations": [
+    {
+      "name": "Sandia National Laboratories",
+      "org_type": "owner"
+    }
+  ]
+}
+
