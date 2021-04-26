@@ -1,0 +1,78 @@
+{
+	"name": "Tangawizi",
+	"description": "Health and Wellbeing",
+	"website": "https://uxfol.io/annekwaro",
+	"type": [
+		"model"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": 5,
+			"evidenceText": "Peace"
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "linx",
+		"website": "https://uxfol.io/annekwaro",
+		"contact_name": "Sylvia",
+		"contact_email": "annekwaro547@gmail.com"
+	},
+	"evidenceURL5": "https://uxfol.io/annekwaro",
+	"license": [],
+	"clearOwnership": {
+		"isOwnershipExplicit": "No"
+	},
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "Yes",
+		"isSoftwarePltIndependent": "Yes",
+		"pltIndependenceDesc": "https://uxfol.io/annekwaro"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "Yes",
+		"documentationURL": "https://uxfol.io/annekwaro"
+	},
+	"NonPII": {
+		"collectsNonPII": "No"
+	},
+	"privacy": {
+		"isPrivacyCompliant": "No"
+	},
+	"standards": {
+		"supportStandards": "No",
+		"implementBestPractices": "No"
+	},
+	"preventHarm": {
+		"stepsToPreventHarm": "Yes",
+		"additionalInfoMechanismProcessesPolicies": "https://uxfol.io/annekwaro"
+	},
+	"dataPrivacySecurity": {
+		"collectsPII": "Yes",
+		"typesOfDataCollected": [
+			"https://uxfol.io/annekwaro"
+		],
+		"thirdPartyDataSharing": "No"
+	},
+	"inappropriateIllegalContent": {
+		"collectStoreDistribute": "No"
+	},
+	"protectionFromHarassment": {
+		"userInteraction": "Yes",
+		"addressSafetySecurityUnderageUsers": "Yes",
+		"stepsAddressRiskPreventSafetyUnderageUsers": [
+			"https://uxfol.io/annekwaro"
+		],
+		"griefAbuseHarassmentProtection": "Yes",
+		"harassmentProtectionSteps": [
+			"https://uxfol.io/annekwaro"
+		]
+	},
+	"locations": {
+		"developmentCountries": [
+			"Algeria"
+		],
+		"deploymentCountries": [
+			"Australia"
+		]
+	}
+}
