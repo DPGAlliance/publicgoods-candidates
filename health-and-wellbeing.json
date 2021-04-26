@@ -1,0 +1,63 @@
+{
+	"name": "Health and Wellbeing",
+	"description": "Health for prediabetic seniors",
+	"website": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b",
+	"type": [
+		"standard"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": 7,
+			"evidenceText": "Energy"
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "Clana",
+		"website": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b",
+		"contact_name": "Mercy",
+		"contact_email": "annekwaro547@gmail.com"
+	},
+	"evidenceURL7": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b",
+	"clearOwnership": {
+		"isOwnershipExplicit": "No"
+	},
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "No"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "Yes",
+		"documentationURL": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b"
+	},
+	"NonPII": {
+		"collectsNonPII": "No"
+	},
+	"privacy": {
+		"isPrivacyCompliant": "No"
+	},
+	"standards": {
+		"supportStandards": "Unknown",
+		"implementBestPractices": "No"
+	},
+	"preventHarm": {
+		"stepsToPreventHarm": "Yes",
+		"additionalInfoMechanismProcessesPolicies": "We follow the const of KENYA"
+	},
+	"dataPrivacySecurity": {
+		"collectsPII": "No"
+	},
+	"inappropriateIllegalContent": {
+		"collectStoreDistribute": "No"
+	},
+	"protectionFromHarassment": {
+		"userInteraction": "No"
+	},
+	"locations": {
+		"developmentCountries": [
+			"Afghanistan"
+		],
+		"deploymentCountries": [
+			"Austria"
+		]
+	}
+}
