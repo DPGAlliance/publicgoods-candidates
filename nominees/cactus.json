@@ -9,17 +9,20 @@
     }
   ],
   "SDGs": [
-    [
-      6,
-      "Clean Water and Sanitation"
-    ],
-    [
-      13,
-      "Climate Action"
-    ]
+    {
+      "SDGNumber": 6,
+      "evidenceText": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate.",
+      "evidenceURL": ""
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate.",
+      "evidenceURL": ""
+    }
   ],
-  "SDGevidence": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate",
-  "sectors": [],
+  "sectors": [
+    "Water and Sanitation"
+  ],
   "type": [
     "software"
   ],
@@ -27,8 +30,9 @@
   "organizations": [
     {
       "name": "Sandia National Laboratories",
+      "website": "https://www.sandia.gov/",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
