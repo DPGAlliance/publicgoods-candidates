@@ -1,0 +1,43 @@
+{
+  "name": "Liquid-Prep",
+  "description": "Liquid Prep offers an end-to-end solution for farmers looking to optimize their water usage; especially during times of drought.",
+  "website": "https://www.liquidprep.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Call-for-Code/Liquid-Prep/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      12,
+      "Responsible Consumption and Production"
+    ],
+    [
+      13,
+      "Climate Action"
+    ]
+  ],
+  "SDGevidence": "https://github.com/Call-for-Code/Liquid-Prep#readme",
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositoryURL": "https://github.com/Call-for-Code/Liquid-Prep",
+  "organizations": [
+    {
+      "name": "Call-for-Code",
+      "org_type": "owner"
+    }
+  ]
+}
+
