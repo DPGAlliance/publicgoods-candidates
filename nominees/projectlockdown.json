@@ -1,0 +1,30 @@
+{
+  "name": "ProjectLockdown",
+  "description": "Project Lockdown (an initiative from The IO Foundation) is a civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe.",
+  "website": "https://projectlockdown.world/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/TheIOFoundation/ProjectLockdown/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "SDGevidence": "A convergence project between tech capacity building and open source development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights and where programmers can embrace their new role as Human and Digital Rights defenders.\nhttps://github.com/TheIOFoundation/ProjectLockdown#readme",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/TheIOFoundation/ProjectLockdown",
+  "organizations": [
+    {
+      "name": "TheIOFoundation",
+      "org_type": "owner"
+    }
+  ]
+}
+
