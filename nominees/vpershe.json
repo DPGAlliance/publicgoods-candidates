@@ -1,0 +1,42 @@
+{
+  "name": "Vpershe",
+  "description": "A website for sex education for teenagers in Ukraine.",
+  "website": "https://vpershe.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/vstanyshevskyy/vpershe/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Vpershe is a great collection of topics about sex education. They raise topics that are taboo in society. For example, 'What a normal vulva looks like?', 'How to talk to children about their sexuality.', 'sex rules during menstruation', etc. On vpershe users can also find interactive and verified information about the body, health or ask a question.",
+      "evidenceURL": "https://vpershe.com/articles/normal-vulvas"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Vpershe is a great collection of topics about sex education. They raise topics that are taboo in society. They also empower womens, girls, non-binary people and LGBTQ by telling stories in contex of sexuality, self-identification and discrimination. For example, 'what is slutshaming and how to deal with it?', 'Who are non-binary people?', 'My child is different. How to accept it?' ",
+      "evidenceURL": "https://vpershe.com/stories/scho-robyty-yakscho-ya-lesbiyka-nebinarny-lyudy"
+    }
+  ],
+  "sectors": [
+    "Education",
+    "Health",
+    "Gender and Minority Groups",
+    "Youth",
+    "Media"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/vstanyshevskyy/vpershe",
+  "organizations": [
+    {
+      "name": "Vpershe",
+      "website": "https://vpershe.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
