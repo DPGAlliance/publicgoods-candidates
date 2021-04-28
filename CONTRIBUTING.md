@@ -50,7 +50,7 @@ Again you have two options:
   [nominees folder](https://github.com/unicef/publicgoods-candidates/tree/master/nominees) of this repository, click on the `Add file` 
   button towards the top right of the page, and select `Create new file`. 
   
-* Alternatively, you can create and edit a new file in your computer, after forking and cloning this repository and making changes to your local copy:
+* Alternatively, you can create and edit a new file in your computer after forking and cloning this repository:
   
   - Go to the [unicef/publicgoods-candidates repository on github](https://github.com/unicef/publicgoods-candidates) and click on the Fork button on the top right corner. A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
   - Go to your own Github profile and you will see a repository named publicgoods-candidates. You can now create a local copy of it on your machine by cloning the repository:
@@ -62,7 +62,7 @@ Again you have two options:
     ```bash
     git clone git@github.com:<your_github_username>/publicgoods-candidates.git
     ```
-    Navigate to the `nominees/` folder in your local copy, and create the new file there.
+    Navigate to the `nominees/` folder in your local copy, and create the new file there. After adding all the required fields to the file, you can open a [Pull Request](https://github.com/unicef/publicgoods-candidates/pulls) on this repository as a submission
  
 The filename must match the `name` field (see below) in [kebab-case](https://wiki.c2.com/?KebabCase), and `.json` as the extension. 
 For example: [wikipedia.json](nominees/wikipedia.json) or [inlcusion-ukr.json](nominees/inclusion-ukr.json)
