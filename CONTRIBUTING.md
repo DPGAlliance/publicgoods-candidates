@@ -53,7 +53,7 @@ Again you have two options:
 * Alternatively, you can create and edit a new file in your computer after forking and cloning this repository:
   
   - Go to the [unicef/publicgoods-candidates repository on github](https://github.com/unicef/publicgoods-candidates) and click on the Fork button on the top right corner. A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
-  - Go to your own Github profile and you will see a repository named publicgoods-candidates. You can now create a local copy of it on your machine by cloning the repository:
+  - Go to your own Github profile and you will see a repository named `publicgoods-candidates`. You can now create a local copy of it on your machine by cloning the repository:
     - Using HTTPS:
     ```bash
     git clone https://github.com/<your_github_username>/publicgoods-candidates.git
@@ -76,7 +76,7 @@ For the `license` field, refer to the [Specifying Licenses](#specifying-licenses
 ### 4a. Submit
 
 * If you are making the contribution through the browser, scroll down and accept the suggested field for the commit message `Create <filename>`, and choose `Create a new branch for this commit and start a pull request`. Click on `Propose new file`.
-* If you are making the contribution through the local copy on your computer, once you push the changes to your forked repository, click on the Compare & pull request button which will appear at the top in GitHub. 
+* If you are making the contribution through the local copy on your computer, once you push the changes to your forked repository, click on the `Compare & pull request` button which will appear at the top in GitHub. 
 
 You are taken to a new page where you can leave a comment about the file you are about to propose to add, and finally click on `Create Pull Request`
 
