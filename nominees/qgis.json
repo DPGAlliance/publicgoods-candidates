@@ -1,0 +1,31 @@
+{
+  "name": "QGIS",
+  "description": "QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.",
+  "website": "https://www.qgis.org/en/site/",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/qgis/QGIS/blob/master/COPYING"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "QGIS has a lot of features that helps develop beautiful cartography, robust geospatial analysis and create landscape/city design.",
+      "evidenceUrl": "https://github.com/qgis/QGIS"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/qgis/QGIS",
+  "organizations": [
+    {
+      "name": "QGIS",
+      "website": "https://www.qgis.org/en/site/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
