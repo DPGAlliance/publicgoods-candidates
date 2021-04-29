@@ -83,12 +83,24 @@ You are taken to a new page where you can leave a comment about the file you are
 ### 5a. Validate your submission
 
 Wait for the green checkmark to say `All checks have passed` to have confirmation that the file complies with the expected format, and is ready to merge pending a review. 
-The automated tests that are run for all nominee files include: [JSON schema validation](/nominee-schema.json), linting (2-space indentation), 
-ensuring consistent file naming, and ensuring a consistent order in the fields of the JSON files. Refer to the [development overview](/docs/development.md#overview)
-for additional information.
+If you see that some tests fail, follow the link to the Continous Integration (CI) build, which will provide with the cause of the error. Please correct any errors until you see that all checks pass. The automated tests that are run for all nominee files and instructions to debug common errors in them are given below:
 
-If you see that the some tests fail, follow the link to the Continous Integration (CI) build, which will provide with the cause of the error. 
-Please correct any errors until you see that all checks pass
+* [JSON schema validation](/nominee-schema.json)
+  - This test ensures that all JSON files have the required fields, and each of these fields has the expected data type.
+  - The CI build will indicate in which line the error lies. Please ensure that the field names and values entered in that line align with the schema.  
+* Linting 
+  - This test ensures that there is 2-space identation and a predefined separation of fields line by line.
+  - If you are working on your local machine, run `npm run lint:fix` to automatically fix issues with linting.
+  - If you are submitting the file directly through the browser, ensure that you remove all extra spaces and the fields are separated line by line.
+* Ensuring consistent file naming
+  - This test checks that all data files are named consistely, that is by using the field name in [kebab-case](https://wiki.c2.com/?KebabCase).
+  - If this test fails, ensure that punctuation is removed and spaces are replaced by single hyphens in the name of your file. 
+* Ensuring consistent order in the fields of JSON files
+  - This test checks that the data fields in all JSON files are in a predefined order.
+  - Please ensure that all field names in your file are as per the order given in the [template](#template).
+
+Refer to the [development overview](/docs/development.md#overview) for additional information. 
+
 
 ## Template
 
