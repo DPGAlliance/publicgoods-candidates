@@ -1,0 +1,81 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependecies
+        run: npm install
+      - name: Validate JSON schema
+        run: npm test
+      - name: Linter
+        run: npm run lint
+      - name: Check filenames
+        run: ./scripts/check-filenames.bash
+      - name: Check order of fields in each file
+        run: npm run order
+
+  # deploy:
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   if: github.ref == 'refs/heads/master'
+
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - name: Install dependecies
+  #       run: npm install
+  #     # - name: Run Server
+  #     #   run: |
+  #     #     git clone https://github.com/unicef/publicgoods-wordpress.git ../publicgoods-wordpress;
+  #     #     pushd ../publicgoods-wordpress;
+  #     #     php -S localhost:8000 &
+  #     #     popd
+  #     - name: Deploy
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
+  #       run: ./scripts/push.bash
+
+  # open_pr:
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   if: |
+  #     github.ref == 'refs/heads/master' &&
+  #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
+  #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
+
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - id: file_changes
+  #       uses: trilom/file-changes-action@v1.2.3
+  #     - name: Install dependencies
+  #       run:
+  #         npm install
+  #     - name: open PR
+  #       env:
+  #         GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
+  #       run:
+  #         node scripts/open_pr.js
+
+  # api:
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   if: github.ref == 'refs/heads/master'
+
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - id: file_changes
+  #       uses: trilom/file-changes-action@v1.2.3
+  #     - name: Install dependencies
+  #       run:
+  #         npm install
+  #     - name: Update API
+  #       env:
+  #         GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
+  #       run:
+  #         node scripts/api.js
