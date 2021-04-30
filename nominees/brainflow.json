@@ -14,7 +14,9 @@
       "evidenceText": "With this library neuroscientist can obtain, parse and analyze electrical brain activity (EEG), muscle activity (EMG), heart rate (ECG) and other kinds of data from biosensors. For example, it can help develop tools and software for people with disabilities."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
