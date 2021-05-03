@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "The project owner for Primero reports that (a) the project collects or uses non-personally identifiable information (non-PII) data, and (b) there is a mechanism for extracting or importing non-PII data from the system in a non-proprietary format. They describe such mechanism as follows:",
+    "confidence": "4"
+  },
+  "user": "lacabra",
+  "timestamp": 1620077381,
+  "timeTaken": 108
+}
