@@ -126,6 +126,9 @@ Please correct any errors until you see that all checks pass
         "stage": "REQUIRED: Screening stage of Digital Public Good"
 }
 ```
+### Specifying SDGs
+
+Refer to [the UN’s 2030 Sustainable Development Goals](https://sdgs.un.org/goals) for details about each SDG. 
 
 ### Specifying Licenses
 
