@@ -1,0 +1,54 @@
+{
+	"name": "Anne Kwaro",
+	"description": "Health for prediabetic seniors",
+	"website": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b",
+	"type": [
+		"content"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": 1,
+			"evidenceText": "Gender"
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "Clana",
+		"website": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b",
+		"contact_name": "Mercy",
+		"contact_email": "annekwaro547@gmail.com"
+	},
+	"evidenceURL1": "https://uxfol.io/home/portfolios/e1d661a3-8b66-4229-b349-82342df6b19b",
+	"clearOwnership": {
+		"isOwnershipExplicit": "Unknown"
+	},
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "Unknown"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "Unknown"
+	},
+	"NonPII": {
+		"collectsNonPII": "Unknown"
+	},
+	"privacy": {
+		"isPrivacyCompliant": "Unknown"
+	},
+	"standards": {
+		"supportStandards": "Unknown",
+		"implementBestPractices": "Unknown"
+	},
+	"preventHarm": {
+		"stepsToPreventHarm": "Unknown"
+	},
+	"dataPrivacySecurity": {
+		"collectsPII": "No"
+	},
+	"inappropriateIllegalContent": {
+		"collectStoreDistribute": "No"
+	},
+	"protectionFromHarassment": {
+		"userInteraction": "No"
+	},
+	"locations": {}
+}
