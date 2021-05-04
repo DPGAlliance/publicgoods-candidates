@@ -1,0 +1,81 @@
+{
+  "name": "High Resolution Population Density Estimates",
+  "description": "The world's most accurate population datasets, derived from satellite imagery and census data.",
+  "website": "https://dataforgood.fb.com/tools/population-density-maps/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://data.humdata.org/dataset/highresolutionpopulationdensitymaps-ken"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ],
+    [
+      4,
+      "Quality Education"
+    ],
+    [
+      5,
+      "Gender Equality"
+    ],
+    [
+      6,
+      "Clean Water and Sanitation"
+    ],
+    [
+      7,
+      "Affordable and Clean Energy"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      9,
+      "Industry, Innovation and Infrastructure"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ],
+    [
+      11,
+      "Sustainable Cities and Communities"
+    ],
+    [
+      13,
+      "Climate Action"
+    ],
+    [
+      15,
+      "Life On Land"
+    ],
+    [
+      17,
+      "Partnerships for the Goals"
+    ]
+  ],
+  "SDGevidence": "This webpage contains information about how the dataset is designed and used [https://dataforgood.fb.com/tools/population-density-maps/], including case studies where the data has been used by orgs like UNDP to inform the COVID-19 response, or where it underpins research published in Nature about accurately estimating flood exposure. There is also a research paper available comparing other population estimates to this dataset [https://www.biorxiv.org/content/10.1101/2020.06.18.160101v1.full.pdf].",
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Facebook Data For Good",
+      "org_type": "owner"
+    }
+  ]
+}
+
