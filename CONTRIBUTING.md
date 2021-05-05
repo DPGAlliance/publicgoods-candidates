@@ -87,17 +87,20 @@ If you see that some tests fail, follow the link to the Continous Integration (C
 
 * [JSON schema validation](/nominee-schema.json)
   - This test ensures that all JSON files have the required fields, and each of these fields has the expected data type.
-  - The CI build will indicate in which line the error lies. Please ensure that the field names and values entered in that line align with the schema.  
-* Linting 
+  - The CI build will indicate in which line the error lies. Please ensure that the field names and values entered in that line align with the schema.
+  - If you are working on your local machine, run `npm run test` to run the JSON schema validation. 
+* **Linting** 
   - This test ensures that there is 2-space identation and a predefined separation of fields line by line.
   - If you are working on your local machine, run `npm run lint:fix` to automatically fix issues with linting.
   - If you are submitting the file directly through the browser, ensure that you remove all extra spaces and the fields are separated line by line.
-* Ensuring consistent file naming
+* **Ensuring consistent file naming**
   - This test checks that all data files are named consistely, that is by using the field name in [kebab-case](https://wiki.c2.com/?KebabCase).
   - If this test fails, ensure that punctuation is removed and spaces are replaced by single hyphens in the name of your file. 
-* Ensuring consistent order in the fields of JSON files
+  - If you are working on your local machine, run `npm run check:fix` to automatically name all the files using the right convention.
+* **Ensuring consistent order in the fields of JSON files**
   - This test checks that the data fields in all JSON files are in a predefined order.
   - Please ensure that all field names in your file are as per the order given in the [template](#template).
+  - If you are working on your local machine, run `npm run order:fix` to automatically sort all the fields correctly.
 
 Refer to the [development overview](/docs/development.md#overview) for additional information. 
 
