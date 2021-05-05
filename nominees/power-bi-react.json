@@ -1,0 +1,35 @@
+{
+  "name": "Power BI React",
+  "description": "Power BI allows for data to be stored in the cloud or hosted on the user’s computer. Single-view live dashboard is filled with interactive charts, analysis, graphs, and maps. Power BI for React provides components and services to enable developers to easily embed Power BI reports into their applications.",
+  "website": "https://powerbi.microsoft.com/en-us/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/microsoft/powerbi-client-react/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://www.journalofaccountancy.com/issues/2020/mar/microsoft-power-bi-data-excel.html"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://www.journalofaccountancy.com/issues/2020/mar/microsoft-power-bi-data-excel.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/microsoft/powerbi-client-react",
+  "organizations": [
+    {
+      "name": "Microsoft",
+      "website": "https://opensource.microsoft.com/",
+      "org_type": "owner",
+      "contact_email": "opensource@microsoft.com"
+    }
+  ],
+  "stage": "nominee"
+}
