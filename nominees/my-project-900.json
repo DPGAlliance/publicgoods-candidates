@@ -1,0 +1,35 @@
+{
+  "name": "My Project 900",
+  "aliases": [
+    "District Health Information System 2"
+  ],
+  "description": "DHIS2 is a free, open-source, fully customizable platform for collecting, analyzing, visualizing, and sharing aggregate and individual-data for district-level, national, regional, and international system and program management in health, education, and other domains.",
+  "website": "https://www.dhis2.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "DHIS2 is the world's largest Health Management Information System platform, and is currently in use in more than 73 low- and middle-income countries, 60 are deployed at national scale. DHIS2 is also used by national health authorities and international health programs and organizations (such as WHO, Pepfar, The Global Fund, Gavi) for management of health programs related to specific diseases, such as HIV, TB, Malaria, and others. In addition, during the COVID-19 pandemic, at least 36 countries rapidly deployed DHIS2 for national pandemic response."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Health Information Systems Programme (HISP), University of Oslo",
+      "website": "https://www.mn.uio.no/ifi/english/research/networks/hisp/",
+      "org_type": "owner",
+      "contact_name": "Nathan Baleeta",
+      "contact_email": "nbaleeta@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
