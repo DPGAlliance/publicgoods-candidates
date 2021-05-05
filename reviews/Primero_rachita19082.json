@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The given link does not point to the right document but the description and the link https://www.unicef.org/evaluation/documents/primero makes it clear that Primero works towards this SDG.",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Referred to https://www.unicef.org/evaluation/documents/primero",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Referred to https://www.unicef.org/evaluation/documents/primero",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "rachita19082",
+  "timestamp": 1617137173
+}
