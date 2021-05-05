@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "It also points to other Bahmni's products Licences ",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "Mechanism described not clear enough. \n",
+    "confidence": "2"
+  },
+  "user": "Rolikasi",
+  "timestamp": 1619694539,
+  "timeTaken": 1299
+}
