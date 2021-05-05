@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "This link is to the project Github, not to a license file. While some of the repos under this project use GPL, some use Apache. The link should be directly to the License file.",
+    "confidence": "1"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "This provides the same evidence used to justify SDG 1. While decreasing poverty can be assumed to decrease hunger as well, this project is targeted at the former.",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "As with SDG 2, the evidence cited makes no direct mention of health initiatives.",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "Quickstart has @TODO marks, no actual instructions. Documentation appears to be incomplete.",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "jcpickett1",
+  "timestamp": 1611420851
+}

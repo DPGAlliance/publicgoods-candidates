@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "DivyanshiSingh",
+  "timestamp": 1619542404,
+  "timeTaken": 74
+}
