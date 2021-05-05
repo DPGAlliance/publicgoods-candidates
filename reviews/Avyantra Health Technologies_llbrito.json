@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes. The provided link presents an UNICEF's evaluation of the project.",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "It uses machine learning to help medical diagnosis.",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "The source code of the project can be found here: https://github.com/kvklrao/Avyantra_Presco_Project \nThe provided link shows the documentation of the project, but it is neither clearly written nor organized.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "The more suitable link to help people to technically understand the project would be the link to the github repository (https://github.com/kvklrao/Avyantra_Presco_Project), in which they specify the purpose of each part of the code.\nThe provided link contains some files in which the goals of the project are presented.",
+    "confidence": "5"
+  },
+  "user": "llbrito",
+  "timestamp": 1617371772
+}

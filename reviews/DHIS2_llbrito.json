@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "It's \"a permissive license similar to the BSD 2-Clause License, but with a 3rd clause that prohibits others from using the name of the project or its contributors to promote derived products without written consent.\"",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The evidence provided justify their relevance to SDG 3.",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "The evidence provided justify their relevance to SDG 4.",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "The second provided link is broken, but this other link here: (https://dhis2.org/vision-and-partners/) can help to support the claim that DHIS2 is relevant to SDG 17.",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "More specifically all the details are here: (https://github.com/dhis2/dhis2-core)",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "This link provides a very detailed documentation.",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "llbrito",
+  "timestamp": 1617737595
+}
