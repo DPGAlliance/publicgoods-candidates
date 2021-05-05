@@ -1,0 +1,55 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "This link also points to Norwegian Licence for Open Government Data (NLOD) 2.0 ",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "Rolikasi",
+  "timestamp": 1619695517,
+  "timeTaken": 347
+}
