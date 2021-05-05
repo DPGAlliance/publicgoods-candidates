@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/OpenEMS/openems/blob/develop/LICENSE-AGPL-3.0"
+      "licenseURL": "https://github.com/emoncms/emoncms/blob/master/LICENSE.txt"
     }
   ],
   "SDGs": [
