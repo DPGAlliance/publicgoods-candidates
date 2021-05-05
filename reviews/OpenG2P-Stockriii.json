@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Justified relevance if spread equally",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Better access to money means better access to food",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "A better ecosystem supports a better healthsystem",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "Better financesytems help better education to grow and advance",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "No real impact on this issue",
+    "confidence": "2"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "Better financial services support the construction of better infrastructure",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "Helps at the payment for clean energy",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "New technologies boost economy",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": false,
+    "comment": "Not everybody has access to such advanced sytems for financial services",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": false,
+    "comment": "No real impact",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Get started button and documentation helps easy access to the project",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "Stockriii",
+  "timestamp": 1612122286
+}
