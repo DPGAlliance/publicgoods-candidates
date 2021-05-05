@@ -1,0 +1,44 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes, in the provided link we can find the following: \"Mojaloop serves as a blueprint for how to simplify and reduce the cost of payment interoperability so that banks and other providers can achieve higher transaction volumes and remove the high fees and other barriers that prevent unbanked women with a mobile phone from using digital financial services. \"",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Yes the article mentions: \"more importantly, this capability can help underserved women to become economically active\"",
+    "confidence": "5"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Yes, the article mentions the collaboration between Mojaloop, Google, and 5 other Sponsors.",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "Msgl",
+  "timestamp": 1618230660
+}
