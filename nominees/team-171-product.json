@@ -9,36 +9,34 @@
     }
   ],
   "SDGs": [
-    [
-      1,
-      "No Poverty"
-    ],
-    [
-      8,
-      "Decent Work and Economic Growth"
-    ],
-    [
-      9,
-      "Industry, Innovation and Infrastructure"
-    ],
-    [
-      11,
-      "Sustainable Cities and Communities"
-    ]
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://github.com/BuildForSDG/team-171-product#readme"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://github.com/BuildForSDG/team-171-product#readme"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://github.com/BuildForSDG/team-171-product#readme"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://github.com/BuildForSDG/team-171-product#readme"
+    }
   ],
-  "SDGevidence": "https://github.com/BuildForSDG/team-171-product#readme",
   "sectors": [],
   "type": [
-    "software",
-    "standard",
-    "content"
+    "software"
   ],
   "repositoryURL": "https://github.com/BuildForSDG/team-171-product",
   "organizations": [
     {
       "name": "BuildForSDG",
+      "website": "https://buildforsdg.andela.com/",
       "org_type": "owner"
     }
-  ]
+  ],
+  "stage": "nominee"
 }
-
