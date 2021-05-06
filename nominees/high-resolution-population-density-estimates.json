@@ -1,0 +1,50 @@
+{
+  "name": "High Resolution Population Density Estimates",
+  "description": "The world's most accurate population datasets, derived from satellite imagery and census data.",
+  "website": "https://dataforgood.fb.com/tools/population-density-maps/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://data.humdata.org/dataset/highresolutionpopulationdensitymaps-ken"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Our Population Density Maps help nonprofit and multilateral agencies plan vaccination campaigns, respond to natural disasters, and evaluate rural electrification plans. These maps help researchers assess the ways in which climate change and urbanization impact where people live.",
+      "evidenceURL": "https://dataforgood.fb.com/tools/population-density-maps/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Our Population Density Maps help nonprofit and multilateral agencies plan vaccination campaigns, respond to natural disasters, and evaluate rural electrification plans. These maps help researchers assess the ways in which climate change and urbanization impact where people live.",
+      "evidenceURL": "https://dataforgood.fb.com/tools/population-density-maps/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Our Population Density Maps help nonprofit and multilateral agencies plan vaccination campaigns, respond to natural disasters, and evaluate rural electrification plans. These maps help researchers assess the ways in which climate change and urbanization impact where people live.",
+      "evidenceURL": "https://dataforgood.fb.com/tools/population-density-maps/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Our Population Density Maps help nonprofit and multilateral agencies plan vaccination campaigns, respond to natural disasters, and evaluate rural electrification plans. These maps help researchers assess the ways in which climate change and urbanization impact where people live.",
+      "evidenceURL": "https://dataforgood.fb.com/tools/population-density-maps/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Our Population Density Maps help nonprofit and multilateral agencies plan vaccination campaigns, respond to natural disasters, and evaluate rural electrification plans. These maps help researchers assess the ways in which climate change and urbanization impact where people live.",
+      "evidenceURL": "https://dataforgood.fb.com/tools/population-density-maps/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Facebook Data For Good",
+      "website": "https://dataforgood.fb.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
