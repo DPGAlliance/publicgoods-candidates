@@ -12,15 +12,17 @@
     {
       "SDGNumber": 10,
       "evidenceText": "A convergence project between tech capacity building and open source development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights and where programmers can embrace their new role as Human and Digital Rights defenders.",
-      "evidenceURL": "https://github.com/TheIOFoundation/ProjectLockdown#readme"
+      "evidenceURL": "https://helpwithcovid.com/projects/384-project-lockdown"
     },
     {
       "SDGNumber": 16,
       "evidenceText": "A convergence project between tech capacity building and open source development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights and where programmers can embrace their new role as Human and Digital Rights defenders.",
-      "evidenceURL": "https://github.com/TheIOFoundation/ProjectLockdown#readme"
+      "evidenceURL": "https://helpwithcovid.com/projects/384-project-lockdown"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Social Protection"
+  ],
   "type": [
     "software"
   ],
