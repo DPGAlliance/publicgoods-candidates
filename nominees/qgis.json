@@ -9,6 +9,10 @@
     }
   ],
   "SDGs": [
+     {
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.newsheads.in/education/news/indian-mapathon-making-india-aatmanirbhar-in-resource-mapping-article-64168"
+    },
     {
       "SDGNumber": 11,
       "evidenceText": "QGIS has a lot of features that helps develop beautiful cartography, robust geospatial analysis and create landscape/city design.",
