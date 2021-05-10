@@ -1,11 +1,11 @@
 {
-  "name": "Surveillance Forms",
-  "description": "Online forms for reporting rumored COVID-19 cases.",
+  "name": "Africa COVID-19 Response Toolkit: Housing Vacancy Bot",
+  "description": "A Telegram bot that allows housing officials/owners to report vacancy to a central source and allows health works/government officials to consume that information.",
   "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms/blob/master/LICENSE"
+      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms",
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot/blob/master/LICENSE",
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

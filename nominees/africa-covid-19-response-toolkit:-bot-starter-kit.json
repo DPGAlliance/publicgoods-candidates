@@ -1,11 +1,11 @@
 {
-  "name": "Internal Dashboard",
-  "description": "Internal dashboard for officials to get real time data and updates on COVID-19 on surveillance, case tracking, and monitoring.",
+  "name": "Africa COVID-19 Response Toolkit: Bot Starter Kit",
+  "description": "A basic template/starter kit for building a Messenger or Telegram bot integrated with the core ACRT API.",
   "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard/blob/master/LICENSE"
+      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard",
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit",
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",
