@@ -1,5 +1,5 @@
 {
-  "name": "Covid-19 API",
+  "name": "Africa COVID-19 Response Toolkit: COVID-19 API",
   "description": "This API can be utilised by all applications that need to write/retrieve Ethiopia Covid19 data. E.g. covid19.et project will use it to retrieve data for dashboard and write data",
   "website": "https://ethiocovid19rt.com/projects",
   "license": [
