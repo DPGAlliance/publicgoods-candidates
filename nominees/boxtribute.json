@@ -1,0 +1,38 @@
+{
+  "name": "Boxtribute",
+  "description": "A web-app for organisations to run a free shop. Giving freedom and dignity to refugees when receiving aid.",
+  "website": "https://www.boxtribute.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/boxwise/dropapp/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      8,
+      "Decent Work and Economic Growth"
+    ],
+    [
+      10,
+      "Reduced Inequalities"
+    ]
+  ],
+  "SDGevidence": "2nd place in the digital logistics award 2020 https://digitalhublogistics.com/award-2020-call/",
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/boxwise/ ",
+  "organizations": [
+    {
+      "name": "Stitching Boxwise",
+      "org_type": "owner"
+    }
+  ]
+}
+
