@@ -23,7 +23,8 @@
     {
       "name": "Ethiopia COVID-19 Response Team",
       "website": "https://ethiocovid19rt.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_email": "info@ethiocovid19rt.com"
     }
   ],
   "stage": "nominee"
