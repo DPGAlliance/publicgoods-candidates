@@ -276,12 +276,7 @@
           "type": "object",
           "description": "9.a. Data Privacy & Security",
           "required": [
-            "collectsPII",
-            "typesOfDataCollected",
-            "thirdPartyDataSharing",
-            "dataSharingCircumstances",
-            "ensurePrivacySecurity",
-            "privacySecurityDescription"
+            "collectsPII"
           ],
           "properties": {
             "collectsPII": {

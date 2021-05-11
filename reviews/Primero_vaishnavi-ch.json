@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "The project might be relevant to SDG 5, but its hard to tell from the provided evidence URL ",
+    "confidence": "1"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "The project might be relevant to SDG 8, but its hard to tell from the provided evidence URL ",
+    "confidence": "1"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The project might be relevant to SDG 16, but its hard to tell from the provided evidence URL ",
+    "confidence": "1"
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "No link was provided as supporting evidence",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "No description, link is provided ",
+    "confidence": "2"
+  },
+  "user": "vaishnavi-ch",
+  "timestamp": 1617802931
+}
