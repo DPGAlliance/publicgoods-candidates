@@ -1,11 +1,11 @@
 {
-  "name": "Emergency Relief Package Tracker",
-  "description": "This project is designed to help local organizations and government institutions help track distribution of emergency relief packages along with their contents to ensure essential supplies are evenly distributed.",
+  "name": "Africa COVID-19 Response Toolkit: Heroes Bot",
+  "description": "A Telegram bot that allows frontline healthcare workers to log symptoms they are experiencing, get counseling, best practice information, logistical assistance and provide creative ways to distress.",
   "website": "https://ethiocovid19rt.com/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker/blob/master/LICENSE"
+      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/heroes-bot/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker",
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/heroes-bot",
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",
