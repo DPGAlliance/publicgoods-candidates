@@ -1,7 +1,8 @@
 {
   "name": "Community Health Toolkit",
   "aliases": [
-    "CHT"
+    "CHT",
+    "Medic Mobile"
   ],
   "description": "The Community Health Toolkit is a collection of free and open-source technologies; open-access design, technical, and implementer resources; and a community of practice for advanced community health systems. ",
   "website": "https://communityhealthtoolkit.org/",
