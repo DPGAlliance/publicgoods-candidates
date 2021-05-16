@@ -1,0 +1,32 @@
+{
+  "name": "FarmaTrust Track and Trace",
+  "description": "Our core software solution is a pharmaceutical medicines track and trace capability designed and built to establish supply chain tracking as a public service utility.",
+  "website": "https://www.farmatrust.com/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://www.farmatrust.com/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This project aims to reduce health inequalities (up to 1m preventable and unnecessary deaths a year in LMIC) by ensuring medicines are never diverted away from those who need them most, or that sub-standard or falsified medicines are never given to a patient in a LMIC."
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "standard"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "FarmaTrust",
+      "website": "https://www.farmatrust.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
