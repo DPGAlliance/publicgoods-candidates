@@ -41,26 +41,27 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
         run: ./scripts/push.bash
 
-  open_pr:
-    needs: build
-    runs-on: ubuntu-latest
-    if: |
-      github.ref == 'refs/heads/master' &&
-      !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
-      !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
-
-    steps:
-      - uses: actions/checkout@v2
-      - id: file_changes
-        uses: trilom/file-changes-action@v1.2.3
-      - name: Install dependencies
-        run:
-          npm install
-      - name: open PR
-        env:
-          GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
-        run:
-          node scripts/open_pr.js
+  # As of May 2021, this integration is disabled. Leaving it commented it out for reference.
+  # open_pr:
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   if: |
+  #     github.ref == 'refs/heads/master' &&
+  #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
+  #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
+  #
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - id: file_changes
+  #       uses: trilom/file-changes-action@v1.2.3
+  #     - name: Install dependencies
+  #       run:
+  #         npm install
+  #     - name: open PR
+  #       env:
+  #         GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
+  #       run:
+  #         node scripts/open_pr.js
 
   api:
     needs: build
