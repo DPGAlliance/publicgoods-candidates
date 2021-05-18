@@ -1,6 +1,9 @@
 {
   "name": "OpenSRP",
-  "description": "Digital health platform for frontline health workers.",
+  "aliases": [
+    "Open Smart Register Program"
+  ],
+  "description": "Open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.",
   "website": "https://smartregister.org/",
   "license": [
     {
