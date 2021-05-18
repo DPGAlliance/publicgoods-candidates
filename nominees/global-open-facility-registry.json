@@ -1,7 +1,8 @@
 {
   "name": "Global Open Facility Registry",
   "aliases": [
-    "GOFR"
+    "GOFR",
+    "Facility Reconciliation Tool"
   ],
   "description": "GOFR is an open source federated facility registry platform for reconciling multiple facility lists and managing a primary list",
   "website": "https://www.facilitymatch.net/",
