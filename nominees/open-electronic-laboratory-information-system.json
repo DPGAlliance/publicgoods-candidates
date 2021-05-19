@@ -26,6 +26,11 @@
       "name": "I-TECH DIGI",
       "website": "https://www.go2itech.org/digital-initiatives-group-at-i-tech/",
       "org_type": "owner"
+    },
+    {
+      "name": "OpenELIS Foundation",
+      "website": "http://www.openelis.org/",
+      "org_type": "maintainer"
     }
   ],
   "stage": "nominee"
