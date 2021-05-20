@@ -18,7 +18,7 @@ const sets = [
     schema: 'nominee-schema.json'
   },
   {
-    path: './screening/',
+    path: './digitalpublicgoods/',
     schema: 'screening-schema.json'
   },
 ]
