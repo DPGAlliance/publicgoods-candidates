@@ -7,7 +7,7 @@
   "website": "https://www.aiti-kace.com.gh/noss",
   "license": [
     {
-      "spdx": "LGPL-2.1",
+      "spdx": "GPL-2.0",
       "licenseURL": "https://repos.nos.aiti-kace.com.gh/gpl2.html"
     }
   ],
