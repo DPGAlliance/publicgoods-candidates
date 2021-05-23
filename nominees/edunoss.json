@@ -7,7 +7,7 @@
   "website": "https://www.aiti-kace.com.gh/noss",
   "license": [
     {
-      "spdx": "LGPL-2.1",
+      "spdx": "GPL-2.0",
       "licenseURL": "https://repos.nos.aiti-kace.com.gh/gpl2.html"
     }
   ],
@@ -17,11 +17,13 @@
       "evidenceText": "This project seek to make available a computing platform with required educational applications, STEM Simulation tools and office productivity applications to enable pre-tertiary students learn and study ICT, Digital Skills and cultivate the habit of innovating for national development."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://repos.nos.aiti-kace.com.gh/noss/",
+  "repositoryURL": "https://repos.nos.aiti-kace.com.gh/noss/pool/",
   "organizations": [
     {
       "name": "Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE)",
@@ -31,5 +33,5 @@
       "contact_email": "fredericky@aiti-kace.com.gh"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
