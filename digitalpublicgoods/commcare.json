@@ -1,0 +1,92 @@
+{
+  "name": "CommCare",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": ""
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/dimagi/commcare-hq"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data from CommCare can exported in using several data tools available as a part of the CommCare ecosystem. https://confluence.dimagi.com/display/commcarepublic/The+CommCare+Ecosystem"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "HIPPA"
+    ],
+    "adherenceSteps": [
+      "1. Terms of Service: https://www.dimagi.com/terms/latest/tos/",
+      "2. Privacy Policy: https://www.dimagi.com/terms/latest/privacy/",
+      "3. Business Agreement: https://www.dimagi.com/terms/latest/ba/",
+      "4. Acceptable Use Policy: https://www.dimagi.com/terms/latest/aup/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://www.dimagi.com/blog/mobile-data-collection-nhs-guidelines/, \nhttps://www.dimagi.com/terms/latest/privacy/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "CommCare allows for flexible data collection and thus partners can dictate the data they store. In the context of routine immunization demographic and health data will be collected and stored"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://confluence.dimagi.com/display/commcarepublic/CommCare+Technical+Overview?preview=%2F12223445%2F56885462%2FData+Security+Overview.pdf"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
