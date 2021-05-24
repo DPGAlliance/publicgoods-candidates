@@ -49,7 +49,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "We try to educate users about the proper way to collect data, to protect their accounts, and we take steps to disable accounts when informed of any issues such as account passwords having been shared. \n Privacy ploicy: https://www.kobotoolbox.org/privacy"
+      "additionalInfoMechanismProcessesPolicies": "We try to educate users about the proper way to collect data, to protect their accounts, and we take steps to disable accounts when informed of any issues such as account passwords having been shared. \n Privacy policy: https://www.kobotoolbox.org/privacy"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
