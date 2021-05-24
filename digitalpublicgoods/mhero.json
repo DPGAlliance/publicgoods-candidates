@@ -1,0 +1,92 @@
+{
+  "name": "mHero",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.mhero.org/faq#resources"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/intrahealth/emNutt"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "exportation of data is possible and all reports include PII (the PII could be removed from the exported reports)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Various laws at the country level everywhere mHero is implemented"
+    ],
+    "adherenceSteps": [
+      "Local laws about data storage are reviewed determine how and where data is stored. Data sharing agreements are established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc. (https://www.mhero.org/sites/mhero/files/sampledatasharingenglish.docx ; https://www.mhero.org/sites/mhero/files/sampledatasharingfrench.docx)"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "mACM"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/intrahealth/emNutt",
+      "https://github.com/iHRIS/iHRIS"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development (specifically: Design with the user, Understand the existing ecosystem, Design for scale, Build for sustainability, Be data-driven, Use open standards/open data/open source/open innovation, Address Privacy and Security, Be collaborative) - see: https://digitalprinciples.org/resource/mhero-and-the-principles-for-digital-development-development-done-right/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Terms of use and mechanisms/processes/policies are developed in each country in accordance with local laws and regulations, rather than being embedded in the core software package."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "phone number",
+        "email address"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Secure access to systems for only limited number of users, differing levels of access permissions, customizations to adhere to local laws and procedures"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
