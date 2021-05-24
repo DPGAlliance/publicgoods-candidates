@@ -1,18 +1,20 @@
 {
   "name": "CommCare",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "CommCare is an ecosystem of open source components, fronted by CommCareHQ (Web) and CommCare Mobile. CommCare Web is sourced under the open source BSD license while CommCare Mobile is sourced under the Apache License. Everything we produce has clearly defined, both, functional: https://confluence.dimagi.com/display/commcarepublic/Home \n technical: https://github.com/dimagi/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/dimagi/commcare-hq"
+      "Source code: https://github.com/dimagi/commcare-hq",
+      "Use cases: https://www.dimagi.com/sectors/",
+      "Functional: https://commcare-hq.readthedocs.io/"
     ]
   },
   "NonPII": {
@@ -36,14 +38,15 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "The CommCare application is built on OpenRosa standard tools and protocols, and leverages many different open-source technologies. ",
+      "Protocols are represented using XForms, a W3C backed standard approach to more advanced forms that support nested and repeatable elements, decision support, advanced validation, and extensive user interface controls."
     ],
     "evidenceStandardSupport": [
       ""
     ],
-    "implementBestPractices": "No",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Our design and style guide has the goal to ensure that our experiences meet the standards for accessibility required by WCAG AA, Section 508 and European Standards. Link: https://www.commcarehq.org/styleguide/atoms/"
     ]
   },
   "doNoHarm": {
@@ -74,7 +77,9 @@
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "CommCare doesn't have any technical measures to address the safety and security of underage users. We require the organizations who use CommCare to comply with applicable laws about minimum age requirements of end users."
+      ],
       "griefAbuseHarassmentProtection": "No",
       "harassmentProtectionSteps": [
         ""
