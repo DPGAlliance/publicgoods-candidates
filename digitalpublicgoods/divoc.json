@@ -41,7 +41,7 @@
       "ISO/IEC 12207"
     ],
     "evidenceStandardSupport": [
-      "System architecture designs and white-paper"
+      "System architecture designs and white-paper.The link https://divoc.egov.org.in/tech-docs has our Implementation and end-user guides, API documentation, Deployment instructions, Setup configuration. Additionally, the link https://divoc.egov.org.in/understand-divoc#divoc-presentations-1 also has a country-adoption guide, for implementation instructions for adopters (e.g. country authorities)."
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -85,10 +85,11 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "India"
     ],
     "deploymentCountries": [
-      ""
+      "India",
+      "Sri Lanka"
     ]
   }
 }
