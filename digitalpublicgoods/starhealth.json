@@ -5,8 +5,8 @@
     "copyrightURL": "https://github.com/CodeForAfrica/HealthTools.API#readme"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Yes",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
@@ -16,7 +16,7 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
+    "collectsNonPII": "No",
     "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
