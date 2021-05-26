@@ -2,7 +2,7 @@
   "name": "OpenSRP",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "We recently trademarked OpenSRP through support from Digital Square.  We have not published this online but can provide this information via email if needed."
+    "copyrightURL": "Ona filed the trademark application for OpenSRP on 5 Nov 2020. The application was filed in the USA in classes 09 and 42 (Trademark reference number: 90301382)"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "We have Beam connectors that can do this."
+    "nonPIIAccessMechanism": "Beam is a unified model for defining both batch (data at rest) and streaming (data in motion) data-parallel processing pipelines. \n Why Beam? \n1. Unified - Use a single model for both batch and streaming use cases, can handle batch and streaming data with no need to write different logics separately. \n 2. Portable - Able to execute pipelines on multiple execution environments, clear separation on the programming layer with the runtime layer. This means code can be migrated to any supported execution engine (runner). 3. Extensible - Ability to write and share new SDK’s IO connectors and any transformation libraries. \n Ona’s Preference for Beam: \n Our newly built Beam ETL Tool is the tool of choice for performing data ingestion in our all systems, this stems from the above-mentioned features of Beam, its simple deployment feature that is fully managed and auto-configured; we just need to deploy the pipeline (no-ops service). Additionally, Beam ETL offers horizontal scaling that happens automatically based on a set step by step process and a configurable durability. We are moving our ETL tools that were previously built on Apache NiFi to our newly implemented BEAM ETL Tool, this has been necessitated by some challenges (save for the positive features) experienced with NiFi as itemized below; \n- Challenging stateful ETL in NiFi - it has no generic mechanisms for remembering where it stopped hence makes it hard for tracking complex ETL processes. -Poor performance in NiFi - breaking up a data transformation into multiple serialized steps is expensive, and limits NiFi’s ETL rate pretty severely when compared to a coded multi-step solution. \n - Poor queueing behavior, NiFi cannot buffer large numbers of flow files without major performance problems"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -35,7 +35,11 @@
       "FHIR.  We are also building a next generation version of OpenSRP that will be FHIR native."
     ],
     "evidenceStandardSupport": [
-      ""
+      "1. FHIR Core repo  - https://github.com/opensrp/fhircore",
+      "2. Android FHIR SDK  - https://github.com/google/android-fhir",
+      "3. HAPI FHIR Server - https://fhir.labs.smartregister.org/home",
+      "4. FHIR Admin backend https://fhir-web.opensrp-stage.smartregister.org/",
+      "5. FHIR app demo  https://www.loom.com/share/9beb0ec92745489a805dabbd1e0b5c40?t=0"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -79,10 +83,37 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "USA",
+      "Kenya",
+      "Bangladesh",
+      "Indonesia",
+      "India",
+      "Tanzania",
+      "Zambia",
+      "Pakistan",
+      "Tanzania",
+      "Malawi",
+      "Singapore",
+      "UK"
     ],
     "deploymentCountries": [
-      ""
+      "Angola",
+      "Bangladesh",
+      "Chad",
+      "DRC",
+      "Eswatini",
+      "Guinea",
+      "Indonesia",
+      "Kenya",
+      "Liberia",
+      "Malawi",
+      "Madagascar",
+      "Mauritania",
+      "Nigeria",
+      "Tanzania",
+      "Tunisia",
+      "Togo",
+      "Zambia"
     ]
   }
 }
