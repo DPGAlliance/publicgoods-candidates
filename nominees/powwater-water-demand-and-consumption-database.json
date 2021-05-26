@@ -1,0 +1,39 @@
+{
+  "name": "Powwater Water Demand and Consumption Database",
+  "aliases": [
+    "Powwater Database"
+  ],
+  "description": "The Powwater database is a free, open-source dataset of water demand and consumption data for cities across the globe aggregated for neighborhood, district, city, regional, and national analysis.  It will be utilized during open source hack-a-thons to develop innovative tools to improve water delivery access through infrastructure planning and operations for water utilities, private companies, startups, government agencies, and researchers. ",
+  "website": "https://www.powwater.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/powwater/powdocs/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 6,
+      "evidenceText": "The Powwater database will provide critical demand and consumption information to help improve accessibility of potable water for urban areas in low and middle income countries.  The database is first compiled with information on water availability through a pilot in Mombasa Kenya, and early results show how this information can smartly help coordinate water delivery and better serve citizens.  Water demand and consumption data in the database will be open sourced to provide global practitioners with a wealth of information on water use that has never been collected and compiled before for urban water supply systems.  In addition, during community hack-a-thons, these data will be used to tackle problems and gain insights from water use patterns and delivery which can improve the understanding of water movement and use in an urban context."
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The Powwater database is a crucial tool as cities, governments, and the private sector face the challenge of water access in the face of climate change.  Water is expected to be an indicator of climate change, and these data provide a clear picture of baseline water use across a city which can propel smart climate adaptation.  Flexible and resilient solutions are needed, based upon real-world learnings to yield significant benefits for citizens accessing water in a changing climate.  The data gathered on water delivery and consumption across cities in the database can provide a basis of understanding for water and infrastructure planning under climate change.  "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Powwater",
+      "website": "https://www.powwater.com",
+      "org_type": "owner",
+      "contact_name": "Jack Hartpence",
+      "contact_email": "jack@powwater.com"
+    }
+  ],
+  "stage": "DPG"
+}
