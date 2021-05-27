@@ -1,0 +1,67 @@
+{
+  "name": "Safe YOU",
+  "evidenceURL5": "https://www.forbes.com/sites/jackieabramian/2021/04/01/safe-you-mobile-app-shields-women-against-domestic-violence/?sh=3b7c82592e73",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.linkedin.com/showcase/safe-you"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/safeyou-space/safeyou/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Extraction of non PII is made through a manual mechanism from database. It still remains a restricted information and can be extracted only by authorized personnel."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Project is currently active in Armenia and Georgia. Our Policies comply with Domestic information Security laws, both in Armenia and Georgia. More specifically, this refers to “RA Civil Code” adopted on 5 May 1998, “RA Law on protection of personal data” adopted on 18 May 2015. For Georgia: \"Law of Georgia on Information Security\" adopted on 01/07/2012. We are currently reviewing our policies to comply with GDPR."
+    ],
+    "adherenceSteps": [
+      "https://docs.google.com/document/d/1OMw2OnSP-_SaXWai7kZzPeqd71RrQo2VEP_T2NUxazo/edit?usp=sharing https://docs.google.com/document/d/1Px4lfHdbUUzgH5tEW2AyQOkvorPPOau7NglPfZdBEdA/edit?usp=sharing"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "1. Designed with the User,  2. Understanding the existing ecosystem,  3. Designed for scale, 4.  Built for Sustainability, 5.  Be Data Driven, 6. Uses Open Source, 7. Addresses Privacy & Security, 8.  Is Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "dataPrivacySecurity": {
+    "typesOfDataCollected": [
+      "Name, Surname, mobile number, marital status (non compulsory), birthdate, geolocation (when help function is used), e-mail (when an e-mail is sent to third parties through our platform)."
+    ]
+  },
+  "locations": {
+    "developmentCountries": [
+      "Armenia"
+    ],
+    "deploymentCountries": [
+      "Armenia",
+      "Georgia"
+    ]
+  }
+}
