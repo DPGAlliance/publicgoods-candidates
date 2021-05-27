@@ -1,0 +1,52 @@
+{
+  "name": "Project Simoy",
+  "evidenceURL7": "https://projectsimoy.com/2021/04/30/map-and-analytics-does-national-renewable-energy-program-awarded-projects/",
+  "evidenceURL13": "https://projectsimoy.com/2021/05/21/ph-existing-power-plant-map-and-analytics/",
+  "evidenceURL9": "https://projectsimoy.com/2021/04/28/submitted-write-up-ewc-earthoptimism-awards-southeast-asia-ebook/",
+  "evidenceURL11": "https://projectsimoy.com/2021/04/28/submitted-write-up-ewc-earthoptimism-awards-southeast-asia-ebook/",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown"
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      " Principles for Digital Development",
+      "Use of Open Source Datasets"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Philippines"
+    ],
+    "deploymentCountries": [
+      "Philippines"
+    ]
+  }
+}
