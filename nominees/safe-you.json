@@ -18,7 +18,9 @@
       "evidenceURL": "https://www.forbes.com/sites/jackieabramian/2021/04/01/safe-you-mobile-app-shields-women-against-domestic-violence/?sh=3b7c82592e73"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
   "type": [
     "software"
   ],
