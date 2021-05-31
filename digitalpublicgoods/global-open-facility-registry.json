@@ -2,7 +2,7 @@
   "name": "Global Open Facility Registry",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/intrahealth/gofr"
+    "copyrightURL": "https://www.facilitymatch.net/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,7 +12,6 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/intrahealth/gofr",
       "https://facility-recon.readthedocs.io/en/latest/"
     ]
   },
@@ -36,7 +35,8 @@
       "FHIR and mCSD profile"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://facility-recon.readthedocs.io/en/latest/faq.html",
+      "https://github.com/intrahealth/gofr"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -80,10 +80,33 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Botswana",
+      "Burundi",
+      "Cameroon",
+      "Cote d'Ivoire",
+      "DRC",
+      "Eswatini",
+      "Ethiopia",
+      "Haiti",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "South Africa",
+      "South Sudan",
+      "Tanzania",
+      "Uganda",
+      "Ukraine",
+      "Zambia",
+      "Zimbabwe",
+      "Liberia",
+      "Guinea",
+      "Ethiopia"
     ],
     "deploymentCountries": [
-      ""
+      "Ethiopia"
     ]
   }
 }
