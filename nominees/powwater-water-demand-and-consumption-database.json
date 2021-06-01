@@ -21,7 +21,9 @@
       "evidenceText": "The Powwater database is a crucial tool as cities, governments, and the private sector face the challenge of water access in the face of climate change.  Water is expected to be an indicator of climate change, and these data provide a clear picture of baseline water use across a city which can propel smart climate adaptation.  Flexible and resilient solutions are needed, based upon real-world learnings to yield significant benefits for citizens accessing water in a changing climate.  The data gathered on water delivery and consumption across cities in the database can provide a basis of understanding for water and infrastructure planning under climate change.  "
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Water and Sanitation"
+  ],
   "type": [
     "data"
   ],
