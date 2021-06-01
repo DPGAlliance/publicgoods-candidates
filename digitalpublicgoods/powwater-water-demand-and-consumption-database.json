@@ -24,12 +24,12 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Unknown",
     "standardsList": [
       "CRUD best practices for database",
       "REST for API",
       "Docker for deployment"
-    ]
+    ],
+    "implementBestPractices": "Unknown"
   },
   "doNoHarm": {
     "preventHarm": {
