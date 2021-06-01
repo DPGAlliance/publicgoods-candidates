@@ -16,26 +16,30 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Our extraction system from our database has at least two parts: \n a. Integration: Being a RESTful API supporting JSON means we can directly integrate with any other tool or API that understands JSON. \n b. Data dump: On occasions when we have to do a complete data dump, HealthTools API is built on top of the PostgreSQL database which supports various data dump (mostly SQL-based) and COPY (text, csv, and binary) formats."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "Access to information and press freedom laws in Kenya, Nigeria and South Africa"
+      "StarHealth launched in 2013 when neither Kenya nor Nigeria had local data protection laws. CfA, therefore, used the existing South African Protection of Personal Information Act (2013) as its benchmark. The tool was updated when the Kenyan Data Protection Act (2019) and Nigerian Data Protection Regulation (2019) were enacted."
     ],
     "adherenceSteps": [
       ""
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "REST",
+      "JSON"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://api.healthtools.codeforafrica.org/search/health-facilities?q=Nairobi"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -83,10 +87,17 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Kenya",
+      "Nigeria",
+      "SouthAfrica",
+      "Tanzania",
+      "Uganda"
     ],
     "deploymentCountries": [
-      ""
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Tanzania"
     ]
   }
 }
