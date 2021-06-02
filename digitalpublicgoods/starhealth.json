@@ -44,9 +44,9 @@
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "CfA applied principles from the following best-practise guidelines for civic technologists:",
-      "- http: //civicpatterns.org/",
-      "- http: //opendatahandbook.org/",
-      "- https: //www.codeforamerica.org/resources/digital-outreach-playbook",
+      "- http://civicpatterns.org/",
+      "- http://opendatahandbook.org/",
+      "- https://www.codeforamerica.org/resources/digital-outreach-playbook",
       "CfA furthermore ensured that the toolkit is mobile responsive, is easily embeddable as a widget, and functions as an SMS service."
     ]
   },
