@@ -1,0 +1,97 @@
+{
+  "name": "Cboard",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": ""
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/cboard-org/cboard/blob/master/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Google Analytics API"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Open Board Logging Format (.obl)"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.openboardformat.org/",
+      "https://www.w3.org/TR/WCAG21/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Material design: https://material.io/design/guidelines-overview"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "name",
+        "email address",
+        "birthday"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "encrypted password, protected database"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "communication boards with images and audio",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "board edition is blocked by default, users can see just public boards from others "
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina",
+      "Israel"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
