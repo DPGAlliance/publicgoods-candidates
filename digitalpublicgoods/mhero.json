@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/intrahealth/emNutt"
+      "https://intrahealth.github.io/emNutt/"
     ]
   },
   "NonPII": {
@@ -73,20 +73,28 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "",
-      "stepsAddressRiskPreventSafetyUnderageUsers": [],
-      "griefAbuseHarassmentProtection": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "- mHero facilitates communication between ministries of health and health workers, who presumably are adults (18 years old and over). To facilitate communication, mHero pulls contact information for health workers from the official HR records which are managed by the ministry of health and stored securely in a system such as iHRIS. If there are any underage health workers in a country they will have accepted that they may be contacted by the MOH for professional purposes. ",
+        "- Additionally, in some countries health workers are required to opt in to receiving messages through mHero.",
+        "- The components of mHero are typically installed on a server with the same security standards and measures as the system containing HR records so the content of communication with any potential underage users is accessible only by designated system users."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "All messages sent and received via mHero are monitored by system users and/or system administrators. As such, any health worker would be able to send a message through the system reporting abuse, harassment, or anything that has caused them grief, and they can also send a message requesting to opt out of future messaging."
       ]
     }
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Liberia"
     ],
     "deploymentCountries": [
-      ""
+      "DRC",
+      "Guinea",
+      "Kenya",
+      "Liberia",
+      "Uganda"
     ]
   }
 }
