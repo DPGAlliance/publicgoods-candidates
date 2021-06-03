@@ -1,0 +1,44 @@
+{
+  "name": "Habarshi",
+  "aliases": [
+    "Habarshi"
+  ],
+  "description": "Habarshi is a messenger for full-fledged correspondence between students, teachers and parents; receipt and control of homework, control of children's safety in correspondence and geolocation with an alarm button SOS.",
+  "website": "https://habarshi.com/",
+  "license": [
+    {
+      "spdx": "Fair",
+      "licenseURL": "https://yadi.sk/i/LGv1ldFyDb-RTQ"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Habarshi is a messenger for full-fledged correspondence between students, teachers and parents; receipt and control of homework, control of children's safety in correspondence and geolocation with an alarm button SOS."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "I shared this product in the public domain for other programmers, so they can use it in their organizations and jointly develop this product"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "An anonymous call center where any child can safely report violations of his or her rights, harassment by others, and infringement of gender equality"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "\"SEZUAL\" NGO of disabled people",
+      "website": "https://sezual.com/",
+      "org_type": "owner",
+      "contact_name": "Galimzhan Gabdreshov",
+      "contact_email": "boss.galan@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
