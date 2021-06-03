@@ -6,8 +6,8 @@
   "title": "Digital Public Good",
   "required": [
     "name",
-    "ownership",
-    "dependencies",
+    "clearOwnership",
+    "platformIndependence",
     "documentation",
     "NonPII",
     "locations",
@@ -20,7 +20,7 @@
       "type": "string",
       "description": "The name of the Digital Public Good."
     },
-    "ownership": {
+    "clearOwnership": {
       "type": "object",
       "description": "3. Is ownership clearly defined?",
       "required": [
@@ -43,7 +43,7 @@
         }
       }
     },
-    "dependencies": {
+    "platformIndependence": {
       "type": "object",
       "description": "4. Does the license of libraries/dependencies undermine the openess of the project?",
       "required": [
@@ -145,13 +145,12 @@
       "type": "object",
       "description": "7. Does the project adhere to privacy and other applicable international and domestic laws?",
       "required": [
-        "isPrivacyCompliant",
-        "isLocIntlAdherent"
+        "isPrivacyCompliant"
       ],
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
-          "description": "To the best of your knowledge does this project comply with all relevant privacy laws?",
+          "description": "Has this project taken steps to ensure adherence with relevant privacy, domestic, and international laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS) (yes/no)",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -161,7 +160,7 @@
         },
         "privacyComplianceList": {
           "type": "array",
-          "description": "If yes - please list the relevant privacy laws that the project complies with:",
+          "description": "If yes, please list some of relevant laws that the project complies with:",
           "items": {
             "anyOf": [
               {
@@ -170,19 +169,9 @@
             ]
           }
         },
-        "isLocIntlAdherent": {
-          "type": "string",
-          "description": "To the best of your knowledge does this project comply with all applicable international and domestic laws?",
-          "uniqueItems": true,
-          "enum": [
-            "Yes",
-            "No",
-            "Unknown"
-          ]
-        },
-        "locIntlComplianceList": {
+        "adherenceSteps": {
           "type": "array",
-          "description": "If yes - please list the applicable international and domestic laws that the project complies with.",
+          "description": "If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):",
           "items": {
             "anyOf": [
               {
@@ -287,12 +276,7 @@
           "type": "object",
           "description": "9.a. Data Privacy & Security",
           "required": [
-            "collectsPII",
-            "typesOfDataCollected",
-            "thirdPartyDataSharing",
-            "dataSharingCircumstances",
-            "ensurePrivacySecurity",
-            "privacySecurityDescription"
+            "collectsPII"
           ],
           "properties": {
             "collectsPII": {

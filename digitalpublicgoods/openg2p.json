@@ -1,0 +1,105 @@
+{
+  "name": "OpenG2P",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.openg2p.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.openg2p.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "OpenG2P use depends on how government agencies store, share, and treat PII data. OpenG2P advocates for and brings an approach that confers additional privacy, security and consent in systems that have historically lacked such features. The importance of this topic is highlighted in our first White Paper on the subject of Privacy and Security Design(attached).  In terms of extracting non-personally identifiable data, the building blocks are designed to export data only relevant for a specific purpose.  For example we provide an CSV export functionality as part of the data views, with field level controls available to hide specific details. \n In the context of OpenG2P, we consider 'stateless building blocks' as ones not storing beneficiary associated data beyond the life of a request-response cycle. Such components tend to be adapters with external systems. An example of a stateless brick is the OpenG2P Verification Engine which enables lookup against external identity and data sources and does not store data beyond the request-response cycle. \n An OpenG2P user will evaluate its data requirement and assess how critical it is to store beneficiary PII.  Preference is not storing data and in making solutions stateless, however, if not a viable approach we advocate the following approaches, that prioritizes storing PII at a central location rather than having them fragmented across several projects. In theory, this reduces attack vectors: \n a. Having projects store data to a central location, e.g. an existing database, and retrieving data needed to complete a request on-demand from that central locations. \n b. Saving tokens and references to the beneficiary records stored at a central location with business data, rather than the entire PII of the beneficiary. Additionally, we advise that such a token should be project-specific, reducing its viability as a correlation handle. \n c. If none of the above approaches can be taken, e.g as in the case of the OpenG2P search service which needs to maintain indexes, care, and data security measures should be instituted to protect against data breaches. \n OpenG2P creates a framework for components to work together.  The systems required by governments to register, verify, enumerate beneficiaries, send funds, verify funds received, and so on are often lacking in one or more areas and OpenG2P provides a framework for bounded components to share necessary information via secure tokens. Protecting privacy and securing data are key themes in the design of OpenG2P."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "- OpenG2P components are flexible to be used within country specific privacy laws.",
+      "- The OpenG2P framework confers privacy, security, and consent as an inalienable right of every person regardless of their gender and economic situation. A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies.",
+      "- The OpenG2P framework is conceptualized as supportive of Government transfer systems, and the organization of such transfer programs are at the behest of governmental agencies. We take approaches that are protective of security and privacy while remaining consistent with governmental policies."
+    ],
+    "adherenceSteps": [
+      "For users needing to store PII, e.g. Beneficiary Database follow a minimum set of data-handling conventions and procedures as per the Guiding Principles of OpenG2P:",
+      "a. Data should be encrypted at rest, advisably with a regularly rotating key scheme and these keys kept safely off system.",
+      "c. All-access should via strong authentication mechanism and permissioned; this also includes access to other OpenG2P projects.",
+      "d. Datastore should not be on a internet-facing network.",
+      "e. Tamper resistant logging of system access should be implemented across all potential routes of attacks",
+      "OpenG2P blocks by default not on externally-accessible networks. This default can be relaxed for the following situations:",
+      "a. Needs to communicate with systems of external parties, in which case we advise the use of VPNs and other secure end-to-end/point-to-point secure communication strategies.",
+      "b. Needs to be accessed by a wide variety of users, e.g. admin systems, in which case just interfaces should adopt industry-standard authentication strategies.",
+      "c. User authentication, authorization, and roles; for interfaces that users log into, e.g. beneficiary administration system, we advocate the following the minimum.",
+      "d. A system of authentication that factors, password strength, password expiration and rotation, and brute force protection. We also advocate for Two-factor authentication procedures where possible.",
+      "e. System of roles and authorization that provides the exact amount of rights a user needs to perform their tasks and nothing more.",
+      "f. Audited access with sessions and CRUD logs."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "w3c verifiable credentials and others under explorations especially around handling of PII"
+    ],
+    "evidenceStandardSupport": [
+      "Work in progress especially around compliance to open standards around handling and security of PII"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development; the Responsible Digital Payments Guidelines by the Better Than Cash Alliance"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "1. Beneficiaries should be aware of and consent to how their data are used for a program’s interaction with external systems. \n 2. Inbound and outbound data flow with external systems should be via secured authentication and transport mechanisms. Such secured authentication and data transport should follow best practices in keeping with international norms and standards. Where network latency creates challenges for encrypted channels, data encryption alone may suffice as long as vulnerabilities are limited on the endpoints. \n 3. OpenG2P components individually and collectively obfuscate (e.g. encrypt) the data such that if it is hacked or taken out it is as good as unusable. \n 4. An OpenG2P project should evaluate its data requirement and assess how critical it is to store beneficiary PII. Preference is not storing data, making solutions stateless, however, if not a viable approach we advocate the following approaches, that prioritizes storing PII at a central location rather than having them fragmented across several projects. In theory, this reduces attack vectors. \n 5. A project absolutely needing to store PII, e.g. Beneficiary Database should follow a minimum set of data-handling conventions and procedures."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "This is information that when used alone or with other relevant information can identify an individual or family of individuals:",
+        "foundational or functional IDs",
+        "collection of information related to geographic location, race, gender, age, that allows for a person to be uniquely identified",
+        "genomic typing and biometric information.",
+        "Sensitive Personally Identifiable Information - A subset of PII is data that is, by its nature or use, intended to be secret. This may vary with context and culture, but examples may include personal medical records, detailed financial records, and biometric and genomic data"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "External Interactions - Relates to how OpenG2P building blocks consumes data from external sources using the information provided by the beneficiary and how those building blocks share beneficiary data with external parties. Examples include OpenG2P verifications service looking at demographic information from an external source using identity credentials supplied by beneficiaries and OpenG2P disbursement engine sharing beneficiary KYC information with account systems and payment providers."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Limited Use - A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies. Data retention policies must be implemented that are aligned with such usage parameters."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sierra Leone"
+    ],
+    "deploymentCountries": [
+      "Sierra Leone"
+    ]
+  }
+}

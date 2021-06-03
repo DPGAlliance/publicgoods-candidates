@@ -1,0 +1,128 @@
+{
+  "name": "Modular Open Source Identity Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.mosip.io/resource/ip-policy-trademark-and-copyright"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "For evey closed source software and hardware component that MOSIP interacts with, we provide standard interfaces for interaction. Either by using existing open standards (ex: For HSM we use JCE), or by defining standard interfaces for conformance (ex: MOSIP biometrics interfaces)"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "docs.mosip.io"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "nonPIIAccessMechanism": "The project allows each deployment to define what data they collect. Some of these could be non-PII data. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "- MOSIP enables the compliance of privacy laws through its security and feature implementations. However, the owners of specific implementations are responsible for complying with legislations in their jurisdictions.",
+      "- The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "OpenID Connect",
+      "JWT",
+      "ISO/IEC 19794-4:2011",
+      "ISO/IEC 19794-5:2011",
+      "ISO/IEC 19794-6:2011",
+      "ISO 8601",
+      "ISO/IEC 19785-3",
+      "OASIS patron format ISO/IEC JTC 1 SC 37",
+      "digital signatures, PKI and cryptography"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.mosip.io/platform/biometrics/mosip-device-service-specification",
+      "https://docs.mosip.io/platform/biometrics/mosip-device-service-specification#device-specification",
+      "https://docs.mosip.io/platform/biometrics/mosip-device-service-specification#cryptography",
+      "https://docs.mosip.io/platform/biometrics/cbeff-xml",
+      "https://docs.mosip.io/platform/architecture/privacy-and-security"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "ID for Developments 'Principles on Identification for Sustainable Development'",
+      "MOSIP has articulated a set of Principles for Engagement with Countries for implementing Good ID",
+      "MOSIP subscribes to a set of principles which forms the core of its mission:",
+      "The MOSIP philosophy is to provide a 'Good ID'. As part of this MOSIP embraces a core set of design and architecture principles that allow the platform to offer best practices for a Good ID system. MOSIP is built on the following architecture principles",
+      "-MOSIP must follow platform based approach so that all common features are abstracted as reusable components and frameworks into a common layer",
+      "-MOSIP must follow API first approach and expose the business functions as RESTful services",
+      "-MOSIP must not use proprietary or commercial license frameworks. Where deemed essential, such components must be encapsulated to enable their replacement if necessary (to avoid vendor lock-in)",
+      "-MOSIP must use open standards to expose it’s functionality (to avoid technology lock-in)",
+      "-Each MOSIP component must be independently scalable (scale out) to meet varying load requirements",
+      "-MOSIP must use commodity computing hardware & software to build the platform",
+      "-Data must be encrypted in-flight and at-rest. All requests must be authenticated and authorized. Privacy of Identity Data is an absolute must in MOSIP",
+      "-MOSIP must follow the following manageability principles – Auditability & monitor ability of every event in the system, testability of every feature of the platform & easy upgrade ability of the platform",
+      "-MOSIP must follow the principles of Zero-Knowledge which means that the services know nothing about the Personally Identifiable Information (PII) data stored.",
+      "-MOSIP components must be loosely coupled so that they can be composed to build the identity solution as per the requirements of a country",
+      "-MOSIP must support i18n capability",
+      "-All modules of MOSIP should be resilient such that the solution as a whole is fault tolerant",
+      "-The key sub-systems of MOSIP should be designed for extensibility. For example, if an external system has to be integrated for fingerprint data, it should be easy to do so."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "MOSIP has a set of guidelines it adheres to while working with a country who is willing to adopt MOSIP. These guidelines also typically form part of the MOUs we enter into. The principles of engagement can be found here: https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "MOSIP enables collection of demographic and biographic information of the end user for the puspose of ascertaining and issuing a digital identity. The collection of demographic information are based on the project needs - and is configurable by the project owner. It typicaly contains:",
+        "- legal name",
+        "- age",
+        "- address and additional fields are collected as needed",
+        "Biometric information is collected for the purpose of ascertaining uniqueness and for authentiation, based on countries' policy:",
+        "- fingerprint",
+        "- face",
+        "- iris data is captured one time during the enrollment process."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "with user content, demographic data is shared for KYC as credentials for service. This  happens within a governance framework where the project owner mandates policies for sharing of eKYC data with service providers. Biometric information never leaves the system, except for facial images."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Privacy and security practices are central to MOSIP and the proejct has taken extensive measures to provide security of data and has numerous existing and evolving features on privacy and data protection. MOSIP's technological approach to security and privacy can be found here : https://docs.mosip.io/platform/architecture/privacy-and-security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Link to code of conduct - https://docs.mosip.io/platform/contribute/code-of-conduct",
+        "MOSIP discussion groups and chat are moderated by team members for objectionable content - https://groups.io/g/mosip-dev"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India",
+      "Philippines"
+    ],
+    "deploymentCountries": [
+      "Philippines",
+      "Guinea"
+    ]
+  }
+}
