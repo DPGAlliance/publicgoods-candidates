@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "CC-BY-NC-4.0",
-      "licenseURL": "https://wordpress.com/home/projectsimoy.com"
+      "licenseURL": "https://projectsimoy.com/"
     }
   ],
   "SDGs": [
@@ -29,10 +29,12 @@
       "evidenceText": "This data visualization project shows the Air Quality Index (AQI) for some locations in NCR, Region 3, Region 4A, Region 4B and Region 12 from open dataset of Environmental Management Bureau (EMB) Official Social Media Sites. This project aims to depict the AQI trend for some locations in a very understandable manner. This also tries to visualize the effect of recent issues/conditions of our country to air quality."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate",
+    "Energy",
+    "Sustainable Cities"
+  ],
   "type": [
-    "data",
-    "standard",
     "content"
   ],
   "repositoryURL": "",
