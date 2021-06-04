@@ -87,10 +87,29 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Malawi",
+      "Kenya",
+      "Nepal",
+      "Uganda",
+      "Mali"
     ],
     "deploymentCountries": [
-      ""
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Ghana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Philippines",
+      "South Africa",
+      "Tanzania",
+      "Togo",
+      "Uganda",
+      "Zimbabwe"
     ]
   }
 }
