@@ -4,7 +4,7 @@
     ""
   ],
   "description": "Kiva Protocol is a modular, open-source technology platform that drives financial inclusion by connecting existing systems with modern digital authentication and transactional capabilities",
-  "website": "http://kiva.global/protocol",
+  "website": "https://kiva.global/protocol",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -34,11 +34,11 @@
   "organizations": [
     {
       "name": "Kiva",
-      "website": "http://kiva.global/protocol",
+      "website": "https://kiva.global/protocol",
       "org_type": "owner",
       "contact_name": "Bryan Pon",
       "contact_email": "bryanp@kiva.org"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
