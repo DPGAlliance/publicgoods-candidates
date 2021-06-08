@@ -36,23 +36,46 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Since the usage of the mobile App may itself become a problem for already vulnerable groups, we have created two advanced security layers to minimize the risk of abusers discovering the app: a Dual PIN and a camouflage icon setting. The Dual PIN acts as a safety measure, allowing users to create a real PIN to access the app and a fake PIN that displays a photo gallery. The camouflage setting hides the app icon by displaying it as an image editing app so that women can use the app without fear of reprisal. The content in Forums is generated through our organization's content creators and by the personnel of governmental and non-governmental organizations who are partnering with us and have access to the tools of content generation and management. Contributors of the Forums section are thoroughly chosen making sure that they adhere to the general principle of “Do no harm”, while they create content and/or consult adolescent girls and women. Our Partner organizations are responsible to make sure that their engaged personnel acts appropriately e.g.: \n- Avoids questions, attitudes or comments that are judgmental or insensitive to cultural values or status; \n -Does not use language, make suggestions, provide misleading information or offer advice, which is inappropriate, offensive or abusive. \n In the Forums users engage with each other in discussions and can ask questions  to our partner organizations or to verified consultants, who are identifiable in the forums by a “verified badge”. That is why we clearly define in our Terms and Conditions and relevant policies that the users should refrain from abusing, threatening or otherwise violating the rights of others they are not allowed to publish, post, distribute or disseminate any inappropriate, threatening, infringing, obscene or unlawful topic, material or information. To adhere the principle of “Do no harm” we have moderation access in our “Forums” section, which permits our partner organizations to moderate and remove content (user comments) that violates our terms, in some cases (when the users continue acting the same way after two notifications) the moderators have the right to block the users, who create content violating our terms. For now, the moderation in the platform is done manually by moderating the content daily. We are also currently working on functionality so that the users and contributors can report the abusive comments from mobile App and management dashboard, respectively."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
-      "ensurePrivacySecurity": "Yes"
+      "typesOfDataCollected": [
+        "Name",
+        "Surname",
+        "mobile number",
+        "marital status (non compulsory)",
+        "birthdate",
+        "geolocation (when help function is used)",
+        "e-mail (when an e-mail is sent to third parties through our platform)."
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
-  },
-  "dataPrivacySecurity": {
-    "typesOfDataCollected": [
-      "Name, Surname, mobile number, marital status (non compulsory), birthdate, geolocation (when help function is used), e-mail (when an e-mail is sent to third parties through our platform)."
-    ]
   },
   "locations": {
     "developmentCountries": [
