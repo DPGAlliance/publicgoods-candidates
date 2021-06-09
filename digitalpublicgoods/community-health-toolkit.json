@@ -1,0 +1,115 @@
+{
+  "name": "Community Health Toolkit",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/medic/cht-core#copyright"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.communityhealthtoolkit.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Through the App Management interface a user can export predefined datasets for each health unit in a format that can be imported directly into DHIS2. More info at: https://docs.communityhealthtoolkit.org/apps/features/integrations/dhis2/"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Like most open source communities, we make software available “as is” under the terms of an OSI approved license (AGPL in our case). OSI approved open source licenses generally do not include provisions that restrict use of open source software with respect to data privacy. As such, it is not legally permissible for the CHT community (or Medic, as the CHT’s non-profit steward) to mandate or ensure compliance with relevant privacy and data protection laws. This responsibility lies with relevant data controlling entities, typically governments or non-profit organizations that deliver health services, that implement and are legally responsible for specific CHT apps. We have, however, taken steps to make it easier for our open source community to understand and comply with relevant data protection laws, including GDPR and GDPR-inspired data regulations such as the Uganda Data Protection Regulation and the Kenya Data Protection Regulation."
+    ],
+    "adherenceSteps": [
+      "A collaboration led by researchers at the University of Washington and supported by Medic conducted a literature review focused on data protection regulations and guidance for best practices in responsible data, including such issues as informed consent and means of anticipating unintentional harms related to secondary analysis of data. This was followed by a participatory process to re-organize a range of legal documents used by Medic when it serves in the role of Data Processor in support of a Data Controlling Entity such as a government. A paper about this project has been accepted for publication at the 2021 Computer Human Interaction Conference, and further documentation will be published to the CHT website later this year."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JS web APIs",
+      "Mobile Web",
+      "SVGs"
+    ],
+    "evidenceStandardSupport": [
+      "Tools are designed to work with open web standards, including JavaScript ES6 - https://github.com/medic/cht-core/blob/546140d50bf09d6f347c0d382cc632a90098c20d/.eslintrc#L4"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "Responsive design",
+      "Offline-first progressive web apps"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Medic and the wider CHT community have produced over 50 peer-reviewed publications and over 30 technical reports and policy documents. Study methods include randomized controlled trials, repeated cross-sectional surveys, participatory and human-centered design research, ethnographies and other interview-based qualitative studies. Many of these studies were reviewed by Institutional Review Boards in the settings where we work (such as the Kenya Medical Research Institute IRB) and global universities (such as the University of Washington IRB). These review processes, and the careful thorough approach undertaken by our research collaborators are critical tools we use to identify and address potential unintended harms. More information about these publications is available at the following link: http://medic.org/publications/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "It is important to note that the CHT does not itself directly collect PII. Rather, the CHT community builds a framework and other foundational technologies which make it easier for health systems to implement their own CHT apps. CHT apps are highly configurable and it is up to the relevant Data Controlling Entity for each CHT app to determine what PII will be collected. Common examples include: name, age, phone number, geolocation, personal health information including care encounters and test results, highly sensitive health information including HIV status, and data relevant to the social determinants of health such as level of education and wealth quintile."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Privacy policy is different per app, it is the responsibility of the Data Controlling Entity to establish such policies. That the CHT community grants Data Controlling Entities the freedom to establish their own policies is essential to the terms of our OSI approved open source license. The following are the steps taken to prevent adverse impact related to PII: Encryption, isolation and restrictive permissions"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Most CHT apps are designed specifically for use by health workers; user accounts are provided by organizations such that access is not available to the general public. In CHT apps that support messaging with patients, the relevant patients are enrolled and consented into the process by a trained health worker. To our knowledge there have not been any deployments of CHT apps in which minors were enrolled in use of the system."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "One of the four core principles of the CHT community is that we are committed to designing CHT systems in a human-centered manner. In our view, this is not merely a buzzword or a statement of ethical priorities. Rather, it is a set of rigorous methods that work within a flexible yet disciplined process to prioritize people’s needs and concrete experiences in the design of digital systems. An essential feature of human-centered design is that it prioritizes the dignity and agency of end users. It is also explicitly iterative and takes responsibility for making adaptations to address any potential unintended effects of a system - such as a situation in which health workers might experience grief or abuse from a peer or supervisor via their digital tool. We have conducted extensive research and members of our team are considered global authorities on the topic of human-centered design for global health, we consider this approach to be a thorough and substantive means of addressing lived experiences of harassment and abuse in health systems. More about CHT principles and our human centered design approach in the following links: \nhttps://communityhealthtoolkit.org/principles \nhttps://www.tandfonline.com/doi/full/10.1080/02681102.2019.1667289"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Malawi",
+      "Kenya",
+      "Nepal",
+      "Uganda",
+      "Mali"
+    ],
+    "deploymentCountries": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Ghana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Philippines",
+      "South Africa",
+      "Tanzania",
+      "Togo",
+      "Uganda",
+      "Zimbabwe"
+    ]
+  }
+}
