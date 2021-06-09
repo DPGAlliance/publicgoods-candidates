@@ -2,7 +2,7 @@
   "name": "OpenSRP",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "Ona filed the trademark application for OpenSRP on 5 Nov 2020. The application was filed in the USA in classes 09 and 42 (Trademark reference number: 90301382)"
+    "copyrightURL": "https://smartregister.atlassian.net/wiki/spaces/Documentation/pages/2528903175/OpenSRP+Governance+and+Trademark"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
