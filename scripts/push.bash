@@ -4,7 +4,7 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
     pushd ../publicgoods-scripts && \
         npm install && \
         ./static.bash && \
-        node generate_screened.js && \
+        node generate_dpgs.js && \
         node index.js && \
         node generate_nominees.js && \
         npm run build && \
