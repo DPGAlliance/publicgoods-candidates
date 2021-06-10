@@ -7,8 +7,8 @@
   "website": "https://www.gnamangnaman.com/assainissement",
   "license": [
     {
-      "licenseURL": "https://www.php.net/license/index.php",
-      "spdx": "0BSD"
+      "spdx": "0BSD",
+      "licenseURL": "https://www.php.net/license/index.php"
     }
   ],
   "SDGs": [
