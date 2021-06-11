@@ -1,7 +1,7 @@
 {
   "name": "Flood Maps",
   "description": "A simple web map to visualize flood information on maps.",
-  "website": "http://osm-in.github.io/flood-map/",
+  "website": "https://osm-in.github.io/flood-map/",
   "license": [
     {
       "spdx": "MIT",
