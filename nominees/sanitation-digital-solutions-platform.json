@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/orgs/Amref-Health-Africa-in-Uganda/projects/1"
+      "licenseURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigS-Ver.-01.0.1/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -21,15 +21,13 @@
       "evidenceText": "When people have access to sanitation and hygiene services at a single stop center that is not limited by distance or time, this will improve the turn around time service and access to better sanitation and hygiene and consequently reduce the risks of water contamination thus resulting into inclusive access to sustainable access to safe water, sanitation and hygiene services."
     }
   ],
-  "sectors": [],
-  "type": [
-    "software",
-    "data",
-    "content",
-    "model",
-    "standard"
+  "sectors": [
+    "Health"
   ],
-  "repositoryURL": "https://github.com/orgs/Amref-Health-Africa-in-Uganda/projects/1",
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigS-Ver.-01.0.1",
   "organizations": [
     {
       "name": "Amref Health Africa",
@@ -39,5 +37,5 @@
       "contact_email": "hajra.mukasa@amref.org"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
