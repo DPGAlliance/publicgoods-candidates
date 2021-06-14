@@ -1,0 +1,48 @@
+{
+  "name": "VRapeutic",
+  "aliases": [
+    ""
+  ],
+  "description": "VRapeutic is a UNICEF Innovation Fund software house specializing in the development of rehabilitation and therapeutic solutions with a focus on virtual reality for learning and neurodevelopmental challenges",
+  "website": "https://www.linkedin.com/company/vrapeutic",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/vrapeutic/Rodja-webXR/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The solutions provided by VRapeutic aim at realizing effective and science-backed that address diverse neuro-developmental challenges, which is envisaged to empower children and young adults to lead a healthy life."
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "As much as it addresses well being, VRapeutic also addresses the quality of education delivered to children and young adults on the different spectra of learning difficulties. By realizing cutting-edge, tech-enabled solutions that empower learners with engaging learning environments, we help achieve a quality of education that wouldn't have been possible otherwise."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Building on our contribution to SDG 4, we believe in the considerable role of quality education and healthcare to the equality of access to opportunities. The better the healthcare, early intervention, and education for atypical children and young adults, the bigger the gap we are able to fill, for example, in job opportunities."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "software"
+  ],
+  "repositoryURL": "https://github.com/orgs/vrapeutic/",
+  "organizations": [
+    {
+      "name": "VRapeutic",
+      "website": "http://myvrapeutic.com/",
+      "org_type": "owner",
+      "contact_name": "Yahya Alaa",
+      "contact_email": "yahya@myvrapeutic.com"
+    }
+  ],
+  "stage": "DPG"
+}
