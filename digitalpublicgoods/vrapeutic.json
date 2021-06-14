@@ -1,0 +1,66 @@
+{
+  "name": "VRapeutic",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/vrapeutic/vrapeutic.github.io"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR, CalOPPA"
+    ],
+    "adherenceSteps": [
+      "https://drive.google.com/file/d/1AnOLXvm6yMgOXAhtliKj_lZ6zYRPWoGM/view?usp=sharing"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ISO/IEC-derived standards such XML, SQL, in addition to others."
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "TOVA, HIPPA, Principles for Digital Development,"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "dataPrivacySecurity": {
+    "typesOfDataCollected": [
+      "Neuro-markers such as impulsivity scores, attention performance indices, in addition to others."
+    ]
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Canada",
+      "Vietnam"
+    ]
+  }
+}
