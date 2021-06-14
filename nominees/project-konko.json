@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Project Konko is an Open Source Virtual Reality lesson creator built in Unity. ",
+  "description": "Project Konko is an Open Source Virtual Reality lesson creator built in Unity.",
   "website": "https://www.nubianvr.com/",
   "license": [
     {
@@ -17,7 +17,9 @@
       "evidenceText": "Using Virtual Reality as a Tool to Improve Instruction Quality"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "software"
   ],
@@ -31,5 +33,5 @@
       "contact_email": "kabiru@nubianvr.com"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
