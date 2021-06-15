@@ -14,7 +14,8 @@
   "SDGs": [
     {
       "SDGNumber": 16,
-      "evidenceText": "Business registers ensure better statistics, which is important for creating strong institutions"
+      "evidenceText": "Business registers ensure better statistics, which is important for creating strong institutions",
+      "evidenceURL": "https://unstats.un.org/unsd/business-stat/SBR/index.cshtml"
     }
   ],
   "sectors": [],
@@ -31,5 +32,5 @@
       "contact_email": "Anne.Abelsaeth@ssb.no"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
