@@ -23,7 +23,8 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "Various laws at the country level everywhere mHero is implemented"
+      "Uganda Data Protection Regulation",
+      "Kenya Data Protection Regulation"
     ],
     "adherenceSteps": [
       "Local laws about data storage are reviewed determine how and where data is stored. Data sharing agreements are established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc. (https://www.mhero.org/sites/mhero/files/sampledatasharingenglish.docx ; https://www.mhero.org/sites/mhero/files/sampledatasharingfrench.docx)"
@@ -36,8 +37,7 @@
       "mACM"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/intrahealth/emNutt",
-      "https://github.com/iHRIS/iHRIS"
+      "https://intrahealth.github.io/emNutt/dev/endpoints/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
