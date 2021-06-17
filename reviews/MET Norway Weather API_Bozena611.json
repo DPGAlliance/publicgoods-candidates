@@ -1,0 +1,54 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "\"Unless specified otherwise, all data and products are licensed under the Norwegian Licence for Open Government Data (NLOD) 2.0 and Creative Commons 4.0 BY International licences.\"\nAdditional note: \"The weather icons are licensed under the MIT License (MIT)\"\n",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Quote from link 2: \"Weather Data is very important for Tanzania and Africa in general because it means life and death. Most of our socio-economic and development activities are strongly related to weather and climate. If there is no rainfall, there is no food.\"\nQuote from link 1: \"A farmer in Malawi depends on knowing when the rainy season starts to decide when to sow and a fisherman on Zanzibar must know if the weather is stable enough to go fishing...\"\n\"For them, it is about the whole basis of life, and whether they get enough food on the table for the family...\"",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Food production in Africa is highly dependable on weather data and a lot of targets listed in Goal 3 are related to healthy nutrition.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Directly supports SDG 9 as timely and accurate weather and climate data can help in infrastructure development as well as inspire new ideas in innovation and industrial development.",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "Quote from link 1(https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/): \"Many farmers across Africa rely on traditional knowledge about weather and climate, but with climate change this knowledge is being challenged, and the weather that was previously stable is no longer so. The rain no longer comes when it usually does and the weather signs can be unreliable.\" \nThe project can raise awareness about climate change and also advance target 13.1.",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Since all ecosystems on our planet are closely related to weather and climate, the project can help monitor climate and weather data in areas affected by climate change and compare them to the areas where conservation, restoration and sustainable use have already been in progress.",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "Advances 17.6",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Only exceptions are written in another link (https://www.met.no/en/free-meteorological-data/Licensing-and-crediting), the link is available on both pages that are provided in the statement.",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "Bozena611",
+  "timestamp": 1617825008
+}
