@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "All the data is saved to OpenStreetmap and made available through the Humanitarian Data Exchange"
+    "nonPIIAccessMechanism": "All health facility data is saved to OpenStreetmap and made available for download from the healthsites.io platform. Users are able to access and export data in a variety of formats, including JSON, GEOJSON, CSV, SHP, REST, #HXL. In addition the data is published to the Humanitarian Data Exchange and available in the Humanitarian Exchange Language (HXL)"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -30,16 +30,23 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "GEOJSON",
+      "CSV",
+      "SHP",
+      "REST",
+      "#HXL"
     ],
     "evidenceStandardSupport": [
-      ""
+      "REST: https://github.com/healthsites/healthsites/blob/develop/deployment/docker/REQUIREMENTS.txt",
+      "Healthsites.io proposed HXL hashtags: https://docs.google.com/spreadsheets/d/1-NYX0h9drOD6CTJg83Aq_DEyhmiev3nvpSZUM00i58c/edit?usp=sharing",
+      "Updated Healthsites CSV template: https://drive.google.com/file/d/18b5EEbCioRznemsbugvOl4EWiM4haz-l/view?usp=sharing"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development"
+      "Principles for Digital Development",
+      "Agile Development approach"
     ]
   },
   "doNoHarm": {
@@ -56,8 +63,8 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Healthsites privacy policy: https://github.com/healthsites/healthsites/wiki/healthsites---privacy-policy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
