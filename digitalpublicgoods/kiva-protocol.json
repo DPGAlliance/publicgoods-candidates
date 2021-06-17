@@ -21,10 +21,10 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "National Civil Registration Authority Act"
     ],
     "adherenceSteps": [
-      "As described previously, Kiva Protocol follows 'privacy by design' principles, including data minimization, non-correlation, and user control/ selective disclosure. And of course, no PII is ever written to the ledger. However, for any given implementation it remains up to our government partners to define their own governance policies and determine their compliance with all relevant laws.  Therefore all terms of service, privacy policies, etc. are defined on a project basis."
+      "As described previously, Kiva Protocol follows 'privacy by design' principles, including data minimization, non-correlation, and user control/ selective disclosure. And of course, no PII is ever written to the ledger. However, for any given implementation it remains up to our government partners to define their own governance policies and determine their compliance with all relevant laws.  Therefore all terms of service, privacy policies, etc. are defined on a project basis. \nInter-agency data sharing between the National Civil Registration Authority and the Bank of Sierra Leone is permitted under the National Civil Registration Authority Act.  Additional regulations governing the use of the eKYC platform to facilitate new account onboarding and customer due diligence are being developed by the Bank of Sierra Leone. A broader initiative to develop a consumer protection regime in Sierra Leone - which may include privacy and consumer financial protection - is being conducted by UNCDF with support from Innovations for Poverty Action (IPA)."
     ]
   },
   "standards": {
