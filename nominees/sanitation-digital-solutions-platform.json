@@ -7,8 +7,8 @@
   "website": "https://www.sanidigs.org/",
   "license": [
     {
-      "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigS-Ver.-01.0.1/blob/main/LICENSE"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -27,7 +27,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigS-Ver.-01.0.1",
+  "repositoryURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile",
   "organizations": [
     {
       "name": "Amref Health Africa",
