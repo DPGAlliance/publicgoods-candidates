@@ -83,10 +83,21 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Rwanda",
+      "United States of America"
     ],
     "deploymentCountries": [
-      ""
+      "Bangladesh",
+      "India",
+      "Jordan",
+      "Malawi",
+      "Nepal",
+      "Pakistan",
+      "State of Palestine",
+      "Sudan",
+      "Swaziland",
+      "Uganda",
+      "Zimbabwe"
     ]
   }
 }
