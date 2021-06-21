@@ -50,18 +50,14 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Names",
-        "birth date",
-        "addresses",
-        "emails",
-        "telephone numbers"
+        "Surveillance data (e.g; case, contacts, events, samples, Immunizations, etc) only and fully owed by the public health authorities in the country that uses the tool"
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
-        ""
+        "We the developers of the tool have no access to the data."
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Data transferred throughout SORMAS API or exported   can be pseudonymized if needed. SORMAS Keycloak is available as an alternative authentication provider to the default authentication method. SORMAS is checked on a yearly basis by an external security audit. \n https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/sormas-base/doc/keycloak.md"
+      "privacySecurityDescription": "Data transferred throughout SORMAS API or exported can be pseudonymized if needed. SORMAS Keycloak is available as an alternative authentication provider to the default authentication method. SORMAS is checked on a yearly basis by an external security audit. \n https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/sormas-base/doc/keycloak.md \n In addition, there is a configuration in the tool that stakeholders can use to define the read, write, or even complete anonymization access to entities or their PII data for users of the system. \n Since each country setup their own server (either local or cloud), we encourage stakeholders to always go with a solution having a server backup configuration."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -85,10 +81,19 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Germany",
+      "Nigeria",
+      "Ghana",
+      "France"
     ],
     "deploymentCountries": [
-      ""
+      "Nigeria",
+      "Ghana",
+      "Fiji",
+      "Germany",
+      "Switzerland",
+      "France",
+      "Ivory coast"
     ]
   }
 }
