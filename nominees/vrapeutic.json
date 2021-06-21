@@ -12,7 +12,7 @@
     },
     {
       "spdx": "CC-BY-NC-SA-4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+      "licenseURL": "https://github.com/vrapeutic/Ellie-Tale#readme"
     }
   ],
   "SDGs": [
@@ -31,7 +31,10 @@
       "evidenceText": "Building on our contribution to SDG 4, we believe in the considerable role of quality education and healthcare to the equality of access to opportunities. The better the healthcare, early intervention, and education for atypical children and young adults, the bigger the gap we are able to fill, for example, in job opportunities."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health",
+    "Education"
+  ],
   "type": [
     "software",
     "content"
