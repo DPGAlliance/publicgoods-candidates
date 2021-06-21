@@ -1,0 +1,102 @@
+{
+  "name": "NotesMaster",
+  "evidenceURL4": "https://notesmaster.com/termsofuse",
+  "evidenceURL5": "http://oasis.col.org/bitstream/handle/11599/1741/2015_Wong-Frei_Checklist-Gender-Responsive-Learning-Materials.pdf?sequence=3&isAllowed=y",
+  "evidenceURL9": "http://www.news.gov.tt/content/moe-hosts-virtual-launch-notesmaster-platform#.YNDjdkszZaQ",
+  "evidenceURL10": "https://2ndchance.cxc.org/press/CXC_Release-2_A_second_Chance_for_a_hands-on_education.pdf",
+  "evidenceURL17": "https://www.youtube.com/watch?v=PO-tPc9ajQg",
+  "evidenceURL11": "https://wsa-global.org/winner/notesmaster-namibia-open-educational-resources-oers/",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://notesmaster.com/termsofuse"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://oasis.col.org/handle/11599/3645"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Federal Children’s Online Privacy Protection Act of 1998 ",
+      "U.S. Family Educational Rights and Privacy Act "
+    ],
+    "adherenceSteps": [
+      "https://notesmaster.com/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "W3C Accessibility Standards",
+      "WCAG 2.1 standards"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.tiny.cloud/docs/release-notes/release-notes50/#uiaccessibility",
+      "https://www.tiny.cloud/docs/configure/content-filtering/#convert_fonts_to_spans"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Open access to content",
+      "Tools that support quick adaptability of content"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "dataPrivacySecurity": {
+    "typesOfDataCollected": [
+      "First Name ",
+      "Surname",
+      "Email address",
+      "School or Institution of Learning",
+      "Country of teaching or learning"
+    ]
+  },
+  "locations": {
+    "developmentCountries": [
+      "Jamaica",
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "Antigua and Barbuda",
+      "Barbados",
+      "Belize",
+      "Botswana",
+      "Canada",
+      "Dominica",
+      "Eswatini (fmr. 'Swaziland')",
+      "Grenada",
+      "Guyana",
+      "Jamaica",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "Vanuatu",
+      "Zambia"
+    ]
+  }
+}
