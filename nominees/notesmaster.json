@@ -1,9 +1,9 @@
 {
-  "name": "NotesMaster ",
+  "name": "NotesMaster",
   "aliases": [
-    "Always learning, Together"
+    ""
   ],
-  "description": "Working in partnerships to support the sustainable access to digital learning resources.",
+  "description": "NoteMaster provides training and support to use the NotesMaster elearning platform, which is preconfigured with local curricula, so the trained teachers can create digital lessons online in Notesmaster, for students to then access. The lessons can be accessed and remixed by teachers from any other country to suit their local curricula. These lessons are then submitted to a peer review system which leads to a sustainable multiplier effect in the development of new digital lessons.",
   "website": "https://notesmaster.com/",
   "license": [
     {
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 4,
-      "evidenceText": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The latest program to develop local digital skills and improve access to local content was in Trinidad and Tobago."
+      "evidenceText": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi."
     },
     {
       "SDGNumber": 5,
@@ -37,7 +37,9 @@
       "evidenceText": "Through a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "content"
   ],
