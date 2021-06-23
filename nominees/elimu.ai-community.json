@@ -1,0 +1,36 @@
+{
+  "name": "elimu.ai Community",
+  "aliases": [
+    ""
+  ],
+  "description": "Quality basic education for every child",
+  "website": "http://fil.elimu.ai/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "The purpose of elimu.ai is to provide every child with access to quality basic education."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositoryURL": "https://github.com/elimu-ai",
+  "organizations": [
+    {
+      "name": "elimu.ai Community DAO",
+      "website": "https://github.com/elimu-ai/wiki#decentralized-autonomous-organization-dao",
+      "org_type": "owner",
+      "contact_name": "Nya Ξlimu",
+      "contact_email": "info@elimu.ai"
+    }
+  ],
+  "stage": "DPG"
+}
