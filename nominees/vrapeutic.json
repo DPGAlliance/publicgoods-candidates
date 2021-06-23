@@ -47,6 +47,11 @@
       "org_type": "owner",
       "contact_name": "Yahya Alaa",
       "contact_email": "yahya@myvrapeutic.com"
+    },
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
