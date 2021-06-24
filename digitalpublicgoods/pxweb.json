@@ -60,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "- The application only requires read access to the database to assure that a malicious user can manipulate the data. \n -Inputs are always validated. \n -Works with both HTTP and HTTPS, but HTTPS is preferable. \n -Administration interface is password protected and a IP filter could be enable to futher restrict the access (default only access från the same server (localhost) is allowed)"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
