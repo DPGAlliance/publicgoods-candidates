@@ -19,7 +19,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -43,7 +45,9 @@
       "GNU Coding Standards",
       "Portable Operating System Interface (POSIX)"
     ],
-    "evidenceStandardSupport": [],
+    "evidenceStandardSupport": [
+      "Its our strong believe that once the standards and principles are made known to the general public we will be enjoined to adhere them."
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development",
@@ -60,13 +64,35 @@
       "additionalInfoMechanismProcessesPolicies": "The EduNOSS project do not anticipate any harm the product intend to cause users. However, in the event something unexpected happens in the use of the product, the user is expected to report immediately to the project team through noss@aiti-kace.com.gh for possible redress."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "EduNOSS is built on the linux kernel and hence offers some of the the security features out of the box: user accounts, file permissions, data verification, encrypted storage, system recovery, monitoring and audit facilities, the system firewall"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "The project is not intended to collect data from people. However, all software products and contents if any, will be cleared by both the Project Management Team and the Ministry of Education, Ghana since the product is intended to be used in schools."
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "All protection from harassment issues will be handled by both Project Management Team and The Ministry of Education, Ghana since the product is intended to be used in schools."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "All protection from harassment issues will be handled by both Project Management Team and The Ministry of Education, Ghana since the product is intended to be used in schools."
+      ]
     }
   },
   "locations": {
