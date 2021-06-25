@@ -30,7 +30,15 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Web DEsign and Applications: HTML, CSS",
+      "Web Architecture: URIs",
+      "Web of Services: HTTP, REST, JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/safeyou-space/safeyou/blob/main/README.md"
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development"
