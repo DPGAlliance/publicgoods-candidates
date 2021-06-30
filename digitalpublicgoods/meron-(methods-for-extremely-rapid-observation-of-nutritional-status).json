@@ -1,0 +1,66 @@
+{
+  "name": "MERON (Methods for Extremely Rapid Observation of Nutritional Status)",
+  "evidenceURL3": "https://www.smithsonianmag.com/innovation/can-ai-tell-if-child-is-malnourished-180969268/",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/kimetrica/MERON_api/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://meron.kimetrica.com/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "Data is controlled in isolated storage and used only for offline training with separation between the data scientist and the data. Individual data points containing PII are only used for random QA sampling and never leaves controlled storage."
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Understand the Existing Ecosystem, Design for scale, Be Data Driven, Address Privacy and Security, Be Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "dataPrivacySecurity": {
+    "typesOfDataCollected": [
+      " Facial photographs, height, weight, age, gender, location"
+    ]
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}
