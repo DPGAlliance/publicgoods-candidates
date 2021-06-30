@@ -1,0 +1,36 @@
+{
+  "name": "MERON (Methods for Extremely Rapid Observation of Nutritional Status)",
+  "aliases": [
+    "MERON"
+  ],
+  "description": "MERON is a smartphone app that leverages deep learning technology to map facial features from photos and quickly detect malnutrition in children under five.",
+  "website": "https://meron.kimetrica.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/kimetrica/MERON_api/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON’s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "model"
+  ],
+  "repositoryURL": "https://github.com/kimetrica/MERON_api",
+  "organizations": [
+    {
+      "name": "Kimetrica LLC",
+      "website": "https://kimetrica.com/",
+      "org_type": "owner",
+      "contact_name": "Allan Kinoti",
+      "contact_email": "allan.kinoti@kimetrica.com"
+    }
+  ],
+  "stage": "DPG"
+}
