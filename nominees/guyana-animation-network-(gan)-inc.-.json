@@ -1,0 +1,59 @@
+{
+  "name": "Guyana Animation Network (GAN) Inc. ",
+  "aliases": [
+    "GAN; GAN Inc. "
+  ],
+  "description": "Provides digital and creative skills training courses and resources to children and youth in Guyana, South and North America and the Caribbean. ",
+  "website": "https://destinationdigitaldesign.thinkific.com",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://destinationdigitaldesign.thinkific.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Our annual digital summer camps providing skills training via courses in the digital and creative media skills that are trending to our young community "
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Our training has provided many youth within our network with jobs and other entrepreneurial opportunities "
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The Commonwealth recently recognized our work through skills training in digital and creative media as a form of innovation and industry and workforce development "
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Our partnerships with multiple organisations and stakeholders have helped us to make good social impact as evidenced in this Report at page 160. "
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Our emphasis on providing digital media and creative skills training is to ensure that our cities and communities in the Caribbean will remain sustained due to growing adaptation of awareness of newer industries and building workforce to tackle shortages in developing the industries. "
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Our work reduces regional inequalities whereby Caribbean children and youth are left behind on international opportunities in entertainment, Digital and creative media due to the lack of opportunities and resources that are needed to build an industry. "
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Our Girls in ICT Interschools’ Initiatives were training designed for high-school aged girls to learn entrepreneurship, management and technology among other things then launch their first business concept "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Guyana Animation Network (GAN) Inc. ",
+      "website": "https://www.animateguyana.com",
+      "org_type": "owner",
+      "contact_name": "Jubilanté Cutting",
+      "contact_email": "jubilante.animationgy@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
