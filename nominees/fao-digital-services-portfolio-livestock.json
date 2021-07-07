@@ -1,0 +1,48 @@
+{
+  "name": "FAO Digital Services Portfolio - Livestock",
+  "aliases": [
+    ""
+  ],
+  "description": "This Service Provides Real-Time Information On The Control Of Animal Diseases And Epidemics And Gives Advice On How To Optimize Livestock Feed.",
+  "website": "https://digital.apps.fao.org/livestock",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
+      "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services. "
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women. "
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "FAO",
+      "website": "http://www.fao.org/",
+      "org_type": "owner",
+      "contact_name": "Henry van Burgsteden",
+      "contact_email": "henry.burgsteden@fao.org"
+    }
+  ],
+  "stage": "nominee"
+}
