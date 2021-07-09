@@ -3,7 +3,7 @@
   "aliases": [
     "FAMEWS"
   ],
-  "description": "The FAW Monitoring And Early Warning System (FAMEWS) Is A Free Mobile Application For Android Cell Phones From The Food And Agriculture Organization Of The United Nations (FAO) For The Real-Time Global Monitoring Of The Fall Armyworm (FAW). This Multi-Lingual Tool Allows Farmers, Communities, Extension Agents And Others To Record Standardized Field Data Whenever They Scout A Field Or Check Pheromone Traps For FAW. Data From The App Provides Valuable Insights On How FAW Changes Over Time With Ecology, To Improve Knowledge Of Its Behaviour And Guide Best Management Practices.",
+  "description": "The FAW Monitoring And Early Warning System (FAMEWS) is a free mobile application for Android cellphones from the Food And Agriculture Organization Of The United Nations (FAO) for the real-time global monitoring of the Fall Armyworm (FAW). This multi-lingual tool allows farmers, communities, extension agents and others to record standardized field data whenever they scout a field or check pheromone traps for FAW. Data from the app provides valuable insights on how FAW changes over time with ecology, to improve knowledge of its behaviour and guide best management practices.",
   "website": "https://digital.apps.fao.org/plant-pests",
   "license": [
     {
