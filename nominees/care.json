@@ -1,27 +1,35 @@
 {
   "name": "Care",
-  "description": "Care is a single point to link hospitals, Corona Care Centers and volunteers to the unified Corona Safe Network so that the Kerala Chief Minister's Office has direct access to live reports of hospital admittances to prevent overloading the healthcare system capacity.",
-  "website": "https://care.coronasafe.network/",
+  "aliases": [
+    "Coronasafe Care "
+  ],
+  "description": "A capacity management toold created to manage digital war rooms",
+  "website": "http://coronasafe.network/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/coronasafe/care/blob/master/LICENSE"
+      "licenseURL": "https://github.com/coronasafe/care_fe/blob/develop/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised pandemic management strategy."
     }
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/coronasafe/care",
+  "repositoryURL": "https://github.com/coronasafe/care_fe",
   "organizations": [
     {
-      "name": "Kerala State Disaster Management Authority",
-      "org_type": "owner"
+      "name": "Coronasafe Network ",
+      "website": "http://coronasafe.network/",
+      "org_type": "maintainer",
+      "contact_name": "Bodhish Thomas",
+      "contact_email": "bodhish@gmail.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
