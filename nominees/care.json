@@ -1,9 +1,9 @@
 {
   "name": "Care",
   "aliases": [
-    "Coronasafe Care "
+    "Coronasafe Care"
   ],
-  "description": "A capacity management toold created to manage digital war rooms",
+  "description": "Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralized Covid19 management strategy.",
   "website": "http://coronasafe.network/",
   "license": [
     {
@@ -14,22 +14,30 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised pandemic management strategy."
+      "evidenceText": "Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised pandemic management strategy.",
+      "evidenceURL": "https://coronasafe.network/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Integrated Telemedicine & Triage. With integrated telemedicine and triage, patients who feel early symptoms can contact the telemedicine and give their data. Regular follow-ups can be configured and when patients feel breathless, the can be quickly be shifted into the nearest available facility by the war room shifting team.",
+      "evidenceURL": "https://coronasafe.network/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/coronasafe/care_fe",
+  "repositoryURL": "https://github.com/coronasafe/care/blob/master/LICENSE",
   "organizations": [
     {
-      "name": "Coronasafe Network ",
+      "name": "Coronasafe Network",
       "website": "http://coronasafe.network/",
       "org_type": "maintainer",
       "contact_name": "Bodhish Thomas",
       "contact_email": "bodhish@gmail.com"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
