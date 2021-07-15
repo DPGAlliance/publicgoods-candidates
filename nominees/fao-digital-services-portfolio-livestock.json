@@ -14,14 +14,17 @@
   "SDGs": [
     {
       "SDGNumber": 1,
+      "evidenceText": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services.",
       "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
     },
     {
       "SDGNumber": 5,
+      "evidenceText": "5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.",
       "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
     },
     {
       "SDGNumber": 9,
+      "evidenceText": "9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.",
       "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
     },
     {
@@ -30,6 +33,7 @@
     },
     {
       "SDGNumber": 17,
+      "evidenceText": "17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT",
       "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
     }
   ],
