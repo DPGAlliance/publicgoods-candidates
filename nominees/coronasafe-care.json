@@ -1,9 +1,9 @@
 {
-  "name": "Care",
+  "name": "Coronasafe Care",
   "aliases": [
-    "Coronasafe Care"
+    ""
   ],
-  "description": "Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralized Covid19 management strategy.",
+  "description": "Coronasafe Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralized Covid19 management strategy.",
   "website": "http://coronasafe.network/",
   "license": [
     {
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised pandemic management strategy.",
+      "evidenceText": "Coronasafe Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised pandemic management strategy.",
       "evidenceURL": "https://coronasafe.network/"
     },
     {
