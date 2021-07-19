@@ -1,0 +1,71 @@
+{
+  "name": "Open Terms Archive",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://opentermsarchive.org/en/terms-of-service"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/ambanum/OpenTermsArchive/blob/master/README.md",
+      "https://github.com/ambanum/OpenTermsArchive/blob/master/CONTRIBUTING.md",
+      "https://github.com/ambanum/OpenTermsArchive-api#open-terms-archive---api",
+      "https://opentermsarchive.org/en/case-studies",
+      "https://disinfo.quaidorsay.fr/en/open-terms-archive/experiments",
+      "https://github.com/ambanum/OpenTermsArchive-stats"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "We use a headless browser to get the different versions of the documents we track changes."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR. "
+    ],
+    "adherenceSteps": [
+      "This project is GDPR-compliant. Open Terms Archive relies on public documents released by digital platforms.  When the website is visited, a small text file (a “cookie”) is left on the visitor’s computer. This allows us to measure how many visits we’ve had and which pages are most viewed. The tracking software we use, Matomo, is open-source, self-managed, and set up to properly anonymize the data we collect and is thus exempt from prior consent according to the French data protection authority CNIL’s recommendations. The analytics data for this website are publicly available on stats.data.gouv.fr Privacy policy page is here : https://opentermsarchive.org/en/privacy-policy and terms of service here https://opentermsarchive.org/en/terms-of-service"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We do open labs, a ritual that takes place every two weeks, where users are invited to collect their opinions and needs. This is our project driving tool.  We collaborate with existing players in the field (https://tosdr.org/) and build strong collaboration with international partners (https://disinformationindex.org/). What we build is easy forkable and well documented."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "France"
+    ],
+    "deploymentCountries": [
+      "France",
+      "United Kingdom",
+      "Belgium",
+      "Germany",
+      "Spain"
+    ]
+  }
+}

@@ -4,7 +4,7 @@
     ""
   ],
   "description": "Coronasafe Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralized Covid19 management strategy.",
-  "website": "http://coronasafe.network/",
+  "website": "https://coronasafe.network/",
   "license": [
     {
       "spdx": "MIT",
@@ -33,7 +33,7 @@
   "organizations": [
     {
       "name": "Coronasafe Network",
-      "website": "http://coronasafe.network/",
+      "website": "https://coronasafe.network/",
       "org_type": "maintainer",
       "contact_name": "Bodhish Thomas",
       "contact_email": "bodhish@gmail.com"
