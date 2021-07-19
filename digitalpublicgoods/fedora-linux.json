@@ -1,0 +1,57 @@
+{
+  "name": "Fedora Linux",
+  "evidenceURL9": "https://www.youtube.com/watch?v=dCeiTVmxgLs",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://fedoraproject.org/wiki/Licensing:Main"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.fedoraproject.org"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Fedora follows all US law.",
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://fedoraproject.org/wiki/Legal:PrivacyPolicy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Open source software development",
+      "Upstream-first policy",
+      "Community governance",
+      "Rapid iteration and feedback"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": []
+  }
+}
