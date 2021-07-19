@@ -1,6 +1,5 @@
 {
   "name": "Fedora Linux",
-  "evidenceURL9": "https://www.youtube.com/watch?v=dCeiTVmxgLs",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://fedoraproject.org/wiki/Licensing:Main"
@@ -52,6 +51,11 @@
     }
   },
   "locations": {
-    "developmentCountries": []
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
