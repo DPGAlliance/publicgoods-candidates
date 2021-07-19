@@ -13,12 +13,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 9,
-      "evidenceText": "Our project mission is directly aligned: Fedora creates an innovative platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users."
+      "SDGNumber": 8,
+      "evidenceText": "Free access to our open source technology and community provides industry connections and the ability to learn best practices in an established technology project. Community members learn real skills that are relevant in the global job market.",
+      "evidenceURL": "https://www.zdnet.com/article/the-most-popular-fedora-linux-in-years-rolls-out/"
     },
     {
-      "SDGNumber": 8,
-      "evidenceText": "Free access to our open source technology and community provides industry connections and the ability to learn best practices in an established technology project. Community members learn real skills that are relevant in the global job market."
+      "SDGNumber": 9,
+      "evidenceText": "Our project mission is directly aligned: Fedora creates an innovative platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.",
+      "evidenceURL": "https://www.zdnet.com/article/the-most-popular-fedora-linux-in-years-rolls-out/"
     }
   ],
   "sectors": [],
