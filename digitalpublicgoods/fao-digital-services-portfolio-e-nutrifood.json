@@ -1,0 +1,70 @@
+{
+  "name": "FAO Digital Services Portfolio - E-Nutrifood",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://www.fao.org/contact-us/terms/en/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://cloud.google.com/products"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://digitalprinciples.org"
+    ],
+    "adherenceSteps": [
+      "http://www.fao.org/contact-us/terms/en/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "https://digitalprinciples.org",
+      "REST API, RapidPro, PWA: Secure contexts (HTTPS), Service Workers, and a manifest file"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org and Human Centered Design Principles"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Rwanda",
+      "Senegal",
+      "Niger",
+      "Tanzania",
+      "Jordan"
+    ],
+    "deploymentCountries": [
+      "Rwanda",
+      "Senegal",
+      "Niger",
+      "Tanzania",
+      "Jordan"
+    ]
+  }
+}
