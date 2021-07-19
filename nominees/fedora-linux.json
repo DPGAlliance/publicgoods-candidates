@@ -1,7 +1,7 @@
 {
   "name": "Fedora Linux",
   "aliases": [
-    "\"Fedora\""
+    "Fedora"
   ],
   "description": "A complete free and open source operating system for laptops, desktops, servers, devices, clouds, and containers",
   "website": "https://fedoraproject.org/",
@@ -35,5 +35,5 @@
       "contact_email": "mattdm@fedoraproject.org"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
