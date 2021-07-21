@@ -23,9 +23,8 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "This project doesn't require, collect or store any personal information. It is fully EU General Data Protection Regulation compliant.",
-      "",
-      "The project encourages users to avoid sharing sensitive data on their own platforms (see 'How to test' in [Code in the open](https://standard.publiccode.net/criteria/code-in-the-open.html))."
+      "GDPR",
+      "The project encourages users to avoid sharing sensitive data on their own platforms. \n Reference: https://standard.publiccode.net/criteria/code-in-the-open.html"
     ],
     "adherenceSteps": [
       "The Standard for Public Code is best practice guidance for developing open source software projects. Though public bodies implementing the Standard are subject to laws, the Standard itself is not. The Standard does not encourage illegal behavior."
@@ -35,29 +34,22 @@
     "supportStandards": "Yes",
     "standardsList": [
       "The Standard requires or strongly encourages users to meet or use:",
-      "",
-      "- [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/) ",
-      "- [publiccode.yml](https://github.com/italia/publiccode.yml)",
-      "- one of these:",
-      "\t- [Business Process Model and Notation](http://www.bpmn.org/) (BPMN)",
-      "\t- [Decision Model Notation](https://www.omg.org/dmn/) (DMN)",
-      "\t- [Case Management Model Notation](https://www.omg.org/cmmn/) (CMMN)",
-      "- Open standards as defined by the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)",
-      "- an [Open Source Institute approved open source license](https://opensource.org/licenses/category).",
-      "",
-      "For clarity and ease of use, the Standard uses, meets or follows:",
-      "",
-      "- [RFC 2119](https://tools.ietf.org/html/rfc2119)"
+      "Web Content Accessibility Guidelines 2.1 (https://www.w3.org/TR/WCAG21/) ",
+      "Public code (https://github.com/italia/publiccode.yml)",
+      "Business Process Model and Notation (BPMN)",
+      "Decision Model Notation (DMN)",
+      "Case Management Model Notation (CMMN)",
+      "Open Source Initiative Open Standard Requirements (https://opensource.org/osr)",
+      "Open Source Institute approved open source license (https://opensource.org/licenses/category)",
+      "RFC 2119"
     ],
     "evidenceStandardSupport": [
-      "- WCAAG 2: see 'Requirements' in [Use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html#requirements)",
-      "- publiccode.yml: see 'Requirements' in [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html#requirements)",
-      "- BPMN, DMN or CMMN: see 'Policy makers: what you need to do' in [Bundle policy and code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html#policy-makers:-what-you-need-to-do)",
-      "- Open standards: see 'Requirements' in [Use open standards](https://standard.publiccode.net/criteria/open-standards.html#requirements)",
-      "- Open source licence: see 'Requirements' in [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html)",
-      "- RFC 2119: see the [reader's guide](https://standard.publiccode.net/readers-guide.html)",
-      "",
-      "We strive to ensure that the Standard itself meets the requirements set out in the Standard."
+      "WCAAG 2: https://standard.publiccode.net/criteria/understandable-english-first.html#requirements",
+      "publiccode.yml: https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html#requirements",
+      "BPMN, DMN or CMMN: https://standard.publiccode.net/criteria/bundle-policy-and-code.html#policy-makers:-what-you-need-to-do",
+      "Open standards: https://standard.publiccode.net/criteria/open-standards.html#requirements",
+      "Open source licence: https://standard.publiccode.net/criteria/open-licenses.html",
+      "RFC 2119: https://standard.publiccode.net/readers-guide.html"
     ],
     "implementBestPractices": "No",
     "bestPracticesList": [
@@ -74,12 +66,12 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The project encourages users to avoid sharing sensitive data on their own platforms."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -97,7 +89,6 @@
       "harassmentProtectionSteps": [
         "Our code of conduct is enforced as follows:",
         "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at directors@publiccode.net. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.",
-        "",
         "Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership."
       ]
     }
