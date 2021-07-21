@@ -1,0 +1,52 @@
+{
+  "name": "Digital Health Access",
+  "evidenceURL3": "https://digitalhealthaccess.com/",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "dataPrivacySecurity": {
+    "typesOfDataCollected": [
+      "name,phone number and passwords"
+    ]
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana",
+      "Uganda"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
