@@ -104,12 +104,13 @@
   },
   "locations": {
     "developmentCountries": [
-      "The Netherlands"
+      "Netherlands"
     ],
     "deploymentCountries": [
-      "The Standard for Public Code is already in use in the Netherlands. We know of people and organizations in France",
-      "Germany and Denmark who would like to use it (based on efforts to get a translation). It is developed as a global asset and can be deployed by anyone",
-      "anywhere."
+      "Denmark",
+      "France",
+      "Germany",
+      "Netherlands"
     ]
   }
 }
