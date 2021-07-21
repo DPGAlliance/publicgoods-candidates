@@ -1,0 +1,35 @@
+{
+  "name": "Digital Health Access",
+  "aliases": [
+    "DHA"
+  ],
+  "description": "Health education and consultation platform that connects health care professionals and providers to it's users.",
+  "website": "https://digitalhealthaccess.com/",
+  "license": [
+    {
+      "spdx": "AAL",
+      "licenseURL": "https://digitalhealthaccess.com/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Allows users to seek health educationa and consultation from qualified health professionals through our health web and mobile apps"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "DHA Health Company Limited",
+      "website": "https://digitalhealthaccess.com/",
+      "org_type": "owner",
+      "contact_name": "Ampabeng Richmond Bediako",
+      "contact_email": "richmond@digitalhealthaccess.com"
+    }
+  ],
+  "stage": "DPG"
+}
