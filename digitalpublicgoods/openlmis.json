@@ -1,0 +1,97 @@
+{
+  "name": "OpenLMIS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://openlmis.atlassian.net/wiki/spaces/OP/overview"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://openlmis.org/get-started/developer/",
+      "https://openlmis.atlassian.net/wiki/spaces/OP/pages/88670494/Functional+Documentation",
+      "https://openlmis.org/wp-content/uploads/2020/07/OpenLMIS_FeaturesOverview_FINAL.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      "I am not knowledgeable about privacy laws"
+    ],
+    "adherenceSteps": [
+      "I am not sure how to answer this question. We are a donor funded initiative who are regularly audited by USAID and other donors so I feel confident that we are in compliance with the law but do not know of any specific laws to name"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR, FHIR Location, GTIN, GLN, IHE mCSD, HTTP, REST JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://openlmis.atlassian.net/wiki/spaces/OP/pages/561446913/OpenLMIS+Interoperability?search_id=5f16741d-9ab1-4dd3-98d9-cd9a8d9e19ff"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We actively engage with our users, implementing partners, and associated Ministries of Health to track how the software is being used, rolled out, and the impact it is having on communities. We document lessons learned, share successes and challenges throughout our community via written materials and encourage dialogue through our multiple committees and online discussion forum. We have also held annual in-person OpenLMIS Community Meetings to document feedback from in-country user experiences. By maintaining an open line of communication with our community we are on the pulse of OpenLMIS use and if any issues arose or harm was caused we would utilize our community resources and structures to be able to respond accordingly."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "NA",
+      "illegalContentDetection": "Unknown",
+      "illegalContentDetectionMechanism": "NA"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "It was developed across a set of global partners/donors and first implemented in Tanzania & Zambia in 2014"
+    ],
+    "deploymentCountries": [
+      "Malawi",
+      "Angola",
+      "Benin",
+      "Guinea",
+      "Cote d' Ivoire",
+      "Mozambique",
+      "Zambia",
+      "Tanzania"
+    ]
+  }
+}
