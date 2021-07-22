@@ -62,7 +62,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Data is controlled in isolated storage and used only for offline training with separation between the data scientist and the data. Individual data points containing PII are only used for random QA sampling and never leaves controlled storage."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
