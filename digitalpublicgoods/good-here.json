@@ -1,0 +1,88 @@
+{
+  "name": "Good Here",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": "https://github.com/goodhere/goodhere/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "We currently use Airtable to manage the database of content. This could be transferred to an open source alternative."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/goodhere/goodhere"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR, CAN-SPAM"
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "WCAG 2.0 (Level AA)"
+    ],
+    "evidenceStandardSupport": [
+      "Validated via Accessibility Checker: https://achecker.ca/checker/index.php"
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Information on social impact startups, including name, tagline, description, logo, headquarters, location, category, organisation formation type, number of employees, Twitter profile, LinkedIn profile, Facebook profile.",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Manual review of all submitted and published content"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Manual review of all submissions and published content"
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "No country focus"
+    ]
+  }
+}
