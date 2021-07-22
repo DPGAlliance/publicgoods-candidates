@@ -1,0 +1,97 @@
+{
+  "name": "Oky: the mobile phone period tracker app for girls",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://okyapp.info/ (Legal notice)"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Software: Readme is included in the repository: https://github.com/alextyers/period-tracker-app-whitelabelled",
+      "",
+      "Content: the folder has clear instructions on how to use the content (and the content is also present in the repository, as guidance): https://drive.google.com/open?id=1iXM8tBPdsnLciG1Pw2eFJN4zq3TsKpEA",
+      "",
+      "The content license is Open Source Content: Attribution 4.0 International (CC BY 4.0) ."
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Unknown",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "GDPR"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Principles of Digital Development",
+      ""
+    ],
+    "evidenceStandardSupport": [
+      "These resources explain the story of Oky and how we adhered to the Principles of Digital Development as it was being developed (eg design with the user, understand the ecosystem, be collaborative, address privacy and security etc)",
+      "Oky blog – how Oky was co-created with girls: https://www.unicef.org/innovation/stories/oky-co-created-girls-girls",
+      "Oky brochure – overview: https://drive.google.com/file/d/1KatJ1pwQ9zES2HaRkWPUxsRrMWeeGHzX/view"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles of Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "1. The Oky app has been designed with very high privacy settings, to protect users. We do not hold in our database any personally identifiable data. While user-generated fields at time of registration (username, password, secure answer) are not able to identify an individual, as part of Oky’s strict data governance approach, Oky hashes and salts these fields to render the original values inaccessible. This hashing approach is used with the purpose to: (a) obfuscate the username to anyone who might access the database, and (b) to guarantee user authentication, ie. to allow users to log into their account on the same device or a different device.\n2. The app has also been designed to be discrete (based on user feedback) so that it is not immediately obvious to anyone else that it is a period tracker - it has a discrete icon, the interface does not look like a traditional period tracker app (for anyone looking over a user’s shoulder), and it will only send discrete messages to users via the push notification from CMS. For example, messages will never be sent that give away personal information that others may see. The Do-No-Harm principle is imperative. For example, messages like 'your period is late, you might be pregnant' would never be sent.\n3. Users require a passcode to access their account on the app, to protect their account and information (especially for users who may share phones). They are required to enter their passcode every time they open the app; this is the default. Users also set up a  memorable question and answer if they lose their passcode, but this cannot be reset from the backend if users forget it, to protect user data.\n4. Content has been created and vetted by experts, and some content (eg quizzes and did you knows) has had age-restrictions added for users aged 15 (according to their account profile) and below. This is to protect younger users from content that may not be deemed age appropriate (and that they cannot control seeing, as the quizzes appear at random).\n5. Efforts have been made to engage parents and caregivers, through the website, to inform them of what Oky is and what it is for."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "Unknown",
+      "illegalContentDetectionMechanism": "Oky’s content is not user-generated, and is vetted by sexual and reproductive health experts to ensure it is evidence-based and aligns with the international technical standards of comprehensive sexuality education before it goes live. Therefore there is no way that any inappropriate or illegal content can be added. But the form made that question mandatory so we are adding an explanation here."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "There is no facilitation between users or contributors, but the question above was mandatory (probably accidentally) so we are adding an explanation here."
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mongolia",
+      "Indonesia"
+    ],
+    "deploymentCountries": [
+      "Global English app (no country focus; not available in Indonesia and Mongolia)) Indonesia (on Indonesia Play Store) Mongolia (on Mongolia Play Store)",
+      "Kenya (in 2021)"
+    ]
+  }
+}
