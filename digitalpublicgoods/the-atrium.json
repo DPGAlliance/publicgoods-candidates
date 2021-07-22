@@ -1,0 +1,92 @@
+{
+  "name": "The Atrium",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/unicef/atrium"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/unicef/atrium"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Unknown",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "standardsList": [
+      "New version being released in 2021 that will ensure WCAG"
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The Principles of Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The platform is only available to UN staff members."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name and email"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The data is secured on UN servers and follows the recommendations from UNICEF ICTD in regards to security best practices. We do not share this information with anyone ever."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "This project collects data about blockchain projects across the UN, forum posts from UN staff members (& their responses) on topics related to blockchain and cryptocurrency.",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "We have this feature coming in 2021"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Users that are engaging with one-another are UN staff (requires a UN email address to sign up and contribute)."
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        "A mechanism for flagging content is currently in development and will be introduced in 2021."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "USA",
+      "UK",
+      "Portugal",
+      "Germany",
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "No country focus"
+    ]
+  }
+}
