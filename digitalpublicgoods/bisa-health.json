@@ -62,7 +62,7 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
+      "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
