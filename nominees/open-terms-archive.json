@@ -7,7 +7,7 @@
   "website": "https://opentermsarchive.org/",
   "license": [
     {
-      "spdx": "EUPL-1.2",
+      "spdx": "ODC-By-1.0",
       "licenseURL": "https://github.com/ambanum/OpenTermsArchive-snapshots#license"
     }
   ],
