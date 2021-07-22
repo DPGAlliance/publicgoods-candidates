@@ -1,0 +1,93 @@
+{
+  "name": "Glific",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository (our entire codebase is open source and licensed as such)"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://glific.github.io/slate/ (api documentation)",
+      "https://glific.github.io/glific/ (code documentation)",
+      "https://docs.glific.org/ (end user documentation)"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      "But we are working on our privacy and data retention policies"
+    ],
+    "adherenceSteps": [
+      "We will make the system GDPR compliant shortly"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Our primary end-user interface is WhatsApp client which is WCAG compliant. Our platform for the NGO is not compliant as yet."
+    ],
+    "evidenceStandardSupport": [
+      "https://faq.whatsapp.com/android/account-and-profile/about-accessibility-features-on-whatsapp/?lang=en"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "User Centered Design, Involve and interact with your user base on a frequent basis."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "This is dependent on our users. Glific is a platform, and users can use it in different ways",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "For our SaaS service we work with NGOs that are certified and have a known presence."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India",
+      "US",
+      "UK"
+    ],
+    "deploymentCountries": [
+      "India",
+      "US"
+    ]
+  }
+}
