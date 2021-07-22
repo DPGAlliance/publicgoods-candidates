@@ -1,0 +1,97 @@
+{
+  "name": "openIMIS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://openimis.atlassian.net/wiki/spaces/OP/pages/40566798/Licenses"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The software originally was built on the Microsoft stack, so while the code has been released as open source, there were dependencies on MS products and servers. However, since 2017 a complete rearchitecture of the system is in process, which includes the development of the software using a modular architecture, and also using open source programming languages and databases. The new modules are developed to run side-by-side to the older versions (MS based) until the full transition in complete - after which there will be no further dependencies."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "All documentation : http://docs.openimis.org/en/latest/",
+      "",
+      "Use-cases are also documented on the openIMIS wiki: https://openimis.atlassian.net/wiki/spaces/OP/pages/40665130/Implementations"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The software is deployed on local servers when implementation is done in-country, and local laws surrounding privacy are adhered to. In the schemes in Nepal and Tanzania, the Ministry of Health and the President's Office, Regional Administration and Local Government respectively responsible for the implementation of the software."
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Health Level 7 Fast Health Interoperability Resource (FHIR)"
+    ],
+    "evidenceStandardSupport": [
+      "https://openimis.atlassian.net/wiki/spaces/OP/pages/1233649676/openIMIS+FHIR+R4+Overview+Page"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles of Digital Development, and standards prescribed by the Open Health Information Exchange (www.ohie.org)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "While there are no formal procedures in place, we believe in respectful, open communication between the community members and strive ensure this through constant engagement with the community."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Tanzania",
+      "Nepal",
+      "Germany",
+      "Switzerland",
+      "Belgium"
+    ],
+    "deploymentCountries": [
+      "Tanzania",
+      "Nepal",
+      "Chad",
+      "Cameroon"
+    ]
+  }
+}
