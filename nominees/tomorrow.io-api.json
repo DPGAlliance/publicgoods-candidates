@@ -1,0 +1,84 @@
+{
+  "name": "Tomorrow.io API",
+  "aliases": [
+    "Tomorrow.io weather intelligence API"
+  ],
+  "description": "Tomorrow.io weather intelligence API. Tomorrow.io collects, aggregates and processes meteorological and other relevant weather data, then offers access to it via the API. This includes data like: temperature, humidity, wind Speed, precipitation, cloud cover, visibility and much more.",
+  "website": "https://www.tomorrow.io",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-3.0-US",
+      "licenseURL": "https://www.tomorrow.io/legal/app-eula/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/blog/tomorrow-io-ceo-testifies-before-congress-on-climate-security-and-extreme-heat/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
+      "evidenceURL": "https://www.tomorrow.io/"
+    }
+  ],
+  "sectors": [
+    "Climate"
+  ],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositoryURL": "https://github.com/statisticsnorway/statbus",
+  "organizations": [
+    {
+      "name": "Tomorrow.io",
+      "website": "https://www.tomorrow.io/",
+      "org_type": "owner",
+      "contact_name": "Dan Slagen",
+      "contact_email": "dan.slagen@tomorrow.io"
+    }
+  ],
+  "stage": "nominee"
+}
