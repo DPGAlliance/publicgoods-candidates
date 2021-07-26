@@ -9,6 +9,10 @@
     {
       "spdx": "CC-BY-NC-3.0-US",
       "licenseURL": "https://www.tomorrow.io/legal/app-eula/"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Tomorrow-IO-API/tomorrow-samples"
     }
   ],
   "SDGs": [
@@ -23,24 +27,13 @@
       "evidenceURL": "https://www.tomorrow.io/"
     },
     {
-      "SDGNumber": 3,
-      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
-      "evidenceURL": "https://www.tomorrow.io/"
-    },
-    {
-      "SDGNumber": 7,
-      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
-      "evidenceURL": "https://www.tomorrow.io/"
-    },
-    {
       "SDGNumber": 8,
       "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
       "evidenceURL": "https://www.tomorrow.io/"
     },
     {
       "SDGNumber": 9,
-      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
-      "evidenceURL": "https://www.tomorrow.io/"
+      "evidenceURL": "https://techcrunch.com/2021/03/30/weather-platform-climacell-is-now-tomorrow-io-and-raises-77m/"
     },
     {
       "SDGNumber": 11,
@@ -54,8 +47,7 @@
     },
     {
       "SDGNumber": 13,
-      "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
-      "evidenceURL": "https://www.tomorrow.io/"
+      "evidenceURL": "https://www.tomorrow.io/blog/the-impact-of-extreme-floods-on-business-operations/"
     },
     {
       "SDGNumber": 15,
@@ -63,6 +55,7 @@
       "evidenceURL": "https://www.tomorrow.io/"
     }
   ],
+  "evidenceText": "Weather intelligence is a critical input for predicting and managing weather and climate related risk. Accessible weather intelligence could lift billions from poverty",
   "sectors": [
     "Climate"
   ],
@@ -70,7 +63,7 @@
     "data",
     "software"
   ],
-  "repositoryURL": "https://docs.tomorrow.io/reference/welcome",
+  "repositoryURL": "https://github.com/Tomorrow-IO-API/tomorrow-samples",
   "organizations": [
     {
       "name": "Tomorrow.io",
