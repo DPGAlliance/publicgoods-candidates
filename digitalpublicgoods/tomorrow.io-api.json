@@ -12,7 +12,10 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://docs.tomorrow.io/reference/welcome"
+      "https://docs.tomorrow.io/reference/welcome",
+      "https://www.tomorrow.io/weather-api",
+      "https://tomorrowio.zendesk.com/hc/en-us",
+      "Release notes: https://docs.tomorrow.io/reference/api-versioning#release-notes"
     ]
   },
   "NonPII": {
@@ -32,14 +35,19 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "https://www.tomorrow.io/legal/app-eula/"
+      "REST",
+      "JSON",
+      "CSV",
+      "GeoJSON",
+      "HTTP/S"
     ],
     "evidenceStandardSupport": [
-      "https://www.tomorrow.io/legal/app-eula/"
+      "https://docs.tomorrow.io/reference/welcome"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "https://www.tomorrow.io/legal/app-eula/"
+      "Leveraging machine learning.Emerging modern technologies can benefit by compiling mass amounts of data to train machine learning models with the best weather data available. \nhttps://www.tomorrow.io/blog/the-ultimate-guide-to-historical-weather-data/",
+      "Powered by cloud computing. With the modern cloud-computing paradigm, historical weather data is easily accessible through the Tomorrow.io Platform. Tomorrow.io’s engineers have embedded an intuitive web interface layer within the company’s platform which enables the user to request historical data parameters for any combination of locations and times from the archive. \nhttps://www.tomorrow.io/blog/the-ultimate-guide-to-historical-weather-data/"
     ]
   },
   "doNoHarm": {
