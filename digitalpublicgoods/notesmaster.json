@@ -5,7 +5,9 @@
     "copyrightURL": "https://notesmaster.com/termsofuse"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,12 +16,14 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "Federal Children’s Online Privacy Protection Act of 1998 ",
+      "Federal Children’s Online Privacy Protection Act of 1998",
       "U.S. Family Educational Rights and Privacy Act "
     ],
     "adherenceSteps": [
@@ -44,27 +48,44 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
-      "ensurePrivacySecurity": "Yes"
+      "typesOfDataCollected": [
+        "First Name",
+        "Surname",
+        "Email address",
+        "School or Institution of Learning",
+        "Country of teaching or learning"
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
-  },
-  "dataPrivacySecurity": {
-    "typesOfDataCollected": [
-      "First Name ",
-      "Surname",
-      "Email address",
-      "School or Institution of Learning",
-      "Country of teaching or learning"
-    ]
   },
   "locations": {
     "developmentCountries": [
