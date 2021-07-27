@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/nubianvr-source/ProjectKonko/blob/master/LICENSE"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,27 +16,64 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "Yes",
+    "adherenceSteps": [
+      "Each participant that came in contact of our technology was provided a consent form that outlined risk."
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles For Digital Development"
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Testing was guided by Ashesi University Human Review Board Standards of Ethical Research. Participants of this project - i.e. teacher & students - were provided with a consent form detailing the risk associated with Virtual Reality and were informed about steps to take mitigate the risk of motion sickness. For children, parents had to provide consent. \n Data collected were stored in a manner that subjects are unidentifiable."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
