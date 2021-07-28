@@ -2,7 +2,7 @@
   "name": "Glific",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository (our entire codebase is open source and licensed as such)"
+    "copyrightURL": "https://github.com/glific/glific/blob/master/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -23,12 +23,13 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "But we are working on our privacy and data retention policies"
+      "To the best of our knowledge, Glific does not store any PII for the beneficiaries. The only potential PII that we collect and store is the beneficiary phone number (i.e. their whatsapp number). As such, as an open source project, we do not think GDPR applies to Glific."
     ],
     "adherenceSteps": [
-      "https://glific.org/glific-privacy-policy/"
+      "https://glific.org/glific-privacy-policy/",
+      "From a SaaS perspective, the NGO might decide to collect PII information and this is use case specific. We strongly recommend that NGOs do not collect this information if not required. We are in conversations with NGOs on what needs to be done to ensure that their install of Glific is GDPR compliant in this case,. and how the platform and potentially enable it. This is similar to the ODK ecosystem, where the various SaaS providers of ODK enforce and implement GDPR compliance"
     ]
   },
   "standards": {
