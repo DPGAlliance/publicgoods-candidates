@@ -44,31 +44,32 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Agile development, consultation of relevant clinical guidelines"
+      "Agile development",
+      "Consultation of relevant clinical guidelines"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "N/A"
+      "additionalInfoMechanismProcessesPolicies": "https://www.hln.com/services/open-source/ice/index.html"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The clinical information system sends a patient’s data to ICE utilizing the Virtual Medical Record (vMR) format, which is an emerging standard within the HL7 Clinical Decision Support Workgroup. Reference: https://www.hln.com/services/open-source/ice/index.html"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
-      "type": "N/A",
-      "illegalContentDetection": "No",
-      "illegalContentDetectionMechanism": "N/A"
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -76,9 +77,9 @@
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Project relies on Google Groups that are monitored"
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "N/A"
+        "Project relies on Google Groups that are monitored"
       ]
     }
   },
