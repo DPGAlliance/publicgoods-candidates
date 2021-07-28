@@ -12,9 +12,9 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://glific.github.io/slate/ (api documentation)",
-      "https://glific.github.io/glific/ (code documentation)",
-      "https://docs.glific.org/ (end user documentation)"
+      "API documentation: https://glific.github.io/slate/",
+      "Code documentation: https://glific.github.io/glific/",
+      "End user documentation: https://glific.slab.com/public/topics/glific-documentation-nb8345sh"
     ]
   },
   "NonPII": {
@@ -28,7 +28,7 @@
       "But we are working on our privacy and data retention policies"
     ],
     "adherenceSteps": [
-      "We will make the system GDPR compliant shortly"
+      "https://glific.org/glific-privacy-policy/"
     ]
   },
   "standards": {
@@ -47,19 +47,19 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -69,11 +69,11 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
