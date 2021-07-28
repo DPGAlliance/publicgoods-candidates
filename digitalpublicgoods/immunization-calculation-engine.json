@@ -32,10 +32,15 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "HL7 VMR, FHIR, Terminology (US CDC CVX, SNOMED-CT)"
+      "HL7 VMR",
+      "FHIR",
+      "Terminology (US CDC CVX, SNOMED-CT)"
     ],
     "evidenceStandardSupport": [
-      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23494658/Documentation"
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23494658/Documentation",
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/18972704/Downloads",
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23920670/News",
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/1580335105/COVID-19+Vaccine+Group+with+Pfizer+Moderna+and+Janssen+Vaccines"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
