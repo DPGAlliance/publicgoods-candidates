@@ -39,7 +39,7 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "The DHIS 2 development process follows agile development process, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
+      "Hive development process follows an agile development approach, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
     ]
   },
   "doNoHarm": {
@@ -65,16 +65,16 @@
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
-      "illegalContentDetection": "No",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
