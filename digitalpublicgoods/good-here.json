@@ -67,11 +67,11 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Manual review of all submissions and published content"
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
