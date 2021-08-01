@@ -61,9 +61,9 @@
       "privacySecurityDescription": "Yes, the data is secured on UN servers and it follows the recommendations from ICTD in regards to security best practices. We do not share this information with anyone ever."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "The information that this application collects includes blockchain wallets, cryptocurrency price data (bitcoin and ethereum) and wallet details (e.g. what organisation a wallet belongs to).",
-      "illegalContentDetection": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
