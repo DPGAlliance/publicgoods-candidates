@@ -23,7 +23,8 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR, CAN-SPAM"
+      "GDPR",
+      "CAN-SPAM"
     ],
     "adherenceSteps": [
       ""
