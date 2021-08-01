@@ -1,5 +1,5 @@
 {
-  "name": "Oky: the mobile phone period tracker app for girls",
+  "name": "Oky",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "http://okyapp.info/ (Legal notice)"
@@ -34,8 +34,7 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Principles of Digital Development",
-      ""
+      "Principles of Digital Development"
     ],
     "evidenceStandardSupport": [
       "These resources explain the story of Oky and how we adhered to the Principles of Digital Development as it was being developed (eg design with the user, understand the ecosystem, be collaborative, address privacy and security etc)",
@@ -57,26 +56,26 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Oky’s content is not user-generated, and is vetted by sexual and reproductive health experts to ensure it is evidence-based and aligns with the international technical standards of comprehensive sexuality education before it goes live."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
-      "illegalContentDetection": "Unknown",
-      "illegalContentDetectionMechanism": "Oky’s content is not user-generated, and is vetted by sexual and reproductive health experts to ensure it is evidence-based and aligns with the international technical standards of comprehensive sexuality education before it goes live. Therefore there is no way that any inappropriate or illegal content can be added. But the form made that question mandatory so we are adding an explanation here."
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "There is no facilitation between users or contributors, but the question above was mandatory (probably accidentally) so we are adding an explanation here."
+        ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
@@ -88,7 +87,7 @@
       "Indonesia"
     ],
     "deploymentCountries": [
-      "Indonesia", 
+      "Indonesia",
       "Mongolia",
       "Kenya"
     ]
