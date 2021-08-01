@@ -87,8 +87,9 @@
       "Indonesia"
     ],
     "deploymentCountries": [
-      "Global English app (no country focus; not available in Indonesia and Mongolia)) Indonesia (on Indonesia Play Store) Mongolia (on Mongolia Play Store)",
-      "Kenya (in 2021)"
+      "Indonesia", 
+      "Mongolia",
+      "Kenya"
     ]
   }
 }
