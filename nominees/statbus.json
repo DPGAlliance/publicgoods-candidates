@@ -4,7 +4,7 @@
     "SBR"
   ],
   "description": "Statistical Business Register IT system",
-  "website": "http://statbus.org",
+  "website": "https://statbus.org",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "Statistics Norway",
-      "website": "http://www.ssb.no",
+      "website": "https://www.ssb.no",
       "org_type": "owner",
       "contact_name": "Anne Abelsæth",
       "contact_email": "Anne.Abelsaeth@ssb.no"
