@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "broken link?",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "broken link?",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "broken link",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "Missing link. Maybe just default to the github repo in this case?",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "missing link",
+    "confidence": "4"
+  },
+  "user": "ericboucher",
+  "timestamp": 1608144869
+}

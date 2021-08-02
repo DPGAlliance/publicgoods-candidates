@@ -1,0 +1,34 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Specifically Goal: 1.4 \"By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance\"",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "specifically, it supports this target. 16.4 By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "specifically : 17.3 Mobilize additional financial resources for developing countries from multiple sources.",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Its a clearly defined contribution page with a lot of information about the project and how to get started.",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The project documentation was very clear and well written. With the links that were given someone should be able to start using Apache Fineract right away in their project. It is well documented and the documentation is very clear. ",
+    "confidence": "5"
+  },
+  "user": "gkimbwala",
+  "timestamp": 1609737909
+}

@@ -11,7 +11,7 @@ pushd $SELFDIR/.. > /dev/null 2>&1
 
 if [ `ls -1 ./nominees/*.json 2>/dev/null | wc -l` -gt 0 ]; then
 	for f in ./nominees/*.json; do
-		filename=`grep -Eo -m 1 '"name":.*?[^\\]",' "$f" | awk -F':' '{print $2}' | sed -e 's/"//g' -e 's/,//g' -e 's/^[[:space:]]*//' -e 's/[[:space:]]/-/g' -e 's/---/-/g' -e 'y/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙÜǕǗǙǛš/aaaaeeeeiiiioooouuuuuuuuuAAAAEEEEIIIIOOOOUUUUUUUUUs/'| tr '[:upper:]' '[:lower:]'`
+		filename=`grep -Eo -m 1 '"name":.*?[^\\]",' "$f" | awk -F':' '{st=index($0,":");print substr($0,st+1)}' | sed -e 's/"//g' -e 's/,//g' -e 's/^[[:space:]]*//' -e 's/[[:space:]]/-/g' -e 's/---/-/g' -e 'y/āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙÜǕǗǙǛš/aaaaeeeeiiiioooouuuuuuuuuAAAAEEEEIIIIOOOOUUUUUUUUUs/'| tr '[:upper:]' '[:lower:]'`
 		if [ "$filename.json" = "$(basename -- "$f")" ]; then
 			echo "Filename is valid: $filename.json"
 		else
@@ -28,8 +28,8 @@ if [ `ls -1 ./nominees/*.json 2>/dev/null | wc -l` -gt 0 ]; then
 	done
 fi
 
-if [ `ls -1 ./screening/*.json 2>/dev/null | wc -l` -gt 0 ]; then
-	for f in ./screening/*.json; do
+if [ `ls -1 ./digitalpublicgoods/*.json 2>/dev/null | wc -l` -gt 0 ]; then
+	for f in ./digitalpublicgoods/*.json; do
 		# Do not check symlinks
 		if [ -L $f ]; then
 			echo "Symlink found: $f, skipping..."

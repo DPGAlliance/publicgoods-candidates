@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": " Its goal is to bring more coherent, cost effective, and user friendly information management tools to the Social Welfare, Child Protection and Gender Based Violence sectors. However, the link takes to general evaluation reports page of UNICEF. This link would work instead: https://www.unicef.org/evaluation/media/946/file/Primero.pdf",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "The link takes to general evaluation reports page of UNICEF. This link would work instead: https://www.unicef.org/evaluation/media/946/file/Primero.pdf",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "It helps child protection workers and social workers in humanitarian and development contexts manage data on vulnerable children and survivors of violence. \nHowever, The link takes to general evaluation reports page of UNICEF. This link would work instead: https://www.unicef.org/evaluation/media/946/file/Primero.pdf",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Primero is an open source software platform for humanitarian protection and social welfare workers by UNICEF.",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The link is more like a user guide to App than technical documentation of software.",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "No relevant link provided",
+    "confidence": "2"
+  },
+  "user": "318anushka",
+  "timestamp": 1617431115
+}
