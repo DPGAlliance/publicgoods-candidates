@@ -12,9 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "All documentation : http://docs.openimis.org/en/latest/",
-      "",
-      "Use-cases are also documented on the openIMIS wiki: https://openimis.atlassian.net/wiki/spaces/OP/pages/40665130/Implementations"
+      "Documentation: http://docs.openimis.org/en/latest/",
+      "Use cases: https://openimis.atlassian.net/wiki/spaces/OP/pages/40665130/Implementations"
     ]
   },
   "NonPII": {
@@ -25,10 +24,11 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
+      "GDPR",
       "The software is deployed on local servers when implementation is done in-country, and local laws surrounding privacy are adhered to. In the schemes in Nepal and Tanzania, the Ministry of Health and the President's Office, Regional Administration and Local Government respectively responsible for the implementation of the software."
     ],
     "adherenceSteps": [
-      ""
+      "https://openimis.org/privacy-policy"
     ]
   },
   "standards": {
@@ -47,19 +47,25 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "openIMIS will retain any, including personal, data entered into the openIMIS demo server for a maximum period of one week."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No",
+      "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "Last Name, Other Names",
+        "Address",
+        "Date Of Birth",
+        "ID number",
+        "Phone, Fax, Email",
+        "Geo Location",
+        "Photo"
       ],
       "thirdPartyDataSharing": "Unknown",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "When you submit data using the Apps or the web interface, the data collected from you will be stored the Web-embed server. If collected via the app, they will be: \n -stored on the IMIS folder in your root directory for the photos and connection tokens \n - in the application database located in the application folder for the other information (not accessible for non-root user). \n\n Those data are erased after synchronisation with the service of generation of an export archive (encrypted via password, stored in the IMIS folder). Sensitive information exchanged between your browser and our website is transmitted in encrypted form using Transport Layer Security (TLS)"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
