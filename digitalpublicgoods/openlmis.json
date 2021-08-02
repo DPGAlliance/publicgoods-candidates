@@ -25,16 +25,24 @@
   "privacy": {
     "isPrivacyCompliant": "Unknown",
     "privacyComplianceList": [
-      "I am not knowledgeable about privacy laws"
+      "GDPR"
     ],
     "adherenceSteps": [
-      "I am not sure how to answer this question. We are a donor funded initiative who are regularly audited by USAID and other donors so I feel confident that we are in compliance with the law but do not know of any specific laws to name"
+      "https://openlmis.org/privacy-policy/",
+      "https://openlmis.org/terms-and-conditions/"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "FHIR, FHIR Location, GTIN, GLN, IHE mCSD, HTTP, REST JSON"
+      "FHIR",
+      "FHIR Location",
+      "GTIN",
+      "GLN",
+      "IHE mCSD",
+      "HTTP",
+      "REST",
+      "JSON"
     ],
     "evidenceStandardSupport": [
       "https://openlmis.atlassian.net/wiki/spaces/OP/pages/561446913/OpenLMIS+Interoperability?search_id=5f16741d-9ab1-4dd3-98d9-cd9a8d9e19ff"
@@ -54,26 +62,26 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Personal data is stored in one of our contact management databases, which are accessible by our employees and service providers (processors). We work with the database platforms and any service providers to ensure your data are protected."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
-      "type": "NA",
-      "illegalContentDetection": "Unknown",
-      "illegalContentDetectionMechanism": "NA"
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
@@ -81,7 +89,7 @@
   },
   "locations": {
     "developmentCountries": [
-      "It was developed across a set of global partners/donors and first implemented in Tanzania & Zambia in 2014"
+      "United States of America"
     ],
     "deploymentCountries": [
       "Malawi",
