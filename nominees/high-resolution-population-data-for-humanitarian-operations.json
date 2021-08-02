@@ -1,0 +1,64 @@
+{
+  "name": "High Resolution Population Data for Humanitarian Operations",
+  "aliases": [
+    ""
+  ],
+  "description": "Gridded, 30 m resolution population density data were developed combining existing open datasets",
+  "website": "https://www.unicef.org/innovation/Magicbox",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/dohyung-kim/population"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://www.unicef.org/innovation/Magicbox"
+    }
+  ],
+  "sectors": [
+    ""
+  ],
+  "type": [
+    "data",
+    "aimodel"
+  ],
+  "repositoryURL": "https://github.com/dhis2/dhis2-core",
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}
