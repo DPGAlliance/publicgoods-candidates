@@ -28,7 +28,9 @@
     {
       "name": "Norwegian Digitalisation Agency",
       "website": "https://www.digdir.no/om-oss/about-norwegian-digitalisation-agency/887",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Eirik Mikkelsen",
+      "contact_email": "eirik.mikkelsen@digdir.no"
     }
   ],
   "stage": "nominee"
