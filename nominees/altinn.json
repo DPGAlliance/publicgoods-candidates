@@ -26,9 +26,9 @@
   "repositoryURL": "https://github.com/Altinn/altinn-studio",
   "organizations": [
     {
-      "name": "Government of Norway",
-      "website": "https://www.regjeringen.no/en/id4/",
-      "org_type": "funder"
+      "name": "Norwegian Digitalisation Agency",
+      "website": "https://www.digdir.no/om-oss/about-norwegian-digitalisation-agency/887",
+      "org_type": "owner"
     }
   ],
   "stage": "nominee"
