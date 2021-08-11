@@ -2,7 +2,7 @@
   "name": "The Atrium",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/unicef/atrium"
+    "copyrightURL": "https://atrium.network/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -50,7 +50,8 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Name and email"
+        "Name",
+        "Email"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
@@ -60,14 +61,14 @@
       "privacySecurityDescription": "The data is secured on UN servers and follows the recommendations from UNICEF ICTD in regards to security best practices. We do not share this information with anyone ever."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "This project collects data about blockchain projects across the UN, forum posts from UN staff members (& their responses) on topics related to blockchain and cryptocurrency.",
-      "illegalContentDetection": "No",
-      "illegalContentDetectionMechanism": "We have this feature coming in 2021"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Users that are engaging with one-another are UN staff (requires a UN email address to sign up and contribute)."
       ],
@@ -86,7 +87,7 @@
       "Canada"
     ],
     "deploymentCountries": [
-      "No country focus"
+      ""
     ]
   }
 }
