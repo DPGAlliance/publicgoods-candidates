@@ -52,7 +52,7 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
@@ -60,18 +60,18 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "School location and school connectivity data",
-      "illegalContentDetection": "Unknown",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
