@@ -28,8 +28,8 @@ if [ `ls -1 ./nominees/*.json 2>/dev/null | wc -l` -gt 0 ]; then
 	done
 fi
 
-if [ `ls -1 ./screening/*.json 2>/dev/null | wc -l` -gt 0 ]; then
-	for f in ./screening/*.json; do
+if [ `ls -1 ./digitalpublicgoods/*.json 2>/dev/null | wc -l` -gt 0 ]; then
+	for f in ./digitalpublicgoods/*.json; do
 		# Do not check symlinks
 		if [ -L $f ]; then
 			echo "Symlink found: $f, skipping..."
