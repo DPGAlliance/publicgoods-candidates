@@ -14,21 +14,23 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17."
+      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17.",
+      "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
     },
     {
       "SDGNumber": 10,
-      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17. "
+      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17. ",
+      "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
     },
     {
       "SDGNumber": 17,
-      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17. "
+      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17. ",
+      "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
     }
   ],
   "sectors": [],
   "type": [
     "data",
-    "aimodel",
     "content"
   ],
   "organizations": [
