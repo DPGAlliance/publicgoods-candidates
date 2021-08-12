@@ -23,10 +23,10 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The translations are free to use under a CC0 license."
     ],
     "adherenceSteps": [
-      ""
+      "we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance  over the produced translations. "
     ]
   },
   "standards": {
@@ -52,12 +52,12 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance over the produced translations."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -72,12 +72,11 @@
         "Yes, there is a call for community contributions: https://tico-19.github.io/translators.html",
         "Professional translators are invited to share their translation memories or terminologies, as well as to use and potentially correct the provided datasets.",
         "We also invite translations of the existing data to more languages.",
-        "",
         "We do not anticipate any risk from underage or other users, hence we do not restrict access to anyone."
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance over the produced translations. "
       ]
     }
   },
