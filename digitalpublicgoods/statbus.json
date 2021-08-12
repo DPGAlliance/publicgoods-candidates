@@ -1,7 +1,8 @@
 {
   "name": "Statbus",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.statbus.org/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
@@ -20,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "General Data Protection Regulation (GDPR)"
     ],
     "adherenceSteps": [
-      ""
+      "The software is for use internally in national statistical offices. Activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation. Countries using STATBUS in other regions are responsible for complying with national legislation."
     ]
   },
   "standards": {
@@ -35,20 +36,27 @@
       "CSS",
       "JSON",
       "REST",
-      "HTML"
+      "HTML",
+      "JPEG",
+      "PNG",
+      "XML",
+      "CSV",
+      "SQL",
+      "Internationalization: Unicode"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://www.statbus.org/overview"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Statbus is developed in line with most of the Principles for Digital Development: User-centred design, design for scale, build for sustainability, use of open standards and open source  (mostly)",
+      "Agile development methodology"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "No",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Code of conduct: https://github.com/statisticsnorway/statbus/blob/main/CODE_OF_CONDUCT.md"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -60,7 +68,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The software is for use internally in national statistical offices. Activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation. Countries using STATBUS in other regions are responsible for complying with national legislation."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -71,7 +79,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
