@@ -2,7 +2,7 @@
   "name": "VivoosVR",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "No separate documentation has yet been published other than BSD3 license.\nhttps://github.com/Ideasis/VivoosVR/blob/master/LICENSE\n"
+    "copyrightURL": "https://github.com/Ideasis/VivoosVR/blob/master/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -88,13 +88,13 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "N/A"
+        ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
-        "N/A"
+        ""
       ]
     }
   },
