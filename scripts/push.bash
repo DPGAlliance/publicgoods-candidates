@@ -24,4 +24,4 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
         git add author blog category registry tag && \
         git stash && git pull --rebase && git stash pop && \
         git commit -am "BLD: $GITHUB_SHA" || true && \
-        git push --set-upstream origin master
+        git push --set-upstream origin main
