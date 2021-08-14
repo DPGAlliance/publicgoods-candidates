@@ -23,7 +23,7 @@
   "privacy": {
     "isPrivacyCompliant": "No",
     "privacyComplianceList": [
-      "-----"
+      ""
     ],
     "adherenceSteps": [
       "We include a disclaimer accessible through Collect Earth https://github.com/openforis/collect-earth/blob/master/collect-earth/collect-earth-app/disclaimer.txt"
@@ -60,18 +60,18 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "With Collect Earth users can collect any type of data at plot level ( a plot is any geographical boundary) according to the previously design survey. The data is stored in the users computer and the user is free to choose how to share the data.",
-      "illegalContentDetection": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
