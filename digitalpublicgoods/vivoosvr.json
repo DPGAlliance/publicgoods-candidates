@@ -50,7 +50,8 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "All our content must be built in accordance with the proper techniques in relation with cognitive behavioural therapy. In order to ensure this, we work with a team of mental health professionals and academicans who are experts in the field. We believe having being published an academic paper with actual pilot data and methodolgy recognized by the mental health community is a proof of this approach.",
+      "Our goal is to make sure our solution runs at stable frame rates while incorporating appropriate camera and locomotion techniques."
     ],
     "evidenceStandardSupport": [
       ""
@@ -59,9 +60,7 @@
     "bestPracticesList": [
       "From a software development standpoint, we have made sure to follow best practices in order to ensure that our simulations have a high comfort rating with no motion sickness inducing elements. Stable frame rates are a must for VR experiences. Our simulations have been optimized to run at a stable frame per second on a variety of hardware. Artificial camera movements can have a negative impact on the comfort level of a VR experience. For this reason, we have implemented a teleportation based locomotion system and refrained from using any artificial camera movements which could induce motion sickness.",
       "On the other hand, our simulation scenarious have been developed in collaboration with universities and clinicians specializing in the fields of psychology and psychiatry. Therefore, the exposure methodoly that our simulations are based on is in accordance with the best practicies in the field of mental health. Additionaly, relevant literature around the world have been reviewed prior to begin development. ",
-      "Our solution also incorprates pulse and galvanic skin response sensors to measure stress levels as a practice widely used and accepted in the field.",
-      "All our content must be built in accordance with the proper techniques in relation with cognitive behavioural therapy. In order to ensure this, we work with a team of mental health professionals and academicans who are experts in the field. We believe having being published an academic paper with actual pilot data and methodolgy recognized by the mental health community is a proof of this approach.",
-      "Our goal is to make sure our solution runs at stable frame rates while incorporating appropriate camera and locomotion techniques."
+      "Our solution also incorprates pulse and galvanic skin response sensors to measure stress levels as a practice widely used and accepted in the field."
     ]
   },
   "doNoHarm": {
