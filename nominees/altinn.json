@@ -4,7 +4,7 @@
     ""
   ],
   "description": "Altinn is an internet portal for digital dialogue between businesses, private individuals and public agencies. Altinn is also a technical platform that government bodies can use to develop digital services.",
-  "website": "https://www.altinn.no/en/about-altinn/what-is-altinn/",
+  "website": "https://www.altinn.no/",
   "license": [
     {
       "spdx": "BSD-3-Clause",
