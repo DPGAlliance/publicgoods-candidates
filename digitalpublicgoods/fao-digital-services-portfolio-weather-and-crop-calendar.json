@@ -2,25 +2,28 @@
   "name": "FAO Digital Services Portfolio - Weather and Crop Calendar",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "http://www.fao.org/contact-us/terms/en/"
+    "copyrightURL": "http://www.fao.org/digital-agriculture/digital-portfolio/en/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://cloud.google.com/products"
+      "https://digital.apps.fao.org/weather"
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "https://digitalprinciples.org"
+      "PRIVACY POLICY FOR USE OF FAO APPLICATIONS: http://www.fao.org/contact-us/privacy-policy/en/"
     ],
     "adherenceSteps": [
       "http://www.fao.org/contact-us/terms/en/"
@@ -29,26 +32,55 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "https://digitalprinciples.org",
-      "REST API, RapidPro, PWA: Secure contexts (HTTPS), Service Workers, and a manifest file"
+      "REST API",
+      "JSON",
+      "HTTPS"
+    ],
+    "evidenceStandardSupport": [
+      ""
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "https://digitalprinciples.org and Human Centered Design Principles"
+      "Principles For Digital Development",
+      "Human Centered Design Principles",
+      "Progressive Web App (PWA)"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "http://www.fao.org/contact-us/privacy-policy/en/"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "For site security purposes and to ensure that this service remains available to all users, FAO employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. \nExcept for authorized investigations and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. Raw data logs are used to determine the number of users and, occasionally, which general domains are accessing the FAO website. FAO also collects anonymous information about users’ browsing behaviour when users visit the website, through the use of cookies. By using the FAO website, users agree that FAO can place cookies on users’ computer, mobile phone or handheld devices. \n Any information provided to FAO by users is held with the utmost care and security, and is not used in any manner other than that set forth in the Privacy Policy (http://www.fao.org/contact-us/privacy-policy/en/), or in any additional site-specific policies, without users' explicit consent. \n All FAO employees who have access to or are associated with the processing of personal data are obliged to respect the confidentiality of official business matters, including personal data."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
