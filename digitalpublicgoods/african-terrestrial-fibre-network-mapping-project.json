@@ -1,0 +1,93 @@
+{
+  "name": "African Terrestrial Fibre Network Mapping Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://afterfibre.nsrc.org/#aftAbout"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The data is available in a variety of open GIS formats including SHP, KML, and GeoJSON which can be integrated into a variety of open source GIS tools ranging from desktop tools like QGIS to online mapping tools like Leaflet and others."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://manypossibilities.net/afterfibre-old/how-to-contribute-a-map-to-afterfibre/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "I am unaware of any privacy law this project might violate.  It contains no PII data"
+    ],
+    "adherenceSteps": [
+      "I am unaware of any international or domestic laws that might apply."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "SHP",
+      "KML",
+      "GeoJSON",
+      "SVG",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://afterfibre.nsrc.org/#aftAbout"
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No",
+      "additionalInfoMechanismProcessesPolicies": "The fibre optic projects documented are implemented by large corporations that are more than well-equipped to defend their interests."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "South Africa",
+      "Canada"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
