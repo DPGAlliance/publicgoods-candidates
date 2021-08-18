@@ -18,8 +18,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Unknown",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "All non-PII data is stored in a postgress SQL database and can be exported in standard CSV or SQL statement formats on demand. However, Oky has strict data governance processes in place, and access is very restricted."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -34,16 +34,22 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Principles of Digital Development"
+      "REST",
+      "JSON",
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      "These resources explain the story of Oky and how we adhered to the Principles of Digital Development as it was being developed (eg design with the user, understand the ecosystem, be collaborative, address privacy and security etc)",
-      "Oky blog – how Oky was co-created with girls: https://www.unicef.org/innovation/stories/oky-co-created-girls-girls",
-      "Oky brochure – overview: https://drive.google.com/file/d/1KatJ1pwQ9zES2HaRkWPUxsRrMWeeGHzX/view"
+      "https://github.com/alextyers/period-tracker-app-whitelabelled"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles of Digital Development"
+      "Oky adheres to best practices, in particular to the Principles for Digital Development:",
+      "Design with the user. \n1. Create user personas: was undertaken at inception point. The UI/UX designer in collaboration with the Oky team created profiles of the target audience. \n2. Develop and validate user scenarios: test cases where written which cover main user journeys and scenarios. During user testing carried out in Mongolia and Indonesia in 2019, the main user cases were tested by Oky's target users. \n 3. Develop methods for user feedback and input throughout the product lifestyle: (i) Target audience (adolescent girls in Indonesia and Mongolia) was consulted during the development of Oky MVP. They selected avatars, colours and main functionalities. (ii) User testing was carried out in Mongolia and Indonesia in 2019 to help identify and iterate the features which were not intuitive or easy to use for target audience.",
+      "Understand the existing ecosystem. \n 1. Map out current and past digital development initiatives: this was done prior to the commencement of the work. Documentation is available. \n 2. Understand the local protocols you need to take into account: All content is adapted by country teams/local partners to ensure it is locally and culturally relevant. For example, in Indonesia, encyclopedia content was localized during the development of the product (prior to launch) to fulfill local government requirements in Indonesia.",
+      "Design for scale. \n 1. Develop a theory of change that includes scale as a goal & invest time to plan for a tool that could scale: Oky was developed from the onset with scale in mind. It’s theory of change includes scaling. In addition, Oky was built in a modular approach so that new features could easily be added and removed. All of the app components and assets were segregated so they could easily be swapped out when rolling the product out to new countries. A white-label version was also placed on the GitHub repository to facilitate scaling to new countries by any interested party.",
+      "Be data driven. \n 1. Identify and address the risks associated with data privacy and security: no personally identifiable information is requested or kept in our records to ensure the privacy of our users. In addition, there is a privacy policy that outlines how the data is kept safe. Oky’s privacy policy can be found on the Oky website (https://docs.google.com/document/d/16lW1SV-DrO4XsninP_SsMj424RDcCOapG96BS0OxSoo/preview)",
+      "Use open standards, open source. \n 1. Oky is an open source software: anyone in the world can download the white-labelled version of the code. \n 2. Oky complies with W3C standards. For instance, both the website and the app follow the guidelines written under WAI, as both are built to enable text to speech. In addition, to comply with W3C privacy standards, the Oky website does not use any cookies. Also, as Oky is offered in multiple languages (English, Bahasa, Mongolian and some more to be coming too), it has been built to comply with the internalization principles. The app and website has been built in a way so it caters for different alphabets such as the Cyrillian, Latin alphabet etc.",
+      "Finally, to keep user's data safe, Oky follows the standards set in Cyber Essentials. This includes encryption of data and penetration testing (amongst other methods) to ensure there are no vulnerabilities in the system and potential data leaks. "
     ]
   },
   "doNoHarm": {
