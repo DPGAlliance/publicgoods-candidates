@@ -1,7 +1,7 @@
 {
   "name": "dpgs",
   "version": "0.0.1",
-  "description": "JSON schema validation for Digital Public Goods nominees",
+  "description": "JSON schema validation for Digital Public Goods nominees & digital public goods",
   "main": "index.js",
   "scripts": {
     "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\" && ajv validate -s screening-schema.json -d \"digitalpublicgoods/*.json\"",
