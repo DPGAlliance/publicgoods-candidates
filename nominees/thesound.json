@@ -1,0 +1,70 @@
+{
+  "name": "TheSound",
+  "aliases": [
+    "Play a Song - Save a Dog"
+  ],
+  "description": "Giving away copyright-free music for use on social media to raise money for dog rescue.",
+  "website": "https://www.thesound.com",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-1.0",
+      "licenseURL": "http://www.thesound.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15,
+      "evidenceText": "We operate an animal rescue and have a free-neutering service for dogs."
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "We are building a sanctuary community using sustainable agriculture.."
+    },
+    {
+      "SDGNumber": 1,
+      "evidenceText": "We support the poor elderly with a food bank.",
+      "evidenceURL": "https://www.willivision.com"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "We hire refugees."
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "We give away music for use on socila media and the social media system pay a small royalty per play of each song."
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "We have a \"no-burn\" trash policy and will buy an electric truck in 2022"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "We grow food for our food bank."
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "We build rain catchers."
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We allocate 75% of our resources to help women."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "data",
+    "standard"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Willivision Foundation Inc",
+      "website": "http://www.willivision.com",
+      "org_type": "funder",
+      "contact_name": "William Vinson",
+      "contact_email": "willivision@gmail.com"
+    }
+  ],
+  "stage": "DPG"
+}
