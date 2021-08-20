@@ -1,0 +1,41 @@
+{
+  "name": "Productive Forests",
+  "aliases": [
+    "Productive Forests"
+  ],
+  "description": "Bioverse creates forest inventory to support the sustainable use of non timber related forest products",
+  "website": "https://www.bioverse.io/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Productive forests secure economic incentives to maintain ecosystems standing while contributing to food security and nutrition. ",
+      "evidenceURL": "https://www.bioverse.io/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "While productive forests generate income to traditional communities, its protection secure ecosystem services to humanity",
+      "evidenceURL": "https://www.bioverse.io/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Bioverse-Labs/deep-learning",
+  "organizations": [
+    {
+      "name": "Bioverse Labs",
+      "website": "https://www.bioverse.io",
+      "org_type": "owner",
+      "contact_name": "Francisco@bioverselabs.com",
+      "contact_email": "Francisco D'Elia"
+    }
+  ],
+  "stage": "nominee"
+}
