@@ -1,0 +1,64 @@
+{
+  "name": "TheSound",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.willivison.com"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "DMCA",
+      null
+    ],
+    "adherenceSteps": [
+      "We do not collect any private data."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Social Media submission standards"
+    ],
+    "bestPracticesList": [
+      "copyright-free music",
+      null
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Mexico",
+      "Ukraine"
+    ],
+    "deploymentCountries": [
+      "United States of America",
+      "Mexico",
+      null
+    ]
+  }
+}
