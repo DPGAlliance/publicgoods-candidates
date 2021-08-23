@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/prokuranepal/Communication/blob/master/README.md"
+      "https://prokuranepal.github.io/DMS_React/"
     ]
   },
   "NonPII": {
@@ -21,31 +21,37 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "We are responsible for complying with local legislation"
+      "GDPR"
     ],
     "adherenceSteps": [
-      "https://prokuranepal.github.io/DMS_React/"
+      "https://prokuranepal.github.io/DMS_React/privacy_policy.html"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTML",
+      "CSS",
+      "REST",
+      "JSON"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/prokuranepal/DMS_React"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Hive development process follows an agile development approach, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
+      "Hive development process follows an agile development approach, with frequent releases",
+      "Development in close collaboration with end users",
+      "Early delivery of working software and emphasis on simplicity.",
+      "Principles For Digital Development"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "https://prokuranepal.github.io/DMS_React/privacy_policy.html"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
