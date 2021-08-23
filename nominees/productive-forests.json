@@ -25,7 +25,8 @@
   ],
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "aimodel"
   ],
   "repositoryURL": "https://github.com/Bioverse-Labs/deep-learning",
   "organizations": [
