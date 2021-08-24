@@ -34,11 +34,16 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "ISO/IEC-derived standards such XML, SQL, in addition to others."
+      "ISO/IEC-derived standards such XML, SQL, in addition to others.",
+      "HTML",
+      "CSS"
+    ],
+    "evidenceStandardSupport": [
+      "https://vrapeutic.github.io/docs/installation-guide"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "TOVA",
+      "Test of Variables of Attention (TOVA)",
       "Health Insurance Portability and Accountability Act (HIPPA)",
       "Principles for Digital Development"
     ]
