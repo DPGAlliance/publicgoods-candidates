@@ -1,24 +1,31 @@
 {
   "name": "VRapeutic",
   "clearOwnership": {
-    "isOwnershipExplicit": "No"
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://vrapeutic.github.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "https://vrapeutic.github.io/docs/",
       "https://github.com/vrapeutic/vrapeutic.github.io"
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR, CalOPPA"
+      "General Data Protection Regulation (GDPR)",
+      "California Online Privacy Protection Act (CalOPPA)"
     ],
     "adherenceSteps": [
       "https://drive.google.com/file/d/1AnOLXvm6yMgOXAhtliKj_lZ6zYRPWoGM/view?usp=sharing"
@@ -31,28 +38,47 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "TOVA, HIPPA, Principles for Digital Development,"
+      "TOVA",
+      "Health Insurance Portability and Accountability Act (HIPPA)",
+      "Principles for Digital Development"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
-      "ensurePrivacySecurity": "Yes"
+      "typesOfDataCollected": [
+        "Neuro-markers such as impulsivity scores, attention performance indices, in addition to others."
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
-  },
-  "dataPrivacySecurity": {
-    "typesOfDataCollected": [
-      "Neuro-markers such as impulsivity scores, attention performance indices, in addition to others."
-    ]
   },
   "locations": {
     "developmentCountries": [
