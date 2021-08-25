@@ -1,8 +1,8 @@
 {
   "name": "AI Agro",
   "clearOwnership": {
-    "isOwnershipExplicit": "No",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://rentadrone.cl/developers/ai-agro/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://rentadronecl.github.io/docs/precision_agriculture"
+      "https://rentadronecl.github.io/docs/precision_agriculture",
+      "https://github.com/RentadroneCL/AI-Agro"
     ]
   },
   "NonPII": {
@@ -21,12 +22,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "LAW 19628: ON PROTECTION OF PRIVATE LIFE (CHILE)"
     ],
     "adherenceSteps": [
-      ""
+      "Application: 1.466.138.- PRODUCCIONES RG SPA, CHILE.- Denominative: AI Agro.- Brand of products and services: Updating and rental of software for data processing; rental of software; rental of application software; computer software rental; development of programs for data processing for others; research, inspection and testing in agriculture, livestock breeding and fishing, in class 42."
     ]
   },
   "standards": {
