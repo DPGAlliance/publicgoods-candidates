@@ -85,14 +85,14 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "",
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "We do not accept contributors under then age of 13"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "We have a code of conduct for project contributors https://docs.fedoraproject.org/en-US/project/code-of-conduct/ and a Code of Conduct committee that handles reports."
       ]
     }
   },
@@ -104,7 +104,13 @@
       "United States of America",
       "India",
       "United Kingdom",
-      "Netherlands"
+      "Netherlands",
+      "Canada",
+      "France",
+      "Germany",
+      "Brazil",
+      "Spain",
+      "Italy"
     ]
   }
 }
