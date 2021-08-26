@@ -1,0 +1,41 @@
+{
+  "name": "Digital Health Access",
+  "aliases": [
+    "DHA"
+  ],
+  "description": "Health Education and Consultation platform that connects healthcare Professionals and providers to it's users",
+  "website": "https://digitalhealthaccess.com/",
+  "license": [
+    {
+      "spdx": "CC-BY-1.0",
+      "licenseURL": "https://app.digitalhealthaccess.com/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We provide access to qualify health professionals to assist people from even the remotest part of the word.",
+      "evidenceURL": "https://digitalhealthaccess.com/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "We provide health education through our health forume where people learn preventive health tips from the right experts making sure that people receive the right health education from the health experts",
+      "evidenceURL": "https://app.digitalhealthaccess.com/forum/88HqLWVQPJevSI4VrYNi"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "DHA Health Company Limited",
+      "website": "https://app.digitalhealthaccess.com/",
+      "org_type": "owner",
+      "contact_name": "Ampabeng Richmond Bediako",
+      "contact_email": "richmond@digitalhealthaccess.com"
+    }
+  ],
+  "stage": "nominee"
+}
