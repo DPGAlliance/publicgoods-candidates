@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/nubianvr-source/ProjectKonko/commit/1a874d2bf97fe7ce12c3ffd01c57cdc2b3927280"
+      "https://github.com/nubianvr-source/BasicElectronicsVR/wiki"
     ]
   },
   "NonPII": {
@@ -22,14 +22,21 @@
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "At the moment the project is guided by the bylaws of Ashesi University IRB. Applications to have the project comply with National Data Protection laws in Ghana are underway."
+    ],
     "adherenceSteps": [
       "Each participant that came in contact of our technology was provided a consent form that outlined risk."
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Data collection was guided by the standards set by the Ashesi Institutional Review Board. The Ashesi IRB adheres to:",
+      "- International Human Rights Organizations (https://www.humanrightscareers.com/magazine/international-human-rights-organizations/)",
+      "- World Health Organization (https://www.who.int/activities/ensuring-ethical-standards-and-procedures-for-research-with-human-beings)",
+      "- Office of Human Research Protections (https://www.hhs.gov/ohrp/index.html)",
+      "- CiTi Program IRB Certification (https://about.citiprogram.org/)"
     ],
     "evidenceStandardSupport": [
       ""
