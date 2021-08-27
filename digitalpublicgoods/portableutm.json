@@ -1,0 +1,59 @@
+{
+  "name": "PortableUTM",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/portableutm/webapp",
+      "https://www.notion.so/PortableUTM-e6dd124cd967495abef4e9fca76c1443"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Queries to the database"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://core.ac.uk/download/pdf/286816783.pdf",
+      "https://www.unicef.org/innovation/stories/unicefs-open-source-approach-innovation"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "dataPrivacySecurity": {
+    "typesOfDataCollected": [
+      "Names, adress, personal documents (iD, passport)"
+    ]
+  },
+  "locations": {
+    "developmentCountries": [
+      "Uruguay",
+      "Colombia",
+      "Spain"
+    ]
+  }
+}
