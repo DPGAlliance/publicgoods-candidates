@@ -1,0 +1,45 @@
+{
+  "name": "PortableUTM",
+  "aliases": [
+    "PortableUTM"
+  ],
+  "description": "Unmanned Traffic Management System",
+  "website": "https://www.portableutm.com",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/portableutm/dronfiesuss/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/portableutm/webapp/commit/e08986b2567063ace1643b4673408bfff0e07cb4"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "UTM systems are a Key part of drone ecosystem for enabling complex drone operations like medical delivery or emergency response",
+      "evidenceURL": "https://dronelife.com/2021/05/20/african-drone-regulations-how-easy-is-it-to-operate-in-the-african-market/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Drones are a key tool for improving health of people in poor infrastructure areas, UTM is one of tools for enabling this deliveries",
+      "evidenceURL": "https://thenewsnigeria.com.ng/2021/08/07/zipline-launches-largest-medical-drone-delivery-network-in-ghana/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/portableutm/",
+  "organizations": [
+    {
+      "name": "Dronfies Labs",
+      "website": "http://dronfies.com/",
+      "org_type": "owner",
+      "contact_name": "Sebastián Macías",
+      "contact_email": "smacias@dronfies.com"
+    }
+  ],
+  "stage": "nominee"
+}
