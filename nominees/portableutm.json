@@ -3,7 +3,7 @@
   "aliases": [
     "PortableUTM"
   ],
-  "description": "Unmanned Traffic Management System",
+  "description": "PortableUTM is an Open Source Initiative for enabling safe and regulations compliant drone operations around the world. The project is publicly released under GPU/GPL v3.0 licensing for the core features and MIT permissive license for the frontend and mobile apps.",
   "website": "https://www.portableutm.com",
   "license": [
     {
@@ -31,7 +31,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/portableutm/",
+  "repositoryURL": "https://github.com/portableutm/dronfiesuss",
   "organizations": [
     {
       "name": "Dronfies Labs",
