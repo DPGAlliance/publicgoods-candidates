@@ -1,8 +1,8 @@
 {
   "name": "PortableUTM",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/portableutm/webapp/commit/e08986b2567063ace1643b4673408bfff0e07cb4"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
