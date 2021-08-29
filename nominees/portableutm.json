@@ -1,7 +1,7 @@
 {
   "name": "PortableUTM",
   "aliases": [
-    "PortableUTM"
+    ""
   ],
   "description": "PortableUTM is an Open Source Initiative for enabling safe and regulations compliant drone operations around the world. The project is publicly released under GPU/GPL v3.0 licensing for the core features and MIT permissive license for the frontend and mobile apps.",
   "website": "https://www.portableutm.com",
@@ -19,12 +19,12 @@
     {
       "SDGNumber": 9,
       "evidenceText": "UTM systems are a Key part of drone ecosystem for enabling complex drone operations like medical delivery or emergency response",
-      "evidenceURL": "https://dronelife.com/2021/05/20/african-drone-regulations-how-easy-is-it-to-operate-in-the-african-market/"
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-graduate-dronfies-labs"
     },
     {
       "SDGNumber": 3,
       "evidenceText": "Drones are a key tool for improving health of people in poor infrastructure areas, UTM is one of tools for enabling this deliveries",
-      "evidenceURL": "https://thenewsnigeria.com.ng/2021/08/07/zipline-launches-largest-medical-drone-delivery-network-in-ghana/"
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-graduate-dronfies-labs"
     }
   ],
   "sectors": [],
