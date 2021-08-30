@@ -9,10 +9,6 @@
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/portableutm/dronfiesuss/blob/master/LICENSE"
-    },
-    {
-      "spdx": "MIT",
-      "licenseURL": "https://github.com/portableutm/webapp/commit/e08986b2567063ace1643b4673408bfff0e07cb4"
     }
   ],
   "SDGs": [
@@ -39,6 +35,11 @@
       "org_type": "owner",
       "contact_name": "Sebastián Macías",
       "contact_email": "smacias@dronfies.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicef.org/innovation/venturefund",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
