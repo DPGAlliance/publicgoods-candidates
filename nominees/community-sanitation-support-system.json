@@ -4,7 +4,7 @@
     "CSSS"
   ],
   "description": "Digital platform that links low-income households, providers of regulated sanitation and waste management services, microfinance institutions and municipalities to create an inclusive marketplace based on geo-fenced supply and demand of on-site sanitation services and household waste collection in Cote d’Ivoire.",
-  "website": "https://www.gnamangnaman.com/assainissement",
+  "website": "https://innovationsforwash.com/csss-cote-divoire?rq=care%20",
   "license": [
     {
       "spdx": "0BSD",
@@ -14,10 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 6,
-      "evidenceText": "CSSS will increase access to sanitation value chain services and products to contribute to a clean environment and improved health outcomes."
+      "evidenceText": "CSSS will increase access to sanitation value chain services and products to contribute to a clean environment and improved health outcomes.",
+      "evidenceURL": "https://innovationsforwash.com/csss-cote-divoire?rq=care%20"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Water and Sanitation"
+  ],
   "type": [
     "software"
   ],
@@ -28,8 +31,8 @@
       "website": "https://www.care.org/",
       "org_type": "owner",
       "contact_name": "Stanislas Toure",
-      "contact_email": "Stanislas. Toure@care.org"
+      "contact_email": "Stanislas.Toure@care.org"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
