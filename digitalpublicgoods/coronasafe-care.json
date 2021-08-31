@@ -36,7 +36,7 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "OpenWeb Standard - HTML, CSS, ECMAScript",
+      "- OpenWeb Standard - HTML, CSS, ECMAScript",
       "- Accessibility - Internationalisation",
       "- Security - PKI, HTTPS, JWT"
     ],
