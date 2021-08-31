@@ -24,10 +24,13 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
       - name: Install dependecies
         run: npm install
       # - name: Run Server
@@ -46,7 +49,7 @@ jobs:
   #   needs: build
   #   runs-on: ubuntu-latest
   #   if: |
-  #     github.ref == 'refs/heads/master' &&
+  #     github.ref == 'refs/heads/main' &&
   #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
   #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
   #
@@ -66,7 +69,7 @@ jobs:
   api:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - uses: actions/checkout@v2

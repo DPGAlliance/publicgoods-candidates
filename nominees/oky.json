@@ -1,5 +1,5 @@
 {
-  "name": " Oky",
+  "name": "Oky",
   "description": "Oky is the world's first mobile phone period tracker app designed for and with adolescent girls.",
   "website": "https://okyapp.info/",
   "license": [
@@ -42,5 +42,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
