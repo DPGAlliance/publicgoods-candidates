@@ -1,0 +1,49 @@
+{
+  "name": "IOTA",
+  "aliases": [
+    ""
+  ],
+  "description": "Open Source DLT Project",
+  "website": "https://www.iota.org/",
+  "license": [
+    {
+      "spdx": "EUPL-1.2",
+      "licenseURL": "https://ec.europa.eu/transparencyregister/public/consultation/displaylobbyist.do?id=500027331119-04"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The Tangle, IOTA’s underlying data infrastructure, enables that details, trade certificates, events and specifications of manufactured products and food supply chains can be trusted and shared along the value chain. ",
+      "evidenceURL": "https://www.trademarkea.com/news/iota-announces-partnership-with-trademark-east-africa-to-bring-supply-chain-transparency-to-trade-infrastructure/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "IOTA’s technology enables energy meters to communicate automatically and exchange important information. The energy can be requested and offered decentrally. All processes are handled via the Tangle, so the marketplace works completely decentralized without any middlemen.",
+      "evidenceURL": "https://cordis.europa.eu/article/id/422088-positive-energy-solutions-for-smart-cities-of-the-future"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Collecting, measuring and analysing emission data - and most importantly turning these benefits into trusted metrics for international accountability - is complex, time consuming and costly. Enabled by IOTA Streams technology, data inputs are directly secured near or at the source. ",
+      "evidenceURL": "https://blog.iota.org/climatecheck-and-the-iota-foundation-strengthen-their-collaboration-to-increase-trust-in-esg-data/"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "There is increasing, and appropriate, scrutiny of the energy footprint related to cryptocurrency networks. The IOTA Foundation places emphasis on low energy requirements and green use cases.",
+      "evidenceURL": "https://blog.iota.org/internal-energy-benchmarks-for-iota/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/iotaledger",
+  "organizations": [
+    {
+      "name": "IOTA Foundation",
+      "website": "https://www.iota.org/",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "nominee"
+}
