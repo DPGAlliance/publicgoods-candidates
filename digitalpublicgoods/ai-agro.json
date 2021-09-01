@@ -48,8 +48,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "No",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "As developers we can no longer close our eyes to the fact that open source code is being used by individuals and organizations to the detriment of our society. We want our work to enrich the physical, mental and spiritual wellbeing of all society. \nThis software must not be used by any organisation, product or service that: \n Lobbies for, promotes, or derives a majority of income from actions that support or contribute to: \n-sex trafficking \n-human trafficking \n-slavery \n-indentured servitude \n-gambling \n-tobacco \n-adversely addictive behaviours \n-nuclear energy \n-warfare \n-weapons manufacturing \n-war crimes \n-violence (except when required to protect public safety) \n-burning of forests \n-deforestation \n-hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality \n\n lobbies against, or derives a majority of income from actions that discourage or frustrate: \n-peace \n-access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child \n-peaceful assembly and association (including worker associations) \n-a safe environment or action to curtail the use of fossil fuels or prevent climate change \n-democratic processes"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -60,8 +60,8 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The users can use the software without restriction as is described in the license. However, for personal purposes in some context must be encouraged to follow some guidelines. Users are responsible for complying with all Company policies related to computer security and in particular: \n - Know and apply the appropriate policies and procedures in relation to management of information and computer systems. Standards for security in information systems with Information Technologies. \n- Do not disclose confidential information of the Company to persons not authorized. \n- Do not allow and do not facilitate the use of the computer systems of the Company to unauthorized persons.\n- Do not use computer resources (hardware, software or data) and telecommunications for other activities that are not directly related to work in the Company.\n- Immediately inform your immediate boss to an official of Computer Security any event that may compromise the security of the Company and its computing resources, such as contagion of viruses, intruders, modification or loss of data and other unusual activities."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
