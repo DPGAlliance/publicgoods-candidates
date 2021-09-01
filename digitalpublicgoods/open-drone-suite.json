@@ -1,5 +1,5 @@
 {
-  "name": "An Open Multipurpose Extensible Aerial Platform",
+  "name": "Open Drone Suite",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://www.unicefinnovationfund.org/portfolio"
@@ -23,11 +23,12 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "International drone laws set out in the jurisdictions of operation as per the international and domestic laws below."
+      "International drone laws set out in the jurisdictions of operation as per the international and domestic laws below:",
+      "The Kenya Civil Aviation Authority Rules on Remotely Piloted Aerial Systems",
+      "The Federal Aviation Administration rules on Unmanned Aerial Systems"
     ],
     "adherenceSteps": [
       "The Kenya Civil Aviation Authority Rules on Remotely Piloted Aerial Systems: https://www.kcaa.or.ke/safety-%26-security-oversight/unmanned-aircraft-systems",
-      "",
       "The Federal Aviation Administration rules on Unmanned Aerial Systems: https://www.faa.gov/uas/commercial_operators/"
     ]
   },
@@ -54,7 +55,7 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
@@ -64,16 +65,16 @@
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
-      "illegalContentDetection": "No",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
