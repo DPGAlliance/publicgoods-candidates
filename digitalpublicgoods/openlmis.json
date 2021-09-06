@@ -23,7 +23,7 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
       "GDPR"
     ],
