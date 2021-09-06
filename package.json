@@ -1,7 +1,7 @@
 {
   "name": "dpgs",
   "version": "0.0.1",
-  "description": "JSON schema validation for Digital Public Goods nominees",
+  "description": "JSON schema validation for Digital Public Goods nominees & digital public goods",
   "main": "index.js",
   "scripts": {
     "test": "ajv validate -s nominee-schema.json -d \"nominees/*.json\" && ajv validate -s screening-schema.json -d \"digitalpublicgoods/*.json\"",
@@ -20,7 +20,7 @@
     "csvtojson": "^2.0.10",
     "del": "^6.0.0",
     "husky": "^4.2.3",
-    "isomorphic-git": "^1.8.0",
+    "isomorphic-git": "^1.8.2",
     "jsonlint": "^1.6.3",
     "request": "^2.88.2"
   },
