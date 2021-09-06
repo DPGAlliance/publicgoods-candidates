@@ -40,9 +40,9 @@
     "evidenceStandardSupport": [
       "https://github.com/team-asr/od-Data/"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "OGC Best Practices for improving access to geospatial systems (https://as-research.org/standards/)"
     ]
   },
   "doNoHarm": {
