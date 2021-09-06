@@ -59,8 +59,8 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "On our Data repository, we have included a section on data privacy, https://github.com/team-asr/od-Data/, as well as included a link on our Data Protection and Privacy Policy, https://as-research.org/data-and-privacy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
