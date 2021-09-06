@@ -2,7 +2,7 @@
   "name": "Open Drone Suite",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://www.unicefinnovationfund.org/portfolio"
+    "copyrightURL": "https://as-research.org/open-drone-project/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
