@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "CC-BY-4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "licenseURL": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
     }
   ],
   "SDGs": [
@@ -16,9 +16,17 @@
       "SDGNumber": 3,
       "evidenceText": "Lily the Llama Helps Her Herd is designed as an educational resource to teach children and families about herd immunity, explaining the importance of vaccination for their own health and for protecting their loved ones and communities. Lily the Llama Helps Her Herd is also available in Spanish and Portuguese. All translations and links related to the project can be found at https://linktr.ee/lilythellama.",
       "evidenceURL": "https://digitalmedic.stanford.edu/general/educating-children-about-vaccination-with-lily-the-llama-helps-her-herd/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Lily the Llama Helps Her Herd is designed as an educational resource to teach children and families about herd immunity, explaining the importance of vaccination for their own health and for protecting their loved ones and communities. Lily the Llama Helps Her Herd is also available in Spanish and Portuguese. All translations and links related to the project can be found at https://linktr.ee/lilythellama.",
+      "evidenceURL": "https://digitalmedic.stanford.edu/general/educating-children-about-vaccination-with-lily-the-llama-helps-her-herd/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education",
+    "Health"
+  ],
   "type": [
     "content"
   ],
