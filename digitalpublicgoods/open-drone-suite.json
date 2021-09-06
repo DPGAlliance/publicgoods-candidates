@@ -33,12 +33,12 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "JPEG & TIFF"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/team-asr/od-Data/"
     ],
     "implementBestPractices": "Unknown",
     "bestPracticesList": [
