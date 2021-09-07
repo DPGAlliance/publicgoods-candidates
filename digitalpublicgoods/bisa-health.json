@@ -1,8 +1,8 @@
 {
   "name": "Bisa Health",
   "clearOwnership": {
-    "isOwnershipExplicit": "No",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://bisaapp.com/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -30,9 +30,9 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "ISO 13131:2021"
     ],
     "evidenceStandardSupport": [
       ""
@@ -45,21 +45,24 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "All doctors are certified professionals recommended by the Ghana Health Service(GHS). "
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
         "Name",
         "Email",
-        "Phone Number"
+        "Phone Number",
+        "Address",
+        "Date of birth",
+        "Known/existing medical condition"
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Bisa has features like anonymous login for users to easily ask questions without keeping any user data. \n Users are given system generated names to ensure anonymity"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -73,11 +76,12 @@
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "All doctors are certified professionals recommended by the Ghana Health Service(GHS).",
+        "Users are given system generated names to ensure anonymity"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "All content on the Bisa Platform (Articles / tips) are verified health information from the Ghana Health Service(GHS)."
       ]
     }
   },
