@@ -15,6 +15,9 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
         pushd packages/eligibility && \
             npm run build && \
         popd && \
+        pushd packages/map && \
+            npm run build && \
+        popd && \
         ./scripts/moveFiles.bash && \
     popd && \
     git config --global user.email "lacabra@users.noreply.github.com" && \
