@@ -1,7 +1,7 @@
 ## Tips For Open Standards
 
 #### Accessibility
-* WCAG 2.0/2.1 (Web Content Accessibility Guidelines)
+* [WCAG 2.0/2.1 (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 #### Security
 * PKI
@@ -29,7 +29,7 @@
 * XML (Extensible Markup Language)
 * CSV (Comma Separated Values)
 
-### Standard Content formats
+#### Standard Content formats
 * PDF
 * H5P
 * ePub
