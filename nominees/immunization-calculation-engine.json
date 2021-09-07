@@ -1,7 +1,7 @@
 {
   "name": "Immunization Calculation Engine",
   "aliases": [
-    ""
+    "ICE"
   ],
   "description": "ICE is an open source immunization evaluation and forecasting clinical decision support system",
   "website": "https://cdsframework.atlassian.net/wiki/spaces/ICE/overview",
