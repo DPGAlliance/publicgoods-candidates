@@ -1,45 +1,46 @@
 ## Tips For Best Practices & Principles
 
 #### ICT4D
-* Principles For Digital Development
-* The Best Practices in the Use of ICTs in Development
+* [Principles For Digital Development](https://digitalprinciples.org/)
+* [The Best Practices in the Use of ICTs in Development](https://www.ictworks.org/the-best-practices-in-the-use-of-icts-in-development-are/#.YTc0Y_wzZH5)
 
 #### Software Development Methodologies
-* Agile development
-* 12 Principles Behind Agile Manifesto
-* The Twelve Factor App
+* [Agile development](https://www.ntaskmanager.com/blog/agile-best-practices/)
+* [12 Principles Behind Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+* [The Twelve Factor App](https://12factor.net/)
 * Test driven development
 * DevOps deployment
 * Rapid application development
 * Waterfall development
 
 #### Architectural Design
-* Architectural Principles
+* [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
 * Microservices architecture
 
 #### Cloud Computing
-* AWS Best Practices For Cloud Environments
-* Google Best Practices For Enterprise Organizations Leveraging Cloud
-* Azure Best Practices in Cloud Applications
+* [AWS Best Practices For Cloud Environments](https://aws.amazon.com/blogs/publicsector/aws-well-architected-framework-best-practices-for-building-and-deploying-an-optimized-cloud-environment/)
+* [Google Best Practices For Enterprise Organizations Leveraging Cloud](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)
+* [Azure Best Practices in Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)
+* [Design Principles For Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 
 #### Artificial Intelligence/ Machine Learning (AI/ ML)
-* Google Responsible AI Practices
-* Microsoft AI guiding principles
+* [Google Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/)
+* [Microsoft AI guiding principles](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pKH5#:~:text=At%20Microsoft%2C%20we've%20recognized,inclusiveness%2C%20transparency%2C%20and%20accountability.)
 
 #### Virtual Reality/ Augmented Reality (VR /AR)
-* Best practices & VR design principles
-* Best practices for creating engaging VR content
+* [Best practices & VR design principles](https://www.dummies.com/software/best-practices-and-virtual-reality-design-principles/)
+* [Best practices for creating engaging VR content](https://www.thinkwithgoogle.com/marketing-strategies/video/vr-content-audience-engagement-best-practices/)
 
 #### User Interface/ User Experience (UI /UX)
-* Human Centered Design Principles
+* [Human Centered Design Principles](https://jnd.org/the-four-fundamental-principles-ofhuman-centered-design/)
 
 #### Coding Styles & Standards
-* PSR-12: Extended Coding Style
-* PEP 8
-* Google Style Guide
-* Airbnb's Javascript Style Guide
-* Airbnb's Ruby Style Guide
+* [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* [Google Style Guide](https://google.github.io/styleguide/)
+* [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
+* [Airbnb's Ruby Style Guide](https://airbnb.io/projects/ruby/)
 
 #### Open Source 
-* Best practices For Open Source Maintainers
-* Google Open Source
+* [Best practices For Open Source Maintainers](https://opensource.guide/best-practices/)
+* [Google Open Source](https://opensource.google/docs/)
