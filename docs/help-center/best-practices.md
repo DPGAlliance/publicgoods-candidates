@@ -1,7 +1,6 @@
 ## Tips For Best Practices & Principles
 
 #### ICT4D
-
 * Principles For Digital Development
 * The Best Practices in the Use of ICTs in Development
 
@@ -23,7 +22,7 @@
 * Google Best Practices For Enterprise Organizations Leveraging Cloud
 * Azure Best Practices in Cloud Applications
 
-#### Artificial Intelligence/ Machine Learning
+#### Artificial Intelligence/ Machine Learning (AI/ ML)
 * Google Responsible AI Practices
 * Microsoft AI guiding principles
 
