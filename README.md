@@ -13,6 +13,14 @@ From the set of data files found in the `nominees/` folder, [this list](https://
 
 Please read through our [contributing guidelines](/CONTRIBUTING.md). We are always accepting new nominations for Digital Public Goods.
 
+## 📄 Documentation
+
+Refer to the additional documentation on the following topics:
+* [Approved Licenses for Digital Public Goods](docs/licenses.md)
+* [Documentation Resources](docs/help-center/documentation.md)
+* [Best Practices Resouces](docs/help-center/best-practices.md)
+* [Open Standards Resources](docs/help-center/open-standards.md)
+
 ## 🛠 Development
 
 Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
