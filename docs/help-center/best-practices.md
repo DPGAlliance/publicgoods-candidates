@@ -1,5 +1,7 @@
 ## Tips For Best Practices & Principles
-Best practices are important for processes that you need to work correctly. They are simply the best way to do things and have been worked out through trial and error, and are found to be the most sensible way to proceed. Among other pros include: reduced costs and becoming more efficient, improving the skills of your team, using technology more effectively, reduced waste and improved quality, responding more quickly to innovations in your sector. Below are some of the common best practices and principles implemented by several digital public goods:
+Best practices are important for processes that you need to work correctly. They are simply the best way to do things and have been worked out through trial and error, and are found to be the most sensible way to proceed. Among other pros include: reduced costs and becoming more efficient, improving the skills of your team, using technology more effectively, reduced waste and improved quality, responding more quickly to innovations in your sector. 
+
+Below are some of the common best practices and principles implemented by several digital public goods:
 
 #### ICT4D
 * [Principles For Digital Development](https://digitalprinciples.org/)
