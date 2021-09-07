@@ -1,5 +1,5 @@
 ## Tips For Open Standards
-Open standards establish protocols and building blocks that can help make digital public goods more functional and interoperable. This not only streamlines product development, it removes vendor-imposed boundaries to read or write data files by improving data exchange and interchange. Below are some of the common open standards by category: 
+Open standards establish protocols and building blocks that can help make digital public goods more functional and interoperable. This not only streamlines product development, it removes vendor-imposed boundaries to read or write data files by improving data exchange. Below are some of the common open standards by category: 
 
 #### Accessibility
 * [WCAG 2.0/2.1 (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/)
