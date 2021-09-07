@@ -29,6 +29,8 @@ Open standards establish protocols and building blocks that can help make digita
 * JSON (JavaScript Object Notation)
 * XML (Extensible Markup Language)
 * CSV (Comma Separated Values)
+* TIFF
+* [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
 #### Standard Content formats
 * PDF
