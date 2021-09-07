@@ -44,3 +44,11 @@
 #### Open Source 
 * [Best practices For Open Source Maintainers](https://opensource.guide/best-practices/)
 * [Google Open Source](https://opensource.google/docs/)
+
+#### Best practices to help secure your IT resources:
+* Create strong passwords for username/ password authentication
+* Enable Multi-factor authentication (MFA)
+* Enable resource access authorization i.e. access control rights/ permissions
+* Leverage IT auditing
+* Protect data at rest (data encryption, using a firewall, antivirus protection, schedule backups)
+* Protect data in transit (encrypt data in transit using TLS/SSL, authenticate data integrity using TLS/SSL, use X.509 certificates to authenticate the remote end)
