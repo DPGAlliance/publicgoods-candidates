@@ -58,9 +58,13 @@
       "additionalInfoMechanismProcessesPolicies": "We actively engage with our users, implementing partners, and associated Ministries of Health to track how the software is being used, rolled out, and the impact it is having on communities. We document lessons learned, share successes and challenges throughout our community via written materials and encourage dialogue through our multiple committees and online discussion forum. We have also held annual in-person OpenLMIS Community Meetings to document feedback from in-country user experiences. By maintaining an open line of communication with our community we are on the pulse of OpenLMIS use and if any issues arose or harm was caused we would utilize our community resources and structures to be able to respond accordingly."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No",
+      "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "Name",
+        "Job Title",
+        "Home Facility",
+        "Email Address",
+        "Phone Number"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
