@@ -1,0 +1,38 @@
+{
+  "name": "Test",
+  "aliases": [
+    ""
+  ],
+  "description": "http://example.com",
+  "website": "http://example.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "http://example.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "http://example.com"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "http://example.com"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard",
+    "software"
+  ],
+  "repositoryURL": "http://example.com",
+  "organizations": [
+    {
+      "name": "Test",
+      "website": "http://example.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
