@@ -1,0 +1,62 @@
+{
+  "name": "Find Your Immunization",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://appointments.vaccinehunters.ca/tos"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "All libraries used within the project are completely open source."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://dbdiagram.io/d/6084d79fb29a09603d11fe4c",
+      "https://github.com/Vaccine-Hunters-Canada/VaxFinder-Frontend",
+      "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Absolutely no personal data and nothing identifiable to users are being collected."
+    ],
+    "adherenceSteps": [
+      null
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The UI is designed to comply with WCAG 2.0 standard. Some developers who worked on the project had accessibility training and did their best to ensure compliance, but the website has not been audited. The project was designed to support not just the “find a vaccine” ecosystem, but a “find me anything” ecosystem. Anything that can be displayed for a “find me/where is” program, the front and backend can be easily tweaked to support this. The modular design of components on the website means that the majority of the components can be reused for different needs, and require minimal changes to support different use-cases. The UHN social medicine unit plans to transition into the code owners, allowing for maintainability and scalability. Third party caching and an OpenAPI are other factors contributing to low running costs. A clearly defined schema allows for simple and clearly-defined data ingestion, allowing the website to serve consistent data despite having many data inputs. As privacy was one of our top concerns, the only data being stored is publicly available pharmacy data, and site views (provided by the server analytics)."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Canada"
+    ]
+  }
+}
