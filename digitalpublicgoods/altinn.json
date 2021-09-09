@@ -13,8 +13,8 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "Contributing to Altinn Studio: https://github.com/Altinn/altinn-studio/",
-      "Architecture: https://docs.altinn.studio/teknologi/altinnstudio/architecture/",
-      "Development Handbook: https://docs.altinn.studio/teknologi/altinnstudio/development/"
+      "Architecture: https://docs.altinn.studio/architecture/",
+      "Development Handbook: https://docs.altinn.studio/community/contributing/handbook/"
     ]
   },
   "NonPII": {
@@ -41,7 +41,7 @@
       "We use JSON as general format"
     ],
     "evidenceStandardSupport": [
-      "https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards"
+      "https://docs.altinn.studio/technology/architecture/principles/#web-standards"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
