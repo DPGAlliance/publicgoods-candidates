@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Open Source DLT Project",
+  "description": "IOTA is a distributed ledger based on the Tangle. It allows for feeless value transfers and data integrity proofs.",
   "website": "https://www.iota.org/",
   "license": [
     {
@@ -12,6 +12,11 @@
     }
   ],
   "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "There is increasing, and appropriate, scrutiny of the energy footprint related to cryptocurrency networks. The IOTA Foundation places emphasis on low energy requirements and green use cases.",
+      "evidenceURL": "https://blog.iota.org/internal-energy-benchmarks-for-iota/"
+    },
     {
       "SDGNumber": 9,
       "evidenceText": "The Tangle, IOTA’s underlying data infrastructure, enables that details, trade certificates, events and specifications of manufactured products and food supply chains can be trusted and shared along the value chain. ",
@@ -26,11 +31,6 @@
       "SDGNumber": 13,
       "evidenceText": "Collecting, measuring and analysing emission data - and most importantly turning these benefits into trusted metrics for international accountability - is complex, time consuming and costly. Enabled by IOTA Streams technology, data inputs are directly secured near or at the source. ",
       "evidenceURL": "https://blog.iota.org/climatecheck-and-the-iota-foundation-strengthen-their-collaboration-to-increase-trust-in-esg-data/"
-    },
-    {
-      "SDGNumber": 7,
-      "evidenceText": "There is increasing, and appropriate, scrutiny of the energy footprint related to cryptocurrency networks. The IOTA Foundation places emphasis on low energy requirements and green use cases.",
-      "evidenceURL": "https://blog.iota.org/internal-energy-benchmarks-for-iota/"
     }
   ],
   "sectors": [],
