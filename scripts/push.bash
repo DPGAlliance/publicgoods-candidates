@@ -12,6 +12,12 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
         pushd packages/registry && \
             npm run build && \
         popd && \
+        pushd packages/eligibility && \
+            npm run build && \
+        popd && \
+        pushd packages/map && \
+            npm run build && \
+        popd && \
         ./scripts/moveFiles.bash && \
     popd && \
     git config --global user.email "lacabra@users.noreply.github.com" && \
@@ -21,4 +27,4 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
         git add author blog category registry tag && \
         git stash && git pull --rebase && git stash pop && \
         git commit -am "BLD: $GITHUB_SHA" || true && \
-        git push --set-upstream origin master
+        git push --set-upstream origin main
