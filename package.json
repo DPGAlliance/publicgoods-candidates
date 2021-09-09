@@ -20,7 +20,7 @@
     "csvtojson": "^2.0.10",
     "del": "^6.0.0",
     "husky": "^4.2.3",
-    "isomorphic-git": "^1.8.0",
+    "isomorphic-git": "^1.8.2",
     "jsonlint": "^1.6.3",
     "request": "^2.88.2"
   },
