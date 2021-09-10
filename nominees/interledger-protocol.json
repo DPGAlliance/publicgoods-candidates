@@ -1,0 +1,36 @@
+{
+  "name": "Interledger Protocol",
+  "aliases": [
+    "ILP"
+  ],
+  "description": "Interledger is a protocol for sending packets of money across different payment networks or ledgers.",
+  "website": "https://interledger.org/rfcs/0027-interledger-protocol-4/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/interledger/rfcs/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10,
+      "evidenceText": "By fostering the interoperability of formerly siloed networks and providing alternatives to traditional earning models on the web, the Interledger Protocol has the power to greatly advance financial inclusion and uplift the lives of billions in the process.",
+      "evidenceURL": "https://www.forbes.com/sites/tomgroenfeldt/2021/04/20/interledger-foundation-aims-to-make-web-payments-as-easy-as-email/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Interledger Foundation",
+      "website": "https://interledger.org/",
+      "org_type": "owner",
+      "contact_name": "Alex Lakatos",
+      "contact_email": "alex@interledger.org"
+    }
+  ],
+  "stage": "nominee"
+}
