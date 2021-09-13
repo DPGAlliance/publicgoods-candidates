@@ -1,8 +1,8 @@
 {
   "name": "Cboard",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/cboard-org/cboard/blob/master/README.md"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -21,12 +21,14 @@
     "nonPIIAccessMechanism": "Google Analytics API"
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "California Online Privacy Protection Act (CalOPPA)",
+      "Children Online Privacy Protection Act (COPPA)"
     ],
     "adherenceSteps": [
-      ""
+      "Privacy policy: https://www.cboard.io/privacy/",
+      "Terms of Service: https://www.cboard.io/terms-of-use/"
     ]
   },
   "standards": {
@@ -48,8 +50,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers. \n We use regular Malware Scanning. \n Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. \n We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -77,7 +79,7 @@
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "board edition is blocked by default, users can see just public boards from others "
+        "Board edition is blocked by default, users can see just public boards from others "
       ],
       "griefAbuseHarassmentProtection": "No",
       "harassmentProtectionSteps": [
