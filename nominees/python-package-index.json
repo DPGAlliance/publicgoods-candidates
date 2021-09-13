@@ -37,8 +37,7 @@
   ],
   "sectors": [],
   "type": [
-    "software",
-    "content"
+    "software"
   ],
   "repositoryURL": "https://github.com/pypa/warehouse",
   "organizations": [
