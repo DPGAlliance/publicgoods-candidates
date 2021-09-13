@@ -32,6 +32,14 @@ Open standards establish protocols and building blocks that can help make digita
 * TIFF
 * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
+#### Software Quality Assurance
+* IEEE
+* ISO/IEC
+
+#### Software Testing 
+* IEEE829
+* ISO/IEC/IEEE29119
+
 #### Standard Content formats
 * PDF
 * H5P
