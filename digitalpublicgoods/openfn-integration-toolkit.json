@@ -91,10 +91,13 @@
   },
   "locations": {
     "developmentCountries": [
-      "United States of America",
-      "United Kingdom",
+      "South Africa",
       "Chile",
       "Côte d'Ivoire",
+      "United States of America",
+      "United Kingdom",
+      "Senegal",
+      "Zambia",
       "Latvia"
     ],
     "deploymentCountries": [
@@ -102,7 +105,38 @@
       "Bangladesh",
       "Bolivia",
       "Brazil",
-      "Cambodia"
+      "Cambodia",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Finland",
+      "Guatemala",
+      "Guinea",
+      "Haiti",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Liberia",
+      "Madagascar",
+      "Mali",
+      "Myanmar",
+      "Nepal",
+      "Nicaragua",
+      "Nigeria",
+      "Norway",
+      "Paraguay",
+      "Peru",
+      "Philippines",
+      "Senegal",
+      "South Africa",
+      "Sri Lanka",
+      "Switzerland",
+      "Tanzania",
+      "The Gambia",
+      "Uganda",
+      "USA",
+      "Vietnam",
+      "Zimbabwe"
     ]
   }
 }
