@@ -1,0 +1,94 @@
+{
+  "name": "Project Konko",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/nubianvr-source/ProjectKonko/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/nubianvr-source/BasicElectronicsVR/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "At the moment the project is guided by the bylaws of Ashesi University IRB. Applications to have the project comply with National Data Protection laws in Ghana are underway."
+    ],
+    "adherenceSteps": [
+      "Each participant that came in contact of our technology was provided a consent form that outlined risk."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Data collection was guided by the standards set by the Ashesi Institutional Review Board. The Ashesi IRB adheres to:",
+      "- International Human Rights Organizations (https://www.humanrightscareers.com/magazine/international-human-rights-organizations/)",
+      "- World Health Organization (https://www.who.int/activities/ensuring-ethical-standards-and-procedures-for-research-with-human-beings)",
+      "- Office of Human Research Protections (https://www.hhs.gov/ohrp/index.html)",
+      "- CiTi Program IRB Certification (https://about.citiprogram.org/)"
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles For Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Testing was guided by Ashesi University Human Review Board Standards of Ethical Research. Participants of this project - i.e. teacher & students - were provided with a consent form detailing the risk associated with Virtual Reality and were informed about steps to take mitigate the risk of motion sickness. For children, parents had to provide consent. \n Data collected were stored in a manner that subjects are unidentifiable."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Project Konko in its current version doesn't support a learning management system, so it doesn't collect & store any human data. In relation to data collected during user testing at schools, we adhered to the standards governing our IRB approval from Ashesi - find it attached. View page 7 section on confidentiality."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Educational content in Virtual Reality",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "At the moment we have no way of detecting the type of content 3rd parties decide to upload on their own instance. For our own instance content will be moderated manually to ensure that all content are child-friendly. 3rd parties have no way of introducing content into the tool. In the long term we hope to have an Algorithm determine that."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
