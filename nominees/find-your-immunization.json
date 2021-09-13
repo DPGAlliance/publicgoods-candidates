@@ -20,9 +20,7 @@
   ],
   "sectors": [],
   "type": [
-    "software",
-    "data",
-    "content"
+    "software"
   ],
   "repositoryURL": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend",
   "organizations": [
