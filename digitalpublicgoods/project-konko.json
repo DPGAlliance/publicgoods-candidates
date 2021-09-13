@@ -60,16 +60,16 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Project Konko in its current version doesn't support a learning management system, so it doesn't collect & store any human data. In relation to data collected during user testing at schools, we adhered to the standards governing our IRB approval from Ashesi - find it attached. View page 7 section on confidentiality."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
-      "type": "",
-      "contentFilter": "",
+      "type": "Educational content in Virtual Reality",
+      "contentFilter": "Yes",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "",
-      "illegalContentDetectionMechanism": ""
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "At the moment we have no way of detecting the type of content 3rd parties decide to upload on their own instance. For our own instance content will be moderated manually to ensure that all content are child-friendly. 3rd parties have no way of introducing content into the tool. In the long term we hope to have an Algorithm determine that."
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
