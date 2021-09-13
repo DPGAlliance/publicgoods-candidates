@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/OpenFn/governance/#governance-overview"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -25,39 +27,66 @@
       "General Data Protection Regulation (GDPR)"
     ],
     "adherenceSteps": [
-      "https://openfn.org/compliance "
+      "https://openfn.org/compliance"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
-      "Rest, Json, FHIR, OpenAPI"
+      "REST",
+      "JSON",
+      "FHIR",
+      "OpenAPI"
     ],
     "evidenceStandardSupport": [
       "https://github.com/OpenFn/instant-demo/blob/main/test.js"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "We attempt to follow all of the digital principles but especially “Understanding the Existing Ecosystem”, “Addressing Privacy and Security”, and “Designing for Scale”"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "First Name, Last name, Email address, Organization, National ID, DOB, Phone number"
+        "First Name",
+        "Last name",
+        "Email address",
+        "Organization",
+        "National ID",
+        "DOB",
+        "Phone number"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "No"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "No",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
