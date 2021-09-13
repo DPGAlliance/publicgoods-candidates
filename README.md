@@ -20,7 +20,7 @@ Refer to the additional documentation on the following topics:
 * [Documentation Resources](docs/help-center/documentation.md)
 * [Best Practices Resouces](docs/help-center/best-practices.md)
 * [Open Standards Resources](docs/help-center/open-standards.md)
-* [Data Privacy Resources](https://www.dlapiperdataprotection.com/index.html?t=law&c=GH&c2=)
+* [Data Privacy Resources](https://www.dlapiperdataprotection.com/)
 
 ## 🛠 Development
 
