@@ -35,8 +35,8 @@ Below are some of the common best practices and principles implemented by severa
 * [Best practices for creating engaging VR content](https://www.thinkwithgoogle.com/marketing-strategies/video/vr-content-audience-engagement-best-practices/)
 
 #### User Interface/ User Experience (UI /UX)
-* [Material design](https://material.io/design/guidelines-overview)
 * [Human Centered Design Principles](https://jnd.org/the-four-fundamental-principles-ofhuman-centered-design/)
+* [Material design](https://material.io/design/guidelines-overview)
 
 #### Coding Styles & Standards
 * [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
