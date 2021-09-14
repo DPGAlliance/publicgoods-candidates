@@ -10,9 +10,10 @@
     "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No",
+    "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "API usage: http://bisaapp.com/open-source/",
+      "Explore endpoints: https://docs.google.com/document/d/1ZwiRPuOUEDZkbglaKw5wK53WQ7tVxAL7/edit"
     ]
   },
   "NonPII": {
