@@ -1,0 +1,61 @@
+{
+  "name": "The Atlas of Economic Complexity",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://accessibility.huit.harvard.edu/digital-accessibility-policy"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://atlas.cid.harvard.edu/what-is-the-atlas"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Unknown",
+    "standardsList": [
+      "https://atlas.cid.harvard.edu/what-is-the-atlas"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.hks.harvard.edu/centers/cid"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United States of America",
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Brazil",
+      null
+    ]
+  }
+}
