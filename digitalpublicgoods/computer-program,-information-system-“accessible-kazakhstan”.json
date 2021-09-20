@@ -1,0 +1,72 @@
+{
+  "name": "Computer program, information system “Accessible Kazakhstan”",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://copyright.kazpatent.kz/?!.iD=qjZl"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/qlt2020/doskaz"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The website employs such analytics tools as Google Analytics and Yandex.Metrica, which collect the following data: date and time of visit, amount of time spent, language used, browser, country, device used, etc. To export data, one can use ready-made reports that are created automatically and download files in .xlsx and .pdf format from the Google Analytics / Yandex.Metrica personal account, which are available only to the administrator of the “Accessible Kazakhstan” website."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "When working with personal data of users, our project abides by the following laws: The Law of the Republic of Kazakhstan dated 21 May, 2013 No. 94-V “On Personal Data and their Protection”. The Constitution of the Republic of Kazakhstan, dated 30 August 1995, which declares that everyone has the right to privacy and protection of private and family secrets. The Law “On Informatisation”, dated 24 November 2015, which provides for the measures to prevent illegal access to digital information. “On approval of the Regulations for the collection, processing of personal data”, Order of the Minister of Digital Development, Innovation and Aerospace Industry of the Republic of Kazakhstan dated October 21, 2020 No. 395 / НҚ."
+    ],
+    "adherenceSteps": [
+      "To collect personal data, we ask the user for consent to collection and processing of his or her personal data during registration / authorization. If the user logs in or registers on the website, one automatically consents to the data collection and processing. When registering, we exercise the user’s right to know about the purposes of collection, methods and terms of processing personal information by means of giving a user the opportunity to familiarize oneself with our Privacy policy and Terms of service. We ensure confidentiality of user personal data by complying with the requirement to prevent their dissemination without the user’s consent or another legal basis. Additionally, the administrator revises the privacy policy on a monthly basis and, if necessary, supplements it. To prevent unauthorized access to data, we take legal and technical measures to protect the information system.  Legal measures include an agreement on the confidentiality of personal data concluded by the owner of the information system, which establishes the conditions for work, access and use of personal data, as well as responsibility for their violation. Technical measures include the use of information security tools: An SSL certificate is connected to our website. It guarantees a secure connection between the user's browser and the server. When using the SSL protocol, information is transmitted in encrypted form via HTTPS and can only be decrypted using a special key, unlike the usual HTTP protocol. For authorization via social networks, the OAuth2 standard is used as a special means of protecting accounts. Access right: this includes assignment of the roles for “administrator” and “user” and the ability to gain access to the users’ personal data only by logging into the system using the password for the administrator account. The privacy policy: https://doskaz.kz/privacy_policy.pdf The terms of service: https://doskaz.kz/terms-of-service.pdf  The agreement on the confidentiality of personal data: https://doskaz.kz/privacy_agreement.pdf "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "W3C"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/qlt2020/doskaz/blob/main/Coding%20Standards.pdf",
+      "https://github.com/qlt2020/doskaz/tree/main/frontend",
+      "https://github.com/qlt2020/doskaz/tree/main/backend"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "“Accessible Kazakhstan” was developed in conformity with the Principles for Digital Development. This is reflected in the fact that the project served as an innovative solution for people with disabilities: there were no such maps in the country before, and now the population has an opportunity to independently evaluate how accessible a particular facility is and add it to the map. It is also worth noting the unique online course available on the website, which acts as a practical tool for creating and developing safe and comfortable settlements. The project proved its sustainability in the long term: it was originally made for only one city, and then expanded and grew into a map for the whole republic. The next step is obtaining a status of Digital Public Good as a pathfinding pilot project run by UNICEF in Kazakhstan. As a potential future direction of development, we consider using artificial intelligence in the information system. In addition to cooperation with UNICEF, close interaction with site users and recipients of the benefits should be noted: the ability to supplement and amend the map is open to all registered users. Thus, the project encourages the activity of civil society and increases the level of individual responsibility for accessible, safe and comfortable public space. We take into account suggestions from users to improve the map (regarding the interface, new additional functions and sections on the site, etc.). A version of the website for people with low vision is also available."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Full name, email, phone number, gender, health data, region of residence"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kazakhstan"
+    ],
+    "deploymentCountries": [
+      "Kazakhstan"
+    ]
+  }
+}
