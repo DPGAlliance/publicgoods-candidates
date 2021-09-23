@@ -1,0 +1,60 @@
+{
+  "name": "GlobaLeaks",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/globaleaks/GlobaLeaks/blob/main/GOVERNANCE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.globaleaks.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "ISO 27001, ISO 27017, ISO 27018",
+      "Cloud Security Alliance Level 2: https://cloudsecurityalliance.org/star/registry/services/globaleaks/"
+    ],
+    "adherenceSteps": [
+      "Full description of the methodologies applied at: Full documentation about the principles and best practices used within the project develpment: https://bestpractices.coreinfrastructure.org/en/projects/3816"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "The software complies with ISO 37002, specific whistleblowing standard defined in 2021. It as well implemnt whistleblowing procedures in relation to many national and international laws and in particular in relation to the  2021 Whistleblower Directive | EU Whistleblower Directive Ad·https://www.navexglobal.com/ +44 20 8939 1650 Prepare for the 2021 EU Whistleblower Protection Directive Now! Download our Free Article. Download to See If Your Organisation Will Be Affected by the Directive & How to Prepare.  EU Whistleblower Directive | About the 2021 EU Directive Ad·https://www.vaultplatform.com/ Do You have Employees in the EU? Are you Ready for the Directive? Download our whitepaper. Vault Platform and Bird & Bird explain the new Directive. Download our whitepaper. Misconduct Reporting. Case Management. Incident Report System.  EU Whistleblowing Directive | Cosa devono sapere le aziende Ad·https://www.eqs.com/ 02 8904 1046 Tutti i fatti sui diritti degli informatori, gli obblighi aziendali e i passi successivi. Inclusi un libro bianco e una scheda informativa da scaricare gratuitamente. I passi successivi. Gli obblighi dell'azienda. Punti chiave. Servizi: Libro bianco gratuito, Guida gratuita, Soluzione digitale. ‎Incidenti whistleblowing · ‎Whistleblowing Report · ‎Informazioni su EQS Group  Comply with the EU directive | Anonymous reporting option Ad·https://whistleblowing.planbrothers.io/ Whistleblower system features include anonymous reporting, two-way communications & more. Fast implementation. Over 20 languages. ISO 27001 and GDPR. Developed in the Directive (EU) 2019/1937; Within its implementation it uses only standard protocols defined by the IETF"
+    ],
+    "evidenceStandardSupport": [
+      "https://bestpractices.coreinfrastructure.org/en/projects/3816"
+    ],
+    "bestPracticesList": [
+      "Full documentation about the principles and best practices used within the project develpment: https://bestpractices.coreinfrastructure.org/en/projects/3816"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "locations": {
+    "developmentCountries": []
+  }
+}
