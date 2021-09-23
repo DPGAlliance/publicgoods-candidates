@@ -1,0 +1,120 @@
+{
+  "name": "IEEE SA OPEN",
+  "aliases": [
+    ""
+  ],
+  "description": "An Open Source Platform for create Safe Open Projects",
+  "website": "http://saopen.ieee.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://opensource.ieee.org/community/cla"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "it is a platform that facilitates Safe humanitarian projects including blockchain and de-fi",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Can support Supply chain software",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Currently there is a blockchain healthcare standards evolving on the platform",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "We have an education subgroup that is working on improving the platform for education OPEN@RIT hosts their OSPO here",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We have a DEI subgroup talking about how to make OSS better.",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Can facilitate software and standards to help",
+      "evidenceURL": "http://opensource.ieee.org"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "standard",
+    "model"
+  ],
+  "repositoryURL": "http://opensource.ieee.org",
+  "organizations": [
+    {
+      "name": "IEEE SA",
+      "website": "https://saopen.ieee.org",
+      "org_type": "owner",
+      "contact_name": "Silona Bonewald",
+      "contact_email": "s.bonewald@ieee.org"
+    }
+  ],
+  "stage": "nominee"
+}
