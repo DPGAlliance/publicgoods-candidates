@@ -1,0 +1,35 @@
+{
+  "name": "Angaza AI",
+  "aliases": [
+    ""
+  ],
+  "description": "Adaptive assessments for better learning outcomes",
+  "website": "https://angazaelimu.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/Angaza-Elimu/learning_recommendation/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Our team has developed an interactive eLearning platform powered by artificial intelligence which delivers personalized learning experiences to students and amplifies teacher student engagement."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "model"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Angaza Elimu",
+      "website": "https://angazaelimu.com",
+      "org_type": "owner",
+      "contact_name": "Shawn Chiama",
+      "contact_email": "shawn.cliff@angazaelimu.com"
+    }
+  ],
+  "stage": "nominee"
+}
