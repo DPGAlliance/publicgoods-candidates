@@ -9,7 +9,7 @@
     "check:fix": "./scripts/check-filenames.bash --fix",
     "lint": "for f in ./nominees/*.json ./digitalpublicgoods/*.json; do jsonlint \"$f\" > tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
     "lint:fix": "for f in ./nominees/*.json ./digitalpublicgoods/*.json; do echo \"$f\"; jsonlint \"$f\" -i; echo >> \"$f\"; done",
-    "order": "node scripts/order-fields.js",
+    "order": "node scripts/order-fields.js --color=always",
     "order:fix": "node scripts/order-fields.js --fix"
   },
   "author": "",
