@@ -26,9 +26,7 @@
     "privacyComplianceList": [
       "Absolutely no personal data and nothing identifiable to users are being collected."
     ],
-    "adherenceSteps": [
-      null
-    ]
+    "adherenceSteps": []
   },
   "standards": {
     "supportStandards": "Unknown",
