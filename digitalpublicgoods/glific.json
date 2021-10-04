@@ -83,12 +83,12 @@
   "locations": {
     "developmentCountries": [
       "India",
-      "US",
-      "UK"
+      "United States of America",
+      "United Kingdom"
     ],
     "deploymentCountries": [
       "India",
-      "US"
+      "United States of America"
     ]
   }
 }
