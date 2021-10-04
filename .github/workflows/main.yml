@@ -20,6 +20,8 @@ jobs:
         run: ./scripts/check-filenames.bash
       - name: Check order of fields in each file
         run: npm run order
+      - name: Check country names in digital public goods JSON files
+        run: npm run cleanCountries
 
   deploy:
     needs: build

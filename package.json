@@ -11,7 +11,7 @@
     "lint:fix": "for f in ./nominees/*.json ./digitalpublicgoods/*.json; do echo \"$f\"; jsonlint \"$f\" -i; echo >> \"$f\"; done",
     "order": "node scripts/order-fields.js --color=always",
     "order:fix": "node scripts/order-fields.js --fix",
-    "cleanData": "node scripts/standardizeCountries.js"
+    "cleanCountries": "node scripts/standardizeCountries.js"
   },
   "author": "",
   "license": "MIT",
