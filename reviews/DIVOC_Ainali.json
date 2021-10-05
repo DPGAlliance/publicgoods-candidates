@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 2
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "The specifics of the format is not mentioned at all, so there is no way to determine if it is non-proprietary or not (but it might be).",
+    "confidence": 2
+  },
+  "user": "Ainali",
+  "timestamp": 1623235369,
+  "timeTaken": 365
+}
