@@ -392,6 +392,7 @@ const options = {
   cutoff: 50, // Lowest score to return, default: 0
   unsorted: false, // Results won't be sorted if true, default: false. If true limit will be ignored.
 };
+
 function findReplacement(country, listOfCountries, filename) {
   if (
     !listOfCountries
