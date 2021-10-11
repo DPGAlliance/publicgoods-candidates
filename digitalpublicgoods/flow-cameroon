@@ -1,0 +1,50 @@
+{
+  "name": "Flow Cameroon",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Idadelveloper/Flow/blob/main/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Idadelveloper/Flow/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Cameroon"
+    ],
+    "deploymentCountries": [
+      "Cameroon"
+    ]
+  }
+}
