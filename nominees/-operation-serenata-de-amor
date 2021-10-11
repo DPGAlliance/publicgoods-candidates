@@ -1,0 +1,39 @@
+{
+  "name": " Operation Serenata de Amor",
+  "aliases": [
+    ""
+  ],
+  "description": "An open project that uses data science - the same technologies used by giants like Google, Facebook and Netflix - for the purpose of monitoring public spending and sharing information in a way accessible to everyone. Serenata has created Rosie: an artificial intelligence who analyzes Brazilian congresspeople expenses while they are in office. Rosie can find suspicious spendings and engage citizens in the discussion about these findings.",
+  "website": "https://serenata.ai/en/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/okfn-brasil/serenata-de-amor/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Rosie can find suspicious spendings and engage citizens in the discussion about these findings. To allow people to visualize and make sense of data Rosie generates, we have created Jarbas. In this website users can browse congresspeople expenses and get details about each one of the suspicions.",
+      "evidenceURL": "https://serenata.ai/en/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content",
+    "model",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/okfn-brasil/serenata-de-amor",
+  "organizations": [
+    {
+      "name": "Open Knowledge Brasil",
+      "website": "https://ok.org.br",
+      "org_type": "maintainer",
+      "contact_name": "Open Knowledge Brasil",
+      "contact_email": "contato@ok.org.br"
+    }
+  ],
+  "stage": "nominee"
+}
