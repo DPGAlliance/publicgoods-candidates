@@ -1,50 +1,33 @@
 {
   "name": "Flow Cameroon",
-  "clearOwnership": {
-    "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/Idadelveloper/Flow/blob/main/README.md"
-  },
-  "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Unknown"
-  },
-  "documentation": {
-    "isDocumentationAvailable": "Yes",
-    "documentationURL": [
-      "https://github.com/Idadelveloper/Flow/blob/main/README.md"
-    ]
-  },
-  "NonPII": {
-    "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
-  },
-  "privacy": {
-    "isPrivacyCompliant": "Unknown"
-  },
-  "standards": {
-    "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
-  },
-  "doNoHarm": {
-    "preventHarm": {
-      "stepsToPreventHarm": "Yes"
-    },
-    "dataPrivacySecurity": {
-      "collectsPII": "No"
-    },
-    "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
-    },
-    "protectionFromHarassment": {
-      "userInteraction": "No"
+  "aliases": [
+    "Flow"
+  ],
+  "description": "Flow is a water source location app that helps students of the University of Bamenda, Bambili to find/locate clean water sources. ",
+  "website": "https://github.com/Idadelveloper/Flow",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Idadelveloper/Flow/blob/main/LICENSE"
     }
-  },
-  "locations": {
-    "developmentCountries": [
-      "Cameroon"
-    ],
-    "deploymentCountries": [
-      "Cameroon"
-    ]
-  }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 6,
+      "evidenceText": "This project was developed as an entry into the GDSC solution challenge for 2021 to solve the porblem of water shortages. Users of this app are able to find clean water sources easily using their mobile phones. With a lot of ills that result with using dirty water, a solution like Flow is a life saver."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/Idadelveloper/Flow",
+  "organizations": [
+    {
+      "name": "Team Fluid",
+      "website": "https://github.com/Idadelveloper/Flow",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "nominee"
 }
