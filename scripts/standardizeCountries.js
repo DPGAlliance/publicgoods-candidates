@@ -429,6 +429,7 @@ let fix = false;
 if (process.argv.length == 3 && process.argv[2] == "--fix") {
   fix = true;
 }
+var fixWorked = false;
 
 fs.readdirSync(dpgpath).forEach((file) => {
   let changeFlag = false;
@@ -439,6 +440,13 @@ fs.readdirSync(dpgpath).forEach((file) => {
       !fix && findReplacement(country, countries, file);
       if (fix && needChangeCountry(country)) {
         changeFlag = true;
+        console.log(
+          country,
+          "was changed to",
+          standardizeCountry[country],
+          ":",
+          file
+        );
         return standardizeCountry[country];
       } else {
         return country;
@@ -446,16 +454,29 @@ fs.readdirSync(dpgpath).forEach((file) => {
     });
   });
 
-  if (changeFlag)
+  if (changeFlag) {
     fs.writeFileSync(dpgpath + file, JSON.stringify(dpg, null, 2) + "\n");
+    fixWorked = true;
+  }
 });
+if (fix) {
+  fixWorked
+    ? console.log(
+        "Some country names were fixed. Run `npm run cleanCountries` to see if there are any misspeled countries left and rename them manually."
+      )
+    : console.log(
+        "Nothing fixed, try to rename conflict country names manually. To find conflict country names run `npm run cleanCountries`"
+      );
+}
 if (!fix) {
   if (Object.keys(badCountries).length > 0) {
     console.log(
-      "\nA generated object with two possible replacements for every misspeled country name based on the similarity to the countries in the standard list: \n ",
+      "\nA generated object with two possible replacements for every misspeled country name based on the similarity to names in the standard list: \n ",
       sortObject(badCountries),
       "\n Try to re-run with --fix to quick fix. If it fails change country names manually to match the standard list of countries."
     );
     process.exit(1);
+  } else {
+    console.log("All country names in DPGs location data are valid.");
   }
 }
