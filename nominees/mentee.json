@@ -11,8 +11,8 @@
         ],
         "SDGs": [REQUIRED, Array of objects (at least one object is required, and either evidenceText or evidenceURL is REQUIRED for each SDG entry):
                 {
-                        "SDGNumber": "16",
-                        "evidenceText": "Mentee's aim is to create a supportive environment for marginalised mentees, giving them an opportunity to build a helpful and inclusive network."
+                        "SDGNumber": "10",
+                        "evidenceText": "Mentee's aim is to create a supportive environment for marginalised mentees, giving them an opportunity to build a helpful and inclusive network. This meets target 10.2, by improving the inclusion of marginalised youth in global networks."
                 }
         ],
         "sectors": ["Communication", "Platform creation"],
