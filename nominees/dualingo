@@ -1,0 +1,33 @@
+{
+  "name": "Dualingo",
+  "aliases": [
+    ""
+  ],
+  "description": "DuoLingo is a free app that promotes global citizenship by inviting users to learn new languages, including Spanish, German, French, Russian, and more. Once users register for an account, they can choose a course, and their level of difficulty based on their previous exposure to the language. DuoLingo’s program works with users’ schedules and allows them to learn new languages by requiring the user to spend only a few minutes a day on the app.",
+  "website": "https://www.duolingo.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/duolingo/metasearch/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.duolingo.com/info"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/duolingo/metasearch",
+  "organizations": [
+    {
+      "name": "Dualingo",
+      "website": "https://press.duolingo.com/#about",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
