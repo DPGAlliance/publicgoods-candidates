@@ -1,0 +1,51 @@
+{
+  "name": "paperswithcode",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://paperswithcode.com/about"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown"
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The Data Policy explains our practices for handling your information collected in connection with the Papers with Code website (the “Website”), including the materials hosted on the Website."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "This Data Policy explains our practices for handling your information collected in connection with the Papers with Code website (the “Website”), including the materials hosted on the Website."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
