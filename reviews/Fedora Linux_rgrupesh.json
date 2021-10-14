@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "I think the provided link accurately satisfies the above mentioned criteria. ",
+    "confidence": 5
+  },
+  "user": "rgrupesh",
+  "timestamp": 1634184544,
+  "timeTaken": 78
+}
