@@ -1,0 +1,29 @@
+{
+        "name": "Youth Explorer",
+        "description": "Platform for binding census and extended data to spatial boundaries, with a focus on youth in South Africa. Developed in part for media to track youth population statistics in the country.",
+        "website": "https://www.youthexplorer.org.za",
+        "license": [REQUIRED, Array of objects (at least one object is required):
+                {
+                        "spdx": "Apache-2.0",
+                        "licenseURL": "https://github.com/OpenUpSA/wazimap-ng/blob/staging/LICENSE"
+                }
+        ],
+        "SDGs": [REQUIRED, Array of objects (at least one object is required, and either evidenceText or evidenceURL is REQUIRED for each SDG entry):
+                {
+                        "SDGNumber": "10",
+                        "evidenceText": "Site aims to make data about youth statics (incl economic and health) open and accessible to those who use this data to increase understanding of where are a country's challenges in addressing inequality in youth.",
+                        "evidenceURL": "https://openup.org.za/blog/age-gender-and-unemployment-in-south-africa"
+                }
+        ],
+        "sectors": ["Development Impact", "Economics/Finance", "Media", "Platform creation", "Transparency & Accountability", "Youth"],
+        "type": ["software", "data"],
+        "repositoryURL": "https://github.com/openupsa/wazimap-ng",
+        "organizations": [REQUIRED, Array of objects (at least one object is required):
+                {
+                        "name": "OpenUp",
+                        "website": "https://openup.org.za",
+                        "org_type": "'owner',
+                }
+        ],
+        "stage": "nominee"
+}
