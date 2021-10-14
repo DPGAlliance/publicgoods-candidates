@@ -21,12 +21,12 @@
         ],
         "SDGs": [
                 {
-                        "SDGNumber": "13",
+                        "SDGNumber": 13,
                         "evidenceText": "Data gathered aids analyses of climate change, allowing for strategies to be developed and awareness to be spread, helping meet target 13.3",
                         "evidenceURL": "https://www.gbif.org/what-is-gbif"
                 },
                 {
-                        "SDGNumber": "15",
+                        "SDGNumber": 15,
                         "evidenceText": "Data gathered aids analyses of invasive species and biodiversity changes, allowing for strategies to be developed for conservation and awareness to be spread, helping meet target 15.5",
                         "evidenceURL": "https://www.gbif.org/what-is-gbif"
                 }
