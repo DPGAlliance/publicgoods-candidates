@@ -10,7 +10,7 @@
     ],
     "SDGs": [
             {
-                    "SDGNumber": "10",
+                    "SDGNumber": 10,
                     "evidenceText": "Site aims to make data about youth statics (incl economic and health) open and accessible to those who use this data to increase understanding of where are a country's challenges in addressing inequality in youth.",
                     "evidenceURL": "https://openup.org.za/blog/age-gender-and-unemployment-in-south-africa"
             }
