@@ -5,7 +5,7 @@
         ],
         "description": "Platform providing open access to biodiversity data, includes a public API.",
         "website": "https://www.gbif.org",
-        "license":
+        "license": [
                 {
                         "spdx": "CC0",
                         "licenseURL": "https://www.gbif.org/terms"
@@ -19,7 +19,7 @@
                         "licenseURL": "https://www.gbif.org/terms"
                 }
         ],
-        "SDGs":
+        "SDGs": [
                 {
                         "SDGNumber": "13",
                         "evidenceText": "Data gathered aids analyses of climate change, allowing for strategies to be developed and awareness to be spread, helping meet target 13.3",
@@ -39,7 +39,7 @@
                 "software", "data"
         ],
         "repositoryURL": "https://github.com/gbif",
-        "organizations":
+        "organizations": [
                 {
                         "name": "GBIF Governing Board",
                         "website": "https://www.gbif.org/governance",
