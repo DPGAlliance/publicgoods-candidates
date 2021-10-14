@@ -1,0 +1,58 @@
+{
+  "name": "Open Source Energy Modelling System",
+  "aliases": [
+    "OSeMSYS"
+  ],
+  "description": "It has been employed to develop energy systems models from the scale of the globe, continents, countries, regions and villages",
+  "website": "http://www.osemosys.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.apache.org/licenses"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The project will integrate climate change measures into national policies, strategies and planning",
+      "evidenceURL": "https://energypedia.info/wiki/Energy_and_the_Sustainable_Development_Goals"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": " It covers most energy sectors, including heat, electricity, and transport. OSeMOSYS is driven by exogenously defined energy services demands. These are then met through a set of technologies which draw on a set of resources, both characterized by their potentials and costs.",
+      "evidenceURL": "https://energypedia.info/wiki/Energy_and_the_Sustainable_Development_Goals"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The project will ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.",
+      "evidenceURL": "https://energypedia.info/wiki/Energy_and_the_Sustainable_Development_Goals"
+    },
+    {
+      "SDGNumber": 1,
+      "evidenceText": "The project ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources.",
+      "evidenceURL": "https://energypedia.info/wiki/Energy_and_the_Sustainable_Development_Goals"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This project will substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.",
+      "evidenceURL": "https://energypedia.info/wiki/Energy_and_the_Sustainable_Development_Goals"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/OSeMOSYS/OSeMOSYS",
+  "organizations": [
+    {
+      "name": "community project",
+      "website": "https://www.energy.kth.se/research/energy-systems",
+      "org_type": "maintainer",
+      "contact_name": "Will Usher",
+      "contact_email": "wusher@kth.se"
+    }
+  ],
+  "stage": "nominee"
+}
