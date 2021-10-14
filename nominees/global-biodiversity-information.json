@@ -7,15 +7,15 @@
         "website": "https://www.gbif.org",
         "license": [
                 {
-                        "spdx": "CC0",
+                        "spdx": "CC0-1.0",
                         "licenseURL": "https://www.gbif.org/terms"
                 },
                 {
-                        "spdx": "CC BY",
+                        "spdx": "CC-BY-4.0",
                         "licenseURL": "https://www.gbif.org/terms"
                 },
                 {
-                        "spdx": "CC BY-NC",
+                        "spdx": "CC-BY-NC-4.0",
                         "licenseURL": "https://www.gbif.org/terms"
                 }
         ],
