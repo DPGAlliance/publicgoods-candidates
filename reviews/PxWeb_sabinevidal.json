@@ -1,0 +1,25 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "The text provided isn't entirely clear about how PxWeb is relevant to SDG 17. Could be reworded: \"PxWeb is a software that enables publishing of statistics which further the SDGs by improving access to data which can help countries and organisations develop better partnerships. UNECE and Statistics Sweden and Statistics Norway organised a workshop for other organisations specifically on 'PxWeb as a dissemination tool for SDG indicators\". This is in line with targets 17.6, 17.7, 17.14, 17.6, 17.17 and 17.19.\" And include a link to the page showing the workshop https://unece.org/statistics/documents/2021/03/presentations/pxweb-dissemination-tool-sdg-indicators-sweden-unsd-pcbs ",
+    "confidence": 2
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "This link is for the licence page. Better link would be https://www.scb.se/px-web",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "This link is to the PxWeb page, but does not include documentation, a better link would be to the Github repo at https://github.com/statisticssweden/PxWeb",
+    "confidence": 5
+  },
+  "user": "sabinevidal",
+  "timestamp": 1634134216,
+  "timeTaken": 1727
+}
