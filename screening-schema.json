@@ -241,7 +241,7 @@
     },
     "doNoHarm": {
       "type": "object",
-      "description": "9. Does the project do no harm?",
+      "description": "9. Does the project do no harm by design?",
       "required": [
         "preventHarm",
         "dataPrivacySecurity",
@@ -251,14 +251,14 @@
       "properties": {
         "preventHarm": {
           "type": "object",
-          "description": "Has this project taken steps to anticipate, prevent and do no harm?",
+          "description": "Has this project taken steps to anticipate, prevent and do no harm by design?",
           "required": [
             "stepsToPreventHarm"
           ],
           "properties": {
             "stepsToPreventHarm": {
               "type": "string",
-              "description": "On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm?",
+              "description": "On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm by design?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -268,7 +268,7 @@
             },
             "additionalInfoMechanismProcessesPolicies": {
               "type": "string",
-              "description": "Is there any additional information you would like to share about the mechanisms, processes or policies that this project uses to avoid doing harm?"
+              "description": "Is there any additional information you would like to share about the mechanisms, processes or policies that this project uses to avoid doing harm by design?"
             }
           }
         },
