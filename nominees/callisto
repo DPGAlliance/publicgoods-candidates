@@ -1,0 +1,41 @@
+{
+  "name": "Callisto",
+  "aliases": [
+    ""
+  ],
+  "description": "Callisto is a non-profit organization that creates technology specifically websites to combat sexual assault, empower survivors and advance justice. The websites are created to make it easier for survivors to report and name their assailant in order to enable the detection of repeat offenders.",
+  "website": "https://www.mycallisto.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/project-callisto/callisto-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Callisto also has different options available for survivors to take Therapy in other to take care of their emotional wellbeing. There is online and text based Therapy session is available.",
+      "evidenceURL": "https://www.mycallisto.org/cresources/emotionalhelp"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Callisto is a non-profit organization that creates technology specifically websites to combat sexual assault, empower survivors and advance justice. The websites are created to make it easier for survivors to report and name their assailant in order to enable the detection of repeat offenders.",
+      "evidenceURL": "https://www.mycallisto.org/about"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/project-callisto/callisto-core",
+  "organizations": [
+    {
+      "name": "Callisto",
+      "website": "https://www.mycallisto.org/",
+      "org_type": "owner",
+      "contact_name": "Jess Ladd",
+      "contact_email": "linkedin.com/in/jessicahladd"
+    }
+  ],
+  "stage": "nominee"
+}
