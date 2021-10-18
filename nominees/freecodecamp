@@ -1,0 +1,35 @@
+{
+  "name": "freecodecamp",
+  "aliases": [
+    ""
+  ],
+  "description": "Learn to code — for free. Build projects",
+  "website": "https://www.freecodecamp.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Freecode camp teaches coding for free through videos and interactive sessions.",
+      "evidenceURL": "https://www.freecodecamp.org/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Free Code Camp",
+      "website": "https://www.freecodecamp.org/",
+      "org_type": "maintainer",
+      "contact_email": "support@freecodecamp.org"
+    }
+  ],
+  "stage": "nominee"
+}
