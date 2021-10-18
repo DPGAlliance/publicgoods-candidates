@@ -1,0 +1,35 @@
+{
+  "name": "Code.org",
+  "aliases": [
+    ""
+  ],
+  "description": "Code.org® is a nonprofit dedicated to expanding access to computer science in schools and increasing participation by young women and students from other underrepresented groups",
+  "website": "https://code.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/code-dot-org/code-dot-org/blob/staging/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Code.org increases diversity in computer science by reaching students of all backgrounds where they are — at their skill-level, in their schools, and in ways that inspire them to keep learning",
+      "evidenceURL": "https://studio.code.org/courses?view=teacher"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/code-dot-org/code-dot-org",
+  "organizations": [
+    {
+      "name": "Code.org",
+      "website": "https://code.org/",
+      "org_type": "maintainer",
+      "contact_email": "https://support.code.org/hc/en-us/requests/new"
+    }
+  ],
+  "stage": "nominee"
+}
