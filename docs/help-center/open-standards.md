@@ -43,6 +43,9 @@ Open standards establish protocols and building blocks that can help make digita
 * IEEE829
 * ISO/IEC/IEEE29119
 
+#### Business Process Modelling
+* [BPMN 2.0](https://www.omg.org/spec/BPMN/2.0/)
+
 #### Standard Content formats
 * PDF
 * H5P
