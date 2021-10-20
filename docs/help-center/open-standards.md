@@ -25,6 +25,9 @@ Open standards establish protocols and building blocks that can help make digita
 * ECMAScript (ES 5/6/7)
 * Latex
 
+#### Software Architectural Styles
+* REST (Representational State Transfer)
+
 #### Data Exchange formats 
 * JSON (JavaScript Object Notation)
 * XML (Extensible Markup Language)
