@@ -2,15 +2,21 @@
   "name": "Accessible Kazakhstan",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://copyright.kazpatent.kz/?!.iD=qjZl"
+    "copyrightURL": "https://copyright.kazpatent.kz/?!.iD=qjZl, https://github.com/qlt2020/doskaz/blob/main/Certificate.pdf"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/qlt2020/doskaz"
+      "https://github.com/qlt2020/doskaz",
+      "Frontend - https://github.com/qlt2020/doskaz/tree/main/frontend",
+      "Backend - https://github.com/qlt2020/doskaz/tree/main/backend",
+      "Admin panel - https://github.com/qlt2020/doskaz/tree/main/adminpanel",
+      "Coding standards - https://github.com/qlt2020/doskaz/blob/main/Coding%20Standards.pdf"
     ]
   },
   "NonPII": {
@@ -44,21 +50,43 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Full name, email, phone number, gender, health data, region of residence"
+        "Full name",
+        "Email",
+        "Phone number",
+        "Gender",
+        "Health data",
+        "Region of residence"
       ],
       "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
