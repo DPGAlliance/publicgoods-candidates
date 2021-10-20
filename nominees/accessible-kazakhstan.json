@@ -1,7 +1,7 @@
 {
-  "name": "Computer program, information system “Accessible Kazakhstan”",
+  "name": "Accessible Kazakhstan",
   "aliases": [
-    ""
+    "Accessible Kazakhstan online map"
   ],
   "description": "It is a model of an online map with information on accessibility of public facilities that enables people with limited mobility to navigate the public space.",
   "website": "https://doskaz.kz/",
@@ -18,7 +18,9 @@
       "evidenceURL": "https://cabar.asia/en/how-accessible-is-kazakhstan-for-people-with-disabilities"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Social Protection"
+  ],
   "type": [
     "software"
   ],
