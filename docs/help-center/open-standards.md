@@ -10,6 +10,10 @@ Open standards establish protocols and building blocks that can help make digita
 * SSL
 * SSH
 * GPG
+* RS256
+* HS256
+* AES
+* ES256
 
 #### Authentication & Authorization
 * OAuth 2
