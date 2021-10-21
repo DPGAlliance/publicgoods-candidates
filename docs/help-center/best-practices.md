@@ -28,7 +28,10 @@ Below are some of the common best practices and principles implemented by severa
 
 #### Artificial Intelligence/ Machine Learning (AI/ ML)
 * [Google Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/)
+* [Best Practices for ML Engineering (Google)](https://developers.google.com/machine-learning/guides/rules-of-ml)
+* [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 * [Microsoft AI guiding principles](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pKH5#:~:text=At%20Microsoft%2C%20we've%20recognized,inclusiveness%2C%20transparency%2C%20and%20accountability.)
+* [The Facebook Field Guide to Machine Learning](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
 #### Virtual Reality/ Augmented Reality (VR /AR)
 * [Best practices & VR design principles](https://www.dummies.com/software/best-practices-and-virtual-reality-design-principles/)
