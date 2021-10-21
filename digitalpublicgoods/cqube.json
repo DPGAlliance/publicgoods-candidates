@@ -34,7 +34,7 @@
     ]
   },
   "standards": {
-    "supportStandards": "yES",
+    "supportStandards": "Yes",
     "standardsList": [
       "Open Web Standard - HTML, CSS, JavaScript, SVG",
       "Security - HTTPS, SFTP, RS256, HS256, AES, ES256",
