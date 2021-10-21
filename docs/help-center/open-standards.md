@@ -13,7 +13,7 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Authentication & Authorization
 * OAuth 2
-* OIDC (OpenID Connect)
+* [OIDC](https://openid.net/connect/) (OpenID Connect)
 * JWT (JSON Web Tokens)
 * SAML (Security Assertion Markup Language)
 * XACML 3.0 (eXtensible Access Control Markup Language)
