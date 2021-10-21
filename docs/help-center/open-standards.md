@@ -16,6 +16,7 @@ Open standards establish protocols and building blocks that can help make digita
 * OIDC (OpenID Connect)
 * JWT (JSON Web Tokens)
 * SAML (Security Assertion Markup Language)
+* XACML 3.0 (eXtensible Access Control Markup Language)
 
 #### Internationalization (i18n)
 * UTF-8
