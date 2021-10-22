@@ -19,6 +19,9 @@ Below are some of the common best practices and principles implemented by severa
 * [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
 * Modularity and Maintainability
 * Reusability and Extensibility
+* Accountability & Non-repudiability
+* Security & Consented Access
+* Universal Access & Open APIs
 * Microservices architecture
 
 #### Cloud Computing
