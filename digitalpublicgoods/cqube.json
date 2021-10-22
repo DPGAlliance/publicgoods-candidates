@@ -1,0 +1,115 @@
+{
+  "name": "cQube",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://sunbird.org/software-license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://cqube.sunbird.org"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "cQube has a published API through which all metrics generated in cQube can be downloaded. cQube software has implemented many best practices to keep user data safe and secure. Individual user data is not retained and is purged after computing aggregated metrics.  The software by itself is open source and hence the adopter may modify it as per the requirements. \nAdopters of cQube globally in different countries will be able to extend and configure it to comply with the various laws and regulations governing  data privacy, protection, and sharing."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Information Technology Act, 2000",
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "cQube is an open-source software available under MIT License. cQube software has implemented many best practices to keep user data safe and secure. The software has implemented data collection in an open and transparent manner cQube software implements principles of minimalism, transparency of data collection, and other best practices. cQube visualizations are accessible only to authorized users with log-in access. cQube implements capabilities in accordance with Indian Data protection law and IT Act and is compatible with other laws such as GDPR.",
+      "cQube, as open-source software, enables adopters to collect data in an open, transparent, and consented manner - store it safely & securely - and share it as per the data sharing laws of the country with the appropriate consent from users and in an anonymised manner.Adopters of cQube globally in different countries will be able to extend and configure it to comply with the various laws and regulations governing the data privacy, protection, and sharing.",
+      "As an open source-code solution, cQube will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth.",
+      "Management of PII/non-PII data in cQube is purely as a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (cQube is not a ‘hosted service or product’). Implementers/adopters of cQube, have the autonomy to decide “what” fields to  capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the cQube technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Open Web Standard - HTML, CSS, JavaScript, SVG",
+      "Security - HTTPS, SFTP, RS256, HS256, AES, ES256",
+      "Networking - TCP/IP",
+      "Data exchange - CSV",
+      "Maps - GeoJSON and other GIS Standards"
+    ],
+    "evidenceStandardSupport": [
+      "https://cqube.sunbird.org/use/software-requirements",
+      "https://cqube.sunbird.org/use/base-installation-steps"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Find more details here: https://sunbird.org/explore/articles/2-thinking-microservice-architecture",
+      "The list below is an abridged version taken from the link shared above:",
+      "- Unified and not Uniform",
+      "- Embrace Diversity",
+      "- Unbundle for reusability",
+      "- Replaceability",
+      "- Interoperability",
+      "- Configurability",
+      "- Scalable",
+      "- Observability",
+      "- Resilience",
+      "- Privacy & Security by design",
+      "- Trust by design",
+      "- Leverage commoditization, adopt heterogeneity",
+      "- Adopt open standards and open source",
+      "- Adopt extreme automation"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "cQube software has implemented many best practices to keep user data safe and secure. Anonymous individual user data is purged after it is used for computation of metrics. cQube mainly deals with aggregate data for creation and display of education metrics. Thus, there is no long-term storage of individual user data (temporarily processed and purged) to prevent the possibility of such data being exposed to unauthorized persons. cQube  software has implemented data collection in an open and transparent manner. cQube software implements principles of minimalism,  transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy, safety of minors, and data security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "cQube mainly deals with aggregate data for creation and display of education metrics. In the current cQube code, Student IDs and teacher IDs (just a reference coming from host systems) are collected as part of attendance, course enrolment and performance data. But this individual reference data is only used for aggregation and deduplication after which it is  then purged (based on a configurable time). For user registration to view dashboards, cQube requires only a username (any user given pseudonym).",
+        "Beyond the statement above, no specific PII data is collected in the reference solution available out of the box. But, given it is an open source-code solution, cQube will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Management of PII/non-PII data in cQube is purely a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (cQube is not a ‘hosted service or product’). Implementers/adopters of cQube, have the autonomy to decide “what” fields to  capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the cQube technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
