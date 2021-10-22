@@ -7,14 +7,13 @@ Below are some of the common best practices and principles implemented by severa
 * [Principles For Digital Development](https://digitalprinciples.org/)
 * [The Best Practices in the Use of ICTs in Development](https://www.ictworks.org/the-best-practices-in-the-use-of-icts-in-development-are/#.YTc0Y_wzZH5)
 
-#### Software Development Methodologies
+#### Software Development 
 * [Agile development](https://www.ntaskmanager.com/blog/agile-best-practices/)
 * [12 Principles Behind Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 * [The Twelve Factor App](https://12factor.net/)
 * Test driven development
-* DevOps deployment
+* Continous Integration & Continous Deployment (CI/CD)
 * Rapid application development
-* Waterfall development
 
 #### Architectural Design
 * [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
