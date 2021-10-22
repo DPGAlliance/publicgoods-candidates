@@ -1,7 +1,7 @@
 {
-  "name": "Sunbird Registry & Credential",
+  "name": "Sunbird RC",
   "aliases": [
-    "Sunbird RC",
+    "Sunbird Registry & Credential",
     "OpenSABER"
   ],
   "description": "An open source software to rapidly build and deploy next generation electronic registries and verifiable credentials including attestation and verification flows. Electronic registres are trusted systems that enables consented actors (who are in the registry) to enroll and avail 3rd party services built on top of it using registry APIs. Sunbird RC can be used to build various registries of people, things, entries for across domains (hospital registry, teacher registry, vehicle registry, credential registry, etc) at country scale.   Adopters can rapidly build core electronic registries through configurable schemas and workflows. Software automatically created necessary APIs, workflows, and a default UX for all key stakeholders of the registry. In addition, adopters can use Sunbird RC to implement digital credentialing based on W3C Verifiable Credential specifications.",
