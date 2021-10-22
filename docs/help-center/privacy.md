@@ -1,6 +1,6 @@
 ## Data Protection and Privacy Legislation Worldwide
 
-As more and more social and economic activities have place online, the importance of privacy and data protection is increasingly recognized.
+As more and more social and economic activities take place online, the importance of privacy and data protection is increasingly recognized.
 
 Of equal concern is the collection, use and sharing of personal information to third parties without notice or consent of consumers. 128 out of 194 countries had put in place legislation to secure the protection of data and privacy.
 
