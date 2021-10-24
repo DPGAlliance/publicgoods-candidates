@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Yes, it points to GNU license.",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes, it correlates with the specific targets listed for Goal 5 which revolves around quality education and escaping poverty. ",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Yes, the link redirects to LinkedIn page and the website seems well documented. ",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Yes, the Url provided by Safe You project owner provides further information about the technology stack used, the instillation process, and general walk through about the project. ",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "Personally speaking, I think it does.",
+    "confidence": 4
+  },
+  "user": "rgrupesh",
+  "timestamp": 1634186363,
+  "timeTaken": 456
+}
