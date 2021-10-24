@@ -24,7 +24,8 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "General Data Protection Regulation (GDPR)"
+      "General Data Protection Regulation (GDPR)",
+      "HIPAA"
     ],
     "adherenceSteps": [
       "https://openfn.org/compliance"
@@ -49,7 +50,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "OpenFn is a middleware provider rather than a data storage system. We move information from system A to system B, and integrations can be set up to be compliant with GDPR, HIPAA, and other policies. To make auditing and reprocessing easy, OpenFn temporarily stores message data and job run history, but we're not the single source of truth nor the final resting point for these data. When organizations choose to use our hosted OpenFn platform at OpenFn.org, no data processed by OpenFn is stored locally and our platform runs on the Google Cloud Platform (GCP). \nOpenFn.org runs on the Google Cloud Platform, an infrastructure protected by more than 500 top experts in information, application, and network security. For organizations with specific compliance and data governance requirements, OpenFn can also be deployed on designated local- or cloud-infrastructure."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -66,8 +67,8 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "No",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "OpenFn prioritizes security, stability, and scalability (what we call S³) above all else, and many of our users implement OpenFn to comply with GDPR, HIPAA, and other policies. Read more on our Trust, Compliance, and Privacy pages."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -78,7 +79,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
