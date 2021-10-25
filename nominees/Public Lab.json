@@ -1,0 +1,29 @@
+{
+  "name": "Public Lab",
+  "description": "Public Lab is a community and a non-profit, democratizing science to address environmental issues that affect people.",
+  "website": "https://publiclab.org/",
+  "license": [
+    {
+      "spdx": "GNU General Public License",
+      "licenseURL": "https://github.com/publiclab/PublicLab.Editor/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Pursuing environmental justice through community science and open technology",
+      "evidenceURL": "https://publiclab.org/about"
+    }
+  ],
+  "sectors": [],
+  "type": ["software"],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Public Lab",
+      "website": "https://publiclab.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
