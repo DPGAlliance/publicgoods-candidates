@@ -22,12 +22,18 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The Bisa Mobile Application is conscious of the sensitivity of the information/data it handles and is therefore committed to maintaining the confidence and trust with respect to the privacy of its users. \n The following laws of Ghana are applicable with respect to the Bisa Mobile Application and we are committed to adhering to them:-",
+      "Electronic Communications Act, 2008 (Act 775)",
+      "Electronic Communications Regulations, 2011 (L.I. 1991)",
+      "Credit Reporting Act, 2007 (Act 726)",
+      "Public Health Act, 2012 (Act 851)",
+      "Children’s Act, 1998 (Act 560)",
+      "Reference: https://bisaapp.com/legal-data-privacy-laws/"
     ],
     "adherenceSteps": [
-      ""
+      "Privacy policy - https://bisaapp.com/privacy-policy/"
     ]
   },
   "standards": {
