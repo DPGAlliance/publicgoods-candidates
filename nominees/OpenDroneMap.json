@@ -1,0 +1,29 @@
+{
+  "name": "OpenDroneMap",
+  "description": "OpenDroneMap is creating the most sustainable drone mapping software with the friendliest community on earth.",
+  "website": "https://www.opendronemap.org/",
+  "license": [
+    {
+      "spdx": "Apache 2.0",
+      "licenseURL": "https://github.com/OpenDroneMap/ODM/blob/master/licenses/license.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "OpenDroneMap is building sustainable solutions for collecting, processing, analyzing and displaying aerial data while supporting the communities built around them.",
+      "evidenceURL": "https://www.opendronemap.org/"
+    }
+  ],
+  "sectors": [],
+  "type": ["software"],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "OpenDroneMap",
+      "website": "https://www.opendronemap.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
