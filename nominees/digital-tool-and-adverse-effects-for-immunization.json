@@ -1,0 +1,47 @@
+{
+  "name": "Digital tool and adverse effects for immunization",
+  "aliases": [
+    "Vaccination and adverse effects for immunization"
+  ],
+  "description": "Creation of new knowledge building and knowledge enabling materials provision to those human individuals who are affected by the covid - 19 vaccination adverse effects for immunization.",
+  "website": "https://climatechange612.wordpress.com/2021/10/26/digital-technologies-and-adverse-effects-of-immunization/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/ashwinisathnur/vaccination/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Creation of accessibility and inclusive development"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Creation of new knowledge building and knowledge enabling books on the subject areas of the 5G technologies"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Creation of new Innovative ideologies product solutions based on the subject areas and the conceptual frameworks of the vaccination management"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "model",
+    "standard"
+  ],
+  "repositoryURL": "https://github.com/ashwinisathnur/vaccination",
+  "organizations": [
+    {
+      "name": "United Nations world food programme",
+      "website": "https://innovation.wfp.org/digital-health-innovation-accelerator-program",
+      "org_type": "owner",
+      "contact_name": "Vijayalakshmi S. Rao",
+      "contact_email": "ashwini.sathnur@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
