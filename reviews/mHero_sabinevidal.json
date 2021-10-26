@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The text and link provide info of how the project was able to strengthen the network between healthcare workers and health institutions, which would help in particular with target 3.d and indirectly with the other targets by improving healthworkers' capacity to respond to medical issues in their area. ",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Link leads to FAQ page which does give some info on how the project works and the use cases for it. Ownership is not entirely clear on the particular page, though at the top of the site it does specify the site is 'Maintained & operated by IntraHealth International'.",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Mostly complete documentation, parts still 'under construction'",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "user": "sabinevidal",
+  "timestamp": 1634126792,
+  "timeTaken": 609
+}
