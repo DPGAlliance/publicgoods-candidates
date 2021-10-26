@@ -4,11 +4,11 @@
     "Flow"
   ],
   "description": "Flow is a water source location app that helps students of the University of Bamenda, Bambili to find/locate clean water sources. ",
-  "website": "https://github.com/Idadelveloper/Flow",
+  "website": "https://github.com/bernandez/Flow",
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/Idadelveloper/Flow/blob/main/LICENSE"
+      "licenseURL": "https://github.com/bernandez/Flow/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,15 +17,17 @@
       "evidenceText": "This project was developed as an entry into the GDSC solution challenge for 2021 to solve the porblem of water shortages. Users of this app are able to find clean water sources easily using their mobile phones. With a lot of ills that result with using dirty water, a solution like Flow is a life saver."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Water and Sanitation"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Idadelveloper/Flow",
+  "repositoryURL": "https://github.com/bernandez/Flow",
   "organizations": [
     {
-      "name": "Team Fluid",
-      "website": "https://github.com/Idadelveloper/Flow",
+      "name": "University of Bamenda",
+      "website": "https://uniba.cm/",
       "org_type": "maintainer"
     }
   ],
