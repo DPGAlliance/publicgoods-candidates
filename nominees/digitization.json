@@ -1,0 +1,48 @@
+{
+  "name": "Digitization",
+  "aliases": [
+    "AFIE"
+  ],
+  "description": "Creation of new knowledge building and knowledge enabling materials provision to those human individuals who are affected by the covid - 19 vaccination adverse effects for immunization.",
+  "website": "https://climatechange612.wordpress.com/2021/10/26/digital-technologies-and-adverse-effects-of-immunization/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://opensource.org/licenses/Apache-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Creation of accessibility and inclusive development",
+      "evidenceURL": "https://www.etsy.com/in-en/shop/InventionsByAshwini"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Creation of new knowledge building and knowledge enabling books on the subject areas of the 5G technologies",
+      "evidenceURL": "https://www.etsy.com/in-en/shop/InventionsByAshwini"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Creation of new Innovative ideologies product solutions based on the subject areas and the conceptual frameworks of the vaccination management",
+      "evidenceURL": "https://climatechange612.wordpress.com/2021/10/26/digital-technologies-and-adverse-effects-of-immunization/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "model",
+    "standard"
+  ],
+  "repositoryURL": "https://1117.backlog.com/dashboard",
+  "organizations": [
+    {
+      "name": "Etsy online store InventionsByAshwini",
+      "website": "https://www.etsy.com/in-en/shop/InventionsByAshwini",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
