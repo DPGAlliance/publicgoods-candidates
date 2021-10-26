@@ -109,14 +109,14 @@
     },
     "NonPII": {
       "type": "object",
-      "description": "6. Is non PII data accessible?",
+      "description": "6. Is non PII data and/or content accessible?",
       "required": [
         "collectsNonPII"
       ],
       "properties": {
         "collectsNonPII": {
           "type": "string",
-          "description": "Does this project collect or use non-personally identifiable information (non-PII) data?",
+          "description": "Does this project collect or use non-personally identifiable information (non-PII) data and/or content?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -281,7 +281,7 @@
           "properties": {
             "collectsPII": {
               "type": "string",
-              "description": "Does this project collect or store personally identifiable information (PII) data?",
+              "description": "Does this project collect or store personally identifiable information (PII) data and/or content?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -291,7 +291,7 @@
             },
             "typesOfDataCollected": {
               "type": "array",
-              "description": "If yes - please list the types of data collected and/or stored by the project:",
+              "description": "If yes - please list the types of data and/or content collected and/or stored by the project:",
               "items": {
                 "anyOf": [
                   {
@@ -302,7 +302,7 @@
             },
             "thirdPartyDataSharing": {
               "type": "string",
-              "description": "If yes - does this project share this data with third parties?",
+              "description": "If yes - does this project share this data and/or content with third parties?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -312,7 +312,7 @@
             },
             "dataSharingCircumstances": {
               "type": "array",
-              "description": "Please describe the circumstances with which this project shares data with third parties. Please add links as relevant.",
+              "description": "Please describe the circumstances with which this project shares data and/or content with third parties. Please add links as relevant.",
               "items": {
                 "anyOf": [
                   {
@@ -323,7 +323,7 @@
             },
             "ensurePrivacySecurity": {
               "type": "string",
-              "description": "If yes - does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
+              "description": "If yes - does the project ensure the privacy and security of this data and/or content and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
               "uniqueItems": true,
               "enum": [
                 "Yes",
