@@ -1,0 +1,49 @@
+{
+  "name": "Digital tool and adverse effects for immunization",
+  "aliases": [
+    "Vaccination and adverse effects for immunization"
+  ],
+  "description": "Creation of new knowledge building and knowledge enabling materials provision to those human individuals who are affected by the covid - 19 vaccination adverse effects for immunization.",
+  "website": "https://climatechange612.wordpress.com/2021/10/26/digital-technologies-and-adverse-effects-of-immunization/",
+  "license": [
+    {
+      "spdx": "QPL-1.0",
+      "licenseURL": "https://innovation.wfp.org/wfp-innovation-hubs"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Creation of awareness generation of the food systems technologies",
+      "evidenceURL": "https://innovation.wfp.org/wfp-innovation-hubs"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Creation of accessibility and inclusive development",
+      "evidenceURL": "https://www.etsy.com/in-en/shop/InventionsByAshwini"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Creation of new knowledge building and knowledge enabling books on the subject areas of the 5G technologies",
+      "evidenceURL": "https://www.etsy.com/in-en/shop/InventionsByAshwini"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "model",
+    "standard",
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Etsy online store InventionsByAshwini",
+      "website": "https://www.etsy.com/in-en/shop/InventionsByAshwini",
+      "org_type": "owner",
+      "contact_name": "Ashwini Sathnur",
+      "contact_email": "ashwiniashis@yahoo.com"
+    }
+  ],
+  "stage": "nominee"
+}
