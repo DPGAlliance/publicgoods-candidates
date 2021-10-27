@@ -1,5 +1,5 @@
 {
-  "name": "paperswithcode",
+  "name": "Papers with Code",
   "aliases": [
     ""
   ],
@@ -33,7 +33,7 @@
   "repositoryURL": "",
   "organizations": [
     {
-      "name": "paperswithcode",
+      "name": "Papers with Code",
       "website": "https://paperswithcode.com/",
       "org_type": "funder",
       "contact_name": "Robert Stojnic",
