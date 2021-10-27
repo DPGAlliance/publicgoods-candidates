@@ -56,12 +56,12 @@
       "collectsPII": "Yes",
       "typesOfDataCollected": [
         "First Name",
-        "Last name",
-        "Email address",
+        "Last Name",
+        "Email Address",
         "Organization",
         "National ID",
         "DOB",
-        "Phone number"
+        "Phone Number"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
