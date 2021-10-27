@@ -32,10 +32,10 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "HTTPS"
+      "OGC (Open Geospatial Consortium) - https://www.ogc.org/"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://www.fao.org/in-action/remote-sensing-for-water-productivity/wlpa-introduction/portal-user-guide/ar/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
