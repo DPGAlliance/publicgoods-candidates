@@ -1,0 +1,50 @@
+{
+  "name": "Adverse123",
+  "aliases": [
+    "Vaccination123"
+  ],
+  "description": "Creation of new knowledge building and knowledge enabling materials provision to those human individuals who are affected by the covid - 19 vaccination adverse effects for immunization.",
+  "website": "https://climatechange612.wordpress.com/2021/10/26/digital-technologies-and-adverse-effects-of-immunization/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/ashwinisathnur/vaccination/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Creation of accessibility and inclusive development",
+      "evidenceURL": "https://www.etsy.com/in-en/shop/InventionsByAshwini"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Creation of new knowledge building and knowledge enabling books on the subject areas of the 5G technologies",
+      "evidenceURL": "https://www.etsy.com/in-en/shop/InventionsByAshwini"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Creation of new Innovative ideologies product solutions based on the subject areas and the conceptual frameworks of the vaccination management",
+      "evidenceURL": "https://1117.backlog.com/alias/file/83620"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "model",
+    "standard"
+  ],
+  "repositoryURL": "https://1117.backlog.com/projects/ADV_19",
+  "organizations": [
+    {
+      "name": "United Nations world food programme",
+      "website": "https://innovation.wfp.org/digital-health-innovation-accelerator-program",
+      "org_type": "maintainer",
+      "contact_name": "Vijayalakshmi S. Rao",
+      "contact_email": "vijaylaxmi_srao@yahoo.com"
+    }
+  ],
+  "stage": "nominee"
+}
