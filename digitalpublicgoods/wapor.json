@@ -2,7 +2,7 @@
   "name": "WaPOR",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "http://www.fao.org/digital-agriculture/digital-portfolio/en/"
+    "copyrightURL": "https://www.fao.org/in-action/remote-sensing-for-water-productivity/en/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
