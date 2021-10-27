@@ -52,7 +52,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "All doctors are certified professionals recommended by the Ghana Health Service(GHS). "
+      "additionalInfoMechanismProcessesPolicies": "All doctors are certified professionals recommended by the Ghana Health Service (GHS)."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -69,7 +69,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Bisa has features like anonymous login for users to easily ask questions without keeping any user data. \n Users are given system generated names to ensure anonymity"
+      "privacySecurityDescription": "Bisa has features like anonymous login for users to easily ask questions without keeping any user data. \n Users are given system generated names to ensure anonymity."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -83,12 +83,12 @@
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "All doctors are certified professionals recommended by the Ghana Health Service(GHS).",
+        "All doctors are certified professionals recommended by the Ghana Health Service (GHS).",
         "Users are given system generated names to ensure anonymity"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "All content on the Bisa Platform (Articles / tips) are verified health information from the Ghana Health Service(GHS)."
+        "All content on the Bisa Platform (Articles / tips) are verified health information from the Ghana Health Service (GHS)."
       ]
     }
   },
