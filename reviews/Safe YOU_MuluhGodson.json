@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "This app talks about SDG5 which is about Gender Equality but the links point to SDG4 which is education. Never the less, the application is concerned with Gender Equality as it rightly states.",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "Well the mechanism is not well explained but it indicates that this is done via database queries. There is also no indication of what kind of information is collected so I am not convinced if the information can be classified as non-personally identifiable information.",
+    "confidence": 2
+  },
+  "user": "MuluhGodson",
+  "timestamp": 1633958921,
+  "timeTaken": 392
+}
