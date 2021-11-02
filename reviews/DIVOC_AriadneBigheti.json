@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "The link leads to the license",
+    "confidence": 2
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "don't think that the description provides enough evidence for (a) and (b)",
+    "confidence": 2
+  },
+  "user": "AriadneBigheti",
+  "timestamp": 1633963364,
+  "timeTaken": 298
+}

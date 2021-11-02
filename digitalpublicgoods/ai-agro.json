@@ -1,0 +1,94 @@
+{
+  "name": "AI Agro",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://rentadrone.cl/developers/ai-agro/ \nhttps://www.diariooficial.interior.gob.cl/publicaciones/2021/08/20/43033/06/1994207.pdf"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The users for this project have to collect multispectral data using the one following private mandatory hardware dependencies: \n - https: //www.dji.com/p4-multispectral \n - https: //micasense.com/es/rededge-mx/ \n - https: //micasense.com/es/altum/ \n - https: //sentera.com/6x-multispectral/ \n Optional Softwares for Photogrammetry: \n - https: //www.dji.com/dji-terra \n - https: //www.pix4d.com/ \n - https: //www.dronedeploy.com/ \n All the software and AI Models are developed using Open Source Programming libraries (Python, JavaScript, TensorFlow). And each component is independent of the hardware used to collect data and the software to make the photogrammetry \n Open Alternative Software for Photogrammetry: \n - https: //www.opendronemap.org/ \n There are not open-source alternatives for Multispectral UAV data collection."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://rentadronecl.github.io/docs/precision_agriculture",
+      "https://github.com/RentadroneCL/AI-Agro"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "LAW 19628: ON PROTECTION OF PRIVATE LIFE (CHILE)"
+    ],
+    "adherenceSteps": [
+      "Application: 1.466.138.- PRODUCCIONES RG SPA, CHILE.- Denominative: AI Agro.- Brand of products and services: Updating and rental of software for data processing; rental of software; rental of application software; computer software rental; development of programs for data processing for others; research, inspection and testing in agriculture, livestock breeding and fishing, in class 42."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "PSR-12 (https://www.php-fig.org/psr/psr-12)",
+      "PEP 8 (https://www.python.org/dev/peps/pep-0008)",
+      "Airbnb JavaScript Style Guide (https://github.com/airbnb/javascript)"
+    ],
+    "evidenceStandardSupport": [
+      "https://travis-ci.org/github/RentadroneCL"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://blog.tensorflow.org/2019/02/effective-tensorflow-20-best-practices.html",
+      "https://cdnsciencepub.com/doi/full/10.1139/juvs-2018-0018"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "As developers we can no longer close our eyes to the fact that open source code is being used by individuals and organizations to the detriment of our society. We want our work to enrich the physical, mental and spiritual wellbeing of all society. \nThis software must not be used by any organisation, product or service that: \n Lobbies for, promotes, or derives a majority of income from actions that support or contribute to: \n-sex trafficking \n-human trafficking \n-slavery \n-indentured servitude \n-gambling \n-tobacco \n-adversely addictive behaviours \n-nuclear energy \n-warfare \n-weapons manufacturing \n-war crimes \n-violence (except when required to protect public safety) \n-burning of forests \n-deforestation \n-hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality \n\n lobbies against, or derives a majority of income from actions that discourage or frustrate: \n-peace \n-access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child \n-peaceful assembly and association (including worker associations) \n-a safe environment or action to curtail the use of fossil fuels or prevent climate change \n-democratic processes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The users can use the software without restriction as is described in the license. However, for personal purposes in some context must be encouraged to follow some guidelines. Users are responsible for complying with all Company policies related to computer security and in particular: \n - Know and apply the appropriate policies and procedures in relation to management of information and computer systems. Standards for security in information systems with Information Technologies. \n- Do not disclose confidential information of the Company to persons not authorized. \n- Do not allow and do not facilitate the use of the computer systems of the Company to unauthorized persons.\n- Do not use computer resources (hardware, software or data) and telecommunications for other activities that are not directly related to work in the Company.\n- Immediately inform your immediate boss to an official of Computer Security any event that may compromise the security of the Company and its computing resources, such as contagion of viruses, intruders, modification or loss of data and other unusual activities."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://www.contributor-covenant.org/"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://www.contributor-covenant.org/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Chile"
+    ],
+    "deploymentCountries": [
+      "Chile"
+    ]
+  }
+}

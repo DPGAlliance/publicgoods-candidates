@@ -1,7 +1,7 @@
 {
   "name": "Open Foris Collect",
   "description": "Open Foris Collect is the main entry point for data collected in field-based inventories. It provides a fast, easy, flexible way to set up a survey with a user-friendly interface. Collect handles multiple data types and complex validation rules, all in a multilanguage environment.",
-  "website": "http://www.openforis.org/newwebsite/tools/collect.html",
+  "website": "https://www.openforis.org/newwebsite/tools/collect.html",
   "license": [
     {
       "spdx": "MIT",
@@ -36,7 +36,7 @@
   "organizations": [
     {
       "name": "Food and Agriculture Organization (FAO) of the United Nations",
-      "website": "http://www.fao.org/home/en/",
+      "website": "https://www.fao.org/home/en/",
       "org_type": "owner"
     }
   ],

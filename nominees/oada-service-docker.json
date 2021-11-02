@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/OADA/oada-srvc-docker/blob/master/LICENSE"
+      "licenseURL": "https://github.com/OADA/server/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,7 +17,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OADA/oada-srvc-docker",
+  "repositoryURL": "https://github.com/OADA/server",
   "organizations": [
     {
       "name": "Open Ag Data Alliance",

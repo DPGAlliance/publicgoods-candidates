@@ -1,7 +1,7 @@
 {
   "name": "InterMine",
   "description": "InterMine integrates biological data sources, making it easy to query and analyse data.",
-  "website": "http://intermine.org/",
+  "website": "https://intermine.org/",
   "license": [
     {
       "spdx": "LGPL-2.1",
@@ -21,7 +21,7 @@
   "organizations": [
     {
       "name": "InterMine",
-      "website": "http://intermine.org/",
+      "website": "https://intermine.org/",
       "org_type": "owner",
       "contact_email": "info@intermine.org"
     }
