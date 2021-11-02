@@ -1,14 +1,14 @@
 {
   "name": "impactMarket",
   "aliases": [
-    "impactMarket"
+    ""
   ],
-  "description": "impactMarket is a decentralised poverty alleviation protocole. It enables any vulnerable community to implement poverty alleviation mechanisms, like Unconditional Basic Income. ",
+  "description": "impactMarket is a decentralised poverty alleviation protocol. It enables any vulnerable community to implement poverty alleviation mechanisms, like Unconditional Basic Income. ",
   "website": "https://www.impactmarket.com/",
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/impactMarket/mobile-app/blob/master/LICENSE"
+      "licenseURL": "https://github.com/impactMarket/api/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -22,7 +22,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/impactMarket",
+  "repositoryURL": "https://github.com/impactMarket/api",
   "organizations": [
     {
       "name": "impactLabs",
