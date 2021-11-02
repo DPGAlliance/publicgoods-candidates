@@ -14,20 +14,24 @@
   "SDGs": [
     {
       "SDGNumber": 5,
-      "evidenceText": " Our larger goals through this project are to enhance awareness of women’s portrayal in public discourse through hard evidence, and to encourage news organizations to provide a more diverse set of voices in their reporting."
+      "evidenceText": "Our larger goals through this project are to enhance awareness of women’s portrayal in public discourse through hard evidence, and to encourage news organizations to provide a more diverse set of voices in their reporting."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
   "type": [
     "software",
-    "model"
+    "aimodel"
   ],
   "repositoryURL": "https://github.com/sfu-discourse-lab/GenderGapTracker",
   "organizations": [
     {
-      "name": "Github",
-      "website": "https://github.com/",
-      "org_type": "maintainer"
+      "name": "Simon Fraser University, Discourse Processing Lab",
+      "website": "https://www.sfu.ca/discourse-lab.html",
+      "org_type": "maintainer",
+      "contact_name": "Maite Taboada",
+      "contact_email": "mtaboada@sfu.ca"
     }
   ],
   "stage": "nominee"
