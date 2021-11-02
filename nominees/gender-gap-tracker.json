@@ -4,7 +4,7 @@
     "GGT"
   ],
   "description": "This repo contains the code and framework used in our study on gender bias in the media. We present the Gender Gap Tracker (GGT), an automated system that measures men and women’s voices on seven major Canadian news outlets in real time. We analyze the rich information in news articles using Natural Language Processing (NLP) and quantify the discrepancy in proportions of men and women quoted. ",
-  "website": "https://github.com/sfu-discourse-lab/GenderGapTracker",
+  "website": "https://gendergaptracker.informedopinions.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
