@@ -18,12 +18,13 @@
       "evidenceURL": "http://www.freewat.eu/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Water and Sanitation"
+  ],
   "type": [
-    "standard",
     "software"
   ],
-  "repositoryURL": "https://gitlab.com/freewat",
+  "repositoryURL": "https://gitlab.com/freewat/freewat/",
   "organizations": [
     {
       "name": "FREEWAT",
