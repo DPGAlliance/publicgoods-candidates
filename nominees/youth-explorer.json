@@ -14,14 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 10,
-      "evidenceText": "Site aims to make data about youth statics (incl economic and health) open and accessible to those who use this data to increase understanding of where are a country's challenges in addressing inequality in youth.",
+      "evidenceText": "Site aims to make data about youth statistics (incl economic and health) open and accessible to those who use this data to increase understanding of where are a country's challenges in addressing inequality in youth.",
       "evidenceURL": "https://openup.org.za/blog/age-gender-and-unemployment-in-south-africa"
     }
   ],
   "sectors": [],
   "type": [
-    "software",
-    "data"
+    "software"
   ],
   "repositoryURL": "https://github.com/openupsa/wazimap-ng",
   "organizations": [
