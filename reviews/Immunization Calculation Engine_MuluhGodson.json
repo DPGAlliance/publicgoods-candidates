@@ -1,0 +1,25 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The documentation provides two methods of running this platform, by installing and by compiling the code.",
+    "confidence": 4
+  },
+  "user": "MuluhGodson",
+  "timestamp": 1633957594,
+  "timeTaken": 378
+}
