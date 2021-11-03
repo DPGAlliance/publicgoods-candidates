@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The project would help young girls",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "The data is strictly stored and access is restricted",
+    "confidence": 4
+  },
+  "user": "Ashara-kosi",
+  "timestamp": 1634165846,
+  "timeTaken": 215
+}
