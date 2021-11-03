@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "tota11y helps visualize how your site performs with assistive technologies. Check out the announcement blog post.  The process of testing for accessibility (a11y) is often tedious and confusing. In many cases, developers must have some prior accessibility knowledge in order to make sense of the results.  Instead, tota11y aims to reduce this barrier of entry by helping visualize accessibility violations (and successes), while educating on best practices.",
+  "description": "tota11y helps visualize how your site performs with assistive technologies. The process of testing for accessibility (a11y) is often tedious and confusing. In many cases, developers must have some prior accessibility knowledge in order to make sense of the results.  Instead, tota11y aims to reduce this barrier of entry by helping visualize accessibility violations (and successes), while educating on best practices.",
   "website": "https://khan.github.io/tota11y/",
   "license": [
     {
