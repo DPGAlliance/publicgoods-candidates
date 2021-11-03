@@ -1,47 +1,48 @@
 {
-  "name": "Python for Power System Analysis",
+  "name": "PyPSA",
   "aliases": [
-    "PyPSA"
+    "Python for Power System Analysis"
   ],
-  "description": "PyPSA is a free software toolbox for simulating and optimizing electric power systems and allied sectors.",
+  "description": "Python for Power System Analysis is an open-source python environment for state-of-the-art energy system modelling.",
   "website": "http://www.pypsa.org/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://en.wikipedia.org/wiki/MIT_License"
+      "licenseURL": "https://github.com/PyPSA/PyPSA/blob/master/LICENSE.txt"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 1,
       "evidenceText": "This project tends to help to eradicate extreme poverty for all people everywhere,",
-      "evidenceURL": "https://energypedia.info/wiki/Energy_and_the_Sustainable_Development_Goals"
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
     },
     {
       "SDGNumber": 7,
-      "evidenceText": "for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.",
-      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/"
+      "evidenceText": "For simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.",
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
     },
     {
       "SDGNumber": 11,
       "evidenceText": "This project is relevant in terms of total electricity/energy system least-cost investment optimization (using linear network equations, over several snapshots simultaneously for optimization of generation and storage dispatch and investment in the capacities of generation)",
-      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/introduction.html"
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
     },
     {
       "SDGNumber": 13,
       "evidenceText": "This project will help in monitoring total greenhouse gas emissions per year",
-      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/introduction.html"
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Energy"
+  ],
   "type": [
-    "software",
-    "content"
+    "software"
   ],
   "repositoryURL": "https://github.com/PyPSA/PyPSA",
   "organizations": [
     {
-      "name": "Energy System Modelling group at the Institute for Automation and Applied Informatics ",
+      "name": "Energy System Modelling Group at the Institute for Automation and Applied Informatics",
       "website": "https://www.kit.edu/english/index.php",
       "org_type": "maintainer",
       "contact_name": "Tom Brown",
