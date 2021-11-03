@@ -7,17 +7,21 @@ Below are some of the common best practices and principles implemented by severa
 * [Principles For Digital Development](https://digitalprinciples.org/)
 * [The Best Practices in the Use of ICTs in Development](https://www.ictworks.org/the-best-practices-in-the-use-of-icts-in-development-are/#.YTc0Y_wzZH5)
 
-#### Software Development Methodologies
+#### Software Development 
 * [Agile development](https://www.ntaskmanager.com/blog/agile-best-practices/)
 * [12 Principles Behind Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 * [The Twelve Factor App](https://12factor.net/)
 * Test driven development
-* DevOps deployment
+* Continous Integration & Continous Deployment (CI/CD)
 * Rapid application development
-* Waterfall development
 
 #### Architectural Design
 * [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
+* Modularity and Maintainability
+* Reusability and Extensibility
+* Accountability & Non-repudiability
+* Security & Consented Access
+* Universal Access & Open APIs
 * Microservices architecture
 
 #### Cloud Computing
@@ -28,7 +32,10 @@ Below are some of the common best practices and principles implemented by severa
 
 #### Artificial Intelligence/ Machine Learning (AI/ ML)
 * [Google Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/)
+* [Best Practices for ML Engineering (Google)](https://developers.google.com/machine-learning/guides/rules-of-ml)
+* [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 * [Microsoft AI guiding principles](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pKH5#:~:text=At%20Microsoft%2C%20we've%20recognized,inclusiveness%2C%20transparency%2C%20and%20accountability.)
+* [The Facebook Field Guide to Machine Learning](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
 #### Virtual Reality/ Augmented Reality (VR /AR)
 * [Best practices & VR design principles](https://www.dummies.com/software/best-practices-and-virtual-reality-design-principles/)
