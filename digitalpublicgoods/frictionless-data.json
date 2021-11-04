@@ -1,0 +1,51 @@
+{
+  "name": "Frictionless Data",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/frictionlessdata/frictionless-py/blob/main/LICENSE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR) in the European Union"
+    ],
+    "adherenceSteps": [
+      "Terms of use: https://okfn.org/terms-of-use/ Privacy policy: https://okfn.org/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "We support the FAIR data standard by helping make data more Findable Accessible Interoperable and Reusable. "
+    ],
+    "evidenceStandardSupport": [
+      "https://blog.okfn.org/2018/08/14/frictionless-data-and-fair-research-principles/"
+    ],
+    "bestPracticesList": []
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://github.com/okfn/coding-standards"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "We have a Code of Conduct: https://frictionlessdata.io/work-with-us/code-of-conduct/ and we have a community manager who, together with the core team, moderates the channels where the interactions among users take place."
+      ]
+    }
+  },
+  "locations": {}
+}
