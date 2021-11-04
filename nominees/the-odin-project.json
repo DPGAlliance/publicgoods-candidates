@@ -1,5 +1,5 @@
 {
-  "name": "The odin Project",
+  "name": "The Odin Project",
   "aliases": [
     ""
   ],
@@ -18,7 +18,9 @@
       "evidenceURL": "https://www.theodinproject.com/home"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "content"
   ],
