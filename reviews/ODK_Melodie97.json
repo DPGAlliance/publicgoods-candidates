@@ -1,0 +1,50 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Yes, this link shows that this software is licensed under Apache License 2.0",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "This statement is written on their website, but the link to back this up is not going through, so not valid",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Yes, this statement is written on their website and the link they provided to back this up justify their relevance to SDG 3 ",
+    "confidence": 5
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "This statement is written on their website, but the link to back this up took me to another site that was irrelevant to the statement, so not valid",
+    "confidence": 4
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "Yes, this statement is written on their website and the link they provided to back this up justify their relevance to SDG 16",
+    "confidence": 5
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Yes, this statement is written on their website and the link they provided to back this up justify their relevance to SDG 17",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Yes, the evidence provided supports the above claim",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Yes, the second documentation provided satisfies the criteria, the first link doesn't take you to the documentation, it should be replaced with this https://github.com/getodk/docs",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "No, there is not enough evidence to assert this",
+    "confidence": 4
+  },
+  "user": "Melodie97",
+  "timestamp": 1635198409,
+  "timeTaken": 1086
+}
