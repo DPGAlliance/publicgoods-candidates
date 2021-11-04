@@ -1,11 +1,13 @@
 {
   "name": "openHAB",
-  "aliases": ["open Home Automation Bus"],
+  "aliases": [
+    "open Home Automation Bus"
+  ],
   "description": "openHAB is an open source, technology agnostic home automation platform which runs as the center of your smart home!",
   "website": "https://www.openhab.org/",
   "license": [
     {
-      "spdx": "Eclipse Public License version 2.0",
+      "spdx": "EPL-2.0",
       "licenseURL": "https://github.com/openhab/openhab-docs/blob/main/LICENSE"
     }
   ],
@@ -16,14 +18,20 @@
       "evidenceURL": "https://www.openhabfoundation.org/"
     }
   ],
-  "sectors": [],
-  "type": ["software"],
+  "sectors": [
+    ""
+  ],
+  "type": [
+    "software"
+  ],
   "repositoryURL": "https://github.com/openhab/openhab-docs",
   "organizations": [
     {
       "name": "openHAB Foundation",
       "website": "https://www.openhabfoundation.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "",
+      "contact_email": ""
     }
   ],
   "stage": "nominee"
