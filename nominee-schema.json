@@ -377,7 +377,6 @@
       "description": "Screening stage of Digital Public Good",
       "enum": [
         "nominee",
-        "candidate",
         "DPG"
       ]
     }
