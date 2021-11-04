@@ -1,0 +1,110 @@
+{
+  "name": "VIPS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://nibio.no/en/services/vips"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitlab.nibio.no/VIPS/documentation"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "REST"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTPS",
+      "HTML5",
+      "CSS",
+      "JSON",
+      "Rest",
+      "AJAX",
+      "Java EE compliant",
+      "i10n",
+      "i18n"
+    ],
+    "evidenceStandardSupport": [
+      "https://gitlab.nibio.no/VIPS/VIPSLogic",
+      "https://gitlab.nibio.no/VIPS/VIPSWeb"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Relating to the Principles for Digital Development, the summary below describes how VIPS has integrated best practices into technology-enabled development programs for international development and cooperation:",
+      "1. Design with the user: The system has been designed and evolved during the past 20 years in close collaboration with the Norwegian Agricultural Advisory service. Workshops with farmers have been held several times during this period, where feedback has led to improvements and new features.",
+      "2. Understand the Existing Ecosystem: In addition to the Norwegian advisors; farmers, researchers and advisors in Sweden, Finland, Denmark, Lihtuania, Latvia, Switzerland, Bosnia-Hercegovina and India have been consulted. Through various international projects, the needs and the potential for VIPS have been clarified.",
+      "3. Design for Scale - Build for Sustainability: The system is funded on a long-term basis in Norway for Norwegian users. The system may be installed anywhere else as well, given that the resources are available. The system is simple, flexible and modular, allowing for scaling in almost any situation imaginable.",
+      "4. Open Standards: VIPS is Open Source and uses standards wherever possible in order to make communication between VIPS and external systems as easy as possible.",
+      "5. Reuse and Improve: By using Open Source software for building and as APIs/dependencies of the project, only the functionality specific of VIPS has been developed uniquely for the project.",
+      "6. Privacy & Security: Has been described in other parts of the DPG form.",
+      "7. Be Collaborative: Collaboration on development of models and the VIPS platform is made easy by the plug-in design for models and the clear separation of the system parts (micro/medium services loosely coupled). In fact, the latest version of VIPS was designed to relieve pest prediction model developers of the work of creating the infrastructure needed to make the model available to users across the globe. The system is also designed to cooperate with 3rd party systems to the greatest extent possible."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "VIPS uses the https protocol to ensure safe communication between the user and the system. \n VIPS requires authentication to edit data. Users' personal data is only available to them. \n Geolocation data of field pest observations can be hidden or obfuscated by the user. \n Users in the admin system are assigned only the relevant roles for them. \n Credentials are encrypted on the server. \n All new functionality is tested using unit tests and subsequently functionality tested by VIPS staff before it's deployed to production."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Email",
+        "Phone number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Access to PII requires valid login. Servers are in-house, safe from e.g. the US Patriot Act."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Weather data, risk model outputs, field observations of pests",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Norway"
+    ],
+    "deploymentCountries": [
+      "Norway",
+      "Sweden",
+      "India"
+    ]
+  }
+}

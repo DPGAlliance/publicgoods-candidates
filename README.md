@@ -3,15 +3,24 @@
 
 # Nominees, Candidates and Digital Public Goods
 
-Welcome! 👋 We are glad that have found this repo and you are interested in Digital Public Goods, and using technology to make this world  a more just and equitable one. We are in this together: the more the greater impact!
+Welcome! 👋 &nbsp;We are glad that you have found this repo and are interested in Digital Public Goods, and using technology to make this world  a more just and equitable one. We are in this together: the more, the greater impact!
 
-This repository is used to manage the process of adding nominees for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). This is one of four interconnected repositories; refer to the [publicgoods-website](https://github.com/unicef/publicgoods-website) for an overview.
+We define digital public goods as *open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of [the UN’s 2030 Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)*. This repository is used to manage the process of adding nominees for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). This is one of four interconnected repositories; refer to the [publicgoods-website](https://github.com/unicef/publicgoods-website) for an overview.
 
 From the set of data files found in the `nominees/` folder, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
 
 ## 🙋🏽 How to nominate a Digital Public Good
 
 Please read through our [contributing guidelines](/CONTRIBUTING.md). We are always accepting new nominations for Digital Public Goods.
+
+## 📄 Documentation
+
+Refer to the additional documentation on the following topics:
+* [Approved Licenses for Digital Public Goods](docs/licenses.md)
+* [Documentation Resources](docs/help-center/documentation.md)
+* [Best Practices Resouces](docs/help-center/best-practices.md)
+* [Open Standards Resources](docs/help-center/open-standards.md)
+* [Data Privacy Resources](docs/help-center/privacy.md)
 
 ## 🛠 Development
 
