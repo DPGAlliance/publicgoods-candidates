@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "EPL-2.0",
-      "licenseURL": "https://github.com/openhab/openhab-docs/blob/main/LICENSE"
+      "licenseURL": "https://github.com/openhab/openhab-core/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -22,7 +22,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openhab/openhab-docs",
+  "repositoryURL": "https://github.com/openhab/openhab-core",
   "organizations": [
     {
       "name": "openHAB Foundation",
