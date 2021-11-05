@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "A comparison of the linked license with a plaintext copy of the AGPL 3.0 license (https://www.gnu.org/licenses/agpl-3.0.txt) shows that the licenses differ only in one formatting change and the use of http instead of https in hyperlinks.",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The link only *directly* supports Goal 3.8: Achieve universal health coverage, and although its claim does support it, it does not demonstrate or elaborate on how.",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "**THE LINK PROVIDED IS INCORRECT** (links to 4: Education, not 5: Gender Equality)\n\nThe connection between SDG 5 goals and the evidence provided is weak at best. There is some minor link to goal 5.C and goal 5.1, but even that seems limited.",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "The provided evidence may provide some level of weak support for the SDG 17 goals, but whatever support there is seems very general and non-specific (mitigated somewhat by the goals themselves being relatively non-specific).",
+    "confidence": 2
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "The link provides adequate clarity of only one aspect of the entire CHT project (CHT Core Framework aka cht-core). Not all aspects of the project (drawing from places other than strictly the supplied link) seem to have clearly defined and documented ownership.",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "A skim through a few different areas of documentation suggests that the documentation offers good breadth and depth. Without sufficient expertise / time to verify, it appears that the supplied documentation is sufficiently detailed and accurate to be very helpful for someone actually trying to make use of the project's software.",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "The statement appears to be accurate, but some details (e.g. what is the exact data format) are unclear while reading the supplied documentation link without context.",
+    "confidence": 4
+  },
+  "user": "MHLoppy",
+  "timestamp": 1634936917,
+  "timeTaken": 2243
+}
