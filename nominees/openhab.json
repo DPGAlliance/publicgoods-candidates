@@ -1,9 +1,9 @@
 {
   "name": "openHAB",
   "aliases": [
-    "open Home Automation Bus"
+    "Open Home Automation Bus"
   ],
-  "description": "openHAB is an open source, technology agnostic home automation platform which runs as the center of your smart home",
+  "description": "openHAB is an open-source, technology-agnostic home automation platform which runs as the center of your smart home.",
   "website": "https://www.openhab.org/",
   "license": [
     {
@@ -27,9 +27,7 @@
     {
       "name": "openHAB Foundation",
       "website": "https://www.openhabfoundation.org/",
-      "org_type": "owner",
-      "contact_name": "",
-      "contact_email": ""
+      "org_type": "owner"
     }
   ],
   "stage": "nominee"
