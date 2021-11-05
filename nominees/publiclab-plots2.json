@@ -10,10 +10,12 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 11
+      "SDGNumber": 11,
+      "evidenceURL": "https://publiclab.org/about"
     },
     {
-      "SDGNumber": 12
+      "SDGNumber": 12,
+      "evidenceURL": "https://publiclab.org/about"
     },
     {
       "SDGNumber": 13,
@@ -22,7 +24,9 @@
     }
   ],
   "sectors": [],
-  "type": ["software"],
+  "type": [
+    "software"
+  ],
   "repositoryURL": "https://github.com/publiclab/plots2",
   "organizations": [
     {
