@@ -1,0 +1,36 @@
+{
+  "name": "Heka Digital Technologies LTD",
+  "aliases": [
+    "Heka"
+  ],
+  "description": "Heka is a telemedicine startup that aims to remove barriers to accessing healthcare, reduce the overrall cost of care and have 24/7 real time surveillance on people with chronic non-communicable diseases using artificial intelligence ",
+  "website": "https://hekaghana.com",
+  "license": [
+    {
+      "spdx": "PHP-3.0",
+      "licenseURL": "https://hekaghana.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Non-communicable diseases account for 71% of all deaths globally and 15 million people die yearly from non-communicable diseases and 85% of these deaths occur in low and middle income countries. Heka AI powered remote-patient monitoring system will lower deaths and complications using AI predicitive analysis for early detection of warning signs for early intervention in people with non-communicable diseases ",
+      "evidenceURL": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases#:~:text=Noncommunicable%20diseases%20(NCDs)%20kill%2041,%2D%20and%20middle%2Dincome%20countries."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Heka Digital Technologies LTD",
+      "website": "https://hekaghana.com",
+      "org_type": "owner",
+      "contact_name": "Moses Akurugu Ade-Ena",
+      "contact_email": "moses@hekaghana.com"
+    }
+  ],
+  "stage": "nominee"
+}
