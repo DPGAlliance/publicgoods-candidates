@@ -1,0 +1,46 @@
+{
+  "name": "Book Dash",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://bookdash.org/what-we-do/how-we-do-it/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Protection of Private Information (POPI) Act in South Africa (akin to GDPR)"
+    ],
+    "adherenceSteps": [
+      "Book Dash is progress of finalising our terms of service and privacy policy, but we do not collect any personal data via our website, it involves no logging in or giving personal credentials -- only when joining the mailing list are these provided and choices of which segment to give are provided, plus secure storing of mailing lists by a third party provider."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Children's books",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "South Africa"
+    ],
+    "deploymentCountries": []
+  }
+}
