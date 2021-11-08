@@ -8,15 +8,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/OpenTeleRehab/therapist-web-app/blob/main/LICENSE"
-    },
-    {
-      "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/OpenTeleRehab/admin-web-app/blob/main/LICENSE"
-    },
-    {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/OpenTeleRehab/patient-app/blob/main/LICENSE"
     }
   ],
   "SDGs": [
