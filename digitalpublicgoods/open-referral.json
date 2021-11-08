@@ -1,0 +1,58 @@
+{
+  "name": "Open Referral",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://docs.openreferral.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Open Referral's products are all open source. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "http://docs.openreferral.org/en/latest/design_principles/"
+    ],
+    "evidenceStandardSupport": [
+      "http://docs.openreferral.org/en/latest/design_principles/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://docs.google.com/document/d/17cJxF_1P6fafcsFJQERFQifKKc_kPbAKmAXwe2LWDcI/edit"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We facilitate stakeholder-centric design processes in our pilot projects."
+      ],
+      "harassmentProtectionSteps": [
+        "Consultation and pedagogy"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Canada"
+    ]
+  }
+}
