@@ -16,7 +16,7 @@
     },
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/gbif/gbif-web/blob/master/LICENSE"
+      "licenseURL": "https://github.com/gbif/registry/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -36,7 +36,7 @@
     "software",
     "data"
   ],
-  "repositoryURL": "https://github.com/gbif",
+  "repositoryURL": "https://github.com/gbif/registry",
   "organizations": [
     {
       "name": "GBIF Governing Board",
