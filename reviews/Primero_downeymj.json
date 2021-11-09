@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "The link points to a prepended AGPLv3 license. I am 90% confidence this additional offer of presumptive-proprietary data (configuration files) is AGPLv3 compliant.",
+    "confidence": 2
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "Although there is certainly clear documentation available on the project's web sites, there was no specific evidence provided to support that claim. ",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "No description was provided to determine the status of exportable data.",
+    "confidence": 5
+  },
+  "user": "downeymj",
+  "timestamp": 1636175555,
+  "timeTaken": 341
+}
