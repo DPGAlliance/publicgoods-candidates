@@ -20,3 +20,4 @@ Merlot | April 4th, 2020 |  No longer accepting Creative Commons licenses that d
 Siyavula Open Textbooks | April 4th, 2020 |  No longer accepting Creative Commons licenses that do not allow No-Derivate works
 TED | April 4th, 2020 |  No longer accepting Creative Commons licenses that do not allow No-Derivate works
 Intern | Nov 9th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+techsoup | Nov 9th, 2021 |  Provided vague SDG relevance
