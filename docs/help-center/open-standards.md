@@ -36,6 +36,9 @@ Open standards establish protocols and building blocks that can help make digita
 #### Software Architectural Styles
 * REST (Representational State Transfer)
 
+#### Application Programming Interfaces (APIs)
+* OpenAPI
+
 #### Data Exchange formats 
 * JSON (JavaScript Object Notation)
 * XML (Extensible Markup Language)
@@ -53,6 +56,9 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Business Process Modelling
 * [BPMN 2.0](https://www.omg.org/spec/BPMN/2.0/)
+
+#### Credentialing
+* [W3C VC](https://www.w3.org/TR/vc-data-model/)
 
 #### Standard Content formats
 * PDF
