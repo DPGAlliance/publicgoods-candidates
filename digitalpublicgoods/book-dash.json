@@ -2,7 +2,7 @@
   "name": "Book Dash",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://bookdash.org/what-we-do/how-we-do-it/"
+    "copyrightURL": "https://bookdash.org/what-we-do/our-history/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
