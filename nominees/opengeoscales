@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE"
+      "licenseURL": "https://github.com/OpenGeoScales/ogs-data-exploration/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -22,7 +22,7 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "",
+  "repositoryURL": "https://github.com/OpenGeoScales/ogs-data-exploration",
   "organizations": [
     {
       "name": "OpenGeoScales",
