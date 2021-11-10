@@ -22,21 +22,27 @@
     "nonPIIAccessMechanism": "Queries to the database"
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Law 18331 (data privacy law) in Uruguay",
+      "Resolution 169/2021 & 291/2014 DINACIA (rule over airspace)"
     ],
     "adherenceSteps": [
-      ""
+      "Deep understanding of NASA/TM-2019-220376 for implementate all interfaces and entities following the instructions of the manual. Exceptions were made only under specific circumstances and under approval of the product manager. Unit tests are written based on the Standard.",
+      "Resolution 169/2021 & 291/2014 DINACIA. Joint work with the DINACIA lawyer."
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTML",
+      "CSS",
+      "REST",
+      "JSON",
+      "SQL"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/portableutm/webapp"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -47,16 +53,14 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "Training to Civil Aviation Authorities about the automatic authorization workflow. \nEmail notification for all automatic authorizations in the system to backup staff in CAA. \nMaintaining ground stations design to prevent misunderstanding, confusion or losing situational awareness by pilot in command."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Yes",
+      "collectsPII": "No",
       "typesOfDataCollected": [
-        "Names",
-        "Address",
-        "Personal documents (ID, passport)"
+        ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
@@ -72,7 +76,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
