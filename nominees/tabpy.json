@@ -22,7 +22,7 @@
   "organizations": [
     {
       "name": "Tableau",
-      "website": "http://tableau.github.io/",
+      "website": "https://tableau.github.io/",
       "org_type": "owner",
       "contact_email": "github@tableau.com"
     }

@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "licenseURL": "https://github.com/facebookincubator/magma/blob/master/LICENSE"
+      "licenseURL": "https://github.com/magma/magma/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,7 +17,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/facebookincubator/magma",
+  "repositoryURL": "https://github.com/magma/magma",
   "organizations": [
     {
       "name": "Facebook",
