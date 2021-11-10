@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/somleng/somleng-scfm/blob/develop/LICENSE"
+      "licenseURL": "https://github.com/somleng/somleng/blob/develop/LICENSE.txt"
     }
   ],
   "SDGs": [
@@ -25,7 +25,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/somleng/somleng-scfm",
+  "repositoryURL": "https://github.com/somleng/somleng",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
