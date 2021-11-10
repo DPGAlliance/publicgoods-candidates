@@ -7,8 +7,8 @@
   "website": "https://www.iota.org/",
   "license": [
     {
-      "spdx": "EUPL-1.2",
-      "licenseURL": "https://ec.europa.eu/transparencyregister/public/consultation/displaylobbyist.do?id=500027331119-04"
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/iotaledger/iota.js"
     }
   ],
   "SDGs": [
@@ -37,12 +37,14 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/iotaledger",
+  "repositoryURL": "https://github.com/iotaledger/iota.js",
   "organizations": [
     {
       "name": "IOTA Foundation",
       "website": "https://www.iota.org/",
-      "org_type": "maintainer"
+      "org_type": "maintainer",
+      "contact_name": "Holger Köther",
+      "contact_email": "holger@iota.org"
     }
   ],
   "stage": "nominee"
