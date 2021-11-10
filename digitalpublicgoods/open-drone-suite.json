@@ -1,0 +1,91 @@
+{
+  "name": "Open Drone Suite",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://as-research.org/open-drone-project/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/team-asr/open-drone/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "International drone laws set out in the jurisdictions of operation as per the international and domestic laws below:",
+      "The Kenya Civil Aviation Authority Rules on Remotely Piloted Aerial Systems",
+      "The Federal Aviation Administration rules on Unmanned Aerial Systems"
+    ],
+    "adherenceSteps": [
+      "The Kenya Civil Aviation Authority Rules on Remotely Piloted Aerial Systems: https://www.kcaa.or.ke/safety-%26-security-oversight/unmanned-aircraft-systems",
+      "The Federal Aviation Administration rules on Unmanned Aerial Systems: https://www.faa.gov/uas/commercial_operators/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "JPEG & TIFF"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/team-asr/od-Data/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "OGC Best Practices for improving access to geospatial systems (https://as-research.org/standards/)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "ASR has restricted its drone applications to larger well know and vetted institutions including NGOs and Governments recognized by the United Nations for service provision to avoid its drone technology from being deployed in military or related conflict work that does harm."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "On our Data repository, we have included a section on data privacy, https://github.com/team-asr/od-Data/, as well as included a link on our Data Protection and Privacy Policy, https://as-research.org/data-and-privacy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}
