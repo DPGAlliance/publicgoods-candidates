@@ -42,7 +42,6 @@
     "Nutrition"
   ],
   "type": [
-    "data",
     "content"
   ],
   "repositoryURL": "",
@@ -55,5 +54,5 @@
       "contact_email": "henry.burgsteden@fao.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

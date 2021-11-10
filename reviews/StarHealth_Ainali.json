@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "The readme includes requirements and the license, but it is not very clear who Code for Africa is.",
+    "confidence": 2
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "It looks plausible, but I didn't try it myself.",
+    "confidence": 2
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "user": "Ainali",
+  "timestamp": 1623679568,
+  "timeTaken": 427
+}
