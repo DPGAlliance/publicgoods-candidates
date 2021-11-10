@@ -1,7 +1,7 @@
 {
   "name": "BEMServer",
   "description": "An open source Python server to deploy energy management solutions for buildings",
-  "website": "http://bemserver.org/",
+  "website": "https://bemserver.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
