@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "No necessarily. It uses its own license named NIBIO OPEN SOURCE LICENSE V.1.0 (2015), which is almost entirely based on GNU Affero General Public License version 3 (AGPL-3.0), except for some modifications in a few terms.\nadditional \nIt is said: The additional prevailing terms \"have priority over the terms otherwise identical to the GNU Affero General Public License, version 3, and that Section 0 (\"This \nLicense\" definition changed), 13 (\"version 3 of the GNU General Public License\" \nreplaced by \"this License\") and 14 (\"The Free Software Foundation\" replaced by \n\"NIBIO\" and \"GNU Affero General Public License\" replaced by \"License\") have \nbeen adjusted as a consequence of this.\"\nThey justify these modifications saying that the models developed for this projects do not need to be \"Open Source Licensed in order to be combined with the VIPS Platform software.\"\n",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "It is accurate.",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "The project is weather based indeed, but its purpose is to alert farmers about agriculture pests in Africa, India and China, to help them to understand when it is best to plant and to reduce the use of pesticides.",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "The project aims to reduce the use of pesticides which is good for the health of the soil and water nearby, so it is relevant to the SDG 15.",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "More precisely I would add this link (https://gitlab.nibio.no/VIPS) as the main reference (it can be found in the already provided page). This is the link for the source code, in which they included documentation to help installation, configuration, use and further developments.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The documentation is very well detailed.",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "This is the reason why they use their own modified license instead of AGPL v3.0. They say that \"Models developed for VIPS do not need to be Open Source Licensed in order to be combined with the VIPS Platform software.\". Here is the link to that quote: https://nibio.no/en/about-eng/software-licenses-and-agreements",
+    "confidence": "5"
+  },
+  "user": "llbrito",
+  "timestamp": 1617389223
+}

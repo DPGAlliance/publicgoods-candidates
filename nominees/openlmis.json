@@ -12,7 +12,7 @@
     {
       "SDGNumber": 3,
       "evidenceText": "OpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making.",
-      "evidenceURL": "https://openlmis.org/impact/"
+      "evidenceURL": "https://www.ictworks.org/openlmis-open-source-software/#.YQf9-HX7RNg"
     },
     {
       "SDGNumber": 9,
@@ -32,5 +32,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

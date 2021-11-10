@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "MIT License ",
+    "confidence": 4
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "schema for API endpoint output would be good to add",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "1. In terms of data: perhaps it would be good to add how often data is scraped",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "A is good. But B does not state how someone could reach out to obtain this data (I) it is indeed an SQL database but how can someone reach out to the team to request access? or is this SQL database accessible to all? what is the address if so?",
+    "confidence": 2
+  },
+  "user": "robertoaflores2",
+  "timestamp": 1622913554,
+  "timeTaken": 533
+}
