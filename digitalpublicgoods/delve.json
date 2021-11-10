@@ -30,12 +30,17 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Delve supports:",
+      "UTF–8 for character encoding",
+      "Web Content Accessibility Guidelines 2.1 when operationally possible",
+      "Uniform Resource Identifiers when linking to externally hosted resources",
+      "PDF for document formatting in the Resource Library & all Delve publications",
+      "JPEG, PNG, CSV for multimedia exports of data visualizations"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://delvedatabase.org/about/faqs#faq12"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -45,7 +50,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "Care will continue to be taken to ensure that data is aggregated and, where appropriate, anonymized to avoid putting any stakeholders at risk. Commercial confidentiality is respected through the review of contributed data prior to publishing on the platform. Issues such as the risk of stimulating rushes, distorting markets, creating legal pressures, etc., are carefully considered and managed by the Delve operating team and Steering Committee."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
