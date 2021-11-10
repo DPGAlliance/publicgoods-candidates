@@ -2,7 +2,7 @@
   "name": "Somleng",
   "ownership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "somleng.org"
+    "copyrightURL": "https://github.com/somleng/somleng"
   },
   "dependencies": {
     "mandatoryDepsCreateMoreRestrictions": "No",
