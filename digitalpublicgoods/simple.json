@@ -1,0 +1,68 @@
+{
+  "name": "Simple",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.simple.org/license/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Data privacy laws in India, Bangladesh, and Ethiopia"
+    ],
+    "adherenceSteps": [
+      "Legal review by internal and local counsel"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "HL7 FHIR"
+    ],
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Patient names, sex, phone numbers, addresses",
+        "Longitudinal records of BPs, blood sugars, medications",
+        "Record of location and dates of treatment"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All data is owned by local Ministries of Health. No data is shared. https://www.simple.org/simple-privacy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "SMS and Whatsapp reminders to patients to return to care.",
+      "contentFilter": "No",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Not applicable. All content is created internally."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "India",
+      "Ethiopia",
+      "Nigeria"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Bangladesh",
+      "Ethiopia"
+    ]
+  }
+}
