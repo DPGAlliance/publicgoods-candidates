@@ -1,0 +1,66 @@
+{
+  "name": "The Atlas of Economic Complexity",
+  "aliases": [
+    ""
+  ],
+  "description": "Harvard Growth Lab’s research and data visualization tool used to understand the economic dynamics and new growth opportunities for every country worldwide.",
+  "website": "https://atlas.cid.harvard.edu/",
+  "license": [
+    {
+      "spdx": "HPND",
+      "licenseURL": "https://github.com/IQSS/open-source-at-harvard/blob/master/github.tsv"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "For every country worldwide, it helps policy makers push growth to the bottom of the pyramid  by helping them understanding new growth opportunities using trade data.  ",
+      "evidenceURL": "https://atlas.cid.harvard.edu/explore"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The Atlas places the industrial capabilities and knowhow of a country at the heart of its growth prospects using trade data.",
+      "evidenceURL": "https://atlas.cid.harvard.edu/what-is-the-atlas"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "As part of their efforts, they also developed, country complexity ratings to help guide national industrial policy that shapes a country's cities.",
+      "evidenceURL": "https://atlas.cid.harvard.edu/rankings"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Helps policymakers understand growth projections for the next decade and how inequality between countries will unfold. ",
+      "evidenceURL": "https://atlas.cid.harvard.edu/growth-projections"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "The complexity ratings also reduce waste in commonly untargetable and unexplainable industrial policy that is wasteful of a country's resources. ",
+      "evidenceURL": "https://atlas.cid.harvard.edu/rankings"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "By supporting data-driven decision making, the institutional framework for industrial policy become less wasteful, and more objective, reducing the chance for corruption, and crony capitalism / regulatory capture. ",
+      "evidenceURL": "https://atlas.cid.harvard.edu/countries/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "With itself being a global partnership, between seven multi-stakeholders entities ranging from US Federal government, to private banks and even international organizations, it creates a solid foundation for global cooperation on leveraging trade data to support global policy.",
+      "evidenceURL": "https://atlas.cid.harvard.edu/media-outreach"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Harvard Center for International Developement ",
+      "website": "https://www.hks.harvard.edu/centers/cid",
+      "org_type": "owner",
+      "contact_name": "Carlos Carpi ( DO NOT REPRESENT them, just happy to triage)",
+      "contact_email": "carpi@fas.harvard.edu"
+    }
+  ],
+  "stage": "nominee"
+}
