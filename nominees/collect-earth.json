@@ -1,7 +1,7 @@
 {
   "name": "Collect Earth",
   "description": "Collect Earth is a tool that enables data collection through Augmented Visual Interpretation. In conjunction with Google Earth, Bing Maps and Google Earth Engine, users can analyze high and very high resolution satellite imagery for a wide variety of purposes, including,  Support multi-phase National Forest Inventories - Land Use, Land Use Change and Forestry (LULUCF) assessments - Monitoring agricultural land and urban areas - Validation of existing maps - Collection of spatially explicit socio-economic data - Quantifying deforestation, reforestation and desertification. Its user friendliness and smooth learning curve make it a perfect tool for performing fast, accurate and cost-effective assessments. It is highly customizable for the specific data collection needs and methodologies.",
-  "website": "http://www.openforis.org/tools/collect-earth.html",
+  "website": "https://www.openforis.org/tools/collect-earth.html",
   "license": [
     {
       "spdx": "MIT",
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": "FAO - Open Foris Initiative",
-      "website": "http://www.openforis.org/newwebsite/home.html",
+      "website": "https://www.openforis.org/newwebsite/home.html",
       "org_type": "owner"
     }
   ],
