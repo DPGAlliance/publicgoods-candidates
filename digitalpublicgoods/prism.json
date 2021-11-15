@@ -2,7 +2,7 @@
   "name": "PRISM",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://innovation.wfp.org/project/prism"
+    "copyrightURL": "https://wfp-vam.github.io/prism-frontend/about-prism/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
@@ -26,7 +26,7 @@
       ""
     ],
     "adherenceSteps": [
-      ""
+      "https://wfp-vam.github.io/prism-frontend/about-prism/"
     ]
   },
   "standards": {
