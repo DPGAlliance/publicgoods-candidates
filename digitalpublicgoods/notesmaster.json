@@ -67,7 +67,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "The project only requires a name and an email address or username if the person does not have an email. There is no validation of email required. No collection of date of birth, gender, or information on geographical location. This reduces any barriers for potential users to get started."
+      "privacySecurityDescription": "Security of your personal informatio: We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. \nYou acknowledge that the transmission of information over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.\n You are responsible for keeping your password and other login details confidential. We will not ask you for your password (except when you log in to the website)."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
