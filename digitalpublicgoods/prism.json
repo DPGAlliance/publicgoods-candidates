@@ -21,9 +21,9 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "GDPR"
     ],
     "adherenceSteps": [
       "https://wfp-vam.github.io/prism-frontend/about-prism/"
