@@ -1,0 +1,116 @@
+{
+  "name": "Accessible Kazakhstan",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://copyright.kazpatent.kz/?!.iD=qjZl"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "User guide - https://github.com/qlt2020/doskaz",
+      "Technology stack - https://github.com/qlt2020/doskaz",
+      "Contributing guide - https://github.com/qlt2020/doskaz",
+      "Architectural diagram - https://github.com/qlt2020/doskaz",
+      "Admin panel - https://github.com/qlt2020/doskaz/tree/main/adminpanel",
+      "Coding standards - https://github.com/qlt2020/doskaz/blob/main/Coding%20Standards.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The website employs such analytics tools as Google Analytics and Yandex.Metrica, which collect the following data: date and time of visit, amount of time spent, language used, browser, country, device used, etc. To export data, one can use ready-made reports that are created automatically and download files in .xlsx and .pdf format from the Google Analytics / Yandex.Metrica personal account, which are available only to the administrator of the “Accessible Kazakhstan” website."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "When working with personal data of users, our project abides by the following laws:",
+      "The Law of the Republic of Kazakhstan dated 21 May, 2013 No. 94-V 'On Personal Data and their Protection'.",
+      "The Constitution of the Republic of Kazakhstan, dated 30 August 1995, which declares that everyone has the right to privacy and protection of private and family secrets.",
+      "The Law 'On Informatisation', dated 24 November 2015, which provides for the measures to prevent illegal access to digital information.",
+      "'On approval of the Regulations for the collection, processing of personal data', Order of the Minister of Digital Development, Innovation and Aerospace Industry of the Republic of Kazakhstan dated October 21, 2020 No. 395 / НҚ."
+    ],
+    "adherenceSteps": [
+      "To collect personal data, we ask the user for consent to collection and processing of his or her personal data during registration / authorization. If the user logs in or registers on the website, one automatically consents to the data collection and processing. When registering, we exercise the user’s right to know about the purposes of collection, methods and terms of processing personal information by means of giving a user the opportunity to familiarize oneself with our Privacy policy and Terms of service. We ensure confidentiality of user personal data by complying with the requirement to prevent their dissemination without the user’s consent or another legal basis. Additionally, the administrator revises the privacy policy on a monthly basis and, if necessary, supplements it. To prevent unauthorized access to data, we take legal and technical measures to protect the information system.  Legal measures include an agreement on the confidentiality of personal data concluded by the owner of the information system, which establishes the conditions for work, access and use of personal data, as well as responsibility for their violation. Technical measures include the use of information security tools: An SSL certificate is connected to our website. It guarantees a secure connection between the user's browser and the server. When using the SSL protocol, information is transmitted in encrypted form via HTTPS and can only be decrypted using a special key, unlike the usual HTTP protocol. For authorization via social networks, the OAuth2 standard is used as a special means of protecting accounts. Access right: this includes assignment of the roles for “administrator” and “user” and the ability to gain access to the users’ personal data only by logging into the system using the password for the administrator account.",
+      "The privacy policy: https://doskaz.kz/privacy_policy.pdf",
+      "The terms of service: https://doskaz.kz/terms-of-service.pdf",
+      "The agreement on the confidentiality of personal data: https://doskaz.kz/privacy_agreement.pdf "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "W3C",
+      "HTML",
+      "CSS",
+      "ECMAScript/ JavaScript",
+      "REST",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/qlt2020/doskaz/blob/main/Coding%20Standards.pdf",
+      "https://github.com/qlt2020/doskaz/tree/main/frontend",
+      "https://github.com/qlt2020/doskaz/tree/main/backend"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "“Accessible Kazakhstan” was developed in conformity with the Principles for Digital Development. This is reflected in the fact that the project served as an innovative solution for people with disabilities: there were no such maps in the country before, and now the population has an opportunity to independently evaluate how accessible a particular facility is and add it to the map. It is also worth noting the unique online course available on the website, which acts as a practical tool for creating and developing safe and comfortable settlements. The project proved its sustainability in the long term: it was originally made for only one city, and then expanded and grew into a map for the whole republic. The next step is obtaining a status of Digital Public Good as a pathfinding pilot project run by UNICEF in Kazakhstan. As a potential future direction of development, we consider using artificial intelligence in the information system. In addition to cooperation with UNICEF, close interaction with site users and recipients of the benefits should be noted: the ability to supplement and amend the map is open to all registered users. Thus, the project encourages the activity of civil society and increases the level of individual responsibility for accessible, safe and comfortable public space. We take into account suggestions from users to improve the map (regarding the interface, new additional functions and sections on the site, etc.). A version of the website for people with low vision is also available."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "- Demonstrating the level of accessibility of public facilities, one should take into account that, for example, a person in a wheelchair can not enter a cafe without a ramp, but a person with low vision can. In order to personalize the map for each user, we collect data related to the health conditions of users. Such data is considered particularly sensitive and therefore requires additional protection. To prevent unauthorized access, we use the technical and legal means of data protection described in sections 7 and 9a. \n- We also strive to ensure that the information posted on the website is accurate and up-to-date, whether it is a description of accessibility of facilities, or published normative legal acts regarding creation of a barrier-free environment. However, we understand that there is a risk of misinformation due to the fact that occasionally legal acts are amended, and public facilities may eventually be rebuilt, closed or renovated. \n -In this regard, firstly, the administrator of the website monitors the legislation for changes once a month and, if necessary, updates the normative legal acts on the portal of 'Accessible Kazakhstan'. \n- Secondly, we have provided for users a function “Confirm data about facility”. If the state of a facility does not match its description on our platform, users can leave feedback and indicate what the discrepancy is. After the administrator gets acquainted with the provided information about the state of the facility, compares the description of accessibility with the provided photos and/ or videos, the updated and / or supplemented version of the facility card will appear in the system. Users can also confirm the description of the facility if they believe that all the information about it is filled in correctly. \n -Thirdly, disclaimers can be found on the platform that we do not give any guarantee regarding the accuracy of information about facilities displayed on the map and we are not responsible for this. We also warn users that normative legal acts are often edited, and we ask the users to check whether the acts remain valid by means of searching them on the information and legal system of normative legal acts of the Republic of Kazakhstan “Adilet” or in the information system “PARAGRAPH”."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Full name",
+        "Email",
+        "Phone number",
+        "Gender",
+        "Health data",
+        "Region of residence"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We collect and use personal data solely for the purposes specified in the privacy policy: to combat spam and protect the users against harassment and hate speech, as well as to keep in touch with the users, in particular to send notifications, requests, responses regarding usage of the portal, provision of services, processing of requests and applications from the users. \nWe restrict access to personal information to our employees, contractors and agents. Personal data of users is accumulated on the admin panel in the “Users” tab, which only the administrator and programmer have access to. We impose contractual obligations on the administrator: the Agreement on the confidentiality of personal data signed by the administrator states that for violation of confidentiality of personal data, the administrator undertakes to compensate the losses incurred by the subject of personal data in connection with dissemination of personal data, in accordance with the current legislation of the Republic of Kazakhstan. Similar agreements will be signed with all employees who have access to personal data of users. \nIn addition, we employ technical means of data protection (connecting an SSL certificate, using the OAuth2 standard, access right) mentioned in section 7. \nWe do not allow making user data publicly available and post data about regional coordinators (their names, phones, cities of residence and emails) only with their consent. Additionally, we can destroy the personal data immediately upon the first demand of a user."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "- Text information, photos, videos that describe public facilities \n - Cards (passports) of facilities with their address, category and all information about accessibility of a facility: extent to which it meets criteria for accessibility in terms of compliance with the standards of entrance space arrangement, parameters of path of motion inside the facility and availability of parking spaces for people with disabilities; a description of service area, availability of an equipped toilet and navigation elements, and a conclusion of accessibility and safety of the facility for people with disabilities and children under 7 years old; \n - Online training courses and webinars on topics related to integration of people with disabilities into society; \n -Video reviews on availability of particular public facilities; \n -Selection of normative legal acts a) in the field of social protection of the disabiled; b) directly or indirectly related to creation of a barrier-free environment for people with disabilities, as well as information on the types of social assistance and social support provided by the state; \n- Articles (news about the project, character sketches, comments of the officials about the project).",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "We have developed Community Guidelines that determine what we allow and what we prohibit to post on the website of “Accessible Kazakhstan”. \nWhen a user wants to post information on a new facility on the map, or to supplement or update an existing card (passport) of a facility, all new materials are submitted to the administrator, who, within 24 hours, carefully examines if the information received contains inappropriate or illegal content. During inspection, the administrator checks it against the Community Guidelines, and if requirements for content are violated, it shall not be published. \nThe portal has a functionality that allows the users to submit a complaint. If a user discovers content that does not comply with the Community guidelines, one can report it in the call center, by mail or by leaving a message in the “Contacts” section. During 24 hours, the administrator analyzes the content against which a complaint was received, and, based on the Community guidelines, determines whether the content is in fact inappropriate. If it is recognized to be inappropriate, the administrator is obliged to remove the content."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The administrator subjects comments and content to a thorough analysis for compliance with the Community guidelines, and also revises all received complaints regarding content and comments. According to the Community guidelines, if content that violates the rights of minors or that may harm the emotional or physical health of children (representing minors in a sexual context, depicting harmful or dangerous actions involving minors, as well as violence against children and images of a naked child’s body) is detected, it will not be published and comments of this kind will be deleted.",
+        "If we think a child is in danger based on reported content, we will assist law enforcement to investigate the violation.",
+        "Whenever we become aware of an apparent child sexual abuse, we report it to the “Union of Crisis Centers” on hotline 150 or to the “Emergency Service 111” contact center."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The administrator monitors comments on a regular basis. Spam, identical or duplicate comments and comments, the content of which is inappropriate (for a more complete description, see the Community guidelines), shall be deleted. Also, users themselves can submit a complaint about such comments in the manner described above."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kazakhstan"
+    ],
+    "deploymentCountries": [
+      "Kazakhstan"
+    ]
+  }
+}
