@@ -1,22 +1,42 @@
 {
   "name": "Project Simoy",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Unknown"
+    "isDocumentationAvailable": "Unknown",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown"
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development",
@@ -25,16 +45,39 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown"
+      "collectsPII": "Unknown",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
