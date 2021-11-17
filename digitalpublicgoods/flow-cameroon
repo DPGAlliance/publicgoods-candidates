@@ -5,8 +5,8 @@
     "copyrightURL": "https://github.com/Idadelveloper/Flow/blob/main/README.md"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
     
   },
