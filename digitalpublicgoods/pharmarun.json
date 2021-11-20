@@ -1,0 +1,65 @@
+{
+  "name": "PHARMARUN",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "SUPPLEMENTARY ACT A1SA.1f01f10 ON PERSONAL DATA PROTECTION WITHIN ECOWAS"
+    ],
+    "adherenceSteps": [
+      "Personal Identification Information: ‍We may collect personal identification from users in a variety of ways, including, but not limited to, when Users visit our site to register on the site, subscribe to the portal service, fill out a form, and in connection with other activities, services, features or resources we make available on our site. The following details may be required from users as appropriate; name, email address, and phone number. Users may, however, visit our site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification details, only that it may preclude them from engaging in certain site related activities.  ‍Non-Personal Identification Information: ‍We may collect non-personal identification about Users in the course of their interaction with our site. Non-personal identification information about users means of connection to our site, such as the operating system and the Internet Service Providers utilized and other similar information."
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "1.Design With the User  2.Understand the Existing system  3.Scalability  4.Build for Sustainability  5.Data Driven principles  6.Use Open Standards, Open Data, Open Source  7.Be able to Reuse and Improve  8.Privacy & Security is addressed  9.To be Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Names, National Identification Number, Age, Bank Details , Phone Numbers"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "MFA (Multi Factor Authentication) for 2 step verification, Encrypted Bank Details and payment channes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Inventory of Health centers, Pharmacies",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "By using NIN, numbers, underaged users cannot access this platform or complete registration. Using account details that match Username."
+      ],
+      "harassmentProtectionSteps": [
+        "Authentication protocols, Identity to prevent multiple accounts,  History to prevent buying more than what is required to avoid abuse or overdose"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Nigeria"
+    ],
+    "deploymentCountries": [
+      "Nigeria"
+    ]
+  }
+}
