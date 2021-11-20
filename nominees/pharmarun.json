@@ -1,0 +1,46 @@
+{
+  "name": "PHARMARUN",
+  "aliases": [
+    "N/A"
+  ],
+  "description": "Health innovation to provide easy access to Non-Prescription drugs as well as make request to get a vaccination using AI to locate nearest pharmacy and vaccination centers while also monitoring the usage of  drugs and vaccination",
+  "website": "http://pharmarun.phiser.com.ng",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://opensource.org/licenses/Apache-2.0"
+    },
+    {
+      "spdx": "Python-2.0",
+      "licenseURL": "https://opensource.org/licenses/Python-2.0"
+    },
+    {
+      "spdx": "PHP-3.01",
+      "licenseURL": "https://opensource.org/licenses/PHP-3.01"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This platform creates easy access to basic health needs by allowing provision of non-prescription drugs and vaccines especially in rural areas where there is uneasy access",
+      "evidenceURL": "http://pharmarun.phiser.com.ng"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "aimodel"
+  ],
+  "repositoryURL": "https://github.com/DPGAlliance/DPG-Standard/search?q=repository",
+  "organizations": [
+    {
+      "name": "PHISER ENGINEERING & SOLUTIONS LTD",
+      "website": "http://www.phiser.com.ng",
+      "org_type": "owner",
+      "contact_name": "Ibitayo Taiwo",
+      "contact_email": "tayo.taiwo@phiser.com.ng, pharmarun@phiser.com.ng"
+    }
+  ],
+  "stage": "nominee"
+}
