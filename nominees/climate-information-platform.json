@@ -13,10 +13,6 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 13,
-      "evidenceText": "Scientific basis of weather and water information to reach sub goal 13.1:  Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries."
-    },
-    {
       "SDGNumber": 1,
       "evidenceText": "Scientific basis of weather and water information to reach sub goal 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters."
     },
@@ -45,19 +41,25 @@
       "evidenceText": "Scientific basis of weather and water information to reach sub goal 11.5:  By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations."
     },
     {
+      "SDGNumber": 12,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal  12.2:  By 2030, achieve the sustainable management and efficient use of natural resources. "
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 13.1:  Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries."
+    },
+    {
       "SDGNumber": 15,
       "evidenceText": "Scientific basis of weather and water information to reach sub goal 15.1: By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements."
     },
     {
       "SDGNumber": 17,
       "evidenceText": "Scientific basis of weather and water information to reach sub goal 17.6: Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism."
-    },
-    {
-      "SDGNumber": 12,
-      "evidenceText": "Scientific basis of weather and water information to reach sub goal  12.2:  By 2030, achieve the sustainable management and efficient use of natural resources. "
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate"
+  ],
   "type": [
     "data",
     "content"
