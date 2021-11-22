@@ -46,8 +46,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "With OpenFisca, you can run a simulation on a single situation or on a whole population. OpenFisca doesn’t provide any data, the data you need depends on what you’re trying to calculate."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
