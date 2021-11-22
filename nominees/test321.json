@@ -1,0 +1,35 @@
+{
+  "name": "Test321",
+  "aliases": [
+    "Test123"
+  ],
+  "description": "Testing",
+  "website": "https://github.com/unicef/publicgoods-candidates/pulls",
+  "license": [
+    {
+      "spdx": "0BSD",
+      "licenseURL": "https://github.com/unicef/publicgoods-candidates/pulls"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://github.com/unicef/publicgoods-candidates/pulls"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Nathan Foundation",
+      "website": "https://github.com/unicef/publicgoods-candidates/pulls",
+      "org_type": "maintainer",
+      "contact_name": "Nathan",
+      "contact_email": "nathan@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
