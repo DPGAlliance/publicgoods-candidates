@@ -5,20 +5,20 @@
     "copyrightURL": "http://docs.openreferral.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "Open Referral's products are all open source. "
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "http://docs.openreferral.org/ "
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "This project deals with public information (about services) and our main product is a non-proprietary data exchange format. Our main product is the format, and associated tools that help people standardize their directory data and  share it in new ways. We don't have a single software system, we help establish standards, interoperability, and cooperative partnerships among existing systems using these nonproprietary tools. "
   },
   "privacy": {
     "isPrivacyCompliant": "Unknown",
@@ -45,7 +45,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "Our work is guided through active engagement with stakeholders – ultimately people in need (help-seekers), though primarily service providers  who are in a position to help help-seekers. We engage with such stakeholders through each phase of our participatory design and development processes."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Our project only works with  public information about the health, human, and social services available to people in need. Personal, private information is not within our scope."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
