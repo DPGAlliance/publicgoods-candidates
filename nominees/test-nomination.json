@@ -1,0 +1,36 @@
+{
+  "name": "Test nomination",
+  "aliases": [
+    "Test"
+  ],
+  "description": "This is a test project by Nathan to see if his localhost implementation works",
+  "website": "http://testnomination.com",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "http://testnomination.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "test",
+      "evidenceURL": "http://testnomination.com"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Nominee org",
+      "website": "http://testnomination.com",
+      "org_type": "maintainer",
+      "contact_name": "Nathan",
+      "contact_email": "nominee@email.com"
+    }
+  ],
+  "stage": "nominee"
+}
