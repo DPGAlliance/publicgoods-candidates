@@ -63,6 +63,7 @@
       "collectStoreDistribute": "Yes",
       "type": "Climate indicators of weather and water data.",
       "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "Not possible to upload content. Only possible to fill in a form and download data."
     },
