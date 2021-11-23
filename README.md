@@ -5,9 +5,10 @@
 
 Welcome! 👋 &nbsp;We are glad that you have found this repo and are interested in Digital Public Goods, and using technology to make this world  a more just and equitable one. We are in this together: the more, the greater impact!
 
-We define digital public goods as *open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of [the UN’s 2030 Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)*. This repository is used to manage the process of adding nominees for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). This is one of four interconnected repositories; refer to the [publicgoods-website](https://github.com/unicef/publicgoods-website) for an overview.
+We define digital public goods as *open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of [the UN’s 2030 Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)*. This repository is used to manage the process of adding nominees for consideration as [Digital Global Public Goods](https://digitalpublicgoods.net/public-goods/). Refer to the [overview](docs/overview.md) for a high-level description of the various tools and processes related to digital public goods.
 
-From the set of data files found in the `nominees/` folder, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
+
+From the set of data files found in the [nominees](nominees/) and [digitalpublicgoods](digitalpublicgoods/) folders, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
 
 ## 🙋🏽 How to nominate a Digital Public Good
 
