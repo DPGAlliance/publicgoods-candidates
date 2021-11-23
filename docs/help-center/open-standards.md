@@ -7,12 +7,20 @@ Open standards establish protocols and building blocks that can help make digita
 #### Security
 * PKI
 * HTTPS
-* JWT
 * SSL
-* Kerberos (Secure Authentication)
-* LDAP (Authorization)
 * SSH
 * GPG
+* RS256
+* HS256
+* AES
+* ES256
+
+#### Authentication & Authorization
+* OAuth 2
+* [OIDC](https://openid.net/connect/) (OpenID Connect)
+* JWT (JSON Web Tokens)
+* SAML (Security Assertion Markup Language)
+* XACML 3.0 (eXtensible Access Control Markup Language)
 
 #### Internationalization (i18n)
 * UTF-8
@@ -25,12 +33,32 @@ Open standards establish protocols and building blocks that can help make digita
 * ECMAScript (ES 5/6/7)
 * Latex
 
+#### Software Architectural Styles
+* REST (Representational State Transfer)
+
+#### Application Programming Interfaces (APIs)
+* OpenAPI
+
 #### Data Exchange formats 
 * JSON (JavaScript Object Notation)
 * XML (Extensible Markup Language)
 * CSV (Comma Separated Values)
 * TIFF
 * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+
+#### Software Quality Assurance
+* IEEE
+* ISO/IEC
+
+#### Software Testing 
+* IEEE829
+* ISO/IEC/IEEE29119
+
+#### Business Process Modelling
+* [BPMN 2.0](https://www.omg.org/spec/BPMN/2.0/)
+
+#### Credentialing
+* [W3C VC](https://www.w3.org/TR/vc-data-model/)
 
 #### Standard Content formats
 * PDF

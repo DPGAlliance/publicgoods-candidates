@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Yes, the evidence provided support the claim as it can be seen from their LinkedIn page ",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "user": "olasunkanmimariam",
+  "timestamp": 1634245323,
+  "timeTaken": 1164
+}
