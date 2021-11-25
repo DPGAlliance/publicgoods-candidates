@@ -1,0 +1,43 @@
+{
+  "name": "GNU Health",
+  "aliases": [
+    "HMIS, ERP, MyGNUHealth, GNU Health Federation"
+  ],
+  "description": "GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. ",
+  "website": "https://www.gnuhealth.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://spdx.org/licenses/GPL-3.0-or-later.html"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "GNU Health ecosystem contains a Hospital management and information system, a Personal Health Record and a federation server to interconnect user and health institutions",
+      "evidenceURL": "http://www.GNUHealth.org"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "GNU Health has modules to track housing and living conditions of individuals and families. This can be interlinked to an injury surveillance system, GPS-mapped and vizualized with openStreetmap ",
+      "evidenceURL": "http://www.GNUHealth.org"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "standard"
+  ],
+  "repositoryURL": "https://savannah.gnu.org/hg/?group=health",
+  "organizations": [
+    {
+      "name": "GNUSolidario",
+      "website": "http://www.gnusolidario.org",
+      "org_type": "owner",
+      "contact_name": "Selene Cordara",
+      "contact_email": "scordara@gnusolidario.org"
+    }
+  ],
+  "stage": "nominee"
+}
