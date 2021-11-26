@@ -23,26 +23,33 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The user is responsible to abide by the national rules where the software is installed. Open Foris is developed within FAO (a UN organization) so we are not covered by national laws."
     ],
     "adherenceSteps": [
-      ""
+      "Open Foris is developed within FAO (a UN organization) so we are not covered by national laws."
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Security - HTTPS (Ready/depends on environment where Collect is installed)",
+      "Internationalization (i18n) - UTF-8",
+      "Web standards - HTML, CSS, JavaScript (ECMAScript)",
+      "Software Architectural Styles - REST (Representational State Transfer)",
+      "Data Exchange formats - JSON (JavaScript Object Notation), XML (Extensible Markup Language), CSV (Comma Separated Values)",
+      "Multimedia - PNG (Portable Network Graphics), JPEG (Joint Photographic Experts Group), Ogg MP3 (Moving Picture Experts Group: Audio Layer III), FLAC (Free Lossless Audio Codec), H.264 (H.264/MPEG-4 AVC), AAC (Advanced Audio Coding), MP4 (MPEG-4 Part 14)"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/openforis/collect"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Unit and integration testing",
-      "Design patterns such as Model View Controller (MVC)."
+      "Software Engineering - Agile development, Test driven development, Rapid application development",
+      "Architectural Design - Modularity and Maintainability, Reusability and Extensibility, Security & Consented Access, Universal Access & Open APIs",
+      "UI/UX - Material Design",
+      "Best practices to help secure your IT resources: Enable resource access authorization i.e. access control rights/ permissions; Protect data in transit (SSL used depending on the instance where Open Foris Collect is installed)"
     ]
   },
   "doNoHarm": {
@@ -60,7 +67,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The data collected is stored in a database that is the responsibility of the user that installs Collect. \nCollect uses a user-management procedure to assign passwords as well as user groups to access specific segments of the data."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -71,7 +78,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
@@ -84,10 +91,33 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Italy"
     ],
     "deploymentCountries": [
-      ""
+      "Tanzania",
+      "Sudan",
+      "Ethiopia",
+      "Morocco",
+      "South Africa",
+      "Uruguay",
+      "Belize",
+      "United States of America",
+      "Mexico",
+      "Chile",
+      "Costa Rica",
+      "Peru",
+      "Ecuador",
+      "Argentina",
+      "Turkey",
+      "Bangladesh",
+      "Bhutan",
+      "VietNam",
+      "Cambodia",
+      "Myanmar",
+      "Indonesia",
+      "Switzerland",
+      "Finland",
+      "Norway"
     ]
   }
 }
