@@ -57,7 +57,7 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "https://climateinformation.org/contact/with improvement ideas, error reports etc. They enter name and e-mail so that the CIP team can respond. The contact form sends an e-mail to SMHI. This is the only personal data handled through climateinformation.org."
+        "https://climateinformation.org/contact/ with improvement ideas, error reports etc. They enter name and e-mail so that the CIP team can respond. The contact form sends an e-mail to SMHI. This is the only personal data handled through climateinformation.org."
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
