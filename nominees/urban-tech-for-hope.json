@@ -1,0 +1,52 @@
+{
+  "name": "Urban Tech For Hope",
+  "aliases": [
+    "m-kliniki"
+  ],
+  "description": "Using Digital Platforms to provide access to Urgent and primary holistic Health needs to beneficiaries across Kenya and Ethiopia.",
+  "website": "https://www.urbantechforhope.com/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-1.0",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.otemainc.m_kliniki"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We provide holistic access to Urgent and Primary Health needs of our beneficiaries.",
+      "evidenceURL": "https://www.urbantechforhope.com/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "We've created tried and tested Digital Platforms that incorporate; Artificial Intelligence(Machine Learning based, Arc GIS, and DHIS2 software core. ",
+      "evidenceURL": "https://app.engati.com/static/standalone/bot.html?bot_key=305aa4e5edf347f7&env=p"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Through our app we propose and provide solutions that close the gap Inequalities in our societies today.",
+      "evidenceURL": "https://app.engati.com/static/standalone/bot.html?bot_key=305aa4e5edf347f7&env=p"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "The success of our Digital Platforms is through the partnerships of stakeholders in the same space who are also part of the beneficiaries we serve with the quality and reliable data.",
+      "evidenceURL": "https://www.urbantechforhope.com/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositoryURL": "https://play.google.com/store/apps/details?id=com.otemainc.m_kliniki",
+  "organizations": [
+    {
+      "name": "Urban Tech For Hope",
+      "website": "https://www.urbantechforhope.com/",
+      "org_type": "owner",
+      "contact_name": "Joel Alex Olang",
+      "contact_email": "joelalex@urbantechforhope.com"
+    }
+  ],
+  "stage": "nominee"
+}
