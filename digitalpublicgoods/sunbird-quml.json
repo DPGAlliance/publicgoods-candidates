@@ -1,0 +1,41 @@
+{
+  "name": "Sunbird QuML",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://sunbird.org/software-license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "OpenWeb Standard such as - HTML, CSS, JavaScript, LaTeX,  Educational Specifications such as IEEE Learning Object Model, QTI (Question & Test Interoperability)"
+    ],
+    "evidenceStandardSupport": [],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": []
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ]
+  }
+}
