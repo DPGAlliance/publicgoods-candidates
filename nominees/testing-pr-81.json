@@ -1,0 +1,42 @@
+{
+  "name": "Testing PR #81",
+  "aliases": [
+    "Test"
+  ],
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel euismod felis. Praesent hendrerit, libero in feugiat rutrum, mauris augue posuere nibh, sodales lacinia ex felis ac odio. Nulla ligula eros, pulvinar ut bibendum a, finibus ac urna. Nam scelerisque ac sem eu aliquet. Vestibulum aliquet sagittis justo et cursus. Proin iaculis velit vitae varius consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi imperdiet vehicula ex, eu fringilla magna vulputate imperdiet. Proin feugiat nunc ut est semper, vitae bibendum turpis rutrum. Nulla nec ultrices enim, ac semper sapien. Nam id nisi dolor. Quisque a orci nec massa tincidunt dignissim. ",
+  "website": "http://test.site",
+  "license": [
+    {
+      "spdx": "AFL-3.0",
+      "licenseURL": "http://test.site"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "http://test.site"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "http://test.site"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "asdfasdf"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Test User",
+      "website": "http://test.site",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}
