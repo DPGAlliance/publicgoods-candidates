@@ -8,32 +8,34 @@
     "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
-    
   },
   "documentation": {
-    "isDocumentationAvailable": "Yes",
+    "isDocumentationAvailable": "No",
     "documentationURL": [
       "https://github.com/Idadelveloper/Flow/blob/main/README.md"
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "There is no legislation for data protection in Cameroon. Here is our privacy policy: https://dscuba2020.github.io/projects/flow-website/privacy%20policy.html"
     ],
     "adherenceSteps": [
       ""
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Data Exchange formats - JSON",
+      "Web standards - HTML, CSS, ECMAScript",
+      "Internationalization (i18n) - UTF-8",
+      "Authentication & Authorization - OAuth 2, OpenID Connect"
     ],
     "evidenceStandardSupport": [
       ""
@@ -46,7 +48,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "- Locations are being verified by a team of competent individuals who would make sure there isn’t any form of misdirection or false information. \n- We use Firebase by Google to store relevant information about a particular water source. And we trust that Firebase’s security standards are high enough for us not to worry about security vulnerabilities"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
