@@ -1,0 +1,84 @@
+{
+  "name": "Testing PR #81",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://test.site"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Suspendisse in mi ut urna molestie faucibus. Vestibulum ac metus in purus gravida consequat at sit amet lorem. Integer lectus magna, tincidunt id orci vel, congue eleifend eros. Aliquam non odio id felis fermentum blandit a vitae enim.",
+      "Suspendisse in mi ut urna molestie faucibus. Vestibulum ac metus in purus gravida consequat at sit amet lorem. Integer lectus magna, tincidunt id orci vel, congue eleifend eros. Aliquam non odio id felis fermentum blandit a vitae enim."
+    ],
+    "adherenceSteps": [
+      "Suspendisse in mi ut urna molestie faucibus. Vestibulum ac metus in purus gravida consequat at sit amet lorem. Integer lectus magna, tincidunt id orci vel, congue eleifend eros. Aliquam non odio id felis fermentum blandit a vitae enim.",
+      "Suspendisse in mi ut urna molestie faucibus. Vestibulum ac metus in purus gravida consequat at sit amet lorem. Integer lectus magna, tincidunt id orci vel, congue eleifend eros. Aliquam non odio id felis fermentum blandit a vitae enim."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      " Nunc pretium, nibh vel sollicitudin rhoncus, neque sem aliquet lectus, a volutpat arcu diam non tortor. Praesent vitae lorem vulputate, efficitur nibh a, cursus leo. Ut vestibulum tincidunt neque, non ornare magna interdum id. Sed rhoncus tincidunt porta. Maecenas et magna ",
+      " Nunc pretium, nibh vel sollicitudin rhoncus, neque sem aliquet lectus, a volutpat arcu diam non tortor. Praesent vitae lorem vulputate, efficitur nibh a, cursus leo. Ut vestibulum tincidunt neque, non ornare magna interdum id. Sed rhoncus tincidunt porta. Maecenas et magna "
+    ],
+    "evidenceStandardSupport": [
+      "http://test.com"
+    ],
+    "bestPracticesList": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "First name",
+        "phone number"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Nunc facilisis tempus leo, eget facilisis nisi finibus non. Proin quis magna cursus, blandit tortor a, dictum massa. Morbi ligula purus, laoreet et eleifend id, vehicula semper erat. Nulla molestie, tellus nec auctor viverra, ligula nisi congue erat, finibus vulputate velit ex malesuada mauris. In malesuada, lacus at molestie dignissim, libero dui efficitur nibh, a ullamcorper nulla justo ut tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam sem ante, semper vel nibh ut, fringilla rhoncus massa. Morbi id justo elementum dolor semper aliquet nec eu erat."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Videos",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "http://test.com",
+      "illegalContentDetectionMechanism": "adsfasdfasdf"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Accounts are password protected",
+        "2 step authenticatoin"
+      ],
+      "harassmentProtectionSteps": [
+        "Security email sent every week",
+        "Montly security checkup"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Armenia",
+      "Armenia",
+      "Algeria",
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Algeria"
+    ]
+  }
+}
