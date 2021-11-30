@@ -1,7 +1,8 @@
 {
   "name": "Sunbird QuML",
   "aliases": [
-    "QuML"
+    "QuML",
+    "SB-QuML"
   ],
   "description": "Question Markup Language (QuML in short) is a specification for representation, storage, rendering and distribution of any type of “Questions” and “Question Sets”. Wherever a question can be used (assessments, practice, quizzes, surveys, feedbacks, polls, etc) across any domain, it can be represented within QuML as a structured markup. QuML enables interoperability between various systems by making them portable and markup driven. It can be used in learning and capacity building contexts.",
   "website": "https://quml.sunbird.org",
