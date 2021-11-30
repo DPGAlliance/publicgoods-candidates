@@ -2,39 +2,103 @@
   "name": "Sunbird QuML",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://sunbird.org/software-license"
+    "copyrightURL": "https://github.com/sunbird-specs/QuML/blob/master/LICENSE"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://quml.sunbird.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "OpenWeb Standard such as - HTML, CSS, JavaScript, LaTeX,  Educational Specifications such as IEEE Learning Object Model, QTI (Question & Test Interoperability)"
+      "OpenWeb Standard such as - HTML, CSS, JavaScript, LaTeX",
+      "Educational Specifications such as IEEE Learning Object Model, QTI (Question & Test Interoperability)"
     ],
-    "evidenceStandardSupport": [],
+    "evidenceStandardSupport": [
+      "Most of the standards are underlying technological standards which are inherently supported within the QuML specifications - https://github.com/sunbird-specs/QuML"
+    ],
     "implementBestPractices": "Yes",
-    "bestPracticesList": []
+    "bestPracticesList": [
+      "Unified and not Uniform",
+      "Embrace Diversity",
+      "Unbundle for reusability",
+      "Replaceability",
+      "Interoperability",
+      "Configurability",
+      "Scalable",
+      "Observability",
+      "Resilience",
+      "Privacy & Security by design",
+      "Trust by design",
+      "Leverage commoditization, adopt heterogeneity",
+      "Adopt open standards and open source",
+      "Adopt extreme automation",
+      "Reference - https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
     "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
       "India"
     ]
   }
