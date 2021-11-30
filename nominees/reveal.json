@@ -1,0 +1,35 @@
+{
+  "name": "Reveal",
+  "aliases": [
+    ""
+  ],
+  "description": "Reveal is an open-source platform that enables country governments and implementing partners to use geospatial data and technology to efficiently and effectively deliver life-saving interventions.",
+  "website": "https://revealprecision.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/revealprecision"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Reveal is an open-source platform that supports the delivery of health intervention campaigns through real-time alignment of geospatial targets with health service field operations. Reveal combines a web-based tool that facilitates detailed planning by field managers, and a mobile tool that guides front-line health workers through highly interactive, self-navigating digital maps down to the household level. Reveal has been developed alongside country governments and implementing partners across ~10 countries to support public health interventions such as indoor residual spraying (IRS) for malaria, mass drug administration (MDA) for neglected tropical diseases, and routine childhood vaccination campaigns for vaccine-preventable diseases."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/revealprecision",
+  "organizations": [
+    {
+      "name": "Akros",
+      "website": "https://akros.com",
+      "org_type": "owner",
+      "contact_name": "Anna Winters",
+      "contact_email": "awinters@akros.com"
+    }
+  ],
+  "stage": "nominee"
+}
