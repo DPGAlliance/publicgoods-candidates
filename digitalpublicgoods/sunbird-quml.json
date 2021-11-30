@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "No",
     "privacyComplianceList": [
-      ""
+      "Not Applicable"
     ],
     "adherenceSteps": [
-      ""
+      "QuML (Question Markup Language) is a markup structure to represent any kind of question for various use-cases. Privacy is not relevant in this case as it doesn't deal with any transaction or user data. QuML is a specification for storage, representation, and distribution. It allows interoperability between systems. "
     ]
   },
   "standards": {
