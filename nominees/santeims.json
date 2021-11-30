@@ -35,7 +35,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/santedb/santedb-server/blob/master/LICENSE",
+  "repositoryURL": "https://github.com/santedb/santedb-server",
   "organizations": [
     {
       "name": "SantéSuite Inc.",
