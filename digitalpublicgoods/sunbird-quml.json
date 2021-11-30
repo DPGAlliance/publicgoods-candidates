@@ -59,8 +59,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird microservices are built such that every microservice captures every action and interaction on the platform naturally emits anonymized confidentiality protecting, privacy protecting data stream, automatically, and accumulated through the Sunbird telemetry infrastructure, so that extraction of data is avoided."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -72,7 +72,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Sunbird platform uses data minimalism and data protection architecture to achieve privacy and security by design."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
