@@ -14,10 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "OpenBoxes provides health organizations with a free logistics management solutions designed for use in developing countries."
+      "evidenceText": "OpenBoxes provides health organizations with a free logistics management solutions designed for use in developing countries.",
+      "evidenceURL": "https://www.pih.org/article/need-know-openboxes-and-supply-chain"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
