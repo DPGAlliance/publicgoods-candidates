@@ -14,10 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "Provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications. By allowing different applications to exchange information, it can act as a mechanism to encourage or enforce best practices, clinical guidelines, and policy, in cross-facility workflows and business processes in the health system."
+      "evidenceText": "Provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications. By allowing different applications to exchange information, it can act as a mechanism to encourage or enforce best practices, clinical guidelines, and policy, in cross-facility workflows and business processes in the health system.",
+      "evidenceURL": "https://www.moasis.org.mz/en/open-health-information-mediator-openhim-ready-orchestrate-2/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
