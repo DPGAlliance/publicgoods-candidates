@@ -17,6 +17,10 @@
       "evidenceURL": "http://www.fao.org/in-action/remote-sensing-for-water-productivity/overview/about-the-programme/en/"
     },
     {
+      "SDGNumber": 6,
+      "evidenceURL": "http://www.fao.org/in-action/remote-sensing-for-water-productivity/overview/about-the-programme/en/"
+    },
+    {
       "SDGNumber": 12,
       "evidenceURL": "http://www.fao.org/in-action/remote-sensing-for-water-productivity/overview/about-the-programme/en/"
     },
@@ -46,5 +50,5 @@
       "contact_email": "henry.burgsteden@fao.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
