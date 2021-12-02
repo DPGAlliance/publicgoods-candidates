@@ -1,0 +1,36 @@
+{
+  "name": "Statbus",
+  "aliases": [
+    "SBR"
+  ],
+  "description": "Statistical Business Register IT system",
+  "website": "https://statbus.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/statisticsnorway/statbus/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Business registers ensure better statistics, which is important for creating strong institutions",
+      "evidenceURL": "https://unstats.un.org/unsd/business-stat/SBR/index.cshtml"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/statisticsnorway/statbus",
+  "organizations": [
+    {
+      "name": "Statistics Norway",
+      "website": "https://www.ssb.no",
+      "org_type": "owner",
+      "contact_name": "Anne Abelsæth",
+      "contact_email": "Anne.Abelsaeth@ssb.no"
+    }
+  ],
+  "stage": "nominee"
+}

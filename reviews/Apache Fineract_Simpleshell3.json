@@ -1,0 +1,35 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "yes the link points correctly to Apache-2.0 license ",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": " It was the first project that was originally developed by a non-profit: Mifos Initiative. It was the first project with an extremely important social agenda in mind: speed up the elimination of poverty. It was the first project that fully embraced the next generation microservices architecture",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "e would not have been able to deliver these without the advantages of working together with others in the community, sharing experience, market knowledge and development capacity. The Fineract community is in a truly unique position to have access to hands-on knowledge of financial markets and products across almost all developing markets worldwide and to combine these into the platform",
+    "confidence": 2
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "The link describes how Apache committers and PMC members should handle source file licensing and copyright notices.",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "user": "Simpleshell3",
+  "timestamp": 1633989539,
+  "timeTaken": 591
+}
