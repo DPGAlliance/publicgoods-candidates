@@ -1,7 +1,8 @@
 {
   "name": "GNU Health",
   "aliases": [
-    "MyGNUHealth, GNU Health Federation"
+    "MyGNUHealth",
+    "GNU Health Federation"
   ],
   "description": "GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. ",
   "website": "https://www.gnuhealth.org",
@@ -23,11 +24,11 @@
       "evidenceURL": "http://www.GNUHealth.org"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
-    "software",
-    "data",
-    "standard"
+    "software"
   ],
   "repositoryURL": "https://savannah.gnu.org/hg/?group=health",
   "organizations": [
