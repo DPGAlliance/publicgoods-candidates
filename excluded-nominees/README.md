@@ -24,5 +24,6 @@ Frictionless Data | Nov 15th, 2021 |  No longer accepting open source tools that
 techsoup | Nov 9th, 2021 |  Provided vague SDG relevance
 Project Kick Out Covid-19 Infotech | Nov 15th, 2021 |  Missing open license
 The Atlas of Economic Complexity | Nov 15th, 2021 |  Missing open license
+Digital tool and adverse effects for immunization | Dec 2nd, 2021 |  Provided vague SDG relevance
 
 
