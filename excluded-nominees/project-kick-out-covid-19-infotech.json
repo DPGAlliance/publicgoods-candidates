@@ -1,0 +1,38 @@
+{
+  "name": "Project Kick Out Covid-19 Infotech",
+  "aliases": [
+    "Kick out Covid -19"
+  ],
+  "description": "Provision of information technology platform to dissemination of Covid-19 information, vaccination and prevention.",
+  "website": "https://suncocovid19info.wixsite.com/pandemic",
+  "license": [
+    {
+      "spdx": "AFL-3.0",
+      "licenseURL": "https://campus.cap-net.org/certificates/048985b1e6e448f6a5ebb727c6398c20"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "It provides information on Covid-19 pandemic, prevention and protection.",
+      "evidenceURL": "https://suncocovid19info.wixsite.com/pandemic"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "standard",
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Sunco Investment Namibia",
+      "website": "https://suncocovid19info.wixsite.com/pandemic",
+      "org_type": "owner",
+      "contact_name": "Sunny Okala",
+      "contact_email": "suncogroupnam@yahoo.com"
+    }
+  ],
+  "stage": "nominee"
+}
