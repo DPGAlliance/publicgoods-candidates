@@ -10,6 +10,10 @@
     {
       "spdx": "GPL-3.0",
       "licenseURL": "https://hg.savannah.gnu.org/hgweb/health/file/a6636ea6cbb0/COPYING"
+    },
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://en.wikibooks.org/wiki/GNU_Health"
     }
   ],
   "SDGs": [
@@ -28,7 +32,8 @@
     "Health"
   ],
   "type": [
-    "software"
+    "software",
+    "data"
   ],
   "repositoryURL": "https://savannah.gnu.org/hg/?group=health",
   "organizations": [
