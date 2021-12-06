@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/santedb/dev-doc/blob/master/LICENSE"
+      "licenseURL": "https://github.com/santedb/santedb-server/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -29,7 +29,7 @@
     "data",
     "standard"
   ],
-  "repositoryURL": "https://github.com/orgs/santedb/repositories",
+  "repositoryURL": "https://github.com/santedb/santedb-server/",
   "organizations": [
     {
       "name": "SanteSuite Inc.",
