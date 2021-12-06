@@ -23,11 +23,11 @@
       "evidenceURL": "https://7gm.asiaehealthinformationnetwork.org/exhibition-logo/santesuite-inc"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
-    "software",
-    "data",
-    "standard"
+    "software"
   ],
   "repositoryURL": "https://github.com/santedb/santedb-server/",
   "organizations": [
