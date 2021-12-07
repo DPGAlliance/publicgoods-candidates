@@ -34,11 +34,10 @@
     "supportStandards": "Yes",
     "standardsList": [
       "W3C Accessibility Standards",
-      "WCAG 2.1 standards",
-      "Creative Commons standards"
+      "WCAG 2.1 standards"
     ],
     "evidenceStandardSupport": [
-      "Please see reference to our Terms of Use which highlights our adherence to the Creative Commons Standards, as well as our adherence to the the Federal Children’s Online Privacy Protection Act of 1998 (“COPPA”) in the United States and the European Union’s General Data Protection Regulation (GDPR) of 2018: https://notesmaster.com/termsofuse"
+      "NotesMaster is adherent to the the Federal Children’s Online Privacy Protection Act of 1998 (“COPPA”) in the United States and the European Union’s General Data Protection Regulation (GDPR) of 2018: https://notesmaster.com/termsofuse"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
