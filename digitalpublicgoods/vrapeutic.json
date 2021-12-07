@@ -56,11 +56,21 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Neuro-markers such as impulsivity scores, attention performance indices, in addition to others."
+        "Personal information - name, password, email, phone (optional), payment information",
+        "Your apps, browsers and devices",
+        "Your activity - terms you search for, videos you watch , views and interactions with content, voice and audio information when you use audio features, purchase activity, people with whom you communicate or share content, activity on third-party sites and apps that use our services",
+        "Location information - GPS, IP address, sensor data from your device, information about the things near you such as WI-FI access points, cell towers, bluetooth-enabled devices",
+        "Neuro-markers such as impulsivity scores, attention performance indices"
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        "We do not share the performance data of the users with any third party other than the third party that we adopt for data storage which is Microsoft Azure. ِActually, we use Azure not just to store the users’ data but also to store our library of VR modules."
+        "Many of our services let you share information with other people, and you have control over how you share. For example, you can share videos on VRapeutic publicly or you can decide to keep your videos private. Remember, when you share information publicly, your content may become accessible through search engines, including Google Search. \nWhen you’re signed in and interact with some VRapeutic services, like leaving comments on a video on VRapeutic, your name and photo appear next to your activity. We may also display this information in ads depending on your Shared endorsements setting.",
+        "WHEN VRAPEUTIC SHARES YOUR INFORMATION - We do not share your personal information with companies, organizations, or individuals outside of VRapeutic except in the following cases:",
+        "- WITH YOUR CONSENT. We’ll share personal information outside of VRapeutic when we have your consent. We’ll ask for your explicit consent to share any sensitive personal information.",
+        "- WITH DOMAIN ADMINISTRATORS. If you work for an organization, a school, or a therapy center that uses VRapeutic services, your domain administrator who manage your account will have access to your VRapeutic Account.",
+        "- FOR EXTERNAL PROCESSING. We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.",
+        "- FOR LEGAL REASONS. We will share personal information outside of VRapeutic if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to: Meet any applicable law, regulation, legal process, or enforceable governmental request. We share information about the number and type of requests we receive from governments in our Transparency Report.",
+        "\nWe do not share the performance data of the users with any third party other than the third party that we adopt for data storage which is Microsoft Azure. Actually, we use Azure not just to store the users’ data but also to store our library of VR modules."
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "There are several system design decisions that have been taken to guarantee the privacy of the users and the security of their data. This includes but is not limited to data anonymization, classification, and encryption. We also define a specific access level and scope for each type of users. Azure Information Protection is one of the services we use on Azure to define and implement encryption, identity, and authorization policies."
