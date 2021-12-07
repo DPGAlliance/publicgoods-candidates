@@ -24,5 +24,6 @@ Frictionless Data | Nov 15th, 2021 |  No longer accepting open source tools that
 techsoup | Nov 9th, 2021 |  Provided vague SDG relevance
 Project Kick Out Covid-19 Infotech | Nov 15th, 2021 |  Missing open license
 The Atlas of Economic Complexity | Nov 15th, 2021 |  Missing open license
+Open Source Society University | Dec 1st, 2021 |  Aggregates courses from several different platforms (edX, coursera, etc), which potentially have different licensing structures hence missing open license
 
 
