@@ -29,6 +29,7 @@
     "Platform creation"
   ],
   "type": [
+    "content",
     "software"
   ],
   "repositoryURL": "https://github.com/freeCodeCamp/freeCodeCamp",
