@@ -81,9 +81,9 @@
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Board edition is blocked by default, users can see just public boards from others "
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "Contributor Covenant Code of Conduct - https://github.com/cboard-org/cboard/blob/master/CODE_OF_CONDUCT.md"
       ]
     }
   },
