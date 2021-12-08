@@ -16,9 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Non-PII data/content can be exported into the following open formats - JSON, XML & CSV"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
