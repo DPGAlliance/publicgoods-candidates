@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://www.simple.org/license/"
+      "licenseURL": "https://github.com/simpledotorg/simple-server/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -22,7 +22,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/simpledotorg/",
+  "repositoryURL": "https://github.com/simpledotorg/simple-server",
   "organizations": [
     {
       "name": "Resolve to Save Lives",
