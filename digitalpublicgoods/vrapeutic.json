@@ -1,0 +1,108 @@
+{
+  "name": "VRapeutic",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://vrapeutic.github.io/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://vrapeutic.github.io/docs/",
+      "https://github.com/vrapeutic/vrapeutic.github.io"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)",
+      "California Online Privacy Protection Act (CalOPPA)"
+    ],
+    "adherenceSteps": [
+      "https://drive.google.com/file/d/1AnOLXvm6yMgOXAhtliKj_lZ6zYRPWoGM/view?usp=sharing"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ISO/IEC-derived standards such XML, SQL, in addition to others.",
+      "HTML",
+      "CSS"
+    ],
+    "evidenceStandardSupport": [
+      "https://vrapeutic.github.io/docs/installation-guide"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Test of Variables of Attention (TOVA)",
+      "Health Insurance Portability and Accountability Act (HIPPA)",
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Equipment-Related Risks \n - Possible overheating of VR headsets: We strictly adopt headsets that have an accessible document for Declaration of Conformity, e.g., CE certification. Our Terms of Use also indicate clearly that we don’t permit our clients to use non-CE-certified headsets. Also, our user instructions explicitly mention the maximum duration of allowable continuous operation on a VR headset with a single user/child which specifically addresses the overheating concern. Finally, we recommend to our clients a wide spectrum of alternatives, with regards to VR headsets, on which we test all our VR modules prior to product delivery. \n- Hardware-Software compatibility: We should always make sure that the developed software is compatible with the processor of the headset in terms of computational efficiency. Otherwise, the content would be poorly rendered with noticeable flickering, which impacts the user experience remarkably and biases the results. Since we develop the curriculum in house, we recommend to the clients the headsets on which the curriculum is tested by our team. Moreover, to mitigate this risk, we provide our product on a wide variety of headsets, with a wide range of costs, mainly to give the client the flexibility of choice according to their budget and accepted experience quality. \n\nOperational Risks \n- Potential dizziness effects on users: Our safety policy and user instructions strictly mentions that our system is not allowed to be used without a physically-existing supervisor. If the sessions are taking place on-premises so the specialist is the supervisor, and if the session is taking place at home, so the specialist is supervising remotely but a guardian is accompanying the child physically. This is mainly to remove the headset in case dizziness has been observed. Also, our user instructions explicitly mentions the maximum duration of allowable usage on a VR headset with a single user/child which addresses the dizziness concern. Finally, we only adopt VR headsets with explicit dizziness instructions for the users including Oculus, Pico, and Gear VR. \n- Potential habituation if not enough scenarios are developed and used: Our product plan takes into consideration the development of an ever-growing library of modules that takes into account the diversity of interests, social scenarios, acceptable difficulty levels, and the age range. This minimizes the possibility of habituation."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Personal information - name, password, email, phone (optional), payment information",
+        "Your apps, browsers and devices",
+        "Your activity - terms you search for, videos you watch , views and interactions with content, voice and audio information when you use audio features, purchase activity, people with whom you communicate or share content, activity on third-party sites and apps that use our services",
+        "Location information - GPS, IP address, sensor data from your device, information about the things near you such as WI-FI access points, cell towers, bluetooth-enabled devices",
+        "Neuro-markers such as impulsivity scores, attention performance indices"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "Many of our services let you share information with other people, and you have control over how you share. For example, you can share videos on VRapeutic publicly or you can decide to keep your videos private. Remember, when you share information publicly, your content may become accessible through search engines, including Google Search. \nWhen you’re signed in and interact with some VRapeutic services, like leaving comments on a video on VRapeutic, your name and photo appear next to your activity. We may also display this information in ads depending on your Shared endorsements setting.",
+        "WHEN VRAPEUTIC SHARES YOUR INFORMATION - We do not share your personal information with companies, organizations, or individuals outside of VRapeutic except in the following cases:",
+        "- WITH YOUR CONSENT. We’ll share personal information outside of VRapeutic when we have your consent. We’ll ask for your explicit consent to share any sensitive personal information.",
+        "- WITH DOMAIN ADMINISTRATORS. If you work for an organization, a school, or a therapy center that uses VRapeutic services, your domain administrator who manage your account will have access to your VRapeutic Account.",
+        "- FOR EXTERNAL PROCESSING. We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.",
+        "- FOR LEGAL REASONS. We will share personal information outside of VRapeutic if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to: Meet any applicable law, regulation, legal process, or enforceable governmental request. We share information about the number and type of requests we receive from governments in our Transparency Report.",
+        "\nWe do not share the performance data of the users with any third party other than the third party that we adopt for data storage which is Microsoft Azure. Actually, we use Azure not just to store the users’ data but also to store our library of VR modules."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "There are several system design decisions that have been taken to guarantee the privacy of the users and the security of their data. This includes but is not limited to data anonymization, classification, and encryption. We also define a specific access level and scope for each type of users. Azure Information Protection is one of the services we use on Azure to define and implement encryption, identity, and authorization policies."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "This project stores software modules that are composed of digital assets and 3D models for realizing rehabilitative virtual environments. It is the same content that this project distributes, i.e., we strictly distribute only the content that we develop in house. In terms of storage, this project collects and stores the performance data that represents the users’ level of interaction within the rehabilitative virtual environments.",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "Content Moderation Policy - https://docs.google.com/document/d/1mWIqu24jYtURbcovsN6E_adckKHFNyQKyuadZBSWT4g/edit?usp=sharing",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Content Moderation Policy - https://docs.google.com/document/d/1mWIqu24jYtURbcovsN6E_adckKHFNyQKyuadZBSWT4g/edit?usp=sharing"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Our Terms of Service prohibit an underage user to access the system without an accompanying adult supervisor.",
+        "In case this happens, the child still will not be able to access the system since the desktop app controlling the VR modules is not installed on the child/users’ side but on the therapist’s side."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Content Moderation Policy - https://docs.google.com/document/d/1mWIqu24jYtURbcovsN6E_adckKHFNyQKyuadZBSWT4g/edit"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Canada",
+      "Vietnam"
+    ]
+  }
+}
