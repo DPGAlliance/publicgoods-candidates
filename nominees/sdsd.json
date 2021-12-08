@@ -1,0 +1,36 @@
+{
+  "name": "sdsd",
+  "aliases": [
+    "sdsd"
+  ],
+  "description": "dfdf",
+  "website": "https://submission.digitalpublicgoods.net/form",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://submission.digitalpublicgoods.net/form"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "sdsd",
+      "evidenceURL": "https://submission.digitalpublicgoods.net/formhttps://submission.digitalpublicgoods.net/form"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "sdsd",
+      "website": "https://submission.digitalpublicgoods.net/form",
+      "org_type": "owner",
+      "contact_name": "sdsd",
+      "contact_email": "nbaleeta@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
