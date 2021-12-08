@@ -3,12 +3,12 @@
   "aliases": [
     ""
   ],
-  "description": "Platform allowing the farmers to interact and share their knowledge, practices and expertise with one another improving community generated education across borders.",
+  "description": "A free and open database for farming and gardening knowledge. The platform allows farmers to interact and share their knowledge, practices and expertise with one another improving community generated education across borders.",
   "website": "https://openfarm.cc/",
   "license": [
     {
-      "spdx": "CC-BY-SA-4.0",
-      "licenseURL": "https://openfarm.cc/pages/code_of_conduct?locale=en"
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openfarmcc/OpenFarm/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,11 +17,13 @@
       "evidenceText": "Because of the shared knowledge in farming, it is easier for struggling farmers to access education on various knowledge, tricks, and general farming expertise that leads to better crop production and reduces hunger and poverty generally."
     }
   ],
-  "sectors": [],
-  "type": [
-    "data"
+  "sectors": [
+    "Agriculture"
   ],
-  "repositoryURL": "",
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
   "organizations": [
     {
       "name": "Openfarm",
