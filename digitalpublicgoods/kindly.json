@@ -5,7 +5,9 @@
     "copyrightURL": "https://unicef.github.io/kindly/acknowledgements"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -28,15 +32,14 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "HTML",
       "CSS",
       "JavaScript",
       "REST API's"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Child Safeguarding Principles according to UNICEF including 1) The wellbeing of the child is the most important consideration - Kindly’s vision is to improve children’s wellbeing by combating cyberbullying; 2) All children have the same right to be protected, regardless of their gender, culture, ethnicity, age, religion or abilities - Kindly is available to be integrated onto any platform; 3) Information is managed as confidential - Kindly doesn’t collect any data unless the user wishes to contribute to the training data set in which the data is reviewed and anonymized such that no confidential data is stored permanently or shared. ",
       "Child Safeguarding Principles according to UNICEF including 1) The wellbeing of the child is the most important consideration - Kindly’s vision is to improve children’s wellbeing by combating cyberbullying; 2) All children have the same right to be protected, regardless of their gender, culture, ethnicity, age, religion or abilities - Kindly is available to be integrated onto any platform; 3) Information is managed as confidential - Kindly doesn’t collect any data unless the user wishes to contribute to the training data set in which the data is reviewed and anonymized such that no confidential data is stored permanently or shared. "
     ]
   },
@@ -46,7 +49,16 @@
       "additionalInfoMechanismProcessesPolicies": "Even though we do not collect any PII, a user may provide this information by accident while contributing to the training data set. In order to mitigate this risk and avoid any harm to that information, only authorized UNICEF employees will have access to the raw version of the training data. If a user provides any PII by accident, then the authorized team member will safely remove and permanently destroy/delete it prior to including the submission in the public-facing data set."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -58,10 +70,10 @@
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Kindly was created for children between the ages of 10 and 18 years in an effort to end cyberbullying and make them feel safer. If users are under 13 years old, they are asked to make sure they have the permission of their parents or guardian prior to giving us any information. This information is highlighted on https://kindly.unicef.io/contribute. Anyone under 18 is also strongly encouraged to discuss their participation with their parents or guardian."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Kindly’s aim is to bring an end to cyberbullying by providing children with feedback on their messages so that they can reconsider them before sending and avoid abuse, harassment, and cyberharm. If users have any concerns on their data protection or on Kindly’s functionality, they can reach out to kindly@unicef.org. "
       ]
