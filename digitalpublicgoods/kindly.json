@@ -16,9 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
+    "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": ""
+    "nonPIIAccessMechanism": "Kindly collects non-PII data (the training data for kindly). Since our open data set is hosted on a public repository, the mechanism for data extraction involves simply browsing the part of that repository where data is stored, namely https://github.com/unicef/kindly/tree/main/modeling/dataset"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -61,11 +61,11 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Kindly provides users feedback on whether their message or string of text has cyberbullying intent or not. We plan on growing the data set consisting of words and phrases that may be considered cyberbullying. So if users wish (this is optional), they may contribute by responding to prompts such as “Was the presentation okay? I couldn’t tell” in an effort to add to the training data set and improve the machine learning model. They also have the chance to agree or disagree with Kindly’s feedback. Thus, this information is collected (strings of text provided by the user and the user’s agreement/disagreement with Kindly’s feedback on it).",
-      "contentFilter": "No",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "Any data submitted by users through the message box is reviewed by authorized UNICEF employees. They will safely remove and destroy any inappropriate or illegal content, not relevant for Kindly’s intended purposes. UNICEF employees will review the contribution data once a day. An internal process has been created for this. "
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -81,7 +81,9 @@
   },
   "locations": {
     "developmentCountries": [
-      "United States of America"
+      "United States of America",
+      "Ghana",
+      "Canada"
     ],
     "deploymentCountries": [
       "United States of America"
