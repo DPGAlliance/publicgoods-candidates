@@ -1,0 +1,67 @@
+{
+  "name": "Digital Infrastructure for Governance, Impact and Transformation",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.digit.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "DIGIT supports the creation of reports and dashboards, using tools such as Elastic Search and Kibana. These tools support export of data in most commonly used formats, e.g. CSV. The responsibility for and capability to access data lies with the government entity/ies who are using DIGIT to deliver municipal services, rather than with eGov. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgement)",
+      "Personal Data Protection Bill (Draft bill)"
+    ],
+    "adherenceSteps": [
+      "Privacy Policy - https://core.digit.org/focus-areas/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Rest API Definitions - OpenAPI Specifications Transfer Protocol - HTTPS Storage and Query - SQL PII Encrypted using - AES/GCM/NoPadding  Data Layer SQL PII Encrypted using - AES/GCM/NoPadding  Service Layer RestAPIs - OpenAPI 3.0 JSON HTTPS  Frontend JavaScript HTML CSS"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.digit.org/"
+    ],
+    "bestPracticesList": [
+      "1. Ecosystem-Driven (corresponding to PDD - \"Understand the existing ecosystem\" and \"Be collaborative\") 2. Interoperability through Open APIs and Open Standards (corresponding to PDD - \"Use open standards, open data, open source, and open innovation\") 3. Inclusive  4. Minimalistic 5. Privacy and Security by Design (corresponding to PDD - \"Address privacy and security\") 6. Unbundling (corresponding to PDD - \"Design for scale\" and \"Reuse and improve\") 7. Designing for Evolvability and Scale (corresponding to PDD - \"Design for scale\" and \"Reuse and improve\") 8. Transparency and Accountability through Data (corresponding to PDD - \"Be data driven\") 9. Non-Repudiable (correspinding to PDD - \"Be data driven\" and \"Address privacy and security\") 10. Domain Modeling (corresponding to PDD - \"Understand the existing ecosystem\" and \"Reuse and improve\") 11. Federated Architecture (Corresponding to PDD - \"Design for scale\" and \"Address privacy and security\") 12. Ensuring extensibility through the use of layered design (Corresponding to PDD - \"Design for scale\" and \"Be collaborative\") 13. Multi-Channel Access (Corresponding to PDD - \"Design with the user\" and \"Understand the existing ecosystem"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "DIGIT takes the following mitigation steps: Secure by default, Privacy by Default, ensures ownership of Data must reside with the user, consent is sought and stored, and data is purpose limited."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
