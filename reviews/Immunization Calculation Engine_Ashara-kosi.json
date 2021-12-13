@@ -1,0 +1,25 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "This link would be able to guide a technical person to launch the software",
+    "confidence": 5
+  },
+  "user": "Ashara-kosi",
+  "timestamp": 1634165398,
+  "timeTaken": 261
+}
