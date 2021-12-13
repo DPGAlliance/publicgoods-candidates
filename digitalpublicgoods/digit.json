@@ -1,0 +1,112 @@
+{
+  "name": "DIGIT",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.digit.org/about-us/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.digit.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "DIGIT supports the creation of reports and dashboards, using tools such as Elastic Search and Kibana. These tools support export of data in most commonly used formats, e.g. CSV. The responsibility for and capability to access data lies with the government entity/ies who are using DIGIT to deliver municipal services, rather than with eGov. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgement)",
+      "Personal Data Protection Bill (Draft bill)"
+    ],
+    "adherenceSteps": [
+      "Privacy Policy - https://core.digit.org/focus-areas/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Rest API Definitions",
+      "OpenAPI Specifications Transfer Protocol",
+      "HTTPS Storage and Query",
+      "SQL PII Encrypted using",
+      "AES/GCM/NoPadding",
+      "Data Layer SQL PII Encrypted using",
+      "AES/GCM/NoPadding",
+      "Service Layer RestAPIs",
+      "OpenAPI 3.0 JSON HTTPS",
+      "Frontend - JavaScript, HTML CSS"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.digit.org/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "1. Ecosystem-Driven",
+      "2. Interoperability through Open APIs and Open Standards",
+      "3. Inclusive",
+      "4. Minimalistic",
+      "5. Privacy and Security by Design",
+      "6. Unbundling",
+      "7. Designing for Evolvability and scale",
+      "8. Transparency and Accountability through Data",
+      "9. Non-Repudiable",
+      "10. Domain Modeling",
+      "11. Federated Architecture",
+      "12. Ensuring extensibility through the use of layered design",
+      "13. Multi-Channel Access"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "DIGIT takes the following mitigation steps: Secure by default, Privacy by Default, ensures ownership of Data must reside with the user, consent is sought and stored, and data is purpose limited."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
