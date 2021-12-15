@@ -44,8 +44,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Only users who have been approved by designated personnel get access to patient data through the app. Designated personnel can also revoke access to prevent the user from gaining access to additional data. \nThe app requires the user to enter a PIN (set by them) before they gain access to Protected Health Information. There is protection against brute force entry to the app. \nScreenshots, automatic backups, and installations of app on SD card are disabled to prevent access to PHI."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
