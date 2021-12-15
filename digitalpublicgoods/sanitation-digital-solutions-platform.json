@@ -5,9 +5,9 @@
     "copyrightURL": "https://www.sanidigs.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "The Java program code is stand alone for android operating system available on most smart phones. The server side php script is also stand alone to privately managed hosting server."
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
