@@ -16,9 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data is available via an API. You can browse our data dictionary on Google Sheets - https://docs.google.com/spreadsheets/d/1LOn9IzfuQXog2agGbNphweMNTV27K84yctjPs6b7USI/edit#gid=0"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
