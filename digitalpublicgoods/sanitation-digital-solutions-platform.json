@@ -50,13 +50,14 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "full name, GPS location, picture of head of household, picture of household"
       ],
       "thirdPartyDataSharing": "Unknown",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Yes"
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -77,11 +78,6 @@
         ""
       ]
     }
-  },
-  "dataPrivacySecurity": {
-    "typesOfDataCollected": [
-      "full name, GPS location, picture of head of household, picture of household"
-    ]
   },
   "locations": {
     "developmentCountries": [
