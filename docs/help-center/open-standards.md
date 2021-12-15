@@ -36,6 +36,9 @@ Open standards establish protocols and building blocks that can help make digita
 #### Software Architectural Styles
 * REST (Representational State Transfer)
 
+#### Application Programming Interfaces (APIs)
+* OpenAPI
+
 #### Data Exchange formats 
 * JSON (JavaScript Object Notation)
 * XML (Extensible Markup Language)

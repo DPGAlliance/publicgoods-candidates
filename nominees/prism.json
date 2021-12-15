@@ -1,7 +1,7 @@
 {
-  "name": "Platform for Real-time Impact and Situation Monitoring",
+  "name": "PRISM",
   "aliases": [
-    "PRISM"
+    "Platform for Real-time Impact and Situation Monitoring"
   ],
   "description": "PRISM combines Earth Observation data with ground level information on vulnerable groups to measure and monitor the risks of climate hazards",
   "website": "https://innovation.wfp.org/project/prism",
@@ -49,5 +49,5 @@
       "contact_email": "amit.wadhwa@wfp.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
