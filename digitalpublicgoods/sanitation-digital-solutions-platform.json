@@ -2,7 +2,7 @@
   "name": "Sanitation Digital Solutions Platform",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/orgs/Amref-Health-Africa-in-Uganda/projects/1"
+    "copyrightURL": "https://www.sanidigs.org/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
