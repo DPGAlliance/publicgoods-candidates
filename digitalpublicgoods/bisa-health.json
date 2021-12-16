@@ -1,0 +1,104 @@
+{
+  "name": "Bisa Health",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://bisaapp.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "API usage: http://bisaapp.com/open-source/",
+      "Explore endpoints: https://docs.google.com/document/d/1ZwiRPuOUEDZkbglaKw5wK53WQ7tVxAL7/edit"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Bisa Mobile Application is conscious of the sensitivity of the information/data it handles and is therefore committed to maintaining the confidence and trust with respect to the privacy of its users. \n The following laws of Ghana are applicable with respect to the Bisa Mobile Application and we are committed to adhering to them:-",
+      "Electronic Communications Act, 2008 (Act 775)",
+      "Electronic Communications Regulations, 2011 (L.I. 1991)",
+      "Credit Reporting Act, 2007 (Act 726)",
+      "Public Health Act, 2012 (Act 851)",
+      "Children’s Act, 1998 (Act 560)",
+      "Reference: https://bisaapp.com/legal-data-privacy-laws/"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://bisaapp.com/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ISO 13131:2021"
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles For Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All doctors are certified professionals recommended by the Ghana Health Service (GHS)."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Email",
+        "Phone Number",
+        "Address",
+        "Date of birth",
+        "Known/existing medical condition"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Bisa has features like anonymous login for users to easily ask questions without keeping any user data. \n Users are given system generated names to ensure anonymity."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "All doctors are certified professionals recommended by the Ghana Health Service (GHS).",
+        "Users are given system generated names to ensure anonymity"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "All content on the Bisa Platform (Articles / tips) are verified health information from the Ghana Health Service (GHS)."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana",
+      "Senegal"
+    ]
+  }
+}

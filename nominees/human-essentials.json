@@ -1,11 +1,11 @@
 {
-  "name": "Diaper",
-  "description": "Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
+  "name": "Human Essentials",
+  "description": "An inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
   "website": "https://diaper.app/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/rubyforgood/diaper/blob/master/LICENSE"
+      "licenseURL": "https://github.com/rubyforgood/human-essentials/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,7 +17,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rubyforgood/diaper",
+  "repositoryURL": "https://github.com/rubyforgood/human-essentials",
   "organizations": [
     {
       "name": "RubyForGood",

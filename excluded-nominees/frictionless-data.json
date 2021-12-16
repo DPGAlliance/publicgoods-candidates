@@ -1,0 +1,55 @@
+{
+  "name": "Frictionless Data",
+  "aliases": [
+    ""
+  ],
+  "description": "Frictionless Data is a progressive open-source framework for building data infrastructure. It includes various data standards and provides software to work with data.",
+  "website": "https://frictionlessdata.io/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/frictionlessdata/frictionless-py/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "In the framework of the Frictionless Data Reproducible Research Fellows Programme, we recruit and train early career researchers to become champions of the Frictionless Data tools and approaches in their field. Fellows learn about Frictionless Data, including how to use Frictionless tools in their domains to improve reproducible research workflows, and how to advocate for open science. Fellows lead training workshops at conferences, host events at universities and in labs, and write blogs and other communications content. Frictionless Data has funded scholarships in developed countries and developing countries.",
+      "evidenceURL": "https://fellows.frictionlessdata.io/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Frictionless Data is an open-source software, which provides researchers, data scientists and data engineers with specifications for data and metadata interoperability, plus a collection of software libraries and a range of best practices for data management, thus enhancing scientific research quality and reproducibility globally without licensing fees.",
+      "evidenceURL": "https://frictionlessdata.io/introduction/"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "By reducing common data workflow issues, Frictionless Data improves the quality of scientific research findings and data management in oceanography.",
+      "evidenceURL": "https://frictionlessdata.io/blog/2020/02/10/frictionless-data-pipelines-for-open-ocean/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "By addressing the challenge of open data quality, Frictionless Data enhances the transparency and accountability of institutions, and ensures a quality public access to information.",
+      "evidenceURL": "https://frictionlessdata.io/blog/2020/05/22/etalab-case-study-schemas-data-gouv-fr/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "By making research data more reproducible, Frictionless Data enhances scientific understanding and improves long-term scientific assessment.",
+      "evidenceURL": "https://frictionlessdata.io/blog/2021/08/09/dryad-pilot/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "standard"
+  ],
+  "repositoryURL": "https://github.com/frictionlessdata",
+  "organizations": [
+    {
+      "name": "Open Knowledge Foundation",
+      "website": "https://okfn.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
