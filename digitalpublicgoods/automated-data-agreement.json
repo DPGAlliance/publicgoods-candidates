@@ -40,15 +40,16 @@
       "https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/docs/did-spec.md",
       "https://www.w3.org/TR/did-spec-registries/"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "This includes agile project management, CI/CD, automation, monitoring, observability, and continuous feedback.",
+      "Architectual principles: We follow a microservice architecture"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The project aims to protect the individuals' rights (as per GDPR) while creating a win win towards organisations in their digitalisation journey (by GDPR compliance and privacy by design). With the ADA project both organisations can prove their lawful use of data and individuals can monitor and audit any personal data transaction."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -71,7 +72,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
