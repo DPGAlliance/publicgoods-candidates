@@ -72,14 +72,14 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "",
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "Code of conduct - https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/CODE-OF-CONDUCT.md"
       ],
       "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
-        ""
+        "Code of conduct - https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/CODE-OF-CONDUCT.md"
       ]
     }
   },
