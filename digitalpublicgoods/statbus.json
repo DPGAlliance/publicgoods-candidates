@@ -6,8 +6,8 @@
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "No",
-    "pltIndependenceDesc": "At the time being, it only runs on IIS web server. In addition, it uses the following components: \n - Windows 10 Pro (or newer) or Windows Server 2008 R2 (or newer) \n - SQL Server 2019, MySQL 8.0.22 or PostgreSQL 13. \n - dotnet windows hosting 2.2.1 \n - dotnet-runtime-2.0.9-win-x64 \n - dotnet-sdk-2.1.202-win-x64 \n - NodeJS v8.11.4 \n - Elasticsearch (6.5.3) \n - re (8u191 or newer, should be compatible with elasticsearch) \n  SQLwallet 1.4.6 (This is proprietary software for creating reports. We plan to get rid of it in Statbus v. 2.0) \n sqliteodbc_w64.exe - SQLite ODBC Driver - For the connection between SQLWallet, database manager"
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "At the time being, it only runs on IIS web server. In addition, it uses the following components: \n - Windows 10 Pro (or newer) or Windows Server 2008 R2 (or newer) \n - SQL Server 2019, MySQL 8.0.22 or PostgreSQL 13. \n - dotnet windows hosting 2.2.1 \n - dotnet-runtime-2.0.9-win-x64 \n - dotnet-sdk-2.1.202-win-x64 \n - NodeJS v8.11.4 \n - Elasticsearch (6.5.3) \n - re (8u191 or newer, should be compatible with elasticsearch) \n  SQLwallet 1.4.6 (This is proprietary software for creating reports. We plan to get rid of it in Statbus v. 2.0) \n sqliteodbc_w64.exe - SQLite ODBC Driver - For the connection between SQLWallet, database manager. However, an open source cross platform alternative does exist for Microsoft IIS web server - Kestrel (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
