@@ -1,0 +1,108 @@
+{
+  "name": "Statbus",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.statbus.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "At the time being, it only runs on IIS web server. In addition, it uses the following components: \n - Windows 10 Pro (or newer) or Windows Server 2008 R2 (or newer) \n - SQL Server 2019, MySQL 8.0.22 or PostgreSQL 13. \n - dotnet windows hosting 2.2.1 \n - dotnet-runtime-2.0.9-win-x64 \n - dotnet-sdk-2.1.202-win-x64 \n - NodeJS v8.11.4 \n - Elasticsearch (6.5.3) \n - re (8u191 or newer, should be compatible with elasticsearch) \n  SQLwallet 1.4.6 (This is proprietary software for creating reports. We plan to get rid of it in Statbus v. 2.0) \n sqliteodbc_w64.exe - SQLite ODBC Driver - For the connection between SQLWallet, database manager. However, an open source cross platform alternative does exist for Microsoft IIS web server - Kestrel (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.statbus.org/documentation"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "The software is for use internally in national statistical offices. Activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation. Countries using STATBUS in other regions are responsible for complying with national legislation."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTP",
+      "CSS",
+      "JSON",
+      "REST",
+      "HTML",
+      "JPEG",
+      "PNG",
+      "XML",
+      "CSV",
+      "SQL",
+      "Internationalization: Unicode"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.statbus.org/overview"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Statbus is developed in line with most of the Principles for Digital Development: User-centred design, design for scale, build for sustainability, use of open standards and open source  (mostly)",
+      "Agile development methodology"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Code of conduct: https://github.com/statisticsnorway/statbus/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The software is for use internally in national statistical offices. Activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation. Countries using STATBUS in other regions are responsible for complying with national legislation."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Norway",
+      "Kyrgyzstan"
+    ],
+    "deploymentCountries": [
+      "Kyrgyzstan",
+      "Kenya",
+      "Uganda",
+      "Ghana",
+      "Morocco",
+      "Ukraine",
+      "Namibia"
+    ]
+  }
+}
