@@ -7,7 +7,7 @@
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "Flow Cameroon requires FIrebase and Firestore which are closed dependencies. However other open source alternatives exists such Couchbasev (https://www.couchbase.com/)"
+    "pltIndependenceDesc": "Flow Cameroon requires Firebase and Firestore which are closed dependencies. However other open source alternatives exists such Couchbasev (https://www.couchbase.com/)"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
