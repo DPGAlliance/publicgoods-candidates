@@ -1,0 +1,33 @@
+{
+  "name": "My Project",
+  "aliases": [
+    ""
+  ],
+  "description": "This submission is a test for a new deployment, please invalidate.",
+  "website": "https://www.example.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "description"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "My Organization",
+      "website": "https://example.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
