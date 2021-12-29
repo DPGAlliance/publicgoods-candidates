@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "This is a pure communications platform based upon WhatsApp Business API and does not have any health-specific features. Additionally, the link provided results in a \"Page Not Found\" error.",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "This is a pure communications platform based upon WhatsApp Business API and does not have any education-specific features. Additionally, the link provided results in a \"Page Not Found\" error.",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "This is a pure communications platform based upon WhatsApp Business API and does not have any sustainability-specific features. Additionally, the link provided results in a \"Page Not Found\" error.",
+    "confidence": 5
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "This is a pure communications platform based upon WhatsApp Business API  -- while communication is an important part of building partnerships, neither the link nor the description show a nexus to any of Goal 17's targets.",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "No. The link is only to a standard AGPLv3 license and the linked file does not provide any identification of the copyright holders of the code. (There is an additional CONTRIBUTORS file in the repository but it also does not indicate actual copyright status of the code.)",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "user": "downeymj",
+  "timestamp": 1636687205,
+  "timeTaken": 618
+}
