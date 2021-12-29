@@ -21,7 +21,7 @@
     },
     {
       "SDGNumber": 7,
-      "evidenceText": "Energy efficiency, renewables and consumer centricity figure among the lines of action to boost the transition towards cleaner energy systems – ways of producing, delivering and consuming energy in a more sustainable way. The deployment of information technology has a significant impact on the feasibility of contemporary policy actions. X-Road is helping electricity grid operators by harmonising access to energy data. By simplifying access to data lets them focus on the solutions to achieve energy and climate goals.",
+      "evidenceText": "Energy efficiency, renewables and consumer centricity figure among the lines of action to boost the transition towards cleaner energy systems \\u2013 ways of producing, delivering and consuming energy in a more sustainable way. The deployment of information technology has a significant impact on the feasibility of contemporary policy actions. X-Road is helping electricity grid operators by harmonising access to energy data. By simplifying access to data lets them focus on the solutions to achieve energy and climate goals.",
       "evidenceURL": "https://x-road.global/sustainability"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "SDGNumber": 9,
-      "evidenceText": "X-Road provides national core digital infrastructure for data exchange between organizations across administration sectors and business domains. Typically, the ecosystem is open for all kinds of organizations – both public and private sector organizations. Besides, X-Road can be used to implement cross-border data exchange with other countries. X-Road enables allocating resources for building digital services and fostering innovation, instead of integrating services point-to-point.",
+      "evidenceText": "X-Road provides national core digital infrastructure for data exchange between organizations across administration sectors and business domains. Typically, the ecosystem is open for all kinds of organizations \\u2013 both public and private sector organizations. Besides, X-Road can be used to implement cross-border data exchange with other countries. X-Road enables allocating resources for building digital services and fostering innovation, instead of integrating services point-to-point.",
       "evidenceURL": "https://x-road.global/sustainability"
     },
     {
       "SDGNumber": 11,
-      "evidenceText": "The use of digital services reduces the need to travel between different locations which reduces traffic in the cities. When travelling is needed, digital services provide information about different transportation and route alternatives and may prioritise the most environmentally friendly alternatives. X-Road is a crucial enabler that’s needed to make numerous information systems to communicate with each other. By establishing or joining an X-Road environment, cities and municipalities can request up-to-date information from relevant public registers and increase their effectiveness.",
+      "evidenceText": "The use of digital services reduces the need to travel between different locations which reduces traffic in the cities. When travelling is needed, digital services provide information about different transportation and route alternatives and may prioritise the most environmentally friendly alternatives. X-Road is a crucial enabler that\\u2019s needed to make numerous information systems to communicate with each other. By establishing or joining an X-Road environment, cities and municipalities can request up-to-date information from relevant public registers and increase their effectiveness.",
       "evidenceURL": "https://x-road.global/sustainability"
     },
     {
@@ -54,7 +54,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/nordic-institute/X-Road",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/nordic-institute/X-Road"
+    }
+  ],
   "organizations": [
     {
       "name": "Nordic Institute for Interoperability Solutions (NIIS)",

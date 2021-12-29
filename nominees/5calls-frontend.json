@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/5calls/5calls",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/5calls/5calls"
+    }
+  ],
   "organizations": [
     {
       "name": "5Calls",

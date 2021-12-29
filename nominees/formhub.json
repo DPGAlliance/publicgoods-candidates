@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/SEL-Columbia/formhub",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/SEL-Columbia/formhub"
+    }
+  ],
   "organizations": [
     {
       "name": "Sustainable Engineering Lab, Columbia University",

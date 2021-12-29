@@ -1,6 +1,6 @@
 {
   "name": "ResourceWatch",
-  "description": "Resource Watch features hundreds of data sets all in one place on the state of the planet’s resources and citizens. Users can visualize challenges facing people and the planet, from climate change to poverty, water risk to state instability, air pollution to human migration, and more.",
+  "description": "Resource Watch features hundreds of data sets all in one place on the state of the planet\\u2019s resources and citizens. Users can visualize challenges facing people and the planet, from climate change to poverty, water risk to state instability, air pollution to human migration, and more.",
   "website": "https://resourcewatch.org/about",
   "license": [
     {
@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/resource-watch/resource-watch",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/resource-watch/resource-watch"
+    }
+  ],
   "organizations": [
     {
       "name": "World Resources Institute",

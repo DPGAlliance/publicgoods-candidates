@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hyperaudio/hyperaudio-lite",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hyperaudio/hyperaudio-lite"
+    }
+  ],
   "organizations": [
     {
       "name": "Hyperaudio",

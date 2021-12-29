@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Nova-Scotia-Digital-Service/when-to-call-811",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Nova-Scotia-Digital-Service/when-to-call-811"
+    }
+  ],
   "organizations": [
     {
       "name": "Nova Scotia Digital Service",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/chrisekelley/zeprs",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/chrisekelley/zeprs"
+    }
+  ],
   "organizations": [
     {
       "name": "RTI International",

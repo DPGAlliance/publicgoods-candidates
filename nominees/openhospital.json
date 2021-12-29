@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/informatici/openhospital",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/informatici/openhospital"
+    }
+  ],
   "organizations": [
     {
       "name": "Informatici Senza Frontiere",

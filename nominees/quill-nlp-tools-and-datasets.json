@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets"
+    }
+  ],
   "organizations": [
     {
       "name": "Empirical",

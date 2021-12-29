@@ -1,6 +1,6 @@
 {
   "name": "Leximpact",
-  "description": "Simuler l'impact des réformes socio-fiscales en moins d'une minute",
+  "description": "Simuler l'impact des r\\u00e9formes socio-fiscales en moins d'une minute",
   "website": "https://leximpact.beta.gouv.fr",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/betagouv/leximpact-client",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/leximpact-client"
+    }
+  ],
   "organizations": [
     {
       "name": "Beta.Gouv",

@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/lifen-labs/covid",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/lifen-labs/covid"
+    }
+  ],
   "organizations": [
     {
       "name": "Lifen Labs",

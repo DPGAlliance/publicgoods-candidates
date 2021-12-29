@@ -1,6 +1,6 @@
 {
   "name": "Mobile WACh",
-  "description": "A human-computer hybrid communication system (Mobile WACh: Mobile Solutions for Women’s and Children’s Health) that engages mothers to increase demand for care, and improves outcomes for both mothers and infants.",
+  "description": "A human-computer hybrid communication system (Mobile WACh: Mobile Solutions for Women\\u2019s and Children\\u2019s Health) that engages mothers to increase demand for care, and improves outcomes for both mothers and infants.",
   "website": "https://globalhealth.washington.edu/interactive-map/projects/1580/Mobile-WACh-NEO-Communication-Empowering-Mothers-and-Newborns?health_topics=454",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/uw-ictd/mwbase",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/uw-ictd/mwbase"
+    }
+  ],
   "organizations": [
     {
       "name": "Department of Global Health, University of Washington",

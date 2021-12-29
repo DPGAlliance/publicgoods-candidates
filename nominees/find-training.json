@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/codeforamerica/etpl-search",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforamerica/etpl-search"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for America",

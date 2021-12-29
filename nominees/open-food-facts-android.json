@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openfoodfacts/openfoodfacts-androidapp",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-androidapp"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Food Facts",
