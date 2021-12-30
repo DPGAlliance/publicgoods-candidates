@@ -17,7 +17,12 @@
     "data",
     "software"
   ],
-  "repositoryURL": "https://github.com/nextstrain/ncov",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/nextstrain/ncov"
+    }
+  ],
   "organizations": [
     {
       "name": "NextStrain",

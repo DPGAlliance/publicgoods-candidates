@@ -19,7 +19,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/jembi/hearth",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/jembi/hearth"
+    }
+  ],
   "organizations": [
     {
       "name": "Jembi Health Systems NPC",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ShelterTechSF/askdarcel-web",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ShelterTechSF/askdarcel-web"
+    }
+  ],
   "organizations": [
     {
       "name": "ShelterTech",

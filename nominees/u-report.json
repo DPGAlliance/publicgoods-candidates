@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rapidpro/ureport",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rapidpro/ureport"
+    }
+  ],
   "organizations": [
     {
       "name": "RapidPRO",

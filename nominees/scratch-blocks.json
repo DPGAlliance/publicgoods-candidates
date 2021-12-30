@@ -1,6 +1,6 @@
 {
   "name": "Scratch Blocks",
-  "description": "Scratch Blocks is a library for building creative computing interfaces. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.",
+  "description": "Scratch Blocks is a library for building creative computing interfaces. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively \\u2014 essential skills for life in the 21st century.",
   "website": "",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/LLK/scratch-blocks",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LLK/scratch-blocks"
+    }
+  ],
   "organizations": [
     {
       "name": "Scratch",

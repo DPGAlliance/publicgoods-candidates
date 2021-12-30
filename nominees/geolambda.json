@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/developmentseed/geolambda",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/developmentseed/geolambda"
+    }
+  ],
   "organizations": [
     {
       "name": "Development Seed",

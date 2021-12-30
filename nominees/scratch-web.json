@@ -1,6 +1,6 @@
 {
   "name": "Scratch Web",
-  "description": "Standalone web client for Scratch. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.",
+  "description": "Standalone web client for Scratch. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively \\u2014 essential skills for life in the 21st century.",
   "website": "https://scratch.mit.edu",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/LLK/scratch-www",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LLK/scratch-www"
+    }
+  ],
   "organizations": [
     {
       "name": "Scratch",

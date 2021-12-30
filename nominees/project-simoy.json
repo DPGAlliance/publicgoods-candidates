@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "This is a collection of data visualization projects that gives a “breezy” experience to all data enthusiasts.",
+  "description": "This is a collection of data visualization projects that gives a \\u201cbreezy\\u201d experience to all data enthusiasts.",
   "website": "https://projectsimoy.com/",
   "license": [
     {
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 7,
-      "evidenceText": "This data visualization projects shows the awarded renewable projects under PH Department of Energy’s National Renewable Energy Program. This aims to start the energy conversation towards into a sustainable energy source of the Philippines."
+      "evidenceText": "This data visualization projects shows the awarded renewable projects under PH Department of Energy\\u2019s National Renewable Energy Program. This aims to start the energy conversation towards into a sustainable energy source of the Philippines."
     },
     {
       "SDGNumber": 9,
@@ -26,7 +26,7 @@
     },
     {
       "SDGNumber": 13,
-      "evidenceText": "This data visualization project aims to create an awareness to the PH existing commercial power plants connected to our National Electric Grid across the country. This also calculated the estimates of Lifecycle of GHG emissions (Theoretical) (g CO2 eq/kWh) for broad categories of electricity generation technologies in reference with IPCC’s Special Report on Renewable Energy Sources and Climate Change Mitigation Report (2012)."
+      "evidenceText": "This data visualization project aims to create an awareness to the PH existing commercial power plants connected to our National Electric Grid across the country. This also calculated the estimates of Lifecycle of GHG emissions (Theoretical) (g CO2 eq/kWh) for broad categories of electricity generation technologies in reference with IPCC\\u2019s Special Report on Renewable Energy Sources and Climate Change Mitigation Report (2012)."
     }
   ],
   "sectors": [
@@ -37,7 +37,12 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Project Simoy",

@@ -3,7 +3,7 @@
   "aliases": [
     "OpenCHS"
   ],
-  "description": "Open Source field service delivery and data collection platform for non-profits and governments in all sectors — health, water, education, social service. A platform for all frontline work in social/development sector",
+  "description": "Open Source field service delivery and data collection platform for non-profits and governments in all sectors \\u2014 health, water, education, social service. A platform for all frontline work in social/development sector",
   "website": "https://avniproject.org/",
   "license": [
     {
@@ -31,7 +31,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/avniproject/avni-server",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/avniproject/avni-server"
+    }
+  ],
   "organizations": [
     {
       "name": "Samanvay Research and Development Foundation",

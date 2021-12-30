@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/cuplsensor/cuplbackend",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cuplsensor/cuplbackend"
+    }
+  ],
   "organizations": [
     {
       "name": "Plotsensor Ltd.",

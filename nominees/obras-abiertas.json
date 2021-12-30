@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/datosgcba/obras-abiertas",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/datosgcba/obras-abiertas"
+    }
+  ],
   "organizations": [
     {
       "name": "Buenos Aires Data",

@@ -24,7 +24,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Artelnics/opennn",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Artelnics/opennn"
+    }
+  ],
   "organizations": [
     {
       "name": "Artificial Intelligence Techniques, Ltd.",
