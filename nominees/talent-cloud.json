@@ -19,7 +19,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/GCTC-NTGC/TalentCloud",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GCTC-NTGC/TalentCloud"
+    }
+  ],
   "organizations": [
     {
       "name": "Government of Canada Talent Reserve",

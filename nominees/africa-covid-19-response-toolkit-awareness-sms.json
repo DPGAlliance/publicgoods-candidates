@@ -1,6 +1,6 @@
 {
   "name": "Africa COVID-19 Response Toolkit: Awareness SMS",
-  "description": "Node.js wrapper for Africa’s Talking SMS API. Allows government entities to send mass SMS to text the public critical COVID-19 related information.",
+  "description": "Node.js wrapper for Africa\\u2019s Talking SMS API. Allows government entities to send mass SMS to text the public critical COVID-19 related information.",
   "website": "https://ethiocovid19rt.com/",
   "license": [
     {
@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/awareness-sms",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/africa-covid-19-response-toolkit/awareness-sms"
+    }
+  ],
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

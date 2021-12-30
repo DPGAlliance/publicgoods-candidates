@@ -1,6 +1,6 @@
 {
   "name": "Wildbook",
-  "description": "Wildbook® is an open source software framework to support mark-recapture, molecular ecology, and social ecology studies. ",
+  "description": "Wildbook\\u00ae is an open source software framework to support mark-recapture, molecular ecology, and social ecology studies. ",
   "website": "https://www.wildbook.org/doku.php",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/WildbookOrg/Wildbook",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WildbookOrg/Wildbook"
+    }
+  ],
   "organizations": [
     {
       "name": "Wildme",

@@ -15,7 +15,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "RTI International and JSI implemented the Global Open Facility Registry (GOFR) project in Guinea. GOFR’s objective is to enable integrated and interoperable Master Facility Registries (MFR)",
+      "evidenceText": "RTI International and JSI implemented the Global Open Facility Registry (GOFR) project in Guinea. GOFR\\u2019s objective is to enable integrated and interoperable Master Facility Registries (MFR)",
       "evidenceURL": "https://solutions.dial.community/projects/1576"
     }
   ],
@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/intrahealth/gofr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/gofr"
+    }
+  ],
   "organizations": [
     {
       "name": "IntraHealth International",

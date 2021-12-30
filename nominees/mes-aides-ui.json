@@ -1,6 +1,6 @@
 {
   "name": "Mes Aides - UI",
-  "description": "Le simulateur global des prestations sociales françaises https://mes-aides.gouv.fr/",
+  "description": "Le simulateur global des prestations sociales fran\\u00e7aises https://mes-aides.gouv.fr/",
   "website": "https://mes-aides.gouv.fr/",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/betagouv/aides-jeunes",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/aides-jeunes"
+    }
+  ],
   "organizations": [
     {
       "name": "Beta.Gouv",

@@ -1,6 +1,6 @@
 {
   "name": "Heat Seek WebApp",
-  "description": "Our web-connected temperature sensors—essentially a thermometer connected to the internet—provide an affordable, reliable, and easy-to-use method of collecting, storing, and analyzing temperature data from a single apartment, many apartments, or even a portfolio of buildings throughout the city. We automate the entire process to provide tenants with the objective data they need to get their heat restored. ",
+  "description": "Our web-connected temperature sensors\\u2014essentially a thermometer connected to the internet\\u2014provide an affordable, reliable, and easy-to-use method of collecting, storing, and analyzing temperature data from a single apartment, many apartments, or even a portfolio of buildings throughout the city. We automate the entire process to provide tenants with the objective data they need to get their heat restored. ",
   "website": "https://heatseek.org/explore-the-tech/",
   "license": [
     {
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/heatseeknyc/heatseeknyc",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/heatseeknyc/heatseeknyc"
+    }
+  ],
   "organizations": [
     {
       "name": "Heat Seek",

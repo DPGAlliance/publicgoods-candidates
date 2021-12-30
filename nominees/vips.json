@@ -32,7 +32,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://gitlab.nibio.no/VIPS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.nibio.no/VIPS"
+    }
+  ],
   "organizations": [
     {
       "name": "NIBIO",

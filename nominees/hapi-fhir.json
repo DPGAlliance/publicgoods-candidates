@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hapifhir/hapi-fhir",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hapifhir/hapi-fhir"
+    }
+  ],
   "organizations": [
     {
       "name": "HAPI FHIR",

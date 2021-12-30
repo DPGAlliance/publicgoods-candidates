@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openoakland/openbudgetoakland",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openoakland/openbudgetoakland"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Oakland",

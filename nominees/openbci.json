@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenBCI/OpenBCI_GUI",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenBCI/OpenBCI_GUI"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenBCI",

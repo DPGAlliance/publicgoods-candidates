@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/bothub-it/bothub",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bothub-it/bothub"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

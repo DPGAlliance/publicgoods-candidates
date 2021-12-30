@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenRefine/OpenRefine",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenRefine/OpenRefine"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenRefine",

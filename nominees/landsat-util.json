@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/developmentseed/landsat-util",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/developmentseed/landsat-util"
+    }
+  ],
   "organizations": [
     {
       "name": "Development Seed",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/get-alex/alex",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/get-alex/alex"
+    }
+  ],
   "organizations": [
     {
       "name": "Alex",
