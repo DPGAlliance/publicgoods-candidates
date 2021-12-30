@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/HTBox/allReady",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/HTBox/allReady"
+    }
+  ],
   "organizations": [
     {
       "name": "Humanitarian Toolbox",

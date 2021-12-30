@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfarmcc/OpenFarm"
+    }
+  ],
   "organizations": [
     {
       "name": "Openfarm",

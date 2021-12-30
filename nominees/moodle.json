@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/moodle/moodle",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/moodle/moodle"
+    }
+  ],
   "organizations": [
     {
       "name": "Moodle",

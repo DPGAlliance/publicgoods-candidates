@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/sahana/eden",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sahana/eden"
+    }
+  ],
   "organizations": [
     {
       "name": "Sahana",

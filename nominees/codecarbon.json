@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/mlco2/codecarbon",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mlco2/codecarbon"
+    }
+  ],
   "organizations": [
     {
       "name": "mlco2",

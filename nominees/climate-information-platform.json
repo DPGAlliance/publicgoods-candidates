@@ -64,13 +64,18 @@
     "data",
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Swedish Meteorological and Hydrological Institute (SMHI)",
       "website": "https://smhi.com/",
       "org_type": "implementer",
-      "contact_name": "Frida Gyllensvärd",
+      "contact_name": "Frida Gyllensv\\u00e4rd",
       "contact_email": "frida.gyllensvard@smhi.se"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "name": "StarHealth",
-  "description": "An embedded website toolbar and SMS helpline that allows audiences to check whether their doctor is registered and in good standing, whether their hospital/treatment is covered by Kenya’s National Health Insurance Fund (NHIF), and where the nearest specialist health service is for their ailment. Localised versions of the HealthTools also run in South Africa (where it focuses on helping users confirm that their traditional circumcision surgeon is legit, with a hotline for bogus surgeons), and Nigeria (where it includes tools for checking whether users have been overcharged for medicine, plus whether their hospitals are legit/registered) and Tanzania (where it includes gender-based violence helplines).",
+  "description": "An embedded website toolbar and SMS helpline that allows audiences to check whether their doctor is registered and in good standing, whether their hospital/treatment is covered by Kenya\\u2019s National Health Insurance Fund (NHIF), and where the nearest specialist health service is for their ailment. Localised versions of the HealthTools also run in South Africa (where it focuses on helping users confirm that their traditional circumcision surgeon is legit, with a hotline for bogus surgeons), and Nigeria (where it includes tools for checking whether users have been overcharged for medicine, plus whether their hospitals are legit/registered) and Tanzania (where it includes gender-based violence helplines).",
   "website": "https://health.the-star.co.ke/",
   "license": [
     {
@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Africa",

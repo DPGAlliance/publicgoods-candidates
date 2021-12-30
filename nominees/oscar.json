@@ -27,13 +27,18 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "World Meteorological Organization",
       "website": "https://public.wmo.int/en",
       "org_type": "owner",
-      "contact_name": "Timo Pröscholdt",
+      "contact_name": "Timo Pr\\u00f6scholdt",
       "contact_email": "tproescholdt@wmo.int"
     }
   ],

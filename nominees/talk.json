@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/coralproject/talk",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/coralproject/talk"
+    }
+  ],
   "organizations": [
     {
       "name": "The Coral Project",

@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/GibbonEdu/core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GibbonEdu/core"
+    }
+  ],
   "organizations": [
     {
       "name": "GibbonEdu",
