@@ -1,8 +1,8 @@
 {
   "name": "VictimsOfIntolerance",
   "aliases": [
-    "V\\u00edtimas da Intoler\\u00e2ncia",
-    "V\\u00edtimasDaIntoler\\u00e2ncia"
+    "Vítimas da Intolerância",
+    "VítimasDaIntolerância"
   ],
   "description": "Hate crimes monitor for political motivated assaults in Brazil.",
   "website": "https://www.vitimasdaintolerancia.org",
@@ -28,12 +28,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/okfn-brasil/vitimas-da-intolerancia"
-    }
-  ],
+  "repositoryURL": "https://github.com/okfn-brasil/vitimas-da-intolerancia",
   "organizations": [
     {
       "name": "Open Knowledge Brasil",

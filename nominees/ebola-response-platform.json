@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OSU-Battelle-Center/DRC-Ebola-Conflict"
-    }
-  ],
+  "repositoryURL": "https://github.com/OSU-Battelle-Center/DRC-Ebola-Conflict",
   "organizations": [
     {
       "name": "The Battelle Center",

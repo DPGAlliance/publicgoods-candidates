@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openMF/android-client"
-    }
-  ],
+  "repositoryURL": "https://github.com/openMF/android-client",
   "organizations": [
     {
       "name": "Mifos",

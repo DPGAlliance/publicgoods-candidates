@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Tanibox/tania-core"
-    }
-  ],
+  "repositoryURL": "https://github.com/Tanibox/tania-core",
   "organizations": [
     {
       "name": "Tanibox",

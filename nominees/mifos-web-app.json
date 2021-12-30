@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openMF/web-app"
-    }
-  ],
+  "repositoryURL": "https://github.com/openMF/web-app",
   "organizations": [
     {
       "name": "Mifos",

@@ -29,7 +29,7 @@
     },
     {
       "SDGNumber": 10,
-      "evidenceText": "Through free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the \\u2018at risk\\u2019 youth population (16-30 age group) in 9 regional territories of the Caribbean.",
+      "evidenceText": "Through free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the ‘at risk’ youth population (16-30 age group) in 9 regional territories of the Caribbean.",
       "evidenceURL": "https://2ndchance.cxc.org/press/CXC_Release-2_A_second_Chance_for_a_hands-on_education.pdf"
     },
     {
@@ -49,12 +49,7 @@
   "type": [
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositoryURL": "",
   "organizations": [
     {
       "name": "Notesmaster Caribbean",

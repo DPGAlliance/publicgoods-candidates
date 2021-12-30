@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/ESIPFed/sweet"
-    }
-  ],
+  "repositoryURL": "https://github.com/ESIPFed/sweet",
   "organizations": [
     {
       "name": "ESIP",

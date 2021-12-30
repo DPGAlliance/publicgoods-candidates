@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/biodigital-inc/caisis"
-    }
-  ],
+  "repositoryURL": "https://github.com/biodigital-inc/caisis",
   "organizations": [
     {
       "name": "BioDigital",

@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Vizzuality/gfw"
-    }
-  ],
+  "repositoryURL": "https://github.com/Vizzuality/gfw",
   "organizations": [
     {
       "name": "Global Forest Watch",

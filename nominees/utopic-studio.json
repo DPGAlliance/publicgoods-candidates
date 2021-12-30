@@ -17,12 +17,7 @@
   "type": [
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/utopic-studio/hanselygretelVR"
-    }
-  ],
+  "repositoryURL": "https://github.com/utopic-studio/hanselygretelVR",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

@@ -21,12 +21,7 @@
     "software",
     "standard"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenConceptLab/oclapi"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenConceptLab/oclapi",
   "organizations": [
     {
       "name": "Open Concept Lab",

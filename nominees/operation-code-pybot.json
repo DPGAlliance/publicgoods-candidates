@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OperationCode/operationcode-pybot"
-    }
-  ],
+  "repositoryURL": "https://github.com/OperationCode/operationcode-pybot",
   "organizations": [
     {
       "name": "Operation Code",

@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/sozialhelden/wheelmap-classic"
-    }
-  ],
+  "repositoryURL": "https://github.com/sozialhelden/wheelmap-classic",
   "organizations": [
     {
       "name": "Sozialhelden",

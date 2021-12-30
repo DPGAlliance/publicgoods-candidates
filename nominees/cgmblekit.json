@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/LoopKit/CGMBLEKit"
-    }
-  ],
+  "repositoryURL": "https://github.com/LoopKit/CGMBLEKit",
   "organizations": [
     {
       "name": "LoopKit",

@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenLMIS/openlmis-ref-distro"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenLMIS/openlmis-ref-distro",
   "organizations": [
     {
       "name": "VillageReach",

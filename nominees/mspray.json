@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/onaio/mspray"
-    }
-  ],
+  "repositoryURL": "https://github.com/onaio/mspray",
   "organizations": [
     {
       "name": "Akros",

@@ -28,12 +28,7 @@
     "software",
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/elimu-ai/webapp"
-    }
-  ],
+  "repositoryURL": "https://github.com/elimu-ai/webapp",
   "organizations": [
     {
       "name": "elimu.ai Community DAO",

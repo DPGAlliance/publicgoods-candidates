@@ -334,24 +334,9 @@
         ]
       }
     },
-    "repositories": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "url"
-        ],
-        "properties": {
-          "name": {
-            "type": "string",
-            "description": "Name of the Github (or other) repository"
-          },
-          "url": {
-            "type": "string",
-            "description": "Website of the repository"
-          }
-        }
-      }
+    "repositoryURL": {
+      "type": "string",
+      "description": "Link to Github (or other) repository."
     },
     "organizations": {
       "type": "array",

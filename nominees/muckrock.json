@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/MuckRock/muckrock"
-    }
-  ],
+  "repositoryURL": "https://github.com/MuckRock/muckrock",
   "organizations": [
     {
       "name": "Muckrock",

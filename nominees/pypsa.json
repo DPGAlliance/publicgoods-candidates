@@ -4,7 +4,7 @@
     "Python for Power System Analysis"
   ],
   "description": "Python for Power System Analysis is an open-source python environment for state-of-the-art energy system modelling.",
-  "website": "https://www.pypsa.org/",
+  "website": "http://www.pypsa.org/",
   "license": [
     {
       "spdx": "MIT",
@@ -39,12 +39,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/PyPSA/PyPSA"
-    }
-  ],
+  "repositoryURL": "https://github.com/PyPSA/PyPSA",
   "organizations": [
     {
       "name": "Energy System Modelling Group at the Institute for Automation and Applied Informatics",

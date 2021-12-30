@@ -27,18 +27,13 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/portableutm/dronfiesuss"
-    }
-  ],
+  "repositoryURL": "https://github.com/portableutm/dronfiesuss",
   "organizations": [
     {
       "name": "Dronfies Labs",
-      "website": "https://dronfies.com/",
+      "website": "http://dronfies.com/",
       "org_type": "owner",
-      "contact_name": "Sebasti\\u00e1n Mac\\u00edas",
+      "contact_name": "Sebastián Macías",
       "contact_email": "smacias@dronfies.com"
     },
     {

@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openfisca/openfisca-core"
-    }
-  ],
+  "repositoryURL": "https://github.com/openfisca/openfisca-core",
   "organizations": [
     {
       "name": "Etalab",

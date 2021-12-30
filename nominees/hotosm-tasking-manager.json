@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/hotosm/tasking-manager"
-    }
-  ],
+  "repositoryURL": "https://github.com/hotosm/tasking-manager",
   "organizations": [
     {
       "name": "Humanitarian Open Street Map Team",

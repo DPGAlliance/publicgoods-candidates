@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenDroneMap/ODM"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenDroneMap/ODM",
   "organizations": [
     {
       "name": "OpenDroneMap",

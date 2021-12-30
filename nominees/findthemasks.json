@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/findthemasks/findthemasks"
-    }
-  ],
+  "repositoryURL": "https://github.com/findthemasks/findthemasks",
   "organizations": [
     {
       "name": "FindTheMasks",

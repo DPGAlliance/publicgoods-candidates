@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Recidiviz/pulse-data"
-    }
-  ],
+  "repositoryURL": "https://github.com/Recidiviz/pulse-data",
   "organizations": [
     {
       "name": "Recidiviz",

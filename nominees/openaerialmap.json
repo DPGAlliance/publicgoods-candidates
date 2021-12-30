@@ -23,12 +23,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/hotosm/OpenAerialMap"
-    }
-  ],
+  "repositoryURL": "https://github.com/hotosm/OpenAerialMap",
   "organizations": [
     {
       "name": "humanitarian OpenStreetMap Team",

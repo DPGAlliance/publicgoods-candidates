@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OperationCode/operationcode_backend"
-    }
-  ],
+  "repositoryURL": "https://github.com/OperationCode/operationcode_backend",
   "organizations": [
     {
       "name": "Operation Code",

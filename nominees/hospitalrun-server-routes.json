@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/HospitalRun/hospitalrun-server-routes"
-    }
-  ],
+  "repositoryURL": "https://github.com/HospitalRun/hospitalrun-server-routes",
   "organizations": [
     {
       "name": "HospitalRun",

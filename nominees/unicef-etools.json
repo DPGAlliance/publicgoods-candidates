@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/unicef/etools"
-    }
-  ],
+  "repositoryURL": "https://github.com/unicef/etools",
   "organizations": [
     {
       "name": "UNICEF Innovation",

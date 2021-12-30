@@ -34,12 +34,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OTTAA-Project/OTTAAProject"
-    }
-  ],
+  "repositoryURL": "https://github.com/OTTAA-Project/OTTAAProject",
   "organizations": [
     {
       "name": "OTTAA Project",

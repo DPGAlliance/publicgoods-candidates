@@ -27,12 +27,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/signdict/website"
-    }
-  ],
+  "repositoryURL": "https://github.com/signdict/website",
   "organizations": [
     {
       "name": "SignDict",

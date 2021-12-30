@@ -19,7 +19,7 @@
     },
     {
       "SDGNumber": 17,
-      "evidenceText": "Bisa has partnered with GIZ ( The Deutsche Gesellschaft f\\u00fcr Internationale Zusammenarbeit GmbH ) and the Ghana Health Services to enhance Ghana\\u2019s public health service education of COVID-19 and manage affected cases who are self-isolating.  The Bisa App provides patients direct access to doctors and health practitioners with a click of the App, doctors are readily available to respond to all questions within minutes with absolutely no cost involved. The Bisa App is instrumental in these times because it will reduce face-to-face doctor consultations and help with reducing congestion in hospitals.",
+      "evidenceText": "Bisa has partnered with GIZ ( The Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH ) and the Ghana Health Services to enhance Ghana’s public health service education of COVID-19 and manage affected cases who are self-isolating.  The Bisa App provides patients direct access to doctors and health practitioners with a click of the App, doctors are readily available to respond to all questions within minutes with absolutely no cost involved. The Bisa App is instrumental in these times because it will reduce face-to-face doctor consultations and help with reducing congestion in hospitals.",
       "evidenceURL": "https://www.myjoyonline.com/hospital-consultation-made-easy-using-bisa-app/"
     }
   ],
@@ -29,12 +29,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/BisaMhealth/BisaApp"
-    }
-  ],
+  "repositoryURL": "https://github.com/BisaMhealth/BisaApp",
   "organizations": [
     {
       "name": "Bisa Health",

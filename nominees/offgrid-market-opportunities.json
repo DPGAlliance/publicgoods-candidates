@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/energy-data/market-opportunities"
-    }
-  ],
+  "repositoryURL": "https://github.com/energy-data/market-opportunities",
   "organizations": [
     {
       "name": "Energy Data",

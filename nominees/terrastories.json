@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Terrastories/terrastories"
-    }
-  ],
+  "repositoryURL": "https://github.com/Terrastories/terrastories",
   "organizations": [
     {
       "name": "Terrastories",

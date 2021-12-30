@@ -22,15 +22,15 @@
     },
     {
       "SDGNumber": 3,
-      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON\\u2019s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
+      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON’s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
     },
     {
       "SDGNumber": 9,
-      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON\\u2019s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
+      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON’s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
     },
     {
       "SDGNumber": 17,
-      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON\\u2019s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
+      "evidenceText": "In 2020, 45 million children under five were wasted (https://data.unicef.org/topic/nutrition/malnutrition/). These children require urgent feeding, treatment and care to survive. Early detection of nutritional status is essential, but current methods are either invasive, time-intensive, error-prone, and too dangerous to use during the COVID-19 pandemic. As such, there is a need for a safer, faster and more affordable method for assessing nutritional status in children especially when clinical capacity is stretched. MERON helps to quickly identify, locate and target the children most in need of nutritional assistance. With MERON’s more timely, cheaper, yet accurate, information, we can advance the prevention, diagnosis, and treatment of childhood undernutrition. For severe acute malnutrition (SAM) children alone, this means reducing deaths by 55%, thereby preventing over 150,000 deaths across low- and middle-income countries."
     }
   ],
   "sectors": [
@@ -40,12 +40,7 @@
     "software",
     "aimodel"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/kimetrica/MERON_api"
-    }
-  ],
+  "repositoryURL": "https://github.com/kimetrica/MERON_api",
   "organizations": [
     {
       "name": "Kimetrica LLC",

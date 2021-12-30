@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/natcap/invest"
-    }
-  ],
+  "repositoryURL": "https://github.com/natcap/invest",
   "organizations": [
     {
       "name": "The Natural Capital Project",

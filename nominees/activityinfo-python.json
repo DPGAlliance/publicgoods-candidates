@@ -26,12 +26,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/bedatadriven/activityinfo-Python"
-    }
-  ],
+  "repositoryURL": "https://github.com/bedatadriven/activityinfo-Python",
   "organizations": [
     {
       "name": "Be Data Driven",

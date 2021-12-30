@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/etalab/croquemort"
-    }
-  ],
+  "repositoryURL": "https://github.com/etalab/croquemort",
   "organizations": [
     {
       "name": "Open Data Team",

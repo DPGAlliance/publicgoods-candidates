@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/apache/ctakes"
-    }
-  ],
+  "repositoryURL": "https://github.com/apache/ctakes",
   "organizations": [
     {
       "name": "The Apache Software Foundation",

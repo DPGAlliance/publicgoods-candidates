@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/covid-projections/covid-projections"
-    }
-  ],
+  "repositoryURL": "https://github.com/covid-projections/covid-projections",
   "organizations": [
     {
       "name": "Covid ActNow",

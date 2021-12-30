@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/GreenButtonAlliance/OpenESPI-Common-java"
-    }
-  ],
+  "repositoryURL": "https://github.com/GreenButtonAlliance/OpenESPI-Common-java",
   "organizations": [
     {
       "name": "Green Button Alliance",

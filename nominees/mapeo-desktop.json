@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/digidem/mapeo-desktop"
-    }
-  ],
+  "repositoryURL": "https://github.com/digidem/mapeo-desktop",
   "organizations": [
     {
       "name": "Digital Democracy",

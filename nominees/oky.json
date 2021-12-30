@@ -34,12 +34,7 @@
     "software",
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/alextyers/period-tracker-app-whitelabelled"
-    }
-  ],
+  "repositoryURL": "https://github.com/alextyers/period-tracker-app-whitelabelled",
   "organizations": [
     {
       "name": "UNICEF",

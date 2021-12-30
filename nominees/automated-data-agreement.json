@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/decentralised-dataexchange/acapy-mydata-did-protocol"
-    }
-  ],
+  "repositoryURL": "https://github.com/decentralised-dataexchange/acapy-mydata-did-protocol",
   "organizations": [
     {
       "name": "iGrant.io",

@@ -18,12 +18,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit"
-    }
-  ],
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit",
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

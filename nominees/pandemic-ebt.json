@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/codeforamerica/pandemic-ebt-ca"
-    }
-  ],
+  "repositoryURL": "https://github.com/codeforamerica/pandemic-ebt-ca",
   "organizations": [
     {
       "name": "Code for America",

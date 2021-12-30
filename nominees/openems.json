@@ -25,12 +25,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenEMS/openems"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenEMS/openems",
   "organizations": [
     {
       "name": "OpenEMS Association e.V.",

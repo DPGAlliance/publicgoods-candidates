@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/globaleaks/GlobaLeaks"
-    }
-  ],
+  "repositoryURL": "https://github.com/globaleaks/GlobaLeaks",
   "organizations": [
     {
       "name": "GlobaLeaks",

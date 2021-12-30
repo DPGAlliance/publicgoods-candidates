@@ -18,12 +18,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/tmrowco/bloom-contrib"
-    }
-  ],
+  "repositoryURL": "https://github.com/tmrowco/bloom-contrib",
   "organizations": [
     {
       "name": "Tomorrow",

@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/usdigitalresponse/neighbor-express"
-    }
-  ],
+  "repositoryURL": "https://github.com/usdigitalresponse/neighbor-express",
   "organizations": [
     {
       "name": "The City of Concord, CA",

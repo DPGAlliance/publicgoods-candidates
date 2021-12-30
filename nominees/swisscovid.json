@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/DP-3T"
-    }
-  ],
+  "repositoryURL": "https://github.com/DP-3T",
   "organizations": [
     {
       "name": "Ecole Polytechnique Federale de Lausanne and ETH Zurich",

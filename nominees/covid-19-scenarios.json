@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/neherlab/covid19_scenarios"
-    }
-  ],
+  "repositoryURL": "https://github.com/neherlab/covid19_scenarios",
   "organizations": [
     {
       "name": "University of Basel",

@@ -34,12 +34,7 @@
   "type": [
     "standard"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/publiccodenet/standard"
-    }
-  ],
+  "repositoryURL": "https://github.com/publiccodenet/standard",
   "organizations": [
     {
       "name": "Foundation for Public Code",

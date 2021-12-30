@@ -1,6 +1,6 @@
 {
   "name": "Opt-Out",
-  "description": "Opt Out is a browser extension that filters sexual harassment and sexist hate speech from an individual\\u2019s twitter feed.",
+  "description": "Opt Out is a browser extension that filters sexual harassment and sexist hate speech from an individual’s twitter feed.",
   "website": "",
   "license": [
     {
@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/opt-out-tools/opt-out"
-    }
-  ],
+  "repositoryURL": "https://github.com/opt-out-tools/opt-out",
   "organizations": [
     {
       "name": "Opt-Out",

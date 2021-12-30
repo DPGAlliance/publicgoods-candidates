@@ -27,12 +27,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://gitlab.com/pcmt/pcmt"
-    }
-  ],
+  "repositoryURL": "https://gitlab.com/pcmt/pcmt",
   "organizations": [
     {
       "name": "VillageReach",

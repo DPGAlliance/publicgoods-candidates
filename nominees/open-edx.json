@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/edx/edx-platform"
-    }
-  ],
+  "repositoryURL": "https://github.com/edx/edx-platform",
   "organizations": [
     {
       "name": "edX",

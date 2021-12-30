@@ -31,12 +31,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage"
-    }
-  ],
+  "repositoryURL": "https://github.com/ProjectSidewalk/SidewalkWebpage",
   "organizations": [
     {
       "name": "University of Washington",

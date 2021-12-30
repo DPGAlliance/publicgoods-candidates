@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/tmrowco/electricitymap-contrib"
-    }
-  ],
+  "repositoryURL": "https://github.com/tmrowco/electricitymap-contrib",
   "organizations": [
     {
       "name": "Tomorrow",

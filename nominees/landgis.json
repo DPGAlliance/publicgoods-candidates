@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Envirometrix/LandGISmaps"
-    }
-  ],
+  "repositoryURL": "https://github.com/Envirometrix/LandGISmaps",
   "organizations": [
     {
       "name": "OpenGeoHub",

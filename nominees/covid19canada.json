@@ -16,12 +16,7 @@
   "type": [
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/ccodwg/Covid19Canada"
-    }
-  ],
+  "repositoryURL": "https://github.com/ccodwg/Covid19Canada",
   "organizations": [
     {
       "name": "COVID-19 Canada Open Data Working Group",

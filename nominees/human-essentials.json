@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/rubyforgood/human-essentials"
-    }
-  ],
+  "repositoryURL": "https://github.com/rubyforgood/human-essentials",
   "organizations": [
     {
       "name": "RubyForGood",

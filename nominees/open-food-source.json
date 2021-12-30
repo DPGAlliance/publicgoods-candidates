@@ -26,12 +26,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openfoodsource/OFS_trunk"
-    }
-  ],
+  "repositoryURL": "https://github.com/openfoodsource/OFS_trunk",
   "organizations": [
     {
       "name": "Open Food Source",

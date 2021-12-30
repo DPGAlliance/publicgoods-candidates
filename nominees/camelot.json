@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://gitlab.com/camelot-project/camelot"
-    }
-  ],
+  "repositoryURL": "https://gitlab.com/camelot-project/camelot",
   "organizations": [
     {
       "name": "Camelot",

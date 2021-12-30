@@ -18,12 +18,7 @@
     "software",
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Growstuff/growstuff"
-    }
-  ],
+  "repositoryURL": "https://github.com/Growstuff/growstuff",
   "organizations": [
     {
       "name": "GrowStuff",

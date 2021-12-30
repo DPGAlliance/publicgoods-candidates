@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/HospitalRun/hospitalrun-frontend"
-    }
-  ],
+  "repositoryURL": "https://github.com/HospitalRun/hospitalrun-frontend",
   "organizations": [
     {
       "name": "HospitalRun",

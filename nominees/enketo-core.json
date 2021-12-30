@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/enketo/enketo-core"
-    }
-  ],
+  "repositoryURL": "https://github.com/enketo/enketo-core",
   "organizations": [
     {
       "name": "Enketo",

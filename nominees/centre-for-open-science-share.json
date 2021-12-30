@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/CenterForOpenScience/SHARE"
-    }
-  ],
+  "repositoryURL": "https://github.com/CenterForOpenScience/SHARE",
   "organizations": [
     {
       "name": "Centre for Open Science",

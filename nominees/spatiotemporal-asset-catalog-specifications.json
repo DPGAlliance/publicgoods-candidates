@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/radiantearth/stac-spec"
-    }
-  ],
+  "repositoryURL": "https://github.com/radiantearth/stac-spec",
   "organizations": [
     {
       "name": "Radiant Earth",

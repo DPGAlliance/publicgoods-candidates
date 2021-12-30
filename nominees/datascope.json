@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/sharmalab/Datascope"
-    }
-  ],
+  "repositoryURL": "https://github.com/sharmalab/Datascope",
   "organizations": [
     {
       "name": "BMI",

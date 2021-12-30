@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/farmOS/farmOS"
-    }
-  ],
+  "repositoryURL": "https://github.com/farmOS/farmOS",
   "organizations": [
     {
       "name": "farmOS",

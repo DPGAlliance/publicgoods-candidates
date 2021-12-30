@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/hotosm/learnosm"
-    }
-  ],
+  "repositoryURL": "https://github.com/hotosm/learnosm",
   "organizations": [
     {
       "name": "HOTOSM",

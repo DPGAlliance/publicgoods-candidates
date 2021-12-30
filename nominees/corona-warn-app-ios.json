@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/corona-warn-app/cwa-app-ios"
-    }
-  ],
+  "repositoryURL": "https://github.com/corona-warn-app/cwa-app-ios",
   "organizations": [
     {
       "name": "SAP",

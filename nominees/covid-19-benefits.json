@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/cds-snc/c19-benefits-node/"
-    }
-  ],
+  "repositoryURL": "https://github.com/cds-snc/c19-benefits-node/",
   "organizations": [
     {
       "name": "Canadian Digital Service",

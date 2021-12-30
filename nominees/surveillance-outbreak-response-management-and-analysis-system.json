@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/hzi-braunschweig/SORMAS-Project"
-    }
-  ],
+  "repositoryURL": "https://github.com/hzi-braunschweig/SORMAS-Project",
   "organizations": [
     {
       "name": "Helmholtz Centre for Infection Research",

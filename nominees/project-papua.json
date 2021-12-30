@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/usdigitalresponse/project-papua"
-    }
-  ],
+  "repositoryURL": "https://github.com/usdigitalresponse/project-papua",
   "organizations": [
     {
       "name": "US Digital Response",

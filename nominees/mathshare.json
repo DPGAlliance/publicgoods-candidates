@@ -1,6 +1,6 @@
 {
   "name": "MathShare",
-  "description": "Mathshare, Benetech\\u2019s new accessible online math platform is exploring ways to push the limits of how students and educators interact with digital math problems",
+  "description": "Mathshare, Benetech’s new accessible online math platform is exploring ways to push the limits of how students and educators interact with digital math problems",
   "website": "",
   "license": [
     {
@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/benetech/MathShare"
-    }
-  ],
+  "repositoryURL": "https://github.com/benetech/MathShare",
   "organizations": [
     {
       "name": "Benetech",

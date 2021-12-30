@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/sugarlabs/turtleart-activity"
-    }
-  ],
+  "repositoryURL": "https://github.com/sugarlabs/turtleart-activity",
   "organizations": [
     {
       "name": "SugarLabs",

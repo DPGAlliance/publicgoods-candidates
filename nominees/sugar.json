@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/sugarlabs/sugar"
-    }
-  ],
+  "repositoryURL": "https://github.com/sugarlabs/sugar",
   "organizations": [
     {
       "name": "SugarLabs",

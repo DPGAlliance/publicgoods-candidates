@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/logistimo/logistimo-web-service"
-    }
-  ],
+  "repositoryURL": "https://github.com/logistimo/logistimo-web-service",
   "organizations": [
     {
       "name": "Logistimo",

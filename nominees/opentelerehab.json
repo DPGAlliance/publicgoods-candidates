@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenTeleRehab/admin-web-app/"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenTeleRehab/admin-web-app/",
   "organizations": [
     {
       "name": "Humanity & Inclusion",

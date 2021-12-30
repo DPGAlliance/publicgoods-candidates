@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/akvo/akvo-flow"
-    }
-  ],
+  "repositoryURL": "https://github.com/akvo/akvo-flow",
   "organizations": [
     {
       "name": "Akvo Foundation",

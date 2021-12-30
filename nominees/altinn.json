@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 16,
-      "evidenceText": "It\\u2019s essential for governments and institutions to be able to have effective dialogue with its population an businesses using a trusted platform. Altinn is such a platform, used by every organisation and the whole population in Norway, since 2003."
+      "evidenceText": "It’s essential for governments and institutions to be able to have effective dialogue with its population an businesses using a trusted platform. Altinn is such a platform, used by every organisation and the whole population in Norway, since 2003."
     }
   ],
   "sectors": [
@@ -23,12 +23,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Altinn/altinn-studio"
-    }
-  ],
+  "repositoryURL": "https://github.com/Altinn/altinn-studio",
   "organizations": [
     {
       "name": "Norwegian Digitalisation Agency",

@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Welthungerhilfe/cgm-scanner"
-    }
-  ],
+  "repositoryURL": "https://github.com/Welthungerhilfe/cgm-scanner",
   "organizations": [
     {
       "name": "Welt Hunger Hilfe",

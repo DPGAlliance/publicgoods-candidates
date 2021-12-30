@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/faisalmlalani/rah-e-maa"
-    }
-  ],
+  "repositoryURL": "https://github.com/faisalmlalani/rah-e-maa",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

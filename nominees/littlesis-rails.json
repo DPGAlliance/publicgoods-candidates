@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/public-accountability/littlesis-rails"
-    }
-  ],
+  "repositoryURL": "https://github.com/public-accountability/littlesis-rails",
   "organizations": [
     {
       "name": "Public Accountability Initiative",

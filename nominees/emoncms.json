@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/emoncms/emoncms"
-    }
-  ],
+  "repositoryURL": "https://github.com/emoncms/emoncms",
   "organizations": [
     {
       "name": "OpenEnergyMonitor",

@@ -28,12 +28,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/boxwise/dropapp"
-    }
-  ],
+  "repositoryURL": "https://github.com/boxwise/dropapp",
   "organizations": [
     {
       "name": "Stitching Boxwise",

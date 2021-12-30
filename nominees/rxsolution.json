@@ -23,12 +23,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/MSH/RxSolution"
-    }
-  ],
+  "repositoryURL": "https://github.com/MSH/RxSolution",
   "organizations": [
     {
       "name": "Management Sciences for Health",

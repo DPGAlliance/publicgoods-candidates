@@ -19,12 +19,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/webpack/webpack/"
-    }
-  ],
+  "repositoryURL": "https://github.com/webpack/webpack/",
   "organizations": [
     {
       "name": "webpack",

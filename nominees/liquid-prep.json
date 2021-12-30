@@ -30,7 +30,7 @@
     },
     {
       "SDGNumber": 17,
-      "evidenceText": "Liquid Prep has a developed a great working relationship with partners SmartCone Technologies, Inc., and Central New Mexico Community College. Students in the Deep Dive Coding Internet of Things (IoT) Bootcamp at CNM are designing, developing, and producing a robust IoT sensor and housing it in the shape of a stick that can be inserted into the soil and transfer the soil moisture data to the Liquid Prep mobile app via Bluetooth. The collaboration gives students important real-world experience before they enter the workforce. \\u201cSmartCone is honored to be part of this project.  This is a perfect example of technology teams working together to help make the world a better place, \\u201c said Jason Lee, Founder & CEO, SmartCone Technologies Inc.Additionally, Liquid Prep will work together with J&H Nixon Farms, who largely grow soybeans and corn crops on about 2800 acres of agricultural land in Ottawa, Canada. They have offered Liquid Prep the opportunity to pilot test the prototype on several plots of land that have different soil conditions, which in turn can expand the breadth of recommendation options to a larger number of potential users.",
+      "evidenceText": "Liquid Prep has a developed a great working relationship with partners SmartCone Technologies, Inc., and Central New Mexico Community College. Students in the Deep Dive Coding Internet of Things (IoT) Bootcamp at CNM are designing, developing, and producing a robust IoT sensor and housing it in the shape of a stick that can be inserted into the soil and transfer the soil moisture data to the Liquid Prep mobile app via Bluetooth. The collaboration gives students important real-world experience before they enter the workforce. “SmartCone is honored to be part of this project.  This is a perfect example of technology teams working together to help make the world a better place, “ said Jason Lee, Founder & CEO, SmartCone Technologies Inc.Additionally, Liquid Prep will work together with J&H Nixon Farms, who largely grow soybeans and corn crops on about 2800 acres of agricultural land in Ottawa, Canada. They have offered Liquid Prep the opportunity to pilot test the prototype on several plots of land that have different soil conditions, which in turn can expand the breadth of recommendation options to a larger number of potential users.",
       "evidenceURL": "https://www.linuxfoundation.org/en/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/"
     }
   ],
@@ -42,12 +42,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Call-for-Code/Liquid-Prep"
-    }
-  ],
+  "repositoryURL": "https://github.com/Call-for-Code/Liquid-Prep",
   "organizations": [
     {
       "name": "Call-for-Code",

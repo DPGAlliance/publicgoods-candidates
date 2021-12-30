@@ -25,12 +25,7 @@
     "data",
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/wri/global-power-plant-database"
-    }
-  ],
+  "repositoryURL": "https://github.com/wri/global-power-plant-database",
   "organizations": [
     {
       "name": "World Resources Institute",

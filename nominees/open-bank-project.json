@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenBankProject/OBP-API"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenBankProject/OBP-API",
   "organizations": [
     {
       "name": "TESOBE",

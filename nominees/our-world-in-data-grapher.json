@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/owid/owid-grapher"
-    }
-  ],
+  "repositoryURL": "https://github.com/owid/owid-grapher",
   "organizations": [
     {
       "name": "Our World In Data",

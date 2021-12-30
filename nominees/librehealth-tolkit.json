@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/LibreHealthIO/lh-toolkit"
-    }
-  ],
+  "repositoryURL": "https://github.com/LibreHealthIO/lh-toolkit",
   "organizations": [
     {
       "name": "LibreHealthIO",

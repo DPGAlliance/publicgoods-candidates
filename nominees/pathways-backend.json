@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/pg-irc/pathways-backend"
-    }
-  ],
+  "repositoryURL": "https://github.com/pg-irc/pathways-backend",
   "organizations": [
     {
       "name": "Peace Geeks",

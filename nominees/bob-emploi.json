@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/bayesimpact/bob-emploi"
-    }
-  ],
+  "repositoryURL": "https://github.com/bayesimpact/bob-emploi",
   "organizations": [
     {
       "name": "Bayes Impact",

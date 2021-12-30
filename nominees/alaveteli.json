@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/mysociety/alaveteli"
-    }
-  ],
+  "repositoryURL": "https://github.com/mysociety/alaveteli",
   "organizations": [
     {
       "name": "mySociety",

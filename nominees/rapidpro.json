@@ -31,12 +31,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/rapidpro/rapidpro"
-    }
-  ],
+  "repositoryURL": "https://github.com/rapidpro/rapidpro",
   "organizations": [
     {
       "name": "RapidPro",
@@ -44,7 +39,7 @@
       "org_type": "owner"
     },
     {
-      "name": "United Nations Children\\u2019s Fund (UNICEF)",
+      "name": "United Nations Children’s Fund (UNICEF)",
       "website": "https://unicef.org",
       "org_type": "funder"
     }

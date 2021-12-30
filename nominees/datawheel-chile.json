@@ -26,12 +26,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Datawheel/canon"
-    }
-  ],
+  "repositoryURL": "https://github.com/Datawheel/canon",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

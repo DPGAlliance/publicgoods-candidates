@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/remindmodel/remind"
-    }
-  ],
+  "repositoryURL": "https://github.com/remindmodel/remind",
   "organizations": [
     {
       "name": "Potsdam Institute for Climate Impact Research",

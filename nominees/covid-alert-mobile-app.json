@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/cds-snc/covid-alert-app"
-    }
-  ],
+  "repositoryURL": "https://github.com/cds-snc/covid-alert-app",
   "organizations": [
     {
       "name": "Canadian Digital Service",
