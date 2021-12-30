@@ -19,12 +19,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/unicef/juniper-portfolio"
-    }
-  ],
+  "repositoryURL": "https://github.com/unicef/juniper-portfolio",
   "organizations": [
     {
       "name": "UNICEF",

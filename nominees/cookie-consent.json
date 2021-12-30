@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/osano/cookieconsent"
-    }
-  ],
+  "repositoryURL": "https://github.com/osano/cookieconsent",
   "organizations": [
     {
       "name": "Osano",

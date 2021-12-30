@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Project-AsTeR/website"
-    }
-  ],
+  "repositoryURL": "https://github.com/Project-AsTeR/website",
   "organizations": [
     {
       "name": "AsTer",

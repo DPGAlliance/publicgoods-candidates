@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure"
-    }
-  ],
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure",
   "organizations": [
     {
       "name": "Africa COVID-19 Response Toolkit",

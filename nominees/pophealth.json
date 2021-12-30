@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/WorldVistA/popHealth"
-    }
-  ],
+  "repositoryURL": "https://github.com/WorldVistA/popHealth",
   "organizations": [
     {
       "name": "WorldVistA",

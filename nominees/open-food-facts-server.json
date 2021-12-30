@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openfoodfacts/openfoodfacts-server"
-    }
-  ],
+  "repositoryURL": "https://github.com/openfoodfacts/openfoodfacts-server",
   "organizations": [
     {
       "name": "Open Food Facts",

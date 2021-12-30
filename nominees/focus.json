@@ -25,12 +25,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP"
-    }
-  ],
+  "repositoryURL": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP",
   "organizations": [
     {
       "name": "FOCUS",

@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/inasafe/inasafe"
-    }
-  ],
+  "repositoryURL": "https://github.com/inasafe/inasafe",
   "organizations": [
     {
       "name": "InaSafe",

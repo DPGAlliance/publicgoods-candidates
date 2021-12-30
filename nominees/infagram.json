@@ -23,12 +23,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/publiclab/infragram"
-    }
-  ],
+  "repositoryURL": "https://github.com/publiclab/infragram",
   "organizations": [
     {
       "name": "PublicLab",

@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Intelehealth/intelehealth-openmrs-ui"
-    }
-  ],
+  "repositoryURL": "https://github.com/Intelehealth/intelehealth-openmrs-ui",
   "organizations": [
     {
       "name": "InteleHealth",

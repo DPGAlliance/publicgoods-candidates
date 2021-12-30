@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/codeforamerica/michigan-benefits"
-    }
-  ],
+  "repositoryURL": "https://github.com/codeforamerica/michigan-benefits",
   "organizations": [
     {
       "name": "Code for America",

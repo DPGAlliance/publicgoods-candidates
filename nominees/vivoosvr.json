@@ -27,12 +27,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Ideasis/VivoosVR"
-    }
-  ],
+  "repositoryURL": "https://github.com/Ideasis/VivoosVR",
   "organizations": [
     {
       "name": "Ideasis / Turkey",

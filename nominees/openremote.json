@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openremote/openremote"
-    }
-  ],
+  "repositoryURL": "https://github.com/openremote/openremote",
   "organizations": [
     {
       "name": "Open Remote",

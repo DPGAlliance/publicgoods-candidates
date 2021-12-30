@@ -32,12 +32,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/2020PB/police-brutality"
-    }
-  ],
+  "repositoryURL": "https://github.com/2020PB/police-brutality",
   "organizations": [
     {
       "name": "2020PB",

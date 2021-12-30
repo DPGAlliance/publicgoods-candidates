@@ -11,7 +11,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "IntraHealth and UNICEF worked together in Liberia to engage national stakeholders, structure and design the mHero approach according to Liberia\\u2019s needs, help adapt the technology in the country, and build institutional capacity within the ministry to guide and manage mHero. In December 2014, the ministry pilot-tested mHero. They sent messages to 289 health workers, 57% of whom responded.",
+      "evidenceText": "IntraHealth and UNICEF worked together in Liberia to engage national stakeholders, structure and design the mHero approach according to Liberia’s needs, help adapt the technology in the country, and build institutional capacity within the ministry to guide and manage mHero. In December 2014, the ministry pilot-tested mHero. They sent messages to 289 health workers, 57% of whom responded.",
       "evidenceURL": "https://www.mhero.org/mhero-origins, \nhttps://www.mhero.org/mhero-users-and-use-cases"
     }
   ],
@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/intrahealth/emNutt"
-    }
-  ],
+  "repositoryURL": "https://github.com/intrahealth/emNutt",
   "organizations": [
     {
       "name": "IntraHealth International",

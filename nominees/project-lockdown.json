@@ -26,12 +26,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/TheIOFoundation/ProjectLockdown"
-    }
-  ],
+  "repositoryURL": "https://github.com/TheIOFoundation/ProjectLockdown",
   "organizations": [
     {
       "name": "The IO Foundation",

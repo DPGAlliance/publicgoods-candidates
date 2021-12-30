@@ -23,12 +23,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/publiclab/leaflet-environmental-layers"
-    }
-  ],
+  "repositoryURL": "https://github.com/publiclab/leaflet-environmental-layers",
   "organizations": [
     {
       "name": "PublicLab",

@@ -44,12 +44,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/ushahidi/platform"
-    }
-  ],
+  "repositoryURL": "https://github.com/ushahidi/platform",
   "organizations": [
     {
       "name": "Ushahidi",

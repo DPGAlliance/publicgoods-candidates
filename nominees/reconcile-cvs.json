@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/okfn/reconcile-csv"
-    }
-  ],
+  "repositoryURL": "https://github.com/okfn/reconcile-csv",
   "organizations": [
     {
       "name": "Open Knowledge Foundation",

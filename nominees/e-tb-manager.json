@@ -23,12 +23,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/MSH/eTBManager3"
-    }
-  ],
+  "repositoryURL": "https://github.com/MSH/eTBManager3",
   "organizations": [
     {
       "name": "Management Sciences for Health",

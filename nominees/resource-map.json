@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/instedd/resourcemap"
-    }
-  ],
+  "repositoryURL": "https://github.com/instedd/resourcemap",
   "organizations": [
     {
       "name": "InSTEDD",

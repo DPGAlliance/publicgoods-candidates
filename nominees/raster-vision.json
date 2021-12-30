@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/azavea/raster-vision"
-    }
-  ],
+  "repositoryURL": "https://github.com/azavea/raster-vision",
   "organizations": [
     {
       "name": "Azavea",

@@ -1,6 +1,6 @@
 {
   "name": "Kiwix",
-  "description": "Kiwix lets you access free knowledge \\u2013 even offline",
+  "description": "Kiwix lets you access free knowledge – even offline",
   "website": "https://www.kiwix.org",
   "license": [
     {
@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/kiwix/kiwix-android"
-    }
-  ],
+  "repositoryURL": "https://github.com/kiwix/kiwix-android",
   "organizations": [
     {
       "name": "Kiwix",

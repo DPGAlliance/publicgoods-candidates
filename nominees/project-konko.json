@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/nubianvr-source/ProjectKonko"
-    }
-  ],
+  "repositoryURL": "https://github.com/nubianvr-source/ProjectKonko",
   "organizations": [
     {
       "name": "Nubian Virtual Reality Technology",

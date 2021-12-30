@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/HIT2GAP-EU-PROJECT/bemserver"
-    }
-  ],
+  "repositoryURL": "https://github.com/HIT2GAP-EU-PROJECT/bemserver",
   "organizations": [
     {
       "name": "HIT2GAP",

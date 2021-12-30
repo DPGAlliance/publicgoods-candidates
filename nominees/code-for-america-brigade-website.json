@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/codeforamerica/brigade"
-    }
-  ],
+  "repositoryURL": "https://github.com/codeforamerica/brigade",
   "organizations": [
     {
       "name": "Code for America",

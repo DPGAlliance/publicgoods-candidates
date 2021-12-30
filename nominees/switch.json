@@ -4,7 +4,7 @@
     "Switch Power System Planning Model"
   ],
   "description": "SWITCH is a power system model, focused on renewables integration. It can identify which generator and transmission projects to build in order to satisfy electricity demand at the lowest cost over a several-year period.",
-  "website": "https://switch-model.org/",
+  "website": "http://switch-model.org/",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -37,16 +37,11 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/switch-model/switch"
-    }
-  ],
+  "repositoryURL": "https://github.com/switch-model/switch",
   "organizations": [
     {
       "name": "University of Hawai'i",
-      "website": "https://www.hawaii.edu/",
+      "website": "http://www.hawaii.edu/",
       "org_type": "maintainer",
       "contact_name": "Josiah Johnston",
       "contact_email": "josiah.johnston@gmail.com"

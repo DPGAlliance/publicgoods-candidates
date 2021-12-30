@@ -1,6 +1,6 @@
 {
   "name": "Accessibility-cloud",
-  "description": "Our mission is to make accessibility information easier to find\\u2014wherever people need it",
+  "description": "Our mission is to make accessibility information easier to find—wherever people need it",
   "website": "https://www.accessibility.cloud/",
   "license": [
     {
@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/sozialhelden/accessibility-cloud"
-    }
-  ],
+  "repositoryURL": "https://github.com/sozialhelden/accessibility-cloud",
   "organizations": [
     {
       "name": "Sozialhelden",

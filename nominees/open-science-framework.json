@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/CenterForOpenScience/osf.io"
-    }
-  ],
+  "repositoryURL": "https://github.com/CenterForOpenScience/osf.io",
   "organizations": [
     {
       "name": "Centre for Open Science",

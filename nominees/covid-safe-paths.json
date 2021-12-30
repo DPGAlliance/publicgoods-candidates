@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/tripleblindmarket/covid-safe-paths"
-    }
-  ],
+  "repositoryURL": "https://github.com/tripleblindmarket/covid-safe-paths",
   "organizations": [
     {
       "name": "MIT",

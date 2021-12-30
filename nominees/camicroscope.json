@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/camicroscope/caMicroscope"
-    }
-  ],
+  "repositoryURL": "https://github.com/camicroscope/caMicroscope",
   "organizations": [
     {
       "name": "BMI",

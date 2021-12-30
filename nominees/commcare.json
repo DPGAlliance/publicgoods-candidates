@@ -42,12 +42,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/dimagi/commcare-hq"
-    }
-  ],
+  "repositoryURL": "https://github.com/dimagi/commcare-hq",
   "organizations": [
     {
       "name": "Dimagi",

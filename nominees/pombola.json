@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/mysociety/pombola"
-    }
-  ],
+  "repositoryURL": "https://github.com/mysociety/pombola",
   "organizations": [
     {
       "name": "mySociety",

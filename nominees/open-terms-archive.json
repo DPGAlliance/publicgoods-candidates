@@ -22,18 +22,13 @@
   "type": [
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositoryURL": "",
   "organizations": [
     {
       "name": "Ambassador for digital affairs (FR)",
       "website": "https://disinfo.quaidorsay.fr/fr/nos-outils",
       "org_type": "owner",
-      "contact_name": "Cl\\u00e9ment Biron",
+      "contact_name": "Clément Biron",
       "contact_email": "clement.biron@beta.gouv.fr"
     }
   ],

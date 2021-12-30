@@ -19,7 +19,7 @@
     },
     {
       "SDGNumber": 6,
-      "evidenceText": "Help can come from anywhere. And people in Detroit need help. In 2014 the City of Detroit was in the middle of the largest municipal bankruptcy in U.S. history and the city aggressively started turning off water to delinquent accounts in a desperate attempt to right the city\\u2019s finances. More than 33,000 consumers had their water shut off in 2014 alone. The Detroit water project is a non profit organization that helps to link donors to families that needs to pay off their water utility bills.  ",
+      "evidenceText": "Help can come from anywhere. And people in Detroit need help. In 2014 the City of Detroit was in the middle of the largest municipal bankruptcy in U.S. history and the city aggressively started turning off water to delinquent accounts in a desperate attempt to right the city’s finances. More than 33,000 consumers had their water shut off in 2014 alone. The Detroit water project is a non profit organization that helps to link donors to families that needs to pay off their water utility bills.  ",
       "evidenceURL": "https://techcrunch.com/2015/03/18/the-detroit-water-project-connect-donors-to-unpaid-water-bills/"
     }
   ],
@@ -27,12 +27,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/humanutility/detroit-water-project"
-    }
-  ],
+  "repositoryURL": "https://github.com/humanutility/detroit-water-project",
   "organizations": [
     {
       "name": "The Human Utility",

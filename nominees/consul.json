@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/consul/consul"
-    }
-  ],
+  "repositoryURL": "https://github.com/consul/consul",
   "organizations": [
     {
       "name": "Consul",

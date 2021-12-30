@@ -24,16 +24,11 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenWaterAnalytics/EPANET"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenWaterAnalytics/EPANET",
   "organizations": [
     {
       "name": "OpenWaterAnalytics",
-      "website": "https://wateranalytics.org/",
+      "website": "http://wateranalytics.org/",
       "org_type": "owner"
     }
   ],

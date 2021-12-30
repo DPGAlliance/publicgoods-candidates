@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/LLK/scratchjr"
-    }
-  ],
+  "repositoryURL": "https://github.com/LLK/scratchjr",
   "organizations": [
     {
       "name": "Scratch",

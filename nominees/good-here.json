@@ -63,12 +63,7 @@
     "software",
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/goodhere/goodhere"
-    }
-  ],
+  "repositoryURL": "https://github.com/goodhere/goodhere",
   "organizations": [
     {
       "name": "Ben Matthew",

@@ -27,12 +27,7 @@
     "data",
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/ihsn/nada"
-    }
-  ],
+  "repositoryURL": "https://github.com/ihsn/nada",
   "organizations": [
     {
       "name": "World Bank",

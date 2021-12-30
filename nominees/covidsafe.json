@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/covidsafe/App-Android"
-    }
-  ],
+  "repositoryURL": "https://github.com/covidsafe/App-Android",
   "organizations": [
     {
       "name": "University of Washington",

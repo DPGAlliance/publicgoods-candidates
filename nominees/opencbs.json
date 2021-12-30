@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://sourceforge.net/projects/opencbs/"
-    }
-  ],
+  "repositoryURL": "https://sourceforge.net/projects/opencbs/",
   "organizations": [
     {
       "name": "OpenCBS",

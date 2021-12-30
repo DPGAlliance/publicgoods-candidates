@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/a11yproject/a11yproject.com"
-    }
-  ],
+  "repositoryURL": "https://github.com/a11yproject/a11yproject.com",
   "organizations": [
     {
       "name": "The Accessibility",

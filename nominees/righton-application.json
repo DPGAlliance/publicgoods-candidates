@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/righton-dev/righton-app"
-    }
-  ],
+  "repositoryURL": "https://github.com/righton-dev/righton-app",
   "organizations": [
     {
       "name": "RightOn Education",

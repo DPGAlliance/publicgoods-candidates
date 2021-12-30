@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/GlobalFishingWatch/vessel-classification"
-    }
-  ],
+  "repositoryURL": "https://github.com/GlobalFishingWatch/vessel-classification",
   "organizations": [
     {
       "name": "Global Fishing Watch",

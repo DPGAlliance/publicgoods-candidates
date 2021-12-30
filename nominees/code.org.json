@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/code-dot-org/code-dot-org"
-    }
-  ],
+  "repositoryURL": "https://github.com/code-dot-org/code-dot-org",
   "organizations": [
     {
       "name": "Code.org",

@@ -24,12 +24,7 @@
   "type": [
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/GlobalDigitalLibraryio/book-api"
-    }
-  ],
+  "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
   "organizations": [
     {
       "name": "Global Book Alliance",

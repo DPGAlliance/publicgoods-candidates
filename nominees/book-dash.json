@@ -3,8 +3,8 @@
   "aliases": [
     ""
   ],
-  "description": "Book Dash is a South African social impact publisher of free books for very young children. Our vision is that \\u201cEvery child should own a hundred books by the age of five\\u201d, before they enter school! Book Dash gather volunteers to create new, African picturebooks that anyone can read, re-use, download, adapt and share.",
-  "website": "https://bookdash.org/",
+  "description": "Book Dash is a South African social impact publisher of free books for very young children. Our vision is that “Every child should own a hundred books by the age of five”, before they enter school! Book Dash gather volunteers to create new, African picturebooks that anyone can read, re-use, download, adapt and share.",
+  "website": "http://bookdash.org/",
   "license": [
     {
       "spdx": "CC-BY-4.0",
@@ -39,12 +39,7 @@
   "type": [
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositoryURL": "",
   "organizations": [
     {
       "name": "Book Dash",

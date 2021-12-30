@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "CC-BY-NC-SA-3.0",
-      "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
+      "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
     }
   ],
   "SDGs": [
@@ -40,16 +40,11 @@
   "type": [
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositoryURL": "",
   "organizations": [
     {
       "name": "FAO",
-      "website": "https://www.fao.org/",
+      "website": "http://www.fao.org/",
       "org_type": "owner",
       "contact_name": "Henry van Burgsteden",
       "contact_email": "henry.burgsteden@fao.org"

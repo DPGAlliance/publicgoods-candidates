@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/guardianproject/ripple"
-    }
-  ],
+  "repositoryURL": "https://github.com/guardianproject/ripple",
   "organizations": [
     {
       "name": "The Guardian Project",

@@ -16,7 +16,7 @@
     },
     {
       "SDGNumber": 16,
-      "evidenceText": "NDI.org uses CivICRM to promote democracy around the world as part of Demtools. They have interesting case studies on their sites about how CiviCRM was used in Ukraine or C\\u00f4te d'Ivoire, for example.",
+      "evidenceText": "NDI.org uses CivICRM to promote democracy around the world as part of Demtools. They have interesting case studies on their sites about how CiviCRM was used in Ukraine or Côte d'Ivoire, for example.",
       "evidenceURL": "https://dem.tools/"
     },
     {
@@ -31,12 +31,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/civicrm/civicrm-core/"
-    }
-  ],
+  "repositoryURL": "https://github.com/civicrm/civicrm-core/",
   "organizations": [
     {
       "name": "CiviCRM LLC",

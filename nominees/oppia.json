@@ -11,7 +11,7 @@
   "SDGs": [
     {
       "SDGNumber": 4,
-      "evidenceText": "Oppia makes it easy for anyone to collaboratively create and share bite-sized interactive online lessons. These lessons, called \\u201cexplorations\\u201d, simulate a conversation with an intelligent tutor, and can be improved by the community over time.",
+      "evidenceText": "Oppia makes it easy for anyone to collaboratively create and share bite-sized interactive online lessons. These lessons, called “explorations”, simulate a conversation with an intelligent tutor, and can be improved by the community over time.",
       "evidenceURL": "https://opensource.google/projects/oppia"
     },
     {
@@ -26,12 +26,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/oppia/oppia"
-    }
-  ],
+  "repositoryURL": "https://github.com/oppia/oppia",
   "organizations": [
     {
       "name": "Oppia",

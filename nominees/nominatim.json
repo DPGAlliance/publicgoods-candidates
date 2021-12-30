@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/osm-search/Nominatim"
-    }
-  ],
+  "repositoryURL": "https://github.com/osm-search/Nominatim",
   "organizations": [
     {
       "name": "Open Street Map",

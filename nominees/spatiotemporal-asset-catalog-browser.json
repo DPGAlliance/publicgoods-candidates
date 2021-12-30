@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/radiantearth/stac-browser"
-    }
-  ],
+  "repositoryURL": "https://github.com/radiantearth/stac-browser",
   "organizations": [
     {
       "name": "Radiant Earth",

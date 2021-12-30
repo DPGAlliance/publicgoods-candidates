@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/alphagov/notifications-api"
-    }
-  ],
+  "repositoryURL": "https://github.com/alphagov/notifications-api",
   "organizations": [
     {
       "name": "The United Kingdom Government Digital Services",

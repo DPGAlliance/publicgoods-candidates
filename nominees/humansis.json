@@ -19,12 +19,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/humansis/front"
-    }
-  ],
+  "repositoryURL": "https://github.com/humansis/front",
   "organizations": [
     {
       "name": "Humansis",

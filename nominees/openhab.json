@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openhab/openhab-core"
-    }
-  ],
+  "repositoryURL": "https://github.com/openhab/openhab-core",
   "organizations": [
     {
       "name": "openHAB Foundation",

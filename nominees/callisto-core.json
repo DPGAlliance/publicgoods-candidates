@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/project-callisto/callisto-core"
-    }
-  ],
+  "repositoryURL": "https://github.com/project-callisto/callisto-core",
   "organizations": [
     {
       "name": "Callisto",

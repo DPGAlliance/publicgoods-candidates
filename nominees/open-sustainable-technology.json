@@ -25,12 +25,7 @@
   "type": [
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/protontypes/open-sustainable-technology"
-    }
-  ],
+  "repositoryURL": "https://github.com/protontypes/open-sustainable-technology",
   "organizations": [
     {
       "name": "protontypes",

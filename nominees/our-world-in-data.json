@@ -27,12 +27,7 @@
   "type": [
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositoryURL": "",
   "organizations": [
     {
       "name": "Global Change Data Lab",

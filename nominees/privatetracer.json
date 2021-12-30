@@ -16,12 +16,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://gitlab.com/PrivateTracer/ios-client"
-    }
-  ],
+  "repositoryURL": "https://gitlab.com/PrivateTracer/ios-client",
   "organizations": [
     {
       "name": "PrivateTracer Foundation",

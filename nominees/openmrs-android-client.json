@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openmrs/openmrs-contrib-android-client"
-    }
-  ],
+  "repositoryURL": "https://github.com/openmrs/openmrs-contrib-android-client",
   "organizations": [
     {
       "name": "OpenMRS, Inc.",

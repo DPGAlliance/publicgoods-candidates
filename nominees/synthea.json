@@ -18,12 +18,7 @@
     "software",
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/synthetichealth/synthea"
-    }
-  ],
+  "repositoryURL": "https://github.com/synthetichealth/synthea",
   "organizations": [
     {
       "name": "MITRE Corporation",

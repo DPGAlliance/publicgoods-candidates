@@ -37,12 +37,7 @@
   "type": [
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositoryURL": "",
   "organizations": [
     {
       "name": "Impact Observatory",

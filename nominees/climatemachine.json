@@ -1,6 +1,6 @@
 {
   "name": "ClimateMachine",
-  "description": "An Earth System Model that predicts the evolution of Earth\\u2019s climate and features such as droughts, rainfall extremes, and high-impact storms",
+  "description": "An Earth System Model that predicts the evolution of Earth’s climate and features such as droughts, rainfall extremes, and high-impact storms",
   "website": "https://clima.github.io/ClimateMachine.jl/latest/",
   "license": [
     {
@@ -18,12 +18,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/CliMA/ClimateMachine.jl"
-    }
-  ],
+  "repositoryURL": "https://github.com/CliMA/ClimateMachine.jl",
   "organizations": [
     {
       "name": "CliMA",

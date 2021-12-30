@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/unicef/magicbox-open-api"
-    }
-  ],
+  "repositoryURL": "https://github.com/unicef/magicbox-open-api",
   "organizations": [
     {
       "name": "UNICEF Innovation",

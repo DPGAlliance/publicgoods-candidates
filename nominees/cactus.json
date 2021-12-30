@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/SNL-WaterPower/CACTUS/"
-    }
-  ],
+  "repositoryURL": "https://github.com/SNL-WaterPower/CACTUS/",
   "organizations": [
     {
       "name": "Sandia National Laboratories",

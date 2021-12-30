@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openstreetmap/openstreetmap-website"
-    }
-  ],
+  "repositoryURL": "https://github.com/openstreetmap/openstreetmap-website",
   "organizations": [
     {
       "name": "Open Street Map",

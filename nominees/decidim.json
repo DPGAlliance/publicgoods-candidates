@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OpenSourcePolitics/decidim"
-    }
-  ],
+  "repositoryURL": "https://github.com/OpenSourcePolitics/decidim",
   "organizations": [
     {
       "name": "OpenSoucePolitics",

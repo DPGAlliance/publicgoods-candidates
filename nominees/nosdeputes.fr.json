@@ -1,6 +1,6 @@
 {
   "name": "Nosdeputes.fr",
-  "description": "Repository of NosD\\u00e9put\\u00e9s.fr : the french parliamentary monitoring website",
+  "description": "Repository of NosDéputés.fr : the french parliamentary monitoring website",
   "website": "https://www.nosdeputes.fr/",
   "license": [
     {
@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/regardscitoyens/nosdeputes.fr"
-    }
-  ],
+  "repositoryURL": "https://github.com/regardscitoyens/nosdeputes.fr",
   "organizations": [
     {
       "name": "Regards Citoyens",

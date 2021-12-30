@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Gapminder/dollar-street-pages"
-    }
-  ],
+  "repositoryURL": "https://github.com/Gapminder/dollar-street-pages",
   "organizations": [
     {
       "name": "GapMinder",

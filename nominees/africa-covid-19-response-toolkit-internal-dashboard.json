@@ -18,12 +18,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard"
-    }
-  ],
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard",
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

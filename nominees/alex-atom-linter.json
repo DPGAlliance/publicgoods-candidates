@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/get-alex/atom-linter-alex"
-    }
-  ],
+  "repositoryURL": "https://github.com/get-alex/atom-linter-alex",
   "organizations": [
     {
       "name": "Alex",

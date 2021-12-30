@@ -34,12 +34,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/project-sunbird/sunbird-learning-platform"
-    }
-  ],
+  "repositoryURL": "https://github.com/project-sunbird/sunbird-learning-platform",
   "organizations": [
     {
       "name": "EkStep Foundation",

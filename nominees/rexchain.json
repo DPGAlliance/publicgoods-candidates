@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/prescrypto/rexchain"
-    }
-  ],
+  "repositoryURL": "https://github.com/prescrypto/rexchain",
   "organizations": [
     {
       "name": "Prescrypto",

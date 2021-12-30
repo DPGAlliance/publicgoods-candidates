@@ -28,12 +28,7 @@
     "software",
     "aimodel"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Bioverse-Labs/deep-learning"
-    }
-  ],
+  "repositoryURL": "https://github.com/Bioverse-Labs/deep-learning",
   "organizations": [
     {
       "name": "Bioverse Labs",

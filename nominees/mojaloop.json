@@ -37,12 +37,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/mojaloop/mojaloop"
-    }
-  ],
+  "repositoryURL": "https://github.com/mojaloop/mojaloop",
   "organizations": [
     {
       "name": "MojaLoop",

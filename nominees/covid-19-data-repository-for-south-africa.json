@@ -21,12 +21,7 @@
     "software",
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/dsfsi/covid19za"
-    }
-  ],
+  "repositoryURL": "https://github.com/dsfsi/covid19za",
   "organizations": [
     {
       "name": "University of Pretoria",

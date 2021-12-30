@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/sleepbusorg/sleepbus.org"
-    }
-  ],
+  "repositoryURL": "https://github.com/sleepbusorg/sleepbus.org",
   "organizations": [
     {
       "name": "SleepBus",

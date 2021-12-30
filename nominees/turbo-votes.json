@@ -1,6 +1,6 @@
 {
   "name": "Turbo Votes",
-  "description": "TurboVote is an application that makes voting easy. Helping every American vote in every election\\u2014local, state, and national.",
+  "description": "TurboVote is an application that makes voting easy. Helping every American vote in every election—local, state, and national.",
   "website": "",
   "license": [
     {
@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/democracyworks/voting-method-works"
-    }
-  ],
+  "repositoryURL": "https://github.com/democracyworks/voting-method-works",
   "organizations": [
     {
       "name": "Democracy Works",

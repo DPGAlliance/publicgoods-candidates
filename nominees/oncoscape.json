@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/FredHutch/Oncoscape"
-    }
-  ],
+  "repositoryURL": "https://github.com/FredHutch/Oncoscape",
   "organizations": [
     {
       "name": "Fred Hutchinson Cancer Research Center",

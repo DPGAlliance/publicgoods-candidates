@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/oppia/oppia-ml"
-    }
-  ],
+  "repositoryURL": "https://github.com/oppia/oppia-ml",
   "organizations": [
     {
       "name": "Oppia",

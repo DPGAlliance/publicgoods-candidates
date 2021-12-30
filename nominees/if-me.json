@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/ifmeorg/ifme"
-    }
-  ],
+  "repositoryURL": "https://github.com/ifmeorg/ifme",
   "organizations": [
     {
       "name": "If-Me",

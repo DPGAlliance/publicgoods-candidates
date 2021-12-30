@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Plant-for-the-Planet-org/treecounter-app"
-    }
-  ],
+  "repositoryURL": "https://github.com/Plant-for-the-Planet-org/treecounter-app",
   "organizations": [
     {
       "name": "Plant-for-the-Planet",

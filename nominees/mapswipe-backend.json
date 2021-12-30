@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/mapswipe/python-mapswipe-workers"
-    }
-  ],
+  "repositoryURL": "https://github.com/mapswipe/python-mapswipe-workers",
   "organizations": [
     {
       "name": "MapSwipe",

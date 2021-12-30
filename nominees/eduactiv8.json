@@ -19,12 +19,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/imiolek-ireneusz/eduActiv8"
-    }
-  ],
+  "repositoryURL": "https://github.com/imiolek-ireneusz/eduActiv8",
   "organizations": [
     {
       "name": "eduActiv8",

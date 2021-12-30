@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/vgwb/Antura_arabic/"
-    }
-  ],
+  "repositoryURL": "https://github.com/vgwb/Antura_arabic/",
   "organizations": [
     {
       "name": "Antura",

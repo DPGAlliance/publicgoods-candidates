@@ -1,6 +1,6 @@
 {
   "name": "World Health Organization App",
-  "description": "There is an urgent, global need for an official WHO App to help contain and mitigate COVID-19. The app should support the WHO efforts and be available on a worldwide basis, with information tailored to the user\\u2019s location, culture and language.",
+  "description": "There is an urgent, global need for an official WHO App to help contain and mitigate COVID-19. The app should support the WHO efforts and be available on a worldwide basis, with information tailored to the user’s location, culture and language.",
   "website": "https://worldhealthorganization.github.io/app/",
   "license": [
     {
@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/WorldHealthOrganization/app"
-    }
-  ],
+  "repositoryURL": "https://github.com/WorldHealthOrganization/app",
   "organizations": [
     {
       "name": "World Health Organization",

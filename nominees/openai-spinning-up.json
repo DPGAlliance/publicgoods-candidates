@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openai/spinningup"
-    }
-  ],
+  "repositoryURL": "https://github.com/openai/spinningup",
   "organizations": [
     {
       "name": "OpenAI",

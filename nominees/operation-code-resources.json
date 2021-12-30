@@ -20,12 +20,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OperationCode/resources_api"
-    }
-  ],
+  "repositoryURL": "https://github.com/OperationCode/resources_api",
   "organizations": [
     {
       "name": "Operation Code",

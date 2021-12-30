@@ -22,12 +22,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/openMF/mifos-mobile"
-    }
-  ],
+  "repositoryURL": "https://github.com/openMF/mifos-mobile",
   "organizations": [
     {
       "name": "Mifos",

@@ -17,12 +17,7 @@
   "type": [
     "data"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/Veativetech/VeativeWebVR"
-    }
-  ],
+  "repositoryURL": "https://github.com/Veativetech/VeativeWebVR",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

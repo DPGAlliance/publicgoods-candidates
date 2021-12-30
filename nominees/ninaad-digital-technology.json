@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/jellow-aac/Jellow-Communicator"
-    }
-  ],
+  "repositoryURL": "https://github.com/jellow-aac/Jellow-Communicator",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

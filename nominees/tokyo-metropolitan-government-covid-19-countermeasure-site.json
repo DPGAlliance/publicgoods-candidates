@@ -19,12 +19,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/tokyo-metropolitan-gov/covid19"
-    }
-  ],
+  "repositoryURL": "https://github.com/tokyo-metropolitan-gov/covid19",
   "organizations": [
     {
       "name": "Tokyo Metropolitan Government",

@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/VRMakerTeam/VRMaker"
-    }
-  ],
+  "repositoryURL": "https://github.com/VRMakerTeam/VRMaker",
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

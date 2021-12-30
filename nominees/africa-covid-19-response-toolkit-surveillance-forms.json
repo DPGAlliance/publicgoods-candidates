@@ -18,12 +18,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms"
-    }
-  ],
+  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms",
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

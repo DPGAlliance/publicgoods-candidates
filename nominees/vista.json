@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/WorldVistA/VistA"
-    }
-  ],
+  "repositoryURL": "https://github.com/WorldVistA/VistA",
   "organizations": [
     {
       "name": "WorldVistA",

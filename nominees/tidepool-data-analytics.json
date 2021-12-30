@@ -17,12 +17,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/tidepool-org/data-analytics"
-    }
-  ],
+  "repositoryURL": "https://github.com/tidepool-org/data-analytics",
   "organizations": [
     {
       "name": "TidePool",

@@ -21,12 +21,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/gcompris/GCompris-gtk"
-    }
-  ],
+  "repositoryURL": "https://github.com/gcompris/GCompris-gtk",
   "organizations": [
     {
       "name": "GCompris",

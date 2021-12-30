@@ -24,12 +24,7 @@
   "type": [
     "software"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://gitlab.com/statwig-public"
-    }
-  ],
+  "repositoryURL": "https://gitlab.com/statwig-public",
   "organizations": [
     {
       "name": "StaTwig",
