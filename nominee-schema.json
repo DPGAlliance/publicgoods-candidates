@@ -338,6 +338,9 @@
       "type": "array",
       "items": {
         "type": "object",
+        "required": [
+          "url"
+        ],
         "properties": {
           "name": {
             "type": "string",
