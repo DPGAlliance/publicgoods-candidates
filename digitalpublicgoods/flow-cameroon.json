@@ -16,9 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data collected is made available in JSON format"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
