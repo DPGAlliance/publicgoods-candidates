@@ -22,7 +22,6 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/statisticsnorway/statbus",
   "organizations": [
     {
       "name": "Statistics Norway",
@@ -33,7 +32,7 @@
     },
     {
       "name": "National Statistical Committee (NSC) of the Kyrgyz Republic",
-      "website": "http://stat.kg/en/",
+      "website": "https://stat.kg/en/",
       "org_type": "owner"
     },
     {
