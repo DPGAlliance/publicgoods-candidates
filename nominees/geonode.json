@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/GeoNode/geonode",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GeoNode/geonode"
+    }
+  ],
   "organizations": [
     {
       "name": "GeoNode",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hotosm/osm-analytics",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hotosm/osm-analytics"
+    }
+  ],
   "organizations": [
     {
       "name": "Humanitarian Open Street Map Team",

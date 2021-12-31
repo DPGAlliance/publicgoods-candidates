@@ -44,7 +44,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OSeMOSYS/OSeMOSYS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OSeMOSYS/OSeMOSYS"
+    }
+  ],
   "organizations": [
     {
       "name": "KTH Royal Institute of Technology, Division of Energy Systems",

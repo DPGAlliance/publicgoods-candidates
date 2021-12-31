@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/uptake/autofocus",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/uptake/autofocus"
+    }
+  ],
   "organizations": [
     {
       "name": "Uptake.org",

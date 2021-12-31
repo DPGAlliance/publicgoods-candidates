@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Altinn/altinn-studio",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Altinn/altinn-studio"
+    }
+  ],
   "organizations": [
     {
       "name": "Norwegian Digitalisation Agency",

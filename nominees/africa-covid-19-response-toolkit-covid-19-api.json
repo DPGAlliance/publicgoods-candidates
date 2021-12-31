@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/api",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/africa-covid-19-response-toolkit/api"
+    }
+  ],
   "organizations": [
     {
       "name": "Africa COVID-19 Response Toolkit",

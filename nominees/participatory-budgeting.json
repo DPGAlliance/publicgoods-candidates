@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openbudgets/participatory-budgeting",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openbudgets/participatory-budgeting"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Budgets EU",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OneBusAway/onebusaway-android",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OneBusAway/onebusaway-android"
+    }
+  ],
   "organizations": [
     {
       "name": "OneBusAway",

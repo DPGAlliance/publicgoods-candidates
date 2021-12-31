@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/MSH/PViMS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MSH/PViMS"
+    }
+  ],
   "organizations": [
     {
       "name": "Management Sciences for Health",
