@@ -23,6 +23,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bernandez/Flow"
+    }
+  ],
   "organizations": [
     {
       "name": "University of Bamenda",

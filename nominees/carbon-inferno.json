@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/giving-a-fuck-about-climate-change/carbon-inferno"
+    }
+  ],
   "organizations": [
     {
       "name": "Carbon Dooms Day",

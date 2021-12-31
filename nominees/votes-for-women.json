@@ -21,6 +21,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/the-pudding/votes-for-women"
+    }
+  ],
   "organizations": [
     {
       "name": "The Pudding",

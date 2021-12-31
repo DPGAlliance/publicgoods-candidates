@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openelisglobal/openelisglobal-core"
+    }
+  ],
   "organizations": [
     {
       "name": "I-TECH DIGI",

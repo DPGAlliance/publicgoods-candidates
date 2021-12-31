@@ -21,6 +21,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/curiouslearning/Norad-Eduapp4syria"
+    }
+  ],
   "organizations": [
     {
       "name": "Curious Learning",

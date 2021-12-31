@@ -22,6 +22,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cdsframework/ice"
+    }
+  ],
   "organizations": [
     {
       "name": "HLN Consulting, LLC",

@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kimetrica/MERON_model"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

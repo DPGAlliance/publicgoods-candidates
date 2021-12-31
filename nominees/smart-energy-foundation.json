@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/microsoft/Smart-Energy-Foundation-Demo-Stack"
+    }
+  ],
   "organizations": [
     {
       "name": "Microsoft Open Source",

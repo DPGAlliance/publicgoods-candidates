@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforboston/safe-water"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Boston",

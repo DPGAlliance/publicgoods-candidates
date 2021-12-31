@@ -26,6 +26,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/santedb/santedb-server/"
+    }
+  ],
   "organizations": [
     {
       "name": "SanteSuite Inc.",

@@ -35,6 +35,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openforis/collect"
+    }
+  ],
   "organizations": [
     {
       "name": "Food and Agriculture Organization (FAO) of the United Nations",

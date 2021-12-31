@@ -26,6 +26,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/oppia/oppia"
+    }
+  ],
   "organizations": [
     {
       "name": "Oppia",

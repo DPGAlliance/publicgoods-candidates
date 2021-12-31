@@ -27,6 +27,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opencrvs/opencrvs-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Plan International Australia",

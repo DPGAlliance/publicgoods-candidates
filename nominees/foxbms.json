@@ -21,6 +21,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/foxBMS/foxbms-1"
+    }
+  ],
   "organizations": [
     {
       "name": "foxBMS",

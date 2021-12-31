@@ -30,6 +30,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/primeroIMS/primero"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",

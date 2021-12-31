@@ -15,6 +15,12 @@
   "type": [
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openZH/covid_19"
+    }
+  ],
   "organizations": [
     {
       "name": "The Canton of Zurich",

@@ -16,6 +16,12 @@
   "type": [
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/COVID19Tracking/covid-tracking-data"
+    }
+  ],
   "organizations": [
     {
       "name": "The Atlantic, Related Sciences",

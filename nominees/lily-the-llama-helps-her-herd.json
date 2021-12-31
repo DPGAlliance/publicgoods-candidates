@@ -30,6 +30,12 @@
   "type": [
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Stanford Center for Health Education",

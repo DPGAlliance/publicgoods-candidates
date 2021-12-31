@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kobotoolbox/kobocat"
+    }
+  ],
   "organizations": [
     {
       "name": "Kobo Toolbox",

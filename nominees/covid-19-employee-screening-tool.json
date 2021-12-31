@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/code-for-canada/covid19-employee-screening-tool"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Canada",

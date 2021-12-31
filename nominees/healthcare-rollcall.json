@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CodeForBaltimore/Healthcare-Rollcall"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Baltimore",

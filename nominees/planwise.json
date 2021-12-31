@@ -23,6 +23,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/instedd/planwise"
+    }
+  ],
   "organizations": [
     {
       "name": "InSTEDD",

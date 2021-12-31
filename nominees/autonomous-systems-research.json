@@ -18,6 +18,12 @@
     "software",
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/team-asr/od-Data"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

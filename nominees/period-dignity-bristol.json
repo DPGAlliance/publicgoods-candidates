@@ -38,6 +38,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server"
+    }
+  ],
   "organizations": [
     {
       "name": "Bristol City Council",

@@ -20,6 +20,12 @@
   "type": [
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CDCgov/SARS-CoV-2_Sequencing"
+    }
+  ],
   "organizations": [
     {
       "name": "The Center for Disease Control",

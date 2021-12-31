@@ -21,6 +21,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/emNutt"
+    }
+  ],
   "organizations": [
     {
       "name": "IntraHealth International",

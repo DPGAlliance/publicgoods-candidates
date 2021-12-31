@@ -17,6 +17,12 @@
   "type": [
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Ideasis/VivoosVR"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

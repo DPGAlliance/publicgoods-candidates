@@ -49,6 +49,12 @@
   "type": [
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Notesmaster Caribbean",

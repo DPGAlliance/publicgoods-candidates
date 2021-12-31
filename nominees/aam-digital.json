@@ -39,6 +39,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Aam-Digital/ndb-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Aam Digital GmbH",

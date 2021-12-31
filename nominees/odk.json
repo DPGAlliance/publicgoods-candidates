@@ -37,6 +37,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/getodk/central"
+    }
+  ],
   "organizations": [
     {
       "name": "Get ODK Inc",

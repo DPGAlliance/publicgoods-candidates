@@ -25,6 +25,12 @@
     "data",
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/energy-data/energydata.info"
+    }
+  ],
   "organizations": [
     {
       "name": "The World Bank",

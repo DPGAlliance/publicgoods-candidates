@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/immuni-app/immuni-app-android"
+    }
+  ],
   "organizations": [
     {
       "name": "Presidenza del Consiglio dei Ministri",

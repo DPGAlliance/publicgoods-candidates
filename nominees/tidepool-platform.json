@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/tidepool-org/platform"
+    }
+  ],
   "organizations": [
     {
       "name": "TidePool",

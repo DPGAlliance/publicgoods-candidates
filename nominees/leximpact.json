@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/leximpact-client"
+    }
+  ],
   "organizations": [
     {
       "name": "Beta.Gouv",

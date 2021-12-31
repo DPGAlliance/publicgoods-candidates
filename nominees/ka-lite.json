@@ -22,6 +22,12 @@
     "software",
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/learningequality/ka-lite"
+    }
+  ],
   "organizations": [
     {
       "name": "Learning Equality",

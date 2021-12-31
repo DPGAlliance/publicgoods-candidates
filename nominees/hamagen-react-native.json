@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MohGovIL/hamagen-react-native"
+    }
+  ],
   "organizations": [
     {
       "name": "Israel's Ministry of Health",

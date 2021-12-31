@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://bitbucket.org/corizon/agrosense/src/default/"
+    }
+  ],
   "organizations": [
     {
       "name": "Corizon",

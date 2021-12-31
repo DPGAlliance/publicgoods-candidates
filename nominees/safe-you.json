@@ -24,6 +24,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/safeyou-space/safeyou"
+    }
+  ],
   "organizations": [
     {
       "name": "Impact Innovations Institute LLC",

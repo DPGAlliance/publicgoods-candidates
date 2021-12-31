@@ -18,6 +18,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/osm-in/flood-map"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenStreetMap",

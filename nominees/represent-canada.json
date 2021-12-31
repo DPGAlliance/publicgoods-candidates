@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opennorth/represent-canada"
+    }
+  ],
   "organizations": [
     {
       "name": "Open North",

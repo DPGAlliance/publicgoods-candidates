@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opendatacube/datacube-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Data Cube",

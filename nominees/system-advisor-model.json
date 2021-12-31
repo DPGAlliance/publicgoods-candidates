@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/NREL/ssc"
+    }
+  ],
   "organizations": [
     {
       "name": "National Renewable Energy Laboratory",

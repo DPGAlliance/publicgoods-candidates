@@ -24,6 +24,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openboxes/openboxes"
+    }
+  ],
   "organizations": [
     {
       "name": "Partner in Health",

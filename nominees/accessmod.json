@@ -21,6 +21,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/fxi/AccessMod_shiny"
+    }
+  ],
   "organizations": [
     {
       "name": "University of Geneva/Institute for Environmental Sciences/EnviroSPACE Lab",

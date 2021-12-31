@@ -29,6 +29,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/coronasafe/care/blob/master/LICENSE"
+    }
+  ],
   "organizations": [
     {
       "name": "Coronasafe Network",

@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/pwyf/aid-transparency-tracker"
+    }
+  ],
   "organizations": [
     {
       "name": "Publish What You Fund",

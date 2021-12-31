@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/etalab/code.etalab.gouv.fr"
+    }
+  ],
   "organizations": [
     {
       "name": "etalab",

@@ -35,6 +35,12 @@
     "software",
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://savannah.gnu.org/hg/?group=health"
+    }
+  ],
   "organizations": [
     {
       "name": "GNUSolidario",

@@ -31,6 +31,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/teamsempo/SempoBlockchain"
+    }
+  ],
   "organizations": [
     {
       "name": "Sempo",

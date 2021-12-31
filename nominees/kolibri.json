@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/learningequality/kolibri"
+    }
+  ],
   "organizations": [
     {
       "name": "Learning Equality",

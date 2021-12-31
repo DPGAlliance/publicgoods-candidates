@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hikmahealth/hikmahealth-mobilev1"
+    }
+  ],
   "organizations": [
     {
       "name": "Hikma",

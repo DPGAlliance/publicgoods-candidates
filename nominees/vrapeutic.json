@@ -39,6 +39,12 @@
     "software",
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/vrapeutic/Rodja-webXR"
+    }
+  ],
   "organizations": [
     {
       "name": "VRapeutic, Inc",

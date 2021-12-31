@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/afinidata2019/afinidata-content-manager"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

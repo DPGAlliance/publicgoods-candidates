@@ -40,6 +40,12 @@
     "software",
     "aimodel"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kimetrica/MERON_api"
+    }
+  ],
   "organizations": [
     {
       "name": "Kimetrica LLC",

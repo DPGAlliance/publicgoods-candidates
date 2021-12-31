@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/coinsence/coinsence-monorepo"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

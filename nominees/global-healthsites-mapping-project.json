@@ -26,6 +26,12 @@
     "software",
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/healthsites/healthsites"
+    }
+  ],
   "organizations": [
     {
       "name": "OPEN HEALTHSITE CONSULTING LTD",

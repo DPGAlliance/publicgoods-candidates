@@ -31,6 +31,12 @@
     "software",
     "aimodel"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RentadroneCL/Precision_Agriculture"
+    }
+  ],
   "organizations": [
     {
       "name": "Rentadrone.cl",

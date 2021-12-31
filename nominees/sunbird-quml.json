@@ -26,6 +26,12 @@
   "type": [
     "standard"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sunbird-specs/QuML"
+    }
+  ],
   "organizations": [
     {
       "name": "EkStep Foundation",

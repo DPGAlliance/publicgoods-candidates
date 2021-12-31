@@ -18,6 +18,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/thinkingmachines/geomancer"
+    }
+  ],
   "organizations": [
     {
       "name": "Thinking Machines Data Science Inc.",

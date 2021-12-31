@@ -24,6 +24,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/qlt2020/doskaz"
+    }
+  ],
   "organizations": [
     {
       "name": "Public fund \"Tandau Foundation\"",

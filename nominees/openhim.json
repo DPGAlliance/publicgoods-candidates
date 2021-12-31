@@ -24,6 +24,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/jembi/openhim-core-js"
+    }
+  ],
   "organizations": [
     {
       "name": "Jembi Health Systems",

@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenAgricultureFoundation/openag-device-software"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Agriculture Initiative",

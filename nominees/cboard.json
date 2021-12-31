@@ -29,6 +29,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cboard-org/cboard"
+    }
+  ],
   "organizations": [
     {
       "name": "CIREHA",

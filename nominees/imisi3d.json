@@ -17,6 +17,12 @@
   "type": [
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Imisi3D/leVRn-beta"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

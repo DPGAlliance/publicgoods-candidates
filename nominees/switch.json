@@ -37,6 +37,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/switch-model/switch"
+    }
+  ],
   "organizations": [
     {
       "name": "University of Hawai'i",

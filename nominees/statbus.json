@@ -22,6 +22,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/statisticsnorway/statbus"
+    }
+  ],
   "organizations": [
     {
       "name": "Statistics Norway",

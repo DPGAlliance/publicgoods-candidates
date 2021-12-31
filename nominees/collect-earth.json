@@ -19,6 +19,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openforis/collect-earth"
+    }
+  ],
   "organizations": [
     {
       "name": "FAO - Open Foris Initiative",

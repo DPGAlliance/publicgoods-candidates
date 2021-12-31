@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral"
+    }
+  ],
   "organizations": [
     {
       "name": "Ciudadanía Inteligente",

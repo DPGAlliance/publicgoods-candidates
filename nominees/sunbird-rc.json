@@ -52,6 +52,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Sunbird-RC/sunbird-rc-core"
+    }
+  ],
   "organizations": [
     {
       "name": "EkStep Foundation",

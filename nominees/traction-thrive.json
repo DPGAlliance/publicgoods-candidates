@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/SFDO-Community/TractionThrive"
+    }
+  ],
   "organizations": [
     {
       "name": "Traction Thrive, Salesforce.org",

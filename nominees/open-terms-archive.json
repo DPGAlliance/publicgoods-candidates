@@ -22,6 +22,12 @@
   "type": [
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Ambassador for digital affairs (FR)",

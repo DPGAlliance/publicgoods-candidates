@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opentrace-community/opentrace-ios"
+    }
+  ],
   "organizations": [
     {
       "name": "Government Technology Agency of Singapore",

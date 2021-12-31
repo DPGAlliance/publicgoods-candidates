@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/nic-delhi/AarogyaSetu_Android"
+    }
+  ],
   "organizations": [
     {
       "name": "The Government of India's Ministry of Electronics and Information Technology",

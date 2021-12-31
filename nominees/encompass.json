@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bayesimpact/encompass"
+    }
+  ],
   "organizations": [
     {
       "name": "Bayes Impact",

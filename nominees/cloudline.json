@@ -47,6 +47,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PX4/PX4-Autopilot"
+    }
+  ],
   "organizations": [
     {
       "name": "Cloudline Africa (Pty) Ltd",

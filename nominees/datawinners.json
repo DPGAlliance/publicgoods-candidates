@@ -26,6 +26,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mangroveorg/datawinners"
+    }
+  ],
   "organizations": [
     {
       "name": "Human Network Interaction (HNI)",

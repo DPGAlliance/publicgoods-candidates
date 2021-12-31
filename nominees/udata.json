@@ -23,6 +23,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opendatateam/udata"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Data Team",

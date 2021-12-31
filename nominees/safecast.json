@@ -74,6 +74,12 @@
     "software",
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Safecast/safecastapi"
+    }
+  ],
   "organizations": [
     {
       "name": "Safecast",

@@ -22,6 +22,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/alephdata/aleph"
+    }
+  ],
   "organizations": [
     {
       "name": "Organized Crime and Corruption Reporting Project",

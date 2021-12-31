@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dymaxionlabs/ap-latam"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

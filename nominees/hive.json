@@ -31,6 +31,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/prokuranepal/DMS_React"
+    }
+  ],
   "organizations": [
     {
       "name": "Prokura Innovations",

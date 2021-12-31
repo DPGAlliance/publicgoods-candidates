@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LLK/scratch-www"
+    }
+  ],
   "organizations": [
     {
       "name": "Scratch",

@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opengovfoundation/madison"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenGov Foundation",

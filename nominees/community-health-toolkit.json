@@ -35,6 +35,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/medic/cht-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Medic Mobile, Inc.",

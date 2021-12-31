@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Welthungerhilfe/cgm-ml"
+    }
+  ],
   "organizations": [
     {
       "name": "Welt Hunger Hilfe",

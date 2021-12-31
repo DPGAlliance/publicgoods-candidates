@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kiwix/kiwix-android"
+    }
+  ],
   "organizations": [
     {
       "name": "Kiwix",

@@ -29,6 +29,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/magicbox-maps"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",

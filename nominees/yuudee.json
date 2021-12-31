@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "backend：https://github.com/xiaoyudi-China/yuudee"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

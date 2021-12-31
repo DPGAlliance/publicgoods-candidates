@@ -22,6 +22,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/impactMarket/api"
+    }
+  ],
   "organizations": [
     {
       "name": "impactLabs",

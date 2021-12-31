@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ctt-gob-es/clienteafirma"
+    }
+  ],
   "organizations": [
     {
       "name": "Technology Transfer Center, Government of Spain",

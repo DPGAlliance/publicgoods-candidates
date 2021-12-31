@@ -37,6 +37,12 @@
   "type": [
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Project Simoy",

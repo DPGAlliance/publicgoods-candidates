@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/covidcaremap/covid19-healthsystemcapacity"
+    }
+  ],
   "organizations": [
     {
       "name": "Covid Care Map",

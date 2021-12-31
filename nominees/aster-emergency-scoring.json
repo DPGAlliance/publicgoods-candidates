@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Project-AsTeR/scoring"
+    }
+  ],
   "organizations": [
     {
       "name": "AsTer",

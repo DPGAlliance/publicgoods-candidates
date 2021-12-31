@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-ios"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Food Facts",

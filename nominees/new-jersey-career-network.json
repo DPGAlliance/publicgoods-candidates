@@ -22,6 +22,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/newjersey/career-network"
+    }
+  ],
   "organizations": [
     {
       "name": "State of New Jersey Office of Innovation",

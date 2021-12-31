@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/pixframe/towi"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

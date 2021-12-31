@@ -36,6 +36,12 @@
     "software",
     "data"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/gbif/registry"
+    }
+  ],
   "organizations": [
     {
       "name": "GBIF Governing Board",

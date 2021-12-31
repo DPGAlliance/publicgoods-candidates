@@ -36,6 +36,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/FarmBot/farmbot_os"
+    }
+  ],
   "organizations": [
     {
       "name": "FarmBot Inc",

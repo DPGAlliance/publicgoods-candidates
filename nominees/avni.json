@@ -31,6 +31,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/avniproject/avni-server"
+    }
+  ],
   "organizations": [
     {
       "name": "Samanvay Research and Development Foundation",

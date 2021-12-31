@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/eKitabu/Accessible-EPUB-Toolkit"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

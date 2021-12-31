@@ -22,6 +22,12 @@
     "software",
     "content"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cboard-org/cboard"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

@@ -17,6 +17,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/JustFixNYC/tenants2"
+    }
+  ],
   "organizations": [
     {
       "name": "JustFix",

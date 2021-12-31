@@ -36,6 +36,12 @@
     "data",
     "aimodel"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/kindly"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",

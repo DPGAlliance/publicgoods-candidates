@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/energywebfoundation/energyweb-ui"
+    }
+  ],
   "organizations": [
     {
       "name": "Energy Web Foundation",

@@ -27,6 +27,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile"
+    }
+  ],
   "organizations": [
     {
       "name": "Amref Health Africa",

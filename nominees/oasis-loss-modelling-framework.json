@@ -23,6 +23,12 @@
     "software",
     "aimodel"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OasisLMF/OasisLMF"
+    }
+  ],
   "organizations": [
     {
       "name": "Oasis Loss Modelling Framework",

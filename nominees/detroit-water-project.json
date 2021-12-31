@@ -27,6 +27,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/humanutility/detroit-water-project"
+    }
+  ],
   "organizations": [
     {
       "name": "The Human Utility",

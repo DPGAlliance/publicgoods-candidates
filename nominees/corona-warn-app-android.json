@@ -16,6 +16,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/corona-warn-app/cwa-app-android"
+    }
+  ],
   "organizations": [
     {
       "name": "Deutsche Telekom and SAP",

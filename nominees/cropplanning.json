@@ -20,6 +20,12 @@
   "type": [
     "software"
   ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/claytonrcarter/cropplanning"
+    }
+  ],
   "organizations": [
     {
       "name": "Crop Planning",
