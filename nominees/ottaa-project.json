@@ -1,8 +1,7 @@
 {
   "name": "OTTAA Project",
   "aliases": [
-    "OTTAA",
-    "OTTA Proyect"
+    "OTTAA, OTTA Proyect, OTTA"
   ],
   "description": "First AI based, predictive AAC platform for people with speech impairment",
   "website": "https://ottaaproject.com/",
@@ -32,14 +31,10 @@
   ],
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "aimodel"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": "https://github.com/OTTAA-Project/OTTAAProject"
-    }
-  ],
+  "repositoryURL": "https://github.com/OTTAA-Project/OTTAAProject",
   "organizations": [
     {
       "name": "OTTAA Project",
@@ -47,11 +42,6 @@
       "org_type": "owner",
       "contact_name": "Hector Costa",
       "contact_email": "hcosta@ottaaproject.com"
-    },
-    {
-      "name": "UNICEF Venture Fund",
-      "website": "https://www.unicef.org/innovation/venturefund",
-      "org_type": "funder"
     }
   ],
   "stage": "nominee"
