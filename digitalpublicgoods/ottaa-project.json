@@ -1,0 +1,76 @@
+{
+  "name": "OTTAA Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://portaltramites.inpi.gob.ar/marcasconsultas/busqueda"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://ottaa-project.github.io/",
+      "https://ottaa-project.github.io/PictogramsPredictionsLibrary/docs/readme/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://ottaaproject.com/espa%c3%b1ol/terminosCondiciones.html"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Best Practices for Android Development",
+      "OOP",
+      "User centered design"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We have requested a revision to ANMAT (FDA equivalent in Argentina) to certify this project does not harm and is safe to use. The revision was successfully approved. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Email, Date of bith, Name"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "User generated sentences. ",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "No",
+      "policyGuidelinesDocumentationLink": "https://ottaaproject.com/espa%c3%b1ol/terminosCondiciones.html"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Chile",
+      "Argentina"
+    ],
+    "deploymentCountries": [
+      "Chile",
+      "Argentina",
+      "Colombia",
+      "Mexico",
+      "Spain"
+    ]
+  }
+}
