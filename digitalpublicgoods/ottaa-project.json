@@ -2,21 +2,24 @@
   "name": "OTTAA Project",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://portaltramites.inpi.gob.ar/marcasconsultas/busqueda"
+    "copyrightURL": "https://ottaa-project.github.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://ottaa-project.github.io/",
+      "https://ottaa-project.github.io/docs/welcome",
       "https://ottaa-project.github.io/PictogramsPredictionsLibrary/docs/readme/"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -29,10 +32,16 @@
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Best Practices for Android Development",
-      "OOP",
+      "Object Oriented Programming",
       "User centered design"
     ]
   },
@@ -44,20 +53,34 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Email, Date of bith, Name"
+        "Email",
+        "Date of bith",
+        "Name"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "User generated sentences. ",
-      "contentFilter": "Yes",
-      "illegalContentDetection": "No",
-      "policyGuidelinesDocumentationLink": "https://ottaaproject.com/espa%c3%b1ol/terminosCondiciones.html"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
