@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/RefugeRestrooms/refugerestrooms",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RefugeRestrooms/refugerestrooms"
+    }
+  ],
   "organizations": [
     {
       "name": "Refuge Restrooms",

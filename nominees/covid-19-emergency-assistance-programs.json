@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/usdigitalresponse/small-business-programs",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/usdigitalresponse/small-business-programs"
+    }
+  ],
   "organizations": [
     {
       "name": "US Digital Response",

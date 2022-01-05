@@ -20,7 +20,12 @@
   "type": [
     "standard"
   ],
-  "repositoryURL": "https://github.com/open-contracting/standard",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/open-contracting/standard"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Contracting Partnership",

@@ -16,7 +16,12 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "https://github.com/CDCgov/covid19healthbot",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CDCgov/covid19healthbot"
+    }
+  ],
   "organizations": [
     {
       "name": "Center for Disease Control",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/w3-engineers/telemesh",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/w3-engineers/telemesh"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

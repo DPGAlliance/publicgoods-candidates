@@ -39,7 +39,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/WFP-VAM/prism-frontend",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WFP-VAM/prism-frontend"
+    }
+  ],
   "organizations": [
     {
       "name": "United Nations World Food Programme",

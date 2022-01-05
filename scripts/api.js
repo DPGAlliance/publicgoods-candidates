@@ -14,7 +14,7 @@ require('dotenv').config();
 
 const nomineeFolder = './nominees';
 const DPGFolder = './digitalpublicgoods';
-const apiRepoURL = 'https://github.com/unicef/publicgoods-api.git';
+const apiRepoURL = 'https://github.com/DPGAlliance/publicgoods-api';
 const pathToApiRepo = path.resolve('../publicgoods-api');
 const pathToApiFolder = path.join(pathToApiRepo, 'docs');
 const pathsAdd = [
@@ -24,8 +24,8 @@ const pathsAdd = [
   'docs/nominee']
 
 const author = {
-  name: "Victor Grau Serrat",
-  email: "lacabra@users.noreply.github.com"
+  name: "DPGA bot",
+  email: "96251909+dpgabot@users.noreply.github.com"
 }
 
 

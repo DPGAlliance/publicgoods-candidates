@@ -1,0 +1,55 @@
+{
+  "name": "Kindly",
+  "aliases": [
+    "Kindly API"
+  ],
+  "description": "Kindly is – an open-source API that detects abusive and cyberbullying intent in messages and provides instant feedback for users to reconsider their message.",
+  "website": "https://kindly.unicef.io",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/unicef/kindly/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/unicef/kindly/blob/main/LICENSE.data.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Good health and well-being: According to the UNESCO Institute of Statistics, one third of the globe’s youth is bullied. Bullying affects all youth, including those who are bullied, those who bully others, and those who witness bullying. The effects of bullying may continue into adulthood. Among students ages 12-18 who reported being bullied at school during the school year in the United States, 15% were bullied online or by text. Cyberbullying can affect children mentally, emotionally, and physically. Kindly aims to bring an end to cyberbullying by providing instant feedback to children and giving them the chance to reconsider how they interact with others in order to avoid situations of cyberbullying.",
+      "evidenceURL": "https://unicef.github.io/kindly/#-motivation"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "By providing instant feedback to children on whether a message is considered cyberbullying or not, Kindly tries to educate them so that they can make more informed decisions and avoid situations that can lead to cyberbullying.",
+      "evidenceURL": "https://unicef.github.io/kindly/#-motivation"
+    }
+  ],
+  "sectors": [
+    "Education",
+    "Health"
+  ],
+  "type": [
+    "software",
+    "data",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/kindly"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://www.unicef.org/innovation/",
+      "org_type": "owner",
+      "contact_name": "Amreen Poonawala",
+      "contact_email": "​​kindly@unicef.org"
+    }
+  ],
+  "stage": "DPG"
+}

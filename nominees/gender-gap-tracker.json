@@ -24,7 +24,12 @@
     "software",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/sfu-discourse-lab/GenderGapTracker",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sfu-discourse-lab/GenderGapTracker"
+    }
+  ],
   "organizations": [
     {
       "name": "Simon Fraser University, Discourse Processing Lab",

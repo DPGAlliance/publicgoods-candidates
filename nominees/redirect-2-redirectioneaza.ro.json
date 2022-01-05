@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/code4romania/redirectioneaza",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/code4romania/redirectioneaza"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Romania",

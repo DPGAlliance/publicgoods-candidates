@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/benetech/MathShare",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/benetech/MathShare"
+    }
+  ],
   "organizations": [
     {
       "name": "Benetech",

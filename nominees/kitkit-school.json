@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/XPRIZE/GLEXP-Team-KitkitSchool",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/XPRIZE/GLEXP-Team-KitkitSchool"
+    }
+  ],
   "organizations": [
     {
       "name": "Enuma",

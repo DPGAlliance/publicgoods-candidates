@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hackoregon/civic",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hackoregon/civic"
+    }
+  ],
   "organizations": [
     {
       "name": "Hack Oregon",
