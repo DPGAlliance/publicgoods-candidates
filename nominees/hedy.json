@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Felienne/hedy",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Felienne/hedy"
+    }
+  ],
   "organizations": [
     {
       "name": "Felienne",

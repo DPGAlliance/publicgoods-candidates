@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/PecanProject/pecan",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PecanProject/pecan"
+    }
+  ],
   "organizations": [
     {
       "name": "PeCan Project",

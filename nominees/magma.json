@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/magma/magma",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/magma/magma"
+    }
+  ],
   "organizations": [
     {
       "name": "Facebook",

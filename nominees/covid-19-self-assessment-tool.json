@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ongov/covid-19-self-assessment",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ongov/covid-19-self-assessment"
+    }
+  ],
   "organizations": [
     {
       "name": "Ontario Government",

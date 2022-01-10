@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ourresearch/oadoi",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ourresearch/oadoi"
+    }
+  ],
   "organizations": [
     {
       "name": "Our Research",

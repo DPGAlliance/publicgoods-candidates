@@ -22,7 +22,12 @@
   "type": [
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/thinkingmachines/ph-poverty-mapping",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/thinkingmachines/ph-poverty-mapping"
+    }
+  ],
   "organizations": [
     {
       "name": "Thinking Machines Data Science Inc.",

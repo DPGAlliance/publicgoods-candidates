@@ -29,7 +29,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/BisaMhealth/BisaApp",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/BisaMhealth/BisaApp"
+    }
+  ],
   "organizations": [
     {
       "name": "Bisa Health",

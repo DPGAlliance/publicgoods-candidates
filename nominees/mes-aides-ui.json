@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/betagouv/aides-jeunes",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/aides-jeunes"
+    }
+  ],
   "organizations": [
     {
       "name": "Beta.Gouv",

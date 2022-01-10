@@ -1,0 +1,54 @@
+{
+  "name": "GNU Health",
+  "aliases": [
+    "MyGNUHealth",
+    "GNU Health Federation"
+  ],
+  "description": "GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. ",
+  "website": "https://www.gnuhealth.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://hg.savannah.gnu.org/hgweb/health/file/a6636ea6cbb0/COPYING"
+    },
+    {
+      "spdx": "CC-BY-SA-3.0",
+      "licenseURL": "https://en.wikibooks.org/wiki/GNU_Health"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "GNU Health ecosystem contains a Hospital management and information system, a Personal Health Record and a federation server to interconnect user and health institutions",
+      "evidenceURL": "http://www.GNUHealth.org"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "GNU Health has modules to track housing and living conditions of individuals and families. This can be interlinked to an injury surveillance system, GPS-mapped and vizualized with openStreetmap ",
+      "evidenceURL": "http://www.GNUHealth.org"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://savannah.gnu.org/hg/?group=health"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GNUSolidario",
+      "website": "https://www.gnusolidario.org",
+      "org_type": "owner",
+      "contact_name": "Selene Cordara",
+      "contact_email": "scordara@gnusolidario.org"
+    }
+  ],
+  "stage": "nominee"
+}

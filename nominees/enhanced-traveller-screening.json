@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/bcgov/enhanced-travel-screening",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bcgov/enhanced-travel-screening"
+    }
+  ],
   "organizations": [
     {
       "name": "Ministry of Health and Services, Government of British Columbia",
