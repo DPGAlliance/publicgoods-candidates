@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/revealprecision"
+      "licenseURL": "https://github.com/revealprecision/reveal-etl"
     }
   ],
   "SDGs": [
@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/revealprecision",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/revealprecision/reveal-etl"
+    }
+  ],
   "organizations": [
     {
       "name": "Akros",
