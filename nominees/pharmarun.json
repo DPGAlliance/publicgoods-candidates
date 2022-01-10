@@ -1,7 +1,7 @@
 {
   "name": "PHARMARUN",
   "aliases": [
-    "N/A"
+    ""
   ],
   "description": "Health innovation to provide easy access to Non-Prescription drugs as well as make request to get a vaccination using AI to locate nearest pharmacy and vaccination centers while also monitoring the usage of  drugs and vaccination",
   "website": "http://pharmarun.phiser.com.ng",
@@ -28,11 +28,9 @@
   ],
   "sectors": [],
   "type": [
-    "software",
     "data",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/DPGAlliance/DPG-Standard/search?q=repository",
   "organizations": [
     {
       "name": "PHISER ENGINEERING & SOLUTIONS LTD",
