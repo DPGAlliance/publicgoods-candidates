@@ -1,0 +1,45 @@
+{
+  "name": "SantéMPI",
+  "description": "SantéMPI is a proven, next-generation, fully featured Master Patient Index/Client Registry (MPI/CR) platform designed to overcome barriers to leveraging person-centered data as a catalyst for transforming health systems. It is an essential national digital health infrastructure component that leverages unique identity to facilitate data consolidation, harmonization, sharing, and building health information exchanges (e.g., OpenHIE) to establish interoperability across multiple software solutions. It’s flexible architecture and online/offline capability also supports large scale registration programs such as COVID-19 vaccination registration, and birth and death updates to a CRVS. SantéMPI fulfills these essential roles by implementing all relevant interoperability specifications and requirements related to Client Registry in the OpenHIE specification, including Client Registry as a service, HL7 FHIR, and widely deployed legacy standards like HL7v2. SantéMPI is a PATH Digital Square MPI “global good”, that helps create and liberate the power of high-fidelity data to maximize return on investment for both existing and future digital health solutions.",
+  "website": "https://santesuite.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/santedb/santedb-server/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "SantéMPI’s patient matching and unique identity capabilities, provide strategic tools to expand good health and well-being at national scale. They do this by enabling transformational improvements data timeliness, quality, availability of discrete, person centered data, data sharing and interoperability across the continuum of care. Timely, high-fidelity, person-centred data is essential to generating the information needed to effectively plan and manage health systems, optimize allocation of resources and build evidence-based feedback loops to drive a virtuous spiral of continuous improvement.",
+      "evidenceURL": "https://7gm.asiaehealthinformationnetwork.org/exhibition-logo/santesuite-inc"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "SantéMPI capability to support implementation of national unique health IDs helps establish gender equity by providing a platform that can be used to create and give women the health system access credentials needed to obtain and benefit from the health care services of they want and need, when and where they need them.",
+      "evidenceURL": "https://7gm.asiaehealthinformationnetwork.org/exhibition-logo/santesuite-inc"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/santedb/santedb-server/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "SanteSuite Inc.",
+      "website": "https://santesuite.com",
+      "org_type": "owner",
+      "contact_name": "Joseph Dal Molin",
+      "contact_email": "joseph@santesuite.com"
+    }
+  ],
+  "stage": "DPG"
+}

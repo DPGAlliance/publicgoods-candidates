@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/uw-ictd/mwbase",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/uw-ictd/mwbase"
+    }
+  ],
   "organizations": [
     {
       "name": "Department of Global Health, University of Washington",

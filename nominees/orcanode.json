@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/orcasound/orcanode",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/orcasound/orcanode"
+    }
+  ],
   "organizations": [
     {
       "name": "Orcasound",

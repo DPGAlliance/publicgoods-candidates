@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/codeforboston/voiceapp311",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforboston/voiceapp311"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Boston",

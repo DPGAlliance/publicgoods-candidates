@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openaq/openaq-api",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openaq/openaq-api"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenAQ",

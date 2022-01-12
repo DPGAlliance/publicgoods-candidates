@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/aranja/rakning-c19-app",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/aranja/rakning-c19-app"
+    }
+  ],
   "organizations": [
     {
       "name": "Icelandic Directorate of Health and the Department of Civil Protection and Emergency Management.",

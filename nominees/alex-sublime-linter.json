@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/get-alex/SublimeLinter-contrib-alex",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/get-alex/SublimeLinter-contrib-alex"
+    }
+  ],
   "organizations": [
     {
       "name": "Alex",

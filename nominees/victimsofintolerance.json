@@ -28,7 +28,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/okfn-brasil/vitimas-da-intolerancia",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/okfn-brasil/vitimas-da-intolerancia"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Knowledge Brasil",

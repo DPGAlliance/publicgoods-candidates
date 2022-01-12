@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/qgis/QGIS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/qgis/QGIS"
+    }
+  ],
   "organizations": [
     {
       "name": "QGIS",

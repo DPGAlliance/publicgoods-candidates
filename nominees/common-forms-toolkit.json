@@ -19,7 +19,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/bcgov/common-forms-toolkit",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bcgov/common-forms-toolkit"
+    }
+  ],
   "organizations": [
     {
       "name": "Government of British Columbia",

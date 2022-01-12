@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/arkhn/fhir-pipe",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/arkhn/fhir-pipe"
+    }
+  ],
   "organizations": [
     {
       "name": "Arkhn",

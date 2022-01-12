@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/AsylumConnect/asylum-connect-catalog",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/AsylumConnect/asylum-connect-catalog"
+    }
+  ],
   "organizations": [
     {
       "name": "Asylum Connect",

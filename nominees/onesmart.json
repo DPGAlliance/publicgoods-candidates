@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://gitlab.com/oscity/singletally",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.com/oscity/singletally"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

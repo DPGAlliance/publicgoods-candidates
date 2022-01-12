@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/awareness-sms",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/africa-covid-19-response-toolkit/awareness-sms"
+    }
+  ],
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

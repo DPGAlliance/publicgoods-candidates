@@ -32,7 +32,12 @@
     "software",
     "content"
   ],
-  "repositoryURL": "https://github.com/esse-dev/akita",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/esse-dev/akita"
+    }
+  ],
   "organizations": [
     {
       "name": "Akita",

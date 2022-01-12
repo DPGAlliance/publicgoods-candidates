@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/LibreHealthIO/lh-ehr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LibreHealthIO/lh-ehr"
+    }
+  ],
   "organizations": [
     {
       "name": "LibreHealthIO",
