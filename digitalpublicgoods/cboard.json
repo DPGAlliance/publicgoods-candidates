@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Google Analytics API"
+    "nonPIIAccessMechanism": "User logs can be shared or exported in Open Board Logging Format (.obl)"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
