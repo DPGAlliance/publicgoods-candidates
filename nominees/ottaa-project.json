@@ -53,6 +53,11 @@
       "org_type": "owner",
       "contact_name": "Hector Costa",
       "contact_email": "hcosta@ottaaproject.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicef.org/innovation/venturefund",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
