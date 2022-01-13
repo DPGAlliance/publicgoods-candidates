@@ -70,10 +70,10 @@
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "communication boards with images and audio",
-      "contentFilter": "",
+      "contentFilter": "Yes",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "No",
-      "illegalContentDetectionMechanism": ""
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Cboard contains a feature to report public boards in case that any user considers that this board includes sexual, violent, hateful, or abusive content."
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
