@@ -22,7 +22,12 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "https://github.com/OpenGeoScales/ogs-data-exploration",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenGeoScales/ogs-data-exploration"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenGeoScales",

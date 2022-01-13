@@ -32,7 +32,12 @@
     "content",
     "software"
   ],
-  "repositoryURL": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    }
+  ],
   "organizations": [
     {
       "name": "freeCodeCamp",

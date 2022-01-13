@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/huridocs/uwazi",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/huridocs/uwazi"
+    }
+  ],
   "organizations": [
     {
       "name": "Huridocs",

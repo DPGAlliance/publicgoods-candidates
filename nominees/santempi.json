@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/santedb/santedb-server/",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/santedb/santedb-server/"
+    }
+  ],
   "organizations": [
     {
       "name": "SanteSuite Inc.",
@@ -36,5 +41,5 @@
       "contact_email": "joseph@santesuite.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

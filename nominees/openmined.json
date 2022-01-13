@@ -38,7 +38,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenMined/PySyft",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenMined/PySyft"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenMined",

@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/populatetools/gobierto",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/populatetools/gobierto"
+    }
+  ],
   "organizations": [
     {
       "name": "Gobierto",

@@ -42,7 +42,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dimagi/commcare-android",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dimagi/commcare-android"
+    }
+  ],
   "organizations": [
     {
       "name": "Dimagi",

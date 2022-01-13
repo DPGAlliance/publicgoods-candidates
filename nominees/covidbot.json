@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/CSML-by-Clevy/covidbot-autodiagnostic",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CSML-by-Clevy/covidbot-autodiagnostic"
+    }
+  ],
   "organizations": [
     {
       "name": "The Pasteur Institute",

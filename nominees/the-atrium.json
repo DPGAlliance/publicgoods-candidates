@@ -19,7 +19,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/unicef/atrium",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/atrium"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",

@@ -36,7 +36,12 @@
     "data",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/unicef/kindly",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/kindly"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",
@@ -46,5 +51,5 @@
       "contact_email": "​​kindly@unicef.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

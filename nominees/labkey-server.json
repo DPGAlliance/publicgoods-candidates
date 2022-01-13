@@ -18,7 +18,12 @@
     "software",
     "data"
   ],
-  "repositoryURL": "https://github.com/LabKey/server",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LabKey/server"
+    }
+  ],
   "organizations": [
     {
       "name": "LabKey",

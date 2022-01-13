@@ -24,7 +24,12 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "The Odin Project",

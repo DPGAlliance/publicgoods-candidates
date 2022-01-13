@@ -42,7 +42,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Call-for-Code/Liquid-Prep",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Call-for-Code/Liquid-Prep"
+    }
+  ],
   "organizations": [
     {
       "name": "Call-for-Code",

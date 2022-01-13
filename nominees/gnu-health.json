@@ -35,11 +35,16 @@
     "software",
     "data"
   ],
-  "repositoryURL": "https://savannah.gnu.org/hg/?group=health",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://savannah.gnu.org/hg/?group=health"
+    }
+  ],
   "organizations": [
     {
       "name": "GNUSolidario",
-      "website": "http://www.gnusolidario.org",
+      "website": "https://www.gnusolidario.org",
       "org_type": "owner",
       "contact_name": "Selene Cordara",
       "contact_email": "scordara@gnusolidario.org"
