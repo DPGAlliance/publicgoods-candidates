@@ -1,0 +1,108 @@
+{
+  "name": "Cboard",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.cboard.io/cboard/unicef/ottaa%20project/2021/11/25/cboard-and-ottaa-project/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/cboard-org/cboard/blob/master/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "User logs can be shared or exported in Open Board Logging Format (.obl)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "California Online Privacy Protection Act (CalOPPA)",
+      "Children Online Privacy Protection Act (COPPA)"
+    ],
+    "adherenceSteps": [
+      "Privacy policy: https://www.cboard.io/privacy/",
+      "Terms of Service: https://www.cboard.io/terms-of-use/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Open Board Logging Format (.obl)"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.openboardformat.org/",
+      "https://www.w3.org/TR/WCAG21/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Material design: https://material.io/design/guidelines-overview"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers. \n We use regular Malware Scanning. \n Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. \n We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "name",
+        "email address",
+        "birthday"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "encrypted password, protected database"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "communication boards with images and audio",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Cboard contains a feature to report public boards in case that any user considers that this board includes sexual, violent, hateful, or abusive content."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Board edition is blocked by default, users can see just public boards from others "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Covenant Code of Conduct - https://github.com/cboard-org/cboard/blob/master/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina",
+      "Israel"
+    ],
+    "deploymentCountries": [
+      "United States of America",
+      "Canada",
+      "Belgium",
+      "Argentina",
+      "Croatia",
+      "Montenegro",
+      "North Macedonia",
+      "Bulgaria",
+      "Serbia",
+      "Israel"
+    ]
+  }
+}
