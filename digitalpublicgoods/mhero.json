@@ -1,0 +1,100 @@
+{
+  "name": "mHero",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.mhero.org/faq#resources"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://intrahealth.github.io/emNutt/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "exportation of data is possible and all reports include PII (the PII could be removed from the exported reports)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Uganda Data Protection Regulation",
+      "Kenya Data Protection Regulation"
+    ],
+    "adherenceSteps": [
+      "Local laws about data storage are reviewed determine how and where data is stored. Data sharing agreements are established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc. (https://www.mhero.org/sites/mhero/files/sampledatasharingenglish.docx ; https://www.mhero.org/sites/mhero/files/sampledatasharingfrench.docx)"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "mACM"
+    ],
+    "evidenceStandardSupport": [
+      "https://intrahealth.github.io/emNutt/dev/endpoints/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development (specifically: Design with the user, Understand the existing ecosystem, Design for scale, Build for sustainability, Be data-driven, Use open standards/open data/open source/open innovation, Address Privacy and Security, Be collaborative) - see: https://digitalprinciples.org/resource/mhero-and-the-principles-for-digital-development-development-done-right/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Terms of use and mechanisms/processes/policies are developed in each country in accordance with local laws and regulations, rather than being embedded in the core software package."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "phone number",
+        "email address"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Secure access to systems for only limited number of users, differing levels of access permissions, customizations to adhere to local laws and procedures"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "- mHero facilitates communication between ministries of health and health workers, who presumably are adults (18 years old and over). To facilitate communication, mHero pulls contact information for health workers from the official HR records which are managed by the ministry of health and stored securely in a system such as iHRIS. If there are any underage health workers in a country they will have accepted that they may be contacted by the MOH for professional purposes. ",
+        "- Additionally, in some countries health workers are required to opt in to receiving messages through mHero.",
+        "- The components of mHero are typically installed on a server with the same security standards and measures as the system containing HR records so the content of communication with any potential underage users is accessible only by designated system users."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "All messages sent and received via mHero are monitored by system users and/or system administrators. As such, any health worker would be able to send a message through the system reporting abuse, harassment, or anything that has caused them grief, and they can also send a message requesting to opt out of future messaging."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Liberia"
+    ],
+    "deploymentCountries": [
+      "Democratic Republic of the Congo",
+      "Guinea",
+      "Kenya",
+      "Liberia",
+      "Uganda"
+    ]
+  }
+}

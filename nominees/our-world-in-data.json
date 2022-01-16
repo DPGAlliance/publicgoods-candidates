@@ -1,0 +1,50 @@
+{
+  "name": "Our World in Data",
+  "aliases": [
+    "OWID"
+  ],
+  "description": "Research and data to make and track progress against the world's largest problems. Allows for individuals and organisations to have a broad understanding of the state of the world. Includes tracking for SDGs.",
+  "website": "https://ourworldindata.org",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://ourworldindata.org/faqs#how-is-your-work-copyrighted"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Related to Target 17.6 - Enhances knowledge sharing, specifically making this data available to individuals globally.",
+      "evidenceURL": "https://en.wikipedia.org/wiki/Our_World_in_Data"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Fair & Responsible Media",
+    "Media",
+    "Research"
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Global Change Data Lab",
+      "website": "https://global-change-data-lab.org",
+      "org_type": "owner"
+    },
+    {
+      "name": "University of Oxford - Oxford Martin Programme on Global Development",
+      "website": "https://www.oxfordmartin.ox.ac.uk/global-development",
+      "org_type": "maintainer",
+      "contact_email": "info@ourworldindata.org"
+    }
+  ],
+  "stage": "nominee"
+}

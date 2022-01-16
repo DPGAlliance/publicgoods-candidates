@@ -1,0 +1,68 @@
+{
+  "name": "NotesMaster",
+  "aliases": [
+    "Notesmaster Elearning"
+  ],
+  "description": "NoteMaster provides training and support to use the NotesMaster elearning platform, which is preconfigured with local curricula, so the trained teachers can create digital lessons online in Notesmaster, for students to then access. The lessons can be accessed and remixed by teachers from any other country to suit their local curricula. These lessons are then submitted to a peer review system which leads to a sustainable multiplier effect in the development of new digital lessons.",
+  "website": "https://notesmaster.com/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://notesmaster.com/termsofuse"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.",
+      "evidenceURL": "http://oasis.col.org/handle/11599/3645"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "In the OER content programs NotesMaster manages for the Commonwealth of Learning we use the Common Wealth of Learning Gender Mainstreaming Toolkit for Teachers and Teacher Educators as well as the Checklist for the Development of Gender-Responsive Learning Materials to ensure that gender equality is met in all subjects developed.",
+      "evidenceURL": "http://oasis.col.org/bitstream/handle/11599/1741/2015_Wong-Frei_Checklist-Gender-Responsive-Learning-Materials.pdf?sequence=3&isAllowed=y"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "NotesMaster is an online education innovation in that it allows content to be created by local teachers, that is based around the local curriculum. The NotesMaster Library allows the content from all 31 countries to be easily accessed, used or remixed to suit local customs. The library also supports access in other popular learning platforms such as Edmodo, and Google Classroom.",
+      "evidenceURL": "http://www.news.gov.tt/content/moe-hosts-virtual-launch-notesmaster-platform#.YNDjdkszZaQ"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Through free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the ‘at risk’ youth population (16-30 age group) in 9 regional territories of the Caribbean.",
+      "evidenceURL": "https://2ndchance.cxc.org/press/CXC_Release-2_A_second_Chance_for_a_hands-on_education.pdf"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Through its partnership with the Namibian College of Open Learning, NotesMaster was pleased to be awarded a WSA for best societal impact for its digital resources. This program led to improved outcomes for communities in Namibia and for second chance learners aged 14-21.",
+      "evidenceURL": "https://wsa-global.org/winner/notesmaster-namibia-open-educational-resources-oers/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Through a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements.",
+      "evidenceURL": "https://www.youtube.com/watch?v=PO-tPc9ajQg"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Notesmaster Caribbean",
+      "website": "https://notesmaster.com/",
+      "org_type": "owner",
+      "contact_name": "Mr. Damon Clarke",
+      "contact_email": "dclarke@notesmaster.com"
+    }
+  ],
+  "stage": "DPG"
+}

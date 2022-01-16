@@ -16,7 +16,12 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ60fTTBlezKwvppNT8_wy8r4zWnx8-u6pkrwwloZ1hQwwFbobEZz7O1mOKSa2ph7YOlvMMT9oWDzAc/pub#",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ60fTTBlezKwvppNT8_wy8r4zWnx8-u6pkrwwloZ1hQwwFbobEZz7O1mOKSa2ph7YOlvMMT9oWDzAc/pub#"
+    }
+  ],
   "organizations": [
     {
       "name": "Recidiviz",

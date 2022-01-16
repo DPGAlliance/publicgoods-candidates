@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenTreeMap/otm-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenTreeMap/otm-core"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenTreeMap",

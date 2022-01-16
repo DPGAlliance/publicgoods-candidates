@@ -17,11 +17,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/WorldVistA/VistA",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WorldVistA/VistA"
+    }
+  ],
   "organizations": [
     {
       "name": "WorldVistA",
-      "website": "http://www.worldvista.org/",
+      "website": "https://www.worldvista.org/",
       "org_type": "owner",
       "contact_email": "info@worldvista.org"
     }

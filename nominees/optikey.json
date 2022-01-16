@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OptiKey/OptiKey",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OptiKey/OptiKey"
+    }
+  ],
   "organizations": [
     {
       "name": "OptiKey",

@@ -1,0 +1,101 @@
+{
+  "name": "Flow Cameroon",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Idadelveloper/Flow/blob/main/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Flow Cameroon requires Firebase and Firestore which are closed dependencies. However other open source alternatives exists such Couchbasev (https://www.couchbase.com/)"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Idadelveloper/Flow/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data collected is made available in JSON format"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "There is no legislation for data protection in Cameroon. Here is our privacy policy: https://dscuba2020.github.io/projects/flow-website/privacy%20policy.html"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://dscuba2020.github.io/projects/flow-website/privacy%20policy.html"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Data Exchange formats - JSON",
+      "Web standards - HTML, CSS, ECMAScript",
+      "Internationalization (i18n) - UTF-8",
+      "Authentication & Authorization - OAuth 2, OpenID Connect"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Idadelveloper/Flow"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Uses cross platform UI software development kit (Flutter) to reach users on all major platforms that is Android and iOS",
+      "Hosts the source code on a public repository (Github)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "- Locations are being verified by a team of competent individuals who would make sure there isn’t any form of misdirection or false information. \n- We use Firebase by Google to store relevant information about a particular water source. And we trust that Firebase’s security standards are high enough for us not to worry about security vulnerabilities"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Personal Data - email, firstname & lastname, phone",
+        "Usage data - is collected automatically when using the Service.",
+        "Information Collected while Using the Application such location data (however this is done with your consent and permission)"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.",
+        "For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.",
+        "With Affiliates: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.",
+        "With business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+        "With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.",
+        "With Your consent: We may disclose Your personal information for any other purpose with Your consent."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Cameroon"
+    ],
+    "deploymentCountries": [
+      "Cameroon"
+    ]
+  }
+}

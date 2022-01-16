@@ -1,7 +1,7 @@
 {
   "name": "BEMServer",
   "description": "An open source Python server to deploy energy management solutions for buildings",
-  "website": "http://bemserver.org/",
+  "website": "https://bemserver.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/HIT2GAP-EU-PROJECT/bemserver",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/HIT2GAP-EU-PROJECT/bemserver"
+    }
+  ],
   "organizations": [
     {
       "name": "HIT2GAP",

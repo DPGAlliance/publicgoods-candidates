@@ -26,14 +26,19 @@
     {
       "SDGNumber": 17,
       "evidenceText": "Helping the Social Sector: The COVID crisis required NGOs to pivot & deliver their programming via online channels. Glific can deliver content to beneficiaries and engage them in conversations, such as: personal conversations, feedback on current activities, suggestions on future activities.",
-      "evidenceURL": "https://drive.google.com/file/d/1X-IoSn-DuELhgZLEYnWTkcxeUoT3DkY8/view?usp=sharing"
+      "evidenceURL": "https://chintugudiya.org/blog/tech4dev-announces-the-general-availability-of-glific-the-open-source-whatsapp-based-communication-platform/"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/glific/glific",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/glific/glific"
+    }
+  ],
   "organizations": [
     {
       "name": "Project Tech4Dev",
@@ -41,5 +46,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

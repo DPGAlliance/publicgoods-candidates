@@ -4,7 +4,7 @@
     "Apache clinical Text Analysis and Knowledge Extraction System"
   ],
   "description": "Apache cTAKES is a natural language processing system for extraction of information from electronic medical record clinical free-text.",
-  "website": "http://ctakes.apache.org/",
+  "website": "https://ctakes.apache.org/",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -24,7 +24,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/apache/ctakes",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/apache/ctakes"
+    }
+  ],
   "organizations": [
     {
       "name": "The Apache Software Foundation",

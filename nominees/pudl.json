@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/catalyst-cooperative/pudl",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/catalyst-cooperative/pudl"
+    }
+  ],
   "organizations": [
     {
       "name": "Catalyst Cooperative ",

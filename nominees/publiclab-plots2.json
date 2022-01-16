@@ -10,20 +10,29 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 11
+      "SDGNumber": 11,
+      "evidenceURL": "https://publiclab.org/about"
     },
     {
-      "SDGNumber": 12
+      "SDGNumber": 12,
+      "evidenceURL": "https://publiclab.org/about"
     },
     {
-      "SDGNumber": 13
+      "SDGNumber": 13,
+      "evidenceText": "Pursuing environmental justice through community science and open technology",
+      "evidenceURL": "https://publiclab.org/about"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/publiclab/plots2",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/publiclab/plots2"
+    }
+  ],
   "organizations": [
     {
       "name": "PublicLab",

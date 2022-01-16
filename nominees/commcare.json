@@ -1,6 +1,6 @@
 {
   "name": "CommCare",
-  "description": "CommCare is an easily customizable, open source mobile platform that supports frontline workers in low-resource settings. CommCare provides a no-code app building platform used for building powerful frontline service delivery and data collection applications. By replacing paper-based forms, frontline workers can use CommCare to track and support their clients with registration forms, checklists, SMS reminders, and multimedia.",
+  "description": "CommCare is a digital health platform that allows users to rapidly configure and deploy offline first, custom data collection and service delivery support applications which feature case management for frontline workers without any tech or coding expertise.",
   "website": "https://www.dimagi.com/commcare",
   "license": [
     {
@@ -19,7 +19,8 @@
     },
     {
       "SDGNumber": 3,
-      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+      "evidenceText": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things.",
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     },
     {
       "SDGNumber": 4,
@@ -27,18 +28,26 @@
     },
     {
       "SDGNumber": 10,
-      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+      "evidenceText": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things.",
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     },
     {
       "SDGNumber": 11,
       "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dimagi/commcare-hq",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dimagi/commcare-hq"
+    }
+  ],
   "organizations": [
     {
       "name": "Dimagi",
@@ -46,5 +55,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

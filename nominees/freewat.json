@@ -1,0 +1,43 @@
+{
+  "name": "FREEWAT",
+  "aliases": [
+    ""
+  ],
+  "description": "FREEWAT (FREE and open source software tools for WATer resource management) is an HORIZON 2020 project financed by the EU Commission under the call WATER INNOVATION: BOOSTING ITS VALUE FOR EUROPE.  FREEWAT main result is an open source and public domain GIS integrated modelling environment (the FREEWAT platform) for the simulation of water quantity and quality in surface water and groundwater with an integrated water management and planning module.",
+  "website": "https://www.freewat.eu/",
+  "license": [
+    {
+      "spdx": "LGPL-2.1",
+      "licenseURL": "https://gitlab.com/freewat/freewat/-/blob/develop/LICENCE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 6,
+      "evidenceText": "to coordinate previous EU and national funded research to integrate existing software modules for water management in a single environment into the GIS based FREEWAT;  - to support the FREEWAT application in an innovative participatory approach gathering technical staff and relevant stakeholders (in primis policy and decision makers) in designing scenarios for the proper application of water policies.",
+      "evidenceURL": "http://www.freewat.eu/"
+    }
+  ],
+  "sectors": [
+    "Water and Sanitation"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.com/freewat/freewat/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "FREEWAT",
+      "website": "https://www.freewat.eu/",
+      "org_type": "owner",
+      "contact_name": "Rudy Rossetto",
+      "contact_email": "r.rossetto@santannapisa.it"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Surveillance Outbreak Response Management and Analysis System",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/hzi-braunschweig"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/hzi-braunschweig/SORMAS-Project/tree/development/docs"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Non personally identifiable information (PII) can be imported or exported using the SORMAS API. The SORMAS API has configurations to permit pseudonymized or anonymized data exchange as well as user right configurations."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "The data collection and management in SORMAS are governed by the General Data Protection Regulation (GDPR) where it applies. The countries using SORMAS are responsible for complying with regulation and local legislation."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/hzi-braunschweig/SORMAS-Project"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for digital development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Data transferred throughout SORMAS API or exported   can be pseudonymized if needed. SORMAS Keycloak is available as an alternative authentication provider to the default authentication method. SORMAS is checked on a yearly basis by an external security audit."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Surveillance data (e.g; case, contacts, events, samples, Immunizations, etc) only and fully owed by the public health authorities in the country that uses the tool"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        "We the developers of the tool have no access to the data."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Data transferred throughout SORMAS API or exported can be pseudonymized if needed. SORMAS Keycloak is available as an alternative authentication provider to the default authentication method. SORMAS is checked on a yearly basis by an external security audit. \n https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/sormas-base/doc/keycloak.md \n In addition, there is a configuration in the tool that stakeholders can use to define the read, write, or even complete anonymization access to entities or their PII data for users of the system. \n Since each country setup their own server (either local or cloud), we encourage stakeholders to always go with a solution having a server backup configuration."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The interactions between users and contributors takes place on the GitHub platform mainly. This ensures transparency of the communication. The SORMAS users and contributors consist of public health professionals who are in the age group of the working population (more than 20 years old)."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://github.com/hzi-braunschweig/SORMAS-Project/blob/development/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Germany",
+      "Nigeria",
+      "Ghana",
+      "France"
+    ],
+    "deploymentCountries": [
+      "Nigeria",
+      "Ghana",
+      "Fiji",
+      "Germany",
+      "Switzerland",
+      "France",
+      "Côte d'Ivoire"
+    ]
+  }
+}

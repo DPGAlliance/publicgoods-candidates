@@ -18,7 +18,12 @@
     "content",
     "data"
   ],
-  "repositoryURL": "https://github.com/drnikki/open-demographics",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/drnikki/open-demographics"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Demographics",

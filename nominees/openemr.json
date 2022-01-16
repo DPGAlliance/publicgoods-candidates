@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openemr/openemr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openemr/openemr"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenEMR",

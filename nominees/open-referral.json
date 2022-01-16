@@ -1,0 +1,60 @@
+{
+  "name": "Open Referral",
+  "aliases": [
+    ""
+  ],
+  "description": "Open Referral develops data standards and open source tools that make it easier to share, find and use information about health, human, and social services.",
+  "website": "https://openreferral.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/openreferral/specification/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Open Referral makes it easier for many institutions to collaborate on the management of information about the resources available to people in need – which can enhance partnerships, needs assessment, program evaluation, and institutional design. "
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Open Referral makes it easier for many institutions to collaborate on the management of information about the resources available to people in need – which can enhance partnerships, needs assessment, program evaluation, and institutional design. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openreferral/specification"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Aspiration",
+      "website": "https://aspirationtech.org/",
+      "org_type": "owner",
+      "contact_name": "Allen Gunn",
+      "contact_email": "gunner@aspirationtech.org"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "DIVOC",
+  "aliases": [
+    "Digital Infrastructure for Vaccination Open Credentialing"
+  ],
+  "description": "Open source digital platform for large scale digital vaccination credentialing programs",
+  "website": "https://divoc.egov.org.in/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/egovernments/DIVOC/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "DIVOC is part of India's Co-WIN platform (used for COVID vaccination) and has been already used at scale within India. DIVOC instance in India has already issued more than 100 million digitally verifiable credentials and continues to issue few million credentials every day as India's vaccination drive scales up.",
+      "evidenceURL": "https://divoc.egov.org.in/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/egovernments/DIVOC"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "eGovernments Foundation",
+      "website": "https://egov.org.in/",
+      "org_type": "owner"
+    },
+    {
+      "name": "eGovernments Foundation",
+      "website": "https://egov.org.in/",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/kvklrao/Avyantra_Presco_Project",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kvklrao/Avyantra_Presco_Project"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
@@ -33,5 +38,5 @@
       "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

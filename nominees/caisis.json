@@ -1,7 +1,7 @@
 {
   "name": "Caisis",
   "description": "Caisis is an open-source, web-based, patient data management system that integrates research with patient care. The system is freely distributed to promote the collection of standard, well structured data suitable for research and multi-institution collaboration.",
-  "website": "http://www.caisis.org/",
+  "website": "https://www.caisis.org/",
   "license": [
     {
       "spdx": "GPL-2.0",
@@ -22,11 +22,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/biodigital-inc/caisis",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/biodigital-inc/caisis"
+    }
+  ],
   "organizations": [
     {
       "name": "BioDigital",
-      "website": "http://www.biodigital.com/",
+      "website": "https://www.biodigital.com/",
       "org_type": "owner",
       "contact_email": "info@biodigital.com"
     }

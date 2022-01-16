@@ -30,7 +30,12 @@
     "content",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/Cirrolytix/aedes_dpg",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Cirrolytix/aedes_dpg"
+    }
+  ],
   "organizations": [
     {
       "name": "Cirrolytix Research Services",
@@ -38,5 +43,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

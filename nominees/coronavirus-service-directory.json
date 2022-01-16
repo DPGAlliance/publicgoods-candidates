@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/wearefuturegov/coronavirus-service-directory",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/wearefuturegov/coronavirus-service-directory"
+    }
+  ],
   "organizations": [
     {
       "name": "FutureGov",

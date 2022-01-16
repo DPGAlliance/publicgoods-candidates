@@ -21,11 +21,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/FNNDSC/chrisapp",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/FNNDSC/chrisapp"
+    }
+  ],
   "organizations": [
     {
       "name": "FNNDSC (Fetal-Neonatal Neuroimaging Developmental Science Center)",
-      "website": "http://fnndsc.babymri.org/",
+      "website": "https://fnndsc.babymri.org/",
       "org_type": "owner"
     }
   ],

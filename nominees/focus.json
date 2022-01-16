@@ -4,7 +4,7 @@
     "Fisheries Open Source Community Software"
   ],
   "description": "FOCUS is an open-source community that aims to oversee and maintain free software dedicated to the management and preservation of the fishery resource.",
-  "website": "http://www.focus.fish/about/",
+  "website": "https://www.focus.fish/about/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -25,11 +25,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP"
+    }
+  ],
   "organizations": [
     {
       "name": "FOCUS",
-      "website": "http://www.focus.fish/about/",
+      "website": "https://www.focus.fish/about/",
       "org_type": "owner"
     }
   ],

@@ -1,11 +1,11 @@
 {
   "name": "DataWinners",
   "description": "DataWinners is a data collection application supporting multiple channels like sms, web and smartphone. Goal is to enable seamless data collection, reporting and visualization.",
-  "website": "http://datawinners.com/",
+  "website": "https://datawinners.com/",
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "http://www.apache.org/licenses/LICENSE-2.0"
+      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
   "SDGs": [
@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/mangroveorg/datawinners",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mangroveorg/datawinners"
+    }
+  ],
   "organizations": [
     {
       "name": "Human Network Interaction (HNI)",

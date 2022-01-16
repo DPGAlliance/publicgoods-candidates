@@ -147,7 +147,7 @@
               "NTP",
               "OCLC-2.0",
               "ODbL-1.0",
-              "ODC-By-1.0 ",
+              "ODC-By-1.0",
               "OFL-1.1",
               "OFL-1.1-no-RFN",
               "OFL-1.1-RFN",
@@ -334,9 +334,24 @@
         ]
       }
     },
-    "repositoryURL": {
-      "type": "string",
-      "description": "Link to Github (or other) repository."
+    "repositories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the Github (or other) repository"
+          },
+          "url": {
+            "type": "string",
+            "description": "Website of the repository"
+          }
+        }
+      }
     },
     "organizations": {
       "type": "array",
@@ -377,7 +392,6 @@
       "description": "Screening stage of Digital Public Good",
       "enum": [
         "nominee",
-        "candidate",
         "DPG"
       ]
     }

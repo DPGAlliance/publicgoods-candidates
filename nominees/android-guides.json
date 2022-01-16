@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/codepath/android_guides",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codepath/android_guides"
+    }
+  ],
   "organizations": [
     {
       "name": "CodePath",
