@@ -1,0 +1,40 @@
+{
+  "name": "Flow Cameroon",
+  "aliases": [
+    "Flow"
+  ],
+  "description": "Flow is a water source location app that helps students of the University of Bamenda, Bambili to find/locate clean water sources. ",
+  "website": "https://dscuba2020.github.io/projects/flow-website/index.html",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/bernandez/Flow/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 6,
+      "evidenceText": "This project was developed as an entry into the GDSC solution challenge for 2021 to solve the porblem of water shortages. Users of this app are able to find clean water sources easily using their mobile phones. With a lot of ills that result with using dirty water, a solution like Flow is a life saver."
+    }
+  ],
+  "sectors": [
+    "Water and Sanitation"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bernandez/Flow"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "University of Bamenda",
+      "website": "https://uniba.cm/",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "DPG"
+}

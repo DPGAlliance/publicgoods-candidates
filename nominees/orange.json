@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/biolab/orange3",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/biolab/orange3"
+    }
+  ],
   "organizations": [
     {
       "name": "University of Ljubljana, Faculty of Computer and Information Science, Bioinformatics Laboratory",

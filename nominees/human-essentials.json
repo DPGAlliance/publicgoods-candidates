@@ -1,0 +1,34 @@
+{
+  "name": "Human Essentials",
+  "description": "An inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
+  "website": "https://diaper.app/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/rubyforgood/human-essentials/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rubyforgood/human-essentials"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "RubyForGood",
+      "website": "https://rubyforgood.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

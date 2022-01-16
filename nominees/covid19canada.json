@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "CC-BY-4.0",
-      "licenseURL": "https://github.com/ishaberry/Covid19Canada/blob/master/LICENSE.MD"
+      "licenseURL": "https://github.com/ccodwg/Covid19Canada/blob/master/LICENSE.MD"
     }
   ],
   "SDGs": [
@@ -16,7 +16,12 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "https://github.com/ishaberry/Covid19Canada",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ccodwg/Covid19Canada"
+    }
+  ],
   "organizations": [
     {
       "name": "COVID-19 Canada Open Data Working Group",

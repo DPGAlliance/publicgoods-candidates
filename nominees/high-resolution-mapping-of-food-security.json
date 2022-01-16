@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/WFP-VAM/HRM",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WFP-VAM/HRM"
+    }
+  ],
   "organizations": [
     {
       "name": "WFP - VAM",

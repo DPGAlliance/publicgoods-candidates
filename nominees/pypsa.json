@@ -1,0 +1,58 @@
+{
+  "name": "PyPSA",
+  "aliases": [
+    "Python for Power System Analysis"
+  ],
+  "description": "Python for Power System Analysis is an open-source python environment for state-of-the-art energy system modelling.",
+  "website": "https://www.pypsa.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/PyPSA/PyPSA/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "This project tends to help to eradicate extreme poverty for all people everywhere,",
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "For simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.",
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "This project is relevant in terms of total electricity/energy system least-cost investment optimization (using linear network equations, over several snapshots simultaneously for optimization of generation and storage dispatch and investment in the capacities of generation)",
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "This project will help in monitoring total greenhouse gas emissions per year",
+      "evidenceURL": "https://pypsa.readthedocs.io/en/latest/users.html"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PyPSA/PyPSA"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Energy System Modelling Group at the Institute for Automation and Applied Informatics",
+      "website": "https://www.kit.edu/english/index.php",
+      "org_type": "maintainer",
+      "contact_name": "Tom Brown",
+      "contact_email": "tombrown@nworbmot.org"
+    }
+  ],
+  "stage": "nominee"
+}

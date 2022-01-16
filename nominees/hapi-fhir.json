@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/jamesagnew/hapi-fhir/blob/master/LICENSE.txt"
+      "licenseURL": "https://github.com/hapifhir/hapi-fhir/blob/master/LICENSE.txt"
     }
   ],
   "SDGs": [
@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/jamesagnew/hapi-fhir",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hapifhir/hapi-fhir"
+    }
+  ],
   "organizations": [
     {
       "name": "HAPI FHIR",

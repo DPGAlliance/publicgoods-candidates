@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/GFDRR/thinkhazard",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GFDRR/thinkhazard"
+    }
+  ],
   "organizations": [
     {
       "name": "Global Facility for Disaster Reduction and Recovery",

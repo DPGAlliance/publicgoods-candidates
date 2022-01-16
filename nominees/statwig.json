@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://gitlab.com/statwig-public",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.com/statwig-public"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

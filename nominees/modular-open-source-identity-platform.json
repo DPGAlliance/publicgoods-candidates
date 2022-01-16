@@ -58,7 +58,12 @@
     "software",
     "standard"
   ],
-  "repositoryURL": "https://github.com/mosip/commons",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mosip/commons"
+    }
+  ],
   "organizations": [
     {
       "name": "MOSIP",

@@ -1,0 +1,97 @@
+{
+  "name": "Climate Information Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://climateinformation.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Data Access Platform - https://dap.climateinformation.org/ (In the Data Access Platform it is possible to select climate indicators and: iew in interactive maps and graphs, read metadata by clicking the metadata button in the map view, download data in excel or NetCDF-format.)",
+      "Site-Specific report - https://climateinformation.org/create-report/ (Maps, graphs and key messages are provided for climate indicators at a selected area of interest. Download of maps and graphs are possible in PNG-format. Metadata is provided for each indicator)",
+      "Knowledgebase - https://climateinformation.org/knowledge-base/ (Fact pages about data variables, data production and tailoring, confidence and robustness etc.)"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Download of maps and graphs are possible in PNG-format. Metadata can also be downloaded in excel format"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "SMHI's management of personal data: https://www.smhi.se/en/about-smhi/smhi-s-management-of-personal-data-1.137003",
+      "In the contact form (https://climateinformation.org/contact/the user must check a “GDPR Agreement” to proceed."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "WCAG",
+      "PNG format"
+    ],
+    "evidenceStandardSupport": [
+      "Accessibility statement: https://climateinformation.org/accessibility-statement/ (updates in progress)"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Co-developed (based on user feedback)",
+      "Data driven (data presented in formats that are easy to interpret and act on)",
+      "Collaborative  (includes 'how to' -guidance)",
+      "Open data (for increased use)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Yes, we have introduced a disclaimer, guidance and several FAQ in the Knowledge base explaining how to use this tool properly. \nDisclaimer: All data available in this portal is prepared and quality checked by SMHI climate experts. The portal is created for informational purpose only.  No claim or representation is made or warranty given as to the accuracy, completeness or authenticity of the information. SMHI, GCF, WCRP and WMO shall not in any way be held liable for any loss or damage direct or indirect caused by any inaccuracies or errors in the data by the user of the data, or claims from a third party after receiving refined products based on the data."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://climateinformation.org/contact/ with improvement ideas, error reports etc. They enter name and e-mail so that the CIP team can respond. The contact form sends an e-mail to SMHI. This is the only personal data handled through climateinformation.org."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "As SMHI is a governmental authority and as such is governed by the principle of Public access to official documents, generally all information received - by e-mail and otherwise – are official documents. Depending on what the email message contains – including the personal data in it - it will either be entered into the official journal, archived or destructed in accordance with a disposal decision. All actions are in accordance with law and regulations on the area, including the rules and guidelines relating to disposal of official documents and archiving. (see SMHI´s management of personal data, https://www.smhi.se/en/about-smhi/smhi-s-management-of-personal-data-1.137003)"
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The only personal data we collect from users is what they add in the contact form (https://climateinformation.org/contact/). This form is based on the plugin WPForms (wordpress) that sends an e-mail to SMHI. E-mails that go to SMHI are handled according to SMHI´s management of personal data: https://www.smhi.se/en/about-smhi/smhi-s-management-of-personal-data-1.137003 \nData that we store for distribution is climate indicators. This is open data that is stored at SMHI and is distributed through SMHI web applications (Data Access Platform and Site-Specific report)."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Data (climate indicators of weather and water data) shared in excel and NetCDF-format, maps and graphs shared in PNG-format and guidance (web pages with text) ",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "Climateinformation.org does not have functionality that allows users to share content between users. Data and content that is available at climateinformation.org is only shared by SMHI. Data and fact pages are quality checked by SMHI experts.",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Not possible to upload content. Only possible to fill in a form and download data."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

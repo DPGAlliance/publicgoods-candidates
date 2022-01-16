@@ -1,0 +1,49 @@
+{
+  "name": "OpenFn Integration Toolkit",
+  "aliases": [
+    "OpenFn"
+  ],
+  "description": "The OpenFn Integration Toolkit is a digital global good that helps health and humanitarian organizations automate key processes and integrate critical systems, so they spend less time managing data and more time focusing on their work.",
+  "website": "https://www.openfn.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/OpenFn/core/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "OpenFn is currently in use in over 20 low and middle income countries across the world--primarily by health and humanitarian organizations. Examples include UNICEF, UNHCR, Miracle Feet and the IRC. These organizations use OpenFn to better facilitate program needs.",
+      "evidenceURL": "https://docs.openfn.org/blog/2021/02/09/interoperability_for_case_referrals"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "We have partnered with Dimagi and USAID to integrate the Honduras Ministry of Education's Moodle learning management system with a USAID program application running on CommCare. For other education-related projects, see link below. "
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Wildlife Conservation Society and the ConSoSci partnership work on conservation action in 30+ countries and use OpenFn to connect their data sources for faster analysis, enhanced research, and more effective conservation and social response. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenFn/core"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenFn",
+      "website": "https://www.openfn.org/",
+      "org_type": "owner",
+      "contact_name": "Taylor Downs",
+      "contact_email": "support@openfn.org"
+    }
+  ],
+  "stage": "DPG"
+}

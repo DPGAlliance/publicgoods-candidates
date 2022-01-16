@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/wevote/WeVoteServer",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/wevote/WeVoteServer"
+    }
+  ],
   "organizations": [
     {
       "name": "WeVote",

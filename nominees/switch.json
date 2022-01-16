@@ -1,0 +1,56 @@
+{
+  "name": "SWITCH",
+  "aliases": [
+    "Switch Power System Planning Model"
+  ],
+  "description": "SWITCH is a power system model, focused on renewables integration. It can identify which generator and transmission projects to build in order to satisfy electricity demand at the lowest cost over a several-year period.",
+  "website": "https://switch-model.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/switch-model/switch/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This project will substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.",
+      "evidenceURL": "https://www.sciencedirect.com/science/article/pii/S2352711018301547?via%3Dihub"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "SWITCH makes hourly decisions about how much power to generate from each dispatchable power plant, store at each pumped hydro facility, or transfer along each transmission interconnector.",
+      "evidenceURL": "https://www.sciencedirect.com/science/article/pii/S2352711018301547?via%3Dihub"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Access to energy is a basic service to meet basic needs such as safe and healthy cooking and indoor and outdoor lighting in the evening.",
+      "evidenceURL": "https://www.sciencedirect.com/science/article/pii/S2352711018301547?via%3Dihub"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Help reduce greenhouse gas emission effect",
+      "evidenceURL": "https://www.sciencedirect.com/science/article/pii/S2352711018301547?via%3Dihub"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/switch-model/switch"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "University of Hawai'i",
+      "website": "https://www.hawaii.edu/",
+      "org_type": "maintainer",
+      "contact_name": "Josiah Johnston",
+      "contact_email": "josiah.johnston@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}

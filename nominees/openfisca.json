@@ -1,0 +1,41 @@
+{
+  "name": "OpenFisca",
+  "aliases": [
+    ""
+  ],
+  "description": "OpenFisca is a macro simulation modelling application which takes a set of tax rules written as code and calculates what economical impact these tax rules have on the economy and general income of a nation.",
+  "website": "https://openfisca.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/openfisca/openfisca-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "It enables evidence based decision making for policy, to create just institutions (SDG 16.6 and 16.B))",
+      "evidenceURL": "https://openfisca.org/doc/key-concepts/reforms.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfisca/openfisca-core"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Etalab",
+      "website": "https://etalab.gouv.fr",
+      "org_type": "maintainer",
+      "contact_name": "Matti Schneider",
+      "contact_email": "matti.schneider@beta.gouv.fr"
+    }
+  ],
+  "stage": "nominee"
+}

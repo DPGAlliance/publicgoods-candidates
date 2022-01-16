@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/cdsframework/ice",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cdsframework/ice"
+    }
+  ],
   "organizations": [
     {
       "name": "HLN Consulting, LLC",
@@ -30,5 +35,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
