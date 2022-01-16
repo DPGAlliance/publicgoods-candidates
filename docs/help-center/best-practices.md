@@ -14,6 +14,8 @@ Below are some of the common best practices and principles implemented by severa
 * Test driven development
 * Continous Integration & Continous Deployment (CI/CD)
 * Rapid application development
+* Code Review
+* [SOLID principles of object oriented programming](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
 #### Architectural Design
 * [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
