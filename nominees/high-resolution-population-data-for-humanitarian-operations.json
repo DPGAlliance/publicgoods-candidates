@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/dohyung-kim/population"
+      "licenseURL": "https://github.com/dohyung-kim/population/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -52,7 +52,12 @@
     "data",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/dhis2/dhis2-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dohyung-kim/population"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
