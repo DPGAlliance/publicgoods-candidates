@@ -20,7 +20,12 @@
   "type": [
     "standard"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "FarmaTrust",
