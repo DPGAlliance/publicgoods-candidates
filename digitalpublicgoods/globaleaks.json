@@ -23,27 +23,27 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR",
-      "ISO 27001",
-      "ISO 27017",
-      "ISO 27018",
-      "Cloud Security Alliance Level 2: https://cloudsecurityalliance.org/star/registry/services/globaleaks/"
+      "GDPR"
     ],
     "adherenceSteps": [
-      "Full description of the methodologies applied at: Full documentation about the principles and best practices used within the project development: https://bestpractices.coreinfrastructure.org/en/projects/3816"
+      "Privacy policy - https://www.globaleaks.org/privacy-policy/"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "The software complies with ISO 37002, specific whistleblowing standard defined in 2021. It as well implement whistleblowing procedures in relation to many national and international laws and in particular in relation to the Directive (EU) 2019/1937; Within its implementation it uses only standard protocols defined by the IETF"
+      "The software complies with ISO 37002, specific whistleblowing standard defined in 2021. It as well implement whistleblowing procedures in relation to many national and international laws and in particular in relation to the Directive (EU) 2019/1937; Within its implementation it uses only standard protocols defined by the IETF",
+      "ISO 27001",
+      "ISO 27017",
+      "ISO 27018"
     ],
     "evidenceStandardSupport": [
       "https://bestpractices.coreinfrastructure.org/en/projects/3816"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Full documentation about the principles and best practices used within the project develpment: https://bestpractices.coreinfrastructure.org/en/projects/3816"
+      "Full documentation about the principles and best practices used within the project develpment: https://bestpractices.coreinfrastructure.org/en/projects/3816",
+      "Cloud Security Alliance Level 2: https://cloudsecurityalliance.org/star/registry/services/globaleaks/"
     ]
   },
   "doNoHarm": {
