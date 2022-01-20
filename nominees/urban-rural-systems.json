@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/UrbanRuralSystems/ur-scape/"
+    }
+  ],
   "organizations": [
     {
       "name": "Singapore ETH Centre (SEC)",
