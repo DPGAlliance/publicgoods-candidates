@@ -1,0 +1,49 @@
+{
+  "name": "Aajeevika",
+  "aliases": [
+    ""
+  ],
+  "description": "Enhancing Rural Livelihoods",
+  "website": "https://aajeevika.undp.org.in/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://opensource.org/licenses/Apache-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Aajeevika platform caters to SDG  goal  – “SDG 1 :No Poverty”. The Application contributes to SDG goal 1 as its objective is to improve the outreach of the products being sold by rural women for profit maximization which is envisaged to improve their financial status and help them to get out of poverty."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Aajeevika platform caters to SDG  goal  – “SDG 8: Decent Work and Economic Growth”. It contributes to SDG goal 8 as the app will  support  rural women owned micro rural enterprises used for  manufacturing marketable farm or non-farm products; this in turn  will lead to local economic growth and employment opportunities."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "standard"
+  ],
+  "repositories": [
+    [
+      {
+        "repositories": {
+          "name": "Aajeevika",
+          "url": "https://github.com/UNDPIndia/Aajeevika"
+        }
+      }
+    ]
+  ],
+  "organizations": [
+    {
+      "name": "United Nations Development Program( UNDP) India",
+      "website": "https://www.in.undp.org/",
+      "org_type": "owner",
+      "contact_name": "Ms. Shoko Noda (Resident Representative, UNDP India)",
+      "contact_email": "shoko.noda@undp.org"
+    }
+  ],
+  "stage": "nominee"
+}
