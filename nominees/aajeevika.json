@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://opensource.org/licenses/Apache-2.0"
+      "licenseURL": "https://github.com/UNDPIndia/Aajeevika"
     }
   ],
   "SDGs": [
@@ -23,18 +23,13 @@
   ],
   "sectors": [],
   "type": [
-    "software",
-    "standard"
+    "software"
   ],
   "repositories": [
-    [
-      {
-        "repositories": {
-          "name": "Aajeevika",
-          "url": "https://github.com/UNDPIndia/Aajeevika"
-        }
-      }
-    ]
+    {
+      "name": "main",
+      "url": "https://github.com/UNDPIndia/Aajeevika"
+    }
   ],
   "organizations": [
     {
