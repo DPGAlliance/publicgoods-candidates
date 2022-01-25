@@ -1,0 +1,33 @@
+{
+  "name": "My Project",
+  "aliases": [
+    ""
+  ],
+  "description": "My Description",
+  "website": "https://www.example.com",
+  "license": [
+    {
+      "spdx": "APL-1.0",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "description"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "My Organization",
+      "website": "https://example.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
