@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria3%20-Clear%20Ownership.docx"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -16,12 +18,12 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Approach taken for development of Aajeevika:\nAll  the variables of the database are labelled as  either as Personally Identifiable Information(PII) or  non-PII data. The list is available and uploaded on github ( https://github.com/UNDPIndia/Aajeevika)\nWe  are providing an open API/FTP  to extract the non PII data  that can be used by any external  application/users. \n"
+    "nonPIIAccessMechanism": "Approach taken for development of Aajeevika:\nAll  the variables of the database are labelled as  either as Personally Identifiable Information(PII) or  non-PII data. The list is available and uploaded on github ( https://github.com/UNDPIndia/Aajeevika)\nWe  are providing an open API/FTP  to extract the non PII data  that can be used by any external  application/users."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "Approach taken for development of Aajeevika: The government of India and a joint Parliamentary Committee had proposed the draft Personal Data Protection(PDP) Bill on data protection which will be India's first law on the protection of personal data. This bill is still in draft stage. Aajeevika application is designed based on UN privacy principles  as described in UN Secretary General’s \"Data Strategy\" is being followed."
+      "Approach taken for development of Aajeevika: The government of India and a joint Parliamentary Committee had proposed the draft Personal Data Protection(PDP) Bill on data protection which will be India's first law on the protection of personal data. This bill is still in draft stage. Aajeevika application is designed based on UN privacy principles  as described in UN Secretary General's Data Strategy is being followed."
     ],
     "adherenceSteps": [
       " https://www.un.org/en/content/datastrategy/images/pdf/UN_SG_Data-Strategy.pdf"
@@ -29,15 +31,15 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
-    "bestPracticesList": [
-      "https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria8%20-Adherence%20to%20Standards%20%26%20Best%20Practices.docx"
-    ],
     "standardsList": [
       "The application vulnerabilities are handled through Open Web Application Security Project (OWASP) application security verification standards."
     ],
     "evidenceStandardSupport": [
       "https://github.com/UNDPIndia/Aajeevika/blob/main/Ajeevika%20Case%20Testing%20(1).xlsx"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria8%20-Adherence%20to%20Standards%20%26%20Best%20Practices.docx"
     ]
   },
   "doNoHarm": {
@@ -51,22 +53,27 @@
         "https://github.com/UNDPIndia/Aajeevika/blob/main/Ajeevika%20Database%20Table%20(PI%2CNot%20PI).xlsx"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "No"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "No",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "The project collects data from the individual woman/group of rural women( sellers on this  marketing platform)and  buyers- name , mobile , email id, products sold by the sellers, feedback given for the transaction etc. The Entity Relationship diagram and database details are available at https://github.com/UNDPIndia/Aajeevika",
-      "contentFilter": "Unknown",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "The Admin panel of Aajeevika application consists of dashboard and Navigation pane. The navigation pane consists of various options to review and monitor the entries in the application. This facilitates the mechanism to review and identify products and profile of sellers and buyers. Users who enter inappropriate content  can be  disabled. Pls refer to the link https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria9b%20-Inappropriate%20%26%20Illegal%20Content.docx"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "The buys and sellers on this platform use android app. Google play store allows defining the age restriction. Open Play Console and go to the App content page (Policy > App content)."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "The application has provisioned the pre-defined values as dropdown options or radio buttons at most of the places in order to minimize text entry for the buyers and sellers on the marketplace. There is an in-built grievance redressal mechanism where the users can raise a grievance request which opens a ticket in the admin panel. Pls refer to the link for screenshots-https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria9c%20-Protection%20from%20Harassment.docx"
       ]
