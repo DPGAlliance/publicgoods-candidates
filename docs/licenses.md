@@ -17,18 +17,21 @@ CC-BY-2.0 | Creative Commons Attribution 2.0 Generic
 CC-BY-2.5 | Creative Commons Attribution 2.5 Generic
 CC-BY-3.0 | Creative Commons Attribution 3.0 Unported
 CC-BY-3.0-AT | Creative Commons Attribution 3.0 Austria
+CC-BY-3.0-IGO | Creative Commons Attribution 3.0 IGO
 CC-BY-3.0-US | Creative Commons Attribution 3.0 United States
 CC-BY-4.0 | Creative Commons Attribution 4.0 International
 CC-BY-NC-1.0 | Creative Commons Attribution Non Commercial 1.0 Generic
 CC-BY-NC-2.0 | Creative Commons Attribution Non Commercial 2.0 Generic
 CC-BY-NC-2.5 | Creative Commons Attribution Non Commercial 2.5 Generic
 CC-BY-NC-3.0 | Creative Commons Attribution Non Commercial 3.0 Unported
+CC-BY-NC-3.0-IGO | Creative Commons Attribution Non Commercial 3.0 IGO
 CC-BY-NC-3.0-US | Creative Commons Attribution Non Commercial 3.0 United States
 CC-BY-NC-4.0 | Creative Commons Attribution Non Commercial 4.0 International
 CC-BY-NC-SA-1.0 | Creative Commons Attribution Non Commercial Share Alike 1.0 Generic
 CC-BY-NC-SA-2.0 | Creative Commons Attribution Non Commercial Share Alike 2.0 Generic
 CC-BY-NC-SA-2.5 | Creative Commons Attribution Non Commercial Share Alike 2.5 Generic
 CC-BY-NC-SA-3.0 | Creative Commons Attribution Non Commercial Share Alike 3.0 Unported
+CC-BY-NC-SA-3.0-IGO | Creative Commons Attribution Non Commercial Share Alike 3.0 IGO
 CC-BY-NC-SA-3.0-US | Creative Commons Attribution Non Commercial Share Alike 3.0 United States
 CC-BY-NC-SA-4.0 | Creative Commons Attribution Non Commercial Share Alike 4.0 International
 CC-BY-SA-1.0 | Creative Commons Attribution Share Alike 1.0 Generic
@@ -36,6 +39,7 @@ CC-BY-SA-2.0 | Creative Commons Attribution Share Alike 2.0 Generic
 CC-BY-SA-2.5 | Creative Commons Attribution Share Alike 2.5 Generic
 CC-BY-SA-3.0 | Creative Commons Attribution Share Alike 3.0 Unported
 CC-BY-SA-3.0-AT | Creative Commons Attribution Share Alike 3.0 Austria
+CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 CC-BY-SA-3.0-US | Creative Commons Attribution Share Alike 3.0 United States
 CC-BY-SA-4.0 | Creative Commons Attribution Share Alike 4.0 International
 CC0-1.0 | Creative Commons Zero v1.0 Universal
@@ -44,7 +48,9 @@ CC0-1.0 | Creative Commons Zero v1.0 Universal
 
 Full Name | SPDX Identifier
 --- | ---
+CC-BY-3.0-IGO | Creative Commons Attribution 3.0 IGO
 CC-BY-4.0 | Creative Commons Attribution 4.0 International
+CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 CC-BY-SA-4.0 | Creative Commons Attribution Share-Alike 4.0 International
 CC0-1.0 | Creative Commons Zero v1.0 Universal
 ODbL-1.0 | Open Data Commons Open Database License 1.0
