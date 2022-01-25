@@ -1,0 +1,77 @@
+{
+  "name": "Mozilla Common Voice dataset",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://commonvoice.mozilla.org/en/terms"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/common-voice/",
+      "https://github.com/common-voice/cv-dataset",
+      "https://commonvoice.mozilla.org/en/about"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "one can execute a personal data download from the profile feature"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://commonvoice.mozilla.org/en/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://commonvoice.mozilla.org/en/terms - age limits, keeping list of downloaders for right to be forgotten, reducing dataset mirroring and forking, community participation guidelines in place, active community manager"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "email addresses"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "children cannot participate without a guardian as per /terms"
+      ],
+      "harassmentProtectionSteps": [
+        "https://www.mozilla.org/en-US/about/governance/policies/participation/ "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada",
+      "United States of America",
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
