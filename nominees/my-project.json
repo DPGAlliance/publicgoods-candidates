@@ -1,0 +1,44 @@
+{
+  "name": "My Project",
+  "aliases": [
+    ""
+  ],
+  "description": "My Description",
+  "website": "https://www.example.com",
+  "license": [
+    {
+      "spdx": "0BSD",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "description"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    [
+      {
+        "name": "main",
+        "url": "https://example.com"
+      },
+      {
+        "name": "frontend",
+        "url": "https://example.com/frontend"
+      }
+    ]
+  ],
+  "organizations": [
+    {
+      "name": "My Organization",
+      "website": "https://example.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
