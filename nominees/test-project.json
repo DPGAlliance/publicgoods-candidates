@@ -1,0 +1,41 @@
+{
+  "name": "Test project",
+  "aliases": [
+    "Test project"
+  ],
+  "description": "Test project description. testing repositories",
+  "website": "http://testproject.org",
+  "license": [
+    {
+      "spdx": "APSL-2.0",
+      "licenseURL": "http://testproject.org"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "asdf",
+      "evidenceURL": "http://testproject.org"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Repository test",
+      "url": "http://testproject.org"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "asdfas",
+      "website": "http://testproject.org",
+      "org_type": "owner",
+      "contact_name": "test user",
+      "contact_email": "usermail@somewhere.com"
+    }
+  ],
+  "stage": "nominee"
+}
