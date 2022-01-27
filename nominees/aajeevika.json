@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Enhancing Rural Livelihoods",
+  "description": "Aajeevika application is been developed by UNDP with funding under the DIGITAL X Scale Accelerator Programme and mentoring support from Digital Office to provide marketing support to the rural women mobilized under the National Rural Livelihoods Mission by the Uttarakhand State Government. The very objective of the application is to improve and increase the outreach of their farm and non-farms products. Using the Aajeevika mobile app, rural women get connected with potential buyers of their products and government can monitor the activity on LIVE dashboard of web version of this application. In addition to this, the application also provides comprehensive livelihoods promotions information to the rural women such as information on mechanism to apply for government schemes and programmes for livelihoods promotions , videos gallery with skilling and motivational videos, success stories of rural entrepreneurs, government notifications on livelihoods promotion etc.",
   "website": "https://aajeevika.undp.org.in/",
   "license": [
     {
@@ -14,11 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 1,
-      "evidenceText": "Aajeevika platform caters to SDG  goal  – “SDG 1 :No Poverty”. The Application contributes to SDG goal 1 as its objective is to improve the outreach of the products being sold by rural women for profit maximization which is envisaged to improve their financial status and help them to get out of poverty."
+      "evidenceText": "Aajeevika platform caters to SDG  goal  – “SDG 1 :No Poverty”. The Application contributes to SDG goal 1 as its objective is to improve the outreach of the products being sold by rural women for profit maximization which is envisaged to improve their financial status and help them to get out of poverty.",
+      "evidenceURL": "https://aajeevika.gov.in/en/content/welcome-deendayal-antyodaya-yojana-nrlm"
     },
     {
       "SDGNumber": 8,
-      "evidenceText": "Aajeevika platform caters to SDG  goal  – “SDG 8: Decent Work and Economic Growth”. It contributes to SDG goal 8 as the app will  support  rural women owned micro rural enterprises used for  manufacturing marketable farm or non-farm products; this in turn  will lead to local economic growth and employment opportunities."
+      "evidenceText": "Aajeevika platform caters to SDG  goal  – “SDG 8: Decent Work and Economic Growth”. It contributes to SDG goal 8 as the app will  support  rural women owned micro rural enterprises used for  manufacturing marketable farm or non-farm products; this in turn  will lead to local economic growth and employment opportunities.",
+      "evidenceURL": "https://aajeevika.gov.in/en/content/welcome-deendayal-antyodaya-yojana-nrlm"
     }
   ],
   "sectors": [],
@@ -36,8 +38,8 @@
       "name": "United Nations Development Program( UNDP) India",
       "website": "https://www.in.undp.org/",
       "org_type": "owner",
-      "contact_name": "Ms. Shoko Noda (Resident Representative, UNDP India)",
-      "contact_email": "shoko.noda@undp.org"
+      "contact_name": "Srilekha Chakrabarty",
+      "contact_email": "srilekha.chakrabarty@undp.org"
     }
   ],
   "stage": "nominee"
