@@ -1,0 +1,62 @@
+{
+  "name": "ur-scape",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://urs.sec.sg/#filter=.home"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://urs.sec.sg/#filter=.tt",
+      "https://github.com/UrbanRuralSystems/ur-scape",
+      "https://ur-scape.sec.sg/en/home"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Unknown",
+    "standardsList": [
+      "https://opensource.org/licenses/MIT"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "We distribute the application installation executable file as well as global open-sourced geospatial data (i.e. binaries format).",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Singapore"
+    ],
+    "deploymentCountries": [
+      "Indonesia",
+      "Vietnam",
+      "Bangladesh",
+      "China",
+      "India"
+    ]
+  }
+}
