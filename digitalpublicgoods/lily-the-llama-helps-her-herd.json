@@ -30,12 +30,12 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "PDF"
     ],
     "evidenceStandardSupport": [
-      ""
+      "The book can be downloaded in PDF format from the website - https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
