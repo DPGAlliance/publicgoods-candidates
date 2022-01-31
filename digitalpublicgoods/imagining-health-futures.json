@@ -1,0 +1,59 @@
+{
+  "name": "Imagining Health Futures",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.governinghealthfutures2030.org/imagining-health-futures/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Distributes pre-wrtiten stories for consumption by individuals ages 13+",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina",
+      "Cuba",
+      "Bosnia and Herzegovina",
+      "Serbia",
+      "Lebanon",
+      "Namibia",
+      "Indonesia",
+      "United States of America",
+      "Switzerland",
+      "Sierra Leone",
+      "Nigeria",
+      "Fiji",
+      "Micronesia",
+      "India",
+      "Egypt"
+    ]
+  }
+}
