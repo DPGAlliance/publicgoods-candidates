@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/CodeForAfrica/openAFRICA",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CodeForAfrica/openAFRICA"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Africa",

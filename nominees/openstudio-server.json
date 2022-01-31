@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/NREL/OpenStudio-server",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/NREL/OpenStudio-server"
+    }
+  ],
   "organizations": [
     {
       "name": "National Renewable Energy Laboratory",

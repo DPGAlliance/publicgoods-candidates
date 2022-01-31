@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/heatseeknyc/heatseeknyc",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/heatseeknyc/heatseeknyc"
+    }
+  ],
   "organizations": [
     {
       "name": "Heat Seek",

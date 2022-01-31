@@ -24,7 +24,12 @@
     "software",
     "data"
   ],
-  "repositoryURL": "https://github.com/thinkingmachines/geomancer",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/thinkingmachines/geomancer"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/TransparencyToolkit/LookingGlass",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/TransparencyToolkit/LookingGlass"
+    }
+  ],
   "organizations": [
     {
       "name": "Transparency Toolkit",

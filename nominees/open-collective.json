@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opencollective/opencollective",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opencollective/opencollective"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Collective",

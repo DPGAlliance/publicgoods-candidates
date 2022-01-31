@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Flowminder/FlowKit",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Flowminder/FlowKit"
+    }
+  ],
   "organizations": [
     {
       "name": "Flowminder",

@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/wiki-gender/wiki-gender.github.io",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/wiki-gender/wiki-gender.github.io"
+    }
+  ],
   "organizations": [
     {
       "name": "Wikigender",

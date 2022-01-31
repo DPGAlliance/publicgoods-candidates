@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openpantry/open_pantry",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openpantry/open_pantry"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Pantry",

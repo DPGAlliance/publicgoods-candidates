@@ -82,9 +82,8 @@
   "locations": {
     "developmentCountries": [
       "India",
-      "USA",
+      "United States of America",
       "Germany",
-      "Africa",
       "Netherlands",
       "Canada",
       "Kenya",
@@ -115,14 +114,14 @@
       "Argentina",
       "Uruguay",
       "Nigeria",
-      "Cote D'Ivoire",
+      "Côte d'Ivoire",
       "Mozambique",
       "Senegal",
       "Tunisia",
       "Lebanon",
       "Spain",
       "China",
-      "USA"
+      "United States of America"
     ]
   }
 }

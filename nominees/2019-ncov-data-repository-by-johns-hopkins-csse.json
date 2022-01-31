@@ -16,7 +16,12 @@
   "type": [
     "data"
   ],
-  "repositoryURL": "https://github.com/CSSEGISandData/COVID-19",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CSSEGISandData/COVID-19"
+    }
+  ],
   "organizations": [
     {
       "name": "Johns Hopkins University",

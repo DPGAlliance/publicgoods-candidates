@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/SonyCSL/APIS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/SonyCSL/APIS"
+    }
+  ],
   "organizations": [
     {
       "name": "Sony Computer Science Laboratories, Inc.",

@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ushahidi/tenfour",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ushahidi/tenfour"
+    }
+  ],
   "organizations": [
     {
       "name": "TenFour",

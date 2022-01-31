@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opengovernment/opengovernment",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opengovernment/opengovernment"
+    }
+  ],
   "organizations": [
     {
       "name": "Participatory Policies Foundation",

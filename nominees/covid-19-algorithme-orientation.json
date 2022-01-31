@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation"
+    }
+  ],
   "organizations": [
     {
       "name": "The French Ministry of Social Affairs and Health",

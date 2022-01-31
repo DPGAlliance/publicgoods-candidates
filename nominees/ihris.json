@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/iHRIS/iHRIS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/iHRIS/iHRIS"
+    }
+  ],
   "organizations": [
     {
       "name": "IntraHealth International",

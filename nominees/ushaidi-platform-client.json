@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ushahidi/platform-client",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ushahidi/platform-client"
+    }
+  ],
   "organizations": [
     {
       "name": "Ushaidi",
