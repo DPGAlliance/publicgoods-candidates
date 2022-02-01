@@ -34,6 +34,16 @@
       "org_type": "maintainer",
       "contact_name": "Yuhao Lu",
       "contact_email": "yuhao.lu@sec.ethz.ch"
+    },
+    {
+      "name": "Asian Development Bank (ADB)",
+      "website": "https://www.adb.org/",
+      "org_type": "funder"
+    },
+    {
+      "name": "Swiss State Secretary for Economic Affairs (SECO)",
+      "website": "https://www.seco.admin.ch/seco/en/home.html",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
