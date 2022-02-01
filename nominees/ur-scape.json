@@ -24,10 +24,6 @@
   "repositories": [
     {
       "name": "main",
-      "repositories": {
-        "name": "main",
-        "url": "https://example.com"
-      },
       "url": "https://github.com/UrbanRuralSystems/ur-scape"
     }
   ],
