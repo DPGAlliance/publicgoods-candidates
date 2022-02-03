@@ -1,13 +1,11 @@
 {
-  "name": "VaccineLedger",
+  "name": "VaccineLedger ",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://gitlab.com/statwig-public/theledger"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "No"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -33,13 +31,13 @@
   },
   "standards": {
     "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
     "standardsList": [
       "WaSP"
     ],
     "evidenceStandardSupport": [
       "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
     ],
-    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles of Digital Development ",
       "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
@@ -56,26 +54,14 @@
         "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
       ],
       "thirdPartyDataSharing": "No",
-      "dataSharingCircumstances": [
-        ""
-      ],
-      "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No",
-      "type": "",
-      "contentFilter": "",
-      "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "",
-      "illegalContentDetectionMechanism": ""
+      "collectStoreDistribute": "No"
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
-      "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
-      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "The safety and wellbeing of those we work with is of paramount importance to us. This includes staff, and the people  we work  with. We  have a  zero-tolerance  approach towards all forms of unethical behavior. We  also  have  a  zero  tolerance  towards  bribes,  facilitation  payments,  tax  evasion  and  money laundering. We will do all we can to prevent financing or the support of terrorist organisations and will not appoint or employ anyone that could reasonably be suspected to be connected to a terrorist group. We will abide by all the Laws in all matters including those related to modern slavery."
