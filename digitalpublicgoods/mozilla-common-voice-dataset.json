@@ -20,7 +20,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "one can execute a personal data download from the profile feature"
+    "nonPIIAccessMechanism": "Downloads can be done in MP3 format here - https://commonvoice.mozilla.org/en/datasets"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -34,10 +34,12 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "JSON"
+      "JSON",
+      "ISO 639-1 codes"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/common-voice/cv-dataset/tree/main/datasets"
+      "https://github.com/common-voice/cv-dataset/tree/main/datasets",
+      "https://github.com/common-voice/cv-dataset"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
