@@ -2,7 +2,7 @@
   "name": "ur-scape",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://urs.sec.sg/#filter=.home"
+    "copyrightURL": "https://github.com/UrbanRuralSystems/ur-scape/blob/master/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
