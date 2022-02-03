@@ -32,12 +32,12 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "JSON"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/common-voice/cv-dataset/tree/main/datasets"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
