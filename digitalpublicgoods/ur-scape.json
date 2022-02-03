@@ -62,11 +62,11 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "We distribute the application installation executable file as well as global open-sourced geospatial data (i.e. binaries format).",
-      "contentFilter": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "No",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
