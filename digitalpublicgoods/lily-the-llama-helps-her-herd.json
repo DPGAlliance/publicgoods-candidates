@@ -1,0 +1,93 @@
+{
+  "name": "Lily the Llama Helps Her Herd",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The project does not collect any information on users. The only information that the website collects is the number of clicks on the book and the number of unique clicks, but this does not save any identifying information about the user"
+    ],
+    "adherenceSteps": [
+      "The project is housed on Stanford Medicine’s Digital Medic website. Their Online Privacy Policy can be found at https://www.stanford.edu/site/privacy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "PDF"
+    ],
+    "evidenceStandardSupport": [
+      "The book can be downloaded in PDF format from the website - https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "This project was designed using best practices in vaccine education and early childhood education.",
+      "The project adheres to various Principles for Digital Development",
+      "The project is accessible to anyone in the world who reads English, Spanish, or Portuguese and has access to the internet",
+      "The project was developed with user-centered design principles as it was tested with children ages 5-10 before publication."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The book has been reviewed by a leading virologist, academic physicians, pediatricians, early education experts, and public health professionals at The La Jolla Institute for Immunology, the Stanford Graduate School of Education, Stanford Biology Department, and Lucile Packard Children's Hospital Stanford, and the Stanford Center for Health Education. The book’s format and content were developed through research of peer-reviewed science and education literature."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The project is housed on Stanford Medicine’s Digital Medic website. The project does not collect or store any information or content. Their Online Privacy Policy can be found at https://www.stanford.edu/site/privacy/."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
