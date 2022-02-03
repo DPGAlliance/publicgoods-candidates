@@ -1,0 +1,80 @@
+{
+  "name": "VaccineLedger ",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://gitlab.com/statwig-public/theledger"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitlab.com/statwig-public/theledger",
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger-_Use_Case___Functional_Features_.pdf",
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "This data is stored on Blockchain and can be accessible through REST APIs.\nThe core idea of blockchain is collaboration based on shared data ownership, governance and  operations. The major difference from centralized system architectures is that peers,  collaborating in a network, can continue using their own systems and technology stack without  the need to integrate them in the classical way. Instead, blockchain provides a shared data  layer that allows these systems to interoperate on top and acts as the single truth. \n\nAs a result, the network has no single authority, which owns the data or controls the systems.  The decentralization of the ledger means a decentralization of power.\n\nLink to Evidence: https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Server.pdf"
+    ],
+    "adherenceSteps": [
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Privacy_policy_of_VaccineLedger__1_.pdf"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "WaSP"
+    ],
+    "evidenceStandardSupport": [
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
+    ],
+    "bestPracticesList": [
+      "Principles of Digital Development ",
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our Risk Management strategy includes  Include risk management in our projects (Guidelines / Checklist/ Templates) Communicate risks to other stakeholders. Prioritize risks. Analyze risks with metrics. Implement risk responses as early as possible to avoid aggravating issues. Track them down regularly for compliance."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The safety and wellbeing of those we work with is of paramount importance to us. This includes staff, and the people  we work  with. We  have a  zero-tolerance  approach towards all forms of unethical behavior. We  also  have  a  zero  tolerance  towards  bribes,  facilitation  payments,  tax  evasion  and  money laundering. We will do all we can to prevent financing or the support of terrorist organisations and will not appoint or employ anyone that could reasonably be suspected to be connected to a terrorist group. We will abide by all the Laws in all matters including those related to modern slavery."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "Costa Rica",
+      "India"
+    ]
+  }
+}
