@@ -59,7 +59,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Account data. You do not need to create an account to use Common Voice. If you decide to create an account, we receive your username and avatar, if you submit one. Your email address is associated with your demographic and interaction data but is not shared to the public. We display leaderboards showing the number of recordings users make. You have the option whether or not you wish to appear on the leaderboards. You can delete your account at any time and your username and email will be removed. For more details - https://commonvoice.mozilla.org/en/privacy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
