@@ -34,7 +34,12 @@
   "type": [
     "data"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "Common Voice Corpus datasets",
+      "url": "https://commonvoice.mozilla.org/en/datasets"
+    }
+  ],
   "organizations": [
     {
       "name": "Mozilla Foundation",
@@ -44,5 +49,5 @@
       "contact_email": "em@mozillafoundation.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
