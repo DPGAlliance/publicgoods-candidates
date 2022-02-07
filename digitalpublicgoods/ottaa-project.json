@@ -13,13 +13,14 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://ottaa-project.github.io/docs/welcome",
-      "https://ottaa-project.github.io/PictogramsPredictionsLibrary/docs/readme/"
+      "https://ottaa-project.github.io/PictogramsPredictionsLibrary/docs/readme/",
+      "Technology standards - https://ottaa-project.github.io/docs/techno"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be transfered using JSON format. Reference : https://ottaa-project.github.io/PictogramsPredictionsLibrary/docs/howtouse"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -27,16 +28,21 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "https://ottaaproject.com/espa%c3%b1ol/terminosCondiciones.html"
+      "Privacy policy - https://ottaa-project.github.io/docs/privacypolicy"
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTTPS for secure communicate over networks",
+      "OAuth 2 for authentication and user authorization",
+      "UTF-8 for string localization and internalization",
+      "JSON for database structure and data transfer",
+      "PNG & Webp for images and pictograms",
+      "OGG for audio files"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://ottaa-project.github.io/docs/techno"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -62,7 +68,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. \n If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. \n When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
