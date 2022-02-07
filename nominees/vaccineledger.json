@@ -1,7 +1,7 @@
 {
-  "name": "VaccineLedger ",
+  "name": "VaccineLedger",
   "aliases": [
-    "None"
+    ""
   ],
   "description": "VaccineLedger is a decentralized supply chain management platform that leverages blockchain technology, Internet of Things (IoT) and Artificial Technology and Machine Learning to capture data for every vaccine and other medical products in the supply chains from manufacturer to the beneficiary.",
   "website": "https://vaccineledger.com/",
@@ -32,7 +32,28 @@
   "type": [
     "software"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "ledger",
+      "url": "https://gitlab.com/statwig-public/theledger"
+    },
+    {
+      "name": "blockchain engine",
+      "url": "https://gitlab.com/statwig-public/BlockchainEngine"
+    },
+    {
+      "name": "ledger mobile app",
+      "url": "https://gitlab.com/statwig-public/theledgermobileapp"
+    },
+    {
+      "name": "supply chain demo",
+      "url": "https://gitlab.com/statwig-public/SupplyChainDemo"
+    },
+    {
+      "name": "user interface",
+      "url": "https://gitlab.com/statwig-public/UserInterface"
+    }
+  ],
   "organizations": [
     {
       "name": "StaTwig",
