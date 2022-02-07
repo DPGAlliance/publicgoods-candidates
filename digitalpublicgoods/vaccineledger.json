@@ -28,13 +28,19 @@
       "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Server.pdf"
     ],
     "adherenceSteps": [
-      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Privacy_policy_of_VaccineLedger__1_.pdf"
+      "Privacy policy - https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Privacy_policy_of_VaccineLedger__1_.pdf",
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Server.pdf"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "WaSP"
+      "WaSP",
+      "HTML",
+      "CSS",
+      "ECMAScript",
+      "JSON",
+      "REST"
     ],
     "evidenceStandardSupport": [
       "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
@@ -60,7 +66,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "User information like phone and email are not stored - https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
