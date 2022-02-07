@@ -66,7 +66,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "User information like phone and email are not stored - https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
+      "privacySecurityDescription": "User information like phone and email are not stored - https://gitlab.com/statwig-public/theledger/-/blob/050a19d2c92a2836bfb9483941e5219e5b90be62/docs/VaccineLedger_-_Data_Confidentiality.pdf"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
