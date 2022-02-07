@@ -78,9 +78,11 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "The users on our platform are supply chain managers, operational teams, logistics partners and so on. The user onboarding in each of these different types of users is carried out by a two step process:",
+        "- Step 1: User registers using name, official emails and/or phone numbers for verification and other identification details when needed. ",
+        "- Step 2: An admin reviews and approves the users."
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
