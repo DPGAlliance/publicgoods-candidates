@@ -1,0 +1,53 @@
+{
+  "name": "Mozilla Common Voice dataset",
+  "aliases": [
+    "MCV",
+    "Common Voice"
+  ],
+  "description": "A multilingual open voice dataset created by Mozilla Common Voice, an initiative to help teach machines how real people speak",
+  "website": "https://commonvoice.mozilla.org/",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://commonvoice.mozilla.org/en/datasets"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Because of diversity issues within AI training sets, technology often displays gender bias. More voice technology performing better for men than women, to safety equipment being designed to support male forms rather than female ones, we have a gender equity problem in the design and roll of tech. Common Voice is a way for women and gender conforming people to be better represented in voice AI training sets. We have a gender action plan, and specific interventions to support people across the gender spectrum to participate, including writeathons, contributhons and gender working group."
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Substantial voice AI training sets remain proprietary, held by big companies in such a way that stifles innovation. By making Common Voice open access we have enabled a wide spectrum of innovative organisations to build ASR (automatic speech recognition) for free."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "The same AI training set inequities that impact women and gender diverse people also impact People of Colour, neurodiverse people and those with speech pathologies. By creating an open platform to crowdsource data from anyone and everyone who can speak, we are creating real representation opportunities in voice datasets. This will support access to technology and reduce the digital divide. "
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Common Voice is a consortium project stewarded by Mozilla but with investment from the Gates foundation, GIZ, FCDO, and NVIDIA (with more partners to come). This consortium of for profit, non profit and government are all coming together to advance equitable open technology in MCV.  "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "Common Voice Corpus datasets",
+      "url": "https://commonvoice.mozilla.org/en/datasets"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Mozilla Foundation",
+      "website": "https://foundation.mozilla.org/en/",
+      "org_type": "owner",
+      "contact_name": "EM Lewis-Jong",
+      "contact_email": "em@mozillafoundation.org"
+    }
+  ],
+  "stage": "DPG"
+}
