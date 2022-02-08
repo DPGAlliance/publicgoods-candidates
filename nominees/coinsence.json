@@ -1,16 +1,40 @@
 {
   "name": "Coinsence",
-  "description": "Platform to match youth volunteers to social enterprises",
+  "aliases": [
+    "Enabling people through community currencies"
+  ],
+  "description": "Community currency based collaboration and value exchange platform. ",
   "website": "https://coinsence.org",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+      "licenseURL": "https://github.com/Coinsence/humhub-modules-xcoin/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 17
+      "SDGNumber": 10,
+      "evidenceText": "Through alternatives for funding and value sharing based on crypto assets, we are building a new way how communities can share profit within the ecosystem (with contributors and well as with customers)."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Our solution enables community to create alternative funding solutions for social and entrepreneurial activities and enables people to share the collectively created assets."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Trough our platform, where people and organizations across the globe can collaborate, share resources and manage funds in a decentral way, and where stakeholders are rewarding through crypto assets for their contributions, we are encouraging, facilitating and boosting partnerships between the different organizations, sectors and regions. "
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Through our solution where communities can mainly support responsible projects, and where the eco-social engagement of companies is visible and accountable, where are supporting with our tools building better relations between engaged producers and consumers.  "
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Through our solution communities are building decentral governance frameworks that create the possibility for people and organization to collaborate e.g. based on democratic consensus. Through creating new digital ways for voting and policy making across different groups, regional and national borders, we can foster peace and justice and build alternatives to some todays non-functioning institutions."
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Through token based agile funding processes of grass root innovation projects and through a cross silo and cross organizational collaboration and value exchange framework, we are leveraging collective intelligence and connecting experts and resources together to leverage synergies and boost innovation."
     }
   ],
   "sectors": [],
@@ -19,15 +43,17 @@
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/coinsence/coinsence-monorepo"
+      "url": "https://github.com/coinsence",
+      "name": "Main repository"
     }
   ],
   "organizations": [
     {
-      "name": "UNICEF Ventures Fund",
-      "website": "https://unicefinnovationfund.org/",
-      "org_type": "funder"
+      "name": "Coincence Services",
+      "website": "https://coinsence.org",
+      "org_type": "owner",
+      "contact_name": "Karim Chabrak",
+      "contact_email": "karim@coinsence.org"
     }
   ],
   "stage": "nominee"
