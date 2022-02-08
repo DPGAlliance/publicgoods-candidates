@@ -7,8 +7,8 @@
   "website": "https://timeseriesdoc.sepa.org.uk/",
   "license": [
     {
-      "licenseURL": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "spdx": "ODC-By-1.0"
+      "spdx": "ODC-By-1.0",
+      "licenseURL": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
     }
   ],
   "SDGs": [
