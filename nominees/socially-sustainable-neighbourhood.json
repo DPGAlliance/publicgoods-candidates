@@ -25,8 +25,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/snjsomnath/PhDThesisRepo",
-      "name": "main"
+      "name": "main",
+      "url": "https://github.com/snjsomnath/PhDThesisRepo"
     }
   ],
   "organizations": [
