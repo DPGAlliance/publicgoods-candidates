@@ -43,8 +43,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/coinsence",
-      "name": "Main repository"
+      "name": "Main repository",
+      "url": "https://github.com/coinsence"
     }
   ],
   "organizations": [
