@@ -32,5 +32,5 @@ Tabpy | Dec 8th, 2021 |  No longer accepting open source tools that are primaril
 Scikit Learn | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 Power BI React | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 OADA Service Docker | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
-
+Callisto - Core | Jan 8th, 2022 |  No longer being maintained; the current code is not open source; 
 
