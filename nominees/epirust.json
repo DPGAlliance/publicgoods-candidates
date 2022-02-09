@@ -1,7 +1,7 @@
 {
   "name": "EpiRust",
   "aliases": [
-    "epirust"
+    ""
   ],
   "description": "Large scale epidemic simulation using Rust language",
   "website": "https://github.com/thoughtworks/epirust",
@@ -34,13 +34,13 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/thoughtworks/epirust",
-      "name": "Epirust"
+      "name": "main",
+      "url": "https://github.com/thoughtworks/epirust"
     }
   ],
   "organizations": [
     {
-      "name": "Thoughtworks ",
+      "name": "Thoughtworks",
       "website": "https://www.thoughtworks.com/en-in",
       "org_type": "owner",
       "contact_name": "Chhaya Yadav",
