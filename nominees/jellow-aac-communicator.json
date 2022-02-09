@@ -1,7 +1,9 @@
 {
   "name": "Jellow AAC Communicator",
   "aliases": [
-    "Jellow Basic, AAC, Learning to Speak"
+    "Jellow Basic",
+    "AAC",
+    "Learning to Speak"
   ],
   "description": "Jellow Basic Communicator is a freely downloadable friendly Augmentative and Alternative Communication (AAC) system that uses icons/images to enable aid communication in people learning to speak or with difficulty with speech and language. ",
   "website": "https://jellow.org/jellow-basic.php",
@@ -24,8 +26,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/jellow-aac/jellow-communicator-android",
-      "name": "main-android"
+      "name": "main",
+      "url": "https://github.com/jellow-aac/jellow-communicator-android"
     }
   ],
   "organizations": [
