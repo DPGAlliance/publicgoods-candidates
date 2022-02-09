@@ -3,7 +3,7 @@
   "aliases": [
     "CCF"
   ],
-  "description": "Cloud Carbon Footprint is an open source tool and methodology that provides visibility and tooling to measure, monitor and reduce organizations’ infrastructure carbon emissions.",
+  "description": "Cloud Carbon Footprint is an open source tool and methodology that provides visibility and tooling to measure, monitor and reduce organizations' infrastructure carbon emissions.",
   "website": "https://www.cloudcarbonfootprint.org/",
   "license": [
     {
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 7,
-      "evidenceText": "CCF provides estimates for both energy and carbon emissions for all types of cloud usage including embodied emissions from manufacturing, with the ability to drill down into emissions by cloud provider, account, service and time period. ",
+      "evidenceText": "CCF provides estimates for both energy and carbon emissions for all types of cloud usage including embodied emissions from manufacturing, with the ability to drill down into emissions by cloud provider, account, service and time period.",
       "evidenceURL": "https://www.cloudcarbonfootprint.org/"
     },
     {
@@ -34,8 +34,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
-      "name": "Cloud Carbon Footprint"
+      "name": "main",
+      "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint"
     }
   ],
   "organizations": [
