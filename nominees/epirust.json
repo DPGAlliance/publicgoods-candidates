@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Large scale epidemic simulation using Rust language",
+  "description": "An open source agent-based epidemiology simulation framework built in Rust",
   "website": "https://github.com/thoughtworks/epirust",
   "license": [
     {
