@@ -1,22 +1,23 @@
 {
   "name": "I-Stem digital accessibility services",
   "aliases": [
-    "I-Stem, I-Stem-A11Y"
+    "I-Stem",
+    "I-Stem-A11Y"
   ],
   "description": "AI-powered document accessibility services that help convert inaccessible content into accessible and usable formats for people with print disabilities",
   "website": "https://www.istemai.com",
   "license": [
     {
-      "licenseURL": "https://github.com/I-Stem/frontend/blob/main/LICENSE",
-      "spdx": "AGPL-3.0"
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/I-Stem/frontend/blob/main/LICENSE"
     },
     {
-      "licenseURL": "https://github.com/I-Stem/backend/blob/main/LICENSE",
-      "spdx": "AGPL-3.0"
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/I-Stem/backend/blob/main/LICENSE"
     },
     {
-      "licenseURL": "https://github.com/I-Stem/science/blob/main/license.md",
-      "spdx": "CAL-1.0"
+      "spdx": "CAL-1.0",
+      "licenseURL": "https://github.com/I-Stem/science/blob/main/license.md"
     }
   ],
   "SDGs": [
