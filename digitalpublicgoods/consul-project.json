@@ -1,0 +1,100 @@
+{
+  "name": "CONSUL Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://consulproject.org/en/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.consulproject.org/docs/",
+      "https://consulproject.org/en/#documentation"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "CONSUL doesn't use personal data. When implemented in local communities, it is often installed on the local server and has several ways to connect in a safe way to different systems of identificiation (local CENSUS, ElectronicID etc). "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "The content distributed on the website is that as shared by its users, their opinion and argumentation on themes that are important to them.",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://demo.consulproject.org/conditions",
+      "illegalContentDetectionMechanism": "Flagged content can be moderated or deleted, users can be banned. https://demo.consulproject.org/conditions"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Spain",
+      "Netherlands",
+      "Germany"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Bulgaria",
+      "Chile",
+      "Colombia",
+      "Albania",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "Cabo Verde",
+      "Chile",
+      "Costa Rica",
+      "Croatia",
+      "Cyprus",
+      "Denmark",
+      "Ecuador",
+      "El Salvador",
+      "France",
+      "Germany",
+      "Guatemala",
+      "Italy",
+      "Malta",
+      "Mexico",
+      "Netherlands",
+      "Norway",
+      "Paraguay",
+      "Peru",
+      "Poland",
+      "Serbia",
+      "Slovenia",
+      "Somalia",
+      "Spain",
+      "Palestine State",
+      "Sweden",
+      "Turkey",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}
