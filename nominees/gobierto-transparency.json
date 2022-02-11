@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/PopulateTools/gobierto",
-      "name": "Gobierto front & back"
+      "name": "Gobierto front & back",
+      "url": "https://github.com/PopulateTools/gobierto"
     }
   ],
   "organizations": [
