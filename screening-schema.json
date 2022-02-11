@@ -323,7 +323,7 @@
             },
             "ensurePrivacySecurity": {
               "type": "string",
-              "description": "If yes - does the project ensure the privacy and security of this dataset and/or content collection and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
+              "description": "If yes - does the project ensure the privacy and security of this data and/or content collection and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
               "uniqueItems": true,
               "enum": [
                 "Yes",
