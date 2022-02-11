@@ -83,6 +83,9 @@
   "locations": {
     "developmentCountries": [
       "China"
+    ],
+    "deploymentCountries": [
+      "China"
     ]
   }
 }
