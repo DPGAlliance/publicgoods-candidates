@@ -1,0 +1,54 @@
+{
+  "name": "qAIRamap open source",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://qaira.github.io/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/qAIRa/qAIRaMap-OpenSource",
+      "https://github.com/qAIRa/qAIRaMapAPI-OpenSource"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Data",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Unknown",
+      "policyGuidelinesDocumentationLink": "https://qaira.github.io/docs/doc1"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Peru"
+    ],
+    "deploymentCountries": [
+      "Peru"
+    ]
+  }
+}
