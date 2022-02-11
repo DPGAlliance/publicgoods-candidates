@@ -1,0 +1,51 @@
+{
+  "name": "Gibbon",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.gibbonedu.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "EU GDPR",
+      "Hong Kong PDPO"
+    ],
+    "adherenceSteps": [
+      "N/A"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "China"
+    ]
+  }
+}
