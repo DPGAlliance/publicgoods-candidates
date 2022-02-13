@@ -35,8 +35,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/qAIRa/qAIRaMap-OpenSource",
-      "name": "Main"
+      "name": "main",
+      "url": "https://github.com/qAIRa/qAIRaMap-OpenSource"
     }
   ],
   "organizations": [
