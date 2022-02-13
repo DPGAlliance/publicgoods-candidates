@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/inasafe/inasafe/blob/develop/AUTHORS.rst"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -15,7 +17,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -28,6 +32,12 @@
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Agile software development",
@@ -37,21 +47,36 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Interaction is via GitHub which manages platform engagement."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Zero tolerance approach to abuse. We adhere to the community guidelines of QGIS itself: https://www.qgis.org/en/site/getinvolved/governance/codeofconduct/codeofconduct.html"
       ]
@@ -60,6 +85,9 @@
   "locations": {
     "developmentCountries": [
       "Indonesia"
+    ],
+    "deploymentCountries": [
+      ""
     ]
   }
 }
