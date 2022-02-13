@@ -1,0 +1,65 @@
+{
+  "name": "InaSAFE",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/inasafe/inasafe/blob/develop/AUTHORS.rst"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://api.inasafe.org/#",
+      "http://inasafe.org/for-users/index.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "We do not collect cookies or store any personally identifiable data, usage etc. of our users."
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile software development",
+      "Unit testing",
+      "Code compliance (PEP8, Flake8 etc.)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Interaction is via GitHub which manages platform engagement."
+      ],
+      "harassmentProtectionSteps": [
+        "Zero tolerance approach to abuse. We adhere to the community guidelines of QGIS itself: https://www.qgis.org/en/site/getinvolved/governance/codeofconduct/codeofconduct.html"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Indonesia"
+    ]
+  }
+}
