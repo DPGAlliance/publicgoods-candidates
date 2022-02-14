@@ -1,0 +1,40 @@
+{
+  "name": "OCCRP Aleph",
+  "aliases": [
+    "Aleph"
+  ],
+  "description": "Search and investigate open source datasets",
+  "website": "https://aleph.occrp.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/alephdata/aleph/blob/main/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://www.occrp.org/en/about-us"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Aleph",
+      "url": "https://github.com/alephdata/aleph"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OCCRP",
+      "website": "https://www.occrp.org",
+      "org_type": "owner",
+      "contact_name": "Emma Prest",
+      "contact_email": "emma@occrp.org"
+    }
+  ],
+  "stage": "nominee"
+}
