@@ -2,7 +2,7 @@
   "name": "InaSAFE",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/inasafe/inasafe/blob/develop/AUTHORS.rst"
+    "copyrightURL": "http://www.inasafe.org/about-inasafe/governance/index.html"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
