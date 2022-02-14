@@ -12,8 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "http://api.inasafe.org/#",
-      "http://inasafe.org/for-users/index.html"
+      "For developers - https://github.com/inasafe/inasafe/wiki",
+      "For users - http://inasafe.org/for-users/index.html"
     ]
   },
   "NonPII": {
