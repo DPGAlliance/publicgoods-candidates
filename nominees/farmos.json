@@ -38,7 +38,9 @@
       "evidenceURL": "https://www.dell.com/en-us/perspectives/keeping-cows-happy-and-soil-healthy-with-ai-and-open-source-data-management/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Agriculture"
+  ],
   "type": [
     "software"
   ],
