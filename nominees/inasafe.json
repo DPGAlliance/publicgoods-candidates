@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "  InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
+      "evidenceText": "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
       "evidenceURL": "http://inasafe.org/"
     }
   ],
@@ -24,7 +24,7 @@
   ],
   "repositories": [
     {
-      "name": "InaSAFE",
+      "name": "main",
       "url": "https://github.com/inasafe/inasafe"
     }
   ],
