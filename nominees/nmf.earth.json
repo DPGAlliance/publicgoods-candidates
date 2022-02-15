@@ -1,0 +1,45 @@
+{
+  "name": "NMF.earth",
+  "aliases": [
+    ""
+  ],
+  "description": "Understand and reduce your carbon footprint 🌱 ",
+  "website": "https://nmf.earth/",
+  "license": [
+    {
+      "licenseURL": "https://github.com/NMF-earth/nmf-app/blob/main/LICENSE",
+      "spdx": "GPL-3.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Help individuals to track their carbon footprint",
+      "evidenceURL": "https://nmf.earth/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/NMF-earth/nmf-app",
+      "name": " nmf-app"
+    },
+    {
+      "url": "https://github.com/NMF-earth/carbon-footprint",
+      "name": " carbon-footprint"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "NMF.earth",
+      "website": "https://nmf.earth/",
+      "org_type": "owner",
+      "contact_name": "Pierre Bresson",
+      "contact_email": "contact@nmf.earth"
+    }
+  ],
+  "stage": "nominee"
+}
