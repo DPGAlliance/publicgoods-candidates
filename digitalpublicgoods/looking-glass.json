@@ -1,0 +1,55 @@
+{
+  "name": "Looking Glass",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/gnif/LookingGlass/blob/master/AUTHORS"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://looking-glass.io/docs"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "General defensive programming practices"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Community discussions via the Looking Glass Discord have terms to protect minors and all moderators/administrators act accordingly if required."
+      ],
+      "harassmentProtectionSteps": [
+        "Terms of being part of the Looking Glass Discord outlaw such practices and those found violating the terms are removed from the community."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Australia"
+    ],
+    "deploymentCountries": []
+  }
+}
