@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/gnif/LookingGlass/blob/master/AUTHORS"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,14 +16,31 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
@@ -29,18 +48,32 @@
       "additionalInfoMechanismProcessesPolicies": "General defensive programming practices"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Community discussions via the Looking Glass Discord have terms to protect minors and all moderators/administrators act accordingly if required."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Terms of being part of the Looking Glass Discord outlaw such practices and those found violating the terms are removed from the community."
       ]
@@ -50,6 +83,8 @@
     "developmentCountries": [
       "Australia"
     ],
-    "deploymentCountries": []
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
