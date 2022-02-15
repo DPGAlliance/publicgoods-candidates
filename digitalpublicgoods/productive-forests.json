@@ -30,12 +30,13 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Image-processing: TIFF, TIF files (either input and outputs)",
+      "deep-learning: TIFF, TIF inputs; TIFF, TIF, PNG, JSON, CSV as outputs"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/Bioverse-Labs/deep-learning"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -57,8 +58,8 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
