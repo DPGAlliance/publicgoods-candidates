@@ -7,8 +7,8 @@
   "website": "https://nmf.earth/",
   "license": [
     {
-      "licenseURL": "https://github.com/NMF-earth/nmf-app/blob/main/LICENSE",
-      "spdx": "GPL-3.0"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/NMF-earth/nmf-app/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,18 +18,20 @@
       "evidenceURL": "https://nmf.earth/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://github.com/NMF-earth/nmf-app",
-      "name": " nmf-app"
+      "name": "main",
+      "url": "https://github.com/NMF-earth/nmf-app"
     },
     {
-      "url": "https://github.com/NMF-earth/carbon-footprint",
-      "name": " carbon-footprint"
+      "name": " carbon-footprint",
+      "url": "https://github.com/NMF-earth/carbon-footprint"
     }
   ],
   "organizations": [
