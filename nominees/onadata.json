@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/onaio/onadata",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/onaio/onadata"
+    }
+  ],
   "organizations": [
     {
       "name": "Ona",

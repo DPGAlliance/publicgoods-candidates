@@ -32,7 +32,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opensrp/opensrp-server-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opensrp/opensrp-server-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Ona",

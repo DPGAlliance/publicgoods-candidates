@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/JustFixNYC/eviction-free-nyc",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/JustFixNYC/eviction-free-nyc"
+    }
+  ],
   "organizations": [
     {
       "name": "JustFix",

@@ -17,7 +17,12 @@
   "type": [
     "standard"
   ],
-  "repositoryURL": "https://github.com/energy-market-methods/caltrack",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/energy-market-methods/caltrack"
+    }
+  ],
   "organizations": [
     {
       "name": "Energy Market Methods",

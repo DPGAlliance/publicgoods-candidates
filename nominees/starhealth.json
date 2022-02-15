@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Africa",

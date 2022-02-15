@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opt-out-tools/opt-out",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opt-out-tools/opt-out"
+    }
+  ],
   "organizations": [
     {
       "name": "Opt-Out",

@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/DSpace/DSpace",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/DSpace/DSpace"
+    }
+  ],
   "organizations": [
     {
       "name": "LYRASIS",

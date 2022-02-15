@@ -1,0 +1,43 @@
+{
+  "name": "Automated Data Agreement",
+  "aliases": [
+    "ADA"
+  ],
+  "description": "The ADA project builds a fully auditable digital infrastructure that enables sustainable use, reuse and exchange of personal data to enable advanced digitalisation enforced via the use of Data Agreements. A Data Agreement records the conditions for an organisation to process and exchange personal data in accordance with privacy regulation (e.g. GDPR) captured in a signed receipt given to the individual. The solution uses decentralised identity to enables data exchange using Self-Sovereign Identity, OpenID and OAuth technologies. ",
+  "website": "https://essif-lab.eu/automated-data-agreements-to-simplify-ssi-work-flows-by-igrant-io/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Any personal data exchange is associated with a fully auditable data agreement receipt that is lawful, thereby enabling a sustainable personal data exchange ecosystem for advanced digitalisation.",
+      "evidenceURL": "https://essif-lab.eu/automated-data-agreements-to-simplify-ssi-work-flows-by-igrant-io/"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/decentralised-dataexchange/acapy-mydata-did-protocol"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "iGrant.io",
+      "website": "https://igrant.io",
+      "org_type": "owner",
+      "contact_name": "Ms. Lotta Lundin",
+      "contact_email": "lotta@igrant.io"
+    }
+  ],
+  "stage": "DPG"
+}

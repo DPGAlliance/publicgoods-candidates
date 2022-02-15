@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rubyforgood/playtime",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rubyforgood/playtime"
+    }
+  ],
   "organizations": [
     {
       "name": "RubyForGood",

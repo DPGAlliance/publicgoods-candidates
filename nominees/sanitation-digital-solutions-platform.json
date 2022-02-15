@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile"
+    }
+  ],
   "organizations": [
     {
       "name": "Amref Health Africa",
@@ -37,5 +42,5 @@
       "contact_email": "hajra.mukasa@amref.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

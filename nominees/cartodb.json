@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/CartoDB/cartodb",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CartoDB/cartodb"
+    }
+  ],
   "organizations": [
     {
       "name": "CartoDB",

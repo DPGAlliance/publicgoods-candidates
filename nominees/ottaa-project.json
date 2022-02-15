@@ -2,7 +2,8 @@
   "name": "OTTAA Project",
   "aliases": [
     "OTTAA",
-    "OTTA Proyect"
+    "OTTA Proyect",
+    "OTTA"
   ],
   "description": "First AI based, predictive AAC platform for people with speech impairment",
   "website": "https://ottaaproject.com/",
@@ -15,26 +16,36 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.   Focusing on good health and well-being, OTTAA as a support communication device, empowers people with speech impairments to make their own decisions regarding their health and medical treatments, easing diagnostics by communicating directly and not relying on a caregiver's opinion is key to achieve an overall sense of well-being. OTTAA provides several pictograms and pre-set sentences to ease communication in a medical setting."
+      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.   Focusing on good health and well-being, OTTAA as a support communication device, empowers people with speech impairments to make their own decisions regarding their health and medical treatments, easing diagnostics by communicating directly and not relying on a caregiver's opinion is key to achieve an overall sense of well-being. OTTAA provides several pictograms and pre-set sentences to ease communication in a medical setting.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-ottaa-project"
     },
     {
       "SDGNumber": 4,
-      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-ottaa-project"
     },
     {
       "SDGNumber": 8,
-      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-ottaa-project"
     },
     {
       "SDGNumber": 10,
-      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+      "evidenceText": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-ottaa-project"
     }
   ],
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "aimodel"
   ],
-  "repositoryURL": "https://github.com/OTTAA-Project/OTTAAProject",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OTTAA-Project/OTTAAProject"
+    }
+  ],
   "organizations": [
     {
       "name": "OTTAA Project",

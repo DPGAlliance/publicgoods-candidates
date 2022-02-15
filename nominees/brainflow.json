@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/brainflow-dev/brainflow",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/brainflow-dev/brainflow"
+    }
+  ],
   "organizations": [
     {
       "name": "Andrey Parfenov",

@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Social-Synergy/inclusion-UKR",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Social-Synergy/inclusion-UKR"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ukraine",

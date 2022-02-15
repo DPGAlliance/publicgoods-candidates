@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/intrahealth/gofr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/gofr"
+    }
+  ],
   "organizations": [
     {
       "name": "IntraHealth International",

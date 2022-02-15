@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openstates/openstates-scrapers",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openstates/openstates-scrapers"
+    }
+  ],
   "organizations": [
     {
       "name": "Open States",
