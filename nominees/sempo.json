@@ -18,7 +18,7 @@
       "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     },
     {
-      "SDGNumber": 10,
+      "SDGNumber": 2,
       "evidenceText": "Unblocked Cash, powered by Sempo, is a blockchain-based Cash and Voucher Assistance (CVA) solution that enables faster, less expensive, and more transparent financial aid for relief efforts. Along with our partners we are changing the way that humanitarian organisations respond to disasters. ",
       "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     },
@@ -28,7 +28,7 @@
       "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     },
     {
-      "SDGNumber": 2,
+      "SDGNumber": 10,
       "evidenceText": "Unblocked Cash, powered by Sempo, is a blockchain-based Cash and Voucher Assistance (CVA) solution that enables faster, less expensive, and more transparent financial aid for relief efforts. Along with our partners we are changing the way that humanitarian organisations respond to disasters. ",
       "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     }
@@ -39,16 +39,16 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/teamsempo/SempoBlockchain",
-      "name": "SempoBlockchain"
+      "name": "SempoBlockchain",
+      "url": "https://github.com/teamsempo/SempoBlockchain"
     },
     {
-      "url": "https://github.com/teamsempo/SempoMobileApp",
-      "name": "SempoMobileApp"
+      "name": "SempoMobileApp",
+      "url": "https://github.com/teamsempo/SempoMobileApp"
     },
     {
-      "url": "https://github.com/teamsempo/GoDelegate",
-      "name": "Sempo Mobile App host delegator"
+      "name": "Sempo Mobile App host delegator",
+      "url": "https://github.com/teamsempo/GoDelegate"
     }
   ],
   "organizations": [
