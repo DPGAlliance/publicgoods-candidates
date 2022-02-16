@@ -23,8 +23,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/OptiKey/OptiKey/",
-      "name": "Optikey"
+      "name": "main",
+      "url": "https://github.com/OptiKey/OptiKey/"
     }
   ],
   "organizations": [
