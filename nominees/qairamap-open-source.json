@@ -8,11 +8,11 @@
   "license": [
     {
       "spdx": "LGPL-2.1",
-      "licenseURL": "https://github.com/qAIRa/qAIRaMapAPI-OpenSource"
+      "licenseURL": "https://github.com/qAIRa/qAIRaMapAPI-OpenSource/blob/master/LICENSE"
     },
     {
       "spdx": "GPL-2.0",
-      "licenseURL": "https://github.com/qAIRa/qAIRaMap-OpenSource"
+      "licenseURL": "https://github.com/qAIRa/qAIRaMap-OpenSource/blob/master/LICENSE"
     }
   ],
   "SDGs": [
