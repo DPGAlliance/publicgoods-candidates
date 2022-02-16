@@ -3,8 +3,8 @@
   "aliases": [
     "OWID"
   ],
-  "description": "Research and data to make and track progress against the world's largest problems. Allows for individuals and organisations to have a broad understanding of the state of the world. Includes tracking for SDGs.",
-  "website": "https://ourworldindata.org",
+  "description": "Research and data to make progress against the world’s largest problems.",
+  "website": "https://ourworldindata.org/",
   "license": [
     {
       "spdx": "CC-BY-4.0",
@@ -14,36 +14,117 @@
   "SDGs": [
     {
       "SDGNumber": 17,
-      "evidenceText": "Related to Target 17.6 - Enhances knowledge sharing, specifically making this data available to individuals globally.",
-      "evidenceURL": "https://en.wikipedia.org/wiki/Our_World_in_Data"
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/global-partnerships"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/biodiversity"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/peace-justice"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/oceans"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/climate-change"
+    },
+    {
+      "SDGNumber": 1,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/no-poverty"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/zero-hunger"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/good-health"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/quality-education"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/gender-equality"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/water-and-sanitation"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/energy"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/economic-growth"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/infrastructure-industrialization"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/inequality"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/cities"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/sustainable-consumption-production"
     }
   ],
-  "sectors": [
-    "Digital/Data/Tech",
-    "Fair & Responsible Media",
-    "Media",
-    "Research"
-  ],
+  "sectors": [],
   "type": [
-    "data"
+    "software",
+    "data",
+    "content"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": ""
+      "name": "owid-grapher",
+      "url": "https://github.com/owid/owid-grapher"
+    },
+    {
+      "name": "owid/covid-19-data",
+      "url": "https://github.com/owid/covid-19-data"
+    },
+    {
+      "name": "owid/sdg-tracker.org",
+      "url": "https://github.com/owid/sdg-tracker.org"
     }
   ],
   "organizations": [
     {
       "name": "Global Change Data Lab",
-      "website": "https://global-change-data-lab.org",
-      "org_type": "owner"
-    },
-    {
-      "name": "University of Oxford - Oxford Martin Programme on Global Development",
-      "website": "https://www.oxfordmartin.ox.ac.uk/global-development",
+      "website": "https://global-change-data-lab.org/",
       "org_type": "maintainer",
-      "contact_email": "info@ourworldindata.org"
+      "contact_name": "Esteban Ortiz-Ospina",
+      "contact_email": "esteban@ourworldindata.org"
     }
   ],
   "stage": "nominee"
