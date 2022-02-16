@@ -35,4 +35,6 @@ OADA Service Docker | Dec 8th, 2021 |  No longer accepting open source tools tha
 Callisto - Core | Jan 8th, 2022 |  No longer being maintained; the current code is not open source; 
 ActivityInfo Python | Jan 9th, 2022 |  The Python client is an open-source project to communicate with ActivityInfo, a proprietary software platform for humanitarian coordination and information sharing. A previous version of ActivityInfo was open source, but not the current one hence not feasible to keep the Python client in registry any more.
 OpenStax | Feb 16th, 2022 | OpenStax Customer Support mentioned they will not be looking into the DPG nomination at this time.
+Looking Glass | Feb 15th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+
 
