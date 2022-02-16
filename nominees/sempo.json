@@ -1,7 +1,10 @@
 {
   "name": "Sempo",
-  "description": "Inclusive payments for emerging markets",
-  "website": "https://withsempo.com/",
+  "aliases": [
+    ""
+  ],
+  "description": "Sempo crypto financial inclusion infrastructure with USSD, Android and NFC Payments",
+  "website": "http://withsempo.com/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -10,38 +13,51 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1
+      "SDGNumber": 1,
+      "evidenceText": "Unblocked Cash, powered by Sempo, is a blockchain-based Cash and Voucher Assistance (CVA) solution that enables faster, less expensive, and more transparent financial aid for relief efforts. Along with our partners we are changing the way that humanitarian organisations respond to disasters. ",
+      "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     },
     {
-      "SDGNumber": 8
+      "SDGNumber": 10,
+      "evidenceText": "Unblocked Cash, powered by Sempo, is a blockchain-based Cash and Voucher Assistance (CVA) solution that enables faster, less expensive, and more transparent financial aid for relief efforts. Along with our partners we are changing the way that humanitarian organisations respond to disasters. ",
+      "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     },
     {
-      "SDGNumber": 9
+      "SDGNumber": 8,
+      "evidenceText": "Unblocked Cash, powered by Sempo, is a blockchain-based Cash and Voucher Assistance (CVA) solution that enables faster, less expensive, and more transparent financial aid for relief efforts. Along with our partners we are changing the way that humanitarian organisations respond to disasters. ",
+      "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     },
     {
-      "SDGNumber": 10
+      "SDGNumber": 2,
+      "evidenceText": "Unblocked Cash, powered by Sempo, is a blockchain-based Cash and Voucher Assistance (CVA) solution that enables faster, less expensive, and more transparent financial aid for relief efforts. Along with our partners we are changing the way that humanitarian organisations respond to disasters. ",
+      "evidenceURL": "https://www.youtube.com/watch?v=kOA_9THMC2c&t=1s"
     }
   ],
-  "sectors": [
-    "Economics/Finance",
-    "Humanitarian",
-    "Transparency & Accountability",
-    "NGO"
-  ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/teamsempo/SempoBlockchain"
+      "url": "https://github.com/teamsempo/SempoBlockchain",
+      "name": "SempoBlockchain"
+    },
+    {
+      "url": "https://github.com/teamsempo/SempoMobileApp",
+      "name": "SempoMobileApp"
+    },
+    {
+      "url": "https://github.com/teamsempo/GoDelegate",
+      "name": "Sempo Mobile App host delegator"
     }
   ],
   "organizations": [
     {
       "name": "Sempo",
-      "website": "https://withsempo.com/",
-      "org_type": "owner"
+      "website": "http://withsempo.com/",
+      "org_type": "owner",
+      "contact_name": "Tristan Cole",
+      "contact_email": "tristan@withsempo.com"
     }
   ],
   "stage": "nominee"
