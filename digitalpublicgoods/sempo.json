@@ -1,0 +1,77 @@
+{
+  "name": "Sempo",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/teamsempo/SempoBlockchain/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/teamsempo/SempoBlockchain/wiki",
+      "https://docs.withsempo.com/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "CommCare, KoboToolbox, Excel, CSV import\nExcel, CSV export"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "AML/CTF by Financial Action Task Force and AUSTRAC",
+      "We adhere to the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) and to the extent applicable, the EU General Data Protection Regulation (GDPR)."
+    ],
+    "adherenceSteps": [
+      "https://withsempo.com/legal/privacy-policy/",
+      "https://withsempo.com/legal/platform-terms/",
+      "https://withsempo.com/legal/aml-policy/",
+      "SOC 2 Type 1"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://12factor.net/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "SOC 2 Type 1"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://drive.google.com/file/d/12UE3JUc-WwTyXGz9oEeuMjYgmLQ63TZJ/view?usp=sharing"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://withsempo.com/legal/privacy-policy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "Vanuatu",
+      "Iraq",
+      "Lebanon",
+      "Greece",
+      "Venezuela",
+      "Papua New Guinea",
+      "Kenya"
+    ]
+  }
+}
