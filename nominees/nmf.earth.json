@@ -13,13 +13,22 @@
   ],
   "SDGs": [
     {
+      "SDGNumber": 11,
+      "evidenceURL": "https://nmf.earth/"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceURL": "https://nmf.earth/"
+    },
+    {
       "SDGNumber": 13,
       "evidenceText": "Help individuals to track their carbon footprint",
       "evidenceURL": "https://nmf.earth/"
     }
   ],
   "sectors": [
-    "Climate"
+    "Climate",
+    "Sustainable Cities"
   ],
   "type": [
     "software"
