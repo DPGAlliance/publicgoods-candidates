@@ -1,0 +1,56 @@
+{
+  "name": "AccessMod",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://www.accessmod.org"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://doc-accessmod.unepgrid.ch/display/EN/AccessMod+5+user+manual"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Geospatial data type standards "
+    ],
+    "evidenceStandardSupport": [
+      "https://doc-accessmod.unepgrid.ch/display/EN/AccessMod+5+user+manual"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principle for digital development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Switzerland"
+    ]
+  }
+}
