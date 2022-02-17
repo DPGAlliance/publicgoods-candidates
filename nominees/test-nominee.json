@@ -1,0 +1,41 @@
+{
+  "name": "Test Nominee",
+  "aliases": [
+    ""
+  ],
+  "description": "lorem ipsum",
+  "website": "https://testnomine.com",
+  "license": [
+    {
+      "licenseURL": "https://testnomine.com",
+      "spdx": "Apache-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "asdfasdf",
+      "evidenceURL": "https://testnomine.com"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "asdfasdf",
+      "url": "https://testnomine.com"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "adsfasdf",
+      "website": "https://testnomine.com",
+      "org_type": "owner",
+      "contact_name": "asdfa",
+      "contact_email": "asdfadsf"
+    }
+  ],
+  "stage": "nominee"
+}
