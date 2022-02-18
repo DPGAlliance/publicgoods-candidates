@@ -1,32 +1,35 @@
 {
   "name": "wikiHow",
-  "description": "An online wiki-style community consisting of an extensive database of how-to guides.",
-  "website": "https://www.wikihow.com",
+  "aliases": [
+    ""
+  ],
+  "description": "As the world’s most trusted how-to website, wikiHow’s goal is to give every person on the planet a free, practical education. We do this by creating how-to guides that are backed by trusted research and expert knowledge on almost every imaginable topic. ",
+  "website": "https://www.wikihow.com/",
   "license": [
     {
-      "spdx": "GPL-2.0",
-      "licenseURL": "https://www.wikihow.com/wikiHow:Powered-and-Inspired-by-MediaWiki"
-    },
-    {
-      "spdx": "CC-BY-NC-SA-3.0",
+      "spdx": "CC-BY-SA-3.0-US",
       "licenseURL": "https://www.wikihow.com/wikiHow:Creative-Commons"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 4
+      "SDGNumber": 4,
+      "evidenceText": "wikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything. We do this by serving up how-to guides on almost every imaginable topic. And if we don’t have a title? Our open-source software and dynamic network of readers, community, and writers allows us to quickly -- sometimes in a matter of a few hours -- create researched, well-written guides on almost any topic. wikiHow receives over 150 million unique visitors each month. wikiHow is available in 18 languages and has readership in nearly every country in the world.",
+      "evidenceURL": "https://www.wikihow.com/wikiHow:About-wikiHow"
     }
   ],
   "sectors": [],
   "type": [
-    "software",
     "content"
   ],
+  "repositories": [],
   "organizations": [
     {
       "name": "wikiHow",
       "website": "https://www.wikihow.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Natalie Harrington",
+      "contact_email": "natalie@wikihow.com"
     }
   ],
   "stage": "nominee"
