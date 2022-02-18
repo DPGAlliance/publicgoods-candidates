@@ -5,8 +5,8 @@
     "copyrightURL": "https://ottaa-project.github.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "No",
     "pltIndependenceDesc": ""
   },
   "documentation": {
