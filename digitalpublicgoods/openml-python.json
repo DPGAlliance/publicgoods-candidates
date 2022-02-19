@@ -1,11 +1,13 @@
 {
-  "name": "OpenML",
+  "name": "OpenML-Python",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://new.openml.org/about"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -27,7 +31,16 @@
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
@@ -35,18 +48,35 @@
       "additionalInfoMechanismProcessesPolicies": "All our data and code is open. We are committed to not doing harm and people can easily contact us to highlight any potential issues. We are working with ethics researchers to highlight any ethical issues with open machine learning datasets."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Machine learning datasets",
-      "contentFilter": "Yes",
-      "illegalContentDetection": "Yes",
-      "policyGuidelinesDocumentationLink": "https://new.openml.org/terms",
-      "illegalContentDetectionMechanism": "Users can report issues, which are typically addressed within a week. The openness makes it likely that issues are detected quickly. We also regularly check new incoming datasets. The way datasets are uploaded to OpenML only allows very specific forms of data (i.e. tabular or tensor data), not random files (e.g. images or text files). "
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
@@ -56,6 +86,9 @@
       "Netherlands",
       "France",
       "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
     ]
   }
 }
