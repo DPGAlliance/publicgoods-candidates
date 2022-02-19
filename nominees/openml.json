@@ -15,7 +15,7 @@
     {
       "SDGNumber": 4,
       "evidenceText": "OpenML provides resources, such as machine learning datasets, that are useful in teaching machine learning to a wide range of people with different backgrounds. It is used in a range of open machine learning courses.",
-      "evidenceURL": "https://github.com/ML-course/master"
+      "evidenceURL": "https://towardsdatascience.com/openml-machine-learning-as-a-community-d678306e1a7e"
     },
     {
       "SDGNumber": 9,
