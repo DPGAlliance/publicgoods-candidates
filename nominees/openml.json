@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "OpenML is an open-source platform for making machine research and data more easily accessible to anyone.",
+  "description": "OpenML is an open-source platform for making machine learning research and data more easily accessible to anyone. OpenML is an online Machine Learning (ML) experiments database accessible to everyone for free. The core idea is to have a single repository of datasets and results of ML experiments on them.",
   "website": "https://www.openml.org/",
   "license": [
     {
