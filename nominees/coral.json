@@ -37,8 +37,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/coralproject/talk/",
-      "name": "Talk"
+      "name": "Talk",
+      "url": "https://github.com/coralproject/talk/"
     }
   ],
   "organizations": [
