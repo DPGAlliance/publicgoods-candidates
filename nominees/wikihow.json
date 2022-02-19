@@ -18,7 +18,9 @@
       "evidenceURL": "https://www.wikihow.com/wikiHow:About-wikiHow"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "content"
   ],
