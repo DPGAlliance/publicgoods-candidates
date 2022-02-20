@@ -1,0 +1,68 @@
+{
+  "name": "OKOO",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+    ],
+    "standardsList": [
+      "https://www.w3.org/WAI/standards-guidelines/wcag/"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Full name"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Video lessons",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "We produce and upload learning materials based government standards"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kazakhstan"
+    ],
+    "deploymentCountries": [
+      "Kazakhstan"
+    ]
+  }
+}
