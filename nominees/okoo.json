@@ -1,0 +1,41 @@
+{
+  "name": "OKOO",
+  "aliases": [
+    "OKOO"
+  ],
+  "description": "online educational platform",
+  "website": "https://okoo.kz/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Mission is to help children to get quality education despite financial opportunities",
+      "evidenceURL": "https://forbes.kz/life/hero/kod_vmassyi_1619225781/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/TemirAskhat/Okoo"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OKOO",
+      "website": "https://okoo.kz/",
+      "org_type": "owner",
+      "contact_name": "Dinmukhamed Junussov",
+      "contact_email": "dimash.junusov@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
