@@ -3,8 +3,8 @@
   "aliases": [
     "BSIS"
   ],
-  "description": "System to monitor blood inventory from collection to transfusion.",
-  "website": "https://www.jembi.org",
+  "description": "Open-source software system developed specifically for blood collection and testing services in low-resource settings. ",
+  "website": "https://www.jembi.org/Project/Blood-Safety-Strengthening-Programme-(BSSP)",
   "license": [
     {
       "spdx": "BSD-3-Clause",
@@ -13,7 +13,9 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "BSIS is designed to support National Blood Transfusion services to track information about donors and donations from the point of collection to the point of transfusion. Improved data supports better planning and decision-making, with the ultimate goal if improving the safety and availability of blood within low-resource countries.  ",
+      "evidenceURL": "https://drive.google.com/drive/u/1/folders/1tqd4jorHXEwC1Gd8cXJrs0juIME-aig4"
     }
   ],
   "sectors": [],
@@ -22,15 +24,17 @@
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/jembi/bsis"
+      "url": "https://github.com/jembi/bsis",
+      "name": "BSIS main repo"
     }
   ],
   "organizations": [
     {
-      "name": "Jembi Health Systems NPC",
+      "name": "JEMBI HEALTH SYSTEMS",
       "website": "https://www.jembi.org/",
-      "org_type": "owner"
+      "org_type": "implementer",
+      "contact_name": "Linda Taylor ",
+      "contact_email": "linda.taylor@jembi.org"
     }
   ],
   "stage": "nominee"
