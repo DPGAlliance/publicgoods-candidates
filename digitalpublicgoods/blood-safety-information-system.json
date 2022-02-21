@@ -1,0 +1,72 @@
+{
+  "name": "Blood Safety Information System",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/jembi/bsis#readme"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://drive.google.com/drive/u/1/folders/1Max7u3FzFiwBNktL14p1RhEfBQX26H9W"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Aggregated indicator information can be produced in csv format and Jasper Reports"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Guided by the SA POPI Act / also follows the best practice guidelines of the Africa Society for Blood Transfusion  (AfSBT) regarding management of PII "
+    ],
+    "adherenceSteps": [
+      "https://drive.google.com/drive/u/1/folders/1tqd4jorHXEwC1Gd8cXJrs0juIME-aig4"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles of Digital Development",
+      "Africa Society for Blood Transfusion (AfSBT) Guidelines ",
+      "ISBT Guidelines for validation of automated systems in blood establishments"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Developed in consultation with blood safety SMEs from Safe Blood for Africa, CDC, AABB, AfSBT, Western Cape Blood Transfusion Service and SANBS, "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Data related to donors (inc demographic, donations, clinical eg: ABO Blood grouping and TTI test results, etc.)and transfusion data. "
+      ],
+      "thirdPartyDataSharing": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "South Africa"
+    ],
+    "deploymentCountries": [
+      "Lesotho",
+      "Ghana",
+      "Zambia",
+      "Ethiopia",
+      "Cameroon",
+      "South Sudan"
+    ]
+  }
+}
