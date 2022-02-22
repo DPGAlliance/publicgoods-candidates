@@ -1,0 +1,80 @@
+{
+  "name": "OS City ",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "IMS Open Badges",
+      "W3C Verifiable Claims",
+      "W3C Linked Data Signatures",
+      "W3C / Rebooting Web of Trust Decentralized Identifiers"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.notion.so/oscity/GovTech-protocol-first-draft-43b290ba944b466bb4578fa65bdf1cc2"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design With the User",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation",
+      "Design for Scale",
+      "Address Privacy & Security",
+      "Reuse and Improve",
+      "Be collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We leverage cryptography for all sensitive and private information."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "PII is needed to verify user's identity at registration process yet we use third-party APIs and Services to confirm this validation of identity."
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "ensurePrivacySecurity": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Verifiable Claims (Refer to: https://www.w3.org/TR/vc-use-cases/#introduction) ",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mexico",
+      "Argentina",
+      "Chile"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Chile",
+      "Mexico",
+      "United States of America",
+      "Spain",
+      "Costa Rica",
+      "Panama"
+    ]
+  }
+}
