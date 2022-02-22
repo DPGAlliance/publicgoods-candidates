@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/jembi/bsis",
-      "name": "BSIS main repo"
+      "name": "main",
+      "url": "https://github.com/jembi/bsis"
     }
   ],
   "organizations": [
