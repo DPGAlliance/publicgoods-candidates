@@ -1,0 +1,64 @@
+{
+  "name": "CORD",
+  "aliases": [
+    "CORD Project, Public Utility, Trust Framework"
+  ],
+  "description": "CORD is a distributed ledger designed to be used for public services requiring immutable and authentic data exchange.",
+  "website": "https://cord.network/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/dhiway/cord/blob/develop/LICENSE-GPL3"
+    },
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/dhiway/cord.js/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "CORD provides the foundational infrastructure which enables discovery, access and registration of learning accomplishments along with sharing of acclaims. Enabling an authentic learner record portfolio through digitally verifiable credentials, CORD is the utility layer in the digital trust ecosystem of applications and services where a marketplace of learning services providers and learners can engage with trusted data exchange.",
+      "evidenceURL": "https://drive.google.com/drive/folders/15AE0QK1vHC8KtSxZvRjuidW-JT3r5WEn?usp=sharing"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "CORD provides the foundational infrastructure which enables discovery and access of work opportunities with mapping to skills and knowledge credentials as authenticated data streams. CORD enables the utility layer in the digital trust ecosystem where a marketplace of job providers and job seekers can engage.",
+      "evidenceURL": "https://drive.google.com/drive/folders/15AE0QK1vHC8KtSxZvRjuidW-JT3r5WEn?usp=sharing"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "CORD provides the utility layer which enables creation of a resilient, sustainable and economically viable ecosystem around authenticated data flows. Through service end-points which are consumed by applications and services the CORD network enables anchoring transaction records and links to information objects which present a durable model for entities participating to collaborate in this ecosystem. CORD enables discovery, access and acclaim records for a range of activities which relate to humans interacting with organizations, other individuals or machines. This provides the foundational layer of digital trust required in a verifiable dynamic data ecosystem. CORD strengthens digital sovereignty through provisioning and maintaining the ecosystem of a digital infrastructure of a publicly available distributed ledger.",
+      "evidenceURL": "https://drive.google.com/drive/folders/15AE0QK1vHC8KtSxZvRjuidW-JT3r5WEn?usp=sharing"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "CORD supports the potential to catalyse exceptional levels of innovation in both existing and emerging industries-from conducting transactions and maintaining records, across many sectors of the economy such as finance, trade, health, energy, water, resources, agriculture and credentials.",
+      "evidenceURL": "https://drive.google.com/drive/folders/15AE0QK1vHC8KtSxZvRjuidW-JT3r5WEn?usp=sharing"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "CORD",
+      "url": "https://github.com/dhiway/cord"
+    },
+    {
+      "name": "CORD.js - API /SDK",
+      "url": "https://github.com/dhiway/cord.js"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Dhiway Networks Private Limited",
+      "website": "https://dhiway.com/",
+      "org_type": "maintainer",
+      "contact_name": "Satish Mohan",
+      "contact_email": "satish@dhiway.com"
+    }
+  ],
+  "stage": "nominee"
+}
