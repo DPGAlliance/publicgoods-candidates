@@ -43,7 +43,7 @@
   ],
   "repositories": [
     {
-      "name": "CORD",
+      "name": "main",
       "url": "https://github.com/dhiway/cord"
     },
     {
