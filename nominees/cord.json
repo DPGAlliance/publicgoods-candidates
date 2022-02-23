@@ -1,7 +1,7 @@
 {
   "name": "CORD",
   "aliases": [
-    "CORD Project, Public Utility, Trust Framework"
+    "CORD Project"
   ],
   "description": "CORD is a distributed ledger designed to be used for public services requiring immutable and authentic data exchange.",
   "website": "https://cord.network/",
