@@ -37,5 +37,6 @@ ActivityInfo Python | Jan 9th, 2022 |  The Python client is an open-source proje
 OpenStax | Feb 16th, 2022 | OpenStax Customer Support mentioned they will not be looking into the DPG nomination at this time.
 KA Lite | Jan 10th, 2022 |  KA Lite is no longer under active development, work has been underway to transition users to [Kolibri](https://github.com/DPGAlliance/publicgoods-candidates/blob/main/nominees/kolibri.json) which is continuing to be developed, used and improved.
 Looking Glass | Feb 15th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+OpenML-Python | Feb 22nd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 
 
