@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -15,21 +17,28 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Yes"
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
-    "bestPracticesList": [
-      "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
-    ],
     "standardsList": [
       "https://www.w3.org/WAI/standards-guidelines/wcag/"
     ],
     "evidenceStandardSupport": [
+      "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
       "https://github.com/DinmukhamedJunussov/Okoo/tree/master"
     ]
   },
@@ -44,17 +53,30 @@
         "Full name"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Video lessons",
       "contentFilter": "Unknown",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "We produce and upload learning materials based government standards"
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
