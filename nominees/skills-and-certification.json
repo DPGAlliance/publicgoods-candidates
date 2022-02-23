@@ -1,0 +1,44 @@
+{
+  "name": "Skills and certification",
+  "aliases": [
+    ""
+  ],
+  "description": "Skills and Certification Management System",
+  "website": "https://github.com/a2i-dpg/skills-and-certification",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/a2i-dpg/skills-and-certification/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "The Skills module and the Certification module are specifically instrumental to accomplish SDG 8.5 (Full employment and decent work with equal pay) and SDG 8.6 (Promote youth employment, education and training). The Skills module is structured in a unique way to ensure decent work by enabling the youth to get properly skilled through a number of features. Upon registering into the system, the users can analyze their skills requirement through the self-assessment feature and get apt suggestions from career guidance feature. The integrated module enables the users to learn and select courses offered by different skills providers and get enrolled to appropriate skills training courses as per their requirements. The Certification module offers the registered youth to be certified and be recognized for their skills. Educational and other professional certificates are widely available by different institutions but in the case of technical and vocational education and training (TVET), there are many skilled youths who despite having good skills are not employed or have not been paid appropriately in absence of a certificate. The key role of the Certification Module is to address that gap. Having skills certificates increases the employment opportunities for the users because employers always look for skilled human resources for their workplaces. Moreover, the pay grade is also higher for the skilled employees compared to the non- skilled ones. These modules enhance both the quality and quantity of the youth which are essential to economic development by preparing a demand driven skilled workforce and showcasing a pathway to secure decent and gainful employment."
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "The Skills Module and Certification Module are designed to stimulate the quality of education to achieve SDG 4 by improving the online and offline accessibility to technical and vocational education and training (TVET) services. Thus, these modules help achieve SDG 4.3 (Equal access to affordable technical, vocational and higher education) and SDG 4.4 (Increase the number of people with relevant skills for financial success). The E-learning feature in the Skills module enables youth to learn theoretical classes virtually and thus reduce the TCV (time cost visit). The Certification module ensures proper assessment of the students before providing Dynamic Certificates through the existing system. This module can also be provided by registered skills service providers and endorsed by the proper authority. Certification will enable students to seek jobs locally and internationally for those who want their skills to be valued. It can be integrated with education platforms and generate verification codes to ensure that graduates are certified with their skills and can utilize their degrees for creating a sustainable income."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/a2i-dpg/skills-and-certification",
+      "name": "skills-and-certification"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Aspire to Innovate (a2i)",
+      "website": "https://a2i.gov.bd/",
+      "org_type": "owner",
+      "contact_name": "Md. Hafijur Rahman",
+      "contact_email": "dpg@a2i.gov.bd"
+    }
+  ],
+  "stage": "nominee"
+}
