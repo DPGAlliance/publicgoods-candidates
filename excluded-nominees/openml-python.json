@@ -1,0 +1,50 @@
+{
+  "name": "OpenML-Python",
+  "aliases": [
+    ""
+  ],
+  "description": "A python interface for OpenML, an online platform for open science collaboration in machine learning. It can be used to download or upload OpenML data such as datasets and machine learning experiment results. OpenML is an open-source platform for making machine learning research and data more easily accessible to anyone. OpenML is an online Machine Learning (ML) experiments database accessible to everyone for free. The core idea is to have a single repository of datasets and results of ML experiments on them.",
+  "website": "https://www.openml.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/openml/openml-python/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "OpenML provides resources, such as machine learning datasets, that are useful in teaching machine learning to a wide range of people with different backgrounds. It is used in a range of open machine learning courses.",
+      "evidenceURL": "https://towardsdatascience.com/openml-machine-learning-as-a-community-d678306e1a7e"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "OpenML provides APIs that make it easy to share datasets (especially with machine learning researchers and enthusiasts), and to collaborate across fields. Anyone can upload new datasets, and ML experts can then easily download them and return machine learning solutions for these problems.",
+      "evidenceURL": "https://www.youtube.com/watch?v=xb7LUlWqkwM&t=1s"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Python API",
+      "url": "https://github.com/openml/openml-python"
+    },
+    {
+      "name": "Frontend",
+      "url": "https://github.com/openml/openml.org"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Machine Learning foundation",
+      "website": "https://new.openml.org/about",
+      "org_type": "maintainer",
+      "contact_name": "Joaquin Vanschoren",
+      "contact_email": "joaquin.vanschoren@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
