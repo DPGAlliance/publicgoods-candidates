@@ -9,34 +9,13 @@
     {
       "spdx": "CC-BY-4.0",
       "licenseURL": "https://ourworldindata.org/faqs#how-is-your-work-copyrighted"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/owid/owid-grapher/blob/master/LICENSE.md"
     }
   ],
   "SDGs": [
-    {
-      "SDGNumber": 17,
-      "evidenceText": "We track and visualize the data relevant to this SDG.",
-      "evidenceURL": "https://sdg-tracker.org/global-partnerships"
-    },
-    {
-      "SDGNumber": 15,
-      "evidenceText": "We track and visualize the data relevant to this SDG.",
-      "evidenceURL": "https://sdg-tracker.org/biodiversity"
-    },
-    {
-      "SDGNumber": 16,
-      "evidenceText": "We track and visualize the data relevant to this SDG.",
-      "evidenceURL": "https://sdg-tracker.org/peace-justice"
-    },
-    {
-      "SDGNumber": 14,
-      "evidenceText": "We track and visualize the data relevant to this SDG.",
-      "evidenceURL": "https://sdg-tracker.org/oceans"
-    },
-    {
-      "SDGNumber": 13,
-      "evidenceText": "We track and visualize the data relevant to this SDG.",
-      "evidenceURL": "https://sdg-tracker.org/climate-change"
-    },
     {
       "SDGNumber": 1,
       "evidenceText": "We track and visualize the data relevant to this SDG.",
@@ -96,13 +75,37 @@
       "SDGNumber": 12,
       "evidenceText": "We track and visualize the data relevant to this SDG.",
       "evidenceURL": "https://sdg-tracker.org/sustainable-consumption-production"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/climate-change"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/oceans"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/biodiversity"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/peace-justice"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "We track and visualize the data relevant to this SDG.",
+      "evidenceURL": "https://sdg-tracker.org/global-partnerships"
     }
   ],
   "sectors": [],
   "type": [
-    "software",
-    "data",
-    "content"
+    "content",
+    "software"
   ],
   "repositories": [
     {
