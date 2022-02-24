@@ -1,0 +1,40 @@
+{
+  "name": "Forest Map",
+  "aliases": [
+    "Forest Map App"
+  ],
+  "description": "Help forest harvesters to increase productivity by accessing machine learning based image classification based cartographic products from non timber related tree species location in a mobile app that can be use to navigate offline in the forest and increase productivity",
+  "website": "https://www.bioverse.io/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Bioverse-Labs/forest-map-app"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Sustainable harvesting of non timber related forest products are of vital importance to secure that forest based communities can generate income, produce food, while keeping the forest standing"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Forest Map App",
+      "url": "https://github.com/Bioverse-Labs/forest-map-app"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bioverse",
+      "website": "https://www.bioverse.io/",
+      "org_type": "owner",
+      "contact_name": "Francisco Delia",
+      "contact_email": "Francisco@bioverselabs.com"
+    }
+  ],
+  "stage": "nominee"
+}
