@@ -1,34 +1,56 @@
 {
   "name": "Productive Forests",
   "aliases": [
-    "Image Processing "
+    ""
   ],
   "description": "Satellite Imagery Processing for Machine Learning Based Image Classification",
   "website": "https://www.bioverse.io/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/Bioverse-Labs/image-processing/find/master"
+      "licenseURL": "https://github.com/Bioverse-Labs/image-processing/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Bioverse-Labs/forest-map-app/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 8,
-      "evidenceText": "Locating perennial tree crops and assisting forest based communities to harvest more efficiently can increasing their economic resilience and improve quality of life, while other alternatives of revenue in tropical forests aren't necessary sustainable nor legal, such logging, animal poaching and mining. ."
-    },
-    {
       "SDGNumber": 3,
       "evidenceText": "Food security is concern in forest based communities. By facilitating the access these communities have to harvesting sustainably from the surrounding forests has direct implications to food security and well being."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Locating perennial tree crops and assisting forest based communities to harvest more efficiently can increasing their economic resilience and improve quality of life, while other alternatives of revenue in tropical forests aren't necessary sustainable nor legal, such logging, animal poaching and mining."
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Sustainable harvesting of non timber related forest products are of vital importance to secure that forest based communities can generate income, produce food, while keeping the forest standing"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Sustainability"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://github.com/Bioverse-Labs/image-processing",
-      "name": "Image Processing"
+      "name": "Image Processing",
+      "url": "https://github.com/Bioverse-Labs/image-processing"
+    },
+    {
+      "name": "Deep learning",
+      "url": "https://github.com/Bioverse-Labs/deep-learning"
+    },
+    {
+      "name": "Forest Map Mobile App",
+      "url": "https://github.com/Bioverse-Labs/forest-map-app"
     }
   ],
   "organizations": [
