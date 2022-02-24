@@ -1,46 +1,43 @@
 {
   "name": "Productive Forests",
   "aliases": [
-    ""
+    "Image Processing "
   ],
-  "description": "Bioverse creates forest inventory to support the sustainable use of non-timber related forest products",
+  "description": "Satellite Imagery Processing for Machine Learning Based Image Classification",
   "website": "https://www.bioverse.io/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE"
+      "licenseURL": "https://github.com/Bioverse-Labs/image-processing/find/master"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 12,
-      "evidenceText": "Productive forests secure economic incentives to maintain ecosystems standing while contributing to food security and nutrition. ",
-      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-bioverse"
+      "SDGNumber": 8,
+      "evidenceText": "Locating perennial tree crops and assisting forest based communities to harvest more efficiently can increasing their economic resilience and improve quality of life, while other alternatives of revenue in tropical forests aren't necessary sustainable nor legal, such logging, animal poaching and mining. ."
     },
     {
-      "SDGNumber": 13,
-      "evidenceText": "While productive forests generate income to traditional communities, its protection secure ecosystem services to humanity",
-      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-bioverse"
+      "SDGNumber": 3,
+      "evidenceText": "Food security is concern in forest based communities. By facilitating the access these communities have to harvesting sustainably from the surrounding forests has direct implications to food security and well being."
     }
   ],
   "sectors": [],
   "type": [
-    "software",
-    "aimodel"
+    "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/Bioverse-Labs/deep-learning"
+      "url": "https://github.com/Bioverse-Labs/image-processing",
+      "name": "Image Processing"
     }
   ],
   "organizations": [
     {
       "name": "Bioverse Labs",
-      "website": "https://www.bioverse.io",
+      "website": "https://www.bioverse.io/",
       "org_type": "owner",
-      "contact_name": "Francisco@bioverselabs.com",
-      "contact_email": "Francisco D'Elia"
+      "contact_name": "Francisco D'Elia",
+      "contact_email": "Francisco@bioverselabs.com"
     }
   ],
   "stage": "nominee"
