@@ -1,0 +1,82 @@
+{
+  "name": "Feed the Monster",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/curiouslearning/FeedTheMonster/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/curiouslearning/FeedTheMonster",
+      "https://github.com/curiouslearning/ftm-languagepacks"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The project itself does not have to collect non-PII usage data or need non-PII data to run. It should be noted though that the master branch does include the Firebase SDK, which can easily be excluded for derivative work.\nThe project uses the Google Firebase SDK to collect non-PII information about the user as well as app events. Additionally, we have created specific Firebase events which are related to gameplay (whether someone completes a level, what their score was, etc.). The Firebase SDK can be excluded from being compiled into the app, in which case no data will be collected. All non-PII can be exported as non-proprietary JSON."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Since the project outputs an android app hosted on Google Play, it has to be compliant with Google Play Policy, which in turn is compliant with applicable international and domestic law including GDPR. https://support.google.com/googleplay/android-developer/topic/9877766 This is the requirement to publish apps online using Google Play which has stringent requirements in terms of compliance with best practices regarding Child Safeguarding, Harassment, Sexual Exploitation and Abuse."
+    ],
+    "adherenceSteps": [
+      "https://www.curiouslearning.org/ftm-privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Norway",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bahamas",
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Belarus",
+      "Belgium",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Brazil",
+      "Brunei",
+      "Bulgaria"
+    ]
+  }
+}
