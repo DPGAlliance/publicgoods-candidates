@@ -3,7 +3,7 @@
   "aliases": [
     "BSIS"
   ],
-  "description": "Open-source software system developed specifically for blood collection and testing services in low-resource settings. ",
+  "description": "Open-source software system developed specifically for blood collection and testing services in low-resource settings.",
   "website": "https://www.jembi.org/Project/Blood-Safety-Strengthening-Programme-(BSSP)",
   "license": [
     {
@@ -15,10 +15,12 @@
     {
       "SDGNumber": 3,
       "evidenceText": "BSIS is designed to support National Blood Transfusion services to track information about donors and donations from the point of collection to the point of transfusion. Improved data supports better planning and decision-making, with the ultimate goal if improving the safety and availability of blood within low-resource countries.  ",
-      "evidenceURL": "https://drive.google.com/drive/u/1/folders/1tqd4jorHXEwC1Gd8cXJrs0juIME-aig4"
+      "evidenceURL": "https://www.moh.gov.gh/blood-safety-information-system-launched-in-ghana/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
