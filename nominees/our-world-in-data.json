@@ -102,10 +102,13 @@
       "evidenceURL": "https://sdg-tracker.org/global-partnerships"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
   "type": [
     "content",
-    "software"
+    "software",
+    "data"
   ],
   "repositories": [
     {
