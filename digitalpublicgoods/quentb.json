@@ -1,0 +1,55 @@
+{
+  "name": "QuenTB",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/MSH/QuanTB/blob/devel/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown"
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Patient Names etc."
+      ],
+      "thirdPartyDataSharing": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Uganda",
+      "Bangladesh",
+      "Philippines",
+      "Ethiopia",
+      "Namibia",
+      "Mozambique"
+    ]
+  }
+}
