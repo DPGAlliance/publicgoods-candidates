@@ -5,19 +5,22 @@
     "copyrightURL": "https://github.com/teamsempo/SempoBlockchain/blob/master/LICENSE"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "https://docs.withsempo.com/",
       "https://github.com/teamsempo/SempoBlockchain/wiki",
-      "https://docs.withsempo.com/"
+      "Infrastructure & stack - https://github.com/teamsempo/SempoBlockchain/wiki/Technical-Overview"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "CommCare, KoboToolbox, Excel, CSV import\nExcel, CSV export"
+    "nonPIIAccessMechanism": "Data can be imported and exported into Excel and CSV formats \n Sempo can automatically sync with KoboToolbox, so no manual upload is required (https://docs.withsempo.com/integrations/kobotoolbox)\n Sempo also integrates with CommCare (https://docs.withsempo.com/integrations/commcare)"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -33,7 +36,16 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/teamsempo/SempoBlockchain/wiki/Technical-Overview"
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "https://12factor.net/"
@@ -50,14 +62,30 @@
         "https://drive.google.com/file/d/12UE3JUc-WwTyXGz9oEeuMjYgmLQ63TZJ/view?usp=sharing"
       ],
       "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "https://withsempo.com/legal/privacy-policy/"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
