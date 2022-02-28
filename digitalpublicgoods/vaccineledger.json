@@ -2,7 +2,7 @@
   "name": "VaccineLedger",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://gitlab.com/statwig-public/theledger/-/blob/development/LICENSE"
+    "copyrightURL": "https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
