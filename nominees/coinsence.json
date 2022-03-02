@@ -13,28 +13,34 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 10,
-      "evidenceText": "Through alternatives for funding and value sharing based on crypto assets, we are building a new way how communities can share profit within the ecosystem (with contributors and well as with customers)."
-    },
-    {
       "SDGNumber": 8,
-      "evidenceText": "Our solution enables community to create alternative funding solutions for social and entrepreneurial activities and enables people to share the collectively created assets."
-    },
-    {
-      "SDGNumber": 17,
-      "evidenceText": "Trough our platform, where people and organizations across the globe can collaborate, share resources and manage funds in a decentral way, and where stakeholders are rewarding through crypto assets for their contributions, we are encouraging, facilitating and boosting partnerships between the different organizations, sectors and regions. "
-    },
-    {
-      "SDGNumber": 12,
-      "evidenceText": "Through our solution where communities can mainly support responsible projects, and where the eco-social engagement of companies is visible and accountable, where are supporting with our tools building better relations between engaged producers and consumers.  "
-    },
-    {
-      "SDGNumber": 16,
-      "evidenceText": "Through our solution communities are building decentral governance frameworks that create the possibility for people and organization to collaborate e.g. based on democratic consensus. Through creating new digital ways for voting and policy making across different groups, regional and national borders, we can foster peace and justice and build alternatives to some todays non-functioning institutions."
+      "evidenceText": "Our solution enables community to create alternative funding solutions for social and entrepreneurial activities and enables people to share the collectively created assets.",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/Coinsence"
     },
     {
       "SDGNumber": 9,
-      "evidenceText": "Through token based agile funding processes of grass root innovation projects and through a cross silo and cross organizational collaboration and value exchange framework, we are leveraging collective intelligence and connecting experts and resources together to leverage synergies and boost innovation."
+      "evidenceText": "Through token based agile funding processes of grass root innovation projects and through a cross silo and cross organizational collaboration and value exchange framework, we are leveraging collective intelligence and connecting experts and resources together to leverage synergies and boost innovation.",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/Coinsence"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Through alternatives for funding and value sharing based on crypto assets, we are building a new way how communities can share profit within the ecosystem (with contributors and well as with customers).",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/Coinsence"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Through our solution where communities can mainly support responsible projects, and where the eco-social engagement of companies is visible and accountable, where are supporting with our tools building better relations between engaged producers and consumers.",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/Coinsence"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Through our solution communities are building decentral governance frameworks that create the possibility for people and organization to collaborate e.g. based on democratic consensus. Through creating new digital ways for voting and policy making across different groups, regional and national borders, we can foster peace and justice and build alternatives to some todays non-functioning institutions.",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/Coinsence"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Through our platform, where people and organizations across the globe can collaborate, share resources and manage funds in a decentral way, and where stakeholders are rewarding through crypto assets for their contributions, we are encouraging, facilitating and boosting partnerships between the different organizations, sectors and regions. ",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/Coinsence"
     }
   ],
   "sectors": [],
@@ -45,6 +51,10 @@
     {
       "name": "main",
       "url": "https://github.com/Coinsence/humhub-modules-xcoin"
+    },
+    {
+      "name": "Coinsence project monorepo - includes our smart contracts",
+      "url": "https://github.com/Coinsence/coinsence-monorepo"
     }
   ],
   "organizations": [
@@ -54,6 +64,11 @@
       "org_type": "owner",
       "contact_name": "Karim Chabrak",
       "contact_email": "karim@coinsence.org"
+    },
+    {
+      "name": "UNICEF Innovation Fund",
+      "website": "https://www.unicefinnovationfund.org/home",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
