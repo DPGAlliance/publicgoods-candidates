@@ -32,14 +32,17 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "https://source.android.com/setup/contribute/code-style"
+      ""
     ],
     "evidenceStandardSupport": [
       ""
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Coding Styles - Google Java Style Guide",
+      "Architectural pattern - Model-View-Pattern (MVP)",
+      "Continous Integration",
+      "Test driven development - https://github.com/jellow-aac/jellow-communicator-android/tree/jellow-test-cases-module-part-three/app/src/androidTest/java/com/dsource/idc/jellowintl"
     ]
   },
   "doNoHarm": {
