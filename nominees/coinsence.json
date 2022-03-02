@@ -43,7 +43,7 @@
   ],
   "repositories": [
     {
-      "name": "Main repository",
+      "name": "main",
       "url": "https://github.com/coinsence"
     }
   ],
