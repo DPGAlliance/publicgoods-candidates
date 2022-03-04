@@ -18,7 +18,9 @@
       "evidenceURL": "https://populate.tools/blog/gobierto"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Sustainable Cities"
+  ],
   "type": [
     "software"
   ],
