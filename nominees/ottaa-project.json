@@ -9,7 +9,7 @@
   "website": "https://ottaaproject.com/",
   "license": [
     {
-      "spdx": "AGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/OTTAA-Project/ottaa_project_flutter/blob/master/license.txt"
     }
   ],
