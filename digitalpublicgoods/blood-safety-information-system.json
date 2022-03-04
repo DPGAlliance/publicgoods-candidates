@@ -2,11 +2,12 @@
   "name": "Blood Safety Information System",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/jembi/bsis#readme"
+    "copyrightURL": "https://www.jembi.org/Project/Blood-Safety-Strengthening-Programme-(BSSP)"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": ""
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -30,7 +31,16 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/jembi/bsis"
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles of Digital Development",
@@ -51,10 +61,23 @@
       "thirdPartyDataSharing": "No"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown"
+      "userInteraction": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
