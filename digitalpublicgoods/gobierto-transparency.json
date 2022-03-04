@@ -2,7 +2,7 @@
   "name": "Gobierto Transparency",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/PopulateTools/gobierto"
+    "copyrightURL": "https://www.gobierto.es/acerca-de"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No"
