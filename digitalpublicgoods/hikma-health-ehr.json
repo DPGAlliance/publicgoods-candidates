@@ -1,0 +1,63 @@
+{
+  "name": "Hikma Health EHR",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.google.com/document/d/1MkfLtYtOUs2SxlQWrDd9sLxdxMfEu8xkp0iLKCzDyGg"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Health Insurance Portability and Accountability Act"
+    ],
+    "adherenceSteps": [
+      "The Hikma Health EHR is built to comply with the Health Insurance Portability and Accountability Act. https://www.hikmahealth.org/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "User-centered design"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Lebanon",
+      "Jordan",
+      "Nicaragua"
+    ],
+    "deploymentCountries": [
+      "Lebanon",
+      "Nicaragua"
+    ]
+  }
+}
