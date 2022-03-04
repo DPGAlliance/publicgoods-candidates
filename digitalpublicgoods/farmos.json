@@ -16,18 +16,35 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "https://farmos.org/development/api/"
+    "nonPIIAccessMechanism": "farmOS provides an API (that adheres to JSON) that other applications/systems can use to read and write records via HTTP requests - https://farmos.org/development/api/"
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Coding standards - farmOS follows Drupal coding standards (https://farmos.org/development/environment/code/)",
+      "Automated tests - https://farmos.org/development/environment/tests/"
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -35,24 +52,38 @@
         "Farm records and field geometries"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Farm records",
-      "contentFilter": "No",
-      "illegalContentDetection": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Unknown",
-      "griefAbuseHarassmentProtection": "Unknown"
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Covenant Code of Conduct - https://farmos.org/community/conduct/"
+      ]
     }
   },
   "locations": {
     "developmentCountries": [
       "United States of America"
     ],
-    "deploymentCountries": []
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
