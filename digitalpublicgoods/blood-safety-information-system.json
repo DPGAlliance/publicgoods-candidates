@@ -5,8 +5,8 @@
     "copyrightURL": "https://github.com/jembi/bsis#readme"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
