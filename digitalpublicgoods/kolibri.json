@@ -5,7 +5,9 @@
     "copyrightURL": "https://drive.google.com/file/d/1gquJaNTtRiAsu85b2NNDumqm1cPsK_iK/view?usp=sharing"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -18,7 +20,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -33,7 +36,10 @@
     "supportStandards": "Yes",
     "standardsList": [
       "SCORM 1.2",
-      "xAPI"
+      "xAPI",
+      "HTML",
+      "CSS",
+      "ECMAScript"
     ],
     "evidenceStandardSupport": [
       "https://github.com/learningequality/kolibri/blob/develop/packages/hashi/test/SCORM.spec.js",
@@ -41,7 +47,8 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digitial Development"
+      "Principles for Digitial Development",
+      "Continous Integration and Continous Deployment"
     ]
   },
   "doNoHarm": {
@@ -57,17 +64,29 @@
         "Gender"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Open Educational Resources",
       "contentFilter": "Yes",
-      "illegalContentDetection": "No",
-      "policyGuidelinesDocumentationLink": "https://docs.google.com/document/d/e/2PACX-1vS1xEjo0904SC1kwzAhO9aVic5Rkc6-hyeNIljK_J9f7T8C5_HIG-N725Bo3YQSDa5ReI4VZ7nFx_o3/pub"
+      "policyGuidelinesDocumentationLink": "https://docs.google.com/document/d/e/2PACX-1vS1xEjo0904SC1kwzAhO9aVic5Rkc6-hyeNIljK_J9f7T8C5_HIG-N725Bo3YQSDa5ReI4VZ7nFx_o3/pub",
+      "illegalContentDetection": "No"
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
