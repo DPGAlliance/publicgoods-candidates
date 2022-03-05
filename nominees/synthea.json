@@ -22,10 +22,11 @@
       "evidenceText": "The “Quality Education” goal highlights inclusive and equitable lifelong learning opportunities. Innovators also can leverage Synthea to strengthen their health information technology knowledge and skills for future jobs, research, and/or entrepreneurship opportunities to advance health and well-being. "
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
-    "software",
-    "data"
+    "software"
   ],
   "repositories": [
     {
