@@ -18,7 +18,9 @@
       "evidenceURL": "https://learningequality.org/kolibri/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "software"
   ],
