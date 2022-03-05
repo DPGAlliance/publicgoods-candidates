@@ -18,7 +18,9 @@
       "evidenceURL": "https://www.epistemonikos.org/documents/002803bbe7f8ee7460cedc01233e26c7318282f7"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
