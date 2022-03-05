@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/synthetichealth/synthea/wiki/DPG#is-ownership-clearly-defined"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -27,7 +31,6 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "HL7 FHIR",
       "HL7 C-CDA",
@@ -38,6 +41,7 @@
     "evidenceStandardSupport": [
       "https://github.com/synthetichealth/synthea/wiki/DPG#standards"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development"
     ]
@@ -48,25 +52,34 @@
       "additionalInfoMechanismProcessesPolicies": "The foundational principle of the project - synthetic health data as a safe and useful alternative to real health data - is designed to prevent harm to individuals’ privacy and security."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "The project distributes synthetic health data. The project does not collect or store information.",
-      "contentFilter": "Yes",
-      "illegalContentDetection": "Yes",
-      "policyGuidelinesDocumentationLink": "https://github.com/synthetichealth/synthea/blob/master/CODE_OF_CONDUCT.md",
-      "illegalContentDetectionMechanism": "https://github.com/synthetichealth/synthea/blob/master/CODE_OF_CONDUCT.md"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct."
+        "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct - https://github.com/synthetichealth/synthea/blob/master/CODE_OF_CONDUCT.md"
       ]
     }
   },
