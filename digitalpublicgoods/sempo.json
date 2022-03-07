@@ -2,7 +2,7 @@
   "name": "Sempo",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/teamsempo/SempoBlockchain/blob/master/LICENSE"
+    "copyrightURL": "https://withsempo.com/legal/platform-terms"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
