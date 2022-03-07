@@ -48,13 +48,16 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "https://12factor.net/"
+      "Agile software development",
+      "12 Factor App (https://12factor.net/)",
+      "CI/CD and Code Review",
+      "We follow Human Centered Design for all product design and development cycles."
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "SOC 2 Type 1"
+      "additionalInfoMechanismProcessesPolicies": "SOC 2 ensures all our policies and controls follow industry best practice when providing Software Services to customers. We are SOC 2 Type 1 compliant for trust service criteria Security, Availability, Processing Integrity and Confidentiality as of March 2021. This ensures customer data is protected and secured at all times. Here is an overview on SOC 2 https://www.imperva.com/learn/data-security/soc-2-compliance/"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
