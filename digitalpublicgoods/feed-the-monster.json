@@ -2,7 +2,7 @@
   "name": "Feed the Monster",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/curiouslearning/FeedTheMonster/blob/master/LICENSE"
+    "copyrightURL": "https://www.norad.no/tema/utdanning/innovasjon-og-utdanning/utdapp4syria/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
@@ -31,16 +31,21 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Security - HTTPS",
+      "Internationalization (i18n)- UTF-8",
+      "Software Architectural Styles - REST (Representational State Transfer)",
+      "Data Exchange formats - JSON, XML, CSV",
+      "Multimedia -  SVG, PNG, JPEG"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/curiouslearning/FeedTheMonster"
     ],
-    "implementBestPractices": "No",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Software Development- Agile development, 12 Principles Behind Agile Manifesto, Test driven development, Continuous Integration & Continous Deployment (CI/CD), Code Review",
+      "Architectural Design - Modularity and Maintainability"
     ]
   },
   "doNoHarm": {
