@@ -18,7 +18,9 @@
       "evidenceURL": "https://github.com/neherlab/covid19_scenarios/blob/master/LICENSE"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
