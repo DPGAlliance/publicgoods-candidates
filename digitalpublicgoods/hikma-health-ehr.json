@@ -1,10 +1,13 @@
 {
   "name": "Hikma Health EHR",
   "clearOwnership": {
-    "isOwnershipExplicit": "No"
+    "isOwnershipExplicit": "No",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,7 +17,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -27,6 +31,12 @@
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "User-centered design"
@@ -34,18 +44,36 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
