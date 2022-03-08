@@ -29,6 +29,7 @@
       "General Data Protection Regulation (GDPR)"
     ],
     "adherenceSteps": [
+      "KOLIBRI STUDIO TERMS OF SERVICE - https://docs.google.com/document/d/e/2PACX-1vS1xEjo0904SC1kwzAhO9aVic5Rkc6-hyeNIljK_J9f7T8C5_HIG-N725Bo3YQSDa5ReI4VZ7nFx_o3/pub",
       "The Kolibri Learning Platform does not collect any email addresses, and includes warnings for installation administrators, advising them of their role as data handlers."
     ]
   },
@@ -75,7 +76,8 @@
       "type": "Open Educational Resources",
       "contentFilter": "Yes",
       "policyGuidelinesDocumentationLink": "https://docs.google.com/document/d/e/2PACX-1vS1xEjo0904SC1kwzAhO9aVic5Rkc6-hyeNIljK_J9f7T8C5_HIG-N725Bo3YQSDa5ReI4VZ7nFx_o3/pub",
-      "illegalContentDetection": "No"
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "KOLIBRI STUDIO TERMS OF SERVICE - https://docs.google.com/document/d/e/2PACX-1vS1xEjo0904SC1kwzAhO9aVic5Rkc6-hyeNIljK_J9f7T8C5_HIG-N725Bo3YQSDa5ReI4VZ7nFx_o3/pub"
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
