@@ -2,7 +2,7 @@
   "name": "Synthea",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/synthetichealth/synthea/wiki/DPG#is-ownership-clearly-defined"
+    "copyrightURL": "https://github.com/synthetichealth/synthea#license"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
