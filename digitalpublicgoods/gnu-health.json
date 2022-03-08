@@ -5,7 +5,9 @@
     "copyrightURL": "https://www.gnusolidario.org/about-us.html"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -29,38 +31,50 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "HL7/FHIR"
     ],
     "evidenceStandardSupport": [
       "https://hg.savannah.gnu.org/hgweb/health/file/aa07cb2bcb15/tryton/health/tests"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Object-orientation, use of widely accepted standards (like gnuPG)"
+      "Object-orientation",
+      "Use of widely accepted standards (like gnuPG)"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "On the technical layer we can enable encryption for all kinds of data. For the rest, please define what 'harm' could occur"
+      "additionalInfoMechanismProcessesPolicies": "On the technical layer we can enable encryption for all kinds of data."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Personal Data, medical records, medical history, examination results "
+        "Personal Data",
+        "Medical records, medical history, examination results"
       ],
-      "thirdPartyDataSharing": "No"
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown"
+      "collectStoreDistribute": "Unknown",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Unknown",
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "Code of Conduct (see previous link), moderated mailing lists"
+        "Code of Conduct (https://en.wikibooks.org/wiki/GNU_Health/Code_of_Conduct)",
+        "Moderated mailing lists"
       ]
     }
   },
