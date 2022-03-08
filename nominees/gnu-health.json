@@ -1,9 +1,11 @@
 {
   "name": "GNU Health",
   "aliases": [
-    "Thalamus, MyGNUHealth, GNU Health Federation"
+    "MyGNUHealth",
+    "GNU Health Federation",
+    "Thalamus"
   ],
-  "description": "The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine.",
+  "description": "GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine.",
   "website": "https://www.gnuhealth.org/",
   "license": [
     {
@@ -14,18 +16,25 @@
   "SDGs": [
     {
       "SDGNumber": 3,
+      "evidenceText": "The GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues. GNU Health ecosystem contains a Hospital management and information system, a Personal Health Record and a federation server to interconnect user and health institutions",
+      "evidenceURL": "https://www.gnuhealth.org/about-us.html"
+    },
+    {
+      "SDGNumber": 11,
       "evidenceText": "The GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues",
       "evidenceURL": "https://www.gnuhealth.org/about-us.html"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://hg.savannah.gnu.org/hgweb/health/",
-      "name": "GNU Health "
+      "name": "GNU Health",
+      "url": "https://hg.savannah.gnu.org/hgweb/health/"
     }
   ],
   "organizations": [
