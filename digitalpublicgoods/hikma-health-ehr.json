@@ -49,6 +49,9 @@
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        ""
+      ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
