@@ -14,11 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 15,
-      "evidenceText": "Monitoring animal species",
+      "evidenceText": "Camera traps are critical tools in research and conservation efforts because they allow ecologists, biologists, and other researchers to study valuable footage of wildlife without human interference. Still, camera traps can't yet automatically label the species they observe. It takes the valuable time of experts, or thousands of citizen scientists, to label this data. Zamba uses state-of-the-art computer vision and artificial intelligence to perform intensive camera trap video processing work, freeing up more time for humans to focus on interpreting the content and using the results.",
       "evidenceURL": "https://zamba.drivendata.org/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Environment"
+  ],
   "type": [
     "aimodel",
     "software"
