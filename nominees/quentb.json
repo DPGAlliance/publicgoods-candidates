@@ -18,7 +18,9 @@
       "evidenceURL": "https://msh.org/resources/quantb/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
