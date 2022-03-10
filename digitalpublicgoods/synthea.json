@@ -23,10 +23,10 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "https://github.com/synthetichealth/synthea/wiki/DPG#does-the-project-adhere-to-privacy-and-other-applicable-international-and-domestic-laws"
+      "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
     ],
     "adherenceSteps": [
-      "https://github.com/synthetichealth/synthea/wiki/DPG#does-the-project-adhere-to-privacy-and-other-applicable-international-and-domestic-laws"
+      "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
     ]
   },
   "standards": {
