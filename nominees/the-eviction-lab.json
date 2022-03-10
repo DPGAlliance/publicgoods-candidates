@@ -33,7 +33,12 @@
   "type": [
     "data"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://data-downloads.evictionlab.org/"
+    }
+  ],
   "organizations": [
     {
       "name": "The Eviction Lab at Princeton University",
