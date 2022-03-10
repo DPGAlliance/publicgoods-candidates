@@ -43,7 +43,8 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development"
+      "Principles for Digital Development",
+      "Continous integration - https://github.com/synthetichealth/synthea/tree/master/.github/workflows"
     ]
   },
   "doNoHarm": {
