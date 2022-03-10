@@ -39,7 +39,7 @@
       "RxNorm"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/synthetichealth/synthea/wiki/DPG#standards"
+      "https://github.com/synthetichealth/synthea"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
