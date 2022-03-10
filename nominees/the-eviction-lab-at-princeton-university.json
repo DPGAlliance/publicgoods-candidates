@@ -1,0 +1,47 @@
+{
+  "name": "The Eviction Lab at Princeton University",
+  "aliases": [
+    "The Eviction Lab"
+  ],
+  "description": "The Eviction Lab at Princeton University creates data, interactive tools, and research to help neighbors and policymakers understand the eviction crisis.",
+  "website": "https://evictionlab.org/",
+  "license": [
+    {
+      "spdx": "PDDL-1.0",
+      "licenseURL": "https://data-downloads.evictionlab.org/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Eviction is both a cause and a consequence of poverty, and addressing the eviction crisis can help in efforts to reduce poverty."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://evictionlab.org/why-eviction-matters/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Eviction in the USA disproportionately affects people of color; therefore addressing the crisis is a way of targeting one aspect of structural inequality in this country. "
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Because landlords are often highly advantaged in eviction cases, The Eviction Lab advocates for equal representation in courts for tenants facing eviction."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "The Eviction Lab at Princeton University",
+      "website": "https://evictionlab.org/",
+      "org_type": "owner",
+      "contact_name": "James Minton",
+      "contact_email": "james@evictionlab.org"
+    }
+  ],
+  "stage": "nominee"
+}
