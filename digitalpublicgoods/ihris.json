@@ -1,0 +1,98 @@
+{
+  "name": "iHRIS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.ihris.org/documentation-help"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/iHRIS/iHRIS",
+      "https://www.ihris.org/developers-guide",
+      "https://www.ihris.org/ihris"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "Only collect and retain data necessary, we have data security policies and procedures are the key, the system has data encryption, authentication, and authorization"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "mCSD"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.ihris.org/global-standards",
+      "https://github.com/iHRIS/iHRIS/tree/master/ihris-backend"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      " Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "iHRIS collects demographic data, education, training, and work history of health workers. that data is owned by the respective country MOH."
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "iHRIS users are all government MOH employees, or employees of implementing partners, or other agencies suc as professional councils. the system is not available publicly.  "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Uganda",
+      "Rwanda",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Botswana",
+      "Benin",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Guinea",
+      "Laos",
+      "Kenya",
+      "Liberia",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Nigeria",
+      "Senegal",
+      "Togo",
+      "Sierra Leone",
+      "Tanzania",
+      "Timor-Leste",
+      "Uganda",
+      "Zambia",
+      "Namibia"
+    ]
+  }
+}
