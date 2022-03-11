@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/nvaccess/nvda",
-      "name": "NV Access/NVDA"
+      "name": "NV Access/NVDA",
+      "url": "https://github.com/nvaccess/nvda"
     }
   ],
   "organizations": [
