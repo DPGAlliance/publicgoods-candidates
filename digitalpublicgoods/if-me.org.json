@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "No",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -29,21 +33,21 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
-      "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "Ruby on Rails Coding Standards",
-      "JavaScript Coding Standards",
-      "React Coding Standards"
+      "Web Content Accessibility Guidelines (WCAG) 2.1"
     ],
     "evidenceStandardSupport": [
       "https://github.com/ifmeorg/ifme",
       "https://github.com/ifmeorg/ifme/wiki/Developers"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Agile development process",
       "Continuous integration for production deployment",
-      "Component-based design system"
+      "Component-based design system",
+      "Ruby on Rails Coding Standards",
+      "JavaScript Coding Standards",
+      "React Coding Standards"
     ]
   },
   "doNoHarm": {
@@ -59,23 +63,24 @@
         "Email address"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "It collects and stores content related to someone’s mental health experiences, self-care strategies, and medication. It does not distribute the content to third-party services.",
       "contentFilter": "Yes",
-      "illegalContentDetection": "Yes",
       "policyGuidelinesDocumentationLink": "https://www.if-me.org/privacy",
+      "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content."
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "We enforce the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/) in our contributor community and web app. We also have a [Slack Code of Conduct](https://github.com/ifmeorg/ifme/wiki/Join-Our-Slack#slack-code-of-conduct) for our contributor community. In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Same as previous question"
       ]
