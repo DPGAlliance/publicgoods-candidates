@@ -1,16 +1,21 @@
 {
   "name": "NVDA",
-  "description": "NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications.",
-  "website": "",
+  "aliases": [
+    ""
+  ],
+  "description": "NVDA, the free and open source screen reader for Microsoft Windows",
+  "website": "https://www.nvaccess.org/",
   "license": [
     {
       "spdx": "GPL-2.0",
-      "licenseURL": "https://github.com/nvaccess/nvda/blob/master/copying.txt"
+      "licenseURL": "https://www.nvaccess.org/files/nvda/documentation/copying.txt"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 10,
+      "evidenceText": "NV Access advocates for access to technology, and through our free, open source software NVDA we are removing barriers and empowering lives globally.   •\tNV Access advocates for access to technology, no matter your language, location, or financial situation; NVDA, our free screen reading software, is the core way we achieve that, and as an organisation we are interested in exploring other ways we can support and empower the community.  •\tWe were driven to create NVDA because of our desire to make everything more accessible to the blind and vision impaired, and that value is integral to our organisation still •\tBy keeping our software free and open source, NVDA can always remain accessible to anyone, anywhere  •\tOur software remains free because that’s what we stand for - we strive for a world where everyone has equal access to the life changing benefits of technology, not just the privileged •\tNVDA is a global solution: a free, high quality screen reader, accessible to all! We enable blind and vision impaired people to gain freedom, education and employment",
+      "evidenceURL": "https://www.nvaccess.org/"
     }
   ],
   "sectors": [],
@@ -19,15 +24,17 @@
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/nvaccess/nvda"
+      "url": "https://github.com/nvaccess/nvda",
+      "name": "NV Access/NVDA"
     }
   ],
   "organizations": [
     {
-      "name": "NVAccess",
+      "name": "NV Access Limited",
       "website": "https://www.nvaccess.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "James Boreham ",
+      "contact_email": "james.boreham@nvaccess.org"
     }
   ],
   "stage": "nominee"
