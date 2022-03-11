@@ -7,8 +7,8 @@
   "website": "https://www.if-me.org/",
   "license": [
     {
-      "licenseURL": "https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt",
-      "spdx": "AGPL-3.0"
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt"
     }
   ],
   "SDGs": [
