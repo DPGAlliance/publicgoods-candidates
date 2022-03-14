@@ -16,36 +16,40 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Input/output in a CSV format: https://zamba.drivendata.org/docs/stable/predict-tutorial/#default-behavior"
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The project is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any PII data."
     ],
     "adherenceSteps": [
-      ""
+      "The project is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any PII data."
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "PEP8",
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://zamba.drivendata.org/docs/stable/predict-tutorial/#default-behavior"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "CI/CD",
+      "Code review",
+      "Unit testing",
+      "Code coverage"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The project was developed in collaboration with camera-trap experts that are very sensitive to revealing the locations of endangered species, which is why it does not publish/share any data."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -57,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The project was developed in collaboration with camera-trap experts that are very sensitive to revealing the locations of endangered species, which is why it does not publish/share any data."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
