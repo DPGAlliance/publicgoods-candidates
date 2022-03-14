@@ -23,8 +23,8 @@
   ],
   "repositories": [
     {
-      "name": "Main",
-      "url": "https://github.com/onsset"
+      "name": "main",
+      "url": "https://github.com/OnSSET/onsset"
     }
   ],
   "organizations": [
