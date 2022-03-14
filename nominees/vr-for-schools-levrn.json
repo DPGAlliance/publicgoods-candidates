@@ -1,0 +1,48 @@
+{
+  "name": "VR for Schools - LeVRn",
+  "aliases": [
+    "VR4Schools"
+  ],
+  "description": "Educational virtual reality content for the Nigerian junior secondary school curriculum.",
+  "website": "http://vr4schools.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/Imisi3D/leVRn-beta/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://medium.com/imisi3d/virtual-reality-for-education-in-nigeria-fecb01e0cefe"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy",
+      "name": "LeVRn Potential and Kinetic Energy"
+    },
+    {
+      "url": "https://github.com/Imisi3D/leVRnAlgebra",
+      "name": "LeVRn Algebra"
+    },
+    {
+      "url": "https://github.com/Imisi3D/LeVRn_Non_Communicable_Diseases",
+      "name": "LeVRn Non-communicable diseases"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Imìsí 3D ",
+      "website": "https://imisi3d.com/",
+      "org_type": "owner",
+      "contact_name": "Judith Okonkwo ",
+      "contact_email": "Judith@imisi3d.com"
+    }
+  ],
+  "stage": "nominee"
+}
