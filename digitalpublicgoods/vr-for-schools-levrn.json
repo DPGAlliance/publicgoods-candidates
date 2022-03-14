@@ -1,0 +1,59 @@
+{
+  "name": "VR for Schools - LeVRn",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.unicef.org/innovation/FundGraduate/Imisi3D"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy#readme"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR EU"
+    ],
+    "adherenceSteps": [
+      "Worked through the GDPR Checklist "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "In line with the Principles for Digital Development, we carried out extensive research to understand the educational ecosystem engaging widely with stakeholders (eg. government, educators, parents and students). In addition we adopted a Co-creation approach working with a group of public school teachers to understand their pain points, learn how best the technology could help them, and then translate that into a VR learning product."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Nigeria"
+    ],
+    "deploymentCountries": [
+      "Nigeria"
+    ]
+  }
+}
