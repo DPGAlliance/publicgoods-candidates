@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "NVDA, the free and open source screen reader for Microsoft Windows",
+  "description": "NVDA, the free and open source screen reader for Microsoft Windows. NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications.",
   "website": "https://www.nvaccess.org/",
   "license": [
     {
