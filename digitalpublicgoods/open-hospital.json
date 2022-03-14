@@ -1,0 +1,58 @@
+{
+  "name": "Open Hospital",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.open-hospital.org/about-open-hospital/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://openhospital.atlassian.net/wiki/display/OH"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Health data"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Italy"
+    ],
+    "deploymentCountries": [
+      "Ethiopia",
+      "Uganda",
+      "Tanzania",
+      "Madagascar",
+      "Angola"
+    ]
+  }
+}
