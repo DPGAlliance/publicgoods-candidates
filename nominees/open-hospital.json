@@ -7,8 +7,8 @@
   "website": "https://www.open-hospital.org",
   "license": [
     {
-      "spdx": "AGPL-3.0",
-      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/informatici/openhospital-core/blob/develop/LICENSE"
     }
   ],
   "SDGs": [
@@ -17,11 +17,30 @@
       "evidenceURL": "https://www.open-hospital.org/about-open-hospital/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "OH Core",
+      "url": "https://github.com/informatici/openhospital-core"
+    },
+    {
+      "name": "OH GUI",
+      "url": "https://github.com/informatici/openhospital-gui"
+    },
+    {
+      "name": "OH Documentation",
+      "url": "https://github.com/informatici/openhospital-doc"
+    },
+    {
+      "name": "OH API",
+      "url": "https://github.com/informatici/openhospital-api"
+    }
+  ],
   "organizations": [
     {
       "name": "Informatici Senza Frontiere",
