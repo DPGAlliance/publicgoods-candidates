@@ -1,9 +1,9 @@
 {
   "name": "CACTUS",
   "aliases": [
-    ""
+    "Code for Axial and Cross-flow TUrbine Simulation"
   ],
-  "description": "CACTUS (Code for Axial and Cross-flow TUrbine Simulation) is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic (MHK) devices.",
+  "description": "CACTUS is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic (MHK) devices.",
   "website": "https://github.com/snl-waterpower/cactus",
   "license": [
     {
