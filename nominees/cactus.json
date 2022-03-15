@@ -1,7 +1,10 @@
 {
-  "name": "Cactus",
-  "description": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.",
-  "website": "https://www.sandia.gov/",
+  "name": "CACTUS",
+  "aliases": [
+    ""
+  ],
+  "description": "CACTUS (Code for Axial and Cross-flow TUrbine Simulation) is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic (MHK) devices.",
+  "website": "https://github.com/snl-waterpower/cactus",
   "license": [
     {
       "spdx": "BSD-3-Clause",
@@ -10,31 +13,28 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 6,
-      "evidenceText": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate."
-    },
-    {
-      "SDGNumber": 13,
-      "evidenceText": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate."
+      "SDGNumber": 7,
+      "evidenceText": "Allows computationally efficient simulation of turbine designs.",
+      "evidenceURL": "https://energy.sandia.gov/programs/renewable-energy/water-power/data-software/"
     }
   ],
-  "sectors": [
-    "Water and Sanitation"
-  ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/SNL-WaterPower/CACTUS/"
+      "url": "https://github.com/snl-waterpower/cactus"
     }
   ],
   "organizations": [
     {
-      "name": "Sandia National Laboratories",
-      "website": "https://www.sandia.gov/",
-      "org_type": "owner"
+      "name": "Sandia National Labs",
+      "website": "https://sandia.gov",
+      "org_type": "owner",
+      "contact_name": "Vincent S Neary",
+      "contact_email": "vsneary@sandia.gov"
     }
   ],
   "stage": "nominee"
