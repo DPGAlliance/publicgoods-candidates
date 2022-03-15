@@ -4,7 +4,7 @@
     ""
   ],
   "description": "An open source agent-based epidemiology simulation framework built in Rust",
-  "website": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown",
+  "website": "https://www.thoughtworks.com/en-ca/insights/topic/open-source/epirust",
   "license": [
     {
       "spdx": "AGPL-3.0",
