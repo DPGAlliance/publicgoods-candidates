@@ -32,14 +32,18 @@
   ],
   "organizations": [
     {
-      "name": "University of Geneva/Institute for Environmental Sciences/EnviroSPACE Lab",
-      "website": "https://www.unige.ch/envirospace/",
-      "org_type": "owner"
+      "name": "University of Geneva, GeoHealth group",
+      "website": "https://www.unige.ch/geohealth",
+      "org_type": "owner",
+      "contact_name": "Nicolas Ray",
+      "contact_email": "nicolas.ray@unige.ch"
     },
     {
       "name": "Health GeoLab Collaborative",
       "website": "https://healthgeolab.net/",
-      "org_type": "implementer"
+      "org_type": "owner",
+      "contact_name": "Steeve Ebener",
+      "contact_email": "steeve.ebener@healthgeolab.net"
     },
     {
       "name": "The World Health Organization",
@@ -48,7 +52,7 @@
     },
     {
       "name": "University of Geneva, GeoHealth group",
-      "website": "https://www.unige.ch/medecine/isg/en/research/1000ray",
+      "website": "https://www.unige.ch/geohealth",
       "org_type": "maintainer",
       "contact_name": "Nicolas Ray",
       "contact_email": "nicolas.ray@unige.ch"
