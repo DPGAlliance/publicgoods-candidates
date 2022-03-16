@@ -5,7 +5,9 @@
     "copyrightURL": "https://prathambooks.org/our-work/#work_section4"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -17,12 +19,14 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Yes"
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "General Data Protection Regulation (GDPR) and applicable domestic Information Technology laws in India"
+      "General Data Protection Regulation (GDPR)",
+      "Applicable domestic Information Technology laws in India"
     ],
     "adherenceSteps": [
       "https://storyweaver.org.in/terms_and_conditions",
@@ -31,6 +35,12 @@
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Design With the User",
@@ -56,7 +66,11 @@
         "StoryWeaver does not explicitly share any personally identifiable data (Name, age, gender etc.) with any 3rd parties. Any anonymized behavioural data which is collected and stored outside of the platform. E.g. Google Analytics is used for internal analysis and product improvements to the platform and not shared explicitly with any 3rd party either. "
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -67,7 +81,15 @@
       "illegalContentDetectionMechanism": "We have developed several tools and models for rating and reviewing the user-generated content on the platform. We have a quality control framework for onboarding volunteer reviewers to review user-generated content, which allows for the rating of the books on a number of parameters. This process not only helps us identify and pull down malicious and/or harmful content, but also helps us identify good writers and translators, and recommend high-quality content to our users. Additionally, users can directly report malicious and/or harmful content to moderators on the platform. The tools for the same are user facing on the platform at a story level. The reported content is screened by moderators and if found malicious and/or harmful, it is pulled down from the platform.  The user-author or user-illustrator ( whose work is pulled down) is notified of the same via email from StoryWeaver. The notification mailer details the specific reason for pulling down such content.  Users have a chance to modify the content and re-upload their work Users repeatedly posting such content are banned from the platform - they can read but they are not allowed to create / upload anything.  Link: https://storyweaver.org.in/contributor_guidelines; The average response time of screening and pulling down reported content is within 3-4 working days. "
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
