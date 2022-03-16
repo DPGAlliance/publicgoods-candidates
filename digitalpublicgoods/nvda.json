@@ -2,10 +2,12 @@
   "name": "NVDA",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/nvaccess/nvda"
+    "copyrightURL": "https://tsdr.uspto.gov/#caseNumber=6564618&caseSearchType=US_APPLICATION&caseType=SERIAL_NO&searchType=statusSearch"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -16,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Yes. A publicly available URL facilitates a search of a database "
+    "nonPIIAccessMechanism": "Yes. A publicly available URL facilitates a search of a database"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -36,21 +38,42 @@
     "evidenceStandardSupport": [
       "https://www.nvaccess.org/corporate-government/#vpat"
     ],
-    "implementBestPractices": "No"
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "No"
+      "stepsToPreventHarm": "No",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "All community members must abide by the NV Access Citizen and Contributor Code of Conduct https://github.com/nvaccess/nvda/blob/master/CODE_OF_CONDUCT.md"
