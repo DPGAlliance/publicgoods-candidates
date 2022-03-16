@@ -66,7 +66,10 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "Sempo supports a number of integrations including:",
+        "- KoboToolbox (https://docs.withsempo.com/integrations/kobotoolbox)",
+        "- Commcare (https://docs.withsempo.com/integrations/commcare)",
+        "- SurveyCTO (https://docs.withsempo.com/integrations/surveycto)"
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "https://withsempo.com/legal/privacy-policy/"
