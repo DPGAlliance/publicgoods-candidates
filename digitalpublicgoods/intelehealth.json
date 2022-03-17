@@ -1,0 +1,89 @@
+{
+  "name": "Intelehealth",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview",
+      "https://github.com/Intelehealth/Android-Mobile-Client",
+      "https://drive.google.com/file/d/1_ZG0M18C-geK0e09YO-KxVekDzPjQVak/view?usp=sharing",
+      "https://drive.google.com/file/d/1WXjk7ktwOpIyhYXo-5w3o9lG5paUxkDx/view?usp=sharing"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "DPA - Data Protection Act, Phillipines: https://docs.google.com/spreadsheets/d/1doSLgybdhUL42HR11kP4di3wVuUeZ30HLGjj7RfYBjc/edit#gid=0",
+      "IT Act 2000, India"
+    ],
+    "adherenceSteps": [
+      "https://intelehealth.org/terms-of-use/",
+      "https://intelehealth.org/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL 7",
+      "CCD / CDA Export"
+    ],
+    "evidenceStandardSupport": [
+      "https://wiki.openmrs.org/pages/viewpage.action?pageId=69075133"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "User Center design, OWASP top 10 standard, Agile Methodologies, S.O.L.I.D & Don’t Repeat Your self (DRY)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Risk Assess and Risk Treatment Plan"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name, Gender, DOB, Mobile No, Address, Son / Daughter / Wife of, Occupation, Cast, Economics status, Education level, Health Vital / medical history, Past and family medical history"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Personal information and medical history, Store Personal information and medical history, Distribute Among health worker and Doctors, Prescription with patient",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We are not registering Underage users"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "We are not registering Underage users"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Kyrgyzstan",
+      "Philippines"
+    ]
+  }
+}
