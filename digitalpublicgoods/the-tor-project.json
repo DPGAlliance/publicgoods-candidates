@@ -1,0 +1,76 @@
+{
+  "name": "The Tor Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.torproject.org/about/trademark/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitweb.torproject.org/",
+      "https://community.torproject.org/user-research/",
+      "https://tb-manual.torproject.org/",
+      "https://support.torproject.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Our metrics portal displays non-PII information using a tool called detector (https://research.torproject.org/techreports/detector-2011-09-09.pdf).\nDetector works on an aggregate number of users connecting to a fraction of directory servers per day. That set of statistics are gathered and provided by the Tor Project in a sanitized form to minimize the potential for harm to active users.  The detector is based on a simple model of the number of users per day per jurisdiction. That model is used to assess whether the number of users we observe is typical, too high, or too low. In a nutshell, the prediction on any day is based on activity of previous days locally as well as worldwide.\nIt is possible to to access this data on: https://metrics.torproject.org/userstats-relay-country.html\nAnd to download it in .csv format. For more information on how metrics works please check:\nhttps://gitweb.torproject.org/metrics-web.git/tree/src/main/resources/doc/users-q-and-a.txt"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [],
+    "adherenceSteps": [
+      " Yes. By its nature, because Tor is a privacy software, we do collect any information about any of our users, nor do we collect any information about visitors to our website, etc."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Our documentation about how to collaborate with Core Tor code includes how to write unit tests, how to make a release, how to maintain the codebase, how to do a code review and so on, you can find full documentation here: https://gitweb.torproject.org/tor.git/tree/doc/HACKING",
+      "Our teams organize themselves using OKRs: https://gitlab.torproject.org/tpo/team/-/wikis/okrs/home",
+      "Their work is organized in Roadmaps and kanban boards: https://gitlab.torproject.org/tpo/team/-/wikis/process/HowToBuildRoadmap",
+      "We also have a project manager that helps teams stay organized and keep track of progress of projects: https://gitlab.torproject.org/tpo/team/-/wikis/process/How-we-do-project-management-at-The-Tor-Project",
+      "We have policies in place for our development infrastructure  https://gitlab.torproject.org/tpo/tpa/team/-/wikis/policy",
+      "We follow best practices in user research to guide development of our tools: https://gitlab.torproject.org/tpo/ux/research, https://gitlab.torproject.org/tpo/ux/design "
+    ],
+    "standardsList": []
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Yes, we are human rights defenders and we also are always investing on how to ensure that our work environment and our community are promoting a healthy, safe and welcoming environment for everyone.   The Tor Project’s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.  Privacy and anonymity technologies like Tor make it possible for people in countries where governments censor the internet to bypass that censorship and freely access public information. Our work supports the human right to access information, which is fundamental to effective, accountable, and inclusive institutions.  Our Code of Conduct: https://gitweb.torproject.org/community/policies.git/plain/code_of_conduct.txt  Our social contract: https://gitweb.torproject.org/community/policies.git/tree/social_contract.txt  Our statement of values: ​​https://gitweb.torproject.org/community/policies.git/tree/statement_of_values.txt  We also have a Community Council which is elected annually by our community. The Community Council has the following responsibilities:  * mediation of intra-community disputes   * enforcement of enacted policies like the code of conduct   * provide Tor Project Inc with community representation it can consult  More information can be found at: https://gitlab.torproject.org/tpo/team/-/wikis/Community-Council  The Tor Project also uses an employee handbook which provides information for employees to escalate issues whenever necessary"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The Tor Project does not collect, store, or distribute content. Below, we have described the software we create and how users interact with it: We build and distribute Tor Browser—this is an application that allows users to browse the web in the same way they would on a well-known application like Chrome, Safari, or Firefox.  We build and distribute the software required to run the Tor network. Thousands of volunteers run nodes using this software. These nodes collectively create the Tor network. Traffic that is routed through the Tor network is bounced across three or more of these nodes before reaching its destination, providing privacy and anonymity to the user. Neither the Tor Project nor Tor node operators host or distribute content. We build and distribute the software that allows services to offer “.onion address” versions of their websites, which are mirrors of their site that can only be accessed on the Tor network. Major services like Twitter, Facebook, BBC, Deutsche Welle, Mada Masr, the Intercept, ProPublica, and more offer .onion service versions of their website so that their users can take advantage of the privacy and censorship circumvention features of the Tor network. The contents of .onion addresses are hosted and distributed using the website or service’s infrastructure. No part of this work involves the Tor Project collecting, storing, hosting, or distributing content. Unfortunately, it is almost impossible for us to know the age of the users who are contributing through the tools listed above. Many people use pseudonyms and we don’t require them to use their age to register or participate. Even though we don’t know the age of users interacting on the channels above, we do have mechanisms to protect people and make sure that the interactions on the tools above are safe for all users. All spaces for conversation with the community that are facilitated by the Tor Project are bound by the Tor Project Code of Conduct and moderated by a core Tor member, meaning a trusted person who has been voted into the community. Our Code of Conduct explicitly states that unacceptable behavior has consequences. If a user witnesses or experiences unacceptable behavior as outlined by the Code of Conduct, they can contact the Tor Community Council. The Community Council is an elected body of Tor Core Contributors who can assist with intra-community conflict resolution.   Below you will find a link for an outline of where users can go for help, what to do if a user witnesses unacceptable behavior, what a user reporting a violation can expect from the Community Council, and how the Community Council handels reports.    https://forum.torproject.net/t/welcome-to-the-tor-project-forum/7#5-where-to-go-for-help-8"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Canada",
+      "Germany",
+      "Denmark",
+      "Spain",
+      "United Kingdom",
+      "Brazil"
+    ],
+    "deploymentCountries": []
+  }
+}
