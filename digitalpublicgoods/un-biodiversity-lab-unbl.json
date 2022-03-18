@@ -1,0 +1,85 @@
+{
+  "name": "UN Biodiversity Lab (UNBL)",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://unbiodiversitylab.org/about/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://unbiodiversitylab.org/support/",
+      "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf",
+      "https://github.com/natgeosociety/marapp-docs"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation 2016/679 (GDPR)"
+    ],
+    "adherenceSteps": [
+      "See Privacy Policy here: https://unbiodiversitylab.org/privacy-policy/  See Terms of Use here: https://unbiodiversitylab.org/terms-of-use/ "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Web Content Accessibility Guidelines (WCAG) "
+    ],
+    "evidenceStandardSupport": [
+      "https://wave.webaim.org/report#/https://unblfrontendprod.azureedge.net/earth"
+    ],
+    "bestPracticesList": [
+      "Yes, the core tenets of PDD have been followed. ",
+      "Design Thinking Methodology has been followed which has significant overlap with the PDD principles.",
+      "Design with the User - User Centered Design was followed with many user workshops following the Empathize,Define,Ideate, Prototype, Test, Implement.",
+      "Understand the Ecosystem – Multiple workshops held with the users in the target countries. ",
+      "Design for Scale – The platform was designed to scale with a serverless architecture, load-testing for 300 current users at a time.",
+      "Data Driven - Analytics and tag management have been built in as well as HotJar for site usage analysis.",
+      "Use Open Standards - The entire application is built using open standard tools, frameworks, libraries and servers.",
+      "Reuse and Improve - We are contributors on several open source projects that are using. We’ve found and fixed a few bugs, but mostly we’re improving the packages for better scaling. For example, you’ll find several issues opened and pull requests submitted for pgstac from Impact Observatory members.",
+      "Security - we have carefully walked the line so far to keep all PII data (user account data) held within the security provider Auth0. We do not have any PII data under our management that can be compromised."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Clear documentation of all sources and guidance on appropriately using and citing the maps and data."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "When visiting or registering on our site, as appropriate, users may be asked to enter name, email address, phone number or other details to help the experience. We ensure that the collection of personal data is adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We treat personal data with confidentiality and will only disclose it when necessary to provide services or report on business operations. When you sign-up on our website, your contact information is shared with MailChimp, which hosts our newsletter list and page. Aggregate statistics of user interaction with the platform are created from non-personally identifiable information."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Global geospatial and scientific data on environment and human factors",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://unbiodiversitylab.org/terms-of-use/",
+      "illegalContentDetectionMechanism": "All content that is collected, stored, or distributed is only relevant to geospatial and scientific data on environment and human factors. New data is only distributed after thorough scientific review based on the UNBL data standards: https://wwwunbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf  For a complete list of all datasets: http://www.unbiodiversitylab.org/data-list "
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "United Kingdom",
+      "Romania"
+    ],
+    "deploymentCountries": []
+  }
+}
