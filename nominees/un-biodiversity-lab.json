@@ -1,7 +1,7 @@
 {
-  "name": "UN Biodiversity Lab (UNBL)",
+  "name": "UN Biodiversity Lab",
   "aliases": [
-    ""
+    "UNBL"
   ],
   "description": "The UN Biodiversity Lab (UNBL) provides access to global data and analytics on people and planet in new ways to empower governments and stakeholders to take action to achieve their commitments to the Convention on Biological Diversity and 2030 Agenda for Sustainable Development. ",
   "website": "https://unbiodiversitylab.org/",
@@ -46,8 +46,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/natgeosociety/marapp-docs",
-      "name": "natgeosociety / marapp-docs"
+      "name": "natgeosociety / marapp-docs",
+      "url": "https://github.com/natgeosociety/marapp-docs"
     }
   ],
   "organizations": [
