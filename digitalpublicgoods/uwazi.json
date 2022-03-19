@@ -6,7 +6,8 @@
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
-    "pltIndependenceDesc": "All our dependencies are open source and licensed GPL or similar."
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -28,11 +29,18 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "Cookies Policy - https://huridocs.org/cookies-policy/ | Privacy Policy - https://huridocs.org/privacy-policy/ "
+      "Cookies Policy - https://huridocs.org/cookies-policy/",
+      "Privacy Policy - https://huridocs.org/privacy-policy/ "
     ]
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Design With the User",
@@ -62,19 +70,26 @@
         "Uwazi is often used to record and manage information about human rights violations, but this information is accessible only to the organisations managing a respective collection."
       ],
       "thirdPartyDataSharing": "Yes",
-      "privacySecurityDescription": "Hosting and processing: the HURIDOCS Websites and HURIDOCS Applications/Tools are hosted by third party service providers and therefore any personal details you submit through a HURIDOCS Website and/or HURIDOCS Applications/Tools may be processed by that third party service provider. We may also use other third parties to process your personal details. For example, such third parties may process your personal information to process donations to HURIDOCS on our behalf or process and forward mailing information for users to sign up to our online actions and/or choose to subscribe to our email updates. All of these third party services providers will process your personal information only on HURIDOCS’ behalf and will be bound by strict confidentiality conditions. Link: https://huridocs.org/privacy-policy/",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Hosting and processing: the HURIDOCS Websites and HURIDOCS Applications/Tools are hosted by third party service providers and therefore any personal details you submit through a HURIDOCS Website and/or HURIDOCS Applications/Tools may be processed by that third party service provider. We may also use other third parties to process your personal details. For example, such third parties may process your personal information to process donations to HURIDOCS on our behalf or process and forward mailing information for users to sign up to our online actions and/or choose to subscribe to our email updates. All of these third party services providers will process your personal information only on HURIDOCS’ behalf and will be bound by strict confidentiality conditions. Link: https://huridocs.org/privacy-policy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Human rights documentation (information on human rights violations, general human rights information, legal documents, court cases, academic resources, legal resources, photos, audio files, videos and other information that users see fit to upload to their collections.",
       "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "Since we work with human rights organisations, we anticipate that this is taken care of by selecting who we work with."
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "As the main channel is Github, the main way to do so would be to moderate there."
