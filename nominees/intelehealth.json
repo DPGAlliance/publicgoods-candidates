@@ -18,14 +18,16 @@
       "evidenceURL": "https://intelehealth.org/wp-content/uploads/2022/03/eSanjeevani-Jharkhand-1.pdf"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://github.com/Intelehealth",
-      "name": "Intelehealth"
+      "name": "Intelehealth",
+      "url": "https://github.com/Intelehealth"
     }
   ],
   "organizations": [
