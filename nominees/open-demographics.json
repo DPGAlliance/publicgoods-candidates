@@ -1,34 +1,41 @@
 {
   "name": "Open Demographics",
-  "description": "Open Demographics Initiative: An open standard for collecting identity/demographic data in open source communities.",
-  "website": "",
+  "aliases": [
+    ""
+  ],
+  "description": "A collaborative project for the inclusive collection of demographic information",
+  "website": "http://open-demographics.com/",
   "license": [
     {
       "spdx": "CC-BY-SA-4.0",
-      "licenseURL": "https://github.com/drnikki/open-demographics/blob/master/LICENSE"
+      "licenseURL": "https://github.com/drnikki/open-demographics/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 5
+      "SDGNumber": 10,
+      "evidenceText": "Helps project organizers collect inclusive data about their participants, helping organizers address inequalities in participation and access",
+      "evidenceURL": "https://github.com/drnikki/open-demographics/blob/main/README.md"
     }
   ],
   "sectors": [],
   "type": [
-    "content",
-    "data"
+    "software",
+    "standard"
   ],
   "repositories": [
     {
-      "name": "main",
+      "name": "Open Demographics",
       "url": "https://github.com/drnikki/open-demographics"
     }
   ],
   "organizations": [
     {
-      "name": "Open Demographics",
-      "website": "https://open-demographics.com",
-      "org_type": "owner"
+      "name": "Nikki Stevens",
+      "website": "http://nikkistevens.com",
+      "org_type": "owner",
+      "contact_name": "Nikki Stevens",
+      "contact_email": "nikkilstevens@gmail.com "
     }
   ],
   "stage": "nominee"
