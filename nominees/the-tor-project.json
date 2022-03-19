@@ -28,8 +28,8 @@
   ],
   "repositories": [
     {
-      "url": "https://gitweb.torproject.org",
-      "name": "Tor Project Repository"
+      "name": "Tor Project Repository",
+      "url": "https://gitweb.torproject.org"
     }
   ],
   "organizations": [
