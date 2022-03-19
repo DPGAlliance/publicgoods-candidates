@@ -1,7 +1,8 @@
 {
-  "name": "VR for Schools - LeVRn",
+  "name": "VR for Schools",
   "aliases": [
-    "VR4Schools"
+    "VR4Schools",
+    "LeVRn"
   ],
   "description": "Educational virtual reality content for the Nigerian junior secondary school curriculum.",
   "website": "http://vr4schools.org/",
@@ -23,16 +24,16 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy",
-      "name": "LeVRn Potential and Kinetic Energy"
+      "name": "LeVRn Potential and Kinetic Energy",
+      "url": "https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy"
     },
     {
-      "url": "https://github.com/Imisi3D/leVRnAlgebra",
-      "name": "LeVRn Algebra"
+      "name": "LeVRn Algebra",
+      "url": "https://github.com/Imisi3D/leVRnAlgebra"
     },
     {
-      "url": "https://github.com/Imisi3D/LeVRn_Non_Communicable_Diseases",
-      "name": "LeVRn Non-communicable diseases"
+      "name": "LeVRn Non-communicable diseases",
+      "url": "https://github.com/Imisi3D/LeVRn_Non_Communicable_Diseases"
     }
   ],
   "organizations": [
