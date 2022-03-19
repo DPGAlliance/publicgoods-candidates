@@ -6,7 +6,7 @@
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "Yes",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
