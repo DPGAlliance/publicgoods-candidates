@@ -5,7 +5,9 @@
     "copyrightURL": "https://www.torproject.org/about/trademark/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -23,13 +25,21 @@
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
-    "privacyComplianceList": [],
+    "privacyComplianceList": [
+      ""
+    ],
     "adherenceSteps": [
       " Yes. By its nature, because Tor is a privacy software, we do collect any information about any of our users, nor do we collect any information about visitors to our website, etc."
     ]
   },
   "standards": {
     "supportStandards": "Yes",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Our documentation about how to collaborate with Core Tor code includes how to write unit tests, how to make a release, how to maintain the codebase, how to do a code review and so on, you can find full documentation here: https://gitweb.torproject.org/tor.git/tree/doc/HACKING",
@@ -38,8 +48,7 @@
       "We also have a project manager that helps teams stay organized and keep track of progress of projects: https://gitlab.torproject.org/tpo/team/-/wikis/process/How-we-do-project-management-at-The-Tor-Project",
       "We have policies in place for our development infrastructure  https://gitlab.torproject.org/tpo/tpa/team/-/wikis/policy",
       "We follow best practices in user research to guide development of our tools: https://gitlab.torproject.org/tpo/ux/research, https://gitlab.torproject.org/tpo/ux/design "
-    ],
-    "standardsList": []
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
@@ -47,10 +56,24 @@
       "additionalInfoMechanismProcessesPolicies": "Yes, we are human rights defenders and we also are always investing on how to ensure that our work environment and our community are promoting a healthy, safe and welcoming environment for everyone.   The Tor Project’s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.  Privacy and anonymity technologies like Tor make it possible for people in countries where governments censor the internet to bypass that censorship and freely access public information. Our work supports the human right to access information, which is fundamental to effective, accountable, and inclusive institutions.  Our Code of Conduct: https://gitweb.torproject.org/community/policies.git/plain/code_of_conduct.txt  Our social contract: https://gitweb.torproject.org/community/policies.git/tree/social_contract.txt  Our statement of values: ​​https://gitweb.torproject.org/community/policies.git/tree/statement_of_values.txt  We also have a Community Council which is elected annually by our community. The Community Council has the following responsibilities:  * mediation of intra-community disputes   * enforcement of enacted policies like the code of conduct   * provide Tor Project Inc with community representation it can consult  More information can be found at: https://gitlab.torproject.org/tpo/team/-/wikis/Community-Council  The Tor Project also uses an employee handbook which provides information for employees to escalate issues whenever necessary"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -71,6 +94,8 @@
       "United Kingdom",
       "Brazil"
     ],
-    "deploymentCountries": []
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
