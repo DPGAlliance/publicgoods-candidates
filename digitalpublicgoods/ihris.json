@@ -2,7 +2,7 @@
   "name": "iHRIS",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://www.ihris.org/documentation-help"
+    "copyrightURL": "https://github.com/iHRIS/iHRIS"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
