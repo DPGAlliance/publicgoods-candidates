@@ -1,0 +1,55 @@
+{
+  "name": "EpiRust",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/thoughtworks/epirust/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Unit Tests",
+      "Peer Reviewed Conference paper"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/thoughtworks/epirust/tree/master/engine/src",
+      "https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=176&Article_No=67"
+    ],
+    "bestPracticesList": [
+      "Mordecai Model: https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=176&Article_No=67"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ]
+  }
+}
