@@ -1,10 +1,13 @@
 {
   "name": "EpiRust",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -13,43 +16,77 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
-      "Unit Tests",
-      "Peer Reviewed Conference paper"
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/thoughtworks/epirust/tree/master/engine/src",
-      "https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=176&Article_No=67"
+      "https://github.com/thoughtworks/epirust/tree/master/engine/src"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
+      "Unit Tests",
+      "Peer Reviewed Conference paper",
       "Mordecai Model: https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=176&Article_No=67"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown"
+      "userInteraction": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
     "developmentCountries": [
       "India"
+    ],
+    "deploymentCountries": [
+      ""
     ]
   }
 }
