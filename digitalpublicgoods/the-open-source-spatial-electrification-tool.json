@@ -1,0 +1,70 @@
+{
+  "name": "The Open Source Spatial Electrification Tool",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/OnSSET/onsset/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://www.onsset.org/get-started.html",
+      "https://onsset.readthedocs.io/en/latest/index.html",
+      "https://www.open.edu/openlearncreate/course/view.php?id=8393"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR) in the European Union"
+    ],
+    "adherenceSteps": [
+      "Newsletter list follows the General Data Protection Regulation (GDPR) in the European Union"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "https://www.seforall.org/data-and-evidence/data-standards-for-integrated-energy-planning"
+    ],
+    "bestPracticesList": [
+      "U4RIA - https://climatecompatiblegrowth.com/u4ria/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden"
+    ],
+    "deploymentCountries": [
+      "Benin",
+      "Ethiopia",
+      "Somalia",
+      "Afghanistan",
+      "Sweden",
+      "Italy",
+      "Democratic Republic of the Congo"
+    ]
+  }
+}
