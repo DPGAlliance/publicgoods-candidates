@@ -14,12 +14,12 @@
   "SDGs": [
     {
       "SDGNumber": 9,
-      "evidenceText": " A researcher can simulate a communicable disease model for a city with a population of up to a few million agents using commodity hardware like laptops and desktops. Multi-city simulations (with populations of 100+ million) can as well be performed using a cluster of computers or within a cloud. EpiRust is one of the very few open-source epidemiology simulations which are fast and can scale upto 100+ million agents.",
+      "evidenceText": "A researcher can simulate a communicable disease model for a city with a population of up to a few million agents using commodity hardware like laptops and desktops. Multi-city simulations (with populations of 100+ million) can as well be performed using a cluster of computers or within a cloud. EpiRust is one of the very few open-source epidemiology simulations which are fast and can scale upto 100+ million agents.",
       "evidenceURL": "https://github.com/thoughtworks/epirust"
     },
     {
       "SDGNumber": 11,
-      "evidenceText": " Sustainable cities need good policy making frameworks. Agent based models help policy makers to try different what-if and if-what scenarios. EpiRust can help researchers and policy makers to visualize the spread of an epidemic and implement necessary interventions to reduce the spread and minimize the impact, thereby leading to healthier and sustainable cities and communities.",
+      "evidenceText": "Sustainable cities need good policy making frameworks. Agent based models help policy makers to try different what-if and if-what scenarios. EpiRust can help researchers and policy makers to visualize the spread of an epidemic and implement necessary interventions to reduce the spread and minimize the impact, thereby leading to healthier and sustainable cities and communities.",
       "evidenceURL": "https://github.com/thoughtworks/epirust"
     }
   ],
@@ -29,8 +29,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/thoughtworks/epirust",
-      "name": "epirust"
+      "name": "main",
+      "url": "https://github.com/thoughtworks/epirust"
     }
   ],
   "organizations": [
