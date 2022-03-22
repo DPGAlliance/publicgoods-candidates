@@ -7,15 +7,15 @@
   "website": "https://os.city",
   "license": [
     {
-      "spdx": "AGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://gitlab.com/oscity/community/govtechwallet/-/blob/master/LICENSE"
     },
     {
-      "spdx": "AGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://gitlab.com/oscity/community/cmp-did/-/blob/master/LICENSE.md"
     },
     {
-      "spdx": "AGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://gitlab.com/oscity/community/cloud-functions-did/-/blob/master/LICENSE"
     },
     {
