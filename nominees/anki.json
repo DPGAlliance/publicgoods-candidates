@@ -1,0 +1,38 @@
+{
+  "name": "Anki",
+  "description": "Anki is a flash card app which relies on spaced repitition.",
+  "website": "https://apps.ankiweb.net/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/ankitects/anki/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4 ,
+      "evidenceText": "Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. Anyone who needs to remember things in their daily life can benefit from Anki." ,
+      "evidenceUrl":"https://apps.ankiweb.net/"
+    }
+  ],
+  "sectors": [
+    "education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ankitects"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ankitects",
+      "website": "https://github.com/ankitects",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
