@@ -1,0 +1,64 @@
+{
+  "name": "Public Utility Data Liberation Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://catalystcoop-pudl.readthedocs.io/en/latest/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Our software is written using python and open source software libraries to extract, transform, and load publicly available data from various US energy and environmental agencies. The resulting software and data products are all publicly accessible and open source."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://catalystcoop-pudl.readthedocs.io/en/latest/dev/data_guidelines.html"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Cleaned, standardized, and cross linked US energy system data tables; unified open source US energy system database; web interface for filtering and querying US energy system database.",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://catalystcoop-pudl.readthedocs.io/en/latest/code_of_conduct.html",
+      "illegalContentDetectionMechanism": "We review all comments on our website and issue management system as well as all contributions to our code base to make sure that they adhere to our code of conduct. Any comments are typically reviewed within 24 hours. https://catalystcoop-pudl.readthedocs.io/en/latest/code_of_conduct.html"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The enforcement section of our code of conduct addresses this issue: Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at pudl@catalyst.coop. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.  Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Mexico"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
