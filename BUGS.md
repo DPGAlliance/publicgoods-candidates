@@ -19,7 +19,7 @@ On creating a new issue, you should see a bug reporting template available. Plea
 
 ## The Template
 
-### Issue description
+### Bug Description
 ```
 Provide a quick description of the bug. For example, “Distorted Text in FAQ section on <name> homepage”.
 ```
