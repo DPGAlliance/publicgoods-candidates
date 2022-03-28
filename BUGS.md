@@ -29,7 +29,7 @@ Number the steps clearly from first to last so that the developers can quickly a
 ```
 1. Click “nominate” on the Homepage (this takes the user to the eligibity page).
 2. Click on “Submit now as a DPG Nominee” is disabled.
-3. 
+3. etc.
 ```
 
 ### Expected Result
