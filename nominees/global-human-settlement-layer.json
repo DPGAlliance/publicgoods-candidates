@@ -3,7 +3,7 @@
   "aliases": [
     "GHSL"
   ],
-  "description": "A new open and free tool (datasets) for assessing the human presence on the planet.",
+  "description": "Open and free data and tools for assessing the human presence on the planet",
   "website": "https://ghsl.jrc.ec.europa.eu/",
   "license": [
     {
@@ -13,20 +13,58 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 16
+      "SDGNumber": 1,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs"
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 2,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "In this article, the GHSL population data were used to assess the number of people with access to water.",
+      "evidenceURL": "https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "The GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share",
+      "evidenceURL": "https://doi.org/10.1016/j.rser.2021.111282"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The GHSL data on population and settlements can measure the rural population with access to an all weather road",
+      "evidenceURL": "https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The multi-temporal data of built-up area and population density allow calculating the land use efficiency SDG 11.3.1",
+      "evidenceURL": "https://www.mdpi.com/2071-1050/11/20/5674"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Sustainable Cities"
+  ],
   "type": [
     "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://ghsl.jrc.ec.europa.eu/download.php"
+    }
   ],
   "organizations": [
     {
       "name": "European Commission",
-      "website": "https://ghsl.jrc.ec.europa.eu/",
+      "website": "https://ec.europa.eu",
       "org_type": "owner"
     }
   ],
