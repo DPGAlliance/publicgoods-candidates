@@ -1,6 +1,6 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-# Reporting Bugs in the Digital Public Goods Submission Form
+# Reporting Bugs in the DPG Submission Form
 
 If you find any errors during submission on the forms available at:
 
@@ -25,7 +25,7 @@ Provide a quick description of the bug. For example, “Distorted Text in FAQ se
 ```
 
 ### Steps to Reproduce a Bug
-Number the steps clearly from first to last so that the developers can quickly and exactly follow them to see the bug for themselves.
+Number the steps clearly from first to last so that the developers can quickly and exactly follow them to see the bug for themselves. For example:
 ```
 1. Click “nominate” on the Homepage (this takes the user to the eligibity page).
 2. Click on “Submit now as a DPG Nominee” is disabled.
