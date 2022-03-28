@@ -1,4 +1,4 @@
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) ![CI](https://github.com/unicef/publicgoods-candidates/workflows/CI/badge.svg)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) ![CI](https://github.com/unicef/publicgoods-candidates/workflows/CI/badge.svg)
 
 
 # Nominees, Candidates and Digital Public Goods
@@ -26,6 +26,10 @@ Refer to the additional documentation on the following topics:
 ## 🛠 Development
 
 Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
+
+## Bugs
+
+If you notice anything amiss, refer to [BUGS.md](BUGS.md) on how to report bugs.
 
 ## :memo: License
 
