@@ -7,7 +7,7 @@
   "website": "https://evictionlab.org/",
   "license": [
     {
-      "spdx": "PDDL-1.0",
+      "spdx": "ODC-By-1.0",
       "licenseURL": "https://data-downloads.evictionlab.org/"
     }
   ],
