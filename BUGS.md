@@ -21,21 +21,42 @@ On creating a new issue, you should see a bug reporting template available. Plea
 
 ### Issue description
 ```
-[please describe the issue in as much detail as you can]
+Provide a quick description of the bug. For example, “Distorted Text in FAQ section on <name> homepage”.
 ```
 
-### Steps to reproduce the issue
+### Steps to Reproduce a Bug
+Number the steps clearly from first to last so that the developers can quickly and exactly follow them to see the bug for themselves.
 ```
 1. 
 2. 
 3. 
 ```
 
-### What's the expected result?
+### Expected Result
+```
+How is the software supposed to work, with regard to the particular area in which the bug appears? The developer needs to know what the requirement is, in order to gauge the extent to which the bug is disrupting the user experience.
 
-### What's the actual result?
+Describe the ideal end-user scenario, and try to offer as much detail as possible. Don’t just leave it at “the website is crashing, and it shouldn’t.”
+```
 
-### Additional details
+### Actual Result
+```
+Detail what the bug is actually doing, and how it is a distortion of the expected result.
+
+- Elaborate on the issue
+- Is the software crashing?
+- Is it simply pausing in action?
+- Does an error appear?
+- Or is it simply unresponsive?
+
+For example:
+
+- “Link does not lead to the expected page. It shows a 404 error.”
+- “When clicked, the button does not do anything at all.”
+```
+
+### Environment
+A bug can appear in a particular environment and not others. For example, a bug appears when running the website on Firefox, or malfunctions only when running on an iPhone X. When reporting the bug, kindly provide the browsers and operating system details as requested below:
 
 ```
 - What browser did this occur on?
