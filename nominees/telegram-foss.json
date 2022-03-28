@@ -1,0 +1,39 @@
+{
+  "name": "Telegram-FOSS",
+  "aliases": [
+    ""
+  ],
+  "description": "A telegram fork that uses FOSS libraries, and with a focus on privacy and deletability.",
+  "website": "https://github.com/Forkgram/TelegramAndroid",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "This solution is revelant, as it allows for communications to be private and deleted when needed. This is especially useful in areas where oppresive regimes are in power.",
+      "evidenceURL": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS/blob/master/README.md"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS",
+      "name": "Main repo"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Telegram-FOSS",
+      "website": "https://matrix.to/#/#telegram-foss:matrix.org",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "nominee"
+}
