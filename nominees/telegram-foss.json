@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS",
-      "name": "Main repo"
+      "name": "main",
+      "url": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS"
     }
   ],
   "organizations": [
