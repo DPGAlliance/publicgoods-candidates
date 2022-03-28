@@ -56,7 +56,7 @@ For example:
 ```
 
 ### Environment
-A bug can appear in a particular environment and not others. For example, a bug appears when running the website on Firefox, or malfunctions only when running on an iPhone X. When reporting the bug, kindly provide the browsers and operating system details as requested below:
+A bug can appear in a particular environment and not others. For example, a bug appears when running the website on Firefox, or malfunctions only when running on an Windows 11. When reporting the bug, kindly provide the browsers and operating system details as requested below:
 
 ```
 - What browser did this occur on?
