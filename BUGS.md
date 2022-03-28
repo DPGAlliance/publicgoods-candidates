@@ -27,8 +27,8 @@ Provide a quick description of the bug. For example, “Distorted Text in FAQ se
 ### Steps to Reproduce a Bug
 Number the steps clearly from first to last so that the developers can quickly and exactly follow them to see the bug for themselves.
 ```
-1. 
-2. 
+1. Click “nominate” on the Homepage (this takes the user to the eligibity page).
+2. Click on “Submit now as a DPG Nominee” is disabled.
 3. 
 ```
 
