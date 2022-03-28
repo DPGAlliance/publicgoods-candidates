@@ -3,9 +3,11 @@
 # Reporting Bugs in the Digital Public Goods Submission Form
 
 If you find any errors during submission on the forms available at:
- 
+
+```
 * https://submission.digitalpublicgoods.net
 * https://digitalpublicgoods.net/submission (which redirects to the one above)
+```
 
 You can help us fix the error by reporting the bug. 
 
@@ -18,14 +20,16 @@ On creating a new issue, you should see a bug reporting template available. Plea
 ## The Template
 
 ### Issue description
-
+```
 [please describe the issue in as much detail as you can]
+```
 
 ### Steps to reproduce the issue
-
+```
 1. 
 2. 
 3. 
+```
 
 ### What's the expected result?
 
@@ -33,5 +37,7 @@ On creating a new issue, you should see a bug reporting template available. Plea
 
 ### Additional details
 
+```
 - What browser did this occur on?
 - What operating system did this occur on?
+```
