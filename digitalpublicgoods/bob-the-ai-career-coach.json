@@ -1,0 +1,66 @@
+{
+  "name": "Bob, the AI career coach",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://uk.hellobob.com/conditions-generales"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The project uses Mailjet as an email delivery system, but any other mailing server softwares could be used as an alternative."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/bayesimpact/bob-emploi"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Yes for the Data. \nData is collected from various open datasets. The import process is described in the source code, and relies on Makefile for retrieving the sources and python scripts for importing them in the required format.\n\nNo for the content. \nSome of the content is integrated in the source, but most of it is in a privately owned account on Airtable. We are currently working on making this content open."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Terms of services: https://uk.hellobob.com/conditions-generales  and privacy policy: https://uk.hellobob.com/vie-privee"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "- Responsive: Thought and built for all devices, whatever the screen size and user interaction (touch, click) - Design with/for the User: User research is a key part of the design process, and user testing is done on a regular basis for improvement - Basic Design criteria Button sizes, color constrast, ... - Data-driven: Continuous improvement based on analytics, impact metrics driving evolution - Collaborative: Bayes Impact organization strives to share its insight, strategies and resources, notably on citizen-led public service, with the whole data-for-good community. These key insight are mostly gained from working on Bob product. - Design for scale: Bob is made for easily being exported to different regions or countries, using both an internationalization of its content, and a possibility of importing data from extraneous sources. It has already been deployed with local specificities in France, the UK and the USA. - Privacy & Security: Bob is designed and developed in a privacy-by-design state of mind. Its sole beneficaries are users, and their data is not communicated to any third parties outside the scope of continuous improvement"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We decided from the get-go, during the conception phase not do include machine learning as there was a high risk of reproducing labor market bias and harm jobseeker in providing them with false advice or advice that would reproduce actual problem. Also, we have built Bob to empower people in taking actions and not lock them up in a one solution for all problem type of product. Bob is presenting the jobseeker with different strategies and action to take and jobseeker have the possibility to go and do the actual actions or not. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "email / name, authentication IDs; 3rd party IDs (support, analytics)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "France",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}
