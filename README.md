@@ -27,6 +27,10 @@ Refer to the additional documentation on the following topics:
 
 Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
 
+## Bugs
+
+If you notice anything amiss, refer to [BUGS.md](BUGS.md) on how to report bugs.
+
 ## :memo: License
 
 ```
