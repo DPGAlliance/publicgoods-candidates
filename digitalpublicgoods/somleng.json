@@ -1,0 +1,103 @@
+{
+  "name": "Somleng",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/somleng/somleng"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.somleng.org/docs.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The non-PII data can be accessed via an API"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "To the best of our knowledge, Somleng does not store any PII for the beneficiaries. The only potential PII that we collect and store is the beneficiary phone number. As such, as an open source project, we do not think GDPR applies to Somleng."
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://github.com/somleng/somleng-project/blob/master/Privacy.md",
+      "NGOs might decide to collect PII information for their specific use-case. We strongly recommend that NGOs do not collect this information if not required."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "JSONAPI",
+      "JWT (RFC 7519)",
+      "TLS 1.3 (RFC 8446)",
+      "TOTP (RFC6238)"
+    ],
+    "evidenceStandardSupport": [
+      "JSONAPI -  https://www.somleng.org/docs/carrier_api/#create-an-account",
+      "JWT (RFC 7519) - https://www.somleng.org/docs/carrier_api/#webhooks",
+      "TLS 1.3 (RFC 8446) - https://www.ssllabs.com/ssltest/analyze.html?d=somleng.org&s=13.35.122.35&latest",
+      "TOTP (RFC6238) - https://github.com/somleng/somleng/blob/develop/spec/system/dashboard/authentication_spec.rb#L4"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Somleng recommends the cloud hosting option, this is the most cost effective, reliable, and secure option. While using the cloud hosting option users are protected by our privacy policy (https://github.com/somleng/somleng-project/blob/master/Privacy.md)"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Phone Number",
+        "Email Address"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "While using our service, we may ask you to provide Us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to: phone, email, usage data"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Cambodia"
+    ],
+    "deploymentCountries": [
+      "Cambodia",
+      "Somalia",
+      "Sierra Leone",
+      "Ghana",
+      "India",
+      "Pacific Islands"
+    ]
+  }
+}
