@@ -9,6 +9,10 @@
     {
       "spdx": "ODC-By-1.0",
       "licenseURL": "https://data-downloads.evictionlab.org/"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/EvictionLab/eviction-maps/blob/development/LICENSE"
     }
   ],
   "SDGs": [
@@ -31,12 +35,17 @@
   ],
   "sectors": [],
   "type": [
-    "data"
+    "data",
+    "software"
   ],
   "repositories": [
     {
       "name": "main",
       "url": "https://data-downloads.evictionlab.org/"
+    },
+    {
+      "name": "Data visualization tool",
+      "url": "https://github.com/EvictionLab/eviction-maps"
     }
   ],
   "organizations": [
