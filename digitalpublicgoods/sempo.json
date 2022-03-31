@@ -5,9 +5,9 @@
     "copyrightURL": "https://withsempo.com/legal/platform-terms"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Amazon SES can easily be replaced with open alternatives for sending mail such as Flask-mail (https://flask-mail.readthedocs.io/en/latest/), a library which abstracts the SMTP interface"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
