@@ -1,0 +1,51 @@
+{
+  "name": "TruBidget",
+  "aliases": [
+    ""
+  ],
+  "description": "A blockchain-based workflow tool for an efficient and transparent project management",
+  "website": "https://trubudget.net/",
+  "license": [
+    {
+      "licenseURL": "https://github.com/openkfw/TruBudget/blob/master/LICENSE",
+      "spdx": "GPL-3.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Through the use of new, disruptive technologies, TruBudget improves the exchange of and access to innovations.",
+      "evidenceURL": "https://trubudget.net/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "TruBudget provides a tool that supports trustful cooperation between different actors of international cooperation and also within the partner countries, it enables a more efficient, purposeful and faster implementation of projects. The transparency created will have a positive effect on the misuse of funds.",
+      "evidenceURL": "https://trubudget.net/"
+    },
+    {
+      "SDGNumber": 1,
+      "evidenceText": "TruBudget creates the potential to dramatically improve collaboration to achieve impact, strengthening the overall impact of actions to achieve the SDGs. By reducing transaction costs, more funds are ultimately available for the implementation of development-relevant measures.",
+      "evidenceURL": "https://trubudget.net/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "TruBudget",
+      "url": "https://github.com/openkfw/TruBudget"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "KfW",
+      "website": "https://www.kfw.de/kfw.de-2.html",
+      "org_type": "funder",
+      "contact_name": "Dr Ronald Steyer",
+      "contact_email": "ronald.steyer@kfw.de"
+    }
+  ],
+  "stage": "nominee"
+}
