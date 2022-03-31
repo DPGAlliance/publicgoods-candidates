@@ -1,5 +1,5 @@
 {
-  "name": "TruBidget",
+  "name": "TruBudget",
   "aliases": [
     ""
   ],
@@ -7,11 +7,16 @@
   "website": "https://trubudget.net/",
   "license": [
     {
-      "licenseURL": "https://github.com/openkfw/TruBudget/blob/master/LICENSE",
-      "spdx": "GPL-3.0"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openkfw/TruBudget/blob/master/LICENSE"
     }
   ],
   "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "TruBudget creates the potential to dramatically improve collaboration to achieve impact, strengthening the overall impact of actions to achieve the SDGs. By reducing transaction costs, more funds are ultimately available for the implementation of development-relevant measures.",
+      "evidenceURL": "https://trubudget.net/"
+    },
     {
       "SDGNumber": 9,
       "evidenceText": "Through the use of new, disruptive technologies, TruBudget improves the exchange of and access to innovations.",
@@ -21,11 +26,6 @@
       "SDGNumber": 17,
       "evidenceText": "TruBudget provides a tool that supports trustful cooperation between different actors of international cooperation and also within the partner countries, it enables a more efficient, purposeful and faster implementation of projects. The transparency created will have a positive effect on the misuse of funds.",
       "evidenceURL": "https://trubudget.net/"
-    },
-    {
-      "SDGNumber": 1,
-      "evidenceText": "TruBudget creates the potential to dramatically improve collaboration to achieve impact, strengthening the overall impact of actions to achieve the SDGs. By reducing transaction costs, more funds are ultimately available for the implementation of development-relevant measures.",
-      "evidenceURL": "https://trubudget.net/"
     }
   ],
   "sectors": [],
@@ -34,7 +34,7 @@
   ],
   "repositories": [
     {
-      "name": "TruBudget",
+      "name": "main",
       "url": "https://github.com/openkfw/TruBudget"
     }
   ],
