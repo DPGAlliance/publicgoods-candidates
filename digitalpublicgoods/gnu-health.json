@@ -26,7 +26,7 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "https://en.wikibooks.org/wiki/GNU_Health/Code_of_Conduct"
+      "Privacy policy - https://www.gnusolidario.org/privacy-policy.html"
     ]
   },
   "standards": {
@@ -58,10 +58,10 @@
       "dataSharingCircumstances": [
         ""
       ],
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "We do not collect personal information on any GNU Solidario site, except 'my.gnusolidario.org', that holds our members. The GNU Solidario member site (My GNU Solidario) may collect the following information from our members: Name and job title, Contact information including email address, Demographic information such as postcode, preferences and interests and Other information relevant to customer surveys and/or offers."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown",
+      "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
@@ -70,7 +70,10 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The nature of the project - health care information systems - is a very special topic that requires experience and and expert knowledge. As such, it does not attract underage users, and we have not noticed any underage users. neither online nor in presene. The community is so small that we know each other in person"
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Code of Conduct (https://en.wikibooks.org/wiki/GNU_Health/Code_of_Conduct)",
