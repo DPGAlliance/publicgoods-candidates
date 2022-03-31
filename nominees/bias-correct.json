@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/EskaleraInc/catalyst-bias-correct",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/EskaleraInc/catalyst-bias-correct"
+    }
+  ],
   "organizations": [
     {
       "name": "Catalyst",

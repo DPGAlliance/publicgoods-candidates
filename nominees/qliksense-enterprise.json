@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/qlik-oss/qliksense-k8s",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/qlik-oss/qliksense-k8s"
+    }
+  ],
   "organizations": [
     {
       "name": "Qlik",

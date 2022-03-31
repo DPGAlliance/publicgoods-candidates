@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/WildbookOrg/Wildbook",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WildbookOrg/Wildbook"
+    }
+  ],
   "organizations": [
     {
       "name": "Wildme",

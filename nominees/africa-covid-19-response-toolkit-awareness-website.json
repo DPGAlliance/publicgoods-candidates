@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/awareness-website",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/africa-covid-19-response-toolkit/awareness-website"
+    }
+  ],
   "organizations": [
     {
       "name": "Ethiopia COVID-19 Response Team",

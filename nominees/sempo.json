@@ -1,6 +1,9 @@
 {
   "name": "Sempo",
-  "description": "Inclusive payments for emerging markets",
+  "aliases": [
+    ""
+  ],
+  "description": "Sempo crypto financial inclusion infrastructure with USSD, Android and NFC Payments",
   "website": "https://withsempo.com/",
   "license": [
     {
@@ -10,34 +13,44 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.oxfam.org/en/unblocked-cash-project-using-blockchain-technology-revolutionize-humanitarian-aid"
     },
     {
-      "SDGNumber": 8
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.oxfam.org/en/unblocked-cash-project-using-blockchain-technology-revolutionize-humanitarian-aid"
     },
     {
-      "SDGNumber": 9
-    },
-    {
-      "SDGNumber": 10
+      "SDGNumber": 10,
+      "evidenceURL": "https://www.oxfam.org/en/unblocked-cash-project-using-blockchain-technology-revolutionize-humanitarian-aid"
     }
   ],
-  "sectors": [
-    "Economics/Finance",
-    "Humanitarian",
-    "Transparency & Accountability",
-    "NGO"
-  ],
+  "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/teamsempo/SempoBlockchain",
+  "repositories": [
+    {
+      "name": "SempoBlockchain",
+      "url": "https://github.com/teamsempo/SempoBlockchain"
+    },
+    {
+      "name": "SempoMobileApp",
+      "url": "https://github.com/teamsempo/SempoMobileApp"
+    },
+    {
+      "name": "Sempo Mobile App host delegator",
+      "url": "https://github.com/teamsempo/GoDelegate"
+    }
+  ],
   "organizations": [
     {
       "name": "Sempo",
       "website": "https://withsempo.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Tristan Cole",
+      "contact_email": "tristan@withsempo.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

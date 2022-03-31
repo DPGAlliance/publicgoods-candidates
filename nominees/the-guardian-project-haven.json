@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/guardianproject/haven",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/guardianproject/haven"
+    }
+  ],
   "organizations": [
     {
       "name": "The Guardian Project",

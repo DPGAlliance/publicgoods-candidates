@@ -14,6 +14,7 @@ Below are some of the common best practices and principles implemented by severa
 * Test driven development
 * Continous Integration & Continous Deployment (CI/CD)
 * Rapid application development
+* Code Review
 
 #### Architectural Design
 * [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
@@ -23,6 +24,7 @@ Below are some of the common best practices and principles implemented by severa
 * Security & Consented Access
 * Universal Access & Open APIs
 * Microservices architecture
+* [SOLID principles of object oriented programming](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
 #### Cloud Computing
 * [AWS Best Practices For Cloud Environments](https://aws.amazon.com/blogs/publicsector/aws-well-architected-framework-best-practices-for-building-and-deploying-an-optimized-cloud-environment/)
@@ -55,6 +57,7 @@ Below are some of the common best practices and principles implemented by severa
 #### Open Source 
 * [Best practices For Open Source Maintainers](https://opensource.guide/best-practices/)
 * [Google Open Source](https://opensource.google/docs/)
+* [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/)
 
 #### Best practices to help secure your IT resources:
 * Create strong passwords for username/ password authentication

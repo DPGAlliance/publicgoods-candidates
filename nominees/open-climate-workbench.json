@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/apache/climate",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/apache/climate"
+    }
+  ],
   "organizations": [
     {
       "name": "Apache",

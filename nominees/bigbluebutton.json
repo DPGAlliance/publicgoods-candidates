@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/bigbluebutton/bigbluebutton",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bigbluebutton/bigbluebutton"
+    }
+  ],
   "organizations": [
     {
       "name": "BigBlueButton",

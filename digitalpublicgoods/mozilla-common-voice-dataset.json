@@ -1,0 +1,96 @@
+{
+  "name": "Mozilla Common Voice dataset",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://commonvoice.mozilla.org/en/terms"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/common-voice/",
+      "https://github.com/common-voice/cv-dataset",
+      "https://commonvoice.mozilla.org/en/about"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Downloads can be done in MP3 format here - https://commonvoice.mozilla.org/en/datasets"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://commonvoice.mozilla.org/en/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "JSON",
+      "ISO 639-1 codes"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/common-voice/cv-dataset/tree/main/datasets",
+      "https://github.com/common-voice/cv-dataset"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://commonvoice.mozilla.org/en/terms - age limits, keeping list of downloaders for right to be forgotten, reducing dataset mirroring and forking, community participation guidelines in place, active community manager"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "email addresses"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Account data. You do not need to create an account to use Common Voice. If you decide to create an account, we receive your username and avatar, if you submit one. Your email address is associated with your demographic and interaction data but is not shared to the public. We display leaderboards showing the number of recordings users make. You have the option whether or not you wish to appear on the leaderboards. You can delete your account at any time and your username and email will be removed. For more details - https://commonvoice.mozilla.org/en/privacy"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "children cannot participate without a guardian as per /terms"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://www.mozilla.org/en-US/about/governance/policies/participation/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada",
+      "United States of America",
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}

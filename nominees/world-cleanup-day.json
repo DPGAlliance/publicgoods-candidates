@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/letsdoitworld/World-Cleanup-Day",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/letsdoitworld/World-Cleanup-Day"
+    }
+  ],
   "organizations": [
     {
       "name": "Let's Do It!",

@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/code-dot-org/blockly",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/code-dot-org/blockly"
+    }
+  ],
   "organizations": [
     {
       "name": "Code.org",

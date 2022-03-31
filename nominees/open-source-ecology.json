@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenSourceEcology/cross-platform-python-gui",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenSourceEcology/cross-platform-python-gui"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Source Ecology",

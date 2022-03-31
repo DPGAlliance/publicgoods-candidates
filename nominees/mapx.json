@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/unep-grid/map-x-mgl",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unep-grid/map-x-mgl"
+    }
+  ],
   "organizations": [
     {
       "name": "UNEP",

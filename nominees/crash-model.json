@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Data4Democracy/crash-model",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Data4Democracy/crash-model"
+    }
+  ],
   "organizations": [
     {
       "name": "Data for Democracy",

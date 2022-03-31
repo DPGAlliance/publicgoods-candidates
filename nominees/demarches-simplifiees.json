@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/betagouv/demarches-simplifiees.fr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/demarches-simplifiees.fr"
+    }
+  ],
   "organizations": [
     {
       "name": "Beta.Gouv",
