@@ -40,7 +40,12 @@
     "software",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/kimetrica/MERON_api",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kimetrica/MERON_api"
+    }
+  ],
   "organizations": [
     {
       "name": "Kimetrica LLC",
@@ -50,5 +55,5 @@
       "contact_email": "allan.kinoti@kimetrica.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

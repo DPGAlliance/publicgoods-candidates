@@ -1,0 +1,51 @@
+{
+  "name": "Akita",
+  "aliases": [
+    ""
+  ],
+  "description": "A browser extension that gives you insight into your engagement with Web Monetization. Web Monetization is an emerging idea that’s paving the way for a more open, fair and inclusive web, to better support both users and creators. Web Monetization provides a way for micropayments to be streamed anonymously from users to websites.  In May 2020, we learned about Web Monetization. A few keywords stood out to us: open, fair and inclusive. These words weren’t something we were used to seeing amongst monetization on the web, which generally involves targeted ads, paywalls and other unfortunate things.  But we found ourselves struggling to understand and find resources to learn about Web Monetization. To tackle this problem, we began the Akita project. We are creating resources which introduce Web Monetization through storytelling, easy-to-use tools and community outreach.",
+  "website": "https://akitaproject.site",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/esse-dev/akita/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/esse-dev/akita/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Overall, our goal with Akita is to increase Web Monetization exposure and awareness, and to help people understand how Web Monetization fits in with their regular browsing. We want to give people who aren’t using a Web Monetization provider a way to engage in payment streaming. As more Web Monetization providers pop up, users can choose providers that fit their needs based on the browsing data presented by Akita.",
+      "evidenceURL": "https://github.com/esse-dev/akita"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Web Monetization is an exciting new concept! It's paving the way for a more open, fair and inclusive web, to better support both users and creators.",
+      "evidenceURL": "https://github.com/esse-dev/akita"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/esse-dev/akita"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Akita",
+      "website": "https://akitaproject.site",
+      "org_type": "funder",
+      "contact_name": "Akita",
+      "contact_email": "AkitaFeedback@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}

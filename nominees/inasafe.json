@@ -1,7 +1,10 @@
 {
-  "name": "InaSafe",
-  "description": "A QGIS plugin for estimating impact from natural disasters.",
-  "website": "",
+  "name": "InaSAFE",
+  "aliases": [
+    ""
+  ],
+  "description": "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
+  "website": "https://inasafe.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -10,19 +13,28 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 13
+      "SDGNumber": 3,
+      "evidenceText": "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
+      "evidenceURL": "http://inasafe.org/wp-content/uploads/2016/08/Case-Study-InaSAFE-in-Disaster-Risk-Assessment-in-South-Sulawesi_Final.pdf"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/inasafe/inasafe",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/inasafe/inasafe"
+    }
+  ],
   "organizations": [
     {
-      "name": "InaSafe",
-      "website": "https://inasafe.org/",
-      "org_type": "owner"
+      "name": "Kartoza",
+      "website": "https://kartoza.com",
+      "org_type": "maintainer",
+      "contact_name": "Tim Sutton",
+      "contact_email": "info@kartoza.com"
     }
   ],
   "stage": "nominee"

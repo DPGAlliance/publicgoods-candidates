@@ -1,5 +1,5 @@
 {
-  "name": " Oky",
+  "name": "Oky",
   "description": "Oky is the world's first mobile phone period tracker app designed for and with adolescent girls.",
   "website": "https://okyapp.info/",
   "license": [
@@ -34,7 +34,12 @@
     "software",
     "content"
   ],
-  "repositoryURL": "https://github.com/alextyers/period-tracker-app-whitelabelled",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/alextyers/period-tracker-app-whitelabelled"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",
@@ -42,5 +47,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

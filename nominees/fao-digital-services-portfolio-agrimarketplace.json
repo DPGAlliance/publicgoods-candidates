@@ -41,10 +41,14 @@
     "Agriculture"
   ],
   "type": [
-    "data",
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "FAO",
@@ -54,5 +58,5 @@
       "contact_email": "henry.burgsteden@fao.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

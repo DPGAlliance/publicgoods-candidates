@@ -1,0 +1,109 @@
+{
+  "name": "Altinn",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Altinn/altinn-studio/blob/master/LICENSE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Contributing to Altinn Studio: https://github.com/Altinn/altinn-studio/",
+      "Architecture: https://docs.altinn.studio/architecture/",
+      "Development Handbook: https://docs.altinn.studio/community/contributing/handbook/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Provides APIs documented using Swagger. In addition to that, JSON Schema or XSD is used as open data formats"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "Norwegian Law - Norwegian Data Protection Authority"
+    ],
+    "adherenceSteps": [
+      "https://www.altinn.no/en/start-and-run-business/running-business/privacy/",
+      "Privacy policy: https://www.altinn.no/om-altinn/personvern/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "We use BPMN 2.0 to define the process for applications",
+      "We use XACML 3.0 to define authorization policies for applications",
+      "We use JSON as general format"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.altinn.studio/technology/architecture/principles/#web-standards"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Free and open-source software. The components and solutions in Altinn 3 are Free and Open Source",
+      "Web Standards. Use Web Standards",
+      "Build with modern and popular frameworks. When choosing between different technology with similar capabilites, select the most modern and popular framework.",
+      "Favor standards over custom. Whenever we need to store information we favor standard formats for that information over creating a custom format.",
+      "Isolation. We should try isolate application and data own by one organization from others.",
+      "Design and build for Public Cloud. The solutions should be deployed to a public cloud solution. The architecture need to support that.",
+      "Limit cloud lock-in. The architecture should try to avoid technology that locks the platform to a specific public cloud vendor. But not for all costs. In many cases it would still make sense to choose a managed service only available in a given public cloud.",
+      "Build as microservices. The platform is built as microservices. Related functionality is grouped in to seperate applications and deployed as containers. Apps created in Altinn Studio will be deployed as microservices/apps.",
+      "Design for automation. The component should be created in a way that they support automation in development, deployment and operations.",
+      "Favor managed services. We should use manages cloud services when possible.",
+      "Security in depth. All components should authenticate and authorize requests.",
+      "Cross-platform. The components in the platform should be cross platform and can run on Microsoft Windows, Linux and MacOs.",
+      "Container technology. Applications should be deployed as containers."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We use open source technology that developers love. We try to build a community, using an open backlog and loving external contributions"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Each governmental entity designs their own data models used for collecting or sharing data, and is responsible. "
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "As an open source project we monitor both our GitHub and Slack closely",
+        "GitHub also has it’s own mechanism for reporting abuse"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Norway"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

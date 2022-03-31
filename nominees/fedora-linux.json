@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://src.fedoraproject.org/",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://src.fedoraproject.org/"
+    }
+  ],
   "organizations": [
     {
       "name": "Fedora Project",
@@ -37,5 +42,5 @@
       "contact_email": "mattdm@fedoraproject.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

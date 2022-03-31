@@ -1,0 +1,103 @@
+{
+  "name": "GlobaLeaks",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.globaleaks.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.globaleaks.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Supports a REST API for data access"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.globaleaks.org/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The software complies with ISO 37002, specific whistleblowing standard defined in 2021. It as well implement whistleblowing procedures in relation to many national and international laws and in particular in relation to the Directive (EU) 2019/1937; Within its implementation it uses only standard protocols defined by the IETF",
+      "ISO 27001",
+      "ISO 27017",
+      "ISO 27018"
+    ],
+    "evidenceStandardSupport": [
+      "https://bestpractices.coreinfrastructure.org/en/projects/3816"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Full documentation about the principles and best practices used within the project develpment: https://bestpractices.coreinfrastructure.org/en/projects/3816",
+      "Cloud Security Alliance Level 2: https://cloudsecurityalliance.org/star/registry/services/globaleaks/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Below are some of the legal features: \n - Ready-made questionnaires for compliance law \n- Bidirectional anonymous communication (comments/messages) \n - Customizable case management workflow (statuses/sub-statuses) \n - No logs of IP addresses \n Manage conflict of interest in the reporting workflow"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Below is a list of the security features: \n- Full data encryption of whistleblower reports and recipient communication \n - Digital anonymity support with Tor integration \n -Built-in HTTPS support with TLS 1.3 standard (SSLabs A+ rating) \n -Automatic free digital certificate enrollment (Let’s Encrypt) \n - Multiple penetration tests with full public reports \n - Conform to industry standards and best practices for application security (OWASP) \n - \nTwo-Factor authentication (2FA) support compliant with standard TOTP RFC 6238 \n Integrated network sandboxing with iptables \n - Integrated application sandboxing with AppArmor \n - Complete protection against automated submissions (spam prevention)  \n - Subject to continuous peer-review and periodic security audits \n - PGP support for encrypted email notifications \n - Does not leave traces in browser cache"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "- Nominated Community Lead",
+        "- Large set of contributing guidelines: https://github.com/globaleaks/GlobaLeaks/blob/main/CONTRIBUTING.md",
+        "- Quite complete Governance Model compliant with best open source guidelines: https://github.com/globaleaks/GlobaLeaks/blob/main/GOVERNANCE.md",
+        "- Documented best practices adopted by the project: https://bestpractices.coreinfrastructure.org/en/projects/3816"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Strict Code of Conduct: https://github.com/globaleaks/GlobaLeaks/blob/main/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mexico",
+      "Madagascar",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Italy",
+      "Spain",
+      "France",
+      "Netherlands",
+      "Germany"
+    ]
+  }
+}

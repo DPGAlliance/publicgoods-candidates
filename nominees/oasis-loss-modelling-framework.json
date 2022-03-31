@@ -1,0 +1,42 @@
+{
+  "name": "Oasis Loss Modelling Framework",
+  "aliases": [
+    "Oasis LMF"
+  ],
+  "description": "The Oasis Loss Modelling Framework provides an open source platform for developing, deploying and executing catastrophe models. ",
+  "website": "https://oasislmf.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/OasisLMF/OasisLMF/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Oasis LMF seeks to unlock and change the world around catastrophe modelling to better understand risk in insurance and beyond.  While its development is largely driven by the global (re-)insurance community, it seeks to provide tools and utility to all. Their ecosystem consists of more than 18 suppliers covering over 90 models.",
+      "evidenceURL": "https://www.artemis.bm/news/catastrophe-loss-modelling-framework-oasis-launches/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OasisLMF/OasisLMF"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Oasis Loss Modelling Framework",
+      "website": "https://oasislmf.org/",
+      "org_type": "owner",
+      "contact_name": "Julia Arevalo",
+      "contact_email": "julia.arevalo@oasislmf.org"
+    }
+  ],
+  "stage": "nominee"
+}

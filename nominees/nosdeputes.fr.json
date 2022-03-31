@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/regardscitoyens/nosdeputes.fr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/regardscitoyens/nosdeputes.fr"
+    }
+  ],
   "organizations": [
     {
       "name": "Regards Citoyens",

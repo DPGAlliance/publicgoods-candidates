@@ -29,7 +29,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/coronasafe/care/blob/master/LICENSE",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/coronasafe/care/blob/master/LICENSE"
+    }
+  ],
   "organizations": [
     {
       "name": "Coronasafe Network",
@@ -39,5 +44,5 @@
       "contact_email": "bodhish@gmail.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

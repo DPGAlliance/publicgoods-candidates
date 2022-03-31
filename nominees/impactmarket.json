@@ -1,0 +1,41 @@
+{
+  "name": "impactMarket",
+  "aliases": [
+    ""
+  ],
+  "description": "impactMarket is a decentralised poverty alleviation protocol. It enables any vulnerable community to implement poverty alleviation mechanisms, like Unconditional Basic Income. ",
+  "website": "https://www.impactmarket.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/impactMarket/api/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Cash transfers, when unconditional, increase total expenditure and consumption at the individual household level, thereby contributing to poverty reduction. On top of this, using blockchain technology and Valora, mobile first approach, impactMarket is able to reach the most vulnerable communities that are unbanked, providing financial services to those who do not even have official forms of identification.Finally with, automation via smart contracts, no intermediaries are required for transactions, which means no operational costs. ",
+      "evidenceURL": "https://medium.com/impactmarket/blockchain-driven-ubi-a-pathway-to-womens-empowerment-6c2059805f11"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/impactMarket/api"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "impactLabs",
+      "website": "https://www.impactmarket.com/",
+      "org_type": "implementer",
+      "contact_name": "Marco Barbosa",
+      "contact_email": "marco@impactmarket.com"
+    }
+  ],
+  "stage": "nominee"
+}
