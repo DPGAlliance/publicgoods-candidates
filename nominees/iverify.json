@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/undp/iVerify-Apps",
-      "name": "iVerify Apps "
+      "name": "iVerify Apps",
+      "url": "https://github.com/undp/iVerify-Apps"
     }
   ],
   "organizations": [
