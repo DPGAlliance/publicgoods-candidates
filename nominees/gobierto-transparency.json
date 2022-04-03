@@ -1,0 +1,43 @@
+{
+  "name": "Gobierto Transparency",
+  "aliases": [
+    ""
+  ],
+  "description": "Gobierto is a Rails app that provides a set of tools to power efforts from public administrations towards transparency and citizen engagement, to enable them to communicate better with their constituents and put public open data to work. ",
+  "website": "https://gobierto.es/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/PopulateTools/gobierto/blob/master/LICENSE-AGPLv3.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "By providing better info about how government works and engaging citizens in public matters",
+      "evidenceURL": "https://populate.tools/blog/gobierto"
+    }
+  ],
+  "sectors": [
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Frontend & backend",
+      "url": "https://github.com/PopulateTools/gobierto"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Populate",
+      "website": "https://populate.tools",
+      "org_type": "owner",
+      "contact_name": "Alvaro Ortiz",
+      "contact_email": "alvaro@populate.tools"
+    }
+  ],
+  "stage": "nominee"
+}
