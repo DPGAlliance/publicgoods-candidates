@@ -2,10 +2,12 @@
   "name": "Boxtribute",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/boxwise"
+    "copyrightURL": "https://www.boxtribute.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -15,7 +17,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -30,13 +34,17 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
-      "https://spherestandards.org"
+      "HMTL",
+      "CSS",
+      "JavaScript",
+      "REST",
+      "JSON"
     ],
     "evidenceStandardSupport": [
       "https://drive.google.com/file/d/1uydhO--UtSx8VK_V9bHqj_4Qi-mO8OdP/view?usp=sharing"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Design with the User: we work closely with other organizations on the field and build trust as former field workers ourselves",
       "Understand the Existing Ecosystem: One of our core principles is try to patch the gaps in the humanitarian system, and reduce the areas of duplication and overlap. In fact, our software is designed specifically for that purpose, and we try to follow that principle as well in our own design and operations.",
@@ -56,20 +64,29 @@
         "We register beneficiaries as a data processor for participating partner organizations. "
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We collect no data on our website. It's not really a content or interaction platform. This is more about logistical cooperation in the field for humanitarian aid."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "For our users, this is not relevant as it's not a content or interaction platform. For our team, we do not accept any underage people."
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "It's not really a content or interaction platform, so this is not really relevant. This is more about logistical cooperation in the field for humanitarian aid. "
-      ],
-      "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "For our users, this is not relevant as it's not a content or interaction platform. For our team, we do not accept any underage people."
       ]
     }
   },
