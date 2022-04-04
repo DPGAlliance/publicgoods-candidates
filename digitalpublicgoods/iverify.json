@@ -2,7 +2,7 @@
   "name": "iVerify",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://digital.undp.org/content/digital/en/home/stories/ai-powered-fact-checking-tool-iverify--piloted-during-zambia-ele.html"
+    "copyrightURL": "https://github.com/undp/iVerify-Apps#readme"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
@@ -30,21 +30,21 @@
       "USA: California Consumer Privacy Act (CCPA)"
     ],
     "adherenceSteps": [
-      "Terms of Use: https://iverify.org.zm/terms-of-use/ ",
-      "Privacy Policy: https://iverify.org.zm/privacy-policy/ ",
-      "Cookie Policy: https://iverify.org.zm/cookie-policy/ ",
-      "Cookie Consent Tool: https://iverify.org.zm/wp-admin/edit.php?post_type=cookielawinfo&page=cookie-law-info "
+      "Terms of Use - https://iverify.org.zm/terms-of-use/ ",
+      "Privacy Policy - https://iverify.org.zm/privacy-policy/",
+      "Cookie Policy - https://iverify.org.zm/cookie-policy/ ",
+      "Cookie Consent Tool - https://iverify.org.zm/wp-admin/edit.php?post_type=cookielawinfo&page=cookie-law-info "
     ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "Accessibility •\tWCAG 2.0/2.1 (Web Content Accessibility Guidelines) Security •\tHTTPS •\tSSL •\tSSH •\tAES Authentication & Authorization •\tOAuth 2 •\tJWT (JSON Web Tokens) •\tSAML (Security Assertion Markup Language) Internationalization (i18n) •\tUTF-8 •\tISO-8859-1 •\tASCII Web standards •\tHTML •\tCSS •\tECMAScript (ES 5/6/7) •\tLatex Software Architectural Styles •\tREST (Representational State Transfer) Application Programming Interfaces (APIs) •\tOpenAPI Data Exchange formats •\tJSON (JavaScript Object Notation) •\tXML (Extensible Markup Language) •\tCSV (Comma Separated Values) Software Quality Assurance •\tIEEE Software Testing •\tIEEE829 Credentialing •\tW3C VC Multimedia •\tSVG (Scalable Vector Graphics) •\tPNG (Portable Network Graphics) •\tJPEG (Joint Photographic Experts Group)"
     ],
     "evidenceStandardSupport": [
       "https://github.com/undp/iVerify-Apps#components"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles of Digital Development"
     ]
@@ -60,7 +60,11 @@
         "iVerify collects PII data on the volunteer. -\tName -\tphone numbers /WhatsApp numbers  All are kept private. 1.\tPrivacy Requirements a.\tPrivacy Audit with each new country deployment b.\tNot sharing personally identifiable information (PII) c.\tAny PII is transmitted over an encrypted internet connecting. d.\tStrict access controls  i.\tAdmin – UNDP only (access administration) ii.\tUsers – Viewing non-individual information e.\tAdherence to national laws f.\tTransparency i.\tAny and all external requests for data will be published 2.\tSecurity Requirements a.\tRisk assessment with each new country deployment  b.\tSecurity Audits with each new country deployment i.\tCritical issues must be patched. Non-critical issues should be patched. c.\tPasswords: strength requirement  d.\tTwo-factor authentication (2FA): available; not required  e.\tAdherence to national laws f.\tAdherence to UNDP data principles: https://data.undp.org/data-principles "
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Sensitive Information - We do not process sensitive information."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -71,7 +75,15 @@
       "illegalContentDetectionMechanism": "All content presented publicly has a strict moderation policy that is described in detail in our user manual https://github.com/undp/iVerify-Apps/blob/main/iVerify%20Manual%20v1_2.docx"
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
