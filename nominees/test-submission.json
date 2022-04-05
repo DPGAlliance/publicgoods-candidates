@@ -1,0 +1,39 @@
+{
+  "name": "Test Submission",
+  "aliases": [
+    "Test Submission"
+  ],
+  "description": "Test Submission",
+  "website": "http://testsubmission.org",
+  "license": [
+    {
+      "spdx": "APSL-2.0",
+      "licenseURL": "http://testsubmission.org"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "asdf",
+      "evidenceURL": "http://testsubmission.org"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "asdfd",
+      "url": "http://testsubmission.org"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "asdfadsf",
+      "website": "http://testsubmission.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
