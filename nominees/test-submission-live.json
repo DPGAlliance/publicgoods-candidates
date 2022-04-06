@@ -1,0 +1,39 @@
+{
+  "name": "Test Submission Live",
+  "aliases": [
+    "Test Submission Live"
+  ],
+  "description": "Test Submission Live",
+  "website": "http://testsubmission.live",
+  "license": [
+    {
+      "licenseURL": "http://testsubmission.live",
+      "spdx": "APL-1.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "asdfa",
+      "evidenceURL": "http://testsubmission.live"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "repo",
+      "url": "http://testsubmission.live"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Owner name",
+      "website": "http://testsubmission.live",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
