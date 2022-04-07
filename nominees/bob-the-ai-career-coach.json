@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 8,
-      "evidenceText": "Bob supports jobseeker in their jobsearch by providing them with key information and ressources. It helps them better understand how to conduct their job search and how to move on it proactively. Bob promotes decent work and economic growth as it helps people find sustainable jobs in which they have a higher chance of staying.",
+      "evidenceText": "Bob supports job seekers in their job search by providing them with key information and resources. It helps them better understand how to conduct their job search and how to move on it proactively. Bob promotes decent work and economic growth as it helps people find sustainable jobs in which they have a higher chance of staying.",
       "evidenceURL": "https://uk.hellobob.com/"
     }
   ],
@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/bayesimpact/bob-emploi",
-      "name": "Bob-emploi "
+      "name": "main",
+      "url": "https://github.com/bayesimpact/bob-emploi"
     }
   ],
   "organizations": [
