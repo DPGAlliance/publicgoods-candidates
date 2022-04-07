@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Website Visitors: Can choose to provide their name, email, and/or phone number to sign up for updates\n\nWebsite Users: staff provide username and password for management of information \n\nContent is aggregated that may include names within news stories. There is a REST API for internal use to export non-PII data in a non-proprietary format (e.g. JSON, yaml, csv). Access to the codebase does not give access to different instances of these internal APIs, eg they are secure\n\nA form exists allowing users to request access to their data. \n"
+    "nonPIIAccessMechanism": "There is a REST API for internal use to export non-PII data in a non-proprietary format (e.g. JSON, yaml, csv). Access to the codebase does not give access to different instances of these internal APIs, eg they are secure\n\nA form exists allowing users to request access to their data."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -39,14 +39,24 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Accessibility •\tWCAG 2.0/2.1 (Web Content Accessibility Guidelines) Security •\tHTTPS •\tSSL •\tSSH •\tAES Authentication & Authorization •\tOAuth 2 •\tJWT (JSON Web Tokens) •\tSAML (Security Assertion Markup Language) Internationalization (i18n) •\tUTF-8 •\tISO-8859-1 •\tASCII Web standards •\tHTML •\tCSS •\tECMAScript (ES 5/6/7) •\tLatex Software Architectural Styles •\tREST (Representational State Transfer) Application Programming Interfaces (APIs) •\tOpenAPI Data Exchange formats •\tJSON (JavaScript Object Notation) •\tXML (Extensible Markup Language) •\tCSV (Comma Separated Values) Software Quality Assurance •\tIEEE Software Testing •\tIEEE829 Credentialing •\tW3C VC Multimedia •\tSVG (Scalable Vector Graphics) •\tPNG (Portable Network Graphics) •\tJPEG (Joint Photographic Experts Group)"
+      "Accessibility - WCAG 2.0/2.1 (Web Content Accessibility Guidelines)",
+      "Security - HTTPS, SSL, SSH, AES",
+      "Authentication & Authorization - OAuth 2, JWT, SAML",
+      "Security Assertion Markup Language",
+      "Internationalization (i18n) - UTF-8, ISO-8859-1, ASCII",
+      "Web standards - HTML, CSS, ECMAScript (ES 5/6/7), Latex",
+      "Software Architectural Styles - REST, OpenAPI",
+      "Data Exchange formats - JSON, XML, CSV",
+      "Software Quality Assurance  - IEEE Software Testing, IEEE829 Credentialing, W3C VC",
+      "Multimedia - SVG, PNG, JPEG"
     ],
     "evidenceStandardSupport": [
       "https://github.com/undp/iVerify-Apps#components"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles of Digital Development"
+      "Principles of Digital Development",
+      "Strict access controls  i.\tAdmin – UNDP only (access administration) ii.\tUsers – Viewing non-individual information e.\tAdherence to national laws f.\tTransparency i.\tAny and all external requests for data will be published 2.\tSecurity Requirements a.\tRisk assessment with each new country deployment  b.\tSecurity Audits with each new country deployment i.\tCritical issues must be patched. Non-critical issues should be patched. c.\tPasswords: strength requirement  d.\tTwo-factor authentication (2FA): available; not required  e.\tAdherence to national laws f.\tAdherence to UNDP data principles: https://data.undp.org/data-principles"
     ]
   },
   "doNoHarm": {
@@ -57,14 +67,16 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "iVerify collects PII data on the volunteer. -\tName -\tphone numbers /WhatsApp numbers  All are kept private. 1.\tPrivacy Requirements a.\tPrivacy Audit with each new country deployment b.\tNot sharing personally identifiable information (PII) c.\tAny PII is transmitted over an encrypted internet connecting. d.\tStrict access controls  i.\tAdmin – UNDP only (access administration) ii.\tUsers – Viewing non-individual information e.\tAdherence to national laws f.\tTransparency i.\tAny and all external requests for data will be published 2.\tSecurity Requirements a.\tRisk assessment with each new country deployment  b.\tSecurity Audits with each new country deployment i.\tCritical issues must be patched. Non-critical issues should be patched. c.\tPasswords: strength requirement  d.\tTwo-factor authentication (2FA): available; not required  e.\tAdherence to national laws f.\tAdherence to UNDP data principles: https://data.undp.org/data-principles "
+        "iVerify collects PII data on the volunteer",
+        "- Name",
+        "- Phone numbers (WhatsApp numbers  All are kept private)"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Sensitive Information - We do not process sensitive information."
+      "privacySecurityDescription": "Privacy requirements include: \n - Privacy Audit with each new country deployment, \n - Not sharing personally identifiable information (PII) \n - Any PII is transmitted over an encrypted internet connecting."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -72,7 +84,7 @@
       "contentFilter": "Yes",
       "policyGuidelinesDocumentationLink": "https://iverify.org.zm/about-us/",
       "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "All content presented publicly has a strict moderation policy that is described in detail in our user manual https://github.com/undp/iVerify-Apps/blob/main/iVerify%20Manual%20v1_2.docx"
+      "illegalContentDetectionMechanism": "All content presented publicly has a strict moderation policy that is described in detail in our user manual https://github.com/undp/iVerify-Apps/blob/main/iVerify%20Manual%20v1_2.pdf"
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
