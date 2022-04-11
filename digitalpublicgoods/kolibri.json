@@ -20,8 +20,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be accessed/exported from Kolibri in a number of ways, including secure synchronization between devices, CSV export either offline or from the centralized Kolibri Data Portal (https://kolibri.readthedocs.io/en/latest/manage/data.html?#import-and-export-users-from-a-csv-file), or via a variety of REST API endpoints, depending on needs."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -29,8 +29,10 @@
       "General Data Protection Regulation (GDPR)"
     ],
     "adherenceSteps": [
+      "Kolibri Studio Privacy Policy - https://kolibri-studio.readthedocs.io/en/latest/privacy.html",
       "KOLIBRI STUDIO TERMS OF SERVICE - https://docs.google.com/document/d/e/2PACX-1vS1xEjo0904SC1kwzAhO9aVic5Rkc6-hyeNIljK_J9f7T8C5_HIG-N725Bo3YQSDa5ReI4VZ7nFx_o3/pub",
-      "The Kolibri Learning Platform does not collect any email addresses, and includes warnings for installation administrators, advising them of their role as data handlers."
+      "The Kolibri Learning Platform does not collect any email addresses, and includes warnings for installation administrators, advising them of their role as data handlers.",
+      "Since data is typically stored locally in this project, Learning Equality has also entered into Data Processing Agreements when data is processed through Learning Equality’s servers, on a case-by-case basis. "
     ]
   },
   "standards": {
@@ -69,7 +71,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Protections are four-fold: \n- We avoid collecting many common forms of PII in the Kolibri Learning Platform, e.g. we don’t store email addresses or phone numbers, or birth dates (just the optional birth year). \n- The demographic data (birth year and gender) fields are optional, and are not prerequisites for using the platform, allowing users for whom this information is more sensitive to opt out. \n - Personal data that is stored in the offline platform is protected by industry standard authentication and role-based authorization techniques, and only made available to the user themselves or to someone authenticated as an administrator. \n - When anonymized demographic data is reported from a device, it is reported in aggregate, in the form of the mean and standard deviation of the birth years, and the counts of users by gender. For devices with small numbers of users, these aggregate statistics are not calculated, to minimize identifiability."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
