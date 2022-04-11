@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/govdirectory/website/blob/main/README.md"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -29,7 +31,6 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "schema.org",
       "XML sitemaps"
@@ -38,6 +39,7 @@
       "https://validator.schema.org/#url=https%3A%2F%2Fwww.govdirectory.org%2Fsweden%2FQ19978223%2F",
       "https://www.xml-sitemaps.com/validate-xml-sitemap.html?op=validate-xml-sitemap&go=1&sitemapurl=https%3A%2F%2Fwww.govdirectory.org%2Fsitemap.xml&submit=Validate+Sitemap"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "The project has been developed in the open, following the criteria Code in the open, Maintain version control and Use open standards of the Standard for Public Code."
     ]
@@ -53,6 +55,9 @@
         "In the content we collect who is in charge of a public agency. We store their name and when they start and end their office."
       ],
       "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "The information is already publicly available from other sources, we just package it in another way. Privacy policy: https://foundation.wikimedia.org/wiki/Privacy_policy Terms of use: https://foundation.wikimedia.org/wiki/Terms_of_Use"
     },
@@ -60,18 +65,18 @@
       "collectStoreDistribute": "Yes",
       "type": "It stores information about government agencies that are already publicly available in other sources.",
       "contentFilter": "Yes",
-      "illegalContentDetection": "Yes",
       "policyGuidelinesDocumentationLink": "https://foundation.wikimedia.org/wiki/Terms_of_Use",
+      "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "The Wikimedia process consists of several layers of detecting, reporting and removing content. Since every edit is stored and is logged anyone can inspect the edits and undo them if they are inappropriate. https://www.wikidata.org/wiki/Special:RecentChanges  There is also user defined abuse filters than can detect some types of content and either prevent them or flag them for human review. https://www.wikidata.org/wiki/Wikidata:Abuse_filter  There are administrators that can delete and censor particular troublesome content, and a process for notifying them: https://www.wikidata.org/wiki/Wikidata:Administrators%27_noticeboard"
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "With a strict code of conduct in the repository: https://github.com/govdirectory/website/blob/main/CODE_OF_CONDUCT.md",
         "With a specific Child protection policy: https://meta.wikimedia.org/wiki/Child_protection"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Users can be totally anonymous and there is a Trust and safety team to get help from: https://meta.wikimedia.org/wiki/Trust_and_Safety"
       ]
