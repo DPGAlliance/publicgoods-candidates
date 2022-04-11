@@ -31,6 +31,12 @@
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "- Responsive: Thought and built for all devices, whatever the screen size and user interaction (touch, click) - Design with/for the User: User research is a key part of the design process, and user testing is done on a regular basis for improvement - Basic Design criteria Button sizes, color constrast, ... - Data-driven: Continuous improvement based on analytics, impact metrics driving evolution - Collaborative: Bayes Impact organization strives to share its insight, strategies and resources, notably on citizen-led public service, with the whole data-for-good community. These key insight are mostly gained from working on Bob product. - Design for scale: Bob is made for easily being exported to different regions or countries, using both an internationalization of its content, and a possibility of importing data from extraneous sources. It has already been deployed with local specificities in France, the UK and the USA. - Privacy & Security: Bob is designed and developed in a privacy-by-design state of mind. Its sole beneficaries are users, and their data is not communicated to any third parties outside the scope of continuous improvement"
@@ -47,13 +53,30 @@
         "email / name, authentication IDs; 3rd party IDs (support, analytics)"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
@@ -61,6 +84,9 @@
       "France",
       "United Kingdom",
       "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
     ]
   }
 }
