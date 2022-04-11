@@ -7,8 +7,8 @@
   "website": "https://www.signal.org/",
   "license": [
     {
-      "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/openssl/openssl/blob/master/LICENSE.txt"
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/signalapp/Signal-Server/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/signalapp",
-      "name": "Signal"
+      "name": "Signal-Server",
+      "url": "https://github.com/signalapp/Signal-Server"
     }
   ],
   "organizations": [
