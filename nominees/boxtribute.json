@@ -5,13 +5,9 @@
     "Boxwise (formerly)",
     "BoxTribute"
   ],
-  "description": "An open-source digital system making it easy to source, store & distribute aid rapidly to people in need in a fair and dignified way.",
+  "description": "An open-source digital system making it easy to source, store & distribute aid rapidly to people in need in a fair and dignified way. Boxtribute provides web-app for organisations to run a free shop",
   "website": "https://www.boxtribute.org/",
   "license": [
-    {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/boxwise/dropapp/blob/master/LICENSE"
-    },
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://github.com/boxwise/boxtribute/blob/master/LICENSE.md"
@@ -37,10 +33,6 @@
     "software"
   ],
   "repositories": [
-    {
-      "name": "Current Production Application (soon to be legacy)",
-      "url": "https://github.com/boxwise/dropapp"
-    },
     {
       "name": "New Boxtribute 2.0 Application",
       "url": "https://github.com/boxwise/boxtribute"
