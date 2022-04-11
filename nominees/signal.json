@@ -1,0 +1,41 @@
+{
+  "name": "Signal",
+  "aliases": [
+    ""
+  ],
+  "description": "A FOSS and secure messaging app that fully anonymizes and secures communications between users",
+  "website": "https://www.signal.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openssl/openssl/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Signal is being used to circumvent oppressive and malicious government censorship, along with saving people's lives by giving a safe platform to coordinate and discuss without the possibility of retaliation.",
+      "evidenceURL": "https://www.businessofapps.com/news/signal-and-telegram-app-installs-jump-197-in-ukraine/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/signalapp",
+      "name": "Signal"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Signal",
+      "website": "https://www.signal.org/",
+      "org_type": "owner",
+      "contact_name": "Signal",
+      "contact_email": "github@signal.org"
+    }
+  ],
+  "stage": "nominee"
+}
