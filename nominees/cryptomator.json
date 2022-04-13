@@ -1,0 +1,46 @@
+{
+  "name": "Cryptomator",
+  "aliases": [
+    ""
+  ],
+  "description": "Easy and user-friendly folder encryption",
+  "website": "https://cryptomator.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/cryptomator/cryptomator#license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Favors association and union of people without hostile eavesdropping or interference through highest encryption standards to store, share and collaborate on files, locally or in the cloud."
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Favors association and union of people without hostile eavesdropping or interference through highest encryption standards to store, share and collaborate on files, locally or in the cloud."
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Favors association and union of people without hostile eavesdropping or interference through highest encryption standards to store, share and collaborate on files, locally or in the cloud."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Cryptomator",
+      "url": "https://github.com/cryptomator"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Skymatic",
+      "website": "https://skymatic.de/en/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
