@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/undpindia/DiCRA/blob/main/LICENSE"
+      "licenseURL": "https://github.com/undpindia/dicra/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -33,11 +33,11 @@
   "repositories": [
     {
       "name": "DiCRA",
-      "url": "https://github.com/undpindia/Data4Policy/tree/main/DiCRA%20Plaform"
+      "url": "https://github.com/undpindia/dicra"
     },
     {
-      "name": "src (source code)",
-      "url": "https://github.com/undpindia/DiCRA"
+      "name": "Data4Policy",
+      "url": "https://github.com/undpindia/Data4Policy"
     }
   ],
   "organizations": [
