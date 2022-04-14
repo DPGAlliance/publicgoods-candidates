@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/UNDPIndia/Aajeevika/blob/main/LICENSE.Apache%20Version2"
+      "licenseURL": "https://github.com/undpindia/aajeevika/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -30,7 +30,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/UNDPIndia/Aajeevika"
+      "url": "https://github.com/undpindia/aajeevika"
     }
   ],
   "organizations": [
