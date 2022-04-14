@@ -1,0 +1,55 @@
+{
+  "name": "Eco-Index Biodiversity Dashboards",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/eco-index/ecoindex-stack#readme"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Developed in accordance with the Digital Development Principles."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Two notable risk mitigation strategies include: close consultation with experts on the interface of indigenous data sovereignty in the environmental context and close coordination with thought leaders at the Stockholm Resilience Center who consider how using AI on environmental monitoring can encode harmful biases. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Environmental data from a range of sources--some APIs, some directly gathered and input manually. All data privacy considerations carefully discussed and negotiated in advance. ",
+      "contentFilter": "No",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Not a risk with our content type. "
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "New Zealand"
+    ],
+    "deploymentCountries": [
+      "New Zealand"
+    ]
+  }
+}
