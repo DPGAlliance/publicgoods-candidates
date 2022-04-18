@@ -1,0 +1,113 @@
+{
+  "name": "GNU Health",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.gnusolidario.org/about-us.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://en.wikibooks.org/wiki/GNU_Health"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "GNU Health supports HL7/FHIR standard"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.gnusolidario.org/privacy-policy.html"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7/FHIR"
+    ],
+    "evidenceStandardSupport": [
+      "https://hg.savannah.gnu.org/hgweb/health/file/aa07cb2bcb15/tryton/health/tests"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Object-orientation",
+      "Use of widely accepted standards (like gnuPG)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "On the technical layer we can enable encryption for all kinds of data."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Personal Data",
+        "Medical records, medical history, examination results"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "privacySecurityDescription": "We do not collect personal information on any GNU Solidario site, except 'my.gnusolidario.org', that holds our members. The GNU Solidario member site (My GNU Solidario) may collect the following information from our members: Name and job title, Contact information including email address, Demographic information such as postcode, preferences and interests and Other information relevant to customer surveys and/or offers."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The nature of the project - health care information systems - is a very special topic that requires experience and and expert knowledge. As such, it does not attract underage users, and we have not noticed any underage users. neither online nor in presene. The community is so small that we know each other in person"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of Conduct (https://en.wikibooks.org/wiki/GNU_Health/Code_of_Conduct)",
+        "Moderated mailing lists"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina",
+      "Spain",
+      "Jamaica",
+      "Belgium",
+      "Germany"
+    ],
+    "deploymentCountries": [
+      "Angola",
+      "Argentina",
+      "Bangladesh",
+      "Brazil",
+      "Cambodia",
+      "Cameroon",
+      "Congo (Congo-Brazzaville)",
+      "Gabon",
+      "Haiti",
+      "India",
+      "Jamaica",
+      "Kenya",
+      "Laos",
+      "Mali",
+      "Mexico",
+      "Nigeria",
+      "Philippines",
+      "Tanzania"
+    ]
+  }
+}
