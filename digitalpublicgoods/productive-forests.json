@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives."
     ],
     "adherenceSteps": [
-      "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives."
+      "Privacy policy - https://www.bioverse.io/privacy-policy"
     ]
   },
   "standards": {
