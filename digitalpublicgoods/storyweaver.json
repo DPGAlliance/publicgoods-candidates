@@ -26,7 +26,7 @@
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
       "General Data Protection Regulation (GDPR)",
-      "Applicable domestic Information Technology laws in India"
+      "ndia does not have separate Privacy legislation in place. Privacy is governed under the IT Act itself. To the best of our knowledge, the StoryWaver platform complies with all applicable and requisite provisions of the IT Act."
     ],
     "adherenceSteps": [
       "https://storyweaver.org.in/terms_and_conditions",
@@ -34,12 +34,22 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Accessibility - WCAG 2.0/2.1",
+      "Security - HTTPS, SSL, SSH",
+      "Multimedia - MP4, Ogg MP3, JPEG, PNG, SVG",
+      "Standard Content formats - PDF, ePub, WebM",
+      "Authentication & Authorization - OAuth 2, JWT",
+      "Web standards - HTML, CSS",
+      "Software Architectural Styles - REST",
+      "Application Programming Interfaces (APIs) - OpenAPI",
+      "Data Exchange formats - JSON, XML, CSV",
+      "Credentialing - W3C VC",
+      "Internationalization (i18n) - UTF-8, ISO-8859-1"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/PrathamBooks/sw-core"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -70,7 +80,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "StoryWeaver collects data at various points in order to maintain and enhance the services on the website. The types of data collected are: \n- User registration: Name and email address at the time of sign-up \n - Operational data: Specific data recorded from product usages such as form submissions, enrollment, and reading progress in a program or content downloads \n - Weblog data: Interaction with a certain page, device, or browser data, usually collected automatically. \n All these datasets are secured on private servers behind firewalls with highly-controlled access. Any data that is shared with third parties is always in aggregated or anonymized form."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
