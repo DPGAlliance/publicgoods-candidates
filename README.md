@@ -1,4 +1,4 @@
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) ![CI](https://github.com/unicef/publicgoods-candidates/workflows/CI/badge.svg)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) ![CI](https://github.com/unicef/publicgoods-candidates/workflows/CI/badge.svg)
 
 
 # Nominees, Candidates and Digital Public Goods
@@ -9,6 +9,8 @@ We define digital public goods as *open source software, open data, open AI mode
 
 
 From the set of data files found in the [nominees](nominees/) and [digitalpublicgoods](digitalpublicgoods/) folders, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
+
+Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](docs/archiving.md).
 
 ## 🙋🏽 How to nominate a Digital Public Good
 
@@ -26,6 +28,10 @@ Refer to the additional documentation on the following topics:
 ## 🛠 Development
 
 Refer to [docs/development.md](docs/development.md) for information related to doing development with this repository.
+
+## Bugs
+
+If you notice anything amiss, refer to [BUGS.md](BUGS.md) on how to report bugs.
 
 ## :memo: License
 

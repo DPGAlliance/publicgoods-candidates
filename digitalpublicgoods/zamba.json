@@ -1,8 +1,8 @@
 {
-  "name": "X-Road",
+  "name": "Zamba",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/nordic-institute/X-Road/blob/develop/LICENSE"
+    "copyrightURL": "https://github.com/drivendataorg/zamba/blob/master/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,44 +12,44 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://x-road.global/resources"
+      "https://zamba.drivendata.org/docs/stable/"
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Input/output in a CSV format: https://zamba.drivendata.org/docs/stable/predict-tutorial/#default-behavior"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "- GDPR",
-      "- All relevant Estonian domestic laws (including Public Information Act and related regulations)",
-      "- REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."
+      "The project is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any PII data."
     ],
     "adherenceSteps": [
-      "https://www.niis.org/procedure-for-use-of-data-and-data-processing"
+      "The project is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any PII data."
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "RFC6960",
-      "RFC3161",
-      "ETSITS 102 918"
+      "PEP8",
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-ss_x-road_security_server_architecture.md"
+      "https://zamba.drivendata.org/docs/stable/predict-tutorial/#default-behavior"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Following the Principles for Digital Development where applicable"
+      "CI/CD",
+      "Code review",
+      "Unit testing",
+      "Code coverage"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "https://www.niis.org/procedure-for-use-of-data-and-data-processing"
+      "additionalInfoMechanismProcessesPolicies": "The project was developed in collaboration with camera-trap experts that are very sensitive to revealing the locations of endangered species, which is why it does not publish/share any data."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -61,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://www.niis.org/procedure-for-use-of-data-and-data-processing"
+      "privacySecurityDescription": "The project was developed in collaboration with camera-trap experts that are very sensitive to revealing the locations of endangered species, which is why it does not publish/share any data."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -85,24 +85,16 @@
   },
   "locations": {
     "developmentCountries": [
-      "Estonia",
-      "Finland"
+      "United States of America",
+      "Germany"
     ],
     "deploymentCountries": [
-      "Estonia",
-      "Finland",
-      "Iceland",
-      "Faroe Islands",
-      "Azerbaijan",
-      "Argentina",
-      "Cambodia",
-      "Colombia",
-      "El Salvador",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Gabon",
       "Germany",
-      "Japan",
-      "Kyrgyzstan",
-      "Palestine State",
-      "Vietnam"
+      "United States of America",
+      "United Kingdom"
     ]
   }
 }
