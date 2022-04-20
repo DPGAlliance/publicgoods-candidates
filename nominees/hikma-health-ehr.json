@@ -1,0 +1,51 @@
+{
+  "name": "Hikma Health EHR",
+  "aliases": [
+    "Hikma Health"
+  ],
+  "description": "A free and open-source electronic health record system designed to work offline in low-resource settings.",
+  "website": "https://www.hikmahealth.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/hikmahealth/hikma-health-app/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The Hikma Health EHR enables clinicians in low-resource settings to collect and access patient health information to improve clinical decision making and improve long-term outcomes, particularly for patients with chronic illnesses.",
+      "evidenceURL": "https://www.epistemonikos.org/documents/002803bbe7f8ee7460cedc01233e26c7318282f7"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "hikma-health-app",
+      "url": "https://github.com/hikmahealth/hikma-health-app"
+    },
+    {
+      "name": "hikma-health-backend",
+      "url": "https://github.com/hikmahealth/hikma-health-backend"
+    },
+    {
+      "name": "hikma-health-admin-app",
+      "url": "https://github.com/hikmahealth/admin-app"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Hikma Health",
+      "website": "https://www.hikmahealth.org/",
+      "org_type": "owner",
+      "contact_name": "Hassaan Ebrahim",
+      "contact_email": "info@hikmahealth.org"
+    }
+  ],
+  "stage": "nominee"
+}
