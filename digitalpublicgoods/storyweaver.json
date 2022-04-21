@@ -20,7 +20,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": ""
+    "nonPIIAccessMechanism": "For accessing non-PII data from the system, we use the BI tool (powered by Metabase) and build dashboard(s) for analytics. These dashboards do have export facilities and non-PII data can be exported in CSV and PDF format(s). "
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
