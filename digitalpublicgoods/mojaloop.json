@@ -2,7 +2,7 @@
   "name": "Mojaloop",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://docs.mojaloop.io/documentation/mojaloop-background/ \n https://mojaloop.io/terms-of-use/"
+    "copyrightURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://docs.mojaloop.io/documentation/"
+      "https://docs.mojaloop.io/"
     ]
   },
   "NonPII": {
@@ -23,7 +23,8 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "EEA Data Subject"
+      "EEA Data Subject",
+      "GDPR"
     ],
     "adherenceSteps": [
       "Below are the external links to Mojaloop's terms of use, privacy policy and other relevant documentation:",
@@ -35,9 +36,10 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "PCI",
-      "DSS",
-      "GDPR"
+      "Payment Card Industry (PCI)",
+      "ISO 4217",
+      "ECMAScript",
+      "SQL"
     ],
     "evidenceStandardSupport": [
       "https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/July%202020%20Community%20Event/Presentations/Code%20Quality%20Security%20PI%2010%20Report%20-%2020%20July%202020%20v1.9%20Final.pdf"
@@ -65,15 +67,15 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://mojaloop.io/terms-of-use/ \n https://mojaloop.io/privacy-policy/"
+      "privacySecurityDescription": "https://mojaloop.io/privacy-policy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
-      "policyGuidelinesDocumentationLink": "https://github.com/mojaloop/mojaloop/blob/master/CODE_OF_CONDUCT.md",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
-      "illegalContentDetectionMechanism": "This project does not collect, store or distribute content"
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -83,7 +85,8 @@
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "https://github.com/mojaloop/mojaloop/blob/master/CODE_OF_CONDUCT.md  \n https://github.com/mojaloop/mojaloop/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.md"
+        "Code of conduct - https://github.com/mojaloop/mojaloop/blob/master/CODE_OF_CONDUCT.md",
+        "Contributor License Agreement - https://github.com/mojaloop/mojaloop/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.md"
       ]
     }
   },

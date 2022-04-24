@@ -41,11 +41,23 @@
     {
       "name": "main",
       "url": "https://github.com/mojaloop/mojaloop"
+    },
+    {
+      "name": "Central Ledger",
+      "url": "https://github.com/mojaloop/central-ledger"
+    },
+    {
+      "name": "ML API Adapter",
+      "url": "https://github.com/mojaloop/ml-api-adapter"
+    },
+    {
+      "name": "Account Lookup Service",
+      "url": "https://github.com/mojaloop/account-lookup-service"
     }
   ],
   "organizations": [
     {
-      "name": "MojaLoop",
+      "name": "Mojaloop Foundation",
       "website": "https://mojaloop.io/",
       "org_type": "owner"
     },
