@@ -1,0 +1,63 @@
+{
+  "name": "City Energy Analyst",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/CREDITS.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/acknowledgements_and_third_party_copyrights.md"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://cityenergyanalyst.com/blog/2019/6/28/getting-started-with-your-own-project-1",
+      "https://city-energy-analyst.readthedocs.io/en/latest/installation/installation.html",
+      "https://city-energy-analyst.readthedocs.io/en/latest/tutorials.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design With the User",
+      " Design for Scale",
+      "Build for Sustainability",
+      " Be Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Switzerland",
+      "Singapore"
+    ],
+    "deploymentCountries": [
+      "Switzerland",
+      "Singapore"
+    ]
+  }
+}
