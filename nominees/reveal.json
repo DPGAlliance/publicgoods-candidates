@@ -1,0 +1,63 @@
+{
+  "name": "Reveal",
+  "aliases": [
+    ""
+  ],
+  "description": "Reveal is a Digital Global Good that uses spatial intelligence to drive delivery of life-saving interventions.",
+  "website": "https://revealprecision.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/akrosinc/reveal-server/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Reveal supports microplanning and mobilization of resources, including basic social services, financial aid, or food aid. ",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Support the planning and delivery of food aid and nutrition resources to last mile communities. ",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Support the planning and delivery of health intervention campaigns including malaria, vaccination (childhood and COVAX), and neglected tropical diseases.",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "Provide support for water quality monitoring and water point availability.",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Provide disaster response survey support and targeted, responsive actions.",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Reveal 3.0",
+      "url": "https://github.com/akrosinc/reveal-server"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Akros",
+      "website": "http://akros.com/",
+      "org_type": "owner",
+      "contact_name": "Anna Winters",
+      "contact_email": "awinters@akros.com"
+    }
+  ],
+  "stage": "nominee"
+}
