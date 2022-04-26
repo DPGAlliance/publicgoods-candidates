@@ -1,0 +1,34 @@
+{
+  "name": "5Calls iOS",
+  "description": "iOS app for 5calls.org",
+  "website": "https://5calls.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/5calls/ios/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/5calls/ios"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "5Calls",
+      "website": "https://5calls.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "archive"
+}
