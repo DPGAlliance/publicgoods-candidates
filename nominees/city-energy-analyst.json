@@ -31,8 +31,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/architecture-building-systems/CityEnergyAnalyst",
-      "name": "CityEnergyAnalyst"
+      "name": "main",
+      "url": "https://github.com/architecture-building-systems/CityEnergyAnalyst"
     }
   ],
   "organizations": [
