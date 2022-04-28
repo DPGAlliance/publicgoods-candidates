@@ -1,0 +1,64 @@
+{
+  "name": "Beckn",
+  "aliases": [
+    "Beckn Protocol"
+  ],
+  "description": "Beckn protocol is an open, interoperable, and universal transaction protocol to enable the creation of a decentralized digital economy. It unbundles the idea of 2-sided platform-centric systems into multiple 1-sided platforms or applications forming an interoperable open network connected via the underlying protocol. Due to its semantic nature, Beckn protocol can be used to represent any transaction in the domain of e-commerce, mobility, health, skilling, education, etc, in a  machine-readable and digitally signed contract format, allowing interoperability in consumer-provider interactions across platforms. Such a decentralized network approach allows consumers and providers to use different applications/platforms of their choice, yet connect to the network and transact with each other.",
+  "website": "https://becknprotocol.io/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/beckn/protocol-specifications/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "By unbundling the monolithic structures, beckn catalyzes efficiency and commercial independence as well. Both the consumers and the providers are unlocked from platform centricity and thus given opportunity to do business at their own commercial terms determined by free markets. This boosts the margin for direct sellers of goods (retailer/ manufacturers, etc.), services (drivers, caterers, etc.) and improves customer centricity. ONDC is a network built on Beckn protocol. Benefits of the same is detailed in the associated link.",
+      "evidenceURL": "https://economictimes.indiatimes.com/industry/services/retail/ondc-to-help-small-retailers-serve-customers-with-modern-ways-of-delivery-piyush-goyal/articleshow/90318538.cms?from=mdr"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Creating an interoperable ecosystem where a patient can discover any health service e.g. doctor, lab test, procedures, etc., and can carry their credentials and history to any platform that they want to consume service from. One such initiative by Government of India is United Health Interface. (UHI) (Details in link)",
+      "evidenceURL": "https://abdm.gov.in/assets/uploads/consultation_papersDocs/Synopsis_Consultation_Paper_on_UHI.pdf"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "An open ecosystem where all educational institutes can participate to interoperably exchange their knowledge, resources, mentoring/tutoring services, and others. The students can also without any resistance shift from one institution to another and migrate their credentials with a single click which is acknowledged across the scope of the network. The same network built on verifiable credentials can boost easier discovery and distribution of scholarships, aids and related supports."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Beckn protocol is also being extensively used to democratize commerce and logistics to give it a shape of the future. With beckn protocol, it is being possible to make local retail shops tech-enabled and be digitally discoverable. To enable them to do business with ease, logistics and other associated services along the value chain are also being made available as additional products/services which can be conveniently configured by the provider/ consumer as per need. This is enabling digital empowerment at scale and makes commerce more inclusive across geographies. (8.2) Also on beckn protocol, a skill-ecosystem is being built to facilitate the discovery of skills and skill-providing institutes, training/skilling opportunities, a robust system of credential validation, jobs, internships, apprenticeships, and beyond. This can be utilized across industries to provide specialized skill training and recruitment, and an interoperable opportunity of global discovery which is not restricted by reach and scale. (8.5, 8.6) From an economic perspective, open networks based on beckn protocol, on one hand, increases consumption efficiency and on the other hand help build a skill and capability development ecosystem. Such a two-fold contribution towards goods, labor, technology and human capital  amplifies economic growth to a large extent. (8.1)",
+      "evidenceURL": "https://www.edexlive.com/news/2022/feb/01/desh-stack-e-portal-announced-to-create-a-digital-ecosystem-for-skill-development-27183.html"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Beckn protocol is being used to integrate mobility services across multiple modes of transport and many auxiliary services alongside and provide a rich, unified, bundled, and intuitive experience to the end consumer. It is being used to discover, fetch real-time status updates, book, and use parking lots, EV charging stations diligently to ensure maximum utilization and lesser unsolicited movements. (9.1) It can be utilized to develop cross-domain innovation, e.g. single order multi-modal commute, parcel pickup during a commute, food delivery bundled with the daily commute, etc. (9.b) It contributes a lot in cross functional innovation and more sustainable infrastructures.",
+      "evidenceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0965856418310061"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Beckn protocol allows consumers, governments, and businesses to unlock markets by enabling direct interactions among them while leveraging the power of the internet and other digital infrastructure. Beckn takes minimal footprint, as an open infrastructure specification, extracts no value or power of itself but acts as a force multiplier to the beneficiaries it serves. Beckn allows progress, restores agency to the end beneficiaries, not stifling, but rather enabling accelerated innovation - all towards achieving a better quality of experience for people on one hand and offering autonomy with ease of doing business for providers of goods and services on the other.",
+      "evidenceURL": "https://economictimes.indiatimes.com/small-biz/sme-sector/a-upi-like-platform-for-e-commerce-aims-to-break-amazon-flipkarts-hold-in-india/articleshow/90344916.cms"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Beckn protocol is being used to integrate mobility services across multiple modes of transport and many auxiliary services alongside and provide a rich, unified, bundled, and intuitive experience to the end consumer. It is being used to discover, fetch real-time status updates, book, and use parking lots, EV charging stations diligently to ensure maximum utilization and lesser unsolicited movements. Thus it contributes a lot in sustainable developments. (11.3) Open mobility networks are also integrating public-private mobility opportunities such as stitched multi-modal journeys including a bus or metro for the long haul. Thus it promotes sustainable environment goals by encouraging more and more discovery and use of public transport instead of long cab/ auto rides. It also enables the discovery of special mobility by default without expecting everyone to onboard the same platform and creating a huge adoption barrier. (11.2)"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Beckn Foundation",
+      "website": "https://becknfoundation.org/",
+      "org_type": "maintainer",
+      "contact_name": "Sujith Nair",
+      "contact_email": "sujith@becknfoundation.org "
+    }
+  ],
+  "stage": "nominee"
+}
