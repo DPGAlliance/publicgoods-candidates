@@ -1,0 +1,44 @@
+{
+  "name": "openBaraza",
+  "aliases": [
+    "openBaraza"
+  ],
+  "description": "Development framework for HR, Payroll, ERP, Micro Finance",
+  "website": "https://openbaraza.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/OpenBaraza/openBaraza/blob/main/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "By automating HR processes we help in creating a better human resource management space in organisations"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "By automating ERP processes businesses would be more efficient and more profitable"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/OpenBaraza/openBaraza",
+      "name": "openBaraza"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Dew CIS Solutions Ltd",
+      "website": "https://www.dewcis.com/",
+      "org_type": "owner",
+      "contact_name": "Dennis Gichangi",
+      "contact_email": "dennis.gichangi@dewcis.com"
+    }
+  ],
+  "stage": "nominee"
+}
