@@ -1,0 +1,76 @@
+{
+  "name": "Beckn",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://becknprotocol.io/license/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://developers.becknprotocol.io/",
+      "https://github.com/beckn/protocol-specifications/blob/master/README.md",
+      "https://developers.becknprotocol.io/docs/introduction/video-overview/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "OpenWeb Standard such as - JSON Schema"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/beckn/protocol-specifications/blob/master/core/v0/api/core.yaml"
+    ],
+    "bestPracticesList": [
+      "Interoperability via Abstraction",
+      "Optimal ignorance",
+      "Privacy and Security",
+      "Scalability",
+      "Reusability",
+      "Unification over Standardization"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The governance of beckn protocol, by design, ensures no harm to any participant however small or big it may be. The Beckn protocol is maintained via an open community-driven governance model. The community comprises multiple businesses and organizations that actively contribute to the specification to fuel their digital acceleration. The governance model for beckn protocol has been created using some of the best practices of globally recognized governance models. Being an open community, there are no registrations, no memberships and no partnerships. Just a minimal footprint of an open and equally accessible protocol that anyone can use. The credo of being an open protocol creates a level-playing field for any market player, small or large. Being governed by the consensus of all participants it ensures the safekeeping of everyone’s interest and integrity. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "There are a set of community ‘Guidelines’ and ‘Code of conduct’ which are- Shared over the website for public access Pinned in community descriptions (for channels of collaboration like discord, GitHub) Community members are asked to go through the same at the start of every call and defacto abide by the same Highlights from the guidelines are mentioned by community moderators at the very start of any discussion to ensure awareness of the participants. More details can be found here- https://becknprotocol.io/community-guidelines/",
+        "There is a specific child safety guideline (refer to section 3.6) that prohibits any content or action that may endanger the physical or mental well being of the minors. Also, when onboarding underage users to the community channels, their guardian’s consent to use the website and engage with community members through the official channels are warranted through declaration (see section 1) [https://becknprotocol.io/community-guidelines/]",
+        "The community moderators continuously monitor the community engagements. Still, all the community members are empowered and encouraged to be vigilant from their own perspectives. Any content or action that violates the community guidelines and code of conduct, can be flagged to the respective community manager anytime by any of the members. (see section 3.9) [https://becknprotocol.io/community-guidelines/]",
+        "Once a complaint is raised or a potential violation is noticed, the community managers have the complete authority to- Investigate the issue closely. It may or may not involve the community Issue a warning depending on the extent of the violation Remove the person from all community interactions Present as a case of discussion to the community"
+      ],
+      "harassmentProtectionSteps": [
+        "Through the community code of conduct, there is written empowerment of all the participants (including the individual seeking protection) to report or flag any content that may seem inappropriate and not uplift the community guidelines and standards (section 3.9) [https://becknprotocol.io/community-guidelines/]. If there are multiple comments or content or action violating the community policies, a person can report ‘the channel’ itself. These are addressed regularly by the responsible community manager and if needed the discussions can be extended to the community as well to ensure a consentaneous way of handling. One can anytime contact local law enforcement if they ever feel threatened by something they see on beckn discussions (Section 4). Also, the participants always have the choice to leave any community and rejoin without any barrier or hassle once the issues are resolved. [https://becknprotocol.io/community-guidelines/]"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
