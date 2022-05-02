@@ -27,8 +27,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/OpenBaraza/openBaraza",
-      "name": "openBaraza"
+      "name": "openBaraza",
+      "url": "https://github.com/OpenBaraza/openBaraza"
     }
   ],
   "organizations": [
