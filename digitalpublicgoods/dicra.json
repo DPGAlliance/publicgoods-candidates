@@ -1,0 +1,85 @@
+{
+  "name": "DiCRA ",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-3.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/undpindia/dicra/tree/main/docs/manuals",
+      "https://github.com/undpindia/dicra/tree/main/src",
+      "https://github.com/undpindia/dicra/tree/main/docs/infrastructure"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-6.md"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-7.md"
+    ],
+    "adherenceSteps": [
+      "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-7.md"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-8.md"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-8.md"
+    ],
+    "bestPracticesList": [
+      "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-8.md"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-9.md"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "DiCRA platform collects minimum personal information such as (1) name (2) email id of users using and contributing to this open data platform"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-9.md",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-9.md"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Directly there is no interaction between users and contributors though the platform. There is only a moderated interaction between the contributors through our GitHub account. UNDP administrators use features on Github such as Report content, Delete content and Block user to address safety and security of users connecting/participating in discussion rooms. Please read details here: https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-9.md"
+      ],
+      "harassmentProtectionSteps": [
+        "Directly there is no interaction between users and contributors though DiCRA platform. There is only a moderated interaction between the contributors through our GitHub repository. UNDP administrators facilitating such discussions use features on Github such as Report content, Delete content and Block user to protect users participating in discussion rooms against grief, abuse and harassment. Please read details here: https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-9.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
