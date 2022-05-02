@@ -31,7 +31,6 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "Secure Sockets Layer (SSL)",
       "Open Web Application Security Project",
@@ -44,6 +43,7 @@
       "https://docs.rahat.io/docs/tech_stack",
       "https://docs.rahat.io/api"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "We have developed transparent open source software in accordance with the Principles for Digital Development with close collaboration with various humanitarian agencies and with local users. ",
       "The software development process follows agile methodology for quicker and cheaper iterative development along with best practices for open-source development - contribution guidelines, documentation etc.",
@@ -64,21 +64,29 @@
         "Social mobilizers - Name, Phone Number, Email, Address  Image: social mobilizer’s profile image and Government identification document"
       ],
       "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "PII data are not publicly available and only be accessed by authorized personnel with specific roles. For example, the vendors won’t be able to access the KYC information/documentation.  The user access and privilege restricts access to specific kinds of information and features to particular roles.   Rahat has privacy policy in place - https://docs.rahat.io/privacy-policy "
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Interactions between users / contributors on this project are managed through an online forum - Discord Channel and UNICEF Innovation Open Source Network",
         "Terms of Service requires people to be over a minimum age to access our app or website. The minimum age to access forums is 13, unless local legislation mandates an older age. https://discord.com/terms#age-requirements-and-responsibility-of-parents-and-guardians and https://meta.discourse.org/tos#heading--conditions ",
         "Any underaged beneficiaries in the aid distribution program needs to be accompanied/consented by guardian(s) or parent(s) to receive relief materials and photos"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Rahat is governed by clearly stated community guidelines: https://docs.rahat.io/docs/contribution-guidelines ",
         "Forums are actively moderated by members of the Rahat core team, who can flag and remove content or comments as needed."
