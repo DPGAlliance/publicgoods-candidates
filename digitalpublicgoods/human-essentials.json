@@ -1,0 +1,60 @@
+{
+  "name": "Human Essentials",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/rubyforgood/human-essentials/blob/main/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/rubyforgood/human-essentials/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The team actively maintains the project and works directly with the organizations using the software. They also hold monthly meetings with the stakeholders as well as attend the national conference for the stakeholders."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "User details."
+      ],
+      "thirdPartyDataSharing": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Brazil",
+      "Canada",
+      "Japan",
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "Canada",
+      "United States of America"
+    ]
+  }
+}
