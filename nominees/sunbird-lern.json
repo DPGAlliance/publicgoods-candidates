@@ -39,8 +39,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/Sunbird-Lern",
-      "name": "Main"
+      "name": "main",
+      "url": "https://github.com/Sunbird-Lern"
     }
   ],
   "organizations": [
