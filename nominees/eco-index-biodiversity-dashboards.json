@@ -25,8 +25,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/eco-index/ecoindex-stack",
-      "name": "Ecoindex-stack"
+      "name": "Ecoindex-stack",
+      "url": "https://github.com/eco-index/ecoindex-stack"
     }
   ],
   "organizations": [
