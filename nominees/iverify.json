@@ -1,0 +1,41 @@
+{
+  "name": "iVerify",
+  "aliases": [
+    ""
+  ],
+  "description": "AI-powered information platform to combat misinformation and hate speech",
+  "website": "https://digital.undp.org/iVerify-Zambia",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/undp/iVerify-Apps/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "iVerify is a fact-checking digital product which combats the spread of false narratives during election periods by combining new technology like AI and machine learning with human-supported fact-checking. Developed by UNDP through the Brussels-based Task Force on Electoral Assistance and the Chief Digital Office, the platform has been piloted in Zambia, ahead of the historic August 2021 general elections, and used in the general election in Honduras November 2021.",
+      "evidenceURL": "https://digital.undp.org/content/digital/en/home/stories/ai-powered-fact-checking-tool-iverify--piloted-during-zambia-ele.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "iVerify Apps",
+      "url": "https://github.com/undp/iVerify-Apps"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "United Nations Development Programme",
+      "website": "https://undp.org/",
+      "org_type": "funder",
+      "contact_name": "Mark Belinsky",
+      "contact_email": "mark.belinsky@undp.org"
+    }
+  ],
+  "stage": "DPG"
+}

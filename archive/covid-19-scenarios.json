@@ -1,0 +1,43 @@
+{
+  "name": "COVID-19 Scenarios",
+  "aliases": [
+    ""
+  ],
+  "description": "Interactive model of COVID-19 outbreak dynamics and hospital demand to aid in public health strategies and forecasting.",
+  "website": "https://covid19-scenarios.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/neherlab/covid19_scenarios/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Pandemic planning has been proven over the past two years to be a critical component of public health. COVID-19 scenarios directly serves this need by allowing experts to forecast infections and hospital demand and subsequently disseminate their results and assumptions openly. ",
+      "evidenceURL": "https://covid19-scenarios.org/about"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/neherlab/covid19_scenarios"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Lab of Richard Neher",
+      "website": "https://neherlab.org",
+      "org_type": "maintainer",
+      "contact_name": "Richard Neher",
+      "contact_email": "richard.neher@unibas.ch"
+    }
+  ],
+  "stage": "archive"
+}
