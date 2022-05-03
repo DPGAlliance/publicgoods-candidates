@@ -1,0 +1,88 @@
+{
+  "name": "Reveal",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://drive.google.com/file/d/1LnZHUjZwcL3Uo6gGI2p12ZRqNDI_AA9v/view?usp=sharing"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://drive.google.com/file/d/1LYG0iCbEFLaXTFvbO-0jHx3ZlQhA6NL9/view",
+      "https://drive.google.com/file/d/17Upr2SehHAWwsxX-Adn5fbzmLgPu90Hu/view",
+      "https://drive.google.com/file/d/1zdcIJWJa1NTloMZuAEuS6TYsuR16uF0s/view",
+      "https://drive.google.com/file/d/14Fs_BxS-y-KaH_1wzSpQL2u_Lg44S_E9/view",
+      "https://drive.google.com/file/d/18fjHtFysSsdm_O-9Gra9Udrb9MNl-6Rq/view",
+      "https://drive.google.com/file/d/12Qz9UCctR2fe4-aFM0JqAkDsO31W1JAC/view",
+      "https://drive.google.com/file/d/1HKOkQiiylNtyXOXNZI_GsB4uErE5jhIR/view",
+      "https://drive.google.com/file/d/1U06wsT5dVt4lsValxtWp7YxkpOWF-O2i/view?usp=sharing"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://www.cdc.gov/phlp/publications/topic/hipaa.html#:~:text=The%20Health%20Insurance%20Portability%20and,the%20patient's%20consent%20or%20knowledge.",
+      "Data Protection Act 1998",
+      "Privacy and Electronic Communications (EC Directive) Regulations 2003"
+    ],
+    "adherenceSteps": [
+      "https://docs.google.com/document/d/1S-dPe07W1xd0gJ9ucsw8V6YVI2ldBrHsty20HAB20Qc/edit?usp=sharing"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Principles of Digital Development",
+      "FHIR  Fast Healthcare Interoperability Resources Standard",
+      "AES256-SIV-CMAC encryption standard",
+      "Role-Based Access Control (RBAC) is a global standard security framework built on a role-based permissions management model",
+      "ccess to monitoring services that ingest service logs is restricted to technical support staff and is protected by Public Key Infrastructure (PKI) authentication"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.google.com/spreadsheets/d/1Dl9nGPDD2fzEI80ed7jKI6GT-hFNRBFvfTL6UEAIxpM/edit?usp=sharing",
+      "https://docs.google.com/document/d/1noQM0B5cGr2tq344zPrB-Yz-c5j0DyPDEGzIzhQ9VRA/edit?usp=sharing"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "This project supports all 9 Principles for Digital Development. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://docs.google.com/document/d/1noQM0B5cGr2tq344zPrB-Yz-c5j0DyPDEGzIzhQ9VRA/edit?usp=sharing"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Names (First and Last), Age, Geographic Location"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Zambia",
+      "South Africa"
+    ],
+    "deploymentCountries": [
+      "Zambia",
+      "Kenya",
+      "Senegal",
+      "Nigeria",
+      "Mali"
+    ]
+  }
+}
