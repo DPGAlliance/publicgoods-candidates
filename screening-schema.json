@@ -86,7 +86,7 @@
       "properties": {
         "isDocumentationAvailable": {
           "type": "string",
-          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements.\n For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.",
+          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements.\n For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For datasets and data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content collections, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -323,7 +323,7 @@
             },
             "ensurePrivacySecurity": {
               "type": "string",
-              "description": "If yes - does the project ensure the privacy and security of this data and/or content and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
+              "description": "If yes - does the project ensure the privacy, security and integrity of this data and/or content collection and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -375,7 +375,7 @@
             },
             "illegalContentDetection": {
               "type": "string",
-              "description": "If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?",
+              "description": "If yes - does this project have policies and processes for detecting and moderating innappropriate/illegal content?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -386,7 +386,7 @@
             },
             "illegalContentDetectionMechanism": {
               "type": "string",
-              "description": "If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):"
+              "description": "If yes - please describe the policies and processes for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):"
             }
           }
         },
