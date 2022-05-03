@@ -17,9 +17,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "InaSAFE is a BYOD (Bring Your Own Data) platform that runs locally on your own computer. The outputs that it produces are in the open GeoPackage format."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
