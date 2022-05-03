@@ -16,9 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Our repository provides software tool for image processing and for deep learning-based image classification. Abundance Maps can be created to serve via the Forest Map Mobile App"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
