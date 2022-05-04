@@ -1,0 +1,57 @@
+{
+  "name": "Scottish Environment Protection Agency Hydrometric Data",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://timeseriesdoc.sepa.org.uk/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://timeseriesdoc.sepa.org.uk/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation",
+      "Equalities act https://www.legislation.gov.uk/ukpga/2010/15/contents"
+    ],
+    "adherenceSteps": [
+      "Data Protection Impact Assessment completed",
+      "Equalities Impact Assessment completed"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We provide a disclaimer encouraging users to assess and determine whether the data is suitable for their purposes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "United Kingdom"
+    ]
+  }
+}
