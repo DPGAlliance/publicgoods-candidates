@@ -1,14 +1,14 @@
 {
   "name": "Scottish Environment Protection Agency Hydrometric Data",
   "aliases": [
-    " SEPA WISKI API"
+    "SEPA WISKI API"
   ],
   "description": "Provision of Hydrometric Open Data to professional users via API",
   "website": "https://timeseriesdoc.sepa.org.uk/",
   "license": [
     {
-      "licenseURL": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "spdx": "ODbL-1.0"
+      "spdx": "OGL-UK-3.0",
+      "licenseURL": "https://timeseriesdoc.sepa.org.uk/"
     }
   ],
   "SDGs": [
@@ -37,15 +37,23 @@
       "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - making this data freely and readily available allows us to see the impact of climate change on weather and its impacts across Scotland.  Having the data available also allows communities and cities to develop realistic adaptation plans bearing in mind climate change impacts such as increased flood risk and greater water scarcity"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate",
+    "Water and Sanitation"
+  ],
   "type": [
     "data"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "SEPA Time series data service (API)",
+      "url": "https://timeseriesdoc.sepa.org.uk/api-documentation/api-function-reference/#WalkThrough"
+    }
+  ],
   "organizations": [
     {
       "name": "Scottish Environmental Protection Agency",
-      "website": "http://www.sepa.org.uk",
+      "website": "https://www.sepa.org.uk/",
       "org_type": "owner",
       "contact_name": "Mark Franklin",
       "contact_email": "mark.franklin@sepa.org.uk"
