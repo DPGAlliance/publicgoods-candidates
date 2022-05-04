@@ -1,7 +1,8 @@
 {
-  "name": "Public Lab",
+  "name": "The Public Laboratory for Open Technology and Science",
   "aliases": [
-    "The Public Laboratory for Open Technology and Science; PLOTS"
+    "PLOTS",
+    "Public Lab"
   ],
   "description": "Public Lab works to build a healthier and more equitable world through community science, open technology, and environmental justice.",
   "website": "https://publiclab.org/",
@@ -12,6 +13,11 @@
     }
   ],
   "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We work together in public to make environmental health research accessible to all",
+      "evidenceURL": "https://publiclab.org/wiki/start-enviro-monitor-study"
+    },
     {
       "SDGNumber": 6,
       "evidenceText": "We research issues with stormwater and wastewater for both DIY, community-led, and governmental accountability solutions",
@@ -31,23 +37,19 @@
       "SDGNumber": 16,
       "evidenceText": "Community-collected data has the power to prompt local, state, or federal action by alerting government agencies to an issue. Failures and gaps at the regulatory level are often what leads communities to do their own environmental monitoring and advocacy work.",
       "evidenceURL": "https://publiclab.org/wiki/law-and-policy"
-    },
-    {
-      "SDGNumber": 3,
-      "evidenceText": "We work together in public to make environmental health research accessible to all",
-      "evidenceURL": "https://publiclab.org/wiki/start-enviro-monitor-study"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health",
+    "Climate"
+  ],
   "type": [
-    "software",
-    "data",
-    "content"
+    "software"
   ],
   "repositories": [
     {
-      "name": "Public Lab ",
-      "url": "https://github.com/publiclab/"
+      "name": "PLOTS",
+      "url": "https://github.com/publiclab/plots2"
     }
   ],
   "organizations": [
