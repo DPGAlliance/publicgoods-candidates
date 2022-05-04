@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/chaynHQ/soulmedicine",
-      "name": "Main"
+      "name": "main",
+      "url": "https://github.com/chaynHQ/soulmedicine"
     }
   ],
   "organizations": [
