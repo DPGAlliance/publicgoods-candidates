@@ -1,0 +1,37 @@
+{
+  "name": "BigBlueButton",
+  "description": "BigBlueButton is an open source web conferencing system. It supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, multi-user whiteboard, and breakout rooms. The educational use cases for BigBlueButton are online tutoring (one-to-one), flipped classrooms (recording content ahead of your session), group collaboration (many-to-many), online classes (one-to-many)",
+  "website": "https://bigbluebutton.org/",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://github.com/bigbluebutton/bigbluebutton/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://bigbluebutton.org/2020/04/19/bigbluebutton-at-orange-county-public-schools/"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bigbluebutton/bigbluebutton"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "BigBlueButton",
+      "website": "https://bigbluebutton.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

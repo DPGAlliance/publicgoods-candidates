@@ -19,7 +19,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/microsoft/TypeScript/",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/microsoft/TypeScript/"
+    }
+  ],
   "organizations": [
     {
       "name": "Microsoft",

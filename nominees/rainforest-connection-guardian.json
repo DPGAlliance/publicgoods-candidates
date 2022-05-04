@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rfcx/rfcx-org-archived-2020",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rfcx/rfcx-org-archived-2020"
+    }
+  ],
   "organizations": [
     {
       "name": "Rainforest Connection",

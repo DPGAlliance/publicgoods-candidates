@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Integreat/integreat-app",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Integreat/integreat-app"
+    }
+  ],
   "organizations": [
     {
       "name": "Tür an Tür - Digitalfabrik gGmbH",

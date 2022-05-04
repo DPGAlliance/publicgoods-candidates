@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/TrustlabTech",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/TrustlabTech"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

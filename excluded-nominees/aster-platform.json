@@ -1,0 +1,34 @@
+{
+  "name": "Aster - Platform",
+  "description": "AsTeR-Platform host the current web platform (Flask, HTML, CSS and JS), presenting the project as well as the roadmap for the vision. The website also host a working demo of our core product, but is kept independent from the general software platform.",
+  "website": "https://www.project-aster.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Project-AsTeR/website/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Project-AsTeR/website"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "AsTer",
+      "website": "https://www.project-aster.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

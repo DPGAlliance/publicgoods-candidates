@@ -15,7 +15,7 @@
     {
       "SDGNumber": 4,
       "evidenceText": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.",
-      "evidenceURL": "https://notesmaster.com/termsofuse"
+      "evidenceURL": "http://oasis.col.org/handle/11599/3645"
     },
     {
       "SDGNumber": 5,
@@ -49,7 +49,12 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Notesmaster Caribbean",
@@ -59,5 +64,5 @@
       "contact_email": "dclarke@notesmaster.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

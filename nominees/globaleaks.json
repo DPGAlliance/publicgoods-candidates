@@ -1,0 +1,41 @@
+{
+  "name": "GlobaLeaks",
+  "aliases": [
+    ""
+  ],
+  "description": "GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform",
+  "website": "https://www.globaleaks.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/globaleaks/GlobaLeaks/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10,
+      "evidenceText": "GlobaLeaks is a whistleblowing technology enabling everywone to report safely and anonymously about wrongdoings encountered during their own life and work experience. The technology has already enabled worldwide more than 4000 organizations to create projects focused on anticorruption, gender based violence, enviromental crimes, war crimes. Please see the attached link that list some of the most valuable use cases and please reach out to get to know more.",
+      "evidenceURL": "https://www.globaleaks.org/usecases/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/globaleaks/GlobaLeaks"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GlobaLeaks",
+      "website": "https://www.globaleaks.org",
+      "org_type": "maintainer",
+      "contact_name": "Giovanni Pellerano",
+      "contact_email": "giovanni.pellerano@globaleaks.org"
+    }
+  ],
+  "stage": "DPG"
+}

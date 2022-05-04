@@ -1,0 +1,39 @@
+{
+  "name": "foxBMS",
+  "description": "foxBMS is a free, open and flexible research and development environment for the design of Battery Management Systems (BMS). Its aim is to accelerate the research, development and test processes used in the mobile and stationary electrical energy storage domains by using seamless development processes and integration.",
+  "website": "https://foxbms.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/foxBMS/foxbms-1/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceURL": "https://iisb-foxbms.iisb.fraunhofer.de/foxbms/docs/latest/general_information/motivation/motivation.html"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://iisb-foxbms.iisb.fraunhofer.de/foxbms/docs/latest/general_information/motivation/motivation.html"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/foxBMS/foxbms-1"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "foxBMS",
+      "website": "https://foxbms.org/",
+      "org_type": "owner",
+      "contact_email": "info@foxbms.org"
+    }
+  ],
+  "stage": "nominee"
+}

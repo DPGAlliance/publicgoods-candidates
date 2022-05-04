@@ -1,0 +1,33 @@
+{
+  "name": "COVID Safe Paths",
+  "description": "COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID.",
+  "website": "https://covidsafepaths.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Path-Check/covid-safe-paths/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/tripleblindmarket/covid-safe-paths"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "MIT",
+      "org_type": "owner",
+      "contact_email": "privatekit@media.mit.edu"
+    }
+  ],
+  "stage": "nominee"
+}

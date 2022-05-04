@@ -1,0 +1,34 @@
+{
+  "name": "CalTRACK",
+  "description": "CalTRACK methods describe a process of arriving at a calculation of avoided energy use.",
+  "website": "https://docs.caltrack.org/en/latest/",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://github.com/energy-market-methods/caltrack/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/energy-market-methods/caltrack"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Energy Market Methods",
+      "website": "https://www.energymarketmethods.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

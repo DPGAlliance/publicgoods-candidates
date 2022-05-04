@@ -1,0 +1,46 @@
+{
+  "name": "EpiRust",
+  "aliases": [
+    "epirust"
+  ],
+  "description": "Large-scale, fast, open source agent-based epidemic simulation using Rust language. Using EpiRust, researchers can simulate the spread of different diseases like smallpox, H1N1, and COVID-19.",
+  "website": "https://www.thoughtworks.com/en-ca/insights/topic/open-source/epirust",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/thoughtworks/epirust/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "A researcher can simulate a communicable disease model for a city with a population of up to a few million agents using commodity hardware like laptops and desktops. Multi-city simulations (with populations of 100+ million) can as well be performed using a cluster of computers or within a cloud. EpiRust is one of the very few open-source epidemiology simulations which are fast and can scale upto 100+ million agents.",
+      "evidenceURL": "https://github.com/thoughtworks/epirust"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Sustainable cities need good policy making frameworks. Agent based models help policy makers to try different what-if and if-what scenarios. EpiRust can help researchers and policy makers to visualize the spread of an epidemic and implement necessary interventions to reduce the spread and minimize the impact, thereby leading to healthier and sustainable cities and communities.",
+      "evidenceURL": "https://github.com/thoughtworks/epirust"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/thoughtworks/epirust"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Thoughtworks",
+      "website": "http://www.thoughtworks.com",
+      "org_type": "owner",
+      "contact_name": "Chhaya Yadav",
+      "contact_email": "chhayay@thoughtworks.com"
+    }
+  ],
+  "stage": "nominee"
+}

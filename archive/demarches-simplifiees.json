@@ -1,0 +1,34 @@
+{
+  "name": "Démarches Simplifiées",
+  "description": "Dématérialiser et simplifier les démarches administratives. Site conçu afin de répondre au besoin urgent de l'État d'appliquer la directive sur le 100 % dématérialisation pour les démarches administratives.",
+  "website": "https://demarches-simplifiees.fr",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/betagouv/demarches-simplifiees.fr/blob/dev/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/demarches-simplifiees.fr"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Beta.Gouv",
+      "website": "https://beta.gouv.fr/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

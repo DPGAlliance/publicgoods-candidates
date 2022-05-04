@@ -1,34 +1,57 @@
 {
   "name": "OpenAerialMap",
-  "description": "OpenAerialMap provides a simple open way to host and provide access to imagery for humanitarian response and disaster preparedness.",
-  "website": "https://openaerialmap.org/",
+  "aliases": [
+    "OAM"
+  ],
+  "description": "OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery.  Built on top of the Open Imagery Network (OIN), OAM is an open service that provides search and access to this imagery.",
+  "website": "https://openaerialmap.org",
   "license": [
     {
       "spdx": "BSD-3-Clause",
       "licenseURL": "https://github.com/hotosm/oam-api/blob/develop/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/openimagerynetwork/oin-register/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 9
-    },
-    {
-      "SDGNumber": 16
-    },
-    {
-      "SDGNumber": 17
+      "SDGNumber": 1,
+      "evidenceText": "We have a page that goes into HOTOSM mission for Open Mapping for SDGs. OAM is able to provide an open data basis for these mapping efforts. ",
+      "evidenceURL": "https://sdgs.hotosm.org/"
     }
   ],
   "sectors": [],
   "type": [
-    "software"
+    "software",
+    "data"
   ],
-  "repositoryURL": "https://github.com/hotosm/OpenAerialMap",
+  "repositories": [
+    {
+      "name": "OpenAerialMap (Meta-repository)",
+      "url": "https://github.com/hotosm/openaerialmap/"
+    },
+    {
+      "name": "oam-api",
+      "url": "https://github.com/hotosm/oam-api"
+    },
+    {
+      "name": "oam-browser",
+      "url": "https://github.com/hotosm/oam-browser"
+    },
+    {
+      "name": "OpenImageryNetwork",
+      "url": "https://github.com/openimagerynetwork"
+    }
+  ],
   "organizations": [
     {
-      "name": "humanitarian OpenStreetMap Team",
-      "website": "https://www.hotosm.org",
-      "org_type": "owner"
+      "name": "HOTOSM",
+      "website": "https://hotosm.org",
+      "org_type": "owner",
+      "contact_name": "Bo Percival",
+      "contact_email": "info@hotosm.org"
     }
   ],
   "stage": "nominee"

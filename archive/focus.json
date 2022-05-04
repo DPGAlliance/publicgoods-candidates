@@ -1,0 +1,42 @@
+{
+  "name": "FOCUS",
+  "aliases": [
+    "Fisheries Open Source Community Software"
+  ],
+  "description": "FOCUS is an open-source community that aims to oversee and maintain free software dedicated to the management and preservation of the fishery resource.",
+  "website": "https://www.focus.fish/about/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP/blob/dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 14,
+      "evidenceText": "All FOCUS deliverables are jointly produced and published as free and open-source. As such FOCUS truly offers its members an interoperable fisheries management platform in the most cost efficient and open way. Furthermore, FOCUS supports the 14:th of the UN Sustainable Development Goals",
+      "evidenceURL": "https://www.havochvatten.se/en/eu-and-international/international-cooperation/focus.html"
+    }
+  ],
+  "sectors": [
+    "Environment",
+    "Sustainability"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "FOCUS",
+      "website": "https://www.focus.fish/about/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

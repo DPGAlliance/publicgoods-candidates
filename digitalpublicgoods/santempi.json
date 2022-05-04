@@ -1,0 +1,105 @@
+{
+  "name": "SantéMPI",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/santedb/santedb-server/blob/master/SanteDB.licenseheader"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://help.santesuite.org/product-overview/santesuite-products/master-patient-index-santempi"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "HL7 V2, FHIR, SantéSuite Service API’s"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "SantéMPI was designed and modeled after Canada’s standards and regulations for privacy as defined The Personal Information Protection and Electronic Documents Act (PIPEDA). "
+    ],
+    "adherenceSteps": [
+      "Countries using SantéSuite software in other regions are responsible for complying with local legislation."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ATNA - Audit Trail and Node Authentication",
+      "BPPC - Basic Patient Privacy Consents",
+      "CPT",
+      "GS1",
+      "HL7 FHIR R4",
+      "HL7 v2",
+      "ICD-10",
+      "JSON PDQ",
+      "PDQm - (Mobile) Patient Demographics Query",
+      "PIX or PIXm - (Mobile) Patient Identifier Cross Reference"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/santedb/hl7-testing-tool"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "SantéSuite software development processes and team follow the Principles for Digital Development, we work side-by-side with the country Ministry of Health frontline workers, digital health experts, management, as well as key implementation partners to foster “ground truth” evidence-based improvement and inspire and drive our innovation strategy. SanteSuite uses a variety of best practices and processes depending on client needs and capacity to participate. For complex projects we follow a Disciplined Agile Delivery Approach which combines the rigor of traditional processes, such as Waterfall and Unified Processes, with the responsiveness of Agile. At a minimum, we leverage Kanban and Scrum (Scrumban) for delivery of smaller projects where our clients do not have the capacity to participate in a full agile delivery. We implement a quality assurance plan after each iteration ensuring that all modules and features work as they are expected. We follow the test-driven development methodology, which ensure that all components or modules are thoroughly tested before they are incorporated into the final solution. Accompanying documentation is provided with each release, including technical documentation and release notes / change logs."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "SantéSuite solutions including SantéMPI all employ a “Privacy by Design” philosophy and software development lifecycle. Protecting privacy is an integral part of implementing a quality assurance plan after each development iteration ensuring that all modules and features work as they are expected. We follow the test-driven development methodology, which ensure that all components or modules are thoroughly tested for privacy compliance before they are incorporated into the final solution."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "name",
+        "date of birth",
+        "gender",
+        "birthplace",
+        "address",
+        "contact information such as phone number",
+        "health identification number(s)",
+        "birth and death registration information"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "SanteGuard is a plugin to SanteDB that integrates a powerful audit trail into the SanteDB system. SanteGuard provides several system interfaces, user interfaces, reports, and an enhanced implementation of the IAuditRepository service. \n Reference - https://help.santesuite.org/product-overview/santesuite-products/introduction"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Currently primarily via Slack and Github and limited to technical software developers. SantéSuite does not operate an open online discussion forum."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "SanteMPI is a highly technical digital health infrastructure component which would be of interest to a narrow community of technical software developers and implementers who communicate via Slack and Github with our software team. In addition, SantéSuite does not operate an open online discussion forum which also reduces the likelihood of harassment presenting itself as an issue. That being said, we have adopted and implemented a corporate anti-harassment policy, which should the need arise, we would use as a guide to intervene to the degree necessary to cease the harassment."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada",
+      "Myanmar"
+    ],
+    "deploymentCountries": [
+      "Myanmar",
+      "Tanzania"
+    ]
+  }
+}

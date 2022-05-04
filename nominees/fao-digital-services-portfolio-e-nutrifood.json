@@ -1,0 +1,63 @@
+{
+  "name": "FAO Digital Services Portfolio - E-Nutrifood",
+  "aliases": [
+    "E-Nutrifood"
+  ],
+  "description": "This service provides users with information on farm production and conservation techniques, as well as on their value and nutritional value.",
+  "website": "https://digital.apps.fao.org/e-nutrifood/categories",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
+      "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services.",
+      "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.",
+      "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.",
+      "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT",
+      "evidenceURL": "http://www.fao.org/e-agriculture/news/fao-launches-four-new-agricultural-service-apps-africa"
+    }
+  ],
+  "sectors": [
+    "Agriculture",
+    "Nutrition"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "FAO",
+      "website": "https://www.fao.org/",
+      "org_type": "owner",
+      "contact_name": "Henry van Burgsteden",
+      "contact_email": "henry.burgsteden@fao.org"
+    }
+  ],
+  "stage": "DPG"
+}

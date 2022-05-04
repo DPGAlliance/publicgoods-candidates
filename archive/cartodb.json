@@ -1,0 +1,44 @@
+{
+  "name": "CartoDB",
+  "description": "CARTO is an open, powerful, and intuitive platform for discovering and predicting the key insights underlying the location data in our world. It empowers organizations to optimize operational performance, strategic investments, and everyday decisions with CARTO Engine— the embeddable platform for web and mobile apps—and the new CARTO Builder, a drag and drop analysis tool.",
+  "website": "https://carto.com/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/CartoDB/cartodb/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://carto.com/industries/financial-services/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://carto.com/industries/real-estate/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://carto.com/industries/cities-government/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CartoDB/cartodb"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "CartoDB",
+      "website": "https://carto.com/",
+      "org_type": "owner",
+      "contact_email": "support@cartodb.com"
+    }
+  ],
+  "stage": "nominee"
+}

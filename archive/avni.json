@@ -1,0 +1,48 @@
+{
+  "name": "Avni",
+  "aliases": [
+    "OpenCHS"
+  ],
+  "description": "Open Source field service delivery and data collection platform for non-profits and governments in all sectors — health, water, education, social service. A platform for all frontline work in social/development sector",
+  "website": "https://avniproject.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/avniproject/avni-client/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study/ \nhttps://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment/ \nhttps://avniproject.org/case-studies/calcutta-kids-%E2%80%94-avni-implemented-for-maternal-and-child-health-program/ \nhttps://avniproject.org/case-studies/2019-09-02-prescription-tool/"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://avniproject.org/usage-statistics/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://avniproject.org/case-studies/use-of-avni-in-jnpct-malnutrition-project-case-study/ \nhttps://avniproject.org/case-studies/avni-for-sickle-cell-disease-screening-and-treatment/ \nhttps://avniproject.org/case-studies/calcutta-kids-%E2%80%94-avni-implemented-for-maternal-and-child-health-program/ \nhttps://avniproject.org/case-studies/2019-09-02-prescription-tool/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/avniproject/avni-server"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Samanvay Research and Development Foundation",
+      "website": "https://samanvayfoundation.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

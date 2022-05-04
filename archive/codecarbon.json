@@ -1,0 +1,34 @@
+{
+  "name": "Codecarbon",
+  "description": "This package can be used for estimating the carbon footprint of computing, and for establishing best practices with regards to the disclosure and reduction of this footprint.",
+  "website": "https://mlco2.github.io/codecarbon/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/mlco2/codecarbon/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://mlco2.github.io/codecarbon/motivation.html"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mlco2/codecarbon"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "mlco2",
+      "website": "https://mlco2.github.io/codecarbon/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

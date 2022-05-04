@@ -1,0 +1,43 @@
+{
+  "name": "Datawheel Chile",
+  "description": "Data visualization solution for public information to improve decsion-making",
+  "website": "https://www.datawheel.us/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 10
+    },
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Datawheel/canon"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

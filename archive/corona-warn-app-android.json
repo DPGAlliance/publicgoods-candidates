@@ -1,0 +1,33 @@
+{
+  "name": "Corona Warn App - Android",
+  "description": "The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany. The app is based on technologies with a decentralized approach and notifies users if they have been exposed to SARS-CoV-2.",
+  "website": "https://coronawarn.app",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/corona-warn-app/cwa-app-android/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/corona-warn-app/cwa-app-android"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Deutsche Telekom and SAP",
+      "org_type": "owner",
+      "contact_email": "corona-warn-app.opensource@sap.com"
+    }
+  ],
+  "stage": "nominee"
+}

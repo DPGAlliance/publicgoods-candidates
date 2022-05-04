@@ -1,0 +1,37 @@
+{
+  "name": "Encompass",
+  "description": "Bayes Impact's Encompass Tool for Visualizing and Analyzing Geographic Access",
+  "website": "https://encompass.thebeaconlabs.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/bayesimpact/encompass/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 8
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bayesimpact/encompass"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bayes Impact",
+      "website": "https://www.bayesimpact.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

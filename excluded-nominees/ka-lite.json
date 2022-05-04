@@ -1,0 +1,39 @@
+{
+  "name": "Ka Lite",
+  "description": "An offline version of Khan Academy.\nA free lightweight solution providing high-quality education where you need it most. Bringing the power of online learning to the offline world.",
+  "website": "https://learningequality.org/ka-lite/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/learningequality/ka-lite/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
+      "licenseURL": "https://github.com/learningequality/ka-lite/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/learningequality/ka-lite"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Learning Equality",
+      "website": "https://learningequality.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

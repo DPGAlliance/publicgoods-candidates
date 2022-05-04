@@ -1,29 +1,46 @@
 {
-  "name": "If-Me",
-  "description": "Open source app to share mental health experiences with loved ones ",
-  "website": "",
+  "name": "if me",
+  "aliases": [
+    ""
+  ],
+  "description": "Free, open source mental health communication web app to share experiences with loved ones",
+  "website": "https://www.if-me.org/",
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/ifmeorg/ifme/blob/master/LICENSE.txt"
+      "licenseURL": "https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "It is most relevant to Goal 3 of the Sustainable Development Goals, Good Health and Well-Being (Ensure healthy lives and promote well-being for all at all ages). Created in 2014, if-me.org is a free, open source mental health communication platform to share experiences with loved ones. Through our platform and blog, we center marginalized communities that have little or no access to mental health education, resources, and services — including refugee and immigrant communities and communities of colour. Our app is translated to various languages, including Bahasa Indonesia, Chinese, Dutch, English, French, German, Hindi, Italian, Korean, Norwegian, Portuguese, Spanish, Swedish, and Vietnamese. Our contributor community is well-known for being inclusive with hundreds of developers, designers writers, and advocates from around the world, from non-traditional backgrounds in open source and technology. Our project’s creator, Julia Nguyen has given keynote talks about it at Open Source Bridge, AnxietyTech, Write/Speak/Code, and the Mental Health Association of San Francisco. We were featured on the Code Newbies Podcast and the Huffington Post Blog. We’ve mentored women developers through a paid internship program that Rails Girls Summer of Code has organized.",
+      "evidenceURL": "https://www.if-me.org/about"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ifmeorg/ifme",
-  "organizations": [
+  "repositories": [
     {
-      "name": "If-Me",
-      "website": "https://www.if-me.org/",
-      "org_type": "owner"
+      "name": "main",
+      "url": "https://github.com/ifmeorg/ifme"
+    },
+    {
+      "name": "ifme-languagetools",
+      "url": "https://github.com/ifmeorg/ifme-languagetools"
     }
   ],
-  "stage": "nominee"
+  "organizations": [
+    {
+      "name": "if-me.org",
+      "website": "https://www.if-me.org/",
+      "org_type": "owner",
+      "contact_email": "join.ifme@gmail.com"
+    }
+  ],
+  "stage": "DPG"
 }

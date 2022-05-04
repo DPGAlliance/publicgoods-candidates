@@ -1,0 +1,33 @@
+{
+  "name": "Covid19Canada",
+  "description": "Researchers at the University of Toronto, responding to the critical need for timely, accurate, and accessible data on COVID-19 cases, developed an individual-level dataset of Canadian COVID-19 cases. These figures, which include mortalities, recoveries, and testing, are collected from news reports and government health authorities and then manually entered by the research team.",
+  "website": "https://art-bd.shinyapps.io/covid19canada/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/ccodwg/Covid19Canada/blob/master/LICENSE.MD"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ccodwg/Covid19Canada"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "COVID-19 Canada Open Data Working Group",
+      "org_type": "owner",
+      "contact_email": "isha.berry@mail.utoronto.ca"
+    }
+  ],
+  "stage": "nominee"
+}

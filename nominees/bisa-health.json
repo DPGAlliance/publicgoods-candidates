@@ -1,0 +1,48 @@
+{
+  "name": "Bisa Health",
+  "aliases": [
+    "Bisa"
+  ],
+  "description": "Bisa is a health application that allows the public to receive health information and communicate with doctors.",
+  "website": "https://bisaapp.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/BisaMhealth/BisaApp/blob/backend/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Bisa health platform allows the public access to doctors and receive healthcare information through their mobile devices (both smart and non-smart phones). This is an advantage to people who need medical care and advice but are not able to visit the hospital for various reasons such as poverty, delays because of long queues at the hospital and the fear of stigmatization, especially for people who have symptoms of Sexually Transmitted Diseases (STDs), which makes them embarrassed to seek the needed treatment.",
+      "evidenceURL": "https://www.myjoyonline.com/hospital-consultation-made-easy-using-bisa-app/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Bisa has partnered with GIZ ( The Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH ) and the Ghana Health Services to enhance Ghana’s public health service education of COVID-19 and manage affected cases who are self-isolating.  The Bisa App provides patients direct access to doctors and health practitioners with a click of the App, doctors are readily available to respond to all questions within minutes with absolutely no cost involved. The Bisa App is instrumental in these times because it will reduce face-to-face doctor consultations and help with reducing congestion in hospitals.",
+      "evidenceURL": "https://www.myjoyonline.com/hospital-consultation-made-easy-using-bisa-app/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/BisaMhealth/BisaApp"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bisa Health",
+      "website": "https://bisaapp.com/",
+      "org_type": "owner",
+      "contact_name": "Raindolf Owusu",
+      "contact_email": "raindolf@bisaapp.com "
+    }
+  ],
+  "stage": "DPG"
+}

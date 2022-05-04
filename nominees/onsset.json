@@ -21,7 +21,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OnSSET/onsset",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OnSSET/onsset"
+    }
+  ],
   "organizations": [
     {
       "name": "OnSSET",

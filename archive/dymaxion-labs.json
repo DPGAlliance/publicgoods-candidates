@@ -1,0 +1,34 @@
+{
+  "name": "Dymaxion Labs",
+  "description": "Measuring the growth of informal settlements in Latin America using satellite imagery algorithms AI",
+  "website": "https://www.dymaxionlabs.com",
+  "license": [
+    {
+      "spdx": "BSD-2-Clause",
+      "licenseURL": "https://opensource.org/licenses/BSD-2-Clause"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dymaxionlabs/ap-latam"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

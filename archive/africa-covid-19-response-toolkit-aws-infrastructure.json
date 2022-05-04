@@ -1,0 +1,40 @@
+{
+  "name": "Africa COVID-19 Response Toolkit: AWS Infrastructure",
+  "description": "This project contains the AWS CloudFormation and Terraform templates to bootstrap AWS resources for Africa COVID-19 Response Toolkit projects.",
+  "website": "https://ethiocovid19rt.com/projects",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://medium.com/africa-covid-19-response-toolkit/africa-covid-19-response-toolkit-dashboard-c5d872932a9"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://drive.google.com/file/d/1fFUO3d1D9iUx79HON2-ZSGmFh7zc_RCu/view"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Africa COVID-19 Response Toolkit",
+      "website": "https://ethiocovid19rt.com/",
+      "org_type": "owner",
+      "contact_email": "info@ethiocovid19rt.com"
+    }
+  ],
+  "stage": "nominee"
+}

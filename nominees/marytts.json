@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/marytts/marytts",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/marytts/marytts"
+    }
+  ],
   "organizations": [
     {
       "name": "German Research Center for Artificial Intelligence",

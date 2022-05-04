@@ -1,0 +1,36 @@
+{
+  "name": "eduActiv8",
+  "description": "eduActiv8 is an open source, free educational program for children 3 to about 10 years old. It helps in learning a range of subjects, but mainly focuses on maths",
+  "website": "https://www.eduactiv8.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/imiolek-ireneusz/eduActiv8/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "eduActiv8 includes activities for building basic math and early literacy skills, including a variety of spelling, matching, and listening activities",
+      "evidenceURL": "https://opensource.com/article/19/4/early-literacy-tools"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/imiolek-ireneusz/eduActiv8"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "eduActiv8",
+      "website": "https://www.eduactiv8.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
