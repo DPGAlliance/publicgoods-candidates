@@ -1,0 +1,12 @@
+{
+  "name": "TruBudget",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://trademarks.justia.com/792/74/trubudget-79274337.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The project uses only libraries of open source, in particular GPL and MIT licenses. There are no viral closed source components."
+  }
+}
