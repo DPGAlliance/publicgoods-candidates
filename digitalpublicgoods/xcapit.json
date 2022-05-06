@@ -1,5 +1,5 @@
 {
-  "name": "Xcapit ",
+  "name": "Xcapit",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://xcapit-foss.gitlab.io/documentation/"
@@ -30,16 +30,14 @@
     ],
     "adherenceSteps": [
       "Consultations with specialists and lawyers",
-      "Terms and Conditions – Privacy Policy",
-      "  Terms and conditions: https://xcapit.com/terms-and-conditions/",
-      "Privacy Policy: https://xcapit.com/privacy-policy/"
+      "Terms and conditions - https://xcapit.com/terms-and-conditions/",
+      "Privacy Policy -  https://xcapit.com/privacy-policy/"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
-      " ISO/IEC 27001:2013",
+      "ISO/IEC 27001:2013",
       "OWASP TOP TEN (10)",
       "HTTPS",
       "SSL",
@@ -50,6 +48,7 @@
     "evidenceStandardSupport": [
       "https://xcapit-foss.gitlab.io/documentation/docs/security-certifications-and-audits/iso27001certificate"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Test driven development",
       "Pair Programming",
@@ -73,13 +72,30 @@
         "IP"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Unknown"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "By law, all organizations that process your personal data are obliged to process your personal data in certain ways and to ensure that you are provided with an appropriate amount of information about how they use it. You also have various rights to seek information from those organizations about how they are using your data and to prevent them from processing it unlawfully. For more information about these rights, please see the “Your Rights” section of this Privacy Policy."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
