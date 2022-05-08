@@ -2,7 +2,7 @@
   "name": "City Energy Analyst",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/CREDITS.md"
+    "copyrightURL": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
