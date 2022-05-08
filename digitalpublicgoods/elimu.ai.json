@@ -2,7 +2,7 @@
   "name": "elimu.ai",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/elimu-ai/wiki"
+    "copyrightURL": "https://github.com/elimu-ai/wiki/blob/main/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,13 +12,15 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/elimu-ai/wiki"
+      "https://github.com/elimu-ai/wiki",
+      "Installation guide (webapp)- https://github.com/elimu-ai/webapp/blob/main/INSTALL.md",
+      "Installation guide (mobile) - https://github.com/elimu-ai/wiki/blob/main/SOFTWARE_INSTALLATION.md"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "CSV files"
+    "nonPIIAccessMechanism": "Data can be accessed using CSV files"
   },
   "privacy": {
     "isPrivacyCompliant": "No",
