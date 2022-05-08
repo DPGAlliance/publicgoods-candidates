@@ -18,7 +18,9 @@
       "evidenceURL": "https://soulmedicine.io/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
   "type": [
     "software"
   ],
