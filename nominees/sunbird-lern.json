@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://sunbird.org/software-license"
+      "licenseURL": "https://github.com/project-sunbird/sunbird-lms-service/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -41,6 +41,26 @@
     {
       "name": "main",
       "url": "https://github.com/Sunbird-Lern"
+    },
+    {
+      "name": "LMS service",
+      "url": "https://github.com/project-sunbird/sunbird-lms-service"
+    },
+    {
+      "name": "API services for course management",
+      "url": "https://github.com/project-sunbird/sunbird-course-service"
+    },
+    {
+      "name": "API services for groups functionality",
+      "url": "https://github.com/project-sunbird/groups-service"
+    },
+    {
+      "name": "Microservice for sending notifications via different channels",
+      "url": "https://github.com/project-sunbird/sunbird-notification-service"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://lern.sunbird.org/use/developer-installation"
     }
   ],
   "organizations": [
