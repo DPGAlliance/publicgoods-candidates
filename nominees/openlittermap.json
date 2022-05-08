@@ -1,0 +1,120 @@
+{
+  "name": "OpenLitterMap",
+  "aliases": [
+    "OLM"
+  ],
+  "description": "We are turning cleaning the planet into a game with climate rewards",
+  "website": "https://openlittermap.com",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://github.com/OpenLitterMap/openlittermap-web/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e",
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "aimodel",
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "OpenLitterMap",
+      "url": "https://github.com/openlittermap"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GeoTech Innovations Ltd",
+      "website": "https://openlittermap.com",
+      "org_type": "owner",
+      "contact_name": "Seán Lynch",
+      "contact_email": "info@openlittermap.com"
+    }
+  ],
+  "stage": "nominee"
+}
