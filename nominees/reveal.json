@@ -25,7 +25,7 @@
     {
       "SDGNumber": 3,
       "evidenceText": "Support the planning and delivery of health intervention campaigns including malaria, vaccination (childhood and COVAX), and neglected tropical diseases.",
-      "evidenceURL": "https://revealprecision.com/use-cases/"
+      "evidenceURL": "https://storymaps.arcgis.com/stories/6edfe59250e24fcaa923d614f6110fe7?fbclid=IwAR2XakalK7tHS8jTPxKX3-roM0l1QqqEgyMguNmO0kKbaI-YrtjBLpydnd8"
     },
     {
       "SDGNumber": 6,
@@ -34,7 +34,8 @@
     }
   ],
   "sectors": [
-    "Health"
+    "Health",
+    "Water and Sanitation"
   ],
   "type": [
     "software"
