@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/rfcx/rfcx-guardian-android/blob/master/LICENSE"
+      "licenseURL": "https://github.com/rfcx/rfcx-org-archived-2020/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -13,19 +13,26 @@
       "SDGNumber": 15
     },
     {
-      "SDGNumber": 13
+      "SDGNumber": 13,
+      "evidenceURL": "https://rfcx.org/our_work#deforestation"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rfcx/rfcx-guardian-android",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rfcx/rfcx-org-archived-2020"
+    }
+  ],
   "organizations": [
     {
       "name": "Rainforest Connection",
       "website": "https://rfcx.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_email": "contact@rfcx.org"
     }
   ],
   "stage": "nominee"

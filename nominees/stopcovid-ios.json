@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios"
+    }
+  ],
   "organizations": [
     {
       "name": "INRIA",

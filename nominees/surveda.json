@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/instedd/surveda",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/instedd/surveda"
+    }
+  ],
   "organizations": [
     {
       "name": "InSTEDD",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/conative-labs/Platform-API",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/conative-labs/Platform-API"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

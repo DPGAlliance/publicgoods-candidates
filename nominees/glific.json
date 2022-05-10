@@ -1,0 +1,50 @@
+{
+  "name": "Glific",
+  "description": "An open-source two way communication platform using WhatsApp Business API",
+  "website": "https://glific.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/glific/glific/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Helping the Social Sector: The COVID crisis required NGOs to pivot & deliver their programming via online channels. Glific can deliver content to beneficiaries and engage them in conversations, such as: personal conversations, feedback on current activities, suggestions on future activities.",
+      "evidenceURL": "https://drive.google.com/file/d/1X-IoSn-DuELhgZLEYnWTkcxeUoT3DkY8/view?usp=sharing"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Send training or educational content & activities: Run training/educational programmes at the pace preferred by your beneficiaries. You can plan the content in advance and let them retrieve with automated messages. You can enhance the content/message with text formatting, emojis, stickers, images, videos and documents.",
+      "evidenceURL": "https://drive.google.com/file/d/1X-IoSn-DuELhgZLEYnWTkcxeUoT3DkY8/view?usp=sharing"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://drive.google.com/file/d/1X-IoSn-DuELhgZLEYnWTkcxeUoT3DkY8/view?usp=sharing"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Helping the Social Sector: The COVID crisis required NGOs to pivot & deliver their programming via online channels. Glific can deliver content to beneficiaries and engage them in conversations, such as: personal conversations, feedback on current activities, suggestions on future activities.",
+      "evidenceURL": "https://chintugudiya.org/blog/tech4dev-announces-the-general-availability-of-glific-the-open-source-whatsapp-based-communication-platform/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/glific/glific"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Project Tech4Dev",
+      "website": "https://tech4dev.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

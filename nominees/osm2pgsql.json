@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openstreetmap/osm2pgsql",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openstreetmap/osm2pgsql"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Street Map",

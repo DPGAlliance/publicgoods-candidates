@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openfoodfoundation/openfoodnetwork",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Food Foundation",

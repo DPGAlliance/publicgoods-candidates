@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/meilisearch/MeiliSearch",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/meilisearch/MeiliSearch"
+    }
+  ],
   "organizations": [
     {
       "name": "Meili SAS",

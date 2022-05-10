@@ -1,0 +1,148 @@
+{
+  "name": "Apache Fineract",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.apache.org/legal/src-headers.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/apache/fineract/blob/develop/README.md",
+      "https://demo.fineract.dev/fineract-provider/swagger-ui/index.html",
+      "https://cwiki.apache.org/confluence/display/FINERACT/Fineract+Home"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR, PSD2, OFAC, AML, CFT"
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "W3C, Open Banking Standards, Java Coding Standards"
+    ],
+    "evidenceStandardSupport": [
+      "https://cwiki.apache.org/confluence/display/FINERACT/Coding+Conventions",
+      "https://github.com/apache/fineract/blob/develop/README.md"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our social mission is imperative to the project and as a top-level project within the Apache Software Foundation, we adhere to all the norms, governance, policies and procedures of ASF and the Apache Way \n https://www.apache.org/foundation/policies/privacy.html"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "As a financial services core banking platform, customers that use the software collect data on their individual clients like name, date of birth, address, ID/SSN, etc. "
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        "We don't."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All data in the platform is highly secure and encrypted and we provide the tools in which to securely deploy the platform in the cloud or on-premise installations such that it's secured against adverse impacts related to PII."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We have a code of conduct and a PMC to oversee community interactions. When we participate in programs like Google Code-In, we follow Google norms for restricting access to PII of high-school contributors only having them share their avatar, etc."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://github.com/apache/fineract/blob/develop/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India",
+      "Kenya",
+      "Germany",
+      "Ireland",
+      "United States of America",
+      "Australia",
+      "Mexico",
+      "South Africa",
+      "Canada",
+      "Philippines",
+      "Cameroon",
+      "Finland",
+      "Switzerland",
+      "Uganda",
+      "Hungary",
+      "Tunisia",
+      "Lebanon",
+      "Argentina",
+      "Uruguay",
+      "Philippines",
+      "Sierra Leone",
+      "Singapore"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Mexico",
+      "Kenya",
+      "Burundi",
+      "Rwanda",
+      "Uganda",
+      "Ethiopia",
+      "Tanzania",
+      "South Africa",
+      "Namibia",
+      "Mozambique",
+      "Nigeria",
+      "Senegal",
+      "Ghana",
+      "Sierra Leone",
+      "United Kingdom",
+      "Germany",
+      "Spain",
+      "Philippines",
+      "Myanmar",
+      "China",
+      "Vietnam",
+      "Australia",
+      "Peru",
+      "Honduras",
+      "Nicaragua",
+      "Argentina",
+      "Colombia",
+      "Dominican Republic",
+      "Tunisia",
+      "Jordan",
+      "Lebanon",
+      "Laos",
+      "Vietnam",
+      "Singapore"
+    ]
+  }
+}

@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/ConservationInternational/trends.earth",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ConservationInternational/trends.earth"
+    }
+  ],
   "organizations": [
     {
       "name": "Conservation International",

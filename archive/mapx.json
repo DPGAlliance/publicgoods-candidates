@@ -1,0 +1,34 @@
+{
+  "name": "MapX",
+  "description": "MapX is a spatial data infrastructure that aims to support the sustainable use of natural resources and the environment by increasing access to the best available geospatial information and related monitoring technologies. ",
+  "website": "https://www.mapx.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/unep-grid/map-x-mgl/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unep-grid/map-x-mgl"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNEP",
+      "website": "https://unepgrid.ch/en",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

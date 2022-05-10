@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openopps/openopps-platform",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openopps/openopps-platform"
+    }
+  ],
   "organizations": [
     {
       "name": "The United States General Services Administration",

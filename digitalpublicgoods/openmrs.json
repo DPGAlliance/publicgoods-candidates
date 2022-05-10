@@ -1,0 +1,161 @@
+{
+  "name": "OpenMRS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy \nhttps: //wiki.openmrs.org/display/RES/OpenMRS+Copyright+and+DMCA+Policy"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://wiki.openmrs.org/display/docs/Developer+Guide"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Reporting tools are built into the platform to support administrative, aggregated reporting to governments and stakeholders."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "OpenMRS can be HIPAA compliant in its present form, provided implementers building on our platform have the right monitoring/logging/security business policies in place."
+    ],
+    "adherenceSteps": [
+      "OpenMRS supports implementers to periodically review (https://www.measureevaluation.org/resources/publications/tr-20-413.html) and collaboratively respond to any security issues related to privacy laws. This process is documented on our wiki (https://www.measureevaluation.org/resources/publications/tr-20-413.html)"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR",
+      "REST",
+      "LOINC",
+      "SNOMED",
+      "ICD",
+      "Atom"
+    ],
+    "evidenceStandardSupport": [
+      "Yes. FHIR2 Module (https://wiki.openmrs.org/display/projects/OpenMRS+FHIR+Module); REST Web Services module (https://addons.openmrs.org/show/org.openmrs.module.webservices-rest); OCL for OpenMRS (https://wiki.openmrs.org/display/projects/User+Guide%3A+Open+Concept+Lab+%28OCL%29+for+OpenMRS); Atom Feed module (https://wiki.openmrs.org/display/docs/Atom+Feed+Module)"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "FHIR"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "OpenMRS Contribution Policy (https://wiki.openmrs.org/display/RES/OpenMRS+Contribution+Policy); OpenMRS Community Privacy Policy (https://wiki.openmrs.org/display/RES/OpenMRS+Privacy+Policy)"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "The OpenMRS platform maintained by the community does not collect any PII data. Implementers extend the OpenMRS platform and are ultimately responsible for assuring the privacy and security of PII data. The customized version of OpenMRS that implementers deploy does collect and store PII data. This data typically includes demographic, identifiers, and private medical information that are inherently collected and stored by any electronic medical record system."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The OpenMRS Community promotes best security and quality assurance practices in an effort to support the privacy of PII and prevent adverse impact related to PII. Security and quality assurance best practices that can contribute to the prevention of adverse impact related to PII are integrated into our development processes and automated as possible. For instance, our OpenMRS Module Release Best Practices (https://wiki.openmrs.org/display/docs/OpenMRS+Module+Release+Best+Practices) includes a section for checking modules for common OpenMRS security issues prior to release. Our Quality Assurance Team (https://wiki.openmrs.org/display/RES/OpenMRS+Quality+Assurance+Support+Team) assists community and implementer teams to improve QA processes and tools."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Documentation, contributor comments",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "OpenMRS prides itself on being a friendly and collaborative community. This comes largely from our ability to hold ourselves, and each other, accountable for our behavior with each other. Part of that approach to accountability includes escalating awareness of circumstances that make members of our community feel unequal, uncomfortable, or unsafe. In situations where someone witnesses behaviors in the community that betrays our code of conduct, we encourage individuals to communicate concerns directly with that individual or group. In circumstances where someone is either uncomfortable approaching the individual or group, or feel as if their intervention has been unsuccessful, individuals are encouraged to approach the OpenMRS community management team."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We do not identify the target age of our contributors, enforce age limits, or provide any parental/guardian controls."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Please see the OpenMRS Code of Conduct (https://wiki.openmrs.org/display/RES/OpenMRS+Code+of+Conduct). Note that the OpenMRS community management team considers and decides upon an appropriate penalty based on the severity of the violation. In all instances, both the reporter and violator will be notified of the event, and what action will be taken. Such actions could include one or more of the following:",
+        "An official warning message on the violation",
+        "Temporary or permanent suspension of OpenMRS accounts",
+        "Removal of privileges from, or adding restrictions to OpenMRS accounts",
+        "Removal of content/contributions",
+        "Removal from the OpenMRS community"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Bangladesh",
+      "Cambodia",
+      "Cameroon",
+      "Chile",
+      "Côte d'Ivoire",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Hungary",
+      "India",
+      "Indonesia",
+      "Kazakhstan",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Malawi",
+      "Mexico",
+      "Mozambique",
+      "Nepal",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Rwanda",
+      "Sierra Leone",
+      "South Africa",
+      "Sri Lanka",
+      "Tajikistan",
+      "Tanzania",
+      "Uganda",
+      "Vietnam"
+    ],
+    "deploymentCountries": [
+      "Bangladesh",
+      "Cambodia",
+      "Cameroon",
+      "Chile",
+      "Côte d'Ivoire",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Hungary",
+      "India",
+      "Indonesia",
+      "Kazakhstan",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Malawi",
+      "Mexico",
+      "Mozambique",
+      "Nepal",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Rwanda",
+      "Sierra Leone",
+      "South Africa",
+      "Sri Lanka",
+      "Tajikistan",
+      "Tanzania",
+      "Uganda",
+      "Vietnam"
+    ]
+  }
+}

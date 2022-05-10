@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "The evidence not sufficient enough because a link wasn't provided.",
+    "confidence": 2
+  },
+  "user": "Lovelyfin00",
+  "timestamp": 1634301385,
+  "timeTaken": 581
+}

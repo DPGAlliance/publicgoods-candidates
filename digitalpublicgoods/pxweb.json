@@ -1,0 +1,124 @@
+{
+  "name": "PxWeb",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/statisticssweden/PxWeb/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The statistics that the application present to a user is either stored in proprietary databases or in PC-Axis PX file. The Px file format specification can be found at https://scb.se/en/services/statistical-programs-for-px-files/px-file-format/ "
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.scb.se/px-web"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Terms of use - https://www.scb.se/px-web"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "WCAG 2.1"
+    ],
+    "evidenceStandardSupport": [
+      "WCAG 2.1 Level AA (Since this is a web application it can be customized e.g. colors can be changed etc and the content ie the tables is provide by the organization these parts we cannot assure that they follow WCAG 2.1)"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We Develop with Github. We use github to host code, to track issues and feature requests, as well as accept pull requests.",
+      "Report bugs using Github's issues. We use GitHub issues to track public bugs.",
+      "Commit code. We Use Github Flow, So All Code Changes Happen Through Pull Requests Pull requests are the best way to propose changes to the codebase.",
+      "Use a Consistent Coding Style. We follow the naming convention from Microsoft (https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) also comment code using XML comments"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Contributor Covenant Code of Conduct: https://github.com/statisticssweden/PxWeb/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "- The application only requires read access to the database to assure that a malicious user can manipulate the data. \n -Inputs are always validated. \n -Works with both HTTP and HTTPS, but HTTPS is preferable. \n -Administration interface is password protected and a IP filter could be enable to futher restrict the access (default only access från the same server (localhost) is allowed)"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "PxWeb does not collect any data it only distributes statistical data tables see https://www.statistikdatabasen.scb.se/sq/110351",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "PxWeb code of conduct: https://github.com/statisticssweden/PxWeb/blob/master/CODE_OF_CONDUCT.md",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "We have a group of people that goes through all contribution that also works as a gate for inappropriate content."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "deploymentCountries": [
+      "Albania",
+      "Armenia",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Cyprus",
+      "Burkina Faso",
+      "France",
+      "Georgia",
+      "Ghana",
+      "Iceland",
+      "Indonesia",
+      "Jordan",
+      "Latvia",
+      "North Macedonia",
+      "Mali",
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Mozambique",
+      "Norway",
+      "Philippines",
+      "Portugal",
+      "Switzerland",
+      "Slovenia",
+      "Spain",
+      "Ukraine",
+      "South Africa",
+      "United Arab Emirates",
+      "Palestine State"
+    ]
+  }
+}

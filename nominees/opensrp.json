@@ -1,0 +1,49 @@
+{
+  "name": "OpenSRP",
+  "aliases": [
+    "Open Smart Register Program"
+  ],
+  "description": "Open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.",
+  "website": "https://smartregister.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/opensrp/opensrp-server-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://smartregister.org/impact/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenSRP has empowered health workers in 17 countries and counting.",
+      "evidenceURL": "https://smartregister.org/impact/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://smartregister.org/impact/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opensrp/opensrp-server-core"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ona",
+      "website": "https://company.ona.io/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Safe YOU",
+  "aliases": [
+    ""
+  ],
+  "description": "Free multilingual, safety mobile application for women and girls that assists in response and prevention of violence against women and girls, enabling them to get access to professional consultations, reliable information, and community. It is also a content management and monitoring platform for governmental and non-governmental organizations to raise awareness, educate and empower women and girls.",
+  "website": "https://safeyou.space/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/safeyou-space/safeyou/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Our solution - Safe YOU mobile application, is an innovative tool to combat violence against women and girls (VAWG), it also provides tools for stakeholders of the field (govermental and non governmental organizations, international organizations) to create and manage content intended to educate women and girls on differents subjects that can potentially prevent the VAWG, as well as empower them through consolidation of resources, knowledge and community.  Thereby our solution is intended to reach most of the targets set out for “Gender Equality” sustainable development goal (targets: 5.1, 5.2, 5.3 5.6, 5b, 5c).",
+      "evidenceURL": "https://www.forbes.com/sites/jackieabramian/2021/04/01/safe-you-mobile-app-shields-women-against-domestic-violence/?sh=3b7c82592e73"
+    }
+  ],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/safeyou-space/safeyou"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Impact Innovations Institute LLC",
+      "website": "https://safeyou.space",
+      "org_type": "owner",
+      "contact_name": "Mariam Torosyan",
+      "contact_email": "mariam@safeyou.space"
+    }
+  ],
+  "stage": "DPG"
+}

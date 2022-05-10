@@ -1,0 +1,56 @@
+{
+  "name": "ODK",
+  "description": "ODK lets you build powerful offline forms to collect the data you need wherever it is. It is the global standard for offline data collection.",
+  "website": "https://getodk.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/getodk/central/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Nigeria uses ODK to increase locally grown food supply and create jobs in the agriculture sector"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "World Health Organization uses ODK for disease surveillance for COVID-19, Polio and Cholera",
+      "evidenceURL": "http://www.emro.who.int/somalia/news/cases-of-covid-19-surge-in-somalia-as-do-response-efforts-for-contact-tracing.html"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Honduras uses ODK to ensure the educational progress of millions of students"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Carter Center uses ODK to assess the fairness of elections",
+      "evidenceURL": "https://blog.cartercenter.org/2012/08/06/carter-center-on-leading-edge-of-technology-use-in-election-observation/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Red Cross uses ODK to improve the efficiency and impact of humanitarian action",
+      "evidenceURL": "https://americanredcross.github.io/2019/01/08/odk-collect-improvements/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/getodk/central"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Get ODK Inc",
+      "website": "https://getodk.org",
+      "org_type": "owner",
+      "contact_name": "Yaw Anokwa",
+      "contact_email": "yanokwa@getodk.org"
+    }
+  ],
+  "stage": "DPG"
+}

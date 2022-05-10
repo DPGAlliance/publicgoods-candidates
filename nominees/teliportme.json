@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/teliportme/remixvr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/teliportme/remixvr"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openeemeter/eemeter",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openeemeter/eemeter"
+    }
+  ],
   "organizations": [
     {
       "name": "Recurve",

@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://sourceforge.net/projects/omfs/",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://sourceforge.net/projects/omfs/"
+    }
+  ],
   "organizations": [
     {
       "name": "Octopus Microfinance",

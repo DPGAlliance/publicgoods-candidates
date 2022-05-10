@@ -1,0 +1,35 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "The provided link is a valid license MPL-2.0 license agreement, but the license attached the at least once source code repository has been modified from the original MPLv2 to include (and not add) its (otherwise valid) Additional Disclaimer. I am not confident this is a legally valid way to add the Disclaimer as it seems to constitute a modification to the license itself.",
+    "confidence": 2
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "There are several contributors to the repository who appear to be affiliated with \"Dynamic Solution Innovators Ltd.\" which is not in the list above. This could be remedied by a simpler statement such as \"Copyright (C) the project contributors\", e.g.",
+    "confidence": 2
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "user": "downeymj",
+  "timestamp": 1636174923,
+  "timeTaken": 538
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Boxtribute",
+  "description": "A web-app for organisations to run a free shop. Giving freedom and dignity to refugees when receiving aid.",
+  "website": "https://www.boxtribute.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/boxwise/dropapp/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "With their online platform Boxtribute, the young entrepreneurs want to ensure that humanitarian aid supplies reach emergency areas faster and are better distributed.",
+      "evidenceURL": "https://digitalhublogistics.com/award-2020-call/"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://digitalhublogistics.com/award-2020-call/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "With their online platform Boxtribute, the young entrepreneurs want to ensure that humanitarian aid supplies reach emergency areas faster and are better distributed.",
+      "evidenceURL": "https://digitalhublogistics.com/award-2020-call/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/boxwise/dropapp"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Stitching Boxwise",
+      "website": "https://www.boxtribute.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Plant-for-the-Planet",
+  "description": "Aims to raise awareness amongst children and adults about the issues of climate change",
+  "website": "https://www1.plant-for-the-planet.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/Plant-for-the-Planet-org/treecounter-app/blob/develop/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://www.washingtonpost.com/graphics/2020/climate-solutions/trillion-tree-reforestation-climate-change-philippines/"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceURL": "https://www.nationalgeographic.com/science/article/felix-finkbeiner-plant-for-the-planet-one-trillion-trees"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Plant-for-the-Planet-org/treecounter-app"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Plant-for-the-Planet",
+      "website": "https://www1.plant-for-the-planet.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

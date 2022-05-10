@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/GFDRR/open-risk-data-dashboard",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GFDRR/open-risk-data-dashboard"
+    }
+  ],
   "organizations": [
     {
       "name": "Global Facility for Disaster Reduction and Recovery",

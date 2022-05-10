@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/motech/motech",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/motech/motech"
+    }
+  ],
   "organizations": [
     {
       "name": "MOTECH",

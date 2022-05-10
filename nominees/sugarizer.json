@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/llaske/sugarizer",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/llaske/sugarizer"
+    }
+  ],
   "organizations": [
     {
       "name": "SugarLabs",

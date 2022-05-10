@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/saycel/Saycel.Phone",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/saycel/Saycel.Phone"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/patadejaguar/safeosms",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/patadejaguar/safeosms"
+    }
+  ],
   "organizations": [
     {
       "name": "Sistemas de Informacion PAKAL",

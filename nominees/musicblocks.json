@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/sugarlabs/musicblocks",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sugarlabs/musicblocks"
+    }
+  ],
   "organizations": [
     {
       "name": "SugarLabs",

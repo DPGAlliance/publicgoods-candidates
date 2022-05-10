@@ -13,8 +13,8 @@ const http = require('isomorphic-git/http/node')
 require('dotenv').config();
 
 const nomineeFolder = './nominees';
-const screeningFolder = './screening';
-const apiRepoURL = 'https://github.com/unicef/publicgoods-api.git';
+const DPGFolder = './digitalpublicgoods';
+const apiRepoURL = 'https://github.com/DPGAlliance/publicgoods-api';
 const pathToApiRepo = path.resolve('../publicgoods-api');
 const pathToApiFolder = path.join(pathToApiRepo, 'docs');
 const pathsAdd = [
@@ -24,12 +24,12 @@ const pathsAdd = [
   'docs/nominee']
 
 const author = {
-  name: "Victor Grau Serrat",
-  email: "lacabra@users.noreply.github.com"
+  name: "DPGA bot",
+  email: "96251909+dpgabot@users.noreply.github.com"
 }
 
 
-/* The following DPGs were assessed differently and there is no screening data,
+/* The following DPGs were assessed differently and there is no DPG data,
 /* so we exclude them from the regular flow 
 */
 const earlyGradeReading = [
@@ -67,7 +67,7 @@ function startCheck(){
       if (file.match(/nominees\/.*\.json/)) {
         found = true;
         break
-      } else if (file.match(/screening\/.*\.json/)) {
+      } else if (file.match(/digitalpublicgoods\/.*\.json/)) {
         found = true;
         break
       }
@@ -75,7 +75,7 @@ function startCheck(){
     if(found){
       start()
     } else {
-      console.log('No nominee or screening files have changed or been added. Not running script.')
+      console.log('No nominee or DPG files have changed or been added. Not running script.')
     }
   } else {
     console.log('files.json not found.')
@@ -104,27 +104,27 @@ function writeFile(folder, filename, content){
 }
 
 /*
-/* Appends data from screening to the existing object
+/* Appends data from DPG to the existing object
 */
-function addScreening(jsonObject, name){
+function addDPG(jsonObject, name){
   if (!earlyGradeReading.includes(name)) {
-    const screeningFile = path.join(screeningFolder, `${name}.json`);
-    let screeningData = fs.readFileSync(
-      screeningFile,
+    const DPGFile = path.join(DPGFolder, `${name}.json`);
+    let DPGData = fs.readFileSync(
+      DPGFile,
       'utf8',
       function (err) {
         if (err) {
-          console.log("An error occured while reading JSON Object from file: " + screeningFile);
+          console.log("An error occured while reading JSON Object from file: " + DPGFile);
           return console.log(err);
         }
     });
 
     // Parse JSON object from data
-    var screeningObject = JSON.parse(screeningData);
+    var DPGObject = JSON.parse(DPGData);
 
-    for(const key in screeningObject){
+    for(const key in DPGObject){
       if(key != 'name'){
-        jsonObject[key] = screeningObject[key]
+        jsonObject[key] = DPGObject[key]
       }
     }
   }
@@ -269,10 +269,10 @@ function run() {
         c++;
 
         // Push a deep copy of the object at this point in time, 
-        // as we do not want to include the additional screening data below
+        // as we do not want to include the additional DPG data below
         dpgs.push(JSON.parse(JSON.stringify(newObj)));
 
-        newObj = addScreening(newObj, path.basename(files[i], '.json'))
+        newObj = addDPG(newObj, path.basename(files[i], '.json'))
 
         // Write the JSON object to file
         writeFile(

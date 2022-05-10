@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/SFDigitalServices/sf-dahlia-web",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/SFDigitalServices/sf-dahlia-web"
+    }
+  ],
   "organizations": [
     {
       "name": "Exygy",

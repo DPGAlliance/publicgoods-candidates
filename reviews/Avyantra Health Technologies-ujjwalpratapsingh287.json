@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "ujjwalpratapsingh287",
+  "timestamp": 1611727039
+}

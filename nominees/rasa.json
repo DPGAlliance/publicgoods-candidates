@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/RasaHQ/rasa",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RasaHQ/rasa"
+    }
+  ],
   "organizations": [
     {
       "name": "Rasa",

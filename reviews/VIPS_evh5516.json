@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "Not enough evidence. Just shows rest API.",
+    "confidence": "5"
+  },
+  "user": "evh5516",
+  "timestamp": 1614782782
+}

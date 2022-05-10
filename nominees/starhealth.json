@@ -1,6 +1,6 @@
 {
   "name": "StarHealth",
-  "description": "HealthTools is a suite of data-driven web and SMS-based tools that help citizens check everything from medicine prices and hospital services, to whether their doctor is a quack or not. The toolkit was pioneered in Kenya, and has since also been deployed in Ghana, Nigeria, and South Africa.",
+  "description": "An embedded website toolbar and SMS helpline that allows audiences to check whether their doctor is registered and in good standing, whether their hospital/treatment is covered by Kenya’s National Health Insurance Fund (NHIF), and where the nearest specialist health service is for their ailment. Localised versions of the HealthTools also run in South Africa (where it focuses on helping users confirm that their traditional circumcision surgeon is legit, with a hotline for bogus surgeons), and Nigeria (where it includes tools for checking whether users have been overcharged for medicine, plus whether their hospitals are legit/registered) and Tanzania (where it includes gender-based violence helplines).",
   "website": "https://health.the-star.co.ke/",
   "license": [
     {
@@ -10,14 +10,22 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "The tools are explicitly focused on providing the public with localised, and in some cases personalised, information on healthcare options to help ensure they take informed decision on health issues, ranging from which doctors and hospitals they use, to whether their medicine/treatment choices are cost effective. The tools also help users report suspected abuse, or danger, to health authorities."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth"
+    }
+  ],
   "organizations": [
     {
       "name": "Code for Africa",

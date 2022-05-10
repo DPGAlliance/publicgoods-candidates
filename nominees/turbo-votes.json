@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/democracyworks/voting-method-works",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/democracyworks/voting-method-works"
+    }
+  ],
   "organizations": [
     {
       "name": "Democracy Works",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/prescrypto/rxchain",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/prescrypto/rxchain"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",

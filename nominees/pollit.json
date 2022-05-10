@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/instedd/pollit",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/instedd/pollit"
+    }
+  ],
   "organizations": [
     {
       "name": "InSTEDD",

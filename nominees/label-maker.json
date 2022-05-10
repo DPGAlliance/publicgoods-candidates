@@ -20,7 +20,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/developmentseed/label-maker",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/developmentseed/label-maker"
+    }
+  ],
   "organizations": [
     {
       "name": "Development Seed",

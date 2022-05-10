@@ -1,0 +1,63 @@
+{
+  "name": "VRapeutic",
+  "aliases": [
+    ""
+  ],
+  "description": "VRapeutic develops virtual reality software modules specially tailored to instill cognitive, social, academic, and motor skills in children and young adults. Our ever-growing library of modules empowers therapists with unlimited virtual rehabilitation scenarios, in addition to providing them cutting-edge technologies to track children’s performance and design data-driven rehabilitation plans. VRapeutic's vision is to develop the largest science-backed VR curricula for essential life skills worldwide.",
+  "website": "https://myvrapeutic.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/vrapeutic/Rodja-webXR/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://github.com/vrapeutic/Ellie-Tale#readme"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The solutions provided by VRapeutic aim at realizing effective and science-backed that address diverse neuro-developmental challenges, which is envisaged to empower children and young adults to lead a healthy life.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-vrapeutic"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "As much as it addresses well being, VRapeutic also addresses the quality of education delivered to children and young adults on the different spectra of learning difficulties. By realizing cutting-edge, tech-enabled solutions that empower learners with engaging learning environments, we help achieve a quality of education that wouldn't have been possible otherwise.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-vrapeutic"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Building on our contribution to SDG 4, we believe in the considerable role of quality education and healthcare to the equality of access to opportunities. The better the healthcare, early intervention, and education for atypical children and young adults, the bigger the gap we are able to fill, for example, in job opportunities."
+    }
+  ],
+  "sectors": [
+    "Health",
+    "Education"
+  ],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/vrapeutic/Rodja-webXR"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "VRapeutic, Inc",
+      "website": "https://myvrapeutic.com/",
+      "org_type": "owner",
+      "contact_name": "Yahya Alaa",
+      "contact_email": "yahya@myvrapeutic.com"
+    },
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

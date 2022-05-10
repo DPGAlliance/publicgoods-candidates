@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openml/OpenML",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openml/OpenML"
+    }
+  ],
   "organizations": [
     {
       "name": "Open ML",

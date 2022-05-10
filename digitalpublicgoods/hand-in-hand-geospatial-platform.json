@@ -1,0 +1,177 @@
+{
+  "name": "Hand-in-Hand Geospatial Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.fao.org/hih-geospatial-platform/en/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.fao.org/hih-geospatial-platform/en/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "PRIVACY POLICY FOR USE OF FAO APPLICATIONS: http://www.fao.org/contact-us/privacy-policy/en/"
+    ],
+    "adherenceSteps": [
+      "http://www.fao.org/contact-us/terms/en/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTPS"
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles For Digital Development",
+      "Human Centered Design Principles"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "http://www.fao.org/contact-us/privacy-policy/en/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "For site security purposes and to ensure that this service remains available to all users, FAO employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. \nExcept for authorized investigations and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. Raw data logs are used to determine the number of users and, occasionally, which general domains are accessing the FAO website. FAO also collects anonymous information about users’ browsing behaviour when users visit the website, through the use of cookies. By using the FAO website, users agree that FAO can place cookies on users’ computer, mobile phone or handheld devices. \n Any information provided to FAO by users is held with the utmost care and security, and is not used in any manner other than that set forth in the Privacy Policy (http://www.fao.org/contact-us/privacy-policy/en/), or in any additional site-specific policies, without users' explicit consent. \n All FAO employees who have access to or are associated with the processing of personal data are obliged to respect the confidentiality of official business matters, including personal data."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Afghanistan",
+      "Angola",
+      "Bangladesh",
+      "Bhutan",
+      "Burkina Faso",
+      "Burundi",
+      "Cabo Verde",
+      "Cameroon",
+      "Chad",
+      "Ecuador",
+      "El Salvador",
+      "Eritrea",
+      "Ethiopia",
+      "Gabon",
+      "Gambia",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Haiti",
+      "Honduras",
+      "Kiribati",
+      "Laos",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Nepal",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Peru",
+      "Rwanda",
+      "Sao Tome and Principe",
+      "Senegal",
+      "Solomon Islands",
+      "Somalia",
+      "Sudan",
+      "Syria",
+      "Tajikistan",
+      "Tuvalu",
+      "Uganda",
+      "Tanzania",
+      "Yemen",
+      "Zimbabwe"
+    ],
+    "deploymentCountries": [
+      "Afghanistan",
+      "Angola",
+      "Bangladesh",
+      "Bhutan",
+      "Burkina Faso",
+      "Burundi",
+      "Cabo Verde",
+      "Cameroon",
+      "Chad",
+      "Ecuador",
+      "El Salvador",
+      "Eritrea",
+      "Ethiopia",
+      "Gabon",
+      "Gambia",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Haiti",
+      "Honduras",
+      "Kiribati",
+      "Laos",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Nepal",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Peru",
+      "Rwanda",
+      "Sao Tome and Principe",
+      "Senegal",
+      "Solomon Islands",
+      "Somalia",
+      "Sudan",
+      "Syria",
+      "Tajikistan",
+      "Tuvalu",
+      "Uganda",
+      "Tanzania",
+      "Yemen",
+      "Zimbabwe"
+    ]
+  }
+}

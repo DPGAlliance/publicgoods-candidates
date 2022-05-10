@@ -1,6 +1,6 @@
 {
   "name": "mHero",
-  "description": "mHero is a two-way, mobile phone-based communication system that uses basic text messaging, or SMS, to connect ministries of health and health workers.",
+  "description": "mHero is a two-way, mobile phone-based communication system that connects ministries of health and health workers, by using data from existing local health information systems to deliver messages via locally popular communication channels.",
   "website": "https://www.mhero.org/",
   "license": [
     {
@@ -10,12 +10,22 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "IntraHealth and UNICEF worked together in Liberia to engage national stakeholders, structure and design the mHero approach according to Liberia’s needs, help adapt the technology in the country, and build institutional capacity within the ministry to guide and manage mHero. In December 2014, the ministry pilot-tested mHero. They sent messages to 289 health workers, 57% of whom responded.",
+      "evidenceURL": "https://www.mhero.org/mhero-origins, \nhttps://www.mhero.org/mhero-users-and-use-cases"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/emNutt"
+    }
   ],
   "organizations": [
     {
@@ -24,5 +34,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

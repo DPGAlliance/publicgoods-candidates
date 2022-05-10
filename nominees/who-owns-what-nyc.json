@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/JustFixNYC/who-owns-what",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/JustFixNYC/who-owns-what"
+    }
+  ],
   "organizations": [
     {
       "name": "JustFix",

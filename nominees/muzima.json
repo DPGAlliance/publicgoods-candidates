@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/muzima/muzima-android",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/muzima/muzima-android"
+    }
+  ],
   "organizations": [
     {
       "name": "mUzima",

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openstreetmap/iD",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openstreetmap/iD"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Street Map",

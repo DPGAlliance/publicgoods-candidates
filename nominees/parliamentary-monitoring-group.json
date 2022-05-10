@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenUpSA/pmg-cms-2",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenUpSA/pmg-cms-2"
+    }
+  ],
   "organizations": [
     {
       "name": "Open Up",

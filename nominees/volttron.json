@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/VOLTTRON/volttron",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/VOLTTRON/volttron"
+    }
+  ],
   "organizations": [
     {
       "name": "Pacific Northwest National Laboratory",

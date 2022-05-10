@@ -1,0 +1,101 @@
+{
+  "name": "Oky",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://okyapp.info/ (Legal notice)"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Software: Readme is included in the repository: https://github.com/alextyers/period-tracker-app-whitelabelled",
+      "Content: the folder has clear instructions on how to use the content (and the content is also present in the repository, as guidance): https://drive.google.com/open?id=1iXM8tBPdsnLciG1Pw2eFJN4zq3TsKpEA"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "All non-PII data is stored in a postgress SQL database and can be exported in standard CSV or SQL statement formats on demand. However, Oky has strict data governance processes in place, and access is very restricted."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Privacy policy: https://docs.google.com/document/d/16lW1SV-DrO4XsninP_SsMj424RDcCOapG96BS0OxSoo/preview",
+      "Terms and conditions: https://docs.google.com/document/d/1zN_YF5Mae13uEAljoZnsisoX_5C9SFaaCiOf2ZfFRNk/preview"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST",
+      "JSON",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/alextyers/period-tracker-app-whitelabelled"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Oky adheres to best practices, in particular to the Principles for Digital Development:",
+      "Design with the user. \n1. Create user personas: was undertaken at inception point. The UI/UX designer in collaboration with the Oky team created profiles of the target audience. \n2. Develop and validate user scenarios: test cases where written which cover main user journeys and scenarios. During user testing carried out in Mongolia and Indonesia in 2019, the main user cases were tested by Oky's target users. \n 3. Develop methods for user feedback and input throughout the product lifestyle: (i) Target audience (adolescent girls in Indonesia and Mongolia) was consulted during the development of Oky MVP. They selected avatars, colours and main functionalities. (ii) User testing was carried out in Mongolia and Indonesia in 2019 to help identify and iterate the features which were not intuitive or easy to use for target audience.",
+      "Understand the existing ecosystem. \n 1. Map out current and past digital development initiatives: this was done prior to the commencement of the work. Documentation is available. \n 2. Understand the local protocols you need to take into account: All content is adapted by country teams/local partners to ensure it is locally and culturally relevant. For example, in Indonesia, encyclopedia content was localized during the development of the product (prior to launch) to fulfill local government requirements in Indonesia.",
+      "Design for scale. \n 1. Develop a theory of change that includes scale as a goal & invest time to plan for a tool that could scale: Oky was developed from the onset with scale in mind. It’s theory of change includes scaling. In addition, Oky was built in a modular approach so that new features could easily be added and removed. All of the app components and assets were segregated so they could easily be swapped out when rolling the product out to new countries. A white-label version was also placed on the GitHub repository to facilitate scaling to new countries by any interested party.",
+      "Be data driven. \n 1. Identify and address the risks associated with data privacy and security: no personally identifiable information is requested or kept in our records to ensure the privacy of our users. In addition, there is a privacy policy that outlines how the data is kept safe. Oky’s privacy policy can be found on the Oky website (https://docs.google.com/document/d/16lW1SV-DrO4XsninP_SsMj424RDcCOapG96BS0OxSoo/preview)",
+      "Use open standards, open source. \n 1. Oky is an open source software: anyone in the world can download the white-labelled version of the code. \n 2. Oky complies with W3C standards. For instance, both the website and the app follow the guidelines written under WAI, as both are built to enable text to speech. In addition, to comply with W3C privacy standards, the Oky website does not use any cookies. Also, as Oky is offered in multiple languages (English, Bahasa, Mongolian and some more to be coming too), it has been built to comply with the internalization principles. The app and website has been built in a way so it caters for different alphabets such as the Cyrillian, Latin alphabet etc.",
+      "Finally, to keep user's data safe, Oky follows the standards set in Cyber Essentials. This includes encryption of data and penetration testing (amongst other methods) to ensure there are no vulnerabilities in the system and potential data leaks. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "1. The Oky app has been designed with very high privacy settings, to protect users. We do not hold in our database any personally identifiable data. While user-generated fields at time of registration (username, password, secure answer) are not able to identify an individual, as part of Oky’s strict data governance approach, Oky hashes and salts these fields to render the original values inaccessible. This hashing approach is used with the purpose to: (a) obfuscate the username to anyone who might access the database, and (b) to guarantee user authentication, ie. to allow users to log into their account on the same device or a different device.\n2. The app has also been designed to be discrete (based on user feedback) so that it is not immediately obvious to anyone else that it is a period tracker - it has a discrete icon, the interface does not look like a traditional period tracker app (for anyone looking over a user’s shoulder), and it will only send discrete messages to users via the push notification from CMS. For example, messages will never be sent that give away personal information that others may see. The Do-No-Harm principle is imperative. For example, messages like 'your period is late, you might be pregnant' would never be sent.\n3. Users require a passcode to access their account on the app, to protect their account and information (especially for users who may share phones). They are required to enter their passcode every time they open the app; this is the default. Users also set up a  memorable question and answer if they lose their passcode, but this cannot be reset from the backend if users forget it, to protect user data.\n4. Content has been created and vetted by experts, and some content (eg quizzes and did you knows) has had age-restrictions added for users aged 15 (according to their account profile) and below. This is to protect younger users from content that may not be deemed age appropriate (and that they cannot control seeing, as the quizzes appear at random).\n5. Efforts have been made to engage parents and caregivers, through the website, to inform them of what Oky is and what it is for."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Oky’s content is not user-generated, and is vetted by sexual and reproductive health experts to ensure it is evidence-based and aligns with the international technical standards of comprehensive sexuality education before it goes live."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mongolia",
+      "Indonesia"
+    ],
+    "deploymentCountries": [
+      "Indonesia",
+      "Mongolia",
+      "Kenya"
+    ]
+  }
+}

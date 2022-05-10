@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Yes, the link points to Open Database License ODbL 1.0.",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The project perfectly coincides with the SDG 3: Good Health and Well-being. The SDG 3 ensures healthy lives and promote well-being for all at all ages and the project(Global Healthsites Mapping) works towards that goal with the use of technology.",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "Yes, the link points to `Healthsites.io ip policy` page on github which has overall details of the project including project description, APIs, data models to name a few.",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Yes, the link points to `healthsites` official repository on github which has all the information about the projects including the description, data flow and data model, technology stack used to name a few.",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "The statement provided by the project owner is true. The flow, import and export of data from and to the project is done non-proprietorially. Hence, the statement is valid. ",
+    "confidence": 4
+  },
+  "user": "rgrupesh",
+  "timestamp": 1634190396,
+  "timeTaken": 1359
+}

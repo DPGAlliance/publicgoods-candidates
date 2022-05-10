@@ -1,0 +1,38 @@
+{
+  "name": "OnSSET",
+  "description": "A GIS based optimization tool, developed to support electrification planning and decision making.",
+  "website": "https://www.onsset.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/OnSSET/onsset/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "The tool is focused on the assessment and deployment of conventional and renewable energy technologies aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.",
+      "evidenceURL": "https://www.energy.kth.se/energy-systems/completed-projects/open-source-spatial-electrification-toolkit-onsset-1.940024"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OnSSET/onsset"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OnSSET",
+      "website": "https://www.onsset.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/LLK/scratch-gui",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LLK/scratch-gui"
+    }
+  ],
   "organizations": [
     {
       "name": "Scratch",

@@ -1,0 +1,46 @@
+{
+  "name": "Sanitation Digital Solutions Platform",
+  "aliases": [
+    "SaniDigS"
+  ],
+  "description": "Amref Health Africa in Uganda is partnering with the African Academy of Sciences to pilot a digital sanitation project in Kawempe Division of Kampala district. The project aims at developing a one stop sanitation digital (SaniDigS) platform that is not limited by distance or time.",
+  "website": "https://www.sanidigs.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "With access to better sanitation facilities, there is reduction of water contamination and the related water and sanitation related diseases. We shall see reduction in water and sanitation diseases incidences, reduction in diarrheal related malnutrition and better health outcomes in children under 5 years of age."
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "When people have access to sanitation and hygiene services at a single stop center that is not limited by distance or time, this will improve the turn around time service and access to better sanitation and hygiene and consequently reduce the risks of water contamination thus resulting into inclusive access to sustainable access to safe water, sanitation and hygiene services."
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Amref Health Africa",
+      "website": "https://amref.org/uganda/",
+      "org_type": "owner",
+      "contact_name": "Comfort Hajra Mukasa",
+      "contact_email": "hajra.mukasa@amref.org"
+    }
+  ],
+  "stage": "DPG"
+}

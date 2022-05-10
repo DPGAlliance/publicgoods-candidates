@@ -16,7 +16,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opentrace-community/opentrace-android",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opentrace-community/opentrace-android"
+    }
+  ],
   "organizations": [
     {
       "name": "Government Technology Agency of Singapore",
