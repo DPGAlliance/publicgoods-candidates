@@ -1,0 +1,61 @@
+{
+  "name": "GNOME",
+  "aliases": [
+    "GNU Network Object Model Environment"
+  ],
+  "description": "An easy and elegant way to use your computer, GNOME is designed to help you have the best possible computing experience.",
+  "website": "https://www.gnome.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://wiki.gnome.org/Contribute/License"
+    },
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://wiki.gnome.org/Contribute/License"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://wiki.gnome.org/Contribute/License"
+    },
+    {
+      "spdx": "LGPL-2.1",
+      "licenseURL": "https://wiki.gnome.org/Contribute/License"
+    },
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://wiki.gnome.org/Contribute/License"
+    },
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://wiki.gnome.org/Contribute/License"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The GNOME platform consists of libraries, services and tools which provide everything you need to create and distribute high-quality apps. The platform covers everything from basic UI creation, code editing and building, and app distribution, through to more specialised libraries and services. GNOME is specifically tied to SDG targets 9.5, 9.b, and 9.c.",
+      "evidenceURL": "https://developer.gnome.org/documentation/introduction.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://gitlab.gnome.org/explore/projects/trending",
+      "name": "Platform components: Libraries and services"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GNOME Foundation",
+      "website": "https://foundation.gnome.org/",
+      "org_type": "owner",
+      "contact_name": "Rosanna Yuen",
+      "contact_email": "zana@gnome.org"
+    }
+  ],
+  "stage": "nominee"
+}
