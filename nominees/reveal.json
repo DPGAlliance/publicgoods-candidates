@@ -13,6 +13,16 @@
   ],
   "SDGs": [
     {
+      "SDGNumber": 1,
+      "evidenceText": "Reveal supports microplanning and mobilization of resources, including basic social services, financial aid, or food aid. ",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Support the planning and delivery of food aid and nutrition resources to last mile communities.",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
       "SDGNumber": 3,
       "evidenceText": "Support the planning and delivery of health intervention campaigns including malaria, vaccination (childhood and COVAX), and neglected tropical diseases.",
       "evidenceURL": "https://revealprecision.com/use-cases/"
@@ -21,26 +31,26 @@
       "SDGNumber": 6,
       "evidenceText": "Provide support for water quality monitoring and water point availability.",
       "evidenceURL": "https://revealprecision.com/use-cases/"
-    },
-    {
-      "SDGNumber": 1,
-      "evidenceText": "Reveal supports microplanning and mobilization of resources, including basic social services, financial aid, or food aid. ",
-      "evidenceURL": "https://revealprecision.com/use-cases/"
-    },
-    {
-      "SDGNumber": 2,
-      "evidenceText": "Support the planning and delivery of food aid and nutrition resources to last mile communities. ",
-      "evidenceURL": "https://revealprecision.com/use-cases/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "Reveal 3.0",
-      "url": "https://github.com/orgs/akrosinc/repositories"
+      "name": "Reveal server",
+      "url": "https://github.com/akrosinc/reveal-server"
+    },
+    {
+      "name": "Reveal web",
+      "url": "https://github.com/akrosinc/reveal-web"
+    },
+    {
+      "name": "Reveal client",
+      "url": "https://github.com/akrosinc/reveal-client"
     }
   ],
   "organizations": [
