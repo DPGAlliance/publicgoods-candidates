@@ -33,16 +33,19 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "JSON",
+      "CSV",
+      "HTTPS",
+      "HTML"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://timeseriesdoc.sepa.org.uk/api-documentation/"
     ],
-    "implementBestPractices": "No",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Semi-user focussed approach, we engaged users on what the service would do and whether the proposed solution met their requirements.  Because there was a readily available solution we did need to develop our own so instead procured it and not engage in user centric design etc.  Our focus was instead on checking the solution and guidance would meet user needs"
     ]
   },
   "doNoHarm": {
@@ -60,7 +63,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Users can access and download the data without any form of registration, however to protect the system there is a daily limit per IP address.  Users may register for an API key, where we store limited information (name, company, email address) at registration to enable us to provide the key and contact them if they have any difficulties.  A full Data Protection Impact Assessment was carried out and the data is securely stored."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
