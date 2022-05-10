@@ -3,7 +3,7 @@
   "aliases": [
     "Data in Climate Resilient Agriculture"
   ],
-  "description": "Data in Climate Resilient Agriculture (DiCRA) is a collaborative geospatial platform which provides open access to key geospatial datasets pertinent to climate resilient agriculture. These datasets are curated and validated through collaborative efforts of a large community of data scientists and citizen scientists across the world. The pattern detection and data insights emerging from DiCRA are aimed towards strengthening evidence-driven policy making for climate resilient food systems. DiCRA is guided by the digital public good principles of open access, open software, open code and open APIs.",
+  "description": "Data in Climate Resilient Agriculture (DiCRA) is a collaborative geospatial platform which provides open access to key geospatial datasets pertinent to climate resilient agriculture. These datasets are curated and validated through collaborative efforts of a large community of data scientists and citizen scientists across the world. The pattern detection and data insights emerging from DiCRA are aimed towards strengthening evidence-driven policy making for climate resilient food systems.",
   "website": "https://dicra.undp.org.in/",
   "license": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "Data4Policy",
-      "url": "https://github.com/undpindia/Data4Policy"
+      "url": "https://github.com/undpindia/data4policy"
     }
   ],
   "organizations": [
