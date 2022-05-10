@@ -1,0 +1,69 @@
+{
+  "name": "Xcapit",
+  "aliases": [
+    "Xcapit Wallet"
+  ],
+  "description": "Xcapit is bringing financial inclusion by developing financial products and services through DeFi, so as to transform finances into an engine for human well-being. The team has built an open source and self-custodial wallet, using blockchain for wealth management, including financial planning and financial education in a gamified way.",
+  "website": "https://xcapit.com/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://gitlab.com/xcapit-foss/documentation/-/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "The accessible and gamified financial education along with the transparent donation network on the blockchain contribute to eradicate poverty worldwide. By improving people's economic situation we help break the intergene",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/xcapit-building-platform-using-blockchain-and-ai-increase-easy-safe-access"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "The transparent donation network on the blockchain allows anyone, in a simple and instant way to sponsor another person, to donate to different causes or NGOs, located anywhere in the world, contributing to causes related to child nutrition and zero hunger worldwide. This is how we contribute to SDG 2 at Xcapit.",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/xcapit-building-platform-using-blockchain-and-ai-increase-easy-safe-access"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "We agree that education enables upward socioeconomic mobility and is a key to escaping poverty. This is why we are leveraging technology to increase the access to education equally for both women and men, in an engaging and gamified way with topics like personal finances and blockchain. We are working on universal design to ensure everyone can use our platform, including people with disabilities. The donation modules enable people to contribute to causes related to financing educational and grants programs. This is how we contribute to SDG 4 at Xcapit.",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/xcapit-building-platform-using-blockchain-and-ai-increase-easy-safe-access"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We also believe that gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world. By enhancing the use of  technology and by providing financial and blockchain education we promote women’s empowerment and improve the participation and equal opportunities in topics related to finance and blockchain. The ability to financially plan, learn and invest without intermediaries helps women to take ownership and control of their own money and, therefore, their freedom. This is how we contribute to SDG 5 at Xcapit.",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/xcapit-building-platform-using-blockchain-and-ai-increase-easy-safe-access"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "We increase financial accessibility and inclusion to reduce inequality and ensure no one is left behind, especially in developing countries and vulnerable populations. Our first target is Latin America, in which a large population is unbanked and where remittances have become slow, expensive and sometimes at the risk of scam for those unbanked. Our solution allows sending remittances in less than 10 minutes and paying less than 20 cents of American dollar per transaction. Some countries have high inflation and devaluation, deeply affecting the low-income bracket population, accentuating the vicious intergenerational cycle of poverty. Our mobile app allows them to save in stronger currencies and invest their capital. The gamified education of personal finances is aimed to help parents have a healthier relationship with money, improving and teaching a new culture of saving and investing for their children and future generations. The user is completely anonymous and can have the control of her or his own money regardless of gender, sex, disability, race, ethnicity, origin, religion, economic or any other status. This is how  we contribute to SDG 10 at Xcapit.",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/xcapit-building-platform-using-blockchain-and-ai-increase-easy-safe-access"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "App",
+      "url": "https://gitlab.com/xcapit-foss/app"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://gitlab.com/xcapit-foss/documentation"
+    },
+    {
+      "name": "Notifications",
+      "url": "https://gitlab.com/xcapit-foss/notifications-admin"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Xcapit",
+      "website": "https://xcapit.com/",
+      "org_type": "owner",
+      "contact_name": "Fernando Boiero",
+      "contact_email": "fer@xcapit.com"
+    }
+  ],
+  "stage": "nominee"
+}
