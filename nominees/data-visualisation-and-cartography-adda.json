@@ -1,0 +1,51 @@
+{
+  "name": " Data visualisation and Cartography - ADDA",
+  "aliases": [
+    "DVAC - ADDA"
+  ],
+  "description": "DVAC is a 1 - 2 week self enrolment, self paced, online course that equips students with skills in data visualisation and cartography.",
+  "website": "https://www.unicef.org/malawi/african-drone-and-data-academy-malawi",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://adda-malawi.org/dvac/enroll"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Drone technology and associated data are used in agriculture to enhance and improve production"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Drone visualisation is used to map cargo drone routes for last mile delivery"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "This is educational content"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Map data used for urban planning and resilience"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Drone collected data are used for various climate applications "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://www.unicef.org",
+      "org_type": "funder",
+      "contact_name": "Denise Soesilo",
+      "contact_email": "dsoesilo@unicef.org"
+    }
+  ],
+  "stage": "nominee"
+}
