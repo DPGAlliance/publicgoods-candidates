@@ -1,0 +1,55 @@
+{
+  "name": "Remotely Piloted Aircraft Technology - ADDA",
+  "aliases": [
+    "RPAT - African Drone and Data Academy"
+  ],
+  "description": "RPAT is a 1 - 2 week self enrolment, self paced, online course that introduces students to aerodynamics, drone-design, and drone flight operations.",
+  "website": "https://adda-malawi.org/rpat/enroll",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://adda-malawi.org"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Drone technaology and enabled services are used in agriculture"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Drone technaology and enabled services are used to transport medicines to hard to reach places"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "RPAT is an online course available to youth wanting to learn about drone tech"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "SKills acquired through the overall content of ADDA help students place into jobs"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Drone tech is used for data acquisition for urban planning. "
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Drone tech used for mapping towards resilience, as well as forest cover monitoring. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://www.unicef.org",
+      "org_type": "funder",
+      "contact_name": "Denise Soesilo",
+      "contact_email": "dsoesilo@unicef.org"
+    }
+  ],
+  "stage": "nominee"
+}
