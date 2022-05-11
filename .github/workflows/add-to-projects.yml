@@ -1,0 +1,32 @@
+# This action automatically adds the current issue or pull request to a GitHub project. 
+# Note that this is for GitHub projects (beta), not the original GitHub projects.
+# https://github.com/marketplace/actions/add-to-github-projects-beta
+
+name: Provision PRs to Projects
+
+on:
+  pull_request:
+    types: [reopened, opened]
+
+
+
+jobs:
+  automate-PR-labels:
+    name: Initial labeling
+    runs-on: ubuntu-latest
+    steps:
+      - uses: andymckay/labeler@master
+        with:
+          add-labels: "needs-triage"
+
+  add-to-project:
+    name: Add PR to Projects
+    needs: automate-PR-labels
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/DPGAlliance/projects/1/
+          github-token: ${{ secrets.GITHUBTOKEN }}
+          labeled: needs-triage
+          
