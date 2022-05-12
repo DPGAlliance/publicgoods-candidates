@@ -1,0 +1,107 @@
+{
+  "name": "if me",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.if-me.org/about"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "No",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Technical documentation - https://github.com/ifmeorg/ifme/wiki",
+      "Installation guide - https://github.com/ifmeorg/ifme/wiki/Installation"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Personal Information Protection Electronic Documents Act (PIPEDA) in Canada",
+      "General Data Protection Regulation EU (GDPR EU) in the European Union",
+      "For countries using our software in other regions are responsible for complying with local legislation"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.if-me.org/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Web Content Accessibility Guidelines (WCAG) 2.1",
+      "HTML",
+      "CSS",
+      "ECMAScript"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/ifmeorg/ifme",
+      "https://github.com/ifmeorg/ifme/wiki/Developers"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile development process",
+      "Continuous integration for production deployment - https://github.com/ifmeorg/ifme/wiki/Automated-Testing",
+      "Component-based design system",
+      "Ruby on Rails Coding Standards https://github.com/ifmeorg/ifme/wiki/Backend-Practices",
+      "JavaScript Coding Standards - https://github.com/ifmeorg/ifme/wiki/Frontend-Practices",
+      "React Coding Standards"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We enforce the Contributor Covenant Code of Conduct in our contributor community and web app. We also have a Slack Code of Conduct for our contributor community. In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Location (Optional)",
+        "Email address"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Data is not given or made accessible to any third party. Deleting your account will remove all of your data."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "It collects and stores content related to someone's mental health experiences, self-care strategies, and medication. It does not distribute the content to third-party services.",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://www.if-me.org/privacy",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We enforce the Contributor Covenant Code of Conduct in our contributor community and web app. We also have a [Slack Code of Conduct](https://github.com/ifmeorg/ifme/wiki/Join-Our-Slack#slack-code-of-conduct) for our contributor community. In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Covenant Code of Conduct - https://www.contributor-covenant.org/",
+        "Slack Code of Conduct - https://github.com/ifmeorg/ifme/wiki/Join-Our-Slack#slack-code-of-conduct"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Canada",
+      "United States of America"
+    ]
+  }
+}
