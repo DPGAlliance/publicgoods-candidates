@@ -13,8 +13,7 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://unbiodiversitylab.org/support/",
-      "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf",
-      "https://github.com/natgeosociety/marapp-docs"
+      "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf"
     ]
   },
   "NonPII": {
@@ -28,7 +27,7 @@
       "General Data Protection Regulation 2016/679 (GDPR)"
     ],
     "adherenceSteps": [
-      "See Privacy Policy here - https://unbiodiversitylab.org/privacy-policy/",
+      "Privacy Policy - https://unbiodiversitylab.org/privacy-policy/",
       "Terms of Use - https://unbiodiversitylab.org/terms-of-use/ "
     ]
   },
@@ -65,18 +64,20 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "With your previous consent, we may use the information we collect from you when you create an account in our website, respond to a survey or marketing communication, surf our website, or use certain other site features in the following ways:",
+        "- To send periodic newsletters or site communications",
+        "- To collect statistics about users in order for us to improve the website"
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "We treat personal data with confidentiality and will only disclose it when necessary to provide services or report on business operations. When you sign-up on our website, your contact information is shared with MailChimp, which hosts our newsletter list and page. Aggregate statistics of user interaction with the platform are created from non-personally identifiable information."
+      "privacySecurityDescription": "We treat personal data with confidentiality and will only disclose it when necessary to provide services or report on business operations. When you sign-up on our website, your contact information is shared with MailChimp, which hosts our newsletter list and page. Aggregate statistics of user interaction with the platform are created from non-personally identifiable information. Reference - https://unbiodiversitylab.org/privacy-policy/"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Global geospatial and scientific data on environment and human factors",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://unbiodiversitylab.org/terms-of-use/",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "All content that is collected, stored, or distributed is only relevant to geospatial and scientific data on environment and human factors. New data is only distributed after thorough scientific review based on the UNBL data standards: https://wwwunbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf  For a complete list of all datasets: http://www.unbiodiversitylab.org/data-list "
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
