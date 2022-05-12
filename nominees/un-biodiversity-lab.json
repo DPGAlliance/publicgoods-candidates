@@ -38,7 +38,11 @@
       "evidenceURL": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=20,0,2&layers=biodiversity-intactness-index_100"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate",
+    "Sustainable Cities",
+    "Water and Sanitation"
+  ],
   "type": [
     "software",
     "data",
@@ -52,11 +56,26 @@
   ],
   "organizations": [
     {
-      "name": "Secretariat of the Convention on Biological Diversity (CBD) United Nations Development Programme (UNDP), United Nations Environment Programme (UNEP), and United Nations Environment Programme World Conservation Monitoring Center (UNEP-WCMC).",
+      "name": "United Nations Development Programme (UNDP)",
       "website": "https://www.undp.org/",
       "org_type": "owner",
       "contact_name": "Anne Virnig",
       "contact_email": "anne.virnig@undp.org"
+    },
+    {
+      "name": "United Nations Environment Programme (UNEP)",
+      "website": "https://www.unep.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "United Nations Environment Programme World Conservation Monitoring Center (UNEP-WCMC)",
+      "website": "https://www.unep-wcmc.org/en",
+      "org_type": "funder"
+    },
+    {
+      "name": "Secretariat of the Convention on Biological Diversity (CBD)",
+      "website": "https://www.cbd.int/secretariat/",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
