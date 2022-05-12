@@ -1,7 +1,10 @@
 {
   "name": "iHRIS",
-  "description": "Open Source software that helps countries around the world track and manage their health workforce data to improve access to services.",
-  "website": "https://ihris.org",
+  "aliases": [
+    ""
+  ],
+  "description": "iHRIS is a free and open-source software solution that has been used in over 30 countries to more easily collect, maintain, and analyze health workforce data and manage health workforce resources at a ministry of health (MOH), district health offices, and health care facilities. iHRIS helps countries around the world track and manage their health workforce data to improve access to services.",
+  "website": "https://www.ihris.org/",
   "license": [
     {
       "spdx": "LGPL-3.0",
@@ -10,7 +13,9 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "Countries use it to capture and maintain high-quality information for health workforce planning, management, regulation, and training for improved health outcomes.",
+      "evidenceURL": "https://www.who.int/workforcealliance/knowledge/toolkit/21/en/"
     }
   ],
   "sectors": [],
@@ -19,15 +24,16 @@
   ],
   "repositories": [
     {
-      "name": "main",
+      "name": "iHRIS",
       "url": "https://github.com/iHRIS/iHRIS"
     }
   ],
   "organizations": [
     {
-      "name": "IntraHealth International",
-      "website": "https://intrahealth.org",
-      "org_type": "owner"
+      "name": "IntraHealth",
+      "website": "https://www.intrahealth.org/",
+      "org_type": "owner",
+      "contact_email": "intrahealth@intrahealth.org"
     }
   ],
   "stage": "nominee"

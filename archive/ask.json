@@ -1,11 +1,11 @@
 {
-  "name": "Talk",
-  "description": "A better commenting experience for journalists. Because journalism needs everyone.",
-  "website": "https://coralproject.net/",
+  "name": "Ask",
+  "description": "A better way for journalists to manage forms, submissions, and galleries. Because journalism needs everyone.",
+  "website": "https://github.com/coralproject/ask",
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/coralproject/talk/blob/master/LICENSE"
+      "licenseURL": "https://github.com/coralproject/ask/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -20,7 +20,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/coralproject/talk"
+      "url": "https://github.com/coralproject/ask"
     }
   ],
   "organizations": [
@@ -30,5 +30,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "archive"
 }
