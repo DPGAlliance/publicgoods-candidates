@@ -1,0 +1,40 @@
+{
+  "name": "OpenELIS Global",
+  "aliases": [
+    ""
+  ],
+  "description": "The OpenELIS Global software is an open enterprise-level laboratory information system built on open-source web-based technologies that has been tailored for low-and-middle income country public health laboratories.",
+  "website": "http://openelis-global.org/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/I-TECH-UW/OpenELIS-Global-2/blob/develop/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "High quality lab information is key to good health outcomes"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Core Software",
+      "url": "https://github.com/I-TECH-UW/OpenELIS-Global-2"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Digital Initiatives Group at ITECH,  University of Washinton",
+      "website": "https://www.go2itech.org/digital-initiatives-group-at-i-tech/about-digi/",
+      "org_type": "maintainer",
+      "contact_name": "Jan Flowers",
+      "contact_email": "digit@uw.edu"
+    }
+  ],
+  "stage": "nominee"
+}
