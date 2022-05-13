@@ -1,0 +1,71 @@
+{
+  "name": "OpenELIS Global",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://docs.openelis-global.org/en/latest/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The FHIR API can be used to selectively pull data"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "FHIR, HL7 v2, ASTM, IPS, MCD"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/I-TECH-UW/OpenELIS-Global-2/wiki/FHIR-Notes"
+    ],
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "All medical and lab data"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Côte d'Ivoire",
+      "Mauritius",
+      "Uganda",
+      "Haiti",
+      "United States of America",
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Côte d'Ivoire",
+      "Mauritius",
+      "Haiti",
+      "Kenya"
+    ]
+  }
+}
