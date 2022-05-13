@@ -1,33 +1,58 @@
 {
   "name": "Open Collective",
-  "description": "Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.",
-  "website": "https://opencollective.com/",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source platform for transparent fundraising, community engagement, and fiscal hosting.",
+  "website": "https://opencollective.com",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/opencollective/documentation/blob/v2/LICENSE"
+      "licenseURL": "https://github.com/opencollective/opencollective-api/blob/main/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/opencollective/opencollective-frontend/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 17,
-      "evidenceURL": "https://medium.com/open-collective/what-is-open-collective-how-it-works-c51bacc73d94"
+      "SDGNumber": 8,
+      "evidenceText": "Open Collective enables real livelihoods for people working on social impact, mutual aid, open source, and other positive change and solidarity related areas, which wouldn't be possible otherwise, as these activities are outside the mainstream economic system."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Many of the thousands of groups operating on the Open Collective platform work in the areas of equality, racial and social justice, economic empowerment, climate action, worker rights, and other movements at the heart of reducing inequality."
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Many Open Collective groups are hyper-local initiatives, like mutual aid, food distribution, and citizen groups, which are very powerful tools for social cohesion, health, and resilience."
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "We have hundreds of climate action chapters around the world on Open Collective, such as chapters of Fridays for Future and Extinction Rebellion, who are enabled and powered up to a whole new level through our economic and engagement tooling."
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Many justice system groups use Open Collective, such as bail funds, recidivism prevention, and systemic change to shift the relationship of communities to the justice system. Movements at the heart of this public conversation, like Black Lives Matter and indigenous sovereignty, are thriving on our platform. "
     }
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/opencollective/opencollective"
+      "name": "Open Collective organization",
+      "url": "https://github.com/opencollective"
     }
   ],
   "organizations": [
     {
       "name": "Open Collective",
-      "website": "https://opencollective.com/",
+      "website": "https://opencollective.com",
       "org_type": "owner",
+      "contact_name": "Alanna Irving",
       "contact_email": "info@opencollective.com"
     }
   ],
