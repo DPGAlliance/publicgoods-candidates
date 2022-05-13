@@ -1,0 +1,77 @@
+{
+  "name": "Open Collective",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.opencollective.com"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "CSV exports"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://opencollective.com/privacypolicy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://docs.opencollective.com/help/about/the-open-collective-way"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines"
+      ],
+      "harassmentProtectionSteps": [
+        "https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "France",
+      "Argentina",
+      "Canada",
+      "Mexico",
+      "Brazil",
+      "Germany",
+      "United Kingdom",
+      "Nigeria",
+      "Belgium",
+      "India",
+      "New Zealand",
+      "Sri Lanka",
+      "Romania"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
