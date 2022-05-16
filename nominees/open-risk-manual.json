@@ -3,38 +3,36 @@
   "aliases": [
     ""
   ],
-  "description": "The Open Risk Manual is an open online repository of information for risk management developed and maintained by Open Risk. Our objective is to create a comprehensive, detailed, authoritative collection of risk management resources that are easily accessible by anybody, anywhere - well, network access is currently required",
+  "description": "The Open Risk Manual is an open online repository of information about risk management in all its forms",
   "website": "https://www.openriskmanual.org/wiki/Main_Page",
   "license": [
     {
-      "spdx": "CC-BY-SA-4.0",
-      "licenseURL": "https://www.openriskmanagement.com/copyright/"
+      "spdx": "CC-BY-NC-4.0",
+      "licenseURL": "https://www.openriskmanual.org/wiki/License"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 8,
-      "evidenceText": "The manual links risk management to major professional and sector classifications and taxonomies  (ISCO / NACE / EU Taxonomy)"
-    },
-    {
-      "SDGNumber": 13,
-      "evidenceText": "The manual aims to comprehensively document the concepts, risks and opportunities of sustainable finance in dedicated catagories"
-    },
-    {
       "SDGNumber": 4,
-      "evidenceText": "The specialized nature of the risk management knowledge base is not served fully by either the traditional academic literature or classic publications in printed book form"
+      "evidenceText": "Risk Management is a vast and ever expanding domain of knowledge. The required skills are applied, occasionally very technical and ever changing. This specialized nature of the knowledge base is not served fully by either the traditional academic literature or classic publications in printed book form.",
+      "evidenceURL": "https://www.openriskmanual.org/wiki/Open_Risk_Manual:About"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "The Manual includes categories about Personal Financial Literacy (organized according to the financial competence framework for adults in the European Union)",
+      "evidenceURL": "https://www.openriskmanual.org/wiki/Category:Personal_Financial_Literacy"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The sustainable finance category organizes articles touching diverse Sustainable Finance topics",
+      "evidenceURL": "https://www.openriskmanual.org/wiki/Category:Sustainable_Finance"
     }
   ],
   "sectors": [],
   "type": [
     "content"
   ],
-  "repositories": [
-    {
-      "name": "main",
-      "url": ""
-    }
-  ],
+  "repositories": [],
   "organizations": [
     {
       "name": "Open Risk",
