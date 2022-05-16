@@ -1,0 +1,62 @@
+{
+  "name": "Cloud Carbon Footprint",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.cloudcarbonfootprint.org/docs/overview",
+      "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/CONTRIBUTING.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "For Codebase: Technical and Design Standards/Best - HTTP/HTTPS, CSS, JSON, REST For Client and Microsite: WCAG and other W3C Standards (privacy, security, etc where applicable)"
+    ],
+    "evidenceStandardSupport": [
+      "https://app.codecov.io/gh/",
+      "https://github.com/cloud-carbon-footprint/",
+      "https://developers.google.com/web/tools/lighthouse"
+    ],
+    "bestPracticesList": [
+      "Measurements confirmed and kept up-to-date via Website Carbon Calculator Principles for Digital Development Domain Driven Design Test Driven Development (https://martinfowler.com/articles/practical-test-pyramid.html) Open Source Principles with transparent methodology, source code, and public forums for peer reviews and validation"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We interpret this question to refer to the software offering itself, in which case the project/tool does not enable interactions between users.  However, because the offering is an open-source project, the project team at Thoughtworks has enabled community involvement and discussion groups for interested stakeholders to exchange input and contribute to open-source code. TW has put in place a code of conduct (https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/CODE_OF_CONDUCT.md)  and guidelines for community discussion and monitors the discussion regularly.  As a monitor of the github and discussion groups, TW reviews all issues and messages. We do this ensuring that our code of conduct is followed in all interactions."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ]
+  }
+}
