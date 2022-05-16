@@ -1,0 +1,35 @@
+{
+  "name": "Weni BERT Base Models",
+  "aliases": [
+    "weni-bert-base-models"
+  ],
+  "description": "BERT Base Models trained for Masked Language Modeling task",
+  "website": "https://weni.ai",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/Ilhasoft/bert-language-models/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Enhance scientific research by disseminating openly resources to be used in fine-tuning for Natural Language Processing tasks"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Weni",
+      "website": "https://weni.ai",
+      "org_type": "owner",
+      "contact_name": "John Cordeiro",
+      "contact_email": "john.dalton@weni.ai"
+    }
+  ],
+  "stage": "nominee"
+}
