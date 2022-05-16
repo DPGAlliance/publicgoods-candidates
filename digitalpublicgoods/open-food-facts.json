@@ -1,0 +1,87 @@
+{
+  "name": "Open Food Facts",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://world.openfoodfacts.org/terms-of-use"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://world.openfoodfacts.org/data",
+      "https://openfoodfacts.github.io/api-documentation/",
+      "https://wiki.openfoodfacts.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://world.openfoodfacts.org/terms-of-use"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Open Food Facts data is available in JSON, XML, CSV formats"
+    ],
+    "bestPracticesList": [
+      "Open Source + Open Data"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Data about food products: nutrition, ingredients, labels, packaging etc.",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://world.openfoodfacts.org/terms-of-use#contribution",
+      "illegalContentDetectionMechanism": "We had very few cases of illegal content, as we only have product data content. We do have AI algorithms in place to detect potentially problematic photos."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://world.openfoodfacts.org/code-of-conduct"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "France"
+    ],
+    "deploymentCountries": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Denmark",
+      "France",
+      "Germany",
+      "Italy",
+      "Portugal",
+      "Spain",
+      "United States of America",
+      "Canada",
+      "Switzerland",
+      "United Kingdom",
+      "Russia",
+      "Netherlands",
+      "Mexico"
+    ]
+  }
+}
