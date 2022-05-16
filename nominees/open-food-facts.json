@@ -1,0 +1,60 @@
+{
+  "name": "Open Food Facts",
+  "aliases": [
+    "OFF"
+  ],
+  "description": "Open Food Facts is a Wikipedia for food: a collaborative, free and open database of food products from around the world.",
+  "website": "https://world.openfoodfacts.org",
+  "license": [
+    {
+      "spdx": "ODbL-1.0",
+      "licenseURL": "https://world.openfoodfacts.org/data"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Open Food Facts gathers data about food products, analyzes the data (ingredients, nutrition etc.) to compute scores such as the Nutri-Score for nutritional quality and NOVA for ultra-processed foods. This data is used by consumers to make better informed choices, by food manufacturers to improve the quality of their products, and by scientists to research the long term links between food and health. In particular, Open Food Facts is collaborating closely with the scientific team that created the Nutri-Score and has been a major force for its adoption in France and in Europe.",
+      "evidenceURL": "https://world.openfoodfacts.org/open-food-facts-vision-mission-values-and-programs"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "The Open Food Facts database is published in open data and used by more than 200 apps and services that inform consumers (e.g. apps to prevent food waste)",
+      "evidenceURL": "https://world.openfoodfacts.org/open-food-facts-vision-mission-values-and-programs"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Building on the success of the Nutri-Score, Open Food Facts is one of the founders of the Eco-Score to measure the environmental impact of food products. Our goal is to make Life Cycle Analysis accessible to producers big and small, to encourage consumers to choose less impacting products and to enable producers to make more environmentaly friendly products",
+      "evidenceURL": "https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/openfoodfacts/openfoodfacts-server",
+      "name": "Open Food Facts backend: data analysis + API + website"
+    },
+    {
+      "name": "Open Food Facts mobile app",
+      "url": "https://github.com/openfoodfacts/smooth-app"
+    },
+    {
+      "name": "Open Food Facts Artificial Intelligence models",
+      "url": "https://github.com/orgs/openfoodfacts/projects/16"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Food Facts",
+      "website": "https://world.openfoodfacts.org",
+      "org_type": "owner",
+      "contact_name": "Stéphane Gigandet",
+      "contact_email": "stephane@openfoodfacts.org"
+    }
+  ],
+  "stage": "nominee"
+}
