@@ -7,8 +7,8 @@
   "website": "https://unbiodiversitylab.org/",
   "license": [
     {
-      "spdx": "CC-BY-4.0",
-      "licenseURL": "https://unbiodiversitylab.org/support/"
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/natgeosociety/marapp-frontend/blob/develop/LICENSE"
     }
   ],
   "SDGs": [
