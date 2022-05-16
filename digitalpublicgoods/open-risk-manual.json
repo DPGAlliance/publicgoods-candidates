@@ -1,0 +1,59 @@
+{
+  "name": "Open Risk Manual",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.openriskmanual.org/wiki/Terms_of_Service"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The wiki collects no PII. Necessary monitoring of site usage is done with inhouse tools"
+    ],
+    "adherenceSteps": [
+      "https://www.openriskmanual.org/wiki/Privacy_Policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "As a knowledge base / wiki the Open Risk Manual supports standards mostly indirectly (identifying and documenting them). Being based on (semantic) mediawiki that is used by wikipedia it also uses de-facto standards in input / output of content (wikitext, rdf etc)"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.openriskmanual.org/wiki/Risk_Data_Standards",
+      "https://www.openriskmanual.org/wiki/index.php?title=Special:ExportRDF/Frequently_Asked_Questions&syntax=rdf"
+    ],
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Access to the wiki is controlled and user feedback filtered to prevent spam or other abuse"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Netherlands"
+    ],
+    "deploymentCountries": [
+      "Netherlands"
+    ]
+  }
+}
