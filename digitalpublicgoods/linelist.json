@@ -1,0 +1,75 @@
+{
+  "name": "linelist",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/epiverse-trace/linelist/blob/main/LICENSE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://epiverse-trace.github.io/linelist/",
+      "https://epiverse-trace.github.io/linelist/articles/linelist_introduction.html",
+      "https://epiverse-trace.github.io/linelist/reference/index.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "CRAN development guidelines: https://cran.r-project.org/doc/manuals/r-release/R-exts.html",
+      "Tidyverse code testing standards: https://r-pkgs.org/tests.html"
+    ],
+    "evidenceStandardSupport": [
+      "https://cran.r-project.org/web/checks/check_results_linelist.html",
+      "https://app.codecov.io/gh/epiverse-trace/linelist"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Full documentation of all functions",
+      "Additional free online tutorials",
+      "Unit testing and full (100%) code coverage",
+      "Continuous integration using github actions",
+      "Code of conduct"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The package implements safeguards against the accidental loss of key epidemiological variables."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Code of Conduct: https://www.contributor-covenant.org/version/2/0/code_of_conduct/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "France"
+    ],
+    "deploymentCountries": [
+      "Colombia",
+      "Gambia",
+      "France",
+      "Peru",
+      "United Kingdom"
+    ]
+  }
+}
