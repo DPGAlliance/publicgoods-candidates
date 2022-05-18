@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "ekShop is a fully open-source eCommerce platform that is customizable and configurable to your needs. It is completely free, adaptable and open to be supported by a worldwide community of volunteers and contributors. It’s free and open source nature allows users to maintain complete control of the data content and modify it as they wish and according to their needs. Our intended goal is to allow any potential entrepreneur to quickly get up and running with an online platform to sell goods online.",
+  "description": "ekShop is a fully open-source eCommerce platform that is customizable and configurable to your needs. It is completely free, adaptable and open to be supported by a worldwide community of volunteers and contributors. It's free and open source nature allows users to maintain complete control of the data content and modify it as they wish and according to their needs. Our intended goal is to allow any potential entrepreneur to quickly get up and running with an online platform to sell goods online.",
   "website": "https://ekshop.gov.bd/",
   "license": [
     {
@@ -13,20 +13,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1,
-      "evidenceText": "ekShop is a scalable open-source eCommerce solution that provides the power of harnessing online marketplace and businesses into the hands of everyday folks. ekShop allows people to bring forth sustainable livelihoods by engaging entrepreneurs, merchants, and employees that help the business operate. As a result, ekShop, when implemented correctly, can uplift communities and populations out of poverty."
-    },
-    {
       "SDGNumber": 5,
-      "evidenceText": "ekShop has strict policies for preventing all forms of gender discrimination by offering equal opportunity to every gender, race, and ethnicity to participate in its platform - both in the capacity of buyer and seller. Women, in particular, can find the means of selling their creations and handicrafts through the platform and gain reach, unlike other means before. "
+      "evidenceText": "ekShop actively removes barriers for women and other gender identities to access the market and finance. It created specific gender-sensitive tools. ekShop is the only platform that provides direct connectivity for access to market and finance for the transgender population in Bangladesh. It empowers cottage, micro, small and medium enterprises (CMSMEs) led mainly by women entrepreneurs with open commerce platforms such as Anondomela, Joyeeta, WE, Digital Haat, and the e-market of Bangladesh Small and Cottage Industries Corporation (BSCIC) and SME Foundation. Besides, with the support of the United Nations Capital Development Fund (UNCDF), ekShop works to improve the online business capacity of entrepreneurs in Bangladesh, particularly women, empowering them to confidently adopt and leverage new digital services to enhance their competitiveness and performance. Currently, the platform houses at least 35% of women entrepreneurs through its network. 77% of the rural products marketed through ekShop are produced by women.",
+      "evidenceURL": "https://info.undp.org/docs/pdc/Documents/BGD/UNDP%20a2i-II%20closing%20report_Final.pdf"
     },
     {
       "SDGNumber": 9,
-      "evidenceText": "ekShop provides a new infrastructure hosted in the digital space and allows for developing sustainable business models in its platform. This fosters economic development for communities and populations as they engage in this new platform to conduct business and transact with finances.  As a result of this platform and the users it attracts, financial institutions are also brought forth to be made accessible to those who are participants of the platform, effectively increasing the scope of exposure for Financial Institutions to those who are needy and poor. ekShop's infrastructure depends on accessibility by the internet, and its creation and continued survival will ensure the development of internet connectivity in underdeveloped regions to expand its reach. "
-    },
-    {
-      "SDGNumber": 10,
-      "evidenceText": "ekShop allows participants to use the platform without requiring any major upfront fees or expenses, unlike a traditional brick-and-mortar shop.  As a result, ekShop ensures that the lower class of economically successful population can easily take a role in this platform and significantly improve their chances of increasing their income growth potential."
+      "evidenceText": "ekShop acts as an infrastructure in Bangladesh. ekShop delivery and other logistic connectivity have established as a collective and aggregated force in the industry, with 991 regional warehouses in operation, integrated 8 courier services including Pathao, e-courier, Paper Fly, Bangladesh Post, and 4600+ small entrepreneurs users. The platform has WTO + UPU connections established. ekShop is the only eCommerce platform-as-a-service Network, with 6 government platforms, including Joyeeta, BSCIC, and SME; 4 private, including Buy-Now and Anondomela; 4 international platforms, including Dukaanye Lilbaye. ekShop also offers single stock management for MSMEs for selling to all eCommerce platforms and ekShop Mall for SMEs designing their store for free. \n ekShop brings in innovative technology, including complete BI tools. It introduced the country’s first ESCROW payment security in conjunction with the Bangladesh Bank guidelines. ekShop established countrywide geo-tag-based logistic mapping to any address, be it without a postcode, is automatically mapped.",
+      "evidenceURL": "https://www.bd.undp.org/content/bangladesh/en/home/presscenter/pressreleases/2021/08/07/phone-e-nittoponno-making-life-easier.html"
     }
   ],
   "sectors": [],
