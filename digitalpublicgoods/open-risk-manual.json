@@ -2,24 +2,32 @@
   "name": "Open Risk Manual",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://www.openriskmanual.org/wiki/Terms_of_Service"
+    "copyrightURL": "https://www.openriskmanagement.com/copyright/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No"
+    "isDocumentationAvailable": "No",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "The wiki collects no PII. Necessary monitoring of site usage is done with inhouse tools"
+      "The wiki collects no PII. Necessary monitoring of site usage is done with in-house tools"
     ],
     "adherenceSteps": [
-      "https://www.openriskmanual.org/wiki/Privacy_Policy"
+      "Privacy policy - https://www.openriskmanual.org/wiki/Privacy_Policy",
+      "Terms of service - https://www.openriskmanual.org/wiki/Terms_of_Service"
     ]
   },
   "standards": {
@@ -31,7 +39,10 @@
       "https://www.openriskmanual.org/wiki/Risk_Data_Standards",
       "https://www.openriskmanual.org/wiki/index.php?title=Special:ExportRDF/Frequently_Asked_Questions&syntax=rdf"
     ],
-    "implementBestPractices": "No"
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
@@ -39,13 +50,35 @@
       "additionalInfoMechanismProcessesPolicies": "Access to the wiki is controlled and user feedback filtered to prevent spam or other abuse"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Access to the wiki is controlled and user feedback filtered to prevent spam or other abuse"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
