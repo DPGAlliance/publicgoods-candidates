@@ -1,0 +1,63 @@
+{
+  "name": "Scottish Environment Protection Agency Hydrometric Data",
+  "aliases": [
+    "SEPA WISKI API"
+  ],
+  "description": "Provision of Hydrometric Open Data to professional users via API",
+  "website": "https://timeseriesdoc.sepa.org.uk/",
+  "license": [
+    {
+      "spdx": "OGL-UK-3.0",
+      "licenseURL": "https://timeseriesdoc.sepa.org.uk/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 6,
+      "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - this data underpins water supply across Scotland and United Kingdom and allows clean water and appropriate sanitation to be put designed and managed."
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - this data allows the design and operation of hydropower schemes and tidal barrages that produce affordable clean energy."
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - this data underpins water supply across Scotland and United Kingdom and underpins flood defence scheme, water distribution network design, flood risk assessment to ensure critical national infrastructure and housing is build outside of the floodplain, the real-time open nature of the datasets allows new innovative services to be designed and produced"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - this data being freely and readily available allows quicker cheaper flood risk analysis, avoiding inappropriate development,  enabling flood defence design, sustainable urban drainage and flood warning, all of which contribute to sustainable cities and communities"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - this data allows the calculation of chemical loads, understanding available dissolved oxygen etc which in turn allow an understanding of what is required for healthy aquatic life."
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "This solution allows the free, open provision of Hydrometic data (river, loch, sea, groundwater levels and flows, and rainfall) - making this data freely and readily available allows us to see the impact of climate change on weather and its impacts across Scotland.  Having the data available also allows communities and cities to develop realistic adaptation plans bearing in mind climate change impacts such as increased flood risk and greater water scarcity"
+    }
+  ],
+  "sectors": [
+    "Climate",
+    "Water and Sanitation"
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "SEPA Time series data service (API)",
+      "url": "https://timeseriesdoc.sepa.org.uk/api-documentation/api-function-reference/#WalkThrough"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Scottish Environmental Protection Agency",
+      "website": "https://www.sepa.org.uk/",
+      "org_type": "owner",
+      "contact_name": "Mark Franklin",
+      "contact_email": "mark.franklin@sepa.org.uk"
+    }
+  ],
+  "stage": "nominee"
+}

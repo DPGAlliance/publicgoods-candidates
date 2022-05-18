@@ -34,4 +34,13 @@ Power BI React | Dec 8th, 2021 |  No longer accepting open source tools that are
 OADA Service Docker | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 Callisto - Core | Jan 8th, 2022 |  No longer being maintained; the current code is not open source; 
 ActivityInfo Python | Jan 9th, 2022 |  The Python client is an open-source project to communicate with ActivityInfo, a proprietary software platform for humanitarian coordination and information sharing. A previous version of ActivityInfo was open source, but not the current one hence not feasible to keep the Python client in registry any more.
+KA Lite | Jan 10th, 2022 |  KA Lite is no longer under active development, work has been underway to transition users to [Kolibri](https://github.com/DPGAlliance/publicgoods-candidates/blob/main/nominees/kolibri.json) which is continuing to be developed, used and improved.
+Looking Glass | Feb 15th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+OpenStax | Feb 16th, 2022 | OpenStax Customer Support mentioned they will not be looking into the DPG nomination at this time.
+OpenML-Python | Feb 22nd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Aster - Emergency Scoring, Aster - Stream & Aster - Platform | March 7th, 2022 |  No longer actively maintained
+Blockly | April 20th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Label Maker | May 03rd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Open Neural Networks | May 13th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+
 
