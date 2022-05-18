@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
       "TruBudget does not contain any relevant data to GDPR or others, that is, it is a workflow engine. If relevant data is collected, the organization using the software has to ensure that the data is appropriately encoded or stored."
     ],
     "adherenceSteps": [
-      ""
+      "TruBudget is a workflow engine therefore does not contain any relevant data to GDPR. If relevant data is collected, the organizations using the software have to ensure that the data is appropriately encoded or stored. Reference: https://github.com/openkfw/TruBudget/blob/master/README.md "
     ]
   },
   "standards": {
