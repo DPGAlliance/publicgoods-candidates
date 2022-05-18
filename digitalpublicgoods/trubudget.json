@@ -85,7 +85,8 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Germany",
+      "Austria"
     ],
     "deploymentCountries": [
       ""
