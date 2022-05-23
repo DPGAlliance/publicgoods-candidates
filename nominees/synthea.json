@@ -1,6 +1,9 @@
 {
   "name": "Synthea",
-  "description": "Synthea is an open-source, synthetic patient generator that models the medical history of synthetic patients. Our mission is to provide high-quality, synthetic, realistic but not real, patient data and associated health records covering every aspect of healthcare.",
+  "aliases": [
+    "SyntheticMass"
+  ],
+  "description": "Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients and produces synthetic health data free from cost, privacy, and security restrictions.",
   "website": "https://synthetichealth.github.io/synthea/",
   "license": [
     {
@@ -10,25 +13,34 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 9,
+      "evidenceText": "The lack of data hinders understanding of the true impacts of disease. Synthea provides open-source software and freely available synthetic open data sets formatted to international standards. These resources lower the barrier of entry for innovators across the globe to build data-centric health solutions and digital health solutions. Using Synthea, health innovators can accelerate their work safely, securely, and publicly without accessing real data. Innovators also can leverage Synthea to strengthen their health information technology knowledge and skills for future jobs, research, and/or entrepreneurship opportunities to advance health and well-being.",
+      "evidenceURL": "https://aspe.hhs.gov/synthetic-health-data-generation-engine-accelerate-patient-centered-outcomes-research"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
   "type": [
-    "software",
-    "data"
+    "software"
   ],
   "repositories": [
     {
-      "name": "main",
+      "name": "Synthea",
       "url": "https://github.com/synthetichealth/synthea"
+    },
+    {
+      "name": "Synthea International",
+      "url": "https://github.com/synthetichealth/synthea-international"
     }
   ],
   "organizations": [
     {
-      "name": "MITRE Corporation",
-      "website": "https://www.mitre.org/",
-      "org_type": "owner"
+      "name": "The MITRE Corporation",
+      "website": "https://www.mitre.org",
+      "org_type": "maintainer",
+      "contact_name": "Jason Walonoski",
+      "contact_email": "jwalonoski@mitre.org"
     }
   ],
   "stage": "nominee"
