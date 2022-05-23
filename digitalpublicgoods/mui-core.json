@@ -1,0 +1,71 @@
+{
+  "name": "MUI Core",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/mui/material-ui"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/mui/material-ui"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "https://github.com/mui/material-ui"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://github.com/mui/material-ui",
+      "https://github.com/mui/material-ui"
+    ],
+    "adherenceSteps": [
+      "https://github.com/mui/material-ui"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://github.com/mui/material-ui"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://github.com/mui/material-ui"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "https://github.com/mui/material-ui",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://github.com/mui/material-ui"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Iran"
+    ],
+    "deploymentCountries": [
+      "Andorra"
+    ]
+  }
+}
