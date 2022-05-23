@@ -1,0 +1,51 @@
+{
+  "name": "https://sabpaisa.in/",
+  "aliases": [
+    "https://sabpaisa.in/"
+  ],
+  "description": "https://sabpaisa.in/",
+  "website": "https://sabpaisa.in/",
+  "license": [
+    {
+      "spdx": "Artistic-2.0",
+      "licenseURL": "https://sabpaisa.in/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "https://sabpaisa.in/",
+      "evidenceURL": "https://sabpaisa.in/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "https://sabpaisa.in/",
+      "evidenceURL": "https://sabpaisa.in/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard",
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "https://sabpaisa.in/",
+      "url": "https://sabpaisa.in/"
+    },
+    {
+      "name": "https://sabpaisa.in/",
+      "url": "https://sabpaisa.in/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "https://sabpaisa.in/",
+      "website": "https://sabpaisa.in/",
+      "org_type": "maintainer",
+      "contact_name": "https://sabpaisa.in/",
+      "contact_email": "https://sabpaisa.in/"
+    }
+  ],
+  "stage": "nominee"
+}
