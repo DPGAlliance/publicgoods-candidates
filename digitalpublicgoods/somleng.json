@@ -46,7 +46,11 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "JWT - Somleng's Carrier Webhooks are signed using JWT (RFC 7519). This provides a standard way for applications to verify webhooks.",
+      "Design for Scale - Somleng is a tool which can be used across the globe. The technology can be applied to hundreds of different use-cases from mHealth projects to Early Warning Systems to Internet Banking OTP Authentication. Our vision is a world where communications is accessible to everyone. We aim to achieve this vision by giving local carriers and individuals the technology to provide their own cloud communication stacks across the globe.",
+      "Design With the User - Somleng is designed with feedback from our customers and partners. We add features in an incremental manner based on the feedback from our partners.",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation - Somleng's Carrier API is written according to the JSONAPI standard. By using the JSON:API standard consumers of the API can use a pre-built client which avoids the need for us to provide helper libraries for various programming languages. In addition it serves as a set of conventions for us to follow, eliminating the need for us to make some decisions on how to design the API.",
+      "Reuse and Improve - Somleng contains a compatible open source implementation of Twilio's REST API. This API has become the the de-facto standard for Cloud Communications. By being compatible with this API, users of Twilio an easily migrate to Somleng by just updating the endpoint URL in the open source libraries. Somleng also contains an open source TwiML parser. TwiML is the de-facto markup language for controlling calls and SMS. By providing an open source TwiML parser the community can suggest or contribute support for more features and Verbs."
     ]
   },
   "doNoHarm": {
