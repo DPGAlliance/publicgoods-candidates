@@ -50,8 +50,12 @@
   ],
   "repositories": [
     {
-      "name": "natgeosociety / marapp-docs",
-      "url": "https://github.com/natgeosociety/marapp-docs"
+      "name": "Marapp frontend",
+      "url": "https://github.com/natgeosociety/marapp-frontend"
+    },
+    {
+      "name": "Marapp API Services",
+      "url": "https://github.com/natgeosociety/marapp-services"
     }
   ],
   "organizations": [
