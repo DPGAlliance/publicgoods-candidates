@@ -1,0 +1,95 @@
+{
+  "name": "Ushahidi Inc.",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://drive.google.com/file/d/1QCh6aCmh5su_G_RobyyIonfgOqMXRQhi/view?usp=sharing"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "An example is our SMS Sync product. We built it ground up, but some libraries have not been updated, others even deprecated. However, it exists as a plug-in to the Ushahidi Platform, and Platform continues to operate normally without it. There also exists commercial + opensource alternatives such FrontlineSMS, Africa's Talking, etc."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/how-to-get-the-source-code"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "1. PII: https://docs.ushahidi.com/platform-developer-documentation/untitled/security-for-deployment-admins#personally-identifiable-information, \n2. How we protect data: https://www.ushahidi.com/support/data-securityThe,  \n3. A deployer's obligation to protect his audience  https://www.ushahidi.com/support/deployer-obligations-under-the-gdpr\n"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR) - https://www.ushahidi.com/support/how-ushahidi-prepared-for-gdpr and, Kenya Data Protection Act (2019)"
+    ],
+    "adherenceSteps": [
+      "Terms of Service: https://www.ushahidi.com/terms-of-service",
+      "Privacy Policy: https://www.ushahidi.com/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Coding Standards",
+      "Ushahidi Developer Guide"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/coding-standards",
+      "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/add-code-to-ushahidi"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Privacy and Security",
+      "Open Source Design"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The Ushahidi Platform offers settings to protect some of these information items, without completely hiding them, by making them fuzzier. This is important for data that is valuable to show aggregated (i.e. incidents in a geographic area), and thus is not desired to make completely private."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Email address",
+        "Location",
+        "Telephone number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Reports",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "No",
+      "policyGuidelinesDocumentationLink": "https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Identify the risk",
+        "Assess the risk",
+        "Treat the risk",
+        "Monitor and report the risk"
+      ],
+      "harassmentProtectionSteps": [
+        "Identify the issue",
+        "Assess the issue",
+        "Treat the issue",
+        "Monitor and report the issue"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": []
+  }
+}
