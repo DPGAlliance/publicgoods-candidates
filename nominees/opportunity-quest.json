@@ -1,0 +1,43 @@
+{
+  "name": "Opportunity Quest",
+  "aliases": [
+    "Yours to discover "
+  ],
+  "description": "Opportunity Quest digital media platform developed to provide swift and reliable access to scholarships, grants, internships, conferences, fellowships, awards and jobs. We share information on useful educational and developmental materials for everyone to experience thereby increasing their exposure so they could acknowledge their strength and presenting worldwide opportunities to leverage on.",
+  "website": "http://www.opportunityquest.org",
+  "license": [
+    {
+      "spdx": "Apache-1.1",
+      "licenseURL": "https://opensource.org/licenses/Apache-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Users get access to latest jobs offer and how to apply we also have session training for interviews and how to write a compelling CV."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "This initiative is ideal opportunities to collaborate and work in partnership the wealthy and the poor, the formal and informal, communities, business, governments and the international donor community."
+    },
+    {
+      "SDGNumber": 1,
+      "evidenceText": "We provide a platform where users can easily get grant or mentorship on how to start business and make a living "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Techbox Limited ",
+      "website": "http://techboxlimited.tech",
+      "org_type": "owner",
+      "contact_name": "Olayiwola Yusuf ",
+      "contact_email": "yolayiwola@ymail.com"
+    }
+  ],
+  "stage": "nominee"
+}
