@@ -26,7 +26,8 @@
       "The Privacy Act, 2075 (2018) of Government of Nepal"
     ],
     "adherenceSteps": [
-      "Rahat uses an Ethereum based private network and non convertible tokens in a closed ecosystem because of the Central Bank of Nepal’s crypto ban. For countries using the Rahat projects in other regions are responsible for complying with local legislation. Rahat's privacy policy - https://docs.rahat.io/privacy-policy "
+      "Rahat uses an Ethereum based private network and non convertible tokens in a closed ecosystem because of the Central Bank of Nepal’s crypto ban. For countries using the Rahat projects in other regions are responsible for complying with local legislation. ",
+      "Privacy policy - https://docs.rahat.io/privacy-policy"
     ]
   },
   "standards": {
@@ -34,9 +35,7 @@
     "standardsList": [
       "Secure Sockets Layer (SSL)",
       "Open Web Application Security Project",
-      "Ethereum",
-      "REST API",
-      "AirBNB Coding Standards"
+      "REST API"
     ],
     "evidenceStandardSupport": [
       "https://docs.rahat.io/docs/contributing_guidelines",
@@ -47,7 +46,8 @@
     "bestPracticesList": [
       "We have developed transparent open source software in accordance with the Principles for Digital Development with close collaboration with various humanitarian agencies and with local users. ",
       "The software development process follows agile methodology for quicker and cheaper iterative development along with best practices for open-source development - contribution guidelines, documentation etc.",
-      "For new version delivery, Rahat follows Continuous integration/continuous delivery (CI/CD) pipeline so that incremental development is reliable. "
+      "For new version delivery, Rahat follows Continuous integration/continuous delivery (CI/CD) pipeline so that incremental development is reliable. ",
+      "AirBNB Coding Standards"
     ]
   },
   "doNoHarm": {
