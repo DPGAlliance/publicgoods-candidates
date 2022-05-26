@@ -8,22 +8,22 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://docs.rahat.io/docs/opensource_license"
+      "licenseURL": "https://github.com/esatya/rahat/blob/master/LICENSE"
     },
     {
       "spdx": "LGPL-3.0",
-      "licenseURL": "https://docs.rahat.io/docs/opensource_license"
+      "licenseURL": "https://github.com/esatya/rahat-contracts/blob/main/LICENSE"
     },
     {
-      "spdx": "CC-BY-NC-4.0",
-      "licenseURL": "https://docs.rahat.io/docs/opensource_license"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 1,
       "evidenceText": "Rahat has been supporting vulnerable communities affected by natural disasters (Target 1.5) through cash and voucher assistance programs - making the community financially resilient.  It ensures people, especially the unbanked have the freedom, dignity and independence to decide on their own recovery.",
-      "evidenceURL": "https://bit.ly/3Ewip0r"
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/rahat-tokenized-aid-distribution-platform-support-vulnerable-communities"
     },
     {
       "SDGNumber": 2,
@@ -41,7 +41,10 @@
       "evidenceURL": "https://assets.rumsan.com/rumsan-group/-rahat-pilot-5.0-case-study-report.pdf"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Sustainable Cities"
+  ],
   "type": [
     "software"
   ],
@@ -55,7 +58,7 @@
       "url": "https://github.com/esatya/rahat-agency"
     },
     {
-      "name": " To onboard beneficiaries",
+      "name": "To onboard beneficiaries",
       "url": "https://github.com/esatya/rahat-mobilizer"
     },
     {
@@ -63,16 +66,8 @@
       "url": "https://github.com/esatya/rahat-vendor"
     },
     {
-      "name": "Wallet used by agencies to login and sign transactions in agency app",
-      "url": "https://github.com/rumsan/wallet"
-    },
-    {
       "name": "Mobile based vendor wallet app to serve beneficiary for aid distribution",
       "url": "https://github.com/esatya/rahat-vendor-app"
-    },
-    {
-      "name": "Mobile based wallet app used by agencies to login and sign transactions in agency app",
-      "url": "https://github.com/rumsan/wallet-app"
     },
     {
       "name": "All the smart contracts implemented in Rahat application",
@@ -94,6 +89,11 @@
       "org_type": "owner",
       "contact_name": "Ruchin Singh",
       "contact_email": "ruchin@rumsan.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicefinnovationfund.org/",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
