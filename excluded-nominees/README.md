@@ -39,5 +39,15 @@ Looking Glass | Feb 15th, 2022 |  No longer accepting open source tools that are
 OpenStax | Feb 16th, 2022 | OpenStax Customer Support mentioned they will not be looking into the DPG nomination at this time.
 OpenML-Python | Feb 22nd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 Aster - Emergency Scoring, Aster - Stream & Aster - Platform | March 7th, 2022 |  No longer actively maintained
+Blockly | April 20th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Label Maker | May 03rd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Open Neural Networks | May 13th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+OpenRefine | May 17th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Orange | May 23rd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Raster Vision | May 24th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+MUI Core | May 26th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+
+
+
 
 
