@@ -19,41 +19,45 @@
     },
     {
       "SDGNumber": 2,
-      "evidenceText": "Support the planning and delivery of food aid and nutrition resources to last mile communities. ",
+      "evidenceText": "Support the planning and delivery of food aid and nutrition resources to last mile communities.",
       "evidenceURL": "https://revealprecision.com/use-cases/"
     },
     {
       "SDGNumber": 3,
       "evidenceText": "Support the planning and delivery of health intervention campaigns including malaria, vaccination (childhood and COVAX), and neglected tropical diseases.",
-      "evidenceURL": "https://revealprecision.com/use-cases/"
+      "evidenceURL": "https://storymaps.arcgis.com/stories/6edfe59250e24fcaa923d614f6110fe7?fbclid=IwAR2XakalK7tHS8jTPxKX3-roM0l1QqqEgyMguNmO0kKbaI-YrtjBLpydnd8"
     },
     {
       "SDGNumber": 6,
       "evidenceText": "Provide support for water quality monitoring and water point availability.",
       "evidenceURL": "https://revealprecision.com/use-cases/"
-    },
-    {
-      "SDGNumber": 13,
-      "evidenceText": "Provide disaster response survey support and targeted, responsive actions.",
-      "evidenceURL": "https://revealprecision.com/use-cases/"
     }
   ],
   "sectors": [
-    "Health"
+    "Health",
+    "Water and Sanitation"
   ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "Reveal 3.0",
+      "name": "Reveal server",
       "url": "https://github.com/akrosinc/reveal-server"
+    },
+    {
+      "name": "Reveal web",
+      "url": "https://github.com/akrosinc/reveal-web"
+    },
+    {
+      "name": "Reveal client",
+      "url": "https://github.com/akrosinc/reveal-client"
     }
   ],
   "organizations": [
     {
       "name": "Akros",
-      "website": "http://akros.com/",
+      "website": "https://akros.com/",
       "org_type": "owner",
       "contact_name": "Anna Winters",
       "contact_email": "awinters@akros.com"
