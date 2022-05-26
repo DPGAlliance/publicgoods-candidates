@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "All the non-PII data is accessible through the REST API (https://docs.rahat.io/api/)  in JSON format. Each agencies of rahat have their own REST API and can choose to make it public or not."
+    "nonPIIAccessMechanism": "All the non-PII data is accessible through the REST API (https://docs.rahat.io/api/)  in JSON format. Each Agency of Rahat has its own REST API and can choose to make it public or not."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
