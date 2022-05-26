@@ -1,0 +1,42 @@
+{
+  "name": "Pepeketua ID - Frog identification",
+  "aliases": [
+    ""
+  ],
+  "description": "A pattern recognition software that facilitates the individual identification of frogs (Pepeketua) based on their skin marks.",
+  "website": "https://www.wildlife.ai/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/wildlifeai/pepeketua_landmarks/blob/main/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15,
+      "evidenceText": "This landmark detection model predicts six frog landmarks in an image. These landmarks can be used to morph and crop the image to facilitate the individual identification of each frog.",
+      "evidenceURL": "https://www.wildlife.ai/projects/pepeketua-id/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/wildlifeai/pepeketua_landmarks",
+      "name": "Landmark detection for frogs"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Wildlife.ai",
+      "website": "https://www.wildlife.ai/",
+      "org_type": "owner",
+      "contact_name": "Victor Anton",
+      "contact_email": "victor@wildlife.ai"
+    }
+  ],
+  "stage": "nominee"
+}
