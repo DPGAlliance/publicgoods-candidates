@@ -1,0 +1,40 @@
+{
+  "name": "Wildlife Watcher",
+  "aliases": [
+    "Wētā Watcher"
+  ],
+  "description": "An open-source wildlife camera that records animals and uses AI to identify them.",
+  "website": "https://www.wildlife.ai/projects/weta-watcher/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/wildlifeai/wai_data_tools/blob/main/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15,
+      "evidenceURL": "https://www.wildlife.ai/projects/weta-watcher/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/wildlifeai/wai_data_tools",
+      "name": "Wildlife Watcher Data Tools"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Wildlife.ai",
+      "website": "https://www.wildlife.ai/",
+      "org_type": "owner",
+      "contact_name": "Victor Anton",
+      "contact_email": "victor@wildlife.ai"
+    }
+  ],
+  "stage": "nominee"
+}
