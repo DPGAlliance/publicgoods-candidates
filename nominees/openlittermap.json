@@ -7,7 +7,7 @@
   "website": "https://openlittermap.com/",
   "license": [
     {
-      "spdx": "AGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/OpenLitterMap/openlittermap-web/blob/master/LICENSE"
     }
   ],
