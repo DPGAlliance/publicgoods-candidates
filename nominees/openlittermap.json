@@ -1,0 +1,46 @@
+{
+  "name": "OpenLitterMap",
+  "aliases": [
+    "OLM"
+  ],
+  "description": "OpenLitterMap is an open, interactive, and accessible database of the world's litter and plastic pollution.",
+  "website": "https://openlittermap.com/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/OpenLitterMap/openlittermap-web/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "openlittermap-web",
+      "url": "https://github.com/OpenLitterMap/openlittermap-web"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GeoTech Innovations Ltd",
+      "website": "https://openlittermap.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
