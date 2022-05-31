@@ -1,0 +1,40 @@
+{
+  "name": "Towi Plugin",
+  "aliases": [
+    "towigodot"
+  ],
+  "description": "Plugin made to interact with Pixframe Studios Towi platforms which allow creators to create new Serious games and connected to Towi.com.mx",
+  "website": "http://towi.com.mx/",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://github.com/pixframeStudios/towi_godot/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Globally, six out of ten children and adolescents are not meeting minimum levels of proficiency in reading and math. In Latin America and the Caribbean, 1 in 3 children and adolescents in the region cannot read correctly as expected for their age, and 1 in 2 have serious difficulties in math (UNESCO, 2017). According to the UIS, this points to a “learning crisis” because two-thirds of the children who failed to learn are in middle school. This means that more than half of all children will not be able to read and do math by the time they are old enough to complete primary education. Financial resources are limited. In Latin America and the Caribbean, the budget ceilings of their economies make it really hard to finance high-quality education for the entire population (UNESCO, 2015). It is known that many of the learning problems are due to the low development of cognitive skills. Their evaluation and development are complicated to carry out due to the time, resources and specialization required. However, technology has been a decisive factor in the advancement of societies and we currently live in an information society based on technological progress. Specifically in the educational field, there is evidence of its positive impact on learning field. Among technology, there are video games, which through various investigations have shown to be useful for the development of cognitive skills in children. That is why Pixframe Studios is developing Towi Island: an educational software that aims to assess and develop cognitive skills. It consists of an evaluation, a training and a subsequent evaluation based on gamification to involve children in their own cognitive development. With 2 sessions per week for 3 months, Towi Island has shown to help develop cognitive skills. It is an accessible resource for the Latin American population and its application does not require specialization. With it, needs can be detected in primary level children in terms of cognitive skills, which have an impact on learning. With training, children develop their cognitive skills and may be able to do better in school and actually learn."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "towi",
+      "url": "https://github.com/pixframeStudios/towi_godot"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Pixframe Studios",
+      "website": "https://pixframestudios.com/",
+      "org_type": "owner",
+      "contact_name": "David Casillas",
+      "contact_email": "dc@pixframestudios.com"
+    }
+  ],
+  "stage": "nominee"
+}
