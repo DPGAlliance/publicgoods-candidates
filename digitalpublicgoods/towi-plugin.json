@@ -1,0 +1,74 @@
+{
+  "name": "Towi Plugin",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/pixframeStudios/towi_godot/blob/main/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/pixframeStudios/towi_godot/blob/main/README.md",
+      "https://github.com/pixframeStudios/towi_godot/blob/main/How%20to%20use"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "GDScript basics standard",
+      "Open Source Initiative Open Standard Requirements"
+    ],
+    "evidenceStandardSupport": [
+      "https://standard.publiccode.net/criteria/open-standards.html#requirements",
+      "https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html",
+      "https://opensource.org/licenses/category"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Use Open Standards",
+      "Open Source",
+      "Understand the Existing Ecosystem"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://github.com/pixframeStudios/towi_godot/blob/main/CODE%20OF%20CONDUCT.md"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://github.com/pixframeStudios/towi_godot/blob/main/CODE%20OF%20CONDUCT.md"
+      ],
+      "harassmentProtectionSteps": [
+        "https://github.com/pixframeStudios/towi_godot/blob/main/CODE%20OF%20CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mexico"
+    ],
+    "deploymentCountries": [
+      "Mexico",
+      "Chile",
+      "Argentina"
+    ]
+  }
+}
