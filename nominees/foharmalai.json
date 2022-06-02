@@ -1,0 +1,51 @@
+{
+  "name": "Foharmalai",
+  "aliases": [
+    "Waste management"
+  ],
+  "description": "FoharMalai is a Startup Based on Waste managemnet & integrated environmental solutions in Nepal. We have invested in developing waste solutions for a changing world. Today, this includes not just disposal and recycling, but personal counseling to help customers achieve their green goals, including zero waste.  We recover the energy from the waste, called WTE(waste to energy).With the sensor based network of recycling facilities,our entire business can adapt to meet the needs of every distinct customer segment.  As Startup, our motto is to maximize resource value while minimizing impact in order to further both economic and environmental sustainability for all human.",
+  "website": "https://foharmalai.com/",
+  "license": [
+    {
+      "spdx": "AFL-3.0",
+      "licenseURL": "https://foharmalai.com/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Management, Treatment and Reuse of wastes, including:  Municipal and industrial/Commercial solid wastes Electronic wastes Agricultural wastes Pollution prevention, waste minimization, recycle & reuse",
+      "evidenceURL": "https://foharmalai.com/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "To reduce the amount of waste by promoting individual and corporate responsibility. To recover waste for its highest and best use while balancing rates and services. To transform our business from burying waste to utilizing waste as a resource. To eliminate the need for landfills.",
+      "evidenceURL": "https://foharmalai.com/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "We make it our purpose to capture the possibilities and vanquish the challenges in order to deliver environmental peace of mind for our customers and, therefore, for everyone else. Our corporate values of collaboration, diversity, innovation, integrity,passion and quality ensure that we achieve this.",
+      "evidenceURL": "https://foharmalai.com/"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Collaboration – because there is no single answer to the problem of waste. Diversity - We believe our diversity is key to our success. Our team boasts a mix of skill, style, gender, race and age ensuring that we are able to deliver the best possible solution to our customers. Innovation – because there is always a better way. Integrity – for its own sake and because lives and the planet are at stake. Passion – because a clean environment is such a basic human right. And, as innovators, we thrive on the cutting edge. Quality – because lives depend on it and society deserves it.",
+      "evidenceURL": "https://foharmalai.com/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "SysQube Technology Pvt. Ltd.",
+      "website": "http://sysqube.com/",
+      "org_type": "owner",
+      "contact_name": "Bhaskar Bhatt",
+      "contact_email": "8h45k4r@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
