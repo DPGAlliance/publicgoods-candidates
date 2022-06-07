@@ -1,0 +1,34 @@
+{
+  "name": "cdas",
+  "aliases": [
+    ""
+  ],
+  "description": "sacdsa",
+  "website": "https://submission.digitalpublicgoods.net/form",
+  "license": [
+    {
+      "spdx": "APL-1.0",
+      "licenseURL": "https://submission.digitalpublicgoods.net/form"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "csd",
+      "evidenceURL": "https://submission.digitalpublicgoods.net/form"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "few",
+      "website": "https://submission.digitalpublicgoods.net/form",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
