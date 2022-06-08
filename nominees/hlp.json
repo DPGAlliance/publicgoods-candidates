@@ -1,0 +1,45 @@
+{
+  "name": "HLP",
+  "aliases": [
+    "LGD"
+  ],
+  "description": "nilg premease",
+  "website": "https://www.nilg.gov.bd",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://apachi.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "el",
+      "evidenceURL": "http://www.muktopaath.gov.bd"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "standard",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "soft",
+      "url": "https://www.hlp.gov.bd"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "hlp",
+      "website": "https://www.hlp.gov.bd",
+      "org_type": "owner",
+      "contact_name": "Nazmul",
+      "contact_email": "nh_masud@yahoo.com"
+    }
+  ],
+  "stage": "nominee"
+}
