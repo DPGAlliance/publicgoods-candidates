@@ -13,15 +13,11 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 11,
-      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
-    },
-    {
-      "SDGNumber": 2,
-      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
-    },
-    {
       "SDGNumber": 16,
+      "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
+    },
+    {
+      "SDGNumber": 17,
       "evidenceURL": "https://openlittermap.medium.com/openlittermap-and-the-sdgs-ea3567d5085e"
     }
   ],
