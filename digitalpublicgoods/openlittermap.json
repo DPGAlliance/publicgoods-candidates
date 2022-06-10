@@ -5,14 +5,20 @@
     "copyrightURL": "https://openlittermap.com"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Yes"
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Unknown"
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -25,39 +31,59 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "No",
     "standardsList": [
       "Todo"
     ],
     "evidenceStandardSupport": [
       "https://openlittermap.com"
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      ""
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Yes"
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Guys come on this is kind of boring, I am just trying to register my project",
-      "contentFilter": "No",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "We have a human verification system"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "todo"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "todo"
       ]
     }
   },
-  "locations": {}
+  "locations": {
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
 }
