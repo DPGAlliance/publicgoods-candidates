@@ -5,20 +5,23 @@
     "copyrightURL": "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview",
       "https://github.com/Intelehealth/Android-Mobile-Client",
-      "https://drive.google.com/file/d/1_ZG0M18C-geK0e09YO-KxVekDzPjQVak/view?usp=sharing",
-      "https://drive.google.com/file/d/1WXjk7ktwOpIyhYXo-5w3o9lG5paUxkDx/view?usp=sharing"
+      "https://github.com/Intelehealth/Intelehealth-WebApp",
+      "https://sites.google.com/a/intelehealth.io/team-wiki/the-intelehealth-platform/openmrs/openmrs-development-guide"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -34,7 +37,7 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "HL 7",
+      "HL7",
       "CCD / CDA Export"
     ],
     "evidenceStandardSupport": [
@@ -42,7 +45,11 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "User Center design, OWASP top 10 standard, Agile Methodologies, S.O.L.I.D & Don’t Repeat Your self (DRY)"
+      "User Center design",
+      "OWASP top 10 standard",
+      "Agile Methodologies",
+      "S.O.L.I.D",
+      "Don't Repeat Your self (DRY)"
     ]
   },
   "doNoHarm": {
@@ -53,16 +60,33 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Name, Gender, DOB, Mobile No, Address, Son / Daughter / Wife of, Occupation, Cast, Economics status, Education level, Health Vital / medical history, Past and family medical history"
+        "Name",
+        "Gender",
+        "DOB",
+        "Mobile No",
+        "Address",
+        "Son / Daughter / Wife of",
+        "Occupation",
+        "Cast",
+        "Economics status",
+        "Education level",
+        "Health Vital / medical history",
+        "Past and family medical history"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Personal information and medical history, Store Personal information and medical history, Distribute Among health worker and Doctors, Prescription with patient",
-      "contentFilter": "No",
-      "illegalContentDetection": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -72,7 +96,7 @@
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "We are not registering Underage users"
+        "Code of conduct - https://github.com/Intelehealth/Android-Mobile-Client/blob/master-2.0/CODE_OF_CONDUCT.md"
       ]
     }
   },
