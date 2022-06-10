@@ -31,12 +31,12 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/nise3/Client-Web-Apps.git",
-      "name": "Front End"
+      "name": "Front End",
+      "url": "https://github.com/nise3/Client-Web-Apps.git"
     },
     {
-      "url": "https://github.com/nise3/Core-API-Service.git",
-      "name": "Core API"
+      "name": "Core API",
+      "url": "https://github.com/nise3/Core-API-Service.git"
     },
     {
       "name": "CMS API",
