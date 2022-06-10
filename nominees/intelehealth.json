@@ -26,8 +26,16 @@
   ],
   "repositories": [
     {
-      "name": "Intelehealth",
-      "url": "https://github.com/Intelehealth"
+      "name": "Intelehealth WebApp",
+      "url": "https://github.com/Intelehealth/Intelehealth-WebApp"
+    },
+    {
+      "name": "Intelehealth's Android Client",
+      "url": "https://github.com/Intelehealth/Android-Mobile-Client"
+    },
+    {
+      "name": "Intelehealth OpenMRS module",
+      "url": "https://github.com/Intelehealth/intelehealth-openmrs-ui"
     }
   ],
   "organizations": [
