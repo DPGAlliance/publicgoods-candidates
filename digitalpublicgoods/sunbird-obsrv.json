@@ -23,7 +23,8 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "India's Personal Data Protection Bill (2019) The IT Act (2000) for its implementation in India"
+      "India's Personal Data Protection Bill (2019)",
+      "The IT Act (2000) for its implementation in India"
     ],
     "adherenceSteps": [
       "Privacy policy: https://www.sunbird.org/privacy-policy",
@@ -33,14 +34,15 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Versionable Telemetry specification with backward compatibility for data processing : https://telemetry.sunbird.org Data pipeline built using Lambda architecture with both real-time and batch processing capabilities. Data durability - Decoupling of various components of the data pipeline with durable messaging queues as a fail-safe design. Data Security - Protection of private information using data anonymization techniques. Accessibility - Self service tools for report generation."
+      ""
     ],
     "evidenceStandardSupport": [
-      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+      ""
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture",
+      "Versionable Telemetry specification with backward compatibility for data processing : https://telemetry.sunbird.org Data pipeline built using Lambda architecture with both real-time and batch processing capabilities. Data durability - Decoupling of various components of the data pipeline with durable messaging queues as a fail-safe design. Data Security - Protection of private information using data anonymization techniques. Accessibility - Self service tools for report generation."
     ]
   },
   "doNoHarm": {
@@ -58,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Privacy policy: https://www.sunbird.org/privacy-policy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
