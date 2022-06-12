@@ -46,6 +46,7 @@ OpenRefine | May 17th, 2022 |  No longer accepting open source tools that are pr
 Orange | May 23rd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 Raster Vision | May 24th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 MUI Core | May 26th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+TypeScript | May 27th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
 
 
 
