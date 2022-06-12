@@ -1,0 +1,43 @@
+{
+  "name": "VOCATIONAL AND SKILL TRAINING",
+  "aliases": [
+    "SELF"
+  ],
+  "description": "TO CREATE SELFEMPLOYED FOR UNEMPLOYED PEOPLE FOR TRAINING",
+  "website": "http://www.siliguribodhibharati.in",
+  "license": [
+    {
+      "spdx": "AFL-3.0",
+      "licenseURL": "S/1L/666"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "need for leadership and finance and funding"
+    },
+    {
+      "SDGNumber": 1,
+      "evidenceText": "by vocational and skill training for selfemployment"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "skill training"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "SILIGURI BODHI BHARATI VOCATIONAL INSTITUTE",
+      "website": "https://www.siliguribodhibharati.in",
+      "org_type": "implementer",
+      "contact_name": "TAPAN NATH BHAUMIK",
+      "contact_email": "sbbvisbbvi@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
