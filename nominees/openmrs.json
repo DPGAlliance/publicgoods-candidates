@@ -25,6 +25,10 @@
     {
       "name": "main",
       "url": "https://github.com/openmrs/openmrs-core"
+    },
+    {
+      "name": "OpenMRS Android Client",
+      "url": "https://github.com/openmrs/openmrs-contrib-android-client"
     }
   ],
   "organizations": [

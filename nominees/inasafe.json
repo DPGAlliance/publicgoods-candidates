@@ -4,7 +4,7 @@
     ""
   ],
   "description": "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
-  "website": "http://inasafe.org",
+  "website": "https://inasafe.org",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -37,5 +37,5 @@
       "contact_email": "info@kartoza.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

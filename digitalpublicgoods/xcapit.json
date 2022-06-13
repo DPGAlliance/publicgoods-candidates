@@ -1,0 +1,119 @@
+{
+  "name": "Xcapit",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://xcapit-foss.gitlab.io/documentation/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "All components are open source and a small number have hard dependencies. These components have been developed in a modular way and using interfaces that can be implemented to break the dependency. For example, we have used Firebase Remote Config, but we have developed it using interfaces that can be implemented so as not to depend on Firebase services."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://xcapit-foss.gitlab.io/documentation/docs/app-wallet/getting_started",
+      "https://xcapit-foss.gitlab.io/documentation/docs/app-service/getting_started",
+      "https://xcapit-foss.gitlab.io/documentation/docs/notifications-service/getting_started"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Supports a REST API for data Access"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "Law 25326 Protection of Personal Data (Argentina)"
+    ],
+    "adherenceSteps": [
+      "Consultations with specialists and lawyers",
+      "Terms and conditions - https://xcapit.com/terms-and-conditions/",
+      "Privacy Policy -  https://xcapit.com/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ISO/IEC 27001:2013",
+      "OWASP TOP TEN (10)",
+      "HTTPS",
+      "SSL",
+      "JWT (JSON Web Tokens)",
+      "REST (Representational State Transfer)",
+      "JSON (JavaScript Object Notation)"
+    ],
+    "evidenceStandardSupport": [
+      "https://xcapit-foss.gitlab.io/documentation/docs/security-certifications-and-audits/iso27001certificate"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Test driven development",
+      "Pair Programming",
+      "Agile Development",
+      "CI",
+      "Code Review",
+      "Principles For Digital Development",
+      "Protect data in transit",
+      "Protect data at rest"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Xcapit Wallet uses the https protocol to ensure safe communication between the user and the system. The implementation of this product does not indicate any harmful intentions. We communicate to the user, for example, the importance of the 12 words in the wallet. The wallet is encrypted and is only stored on the user's device. All new functionality is tested using tests and subsequently functionality tested by Xcapit QAs  before it's deployed to production."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "email",
+        "IP"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "By law, all organizations that process your personal data are obliged to process your personal data in certain ways and to ensure that you are provided with an appropriate amount of information about how they use it. You also have various rights to seek information from those organizations about how they are using your data and to prevent them from processing it unlawfully. For more information about these rights, please see the “Your Rights” section of this Privacy Policy."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina",
+      "Mexico",
+      "Spain"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Mexico",
+      "Colombia",
+      "Spain",
+      "Cuba",
+      "Venezuela",
+      "United States of America",
+      "Brazil",
+      "El Salvador"
+    ]
+  }
+}
