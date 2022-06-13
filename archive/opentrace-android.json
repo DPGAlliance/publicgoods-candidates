@@ -1,0 +1,33 @@
+{
+  "name": "OpenTrace Android",
+  "description": "Using Bluetooth, OpenTrace identifies other nearby phones with the app installed. It then tracks when you are in close proximity with these other persons, including timestamps. It is the generic codebase on which the Singaporean TraceTogether contact tracing app is built.",
+  "website": "https://www.tracetogether.gov.sg/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/opentrace-community/opentrace-android/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opentrace-community/opentrace-android"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Government Technology Agency of Singapore",
+      "org_type": "owner",
+      "contact_email": "partnerships@tracetogether.gov.sg"
+    }
+  ],
+  "stage": "nominee"
+}
