@@ -57,7 +57,9 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "An adopter of Sunbird may choose to share PII data with third parties if they so require, as per the workflows they choose to configure. Implementers/Adopters of Sunbird, have the autonomy to decide what fields to capture/maintain, which other systems to integrate with, and whether they share this data with other authorised parties. (An example of this would be a Sunbird adopter choosing to share the profile data of registered users - after obtaining explicit user consent to do so - with a Course mentor, to permit further analysis of the batch by the mentor)",
+        "While the Sunbird technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a suitable privacy policy at their end to cover the various implementation-specific scenarios regarding the. management & sharing of PII/non PII data.",
+        "As an open source-code solution, Sunbird Lern should be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they address data management (PII/non-PII) and hosting of the solution."
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "As an open source-code solution, Sunbird Lern will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth.    Management of PII/non-PII data in Sunbird is purely a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (Sunbird is not a ‘hosted service or product’). Implementers/adopters of Sunbird, have the autonomy to decide “what” fields to be capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the Sunbird technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
@@ -78,7 +80,8 @@
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "Sunbird Lern has a microservices for reporting and flagging. But, typically adopters extend this to cater to specific needs of the users and processes within their context."
+        "Sunbird Lern has a microservices for reporting and flagging. But, typically adopters extend this to cater to specific needs of the users and processes within their context. Users who take part in interactions using the discussion forum enabled via Sunbird Lern will have the ability to flag/ downvote conversations that they deem offensive or abusive. Threads that are thus flagged by users may eventually be removed by the moderator. The Discussion Forum component of the Sunbird Lern building block is enabled using the NodeBB community platform, which also provides the ability for users to flag threads via the configurations that it provides. ",
+        "The Code of conduct may be defined by an adopter based on the workflows that they choose to configure. An example is the code defined by a Sunbird adopter, DIKSHA, for various types of users including registered users, Course mentors or administrators in the DIKSHA system: https://diksha.gov.in/term-of-use.html"
       ]
     }
   },
