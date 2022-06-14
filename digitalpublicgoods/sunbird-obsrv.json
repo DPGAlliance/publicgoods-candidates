@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://obsrv.sunbird.org"
+      "https://obsrv.sunbird.org",
+      "Installation guide - https://obsrv.sunbird.org/use/installation-guide"
     ]
   },
   "NonPII": {
@@ -34,10 +35,12 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "JWT tokens for API authentication",
+      "OAUTH 2 for Superset authentication",
+      "HTTPS, SSL, SSH, GPG keys for machine connectivity within clusters"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://obsrv.sunbird.org/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
