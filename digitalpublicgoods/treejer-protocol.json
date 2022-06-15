@@ -1,0 +1,87 @@
+{
+  "name": "Treejer Protocol",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.treejer.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Open-source components of Treejer protocol are able to demonstrate independence from the closed components since they all have functional and open alternatives. We're using Twilio as SMS service replaceable by Somleng, SendGrid as Email services replaceable by self-hosed email system replaceable by Postal, Google Maps and MapBox as MAP services replaceable by OpenStreetMap, EtherScan as Crypto Price API (ETH/USD) replaceable by Chainlink and Infura as blockchain RPC service replaceable by self-run nodes."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.treejer.com"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "We're working on becoming GDPR-compliant"
+    ],
+    "adherenceSteps": [
+      "https://docs.treejer.com/privacy-policy",
+      "https://docs.treejer.com/terms-of-service"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Many of the listed Principles for Digital Development are used by Treejer including \"Design With the User, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Source, Make Open Innovation, Reuse and Improve, Be Collaborative\""
+    ],
+    "standardsList": [
+      "Web Design and Applications, HTML & CSS, JavaScript Web APIs, Graphics, Audio and Video, Accessibility, Internationalization, Mobile Web, Privacy"
+    ],
+    "evidenceStandardSupport": [
+      "https://validator.w3.org/nu/?doc=https%3A%2F%2Ftreejer.com%2F"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://docs.treejer.com/project-charter"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Only when adding planters on the supply side, we temporarily verify personal data (name and phone number) to prevent sybils and bots from impersonating tree planters. This will be replaced with a more decentralized method in the future.."
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "harassmentProtectionSteps": [
+        "https://docs.treejer.com/project-charter"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Peru",
+      "Turkey",
+      "Portugal",
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Peru",
+      "Costa Rica",
+      "Bolivia",
+      "Tanzania",
+      "Ghana",
+      "Uganda",
+      "Argentina",
+      "Nigeria",
+      "India",
+      "Colombia"
+    ]
+  }
+}
