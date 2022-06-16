@@ -1,0 +1,44 @@
+{
+  "name": "Test removal of stage",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown"
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
