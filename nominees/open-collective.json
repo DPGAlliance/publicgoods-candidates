@@ -1,34 +1,54 @@
 {
   "name": "Open Collective",
-  "description": "Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.",
-  "website": "https://opencollective.com/",
+  "aliases": [
+    ""
+  ],
+  "description": "Money management made simple, plus great tools for community engagement, budget reporting, and fiscal sponsorship.",
+  "website": "https://opencollective.com",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/opencollective/documentation/blob/v2/LICENSE"
+      "licenseURL": "https://github.com/opencollective/opencollective-frontend/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 17,
-      "evidenceURL": "https://medium.com/open-collective/what-is-open-collective-how-it-works-c51bacc73d94"
+      "SDGNumber": 8,
+      "evidenceText": "Open Collective enables communities to be sustainable by unlocking access to funding and enabling communities to employ their members. "
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Open Collective enables communities to be sustainable by unlocking access to funding they otherwise wouldn't be able to access.",
+      "evidenceURL": "https://opencollective.foundation"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Open Collective enables communities to be sustainable by unlocking access to funding and enabling communities manage their own budget, making them sustainable in time. "
     }
   ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/opencollective/opencollective"
+      "name": "Open Collective Organization",
+      "url": "https://github.com/opencollective"
+    },
+    {
+      "url": "https://github.com/opencollective/opencollective-frontend",
+      "name": "Frontend"
+    },
+    {
+      "name": "API",
+      "url": "https://github.com/opencollective/opencollective-api"
     }
   ],
   "organizations": [
     {
-      "name": "Open Collective",
-      "website": "https://opencollective.com/",
-      "org_type": "owner",
-      "contact_email": "info@opencollective.com"
+      "name": "Open Collective Inc.",
+      "website": "https://opencollective.com",
+      "org_type": "owner"
     }
   ],
   "stage": "nominee"
