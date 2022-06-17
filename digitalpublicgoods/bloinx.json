@@ -1,0 +1,65 @@
+{
+  "name": "Bloinx",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://acervomarcas.impi.gob.mx:8181/marcanet/vistas/common/busquedas/detalleExpedienteParcial.pgi"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.bloinx.io/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The smart contracts have been audited by https://spadetech.io/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Email and alias"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://supabase.com/docs/company/privacy"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://github.com/Bloinx/bloinx-v1/blob/main/CODE_OF_CONDUCT.md",
+        "https://github.com/Bloinx/bloinx-v1/blob/main/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mexico"
+    ],
+    "deploymentCountries": [
+      "Mexico",
+      "Venezuela"
+    ]
+  }
+}
