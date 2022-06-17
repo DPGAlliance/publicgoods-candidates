@@ -7,12 +7,12 @@
   "website": "http://catalyst.coop/pudl",
   "license": [
     {
-      "spdx": "CC-BY-4.0",
-      "licenseURL": "https://github.com/catalyst-cooperative/pudl"
-    },
-    {
       "spdx": "MIT",
       "licenseURL": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://data.catalyst.coop/"
     }
   ],
   "SDGs": [
@@ -32,7 +32,7 @@
   "repositories": [
     {
       "name": "Public Utility Data Liberation Project",
-      "url": "https://github.com/catalyst-cooperative/pudl"
+      "url": "https://data.catalyst.coop/"
     }
   ],
   "organizations": [
