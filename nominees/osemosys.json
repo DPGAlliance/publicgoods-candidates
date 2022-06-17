@@ -1,0 +1,63 @@
+{
+  "name": "OSeMOSYS",
+  "aliases": [
+    "Open Source Energy Modelling System"
+  ],
+  "description": "OSeMOSYS is an open source modelling system for long-run integrated assessment and energy planning. It has been employed to develop energy systems models from the scale of continents (African Power Pools, South America, EU28+2) down to the scale of countries, regions and villages. Designed to require no upfront financial investment, a fast learning curve and little time commitment to operate, it is fit for use by communities of developers, modellers, academics up to policy makers.",
+  "website": "https://osemosys.readthedocs.io/en/latest/manual/Introduction.html",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/OSeMOSYS/OSeMOSYS/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "The project ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources.",
+      "evidenceURL": "https://www.iamconsortium.org/news-from-the-community/news-f-the-community/osemosys-open-source-energy-modelling-system/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This project will substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.",
+      "evidenceURL": "https://www.iamconsortium.org/news-from-the-community/news-f-the-community/osemosys-open-source-energy-modelling-system/"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "It covers most energy sectors, including heat, electricity, and transport. OSeMOSYS is driven by exogenously defined energy services demands. These are then met through a set of technologies which draw on a set of resources, both characterized by their potentials and costs.",
+      "evidenceURL": "https://www.iamconsortium.org/news-from-the-community/news-f-the-community/osemosys-open-source-energy-modelling-system/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The project will ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.",
+      "evidenceURL": "https://www.iamconsortium.org/news-from-the-community/news-f-the-community/osemosys-open-source-energy-modelling-system/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The project will integrate climate change measures into national policies, strategies and planning",
+      "evidenceURL": "https://www.iamconsortium.org/news-from-the-community/news-f-the-community/osemosys-open-source-energy-modelling-system/"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OSeMOSYS/OSeMOSYS"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "KTH Royal Institute of Technology, Division of Energy Systems",
+      "website": "https://www.energy.kth.se/research/energy-systems",
+      "org_type": "maintainer",
+      "contact_name": "Will Usher",
+      "contact_email": "wusher@kth.se"
+    }
+  ],
+  "stage": "nominee"
+}

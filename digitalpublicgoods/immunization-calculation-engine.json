@@ -1,0 +1,94 @@
+{
+  "name": "Immunization Calculation Engine",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://cdsframework.atlassian.net/wiki/spaces/CDSF/pages/14352414/Open-Source+License"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23494658/Documentation"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "HIPAA (US)"
+    ],
+    "adherenceSteps": [
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/77365249/Vision"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 VMR",
+      "FHIR",
+      "Terminology (US CDC CVX, SNOMED-CT)"
+    ],
+    "evidenceStandardSupport": [
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23494658/Documentation",
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/18972704/Downloads",
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23920670/News",
+      "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/1580335105/COVID-19+Vaccine+Group+with+Pfizer+Moderna+and+Janssen+Vaccines"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile development",
+      "Consultation of relevant clinical guidelines"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://www.hln.com/services/open-source/ice/index.html"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The clinical information system sends a patient’s data to ICE utilizing the Virtual Medical Record (vMR) format, which is an emerging standard within the HL7 Clinical Decision Support Workgroup. Reference: https://www.hln.com/services/open-source/ice/index.html"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Project relies on Google Groups that are monitored"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Project relies on Google Groups that are monitored"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}

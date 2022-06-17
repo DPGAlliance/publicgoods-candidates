@@ -1,0 +1,54 @@
+{
+  "name": "SanteIMS",
+  "aliases": [
+    ""
+  ],
+  "description": "SantéIMS is a proven, purpose-built, person-centered, holistic immunization management system and EIR platform that supports management of any type and scale of vaccination program including pandemic response such as COVID-19 vaccination. Its unique, fully integrated “once and done” design and functionality automates end-to-end vaccination workflows, decision support, and stock management, while at the same time seamlessly automating immunization data feedback loops, aggregate reporting and analytics from local clinic, to regional, and national levels and beyond.",
+  "website": "https://santesuite.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/santedb/santedb-server/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "SantéSuite's immunization management system has demonstrated significant, measurable contributions to achieving SDG3 in Tanzania by improving health and well being by: increasing vaccine coverage, reducing missed dosses, fostering more effective data use, dramatically reducing the reporting burden on frontline health workers liberating time to focus on care delibery, improving vaccine front-line stock availability and supply chain efficiency, and improving system-wide data accuracy, timeliness, quality and analytics.",
+      "evidenceURL": "https://youtu.be/NGRCLpk4cGs"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "The SantéIMS based TiMR immunization management system supports implementation of Tanzania's national HPV vaccination program thus leveraging the country's EIR investment to advance gender equity and reduce inequalities by providing young women access to protection against cervical cancer.",
+      "evidenceURL": "https://publications.jsi.com/JSIInternet/Inc/Common/_download_pub.cfm?id=23822&lid=3"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "The SantéIMS based TiMR immunization management system has demonstrated its ability to significantly improve geographic reach and access to vaccination programs in Tanzania, thus contributing reducing inequalities by overcoming geographic, internet and electrical power challenges.",
+      "evidenceURL": "https://bidinitiative.org/wp-content/uploads/BID_Infographic_R3.pdf"
+    }
+  ],
+  "sectors": [
+    "Health",
+    "Gender and Minority Groups"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/santedb/santedb-server"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "SantéSuite Inc.",
+      "website": "https://santesuite.com",
+      "org_type": "owner",
+      "contact_name": "Joseph Dal Molin",
+      "contact_email": "joseph@santesuite.com"
+    }
+  ],
+  "stage": "DPG"
+}

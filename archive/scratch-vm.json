@@ -1,0 +1,34 @@
+{
+  "name": "Scratch VM",
+  "description": "Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/LLK/scratch-vm/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LLK/scratch-vm"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Scratch",
+      "website": "https://scratch.mit.edu/about",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

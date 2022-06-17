@@ -1,0 +1,37 @@
+{
+  "name": "Logistimo",
+  "description": "Open source software for supply chain and logistics management.",
+  "website": "https://www.logistimo.com",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/logistimo/logistimo-web-service/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8
+    },
+    {
+      "SDGNumber": 9
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/logistimo/logistimo-web-service"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Logistimo",
+      "website": "https://www.logistimo.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

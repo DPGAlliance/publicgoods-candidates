@@ -1,0 +1,43 @@
+{
+  "name": "OpenHIM",
+  "aliases": [
+    "Open Health Information Mediator"
+  ],
+  "description": "The OpenHIM is a middleware component designed to ease interoperability between disparate information systems. It provides secure communications and data governance as well as support for routing, orchestrating and translating requests as they flow between systems.",
+  "website": "https://openhim.org/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications. By allowing different applications to exchange information, it can act as a mechanism to encourage or enforce best practices, clinical guidelines, and policy, in cross-facility workflows and business processes in the health system.",
+      "evidenceURL": "https://www.moasis.org.mz/en/open-health-information-mediator-openhim-ready-orchestrate-2/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/jembi/openhim-core-js"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Jembi Health Systems",
+      "website": "https://www.jembi.org/",
+      "org_type": "owner",
+      "contact_name": "Chris Seebregts",
+      "contact_email": "chris.seebregts@jembi.org"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,143 @@
+{
+  "name": "OpenFn Integration Toolkit",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/OpenFn/governance/#governance-overview"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.openfn.org/",
+      "https://github.com/OpenFn"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "This for project configuration: https://docs.openfn.org/documentation/portability,\nThis for runs:  https://docs.openfn.org/documentation/manage/platform-mgmt/#export-runs-to-csv\nThis for messages: https://docs.openfn.org/documentation/manage/platform-mgmt/#export-messages-to-csv, "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)",
+      "HIPAA"
+    ],
+    "adherenceSteps": [
+      "https://openfn.org/compliance"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST",
+      "JSON",
+      "FHIR",
+      "OpenAPI"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/OpenFn/instant-demo/blob/main/test.js"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We attempt to follow all of the digital principles but especially “Understanding the Existing Ecosystem”, “Addressing Privacy and Security”, and “Designing for Scale”"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "OpenFn is a middleware provider rather than a data storage system. We move information from system A to system B, and integrations can be set up to be compliant with GDPR, HIPAA, and other policies. To make auditing and reprocessing easy, OpenFn temporarily stores message data and job run history, but we're not the single source of truth nor the final resting point for these data. When organizations choose to use our hosted OpenFn platform at OpenFn.org, no data processed by OpenFn is stored locally and our platform runs on the Google Cloud Platform (GCP). \nOpenFn.org runs on the Google Cloud Platform, an infrastructure protected by more than 500 top experts in information, application, and network security. For organizations with specific compliance and data governance requirements, OpenFn can also be deployed on designated local- or cloud-infrastructure."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "First Name",
+        "Last Name",
+        "Email Address",
+        "Organization",
+        "National ID",
+        "DOB",
+        "Phone Number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "OpenFn prioritizes security, stability, and scalability (what we call S³) above all else, and many of our users implement OpenFn to comply with GDPR, HIPAA, and other policies. Read more on our Trust, Compliance, and Privacy pages."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "South Africa",
+      "Chile",
+      "Côte d'Ivoire",
+      "United States of America",
+      "United Kingdom",
+      "Senegal",
+      "Zambia",
+      "Latvia"
+    ],
+    "deploymentCountries": [
+      "Afghanistan",
+      "Bangladesh",
+      "Bolivia",
+      "Brazil",
+      "Cambodia",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Finland",
+      "Guatemala",
+      "Guinea",
+      "Haiti",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Liberia",
+      "Madagascar",
+      "Mali",
+      "Myanmar",
+      "Nepal",
+      "Nicaragua",
+      "Nigeria",
+      "Norway",
+      "Paraguay",
+      "Peru",
+      "Philippines",
+      "Senegal",
+      "South Africa",
+      "Sri Lanka",
+      "Switzerland",
+      "Tanzania",
+      "Gambia",
+      "Uganda",
+      "United States of America",
+      "Vietnam",
+      "Zimbabwe"
+    ]
+  }
+}

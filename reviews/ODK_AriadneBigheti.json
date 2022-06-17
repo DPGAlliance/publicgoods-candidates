@@ -1,0 +1,50 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "not sure if the description assert that data is imported in a non-proprietary format",
+    "confidence": 2
+  },
+  "user": "AriadneBigheti",
+  "timestamp": 1633979064,
+  "timeTaken": 472
+}

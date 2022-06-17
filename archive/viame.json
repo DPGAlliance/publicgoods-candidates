@@ -1,0 +1,41 @@
+{
+  "name": "VIAME",
+  "description": "A do-it-yourself AI system for analyzing imagery and video, orginally targeting marine species analysis.",
+  "website": "https://www.viametoolkit.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/VIAME/VIAME/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 14,
+      "evidenceText": "VIAME provides a crucial platform for the development of ML for various applications in the marine environment ranging from underwater visual fish surveys to aerial surveys of marine mammals.",
+      "evidenceURL": "https://spo.nmfs.noaa.gov/sites/default/files/TMSPO194.pdf"
+    }
+  ],
+  "sectors": [
+    "Data Collection",
+    "Digital Development",
+    "Environment",
+    "Research"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/VIAME/VIAME"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "VIAME",
+      "website": "https://www.viametoolkit.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

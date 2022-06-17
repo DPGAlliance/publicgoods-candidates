@@ -1,0 +1,34 @@
+{
+  "name": "Sugar - Turtle Art",
+  "description": "Turtle Art, also known as Turtle Blocks, is an activity with a Logo-inspired graphical \"turtle\" that draws colorful art based on snap-together visual programming elements. Its \"low floor\" provides an easy entry point for beginners",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/sugarlabs/turtleart-activity/blob/master/COPYING"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sugarlabs/turtleart-activity"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "SugarLabs",
+      "website": "https://sugarlabs.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

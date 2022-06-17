@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The evidence justify the relevance to SDG3 which is \"Ensure healthy lives and promote well-being for all at all ages\"",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "user": "olasunkanmimariam",
+  "timestamp": 1634242792,
+  "timeTaken": 1133
+}
