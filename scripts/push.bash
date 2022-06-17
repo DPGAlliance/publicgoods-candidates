@@ -27,7 +27,7 @@ git clone https://github.com/DPGAlliance/publicgoods-website.git ../publicgoods-
     git config --global user.name "dpgabot" && \
     pushd ../publicgoods-website && \
         git remote set-url origin https://${GITHUB_TOKEN}@github.com/DPGAlliance/publicgoods-website.git && \
-        git add author blog category registry tag && \
+        git add . && \
         git stash && git pull --rebase && git stash pop && \
         git commit -am "BLD: $GITHUB_SHA" || true && \
         git push --set-upstream origin main

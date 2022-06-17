@@ -57,6 +57,7 @@ Below are some of the common best practices and principles implemented by severa
 #### Open Source 
 * [Best practices For Open Source Maintainers](https://opensource.guide/best-practices/)
 * [Google Open Source](https://opensource.google/docs/)
+* [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/)
 
 #### Best practices to help secure your IT resources:
 * Create strong passwords for username/ password authentication

@@ -7,7 +7,7 @@
   "website": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/",
   "license": [
     {
-      "spdx": "CC-BY-4.0",
+      "spdx": "CC-BY-NC-SA-4.0",
       "licenseURL": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
     }
   ],
@@ -43,5 +43,5 @@
       "org_type": "maintainer"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
