@@ -5,9 +5,9 @@
     "copyrightURL": "https://unbiodiversitylab.org/about/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The most recent release of UNBL has switched our AWS and Google services for Azure services. However, this code still needs to be cleaned before we release publicly (planned release: July/August 2022). This addresses many of the dependencies highlighted above. Changes include: \n - GEE Storage and Tilling have been replaced with STAC + any file store (we use Azure Storage). This was a very large and challenging step forward. \n - GEE metrics have been replaced with python/gdal/rasterio/numpy which are all open. However, these services are run on a 'cloud scale' using Azure Batch, which is not. \n -GEE Tiler has been replaced with Titiler, which is open. However, this service is run on a 'cloud scale' using Azure Batch, which is not. \n- AWS Lambda was replaced with Azure functions (both not open). \n - AWS SNS/SQS was replaced with Azure batch (both not open). \n -We also have a (fairly light) dependency on Mapbox which is not documented above. \n\n -We understand there are a couple of components referenced above which are cloud-platform specific. We knowingly created them to be very loosely coupled. Any event handler, such as a generic Kafka service, could provide the needed functionality. The cloud-providers make their own packaged versions of these real-time event handler services at a significant improvement in development time and operating costs. \n- Making a SaaS platform as large and feature rich as the UNBL platform completely cloud agnostic would be excessively expensive and less reliable, two things that are extremely important in this case."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -17,9 +17,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data layers can be downloaded directly from UNBL, if allowed by the original data provider. Where this is not possible, we provide links to the original source for download. Shapes can be downloaded directly from the UNBL interface and MongoDB has an export tool. Metrics calculated on UNBL can be downloaded as a CSV or JSON."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -28,16 +28,20 @@
     ],
     "adherenceSteps": [
       "Privacy Policy - https://unbiodiversitylab.org/privacy-policy/",
-      "Terms of Use - https://unbiodiversitylab.org/terms-of-use/ "
+      "Terms of Use - https://unbiodiversitylab.org/terms-of-use/"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Web Content Accessibility Guidelines (WCAG) "
+      "UNBL is built on 100% open data standards. All Science Data Sets (SDS) are spatially and temporally indexed using the STAC catalog specifications, allowing easy discovery and access to exactly the right AOI and time ranges desired. SDS are stored in Cloud Optimized GeoTIFFs to provide easy access to small areas (AOIs) within the very large GeoTIFF files, eliminating the need to have the entire dataset local to access and perform calculations on and create client-side visualization of using open tiling solutions (e.g. titiler). All analysis of the SDS is done using open standard analysis libraries including gdal, numpy, and xarray.",
+      "Web Content Accessibility Guidelines (WCAG)",
+      "CSV",
+      "JSON",
+      "JavaScript"
     ],
     "evidenceStandardSupport": [
-      "https://wave.webaim.org/report#/https://unblfrontendprod.azureedge.net/earth"
+      "https://github.com/natgeosociety/marapp-frontend"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
