@@ -5,7 +5,9 @@
     "copyrightURL": "https://farmos.org/community/trademark"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -19,9 +21,9 @@
     "nonPIIAccessMechanism": "farmOS provides an API (that adheres to JSON) that other applications/systems can use to read and write records via HTTP requests - https://farmos.org/development/api/"
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty. As such, laws such as GDPR do not apply, because a third-party is not involved in data storage."
     ],
     "adherenceSteps": [
       "farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty. As such, laws such as GDPR do not apply, because a third-party is not involved in data storage."
