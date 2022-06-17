@@ -1,0 +1,119 @@
+{
+  "name": "Aam Digital",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://aam-digital.com/about-us/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Developer documentation - https://aam-digital.github.io/ndb-core/documentation/additional-documentation/overview.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Users can download data as well as generated aggregated information in .csv or .json format directly from the user interface of the application. \n Export formats can be configured to match custom requirements. \nThe underlying database (CouchDB) offers a generic REST API that can be exposed to integrate directly with other information systems."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "There is an in-house data protection management system, compliance with which is constantly monitored and evaluated on a case-by-case basis and at least every six months.",
+      "The keys, access cards or codes issued to employees as well as authorizations granted with regard to the processing of personal data will be withdrawn after they leave the company or change responsibilities.",
+      "Data protection training: Employees are trained annually on data protection and security. In addition to the general training, the special context of the sensitive data of the Aam Digital Case Management System and associated risks and protective measures for this special context are discussed.",
+      "Data from the Aam Digital case management system is only stored in ISO 27001 certified data centers in Germany.",
+      "Transport encryption: Data from the Aam Digital case management system is only transmitted in encrypted form. The application does not allow insecure connections and automatically redirects to a TLS/SSL encrypted connection."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTPS/SSL (encrypted connection to the app are automatically forwarded and enforced)",
+      "UTF-8 (data can be entered in any local language/script; translated UI is available)",
+      "XLIFF (i18n translation files to make the app available in different languages; https://github.com/Aam-Digital/ndb-core/tree/master/src/locale)",
+      "HTML/CSS/ECMAScript6 (Aam Digital is built using the widely adopted Angular framework and TypeScript, following common web standards)",
+      "REST (CouchDB as our backend/database exposes data through the REST standard)",
+      "OpenAPI (our advanced user-permission backend (still under development) provides its API documentation in standard format: https://user-roles.aam-digital.com/db/api/)",
+      "JSON (backups/exports of data are available in JSON or CSV)",
+      "CSV (backups/exports of data are available in JSON or CSV)"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Aam-Digital/ndb-core/tree/master/src/locale",
+      "https://user-roles.aam-digital.com/db/api/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development - these principles are a critical guiding light for our work; Aam Digital is an open source initiative co-created in close collaboration with fieldworkers and intends to make this a scalable, sustainable service through its social enterprise",
+      "Agile development - our roots are in modern software development and our processes loosely based on Scrum; iterative development, process automation and detailed user feedback are key aspects for us",
+      "CI/CD - extensive automation of tests and integration of code quality analytics: https://github.com/Aam-Digital/ndb-core/tree/master/.github/workflows (or see any Pull Request on GitHub)",
+      "Software architecture and patterns - building modular, reusable, isolated components is a core principle for us, continuously pushed for by our core team holding computer science degrees and professional experience in software development. Reference - https://aam-digital.github.io/ndb-core/documentation/additional-documentation/concepts/overall-architecture.html",
+      "Microservices & containerization - different backend services are deployed separately and deployed as docker containers to allow easy setup. Reference - https://github.com/Aam-Digital/ndb-setup/blob/master/docker-compose.yml",
+      "Material Design - following the design guidelines and built using the official material design components for Angular. Reference - https://github.com/Aam-Digital/ndb-core/blob/e1f94b6c3a54501df04d78289bcfb118ea37537b/package.json#L34",
+      "Code style standards- prettier and tslint are integrated in our CI pipelines to automatically ensure consistent formatting, following the default styles for Angular projects",
+      "Documentation, on-boarding and active engagement with volunteer contributors to the Open Source project. we run weekly video call meetings and mentor contributors actively in addition to our Developer Documentation (https://aam-digital.github.io/ndb-core/documentation/additional-documentation/overview.html)",
+      "OWASP & Security Audits - regular security audits and reviews also based on the most common security threats analyzed by OWASP",
+      "Enforced strong passwords - the app forces users to set passwords of minimum length and complexity"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The protection of personal data is considered at all levels or our work, taking into account technical state of the art, cost of implementation and type, scope, context and purposes of the data processing as well as the diverse probability and impact of risks for the rights and freedom of affected persons. We already consider these implications during development of software and selection of modules and processes following the data protection principle of designing for data protection and privacy friendly defaults (Art. 25 GPDR)."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). technical error reports from devices (using Sentry.io). usage analytics to understand how users are interacting with the app (using Matomo, self-hosted)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "There is an in-house data protection management system, compliance with which is constantly monitored and evaluated on a case-by-case basis and at least every six months. \n Security Audits: The Aam Digital case management software including its servers and other systems are subject to an extensive annual security audit. This includes the modelling of attack scenarios, the probing of possible security holes (penetration testing), the automatic scanning of systems using tools for security analysis as well as the discussion and adaption of security measures based on these insights. The audit is taking into consideration the guidelines of the German Federal Cyber Security Authority (BSI 'IT-Grundschutz') and the 'Open Web Application Security Project' (OWASP)."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Germany",
+      "India",
+      "Israel"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Palestine State",
+      "Pakistan",
+      "Tanzania",
+      "Rwanda",
+      "United States of America",
+      "Germany"
+    ]
+  }
+}

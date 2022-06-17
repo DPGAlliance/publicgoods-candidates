@@ -1,0 +1,102 @@
+{
+  "name": "Simple",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.simple.org/license/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.simple.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data is available via an API. You can browse our data dictionary on Google Sheets - https://docs.google.com/spreadsheets/d/1LOn9IzfuQXog2agGbNphweMNTV27K84yctjPs6b7USI/edit#gid=0"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "India - Information Technology Act 2000, Electronic Consent Framework by MeitY & Information Technology Rules, 2011",
+      "Bangladesh - ICT Act, 2006 & Digital Security Act, 2018"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.simple.org/simple-privacy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Open standards for health data - HL7 FHIR, RxNorm"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.simple.org/",
+      "https://github.com/simpledotorg/simple-server"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We adhere to the Principles for Digital Development:",
+      "1. Design With the User: We have 2.5 user researchers on the team who work directly with healthcare workers and other users to co-create, identify their needs, and test concepts before development. We invest considerably in qualitative research.",
+      "2. Understand the Existing Ecosystem: We work directly with local ministries of health, observe how other local data systems are integrated in local workflows, and share data transparently within the health data ecosystem in countries (e.g. we integrate with DHIS2 in 3 countries, we adopted the India National Health ID, etc.)",
+      "3. Design for Scale: We are currently at mid-size scale (5000 facilities, 1.4M patients) and have designed a scalable system that grow 10-100x this scale. We work with local public health implementation partners to scale the growth in terms of user support and cost effectiveness. We have solid technical growth plans in place to handle many more patients. We scale training plans that have enabled WHO-India to add over 1000 facilities in a single month.",
+      "4. Be Data Driven: We are extremely data drive, combining qualitative research with quant to give a fuller picture. The key is that Simple drives rational, timely feedback loops back into the health system by surfacing the key data to answer the question: 'Are patients enrolled in the hypertension control program getting healthier?' This sounds basic, but is the heart of the program and significantly lacking from many public health programs.",
+      "5. Reuse and Improve: We take lessons from older health programs, we integrate with existing systems (e.g. DHIS2), and we adopt existing standards (e.g. FHIR).",
+      "6. Address Privacy & Security: We take privacy and security seriously by conducting twice-yearly 3rd party security audits, adopting standard security protocols, and adhering carefully to all local privacy regulations.",
+      "7. Be Collaborative: We share on our blog, are currently aiming to publish in a journal, and frequently share our lessons learned from other teams in our space."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Only users who have been approved by designated personnel get access to patient data through the app. Designated personnel can also revoke access to prevent the user from gaining access to additional data. \nThe app requires the user to enter a PIN (set by them) before they gain access to Protected Health Information. There is protection against brute force entry to the app. \nScreenshots, automatic backups, and installations of app on SD card are disabled to prevent access to PHI."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Patient names, sex, phone numbers, addresses",
+        "Longitudinal records of BPs, blood sugars, medications",
+        "Record of location and dates of treatment"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All data is owned by local Ministries of Health. No data is shared. https://www.simple.org/simple-privacy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "India",
+      "Ethiopia",
+      "Nigeria"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Bangladesh",
+      "Ethiopia"
+    ]
+  }
+}

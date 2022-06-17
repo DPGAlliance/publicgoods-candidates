@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/apache/fineract",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/apache/fineract"
+    }
+  ],
   "organizations": [
     {
       "name": "The Apache Software Foundation",

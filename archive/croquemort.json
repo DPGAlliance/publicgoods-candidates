@@ -1,0 +1,34 @@
+{
+  "name": "Croquemort",
+  "description": "The aim of this project is to provide a way to check HTTP resources: hunting 404s, updating redirections and so on.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/etalab/croquemort/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/etalab/croquemort"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Data Team",
+      "website": "https://getudata.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

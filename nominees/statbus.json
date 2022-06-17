@@ -4,7 +4,7 @@
     "SBR"
   ],
   "description": "Statistical Business Register IT system",
-  "website": "https://statbus.org",
+  "website": "https://www.statbus.org/",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/statisticsnorway/statbus",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/statisticsnorway/statbus"
+    }
+  ],
   "organizations": [
     {
       "name": "Statistics Norway",
@@ -30,7 +35,22 @@
       "org_type": "owner",
       "contact_name": "Anne Abelsæth",
       "contact_email": "Anne.Abelsaeth@ssb.no"
+    },
+    {
+      "name": "National Statistical Committee (NSC) of the Kyrgyz Republic",
+      "website": "https://stat.kg/en/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Statistics Sweden",
+      "website": "https://www.scb.se/en/",
+      "org_type": "implementer"
+    },
+    {
+      "name": "Statistics Africa (the statistical division of the African Union (AU))",
+      "website": "https://au.int/ea/statistics/statafric",
+      "org_type": "implementer"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

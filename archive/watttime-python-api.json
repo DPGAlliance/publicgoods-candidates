@@ -1,0 +1,34 @@
+{
+  "name": "WattTime Python API",
+  "description": "Python client library for the WattTime API.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/WattTime/watttime-python-client/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WattTime/watttime-python-client"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "WattTime",
+      "website": "https://www.watttime.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

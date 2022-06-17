@@ -1,0 +1,37 @@
+{
+  "name": "OpenAg Device Software",
+  "description": "Software for running controlled grow environments on embedded linux devices such Raspberry Pi and Beaglebone.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/OpenAgricultureFoundation/openag-device-software/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 12
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenAgricultureFoundation/openag-device-software"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Agriculture Initiative",
+      "website": "https://www.media.mit.edu/groups/open-agriculture-openag/overview/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

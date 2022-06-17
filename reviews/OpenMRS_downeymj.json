@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "While accurate, the description does not explain the specific formats available to export the data and whether or not those formats are proprietary.",
+    "confidence": 5
+  },
+  "user": "downeymj",
+  "timestamp": 1636175178,
+  "timeTaken": 173
+}
