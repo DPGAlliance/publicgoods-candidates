@@ -1,36 +1,82 @@
 {
   "name": "Test removal of stage",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Unknown"
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/"
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://github.com/"
+    ]
   },
   "standards": {
-    "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTPS/SSL"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "CI/CD"
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Code of conduct"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "HTTPS"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
@@ -38,7 +84,7 @@
       "Ghana"
     ],
     "deploymentCountries": [
-      "Ghana"
+      "Uganda"
     ]
   }
 }
