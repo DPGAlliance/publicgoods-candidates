@@ -1,8 +1,8 @@
 {
   "name": "OS City",
   "clearOwnership": {
-    "isOwnershipExplicit": "No",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.os.city/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -10,9 +10,10 @@
     "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No",
+    "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "GovTech Wallet (Soberana Mobile App) - https://gitlab.com/oscity/community/govtechwallet",
+      "CMP DID (Certificates Management Platform) - https://gitlab.com/oscity/community/cmp-did"
     ]
   },
   "NonPII": {
@@ -68,11 +69,11 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Verifiable Claims (Refer to: https://www.w3.org/TR/vc-use-cases/#introduction) ",
-      "contentFilter": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "No",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
