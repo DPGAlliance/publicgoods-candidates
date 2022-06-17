@@ -2,7 +2,7 @@
   "name": "Aajeevika",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria3%20-Clear%20Ownership.docx"
+    "copyrightURL": "https://github.com/undpindia/aajeevika"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/UNDPIndia/Aajeevika/tree/main/All%20User%20Manuals"
+      "https://github.com/undpindia/aajeevika"
     ]
   },
   "NonPII": {
@@ -26,26 +26,35 @@
       "Approach taken for development of Aajeevika: The government of India and a joint Parliamentary Committee had proposed the draft Personal Data Protection(PDP) Bill on data protection which will be India's first law on the protection of personal data. This bill is still in draft stage. Aajeevika application is designed based on UN privacy principles  as described in UN Secretary General's Data Strategy is being followed."
     ],
     "adherenceSteps": [
-      " https://www.un.org/en/content/datastrategy/images/pdf/UN_SG_Data-Strategy.pdf"
+      "https://www.un.org/en/content/datastrategy/images/pdf/UN_SG_Data-Strategy.pdf"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "The application vulnerabilities are handled through Open Web Application Security Project (OWASP) application security verification standards."
+      "Open Web Application Security Project (OWASP) application security verification standards.",
+      "HTML",
+      "CSS",
+      "JSON",
+      "REST"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/UNDPIndia/Aajeevika/blob/main/Ajeevika%20Case%20Testing%20(1).xlsx"
+      "https://github.com/undpindia/aajeevika"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria8%20-Adherence%20to%20Standards%20%26%20Best%20Practices.docx"
+      "Design With the User - User survey for the buyers as well as the sellers was done using google form and the responses were analysed to design UI/UX of the application. Survey questionnaire is put on Github (https://github.com/UNDPIndia/Aajeevika)",
+      "Understand the Existing Ecosystem - Similar applications were analysed and based on the limitations of existing applications and needs of the end users, Aajeevika application was designed. Inputs were also taken from the Digital X (international experts in UNDP)",
+      "Design for Scale - The database architecture is designed in such a way to accommodate scale.(more regions/states/countries, sectors, products, diverse users etc). The application is built to scale.",
+      "Build for Sustainability - The application is built through a long term partnership between UNDP and govt. of Uttarakhand. Under this partnership UNDP is committed to  provide technical support in terms of advisory support, monitoring support , operations, maintenance etc. Government is ready to provide funding for further scale up of the application.",
+      "Be Data Driven - Through this application the buyers could connect with SHG women/Cluster Level Federation (sellers) to make real time purchases. Further the application provides data insights on trend based on the feedback provided on the app for both buyers and sellers. Such analysis will be used to figure out the demand supply gaps and take necessary actions to optimize them in future. Field visits were done by UNDP team.",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation - Open APIs- The application is designed to provide  an open API  to extract the data  that can be used by any external  application/users. \n Open Data- The application is designed to support open data architecture enabling sharing data amongst a large collection of systems and query engines. The govt of Uttarakhand may or may  not be ready to share complete data set though. As of now, some part of data (govt schemes etc.) are open whereas as transaction on marketing platform is login based). \n Open Source -Open source softwares is being used. Kotlin is used for android mobile app development. Php laravel is used for web version ( front end ) and MySQL for backend. \nThe PHP license is a BSD-style license  and OSI approved.  Kotlin comes under Apache license, which is an OSI approved license. \nWe have put the source code and associated documentation and is available on a public repository (Github) - https://github.com/undpindia/aajeevika"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "https://github.com/UNDPIndia/Aajeevika/blob/main/Criteria9%20-Do%20No%20Harm%20by%20Design.docx"
+      "additionalInfoMechanismProcessesPolicies": "Aajeevika does not extract any other data other than what user has given consent for. The application also secures users’ personal information by masking them  like contact details."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -57,7 +66,7 @@
         ""
       ],
       "ensurePrivacySecurity": "No",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The application also secures users' personal information by masking them  like contact details. Aajeevika has also undergone user acceptance testing. The application vulnerabilities are handled through Open Web application Security Project (OWASP)application security verification standards. In order to make the application secure, the following security risks are being taken care of: \n - Broken access control \n- SQL Injection \n- Insecure design \n- Security misconfiguration \n- Cross-site scripting"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
