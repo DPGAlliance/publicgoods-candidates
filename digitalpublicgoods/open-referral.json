@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": "This project deals with public information (about services) and our main product is a non-proprietary data exchange format. Our main product is the format, and associated tools that help people standardize their directory data and  share it in new ways. We don't have a single software system, we help establish standards, interoperability, and cooperative partnerships among existing systems using these nonproprietary tools. "
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Open Referral doesn't traffic in any personal information to which laws might apply. We produce nonproprietary specifications for exchanging public information."
     ],
     "adherenceSteps": [
-      ""
+      "Open Referral doesn't traffic in any personal information to which laws might apply. We produce nonproprietary specifications for exchanging public information."
     ]
   },
   "standards": {
