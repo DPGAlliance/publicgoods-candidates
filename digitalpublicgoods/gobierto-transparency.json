@@ -13,7 +13,8 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://gobierto.readme.io/docs",
-      "Technology stack - https://gobierto.readme.io/docs/introduction"
+      "Technology stack - https://gobierto.readme.io/docs/introduction",
+      "Development environment - https://gobierto.readme.io/docs/development-environment-1"
     ]
   },
   "NonPII": {
@@ -31,12 +32,14 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTML",
+      "CSS",
+      "JavaScript"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://gobierto.readme.io/docs/introduction"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
