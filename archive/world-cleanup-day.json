@@ -1,0 +1,37 @@
+{
+  "name": "World Cleanup Day",
+  "description": "We're now building the World Cleanup App and Platform for the hundreds of millions of people joining the World Cleanup Day:  App (React Native) & Platform (Node). ",
+  "website": "https://play.google.com/store/apps/details?id=com.teeme.ldi",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/letsdoitworld/World-Cleanup-Day/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13
+    },
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/letsdoitworld/World-Cleanup-Day"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Let's Do It!",
+      "website": "https://www.letsdoitworld.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

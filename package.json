@@ -10,7 +10,9 @@
     "lint": "for f in ./nominees/*.json ./digitalpublicgoods/*.json; do jsonlint \"$f\" > tempfile.tmp; if diff $f tempfile.tmp; then echo \"Linting of $f passed\"; else echo \"Linting of $f failed\" && exit 1; fi; done",
     "lint:fix": "for f in ./nominees/*.json ./digitalpublicgoods/*.json; do echo \"$f\"; jsonlint \"$f\" -i; echo >> \"$f\"; done",
     "order": "node scripts/order-fields.js --color=always",
-    "order:fix": "node scripts/order-fields.js --fix"
+    "order:fix": "node scripts/order-fields.js --fix",
+    "cleanCountries": "node scripts/standardizeCountries.js",
+    "cleanCountries:fix": "node scripts/standardizeCountries.js --fix"
   },
   "author": "",
   "license": "MIT",
@@ -21,6 +23,7 @@
     "csvtojson": "^2.0.10",
     "del": "^6.0.0",
     "diff": "^5.0.0",
+    "fuzzball": "^2.0.2",
     "husky": "^4.2.3",
     "isomorphic-git": "^1.8.2",
     "jsonlint": "^1.6.3",
@@ -33,6 +36,6 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.6"
   }
 }

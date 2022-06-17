@@ -1,0 +1,111 @@
+{
+  "name": "Sanitation Digital Solutions Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.sanidigs.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigS-Ver.-01.0.1/blob/main/SaniDigsInceptionReport008.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data obfuscation is used to extract data from the system data sources making an effort to protect private data presenting to the client device."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "THE REPUBLIC OF UGANDA. THE DATA PROTECTION AND PRIVACY ACT, 2019. "
+    ],
+    "adherenceSteps": [
+      "Institution Review Board (IRB) project review, clearance from the Uganda National Council For Science & Technology (UNCST) for research and data collection",
+      "Privacy policy - https://docs.google.com/document/d/1WE3aUn0uLhVWz-z6-R0PKbJ1Kr66IgNc/edit?usp=sharing&ouid=116864198190504455367&rtpof=true&sd=true",
+      "Terms & conditions - https://docs.google.com/document/d/1aRX5h5056YE7f6CIrHujf6Lt_RAMn75a/edit?usp=sharing&ouid=116864198190504455367&rtpof=true&sd=true",
+      "Terms of use - https://docs.google.com/document/d/1WUjQSoo_A1G5h2kEtCX7Vk1TigPrWEna/edit?usp=sharing&ouid=116864198190504455367&rtpof=true&sd=true"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Security - HTTPS, SSL, SSH",
+      "Authentication & Authorization - OAuth 2, JWT (JSON Web Tokens)",
+      "Internationalization (i18n) - UTF-8, ISO-8859-1, ASCII",
+      "Web standards -  HTML, CSS, JavaScript (JS)",
+      "Software Architectural Styles - REST (Representational State Transfer), Realtime messaging, Object Oriented Programming (OOP)",
+      "Application Programming Interfaces (APIs) - OpenAPI, Android API, PubNub API",
+      "Data Exchange formats - JSON (JavaScript Object Notation), XML (Extensible Markup Language), CSV (Comma Separated Values)",
+      "Software Quality Assurance - IEEE, ISO/IEC",
+      "Software Testing - IEEE829, ISO/IEC/IEEE29119",
+      "Business Process Modelling - Unified Modeling Language (UML)",
+      "Standard Content formats - PDF",
+      "Multimedia- SVG (Scalable Vector Graphics), PNG (Portable Network Graphics), JPEG (Joint Photographic Experts Group), MP4 (MPEG-4 Part 14)"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Amref-Health-Africa-in-Uganda/SaniDigSMobile"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The SaniDigS Platform is built upon the Software Development Life Cycle of Agile development following the six (6) phases:",
+      "Concept: In this phase we determined the scope of our project and choose Kyebando parish in Kawempe division to pilot our operation. We developed a data gathering plan with the key indicators of the sanitation service chain pointed by Kampala City Council Authority (KCCA) as a performance matrix in order to understand the past sanitation situation, monitor the present and predict the future sanitation of the parish.",
+      "Inception: Upon the creation of the concept, a development team was assembled to rise to the task upon which workflows and process diagrams we’re produced. Upon each design step, stakeholders were consulted for their input, these included: the Kyebando residents, the sanitation product and service providers, the village leadership, the SaniDigS steering committee, and Amref Health Africa in Uganda project managers.",
+      "Iteration: The bulk of the SaniDigS platform development was performed in this phase as stakeholders’ input was implemented in the software. App mockups were redrawn, process operations were modified, interface themes and colors were altered to match the vision of the project. All these efforts resulted into a Minimum Viable Product (MVP).",
+      "Release: With the MVP ready for release, the team proceeded to perform a number of quality assurance tests check functionality and iron out any bugs swiftly whilst documenting these events. Also, during this phase, we trained product and service providers, VHT Champions, and project stakeholders how the system operates mostly in Kyebando at Kyebando Church of Uganda primary school. After the training, the SaniDigS Mobile app for users and the SaniDigS Driver App for product were deployed on Google playstore ready for download and install.",
+      "Maintenance: Onboarding of clients commenced as performed by the Village Health Team (VHT) Champions. The development team maintains an open line to feedback from these users to maintain stability of the whole system and incorporate new iterations of the system to meet feasible requirements.",
+      "Retirement: The SaniDigS solution at the moment has not reached this stage as results of performance are just coming in."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The SaniDigS Project development team performed provider verification of physical location of business, required that the providers shared letters of introduction from their village chairpersons, and required that they agree to terms to obey the laws of Uganda signing these agreements in the SaniDigS Driver App. Trainings over customer service and etiquette were held at the training venue of Kyebando Church of Uganda were the team put a point across that if a provider and or user that breaks the agreement or the law and reported, the team will proceed to take legal action."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "full name, GPS location, picture of head of household, picture of household"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "All data including full names, GPS location, pictures, and other contact information are only shared between the user and the provider of the product or service over an encrypted digital communication channel to achieve the objective of delivery.",
+        "In the event of presenting before stakeholders and donors to assess performance, statistical high-level data and diagrams are generated to provide an overview of the sanitation indicators being monitored to effect positive change."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All data collected is under the laws of Uganda, where participants sign consent and or agree to the privacy policy, terms and conditions, and user terms of use when installing the SaniDigS Apps on android smart phones. Privacy policy - https://docs.google.com/document/d/1WE3aUn0uLhVWz-z6-R0PKbJ1Kr66IgNc/edit?usp=sharing&ouid=116864198190504455367&rtpof=true&sd=true"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The SaniDigS Platform is designed with a call center, with hotline number 0206 300 200 to receive any complaints from users and providers. The call center performs the duty of coordinating product and service delivery whenever requests are raised. For every request made, the user and provider are required to give feedback on the experience of the exchange. This feedback is reviewed by the Call Agents who proceed with follow up in the event of harassment and or any other malicious action by escalating to the management team or who take action or pass it over to the relevant authorities."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The SaniDigS Platform is designed with a call center, with hotline number 0206 300 200 to receive any complaints from users and providers. The call center performs the duty of coordinating product and service delivery whenever requests are raised. For every request made, the user and provider are required to give feedback on the experience of the exchange. This feedback is reviewed by the Call Agents who proceed with follow up in the event of harassment and or any other malicious action by escalating to the management team or who take action or pass it over to the relevant authorities."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Uganda"
+    ],
+    "deploymentCountries": [
+      "Uganda"
+    ]
+  }
+}

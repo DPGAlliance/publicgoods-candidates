@@ -1,0 +1,95 @@
+{
+  "name": "TruBudget",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://trademarks.justia.com/792/74/trubudget-79274337.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://trubudget.net/docs/README/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "TruBudget does not contain any relevant data to GDPR or others, that is, it is a workflow engine. If relevant data is collected, the organization using the software has to ensure that the data is appropriately encoded or stored."
+    ],
+    "adherenceSteps": [
+      "TruBudget is a workflow engine therefore does not contain any relevant data to GDPR. If relevant data is collected, the organizations using the software have to ensure that the data is appropriately encoded or stored. Reference: https://github.com/openkfw/TruBudget/blob/master/README.md "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "ECMAScript"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/openkfw/TruBudget"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "REST",
+      "Continous integration/ Continous Deployment - https://github.com/openkfw/TruBudget/tree/master/.github"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Evaluating each use cases in pilot scenarios with evaluation periods on benefit and potential harm risk"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "TruBudget does not contain any relevant data to GDPR or others, that is, it is a workflow engine. If relevant data is collected, the organization using the software has to ensure that the data is appropriately encoded or stores."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "TruBudget users are open source developers"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://github.com/openkfw/TruBudget/blob/master/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Germany",
+      "Austria"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "COVID-19 Algorithme Orientation",
+  "description": "A referral tool to support residents to determine whether they are experiencing symptoms of COVID-19. The tool asks users to respond to a series of questions about their symptoms and provides relevant information and recommendations.",
+  "website": "https://delegation-numerique-en-sante.github.io/covid19-algorithme-orientation/",
+  "license": [
+    {
+      "spdx": "EPL-2.0",
+      "licenseURL": "https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The French Ministry of Social Affairs and Health",
+      "org_type": "owner",
+      "contact_email": "mobilisation-covid@sante.gouv.fr"
+    }
+  ],
+  "stage": "nominee"
+}

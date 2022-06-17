@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/somleng/somleng",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/somleng/somleng"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF Ventures Fund",
@@ -33,5 +38,5 @@
       "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

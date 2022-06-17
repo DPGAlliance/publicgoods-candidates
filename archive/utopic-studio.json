@@ -1,0 +1,34 @@
+{
+  "name": "Utopic Studio",
+  "description": "Gamified VR content for interative learning activities and experiements while assessing skills development",
+  "website": "https://utopicstudio.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/utopic-studio/hanselygretelVR/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/utopic-studio/hanselygretelVR"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

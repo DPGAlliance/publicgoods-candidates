@@ -1,0 +1,34 @@
+{
+  "name": "Quill-NLP-Tools-and-Datasets",
+  "description": "Quill Comprehension uses a topic classification algorthim to identify the main pieces of evidence in a student's writing in order to serve feedback that pushes the student to use more precise evidence.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Empirical",
+      "website": "https://www.quill.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

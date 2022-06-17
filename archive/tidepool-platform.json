@@ -1,0 +1,34 @@
+{
+  "name": "TidePool Platform",
+  "description": "The Tidepool platform API.",
+  "website": "https://developer.tidepool.org",
+  "license": [
+    {
+      "spdx": "BSD-2-Clause",
+      "licenseURL": "https://github.com/tidepool-org/platform/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/tidepool-org/platform"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "TidePool",
+      "website": "https://tidepool.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
