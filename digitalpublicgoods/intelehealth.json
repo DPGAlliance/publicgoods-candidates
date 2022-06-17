@@ -19,8 +19,8 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
@@ -30,8 +30,8 @@
       "IT Act 2000, India"
     ],
     "adherenceSteps": [
-      "https://intelehealth.org/terms-of-use/",
-      "https://intelehealth.org/privacy-policy/"
+      "Terms of service - https://intelehealth.org/terms-of-use/",
+      "Privacy policy - https://intelehealth.org/privacy-policy/"
     ]
   },
   "standards": {
@@ -55,7 +55,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "Risk Assess and Risk Treatment Plan"
+      "additionalInfoMechanismProcessesPolicies": "Risk Assess and Risk Treatment Plan - https://docs.google.com/spreadsheets/d/1szWmJSUI9yZgJogTsxyQQAfAzIRVmqBi/edit#gid=391261868"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -78,7 +78,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "All data transfer through HTTPS (SSL) & user level security is maintained through SHA-512 encryption with roles & privileges. Privacy policy - https://intelehealth.org/privacy-policy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
