@@ -21,31 +21,34 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "As AccessMod is not an online tool and is a single-user desktop application, we are not sharing/exchanging information externally. However, it seems we are complying with the seven key principles of GDPR (Lawfulness, fairness and transparency; Purpose limitation; Data minimisation; Accuracy; Storage limitation; Integrity and confidentiality (security); Accountability) in the way we have developed the software."
     ],
     "adherenceSteps": [
-      ""
+      "As AccessMod is not an online tool and is a single-user desktop application, we are not sharing/exchanging information externally. However, it seems we are complying with the seven key principles of GDPR (Lawfulness, fairness and transparency; Purpose limitation; Data minimisation; Accuracy; Storage limitation; Integrity and confidentiality (security); Accountability) in the way we have developed the software."
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Geospatial data type standards "
+      "UTF-8, HTML, REST, CSS, JSON, XML, CSV, TIFF, PNG.",
+      "For the geospatial data, we are using geoTIFF, shapefiles"
     ],
     "evidenceStandardSupport": [
       "https://doc-accessmod.unepgrid.ch/display/EN/AccessMod+5+user+manual"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principle for digital development"
+      "Principle for digital development",
+      "Modularity, Maintainability, Reusability and Extensibility",
+      "Human Centered Design Principle"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "AccessMod has been developed and used to improve accessibility to health care services for the population in need and, as such, to contribute to saving lives and protecting population's health. All the material associated to its use (e.g. user manual and tutorial) do refer to this use case and no other ones. As such, and to the extent of our knowledge, AccessMod has never been used as part of efforts to destroy lives, our environment and our future, in the contrary."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -57,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "AccessMod is a single-user software. We ensure all imported data sets by the users and all results can be exported by the user. None of this data is exposed to others (e.g. through internet) unless decided by the user."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -68,7 +71,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
