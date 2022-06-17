@@ -1,0 +1,33 @@
+{
+  "name": "COVID-19 Remote Monitoring Platform",
+  "description": "A patient self-monitoring tool to help healthcare systems monitor COVID patients remotely using text-based follow up. It is currently deployed at 29 hospitals in Grant Est region of France.",
+  "website": "https://blog.lifen.fr/posts/covid-19-une-application-pour-diagnostiquer-les-patients-depuis-leur-domicile",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/lifen-labs/covid/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/lifen-labs/covid"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Lifen Labs",
+      "org_type": "owner",
+      "contact_email": "covid19@lifen.fr"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/publiclab/plots2",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/publiclab/plots2"
+    }
+  ],
   "organizations": [
     {
       "name": "PublicLab",

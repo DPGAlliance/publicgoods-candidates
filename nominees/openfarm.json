@@ -1,37 +1,41 @@
 {
   "name": "OpenFarm",
-  "description": "Free and open database and web application for farming and gardening knowledge. One might think of it as the Wikipedia for growing plants, though it functions more like a cooking recipes site.",
+  "aliases": [
+    ""
+  ],
+  "description": "A free and open database for farming and gardening knowledge. The platform allows farmers to interact and share their knowledge, practices and expertise with one another improving community generated education across borders.",
   "website": "https://openfarm.cc/",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/openfarmcc/OpenFarm/blob/master/LICENSE"
-    },
-    {
-      "spdx": "CC0-1.0",
-      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 2
-    },
-    {
-      "SDGNumber": 9
+      "SDGNumber": 2,
+      "evidenceText": "Because of the shared knowledge in farming, it is easier for struggling farmers to access education on various knowledge, tricks, and general farming expertise that leads to better crop production and reduces hunger and poverty generally."
     }
   ],
-  "sectors": [],
-  "type": [
-    "software",
-    "data",
-    "content"
+  "sectors": [
+    "Agriculture"
   ],
-  "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfarmcc/OpenFarm"
+    }
+  ],
   "organizations": [
     {
-      "name": "OpenFarm",
-      "website": "https://www.openfarm.cc",
-      "org_type": "owner"
+      "name": "Openfarm",
+      "website": "https://openfarm.cc/",
+      "org_type": "owner",
+      "contact_name": "Rory Aronson",
+      "contact_email": "hi@openfarm.cc"
     }
   ],
   "stage": "nominee"

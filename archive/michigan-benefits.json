@@ -1,0 +1,34 @@
+{
+  "name": "Michigan Benefits",
+  "description": "Code repository for MichiganBenefits.org, a multi-benefit assistance application from Code for America.",
+  "website": "https://demo.michiganbenefits.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforamerica/michigan-benefits/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforamerica/michigan-benefits"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

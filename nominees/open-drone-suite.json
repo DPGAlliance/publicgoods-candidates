@@ -30,7 +30,12 @@
     "software",
     "data"
   ],
-  "repositoryURL": "https://github.com/team-asr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/team-asr"
+    }
+  ],
   "organizations": [
     {
       "name": "Autonomous Systems Research Ltd",

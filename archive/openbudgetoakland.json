@@ -1,0 +1,34 @@
+{
+  "name": "Openbudgetoakland",
+  "description": "Visualizations of Oakland's budget data, and explanations about the budget process.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openoakland/openbudgetoakland/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openoakland/openbudgetoakland"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Oakland",
+      "website": "https://openoakland.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

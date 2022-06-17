@@ -1,0 +1,39 @@
+{
+  "name": "MaryTTS",
+  "description": "Open source text-to-speech (TTS) platform.",
+  "website": "http://mary.dfki.de/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/marytts/marytts/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/marytts/marytts"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "German Research Center for Artificial Intelligence",
+      "website": "https://www.dfki.de/web/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Multimodal Speech Processing Group",
+      "website": "https://www.mmci.uni-saarland.de/en/irg/msp",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "nominee"
+}

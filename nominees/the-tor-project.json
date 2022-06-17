@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/TheTorProject/gettor",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/TheTorProject/gettor"
+    }
+  ],
   "organizations": [
     {
       "name": "Tor Project",

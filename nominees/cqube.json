@@ -24,7 +24,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Sunbird-cQube/cQube_Base",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Sunbird-cQube/cQube_Base"
+    }
+  ],
   "organizations": [
     {
       "name": "EkStep Foundation",
