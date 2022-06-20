@@ -5,9 +5,9 @@
     "copyrightURL": "https://openlittermap.com"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "OpenLitterMap uses AWS S3 to store photos on production; Minio is an open source alternative for someone trying to host the application."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
