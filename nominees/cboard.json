@@ -29,7 +29,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/cboard-org/cboard",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cboard-org/cboard"
+    }
+  ],
   "organizations": [
     {
       "name": "CIREHA",
@@ -37,5 +42,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

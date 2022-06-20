@@ -1,0 +1,34 @@
+{
+  "name": "Represent-Canada",
+  "description": "Point or postcode to electoral district service for Canada, its provinces and municipalities ",
+  "website": "https://represent.opennorth.ca/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/opennorth/represent-canada/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opennorth/represent-canada"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open North",
+      "website": "https://www.opennorth.ca/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

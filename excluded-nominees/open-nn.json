@@ -1,0 +1,42 @@
+{
+  "name": "Open NN",
+  "aliases": [
+    "Open Neural Networks"
+  ],
+  "description": "Open Neural Networks is a world-class open-source library written in the C++ programming language which implements neural networks. It counts with many thousands of users worldwide, and it is intended for advanced users, with high C++ and machine learning skills.",
+  "website": "https://www.opennn.net/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/Artelnics/opennn/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://medium.com/@deepakvraghavan/practical-uses-of-deep-neural-networks-in-healthcare-934ce1783999"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://algorithmxlab.com/blog/10-use-cases-neural-networks/"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Artelnics/opennn"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Artificial Intelligence Techniques, Ltd.",
+      "website": "https://www.artelnics.com/technology/",
+      "org_type": "owner",
+      "contact_email": "artelnics@artelnics.com"
+    }
+  ],
+  "stage": "nominee"
+}

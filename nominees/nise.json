@@ -1,0 +1,80 @@
+{
+  "name": "NISE",
+  "aliases": [
+    "National intelligence for Skills, Education, Employment and Entrepreneurship"
+  ],
+  "description": "An open source matchmaking platform aimed to ensure balance between supply side and demand side of skills, education, employment and entrepreneurship.",
+  "website": "https://nise.gov.bd/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/nise3/Client-Web-Apps/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "NISE is designed to stimulate the quality of education to achieve SDG 4 by improving the online and offline accessibility to technical and vocational education and training (TVET) services. NISE is specifically helping to achieve SDG 4.3 (Equal access to affordable technical, vocational and higher education), SDG 4.4 (Increase the number of people with relevant skills for financial success) and SDG 4.5 (Ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations). The platform targets to provide equal accessibility for all people, with special focus on the vulnerable population- people with disabilities, people in geographically vulnerable areas, minor ethnic groups. In addition to facilitating equal accessibility to skills development for all, the platform incorporates academia supported career counseling, AI based career guidance, educational skills in blended mode to further ensure quality education. Thus, the platform is contributing to increase the quality and quantity of skilled youth who can be empowered enough to start their career as per their goals."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "National Intelligence for Skills, Education, Employment & Entrepreneurship (NISE) is a one-stop digital solution connecting Government Departments/Ministries, public and private skills service providers, industries, and employable youths in a single platform. This is a real-time data driven matchmaking platform for the stakeholders of skills development, employment generation, and entrepreneurship to minimize the gap between supply and demand in the labor market to accomplish SDG 8.5 (Full employment and decent work with equal pay) and SDG 8.6 (Promote youth employment, education and training). This platform is designed to mitigate the challenges of skills mismatch that ultimately contributes to reducing unemployment problem and increases the efficiency of the labor market. To increase employability for the youth, NISE offers them accessibility to career counselling and guidance, job forecast, apprenticeship opportunities, business and entrepreneurship guidance, migration suggestions, etc. The platform’s real-time data enables the public and private skills service providers to analyze and identify the skills in demand and forecast future jobs so that they can plan their activities accordingly. To further reduce this supply-demand gap, the platform facilitates the industries to advertise job vacancies to specific audience, receive skilled youth, and maintain a supply-demand relationship with skills providers to simplify information sharing amongst them on emerging job opportunities, skilled HR, and market driven skills. Thus, NISE is essentially making impacts in economic development by preparing a demand driven skilled workforce. Youths equipped with proper skills will ultimately be able to secure decent and gainful employment not only in own country but also in abroad by ensuring skilled and safe migration and get equal pay as per their skillsets."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Youth unemployment is a global challenge, posing newer threats in the post COVID reality. Around the globe there are 621 million young people aged 15-24 years old who are not in education, employment or training and 75 million young people are trained but have no job. Most of these youth belong to the least-developed and developing countries where supply-demand gap is the key indicator of such unemployment issue. NISE has already been replicated in Somalia and Jordan to solve similar problem in these countries. The platform has received a number of global recognition and a few countries have shown interest to replicate it in their countries. NISE, if becomes an open-source platform, can contribute in achieving SDG 17 (Partnership for the Goals) as it may be replicated in other least-developed and developing countries in south-south and triangular cooperation to enhance their capacity to achieve previously mentioned SDGs by providing skills development, employment and entrepreneurship support."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Front End",
+      "url": "https://github.com/nise3/Client-Web-Apps.git"
+    },
+    {
+      "name": "Core API",
+      "url": "https://github.com/nise3/Core-API-Service.git"
+    },
+    {
+      "name": "CMS API",
+      "url": "https://github.com/nise3/CMS-API-Service.git"
+    },
+    {
+      "name": "Youth API",
+      "url": "https://github.com/nise3/Youth-API-Service.git"
+    },
+    {
+      "name": "SSP API",
+      "url": "https://github.com/nise3/TSP-API-Service.git"
+    },
+    {
+      "name": "Industry API",
+      "url": "https://github.com/nise3/Industry-Association-API-Service.git"
+    },
+    {
+      "name": "Payment API",
+      "url": "https://github.com/nise3/Payment-And-Invoice-Service.git"
+    },
+    {
+      "name": "Mail & SMS API",
+      "url": "https://github.com/nise3/Mail-and-SMS-Service.git"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://github.com/nise3/Documentation.git"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Aspire to Innovate (a2i)",
+      "website": "https://a2i.gov.bd/",
+      "org_type": "owner",
+      "contact_name": "Md. Hafijur Rahman",
+      "contact_email": "dpg@a2i.gov.bd"
+    }
+  ],
+  "stage": "nominee"
+}

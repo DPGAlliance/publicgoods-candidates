@@ -1,0 +1,37 @@
+{
+  "name": "Open Contract Data Standard",
+  "aliases": [
+    "OCDS"
+  ],
+  "description": "The Open Contracting Data Standard (OCDS) enables disclosure of data and documents at all stages of the contracting process by defining a common data model. It was created to support organizations to increase contracting transparency, and allow deeper analysis of contracting data by a wide range of users.",
+  "website": "https://standard.open-contracting.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/open-contracting/standard/blob/1.1-dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/open-contracting/standard"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Contracting Partnership",
+      "website": "https://www.open-contracting.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

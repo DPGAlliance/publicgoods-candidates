@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/MSH/QuanTB",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MSH/QuanTB"
+    }
+  ],
   "organizations": [
     {
       "name": "Management Sciences for Health",
