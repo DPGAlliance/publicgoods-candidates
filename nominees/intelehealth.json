@@ -1,0 +1,51 @@
+{
+  "name": "Intelehealth",
+  "aliases": [
+    ""
+  ],
+  "description": "Multichannel Telemedicine solutions for last mile population",
+  "website": "https://www.intelehealth.org",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/Intelehealth/Android-Mobile-Client/blob/master-2.0/License.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We as an organization align with three UN Sustainable Development Goals in our bid to provide holistic and integrated healthcare services through telemedicine to the last mile population where there is no doctor",
+      "evidenceURL": "https://intelehealth.org/wp-content/uploads/2022/03/eSanjeevani-Jharkhand-1.pdf"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Intelehealth WebApp",
+      "url": "https://github.com/Intelehealth/Intelehealth-WebApp"
+    },
+    {
+      "name": "Intelehealth's Android Client",
+      "url": "https://github.com/Intelehealth/Android-Mobile-Client"
+    },
+    {
+      "name": "Intelehealth OpenMRS module",
+      "url": "https://github.com/Intelehealth/intelehealth-openmrs-ui"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Intelehealth, Inc.",
+      "website": "https://www.intelehealth.org",
+      "org_type": "owner",
+      "contact_name": "Nishant Singh",
+      "contact_email": "nishant@intelehealth.org"
+    }
+  ],
+  "stage": "DPG"
+}
