@@ -1,0 +1,98 @@
+{
+  "name": "Cloud Carbon Footprint",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.cloudcarbonfootprint.org/docs/overview",
+      "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/CONTRIBUTING.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "This offering does not use PII – we have ThoughtWork's privacy policy linked and stated on our microsite."
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.thoughtworks.com/about-us/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "For Codebase: Technical and Design Standards/Best - HTTP/HTTPS, CSS, JSON, REST",
+      "For Client and Microsite: WCAG and other W3C Standards (privacy, security, etc where applicable)"
+    ],
+    "evidenceStandardSupport": [
+      "CodeCov for testing coverage: https://app.codecov.io/gh/cloud-carbon-footprint/cloud-carbon-footprint",
+      "https://github.com/cloud-carbon-footprint/",
+      "https://developers.google.com/web/tools/lighthouse"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Measurements confirmed and kept up-to-date via Website Carbon Calculator",
+      "Principles for Digital Development",
+      "Domain Driven Design",
+      "Test Driven Development (https://martinfowler.com/articles/practical-test-pyramid.html)",
+      "Open Source Principles with transparent methodology, source code, and public forums for peer reviews and validation"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The purpose of the tool is to help companies address sustainability goals through improving efficiency of cloud usage and therefore reducing carbon emissions associated with their cloud carbon usage. This project does not require users to provide personal data to be functional or valuable. Because this is an open-source tool, it is not proprietary, and users can tailor it to their own needs. Because of the collaborative nature of the methodology stakeholders are encouraged to influence the development of the tool and leverage the discussion group for expressing concerns and issues. The Thoughtworks team monitors the discussion group and provides clear guidelines for participation for the stakeholder community."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "CCF does not require users to provide personal data to be functional or valuable."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The software offering is not intended for underage users and is expected to be used by professionals in business environments for tracking and managing carbon emissions associated with an organization&#39;s cloud usage."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Open Government",
+  "description": "OpenGovernment is a Ruby on Rails application for aggregating and presenting open government data.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/opengovernment/opengovernment/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opengovernment/opengovernment"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Participatory Policies Foundation",
+      "website": "https://www.participatorypolitics.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

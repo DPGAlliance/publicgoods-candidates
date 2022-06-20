@@ -1,18 +1,21 @@
 {
   "name": "AccessMod",
-  "description": "AccessMod (version 5) is a free, open-source, standalone software to model physically accessibility to health services, to account for shortage of capacity in these services (human or equipment), to measure referral times and distances between health services, and to increase population coverage through scaling up analyses.",
-  "website": "https://www.accessmod.org/",
+  "aliases": [
+    ""
+  ],
+  "description": "AccessMod is a free, open-source, standalone software to model physically accessibility to health services, to account for shortage of capacity in these services (human or equipment), to measure referral times and distances between health services, and to increase population coverage through scaling up analyses.",
+  "website": "https://www.accessmod.org",
   "license": [
     {
-      "spdx": "GPL-3.0",
+      "spdx": "LGPL-3.0",
       "licenseURL": "https://github.com/fxi/AccessMod_shiny/blob/devel/COPYING"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "AccessMod contributes to Universal Health Coverage (UHC) by ensuring that all people have a physical access to the health services they need where they need them. It has been used in more than 35 low- and middle-income countries, and also in support of national health authorities and international health programs and organizations (WHO, UNFPA, UNICEF, The Global Fund, The World Bank, IDB).",
-      "evidenceURL": "https://www.who.int/choice/geoaccess/en/, \nhttps://healthgeolab.net/KNOW_REP/geography-uhc.pdf?, \nhttps://www.unfpa.org/featured-publication/implementation-manual-developing-national-network-maternity-units"
+      "evidenceText": "AccessMod contributes to Universal Health Coverage (UHC) by ensuring that all people have a physical access to the health services they need where they need them. It has been used in more than 35 low- and middle-income countries, and also in support of national health authorities and  international health programs and organizations (WHO, UNFPA, UNICEF, The Global Fund, The World Bank, IDB, FIND). ",
+      "evidenceURL": "https://www.who.int/tools/accessmod-geographic-access-to-health-care"
     }
   ],
   "sectors": [
@@ -21,23 +24,39 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/fxi/AccessMod_shiny",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/fxi/AccessMod_shiny"
+    }
+  ],
   "organizations": [
     {
-      "name": "University of Geneva/Institute for Environmental Sciences/EnviroSPACE Lab",
-      "website": "https://www.unige.ch/envirospace/",
-      "org_type": "owner"
+      "name": "University of Geneva, GeoHealth group",
+      "website": "https://www.unige.ch/geohealth",
+      "org_type": "owner",
+      "contact_name": "Nicolas Ray",
+      "contact_email": "nicolas.ray@unige.ch"
     },
     {
       "name": "Health GeoLab Collaborative",
       "website": "https://healthgeolab.net/",
-      "org_type": "implementer"
+      "org_type": "owner",
+      "contact_name": "Steeve Ebener",
+      "contact_email": "steeve.ebener@healthgeolab.net"
     },
     {
       "name": "The World Health Organization",
       "website": "https://www.who.int/",
       "org_type": "funder"
+    },
+    {
+      "name": "University of Geneva, GeoHealth group",
+      "website": "https://www.unige.ch/geohealth",
+      "org_type": "maintainer",
+      "contact_name": "Nicolas Ray",
+      "contact_email": "nicolas.ray@unige.ch"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

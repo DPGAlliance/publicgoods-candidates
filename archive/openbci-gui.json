@@ -1,0 +1,36 @@
+{
+  "name": "OpenBCI GUI",
+  "description": "OpenBCI stands for open-source brain-computer interface (BCI). We provide anyone with a computer, the tools necessary to sample the electrical activity of their body.",
+  "website": "https://openbci.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/OpenBCI/OpenBCI_GUI/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenBCI specializes in creating low-cost, high-quality biosensing hardware for brain computer interfacing. Our arduino compatible biosensing boards provide high resolution imaging and recording of EMG, ECG, and EEG signals. Our devices have been used by researchers, makers, and hobbyists in over 80 countries as brain computer interfaces to power machines and map brain activity. OpenBCI headsets, boards, sensors and electrodes allow anyone interested in biosensing and neurofeedback to purchase high quality equipment at affordable prices."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenBCI/OpenBCI_GUI"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Source Brain-Computer Interfacing",
+      "website": "https://openbci.com/",
+      "org_type": "owner",
+      "contact_email": "contact@openbci.com"
+    }
+  ],
+  "stage": "nominee"
+}

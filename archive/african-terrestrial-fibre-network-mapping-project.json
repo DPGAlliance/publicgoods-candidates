@@ -1,0 +1,46 @@
+{
+  "name": "African Terrestrial Fibre Network Mapping Project",
+  "aliases": [
+    "AfTerFibre"
+  ],
+  "description": "This is an Open Data, Open Source map of fibre optic infrastructure projects across the African continent.",
+  "website": "https://afterfibre.nsrc.org",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://afterfibre.nsrc.org/#aftAbout"
+    },
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/stevesong/nsrc-afterfibre/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "This data source enabled critical research to understand the impact of investment of fibre optic infrastructure on employment levels in Africa.  This research would have been impossible without the AfTerFibre open data resource.",
+      "evidenceURL": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20161385"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/stevesong/nsrc-afterfibre/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Network Startup Resource Center (NSRC)",
+      "website": "https://nsrc.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
