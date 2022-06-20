@@ -1,0 +1,35 @@
+{
+  "name": "InterMine",
+  "description": "InterMine integrates biological data sources, making it easy to query and analyse data.",
+  "website": "https://intermine.org/",
+  "license": [
+    {
+      "spdx": "LGPL-2.1",
+      "licenseURL": "https://github.com/intermine/intermine/blob/dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4086141/"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intermine/intermine"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "InterMine",
+      "website": "https://intermine.org/",
+      "org_type": "owner",
+      "contact_email": "info@intermine.org"
+    }
+  ],
+  "stage": "nominee"
+}

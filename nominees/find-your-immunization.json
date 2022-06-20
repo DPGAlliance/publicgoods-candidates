@@ -1,0 +1,41 @@
+{
+  "name": "Find Your Immunization",
+  "aliases": [
+    "FYI"
+  ],
+  "description": "Open source platform for aggregating and displaying vaccine availabilities in an accessible way.",
+  "website": "https://appointments.vaccinehunters.ca/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Find Your Immunization is currently being used to simplify and facilitate the process of finding a COVID-19 vaccine in Canada. It is deployed across the country which has a population of almost 40 million, and is available in over 300 cities. There have been 2.7 million unique searches since it launched on June 18th, 2021. We have an official partnership with the City of Toronto, and Canadian pharmacies, hospitals and independent retailers who share their data daily regarding COVID-19 vaccine availability which is automatically updated in FYI. ",
+      "evidenceURL": "https://www.vaccinehunters.ca/assets/fyi/FindYourImmunization.pdf"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Vaccine Hunters Canada",
+      "website": "https://vaccinehunters.ca/",
+      "org_type": "owner",
+      "contact_name": "Andrew Young",
+      "contact_email": "andryou@gmail.com"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Altinn",
+  "aliases": [
+    ""
+  ],
+  "description": "Altinn is an internet portal for digital dialogue between businesses, private individuals and public agencies. Altinn is also a technical platform that government bodies can use to develop digital services.",
+  "website": "https://www.altinn.no/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/Altinn/altinn-studio/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "It’s essential for governments and institutions to be able to have effective dialogue with its population an businesses using a trusted platform. Altinn is such a platform, used by every organisation and the whole population in Norway, since 2003."
+    }
+  ],
+  "sectors": [
+    "Platform creation"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Altinn/altinn-studio"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Norwegian Digitalisation Agency",
+      "website": "https://www.digdir.no/om-oss/about-norwegian-digitalisation-agency/887",
+      "org_type": "owner",
+      "contact_name": "Eirik Mikkelsen",
+      "contact_email": "eirik.mikkelsen@digdir.no"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Qliksense Enterprise",
+  "description": "QlikSense uses simple drag-and-drop interfaces to create flexible, interactive data visualizations. It has a built-in search engine to show all data proxy and reveal data relationships between data sets, as well as sharing and collaboration features. ",
+  "website": "https://www.qlik.com/us/products/qlik-sense",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/qlik-oss/qliksense-k8s/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://www.qlik.com/us/company/press-room/press-releases/barts-health-nhs-trust-launches-analytics-application-powered-by-qlik"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/qlik-oss/qliksense-k8s"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Qlik",
+      "website": "https://www.qlik.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

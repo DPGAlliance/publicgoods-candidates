@@ -1,0 +1,43 @@
+{
+  "name": "cQube",
+  "aliases": [
+    "Sunbird cQube, SB cQube"
+  ],
+  "description": "cQube is an open-source platform for creating data-based insights in the field of education. It is a solution that provides states the ability to see their existing education data in an integrated manner to gain insights and drive action promptly. It provides flexibility, scalability and ease of use in creating dashboards for actionable insights while also enabling ad-hoc analysts to create customized insights. It is built modularly on top of mature open-source tools providing for extensibility and further customization.",
+  "website": "https://cqube.sunbird.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Sunbird-cQube/cQube_Base/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "cQube is an independent open source solution that provides countries, states, boards, and schools the ability to see their existing education data in an integrated manner to gain insights and drive action promptly. Countries, States and/or boards can use this solution to rapidly assemble the education dashboards and make it available at various administrative levels such as districts, blocks, schools, etc. cQube comes with pre-build dashboards, metrics, and data structures for various education data.It provides metrics and actionable insights for the most common education data available in Indian states. cQube can also be extended easily to create additional customized insights. It is built modularly on top of mature open-source tools. cQube is designed to be accessible on any web browser over the Internet enabling administrators across the state at different levels of hierarchy to gain data-based insights. It can also be used as part of a Command and Control center to monitor progress of education and act on data at a  school, cluster, block or district levels across a state. The solution is completely developed using open source technologies. cQube  can be used both on a small scale as well as on a large scale for monitoring education progress data at an individual school level and above. cQube is part of Sunbird OSS (https://sunbird.org) which offers a set of digital building blocks for learning and human development."
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Sunbird-cQube/cQube_Base"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "EkStep Foundation",
+      "website": "https://www.ekstep.org",
+      "org_type": "owner",
+      "contact_name": "Deepika Mogilishetty",
+      "contact_email": "info@ekstep.org"
+    }
+  ],
+  "stage": "DPG"
+}
