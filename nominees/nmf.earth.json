@@ -18,14 +18,20 @@
       "evidenceURL": "https://nmf.earth/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://github.com/NMF-earth/nmf-app/",
-      "name": " nmf-app"
+      "name": "nmf-app",
+      "url": "https://github.com/NMF-earth/nmf-app/"
+    },
+    {
+      "name": "carbon-footprint",
+      "url": "https://github.com/NMF-earth/carbon-footprint"
     }
   ],
   "organizations": [
