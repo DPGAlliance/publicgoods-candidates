@@ -57,9 +57,10 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "Users are required to submit a name, username and email address. By default, all users are anonymous which can be controlled in the privacy settings.",
+        "Our download does not include any personal information. Our open data includes pre-defined litter types (120+ items), custom-tags, latitude, longitude, full OSM address at each location, litter picked up (boolean)"
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
@@ -87,10 +88,20 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Ireland",
+      "Albania",
+      "India",
+      "The Netherlands"
     ],
     "deploymentCountries": [
-      ""
+      "The Netherlands",
+      "Canada",
+      "United States of America",
+      "Ireland",
+      "Belgium",
+      "United Kingdom",
+      "Japan",
+      "Switzerland"
     ]
   }
 }
