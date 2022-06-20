@@ -1,0 +1,34 @@
+{
+  "name": "Eviction Free NYC",
+  "description": "Eviction Free NYC! This website helps tenants in NYC navigate the eviction process.",
+  "website": "https://www.evictionfreenyc.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/JustFixNYC/eviction-free-nyc/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/JustFixNYC/eviction-free-nyc"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "JustFix",
+      "website": "https://justfix.nyc",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

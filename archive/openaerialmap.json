@@ -1,0 +1,58 @@
+{
+  "name": "OpenAerialMap",
+  "aliases": [
+    "OAM"
+  ],
+  "description": "OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery.  Built on top of the Open Imagery Network (OIN), OAM is an open service that provides search and access to this imagery.",
+  "website": "https://openaerialmap.org",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/hotosm/oam-api/blob/develop/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/openimagerynetwork/oin-register/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "We have a page that goes into HOTOSM mission for Open Mapping for SDGs. OAM is able to provide an open data basis for these mapping efforts. ",
+      "evidenceURL": "https://sdgs.hotosm.org/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "OpenAerialMap (Meta-repository)",
+      "url": "https://github.com/hotosm/openaerialmap/"
+    },
+    {
+      "name": "oam-api",
+      "url": "https://github.com/hotosm/oam-api"
+    },
+    {
+      "name": "oam-browser",
+      "url": "https://github.com/hotosm/oam-browser"
+    },
+    {
+      "name": "OpenImageryNetwork",
+      "url": "https://github.com/openimagerynetwork"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "HOTOSM",
+      "website": "https://hotosm.org",
+      "org_type": "owner",
+      "contact_name": "Bo Percival",
+      "contact_email": "info@hotosm.org"
+    }
+  ],
+  "stage": "nominee"
+}

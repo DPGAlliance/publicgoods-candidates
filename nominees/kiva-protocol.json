@@ -29,7 +29,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/kiva",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kiva"
+    }
+  ],
   "organizations": [
     {
       "name": "Kiva",

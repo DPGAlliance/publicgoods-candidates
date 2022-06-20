@@ -1,0 +1,35 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "yes after reviewing the link, i found the assertion to be true.",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "user": "Simpleshell3",
+  "timestamp": 1633971778,
+  "timeTaken": 110
+}

@@ -31,7 +31,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rapidpro/rapidpro",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rapidpro/rapidpro"
+    }
+  ],
   "organizations": [
     {
       "name": "RapidPro",

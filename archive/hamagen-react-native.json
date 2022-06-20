@@ -1,0 +1,32 @@
+{
+  "name": "Hamagen React Native",
+  "description": "Israel's Ministry of Health's COVID-19 Exposure Prevention App.",
+  "website": "https://github.com/MohGovIL/hamagen-react-native",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/MohGovIL/hamagen-react-native/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MohGovIL/hamagen-react-native"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Israel's Ministry of Health",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
