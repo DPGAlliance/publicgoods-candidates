@@ -1,0 +1,52 @@
+{
+  "name": "MUI Core",
+  "aliases": [
+    "MUI Core"
+  ],
+  "description": "MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+  "website": "https://mui.com/",
+  "license": [
+    {
+      "spdx": "AFL-3.0",
+      "licenseURL": "https://github.com/mui/material-ui"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "NA",
+      "evidenceURL": "https://mui.com/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "NA",
+      "evidenceURL": "https://mui.com/"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "NA",
+      "evidenceURL": "https://mui.com/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "material-ui",
+      "url": "https://github.com/mui/material-ui"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "MUI CORE",
+      "website": "https://github.com/mui/material-ui",
+      "org_type": "maintainer",
+      "contact_name": "Mr. Ramesh",
+      "contact_email": "ramesh@mui.com"
+    }
+  ],
+  "stage": "nominee"
+}
