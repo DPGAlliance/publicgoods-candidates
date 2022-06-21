@@ -17,19 +17,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 5,
-      "evidenceText": "In Bloinx, women are considered a pillar of the family, one of the main ideas when creating Bloinx was to solve the problem of a working woman with children in a pandemic. We know the current situation regarding the difference between the perception of income and the participation of women in informal jobs. We believe that with Bloinx all working women can be supported to manage their income, save and find a profit on blockchain, also we believe there is a possibility for them to expand their businesses. We are seeking to integrate this philosophy in the team, by now we are integrated mostly by women, and one of our objectives is to get involved with the needs of our women users in order to empower them.",
-      "evidenceURL": "https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_626831.pdf"
-    },
-    {
       "SDGNumber": 1,
       "evidenceText": "Bloinx is a tool that allows the participation of communities that do not have access to financial resources, such as credits and bank loans. Being a system that is already known and popular in different countries, it provides the security of being reinforced by blockchain technology, with which practices such as “lenders” or informal and risky loans can be avoided. Bloinx seeks to encourage savings and create awareness and financial education among its users. We believe that education is of primary importance to be able to make changes of all kinds in society, and when it is directly linked to economic power, initial changes can be created until we end poverty.",
       "evidenceURL": "https://www.ntu.edu.sg/docs/librariesprovider57/working-papers/202001.pdf?sfvrsn=52e4f306_2"
     },
     {
-      "SDGNumber": 8,
-      "evidenceText": "We believe that education is of primary importance to be able to make changes in society, in particular education in tools that can help people build a heritage for  families. In Bloinx users are able to learn to use blockchain and at the same time plan their finances to be able to stabilize their economic situation to aspire to a better standard of living.",
-      "evidenceURL": "https://www.researchgate.net/publication/308494966_Analysis_and_Design_of_Microfinance_Services_A_Case_of_ROSCA"
+      "SDGNumber": 5,
+      "evidenceText": "In Bloinx, women are considered a pillar of the family, one of the main ideas when creating Bloinx was to solve the problem of a working woman with children in a pandemic. We know the current situation regarding the difference between the perception of income and the participation of women in informal jobs. We believe that with Bloinx all working women can be supported to manage their income, save and find a profit on blockchain, also we believe there is a possibility for them to expand their businesses. We are seeking to integrate this philosophy in the team, by now we are integrated mostly by women, and one of our objectives is to get involved with the needs of our women users in order to empower them.",
+      "evidenceURL": "https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_626831.pdf"
     }
   ],
   "sectors": [],
