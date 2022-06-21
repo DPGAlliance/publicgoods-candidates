@@ -1,0 +1,36 @@
+{
+  "name": "HEARTH",
+  "description": "Hearth is a centralized patient record containing clinical information provided by and accessible to the disparate information systems making up the health information space of low- and middle- income countries.",
+  "website": "https://github.com/jembi/hearth",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/jembi/hearth/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/jembi/hearth"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Jembi Health Systems NPC",
+      "website": "https://jembi.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

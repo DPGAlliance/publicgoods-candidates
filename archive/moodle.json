@@ -1,0 +1,34 @@
+{
+  "name": "Moodle",
+  "description": "Learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments.",
+  "website": "https://moodle.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/moodle/moodle/blob/master/COPYING.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/moodle/moodle"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Moodle",
+      "website": "https://moodle.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

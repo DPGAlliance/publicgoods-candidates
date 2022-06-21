@@ -1,7 +1,10 @@
 {
   "name": "VaccineLedger",
-  "description": "A supply chain optimization platform that ensure quality, safety and fair distribution of COVID-19 and other vaccines",
-  "website": "http://vaccineledger.com",
+  "aliases": [
+    ""
+  ],
+  "description": "VaccineLedger is a decentralized supply chain management platform that leverages blockchain technology, Internet of Things (IoT) and Artificial Technology and Machine Learning to capture data for every vaccine and other medical products in the supply chains from manufacturer to the beneficiary.",
+  "website": "https://vaccineledger.com/",
   "license": [
     {
       "spdx": "MIT",
@@ -11,26 +14,54 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "Indian Express article about our pilot with an Indian Government to use VaccineLedger to ensure quality safety and fair distribution of COVID-19 drugs, vaccines and other related products. This is achieved by the platform by using blockchain technology to track and trace these products from manufacturer to consumers. World Economic Forum's article on VaccineLedger and the use cases it is solving with COVID-19 vaccine distribution.",
-      "evidenceURL": "https://www.newindianexpress.com/states/telangana/2020/sep/28/telanganato-combat-black-marketing-of-covid-19-vaccine-via-blockchain-2202846.html, https://www.weforum.org/agenda/2020/07/blockchain-role-in-distributing-covid-19-vaccine-could-make-history/"
+      "evidenceText": "Nearly one million children die each year due to vaccine preventable diseases. One of the major reasons for this lack of access to high quality vaccines. Vaccine Supply Chains have a lot of existing issues such as cold-chain failures, expired products, and counterfeit products. These failures have enormous costs associated with them. The platform ensures that the original product manufactured by the Manufacturer reaches the end beneficiary by identifying each unit as a unique ID and stores this information in our database so as to avoid any duplication.",
+      "evidenceURL": "https://timesofindia.indiatimes.com/city/hyderabad/hyd-start-up-wins-rs-4-9-cr-in-uk-contest/articleshow/83860047.cms"
     },
     {
-      "SDGNumber": 10,
-      "evidenceText": "Indian Express article about our pilot with an Indian Government to use VaccineLedger to ensure quality safety and fair distribution of COVID-19 drugs, vaccines and other related products. This is achieved by the platform by using blockchain technology to track and trace these products from manufacturer to consumers. World Economic Forum's article on VaccineLedger and the use cases it is solving with COVID-19 vaccine distribution.",
-      "evidenceURL": "https://www.newindianexpress.com/states/telangana/2020/sep/28/telanganato-combat-black-marketing-of-covid-19-vaccine-via-blockchain-2202846.html, https://www.weforum.org/agenda/2020/07/blockchain-role-in-distributing-covid-19-vaccine-could-make-history/"
+      "SDGNumber": 9,
+      "evidenceText": "Vaccine Supply Chains are complex and fragmented. Our goal is to innovate the supply chains, especially the Vaccine Supply Chain to have complete visibility and transparency across the various stakeholders, thus our platform VaccineLedger ensures all stakeholders have complete visibility of all vaccines and other life sciences products at different stages, using blockchain, and also predict and prevent failures in supply chains.",
+      "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/StaTwig"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Vaccine delivery becomes more expensive due to wastage of vaccines, nearly 50%-60% of vaccines lose their efficacy because of cold-chain failures, however,  supply chains account for nearly 80% of the costs of the vaccines.  VaccineLedger keeps a track of all the batches and their expiry dates in order to prevent any usage of expired or counterfeit products, thus  ensuring that the beneficiary receives certified products. And if these losses are not prevented, then it becomes even more difficult to vaccinate people quickly and efficiently. ",
+      "evidenceURL": "https://www.thehindubusinessline.com/companies/statwig-to-take-a-shot-at-global-speed-delivery-of-covid-vaccine/article32185986.ece"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://gitlab.com/statwig-public",
+  "repositories": [
+    {
+      "name": "ledger",
+      "url": "https://gitlab.com/statwig-public/theledger"
+    },
+    {
+      "name": "blockchain engine",
+      "url": "https://gitlab.com/statwig-public/BlockchainEngine"
+    },
+    {
+      "name": "ledger mobile app",
+      "url": "https://gitlab.com/statwig-public/theledgermobileapp"
+    },
+    {
+      "name": "supply chain demo",
+      "url": "https://gitlab.com/statwig-public/SupplyChainDemo"
+    },
+    {
+      "name": "user interface",
+      "url": "https://gitlab.com/statwig-public/UserInterface"
+    }
+  ],
   "organizations": [
     {
       "name": "StaTwig",
-      "website": "https://statwig.com",
-      "org_type": "owner"
+      "website": "https://statwig.com/",
+      "org_type": "owner",
+      "contact_name": "Sid Chakravarthy ",
+      "contact_email": "sidchaks@statwig.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

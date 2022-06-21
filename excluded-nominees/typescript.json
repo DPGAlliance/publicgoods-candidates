@@ -1,0 +1,36 @@
+{
+  "name": "TypeScript",
+  "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+  "website": "https://www.typescriptlang.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/microsoft/TypeScript/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/microsoft/TypeScript/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

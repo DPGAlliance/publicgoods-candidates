@@ -4,7 +4,7 @@
     "Flow"
   ],
   "description": "Flow is a water source location app that helps students of the University of Bamenda, Bambili to find/locate clean water sources. ",
-  "website": "https://github.com/bernandez/Flow",
+  "website": "https://dscuba2020.github.io/projects/flow-website/index.html",
   "license": [
     {
       "spdx": "Apache-2.0",
@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/bernandez/Flow",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bernandez/Flow"
+    }
+  ],
   "organizations": [
     {
       "name": "University of Bamenda",
@@ -31,5 +36,5 @@
       "org_type": "maintainer"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
