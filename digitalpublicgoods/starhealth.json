@@ -1,0 +1,103 @@
+{
+  "name": "StarHealth",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/CodeForAfrica/HealthTools.API#readme"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/CodeForAfrica/HealthTools.API#usage"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Our extraction system from our database has at least two parts: \n a. Integration: Being a RESTful API supporting JSON means we can directly integrate with any other tool or API that understands JSON. \n b. Data dump: On occasions when we have to do a complete data dump, HealthTools API is built on top of the PostgreSQL database which supports various data dump (mostly SQL-based) and COPY (text, csv, and binary) formats."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "StarHealth launched in 2013 when neither Kenya nor Nigeria had local data protection laws. CfA, therefore, used the existing South African Protection of Personal Information Act (2013) as its benchmark. The tool was updated when the Kenyan Data Protection Act (2019) and Nigerian Data Protection Regulation (2019) were enacted."
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "REST",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://api.healthtools.codeforafrica.org/search/health-facilities?q=Nairobi"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "CfA applied principles from the following best-practise guidelines for civic technologists:",
+      "- http://civicpatterns.org/",
+      "- http://opendatahandbook.org/",
+      "- https://www.codeforamerica.org/resources/digital-outreach-playbook",
+      "CfA furthermore ensured that the toolkit is mobile responsive, is easily embeddable as a widget, and functions as an SMS service."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All CfA’s media partners, who are the primary platform for the public to access the tools, are governed by their local press/media ombuds oversight mechanisms. This allows for users to lodge complaints that are independently adjudicated and ruled on. There have been no transgressions since the project launched in 2013."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "The already officially published Names/Last Names of doctors (and related medical practitioners), including their official registration numbers, qualifications and registration dates."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "Users use the tool to check whether their doctors/surgeons are registered on the official list of qualified doctors/practitioners, and are in good standing with health regulators."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The PII information is already published by health regulators, in compliance with local laws, to ensure that the public has access to the information. CfA simply converts the already published PII information from the unwieldy PDF registers it is supplied in, into an easily searchable web/SMS database."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Tanzania",
+      "Uganda"
+    ],
+    "deploymentCountries": [
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Tanzania"
+    ]
+  }
+}

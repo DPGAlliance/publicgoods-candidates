@@ -1,0 +1,59 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "X-Road provides affordable access to its services to developing countries with no license fee",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "The first project companies will start working on in the process is a global \"yellow vaccination card\" which enables reliable and transparent cross-border exchange of vaccination data and steps are being taken to introduce X-Road on a global basis.",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "X-Road plans to create Estfeed- the solution for data access and exchange on smart grid platform. This will allow access to electricity and gas smart meter data in Estonia powered by X-Road technology.",
+    "confidence": "5"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "One of the main tasks of the TOOP project is to ensure the take-up of TOOP results and achieve their long-term sustainability. The members of TOOP set during the final phase of the project a special focus on these sustainability aspects.\nIn Estonia, X-Road saved 1,134 working years during the previous calendar year.",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "The log records of each message sent between X-Road ecosystem member organizations provides evidence of a transaction thus building trust towards institutions.",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "The link points to github repository that contains X-Road development model description, development practices and guidelines.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "This link contains all the information about X-Road, source codes, documentation, how-to and troubleshooting articles, online training, service desk and chat.",
+    "confidence": "5"
+  },
+  "user": "318anushka",
+  "timestamp": 1617352449
+}

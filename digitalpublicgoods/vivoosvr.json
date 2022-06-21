@@ -1,0 +1,110 @@
+{
+  "name": "VivoosVR",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Ideasis/VivoosVR/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Ideasis/VivoosVR/blob/master/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Our solution is designed to be used by a mental health professional only. Data collected in under the responsibility of the mental health professional. Any data collected is private and can only be stored offline on the local computer where the software has been installed on. The data on the user’s system is protected by the Turkish Personal Data Protection Law and other laws and regulations that are related to privacy and patient rights in general. ",
+      "•\tTurkish Personal Data Protection Law no. 6698",
+      "•\thttps://www.kisiselverilerinkorunmasi.org/kanunu-ingilizce-ceviri/",
+      "•\tAlso all of the patient data is under the protection of;",
+      "•\tThe Regulation of Medical Deontology Provision no. 4.",
+      "•\tRules of Medical Occupational Ethics Provision no. 9.",
+      "•\tThe Regulation of Patient Rights: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4847&MevzuatTur=7&MevzuatTertip=5",
+      "•\tTurkish Criminal Law no. 134, 135, 136, 137, 139, 5237.",
+      "•\tTurkish Civil Law Provision no. 23, 24 and 25.",
+      "•\tTurkish Right to İnformation Act Provision no.19, 20 and 21.",
+      "•\tTurkish Labor Law Provision no. 75",
+      "•\tTurkish Code of Obligations Provision no. 49.",
+      "•\tTurkish Law of Intellectual Property Rights Provision no. 84 and 85.",
+      "•\tTurkish Law of Execution of Medicine and Medical Sciences Provision no. 70.",
+      "•\tTurkish Constitution Provision no. 17, 19 and 20.",
+      "•\tConvention for the Protection of Human Rights and Dignity of the Human Being with Regard to the Application of Biology and Medicine Provision no. 1,2, and 10.",
+      "•\tDeclaration of Lisbon Provision no. 4.",
+      "•\t28-30 March 1994 Declaration of Amsterdam Provision no. 4.",
+      "•\tUniversal Declaration of Human Rights Provision no. 25"
+    ],
+    "adherenceSteps": [
+      "VivoosVR is software tool designed to help conduct exposure therapy in a more cost effective way. It is based on already established therapy methods and techniques. It has been built by and for certified mental health professionals. Our solution is in adherence with applicable laws and regulations. It is in use at psychology clinics in accordance with the relevant laws."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "All our content must be built in accordance with the proper techniques in relation with cognitive behavioural therapy. In order to ensure this, we work with a team of mental health professionals and academicans who are experts in the field. We believe having being published an academic paper with actual pilot data and methodolgy recognized by the mental health community is a proof of this approach.",
+      "Our goal is to make sure our solution runs at stable frame rates while incorporating appropriate camera and locomotion techniques."
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "From a software development standpoint, we have made sure to follow best practices in order to ensure that our simulations have a high comfort rating with no motion sickness inducing elements. Stable frame rates are a must for VR experiences. Our simulations have been optimized to run at a stable frame per second on a variety of hardware. Artificial camera movements can have a negative impact on the comfort level of a VR experience. For this reason, we have implemented a teleportation based locomotion system and refrained from using any artificial camera movements which could induce motion sickness.",
+      "On the other hand, our simulation scenarious have been developed in collaboration with universities and clinicians specializing in the fields of psychology and psychiatry. Therefore, the exposure methodoly that our simulations are based on is in accordance with the best practicies in the field of mental health. Additionaly, relevant literature around the world have been reviewed prior to begin development. ",
+      "Our solution also incorprates pulse and galvanic skin response sensors to measure stress levels as a practice widely used and accepted in the field."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our solution has been designed as a tool to help mental health professionals address mental health disorders including anxiety and phobias. All our content has been built by team of mental health experts in order to ensure cognitive behavioural therapy has been properly and accurately applied using VR technology. \n All our content is being tested extensively prior to release for public use. Furthermore, our team has conducted multiple academic pilots in order ensure academic and clinic accuracy. \n Finally, through extensive tests and optimizations we ensure that VR related motion sickness is minimized as much as technology allows. All our content runs on high and stable frame rates on a variety of hardware without any neusia inducing simulation elements such as bright colors, flashing lights or artifical motion."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Clinicians can store biological data such as galvanic skin response and pulse measured during therapy. This allows the clinician to review and analyze anxiety level of the patient during and after the therapy. Currently",
+        "this data can only be stored in a local computer and is not uploaded online."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "In its current state, the system works offline. Any data collected is fully under the responsibilty of the certified therapist."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Project distributes content in form of in house built exposure scenarios. We do not allow for collection, storage or distribution of third party content.",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "All of our content is developed in house through supervision of certified mental health practitioners. Content is reviewed and tested prior to distribution."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Turkey"
+    ],
+    "deploymentCountries": [
+      "Turkey"
+    ]
+  }
+}

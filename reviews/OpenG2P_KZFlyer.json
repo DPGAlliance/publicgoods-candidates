@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "It is there, but requires digging. A better link would be https://github.com/OpenG2P/openg2p_discovery_spec/blob/master/LICENSE",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes, I feel OpenG2P does advance targets in Goal 1",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Yes, OpenG2P helps facilitate trade which will allow low-income people sell their goods to provide income. Income that will be used to purchase food.",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Access to funds will allow individuals to pay for healthcare and afford a better quality of life.",
+    "confidence": "5"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "Access to funds to improve schools, purchase educational materials.",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "I do not see a direct link, however, access to financial services may help with gender equality. ",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "Access to funds allows for improvements to infrastructure and improvements in waste water treatment, plumbing, etc.",
+    "confidence": "5"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "Access to funds for improvements to power plants and access to renewable engergy.",
+    "confidence": "5"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "Financial services allow individuals to manage their own money and waste less. Allows employers to run their business, therefore securing the employment of the workers.",
+    "confidence": "5"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "Financial services will no longer be limited to the rich and powerful. All will have access.",
+    "confidence": "5"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "Individuals, corporations, and public sectors will be able to trade domestically and internationally. Building long lasting partnerships.",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "The documentation is extensive and sufficient.",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The documentation is extensive and sufficient for the required criteria.",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "They offer a CSV file upload.",
+    "confidence": "5"
+  },
+  "user": "KZFlyer",
+  "timestamp": 1609045589
+}

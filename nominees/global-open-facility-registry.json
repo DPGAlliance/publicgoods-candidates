@@ -1,32 +1,42 @@
 {
   "name": "Global Open Facility Registry",
   "aliases": [
-    "GOFR"
+    "GOFR",
+    "Facility Reconciliation Tool"
   ],
-  "description": "The Facility Reconciliation Tool is an open source and open standards-based product used to compare lists of (health) facilities from different data sources.",
+  "description": "GOFR is an open source federated facility registry platform for reconciling multiple facility lists and managing a primary list",
   "website": "https://www.facilitymatch.net/",
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/openhie/facility-recon/blob/master/LICENSE"
+      "licenseURL": "https://github.com/intrahealth/gofr/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "RTI International and JSI implemented the Global Open Facility Registry (GOFR) project in Guinea. GOFR’s objective is to enable integrated and interoperable Master Facility Registries (MFR)",
+      "evidenceURL": "https://solutions.dial.community/projects/1576"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openhie/facility-recon",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/gofr"
+    }
+  ],
   "organizations": [
     {
-      "name": "OpenHIE",
-      "website": "https://ohie.org/",
+      "name": "IntraHealth International",
+      "website": "https://www.intrahealth.org/",
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

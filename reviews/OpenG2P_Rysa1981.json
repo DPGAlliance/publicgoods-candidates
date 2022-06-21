@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "1"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "1"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[7]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[8]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[9]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "Rysa1981",
+  "timestamp": 1609594652
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Project Sidewalk",
+  "description": "Project Sidewalk aims to collect open datasets on sidewalk accessibility in cities.",
+  "website": "https://sidewalk-sea.cs.washington.edu/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/ProjectSidewalk/SidewalkWebpage/blob/develop/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Project Sidewalk seeks to collect open datasets on sidewalk accessibility. This data can be used by city governments to prioritize sidewalk repairs over data collection. Data collected has successfully been used in the past to lobby for more funding for sidewalk repairs. In the future, this data can be used in pedestrian routing applications that take into account different levels of mobility.\n\nThese uses for the data we help collect improve the health and well-being of anyone who uses the sidewalks. Furthermore, poor sidewalk infrastructure disproportionately impacts pedestrians that make use of wheelchairs, walkers, and canes. Improvements to the accessibility of sidewalks will help to reduce such inequalities. And finally, our project focuses on the design of accessible infrastructure, so we believe that it fits the Industry, Innovation and Infrastructure goal as well.",
+      "evidenceURL": "https://www.rollingwithoutlimits.com/view-post/Introducing-Project-Sidewalk-Mapping-the-Accessibility-of-the-World"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Project Sidewalk seeks to collect open datasets on sidewalk accessibility. This data can be used by city governments to prioritize sidewalk repairs over data collection. Data collected has successfully been used in the past to lobby for more funding for sidewalk repairs. In the future, this data can be used in pedestrian routing applications that take into account different levels of mobility.\n\nThese uses for the data we help collect improve the health and well-being of anyone who uses the sidewalks. Furthermore, poor sidewalk infrastructure disproportionately impacts pedestrians that make use of wheelchairs, walkers, and canes. Improvements to the accessibility of sidewalks will help to reduce such inequalities. And finally, our project focuses on the design of accessible infrastructure, so we believe that it fits the Industry, Innovation and Infrastructure goal as well.",
+      "evidenceURL": "https://www.rollingwithoutlimits.com/view-post/Introducing-Project-Sidewalk-Mapping-the-Accessibility-of-the-World"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Project Sidewalk seeks to collect open datasets on sidewalk accessibility. This data can be used by city governments to prioritize sidewalk repairs over data collection. Data collected has successfully been used in the past to lobby for more funding for sidewalk repairs. In the future, this data can be used in pedestrian routing applications that take into account different levels of mobility.\n\nThese uses for the data we help collect improve the health and well-being of anyone who uses the sidewalks. Furthermore, poor sidewalk infrastructure disproportionately impacts pedestrians that make use of wheelchairs, walkers, and canes. Improvements to the accessibility of sidewalks will help to reduce such inequalities. And finally, our project focuses on the design of accessible infrastructure, so we believe that it fits the Industry, Innovation and Infrastructure goal as well.",
+      "evidenceURL": "https://www.rollingwithoutlimits.com/view-post/Introducing-Project-Sidewalk-Mapping-the-Accessibility-of-the-World"
+    }
+  ],
+  "sectors": [
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "University of Washington",
+      "website": "https://www.washington.edu/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

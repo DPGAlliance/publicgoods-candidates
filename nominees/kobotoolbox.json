@@ -1,0 +1,57 @@
+{
+  "name": "KoBoToolbox",
+  "description": "KoBoToolbox is a suite of tools for field data collection for use in challenging environments",
+  "website": "https://www.kobotoolbox.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/kobotoolbox/kpi/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "In Uganda, KoBoToolbox has been used to monitor deworming activities that are crucial to the health of school children",
+      "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "In South Sudan, KoBoToolbox has been used to map remote health facilities and track available services and medicine",
+      "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "In Niger, KoBoToolbox helps to plan and supervise infrastructure investments for refugees",
+      "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "KoBoToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic",
+      "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kobotoolbox/kpi"
+    },
+    {
+      "name": "KoboCat",
+      "url": "https://github.com/kobotoolbox/kobocat"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "KoBo, Inc",
+      "website": "https://www.kobotoolbox.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

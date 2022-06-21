@@ -74,22 +74,26 @@
               "CC-BY-2.5",
               "CC-BY-3.0",
               "CC-BY-3.0-AT",
+              "CC-BY-3.0-US",
               "CC-BY-4.0",
               "CC-BY-NC-1.0",
               "CC-BY-NC-2.0",
               "CC-BY-NC-2.5",
               "CC-BY-NC-3.0",
+              "CC-BY-NC-3.0-US",
               "CC-BY-NC-4.0",
               "CC-BY-NC-SA-1.0",
               "CC-BY-NC-SA-2.0",
               "CC-BY-NC-SA-2.5",
               "CC-BY-NC-SA-3.0",
+              "CC-BY-NC-SA-3.0-US",
               "CC-BY-NC-SA-4.0",
               "CC-BY-SA-1.0",
               "CC-BY-SA-2.0",
               "CC-BY-SA-2.5",
               "CC-BY-SA-3.0",
               "CC-BY-SA-3.0-AT",
+              "CC-BY-SA-3.0-US",
               "CC-BY-SA-4.0",
               "CC0-1.0",
               "CDDL-1.0",
@@ -138,16 +142,16 @@
               "Naumen",
               "NCSA",
               "NGPL",
-              "NLOD-1.0",
               "Nokia",
               "NPOSL-3.0",
               "NTP",
               "OCLC-2.0",
               "ODbL-1.0",
-              "ODC-By-1.0 ",
+              "ODC-By-1.0",
               "OFL-1.1",
               "OFL-1.1-no-RFN",
               "OFL-1.1-RFN",
+              "OGL-UK-3.0",
               "OGTSL",
               "OLDAP-2.8",
               "OSET-PL-2.1",
@@ -331,9 +335,24 @@
         ]
       }
     },
-    "repositoryURL": {
-      "type": "string",
-      "description": "Link to Github (or other) repository."
+    "repositories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the Github (or other) repository"
+          },
+          "url": {
+            "type": "string",
+            "description": "Website of the repository"
+          }
+        }
+      }
     },
     "organizations": {
       "type": "array",
@@ -371,11 +390,11 @@
     },
     "stage": {
       "type": "string",
-      "description": "Screening stage of Digital Public Good",
+      "description": "Review stage of Digital Public Good",
       "enum": [
         "nominee",
-        "candidate",
-        "DPG"
+        "DPG",
+        "archive"
       ]
     }
   }

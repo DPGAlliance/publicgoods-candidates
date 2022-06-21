@@ -1,0 +1,43 @@
+{
+  "name": "Oppia",
+  "description": "Tool for collaboratively building interactive lessons.",
+  "website": "https://www.oppia.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/oppia/oppia/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Oppia makes it easy for anyone to collaboratively create and share bite-sized interactive online lessons. These lessons, called “explorations”, simulate a conversation with an intelligent tutor, and can be improved by the community over time.",
+      "evidenceURL": "https://opensource.google/projects/oppia"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://summerofcode.withgoogle.com/archive/2020/organizations/4686040649957376/"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/oppia/oppia"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Oppia",
+      "website": "https://www.oppia.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

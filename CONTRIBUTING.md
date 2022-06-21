@@ -48,23 +48,26 @@ Again you have two options:
 
 * You can choose to make your contribution entirely through your browser. Navigate to the 
   [nominees folder](https://github.com/unicef/publicgoods-candidates/tree/master/nominees) of this repository, click on the `Add file` 
-  button towards the top right of the page, and select `Create new file`. 
+  button towards the top right of the page, and select `Create new file`. Add all required fields to the file according to the instructions given in [3a](#information).
   
-* Alternatively, you can create and edit a new file in your computer, after cloning this repository:
+* Alternatively, you can create and edit a new file in your computer after forking and cloning this repository:
+  
+  - Go to the [unicef/publicgoods-candidates repository on github](https://github.com/unicef/publicgoods-candidates) and click on the Fork button on the top right corner. A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+  - Go to your own Github profile and you will see a repository named `publicgoods-candidates`. You can now create a local copy of it on your machine by cloning the repository:
     - Using HTTPS:
     ```bash
-    git clone https://github.com/enigmampc/covid-self-reporting.git
+    git clone https://github.com/<your_github_username>/publicgoods-candidates.git
     ```
     - Using SSH:
     ```bash
-    git clone git@github.com:enigmampc/covid-self-reporting.git
+    git clone git@github.com:<your_github_username>/publicgoods-candidates.git
     ```
-    Change to the `nominees/` folder, and create the new file there.
+    Navigate to the `nominees/` folder in your local copy, and create the new file there. Add all required fields to the file according to the instructions given in [3a](#information).
  
 The filename must match the `name` field (see below) in [kebab-case](https://wiki.c2.com/?KebabCase), and `.json` as the extension. 
 For example: [wikipedia.json](nominees/wikipedia.json) or [inlcusion-ukr.json](nominees/inclusion-ukr.json)
 
-### 3a. Provide the required information
+### <a name="information">3a. Provide the required information</a>
 
 Use the [template](#template) below to include the requested information. Be sure to include the fields marked `REQUIRED` with the 
 corresponding information, as well as any `OPTIONAL` fields. Delete any lines marked `OPTIONAL` that you don't want to include. 
@@ -72,18 +75,35 @@ For the `license` field, refer to the [Specifying Licenses](#specifying-licenses
 
 ### 4a. Submit
 
-Scroll down and accept the suggested field for the commit message `Create <filename>`, and choose `Create a new branch for this commit and start a pull request`. Click on `Propose new file`
+* If you are making the contribution through the browser, scroll down and accept the suggested field for the commit message `Create <filename>`, and choose `Create a new branch for this commit and start a pull request`. Click on `Propose new file`.
+* If you are making the contribution through the local copy on your computer, once you push the changes to your forked repository, click on the `Compare & pull request` button which will appear at the top in GitHub. 
+
 You are taken to a new page where you can leave a comment about the file you are about to propose to add, and finally click on `Create Pull Request`
 
 ### 5a. Validate your submission
 
 Wait for the green checkmark to say `All checks have passed` to have confirmation that the file complies with the expected format, and is ready to merge pending a review. 
-The automated tests that are run for all nominee files include: [JSON schema validation](/nominee-schema.json), linting (2-space indentation), 
-ensuring consistent file naming, and ensuring a consistent order in the fields of the JSON files. Refer to the [development overview](/docs/development.md#overview)
-for additional information.
+If you see that some tests fail, follow the link to the Continous Integration (CI) build, which will provide with the cause of the error. Please correct any errors until you see that all checks pass. The automated tests that are run for all nominee files and instructions to debug common errors in them are given below:
 
-If you see that the some tests fail, follow the link to the Continous Integration (CI) build, which will provide with the cause of the error. 
-Please correct any errors until you see that all checks pass
+* [JSON schema validation](/nominee-schema.json)
+  - This test ensures that all JSON files have the required fields, and each of these fields has the expected data type.
+  - The CI build will indicate in which line the error lies. Please ensure that the field names and values entered in that line align with the schema.
+  - If you are working on your local machine, run `npm run test` to run the JSON schema validation. 
+* **Linting** 
+  - This test ensures that there is 2-space identation and a predefined separation of fields line by line.
+  - If you are working on your local machine, run `npm run lint:fix` to automatically fix issues with linting.
+  - If you are submitting the file directly through the browser, ensure that you remove all extra spaces and the fields are separated line by line.
+* **Ensuring consistent file naming**
+  - This test checks that all data files are named consistely, that is by using the field name in [kebab-case](https://wiki.c2.com/?KebabCase).
+  - If this test fails, ensure that punctuation is removed and spaces are replaced by single hyphens in the name of your file. 
+  - If you are working on your local machine, run `npm run check:fix` to automatically name all the files using the right convention.
+* **Ensuring consistent order in the fields of JSON files**
+  - This test checks that the data fields in all JSON files are in a predefined order.
+  - Please ensure that all field names in your file are as per the order given in the [template](#template).
+  - If you are working on your local machine, run `npm run order:fix` to automatically sort all the fields correctly.
+
+Refer to the [development overview](/docs/development.md#overview) for additional information. 
+
 
 ## Template
 
@@ -99,22 +119,31 @@ Please correct any errors until you see that all checks pass
                         "licenseURL": "Link to the license under which this nominee is released"
                 }
         ],
-        "SDGs": [REQUIRED, Array of objects listing SDGs by number and name that this project is relevant to],
-        "SDGevidence": [REQUIRED, provide links or information to support this relevance as a text field]
-        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.]
+        "SDGs": [REQUIRED, Array of objects (at least one object is required, and either evidenceText or evidenceURL is REQUIRED for each SDG entry):
+                {
+                        "SDGNumber": "Number of the Sustainable Development Goal",
+                        "evidenceText": "provide information to support this relevance",
+                        "evidenceURL": "provide links to support this relevance"
+                }
+        ],
+        "sectors": [OPTIONAL: Array of strings - List of sectors that this nominee addresses.],
         "type": [REQUIRED, Array of strings, multiple choice from "software", "data", "standards"],
         "repositoryURL": "OPTIONAL: Link to main repository",
         "organizations": [REQUIRED, Array of objects (at least one object is required):
                 {
                         "name": "REQUIRED - Name of the organization",
-                        "website": "OPTIONAL - Website of the organization",
+                        "website": "REQUIRED - Website of the organization",
                         "org_type": "REQUIRED - One of 'owner, 'maintainer', 'funder' or 'implementer',
                         "contact_name": "OPTIONAL - Name of contact individual in the organization",
                         "contact_email": "OPTIONAL - Email for contact individual in the organization"
                 }
-        ]
+        ],
+        "stage": "REQUIRED: Screening stage of Digital Public Good"
 }
 ```
+### Specifying SDGs
+
+Refer to [the UN’s 2030 Sustainable Development Goals](https://sdgs.un.org/goals) for details about each SDG. 
 
 ### Specifying Licenses
 
@@ -125,82 +154,6 @@ Licenses for open source software, open content and open data are vetted and app
 * **Open Source Software**: only accepting [approved licenses](https://opensource.org/licenses) from the Open Source Initiative.
 
 Refer to the [current list of approved licenses](/docs/licenses.md) for additional information.
-
-### Specifying SDGs
-
-In order to make it easy for downstream projects to process data from the SDGs field, data must comply to the following format (you must select one or more elements of the following array, where an element is defined by a `number` and `string` pair):
-```json
-[
-  [
-    1,
-    "No Poverty"
-  ],
-  [
-    2,
-    "Zero Hunger"
-  ],
-  [
-    3,
-    "Good Health and Well-Being"
-  ],
-  [
-    4,
-    "Quality Education"
-  ],
-  [
-    5,
-    "Gender Equality"
-  ],
-  [
-    6,
-    "Clean Water and Sanitation"
-  ],
-  [
-    7,
-    "Affordable and Clean Energy"
-  ],
-  [
-    8,
-    "Decent Work and Economic Growth"
-  ],
-  [
-    9,
-    "Industry, Innovation and Infrastructure"
-  ],
-  [
-    10,
-    "Reduced Inequalities"
-  ],
-  [
-    11,
-    "Sustainable Cities and Communities"
-  ],
-  [
-    12,
-    "Responsible Consumption and Production"
-  ],
-  [
-    13,
-    "Climate Action"
-  ],
-  [
-    14,
-    "Life Below Water"
-  ],
-  [
-    15,
-    "Life On Land"
-  ],
-  [
-    16,
-    "Peace, Justice and Strong Institutions"
-  ],
-  [
-    17,
-    "Partnerships for the Goals"
-  ]
-]
-```
 
 ### Specifying Sectors
 

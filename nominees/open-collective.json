@@ -1,0 +1,35 @@
+{
+  "name": "Open Collective",
+  "description": "Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.",
+  "website": "https://opencollective.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/opencollective/documentation/blob/v2/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://medium.com/open-collective/what-is-open-collective-how-it-works-c51bacc73d94"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opencollective/opencollective"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Collective",
+      "website": "https://opencollective.com/",
+      "org_type": "owner",
+      "contact_email": "info@opencollective.com"
+    }
+  ],
+  "stage": "nominee"
+}

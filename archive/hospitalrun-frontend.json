@@ -1,0 +1,34 @@
+{
+  "name": "HospitalRun Frontend",
+  "description": "Ember front end for HospitalRun",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/HospitalRun/hospitalrun-frontend/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/HospitalRun/hospitalrun-frontend"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "HospitalRun",
+      "website": "https://hospitalrun.io/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

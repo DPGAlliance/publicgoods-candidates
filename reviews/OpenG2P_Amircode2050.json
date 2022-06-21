@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "In documentation the Apache 2 is recorded.\nhttps://github.com/OpenG2P/documentation/blob/master/LICENSE\n\nto be reviewed in light of the point that Apache 2 software can therefore be included in GPLv3 projects, because the GPLv3 license accepts our software into GPLv3 works. However, GPLv3 software cannot be included in Apache projects. The licenses are incompatible in one direction only, and it is a result of ASF's licensing philosophy and the GPLv3 authors' interpretation of copyright law.",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Some pages seem not be complete yet such as the deployment guides but overall relatively good documentation.",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "Amircode2050",
+  "timestamp": 1610741336
+}

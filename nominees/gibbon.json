@@ -1,0 +1,35 @@
+{
+  "name": "Gibbon",
+  "description": "Created by teachers, Gibbon is the school platform which solves real problems encountered by educators every day. Being free, open source and flexible Gibbon can morph to meet the needs of a huge range of schools.",
+  "website": "https://gibbonedu.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/GibbonEdu/core/blob/v22.0.00/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://opensource.com/education/14/6/gibbon-sees-demand-open-education-grow"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GibbonEdu/core"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GibbonEdu",
+      "website": "https://gibbonedu.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

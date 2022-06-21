@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Looks like the repository in link is a bit outdated. This might be the current one but I'm not 100% sure https://github.com/kvklrao/Avyantra_Presco_Project",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "This is just a set of 3 images with a very general description of the idea far from detailed documentation.",
+    "confidence": "4"
+  },
+  "user": "johnmgrimm",
+  "timestamp": 1608245306
+}

@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Goal 3 speaks to well-being of all ages but this focus on just diagnosis of infants",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "I believe they meet this goal \"9.B Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities\"",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Ownership of the project is not well documented aside the GitHub screenshot however what the project produces is documented as tests",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "tosinamuda",
+  "timestamp": 1608151963
+}

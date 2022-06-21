@@ -1,0 +1,51 @@
+{
+  "name": "Boxtribute",
+  "aliases": [
+    "Stichting Boxwise",
+    "Boxwise (formerly)",
+    "BoxTribute"
+  ],
+  "description": "An open-source digital system making it easy to source, store & distribute aid rapidly to people in need in a fair and dignified way. Boxtribute provides web-app for organisations to run a free shop",
+  "website": "https://www.boxtribute.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/boxwise/boxtribute/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Our platform's most classic use targets SDG indicators 1.3-1.5, which includes providing basic services to people in poverty and other vulnerable situations, as well as improving the resilience of communities to disasters and other shocks"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Much of our work has to do with the distribution of non-food items (NFI), in particular clothing and shelter items, which are often donated by the public when they no longer suit the needs of the individual. Through our work, we allow many household items that are otherwise in good condition to be redirected away from landfill and waste, towards providing for the core needs of vulnerable people. Without our platform, many community groups would have no way of organizing the donated goods and matching that to the needs of the population.",
+      "evidenceURL": "https://www.boxtribute.org/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "One of the key aspects of our work and in our platform is around encouraging collaboration and interdependence between public interest actors, particularly humanitarian aid actors. We are rolling out in our design the ability for organizations not only to store and distribute aid, but also transfer that aid between each other in a collaborative and cooperative way."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "New Boxtribute 2.0 Application",
+      "url": "https://github.com/boxwise/boxtribute"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Boxtribute",
+      "website": "https://www.boxtribute.org/",
+      "org_type": "owner",
+      "contact_name": "Roanna Kong",
+      "contact_email": "roanna@boxtribute.org"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "EduNOSS",
+  "aliases": [
+    "NOSS"
+  ],
+  "description": "A Linux OS with lots of educational applications to support teaching and learning of ICT and STEM in pre-tertiary educational institutions.",
+  "website": "https://noss.com.gh/",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://repos.nos.aiti-kace.com.gh/gpl2.html"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "This project seek to make available a computing platform with required educational applications, STEM Simulation tools and office productivity applications to enable pre-tertiary students learn and study ICT, Digital Skills and cultivate the habit of innovating for national development."
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://repos.nos.aiti-kace.com.gh/noss/pool/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE)",
+      "website": "https://www.aiti-kace.com.gh",
+      "org_type": "owner",
+      "contact_name": "Frederick Yeboah",
+      "contact_email": "fredericky@aiti-kace.com.gh"
+    }
+  ],
+  "stage": "DPG"
+}

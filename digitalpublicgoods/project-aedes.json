@@ -1,0 +1,104 @@
+{
+  "name": "Project AEDES",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Cirrolytix/aedes_dpg/blob/main/readme.md \n https://www.earthobservations.org/geo_blog_obs.php?id=472"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "An alternative to the current weather data service is to source out directly from free and open access satellite data. We are proposing to use the following alternate weather indicators for weather data are: Land Surface Temperature and Precipitation both of which are available from Terra/Aqua and Global Precipitation Measurement (GPM) missions, respectively. These can be used as alternative weather sources which can be sourced for free from the NASA and USGS data products: \n https: //gpm.nasa.gov/data \n https://gpm.nasa.gov/data \n https://lpdaac.usgs.gov/tools/appeears/"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Cirrolytix/aedes_dpg",
+      "https://github.com/Cirrolytix/aedes_dpg/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": "Not applicable"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "In the Philippines, the Data Privacy Act of 2012 is enacted to ensure privacy and data protection. The law applies to practices or activities engaged in processing of personal data. AEDES does not collect, store or transfer PII data."
+    ],
+    "adherenceSteps": [
+      "All dengue cases and deaths data used by AEDES had been collected from publicly released reports of the Department of Health, Philippines and does not contain any personal patient information. \n https://aedesproject.org/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML5",
+      "CSS3",
+      "AJAX",
+      "JSON",
+      "HTTPS",
+      "GeoTIFF",
+      "SSL"
+    ],
+    "evidenceStandardSupport": [
+      "We run the Lighthouse tool from Chrome DevTools to test web accessibility performance of Project AEDES website: \n https://github.com/Cirrolytix/aedes_dpg/blob/main/Lighthouse%20Chrome/AEDES%20Web%20Accessibility.pdf \n https://developers.google.com/web/tools/lighthouse/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We refer to the Principles for Digital Development and describe below how our work with AEDES have applied these principles:",
+      "1. Design with the User \n With the general public, LGUs, policymakers, and public health officials as intended target users of AEDES, we developed the application on a user-friendly web interface for ease of accessibility. We have presented this to WHO Philippines and we have gotten feedback from a healthcare professional on how and what to improve in the application.",
+      "2. Understand the Existing Ecosystem \n Dengue is already an existing public health problem not only in the Philippines and but also in many Asian and Latin American countries. As the product needs to be improved further, we are working with other researchers and scoping for funding opportunities.",
+      "3. Design for Scale \n We are now closely working with other researchers to further improve AEDES. We want to expand the functionalities of AEDES and incorporate a dengue risk index. We have used the MVC Framework (Model, View, Controller) which isolates application functionality into self-contained components. We also utilized the API from Sentinel Copernicus Satellites to  get satellite images with vast date ranges.",
+      "4. Build for Sustainability \n Since the data captured is from global and public remote sensing service, the application can continue gathering data. There is a plan to create a social enterprise around the dengue prediction service, by incorporating other risk frameworks, we can generalize the process and ensure that other indicators will also be integrated. The results and/or insights will be offered on a subscription basis.",
+      "5. Be Data Driven \n Data, as it moves along its value chain from creation to actionable insights, underpins the overall workflow of AEDES. Also, by leveraging the three main disciplines of analytics - Descriptive, Predictive, and Prescriptive, AEDES facilitates a holistic approach to dengue prevention and control and empowers its intended users to make informed decisions.",
+      "6. Use Open Standards, Open Data, Open Source, and Open Innovation \n AEDES was built through an open innovation challenge by NASA, we also advocate the use of Open Source technologies such as Python, PHP for tools, QGIS for geospatial analysis,  Sentinel Copernicus Satellites for data, and government sources for weather and health-related data. AEDES prototype is also publicly hosted 24/7 for free. We welcome collaborators to improve and provide feedback to the AEDES implementation.",
+      "7. Reuse and Improve \n AEDES at its core was developed by reusing prior work by other researchers. By combining three research papers related to using social listening, stagnant water detection, and dengue prediction we have developed the application. We are planning on using other research to integrate risk frameworks to improve the current workflow of AEDES.",
+      "8. Address Privacy & Security \n We dont collect, store, or transfer any personal information. AEDES website also uses HTTPS (Positive SSL) for website security.",
+      "9. Be Collaborative \n The team has expanded since winning the hackathon and have been closely working with dengue researchers and experts (Dr. Thaddeus Carvajal, Wilson Chua, and Dr. Michael Promentilla). We are also continuously exploring collaborative initiatives to work on improving the many aspects of the AEDES (i.e., Prediction models, Data Sources, Remote Sensing methodologies)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We use the Data Ethics Canvas Tool to ensure ethical use of data at every stage of the project. \n https://theodi.org/wp-content/uploads/2019/07/ODI-Data-Ethics-Canvas-2019-05.pdf \n All datasets were sourced from official publicly available records. Also, predictive models generated are subject to peer-review and probable identified mosquito hotspots are recommended to undergo monitoring and on-site validation. \n The website is encrypted with a paid SSL certificate to guarantee users of authenticity of viewed data or content on the site, confidentiality of activity done, and ensure protection. The certificate also comes with a static site seal displayed on the site as a visual indicator of secure connection.\n Since AEDES primarily uses weather, social listening, and public-health aggregated data, we do not gather any personally identifiable information that poses risk to its users. All information being used AEDES can be gathered through publicly available sources from respectable organizations."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "No",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Datasets, and satellite images, charts of statistical models, hotspot maps.",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "Project AEDES relevant links: \nPrivacy Policy and Terms of Use: \n https://aedesproject.org/privacy \n No other content shall be posted on the website other than the data.",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "No content may be posted other than the datasets in the AEDES data portal"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Philippines"
+    ],
+    "deploymentCountries": [
+      "Philippines"
+    ]
+  }
+}

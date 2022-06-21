@@ -1,0 +1,112 @@
+{
+  "name": "Global Open Facility Registry",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.facilitymatch.net/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://facility-recon.readthedocs.io/en/latest/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "CSV & REST are supported"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "We do not store any personal data"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR and mCSD profile"
+    ],
+    "evidenceStandardSupport": [
+      "https://facility-recon.readthedocs.io/en/latest/faq.html",
+      "https://github.com/intrahealth/gofr"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://www.intrahealth.org/terms-use"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://www.intrahealth.org/terms-use"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Botswana",
+      "Burundi",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Eswatini (fmr. 'Swaziland')",
+      "Ethiopia",
+      "Haiti",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "South Africa",
+      "South Sudan",
+      "Tanzania",
+      "Uganda",
+      "Ukraine",
+      "Zambia",
+      "Zimbabwe",
+      "Liberia",
+      "Guinea",
+      "Ethiopia"
+    ],
+    "deploymentCountries": [
+      "Ethiopia"
+    ]
+  }
+}

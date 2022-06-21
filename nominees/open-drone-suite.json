@@ -1,0 +1,52 @@
+{
+  "name": "Open Drone Suite",
+  "description": "This project develops and maintains aerial platforms capable of heavy payload delivery for roles including aerial seed bombing for re-forestation, desert locust management including fumigation, and vaccine heavy payload delivery.",
+  "website": "https://as-research.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/team-asr/od-CAD/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/team-asr/od-Data/blob/master/license-data"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-asr"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-asr"
+    }
+  ],
+  "sectors": [
+    "Climate",
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/team-asr"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Autonomous Systems Research Ltd",
+      "website": "https://as-research.org",
+      "org_type": "owner"
+    },
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

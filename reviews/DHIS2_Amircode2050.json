@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Appeared to be licensed under a 3-clause BSD License (BSD-3-Clause) license\nhttps://github.com/dhis2/dhis2-core/blob/master/LICENSE",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Limited documentation on GH, additional documentation accessible through these links:\nhttps://www.dhis2.org/development\nhttps://docs.dhis2.org/2.35/en/index.html\n",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "The explanation does not fully address the question and the concerns. Perhaps setting sharing status feature can be used for this purpose. A more detailed review might be required.",
+    "confidence": "2"
+  },
+  "user": "Amircode2050",
+  "timestamp": 1610742598
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Kiva Protocol",
+  "aliases": [
+    ""
+  ],
+  "description": "Kiva Protocol is a modular, open-source technology platform that drives financial inclusion by connecting existing systems with modern digital authentication and transactional capabilities",
+  "website": "https://kiva.global/protocol",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/kiva/protocol-common/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "For a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General’s Special Advocate for Inclusive Finance for Development (UNSGSA) – Her Majesty Queen Máxima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "For a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General’s Special Advocate for Inclusive Finance for Development (UNSGSA) – Her Majesty Queen Máxima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "From our experience lending with partners across 94 countries, we know verifiable identity is an atomic unit for scaling access to the formal financial sector. This poses distinct challenges for women gaining greater financial access. Women are less likely to have ID documents and often face cultural constraints in how they use them.  Kiva Protocol offers an alternative approach to digital identity management that can provide real benefits to women.  An open-source authentication platform, Kiva Protocol enables individuals to store a version of their identity documents in a digital wallet that they control, providing them with a highly secure and portable digital record. The individual doesn’t have to rely on a physical credential, increasing agency and privacy over how and when to share her information. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kiva"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Kiva",
+      "website": "https://kiva.global/protocol",
+      "org_type": "owner",
+      "contact_name": "Bryan Pon",
+      "contact_email": "bryanp@kiva.org"
+    }
+  ],
+  "stage": "DPG"
+}

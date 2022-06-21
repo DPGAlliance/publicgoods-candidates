@@ -1,0 +1,41 @@
+{
+  "name": "The Odin Project",
+  "aliases": [
+    ""
+  ],
+  "description": "The Odin Project's full stack curriculum is free and supported by an open source community. It teaches you how to set up your own environment, and focuses on Ruby, Ruby on Rails, HTML, CSS, JavaScript, and NodeJS.",
+  "website": "https://www.theodinproject.com/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://github.com/TheOdinProject/curriculum/blob/main/license.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "The Odin Project is one of those \"What I wish I had when I was learning\" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.",
+      "evidenceURL": "https://www.theodinproject.com/home"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The Odin Project",
+      "website": "https://www.theodinproject.com/home",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Open Street Map Website",
+  "description": "This is The Rails Port, the Ruby on Rails application that powers the OpenStreetMap website and API.",
+  "website": "https://www.openstreetmap.org/",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/openstreetmap/openstreetmap-website/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openstreetmap/openstreetmap-website"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Street Map",
+      "website": "https://www.openstreetmap.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

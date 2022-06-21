@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "It is stated on the website that:\n\"Our legacy codebase (Mifos 2) is governed by the Apache 2.0 License. Please read the following to learn how to correctly adhere to the terms of the license.\"\nhttps://mifos.org/about-us/financial-legal/\n\nSince the MPL fills a useful space in the spectrum of free and open source software licenses, sitting between the Apache license, which does not require modifications to be shared, and the GNU family of licenses, which requires modifications to be shared under a much broader set of circumstances than the MPL.\n\nTherefore it should be examined further.",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "Mifos Community App under Mozilla Public License 2.0 (MPL-2.0) lice vs. Mojaloop under the Apache License, Version 2.0; submitted as a separate solution?\nPossibility of issues with derivatives",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "Amircode2050",
+  "timestamp": 1609186437
+}

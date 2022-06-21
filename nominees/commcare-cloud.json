@@ -10,14 +10,44 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.dimagi.com/blog/usaid-advancing-nutrition-2020/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things.",
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things.",
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dimagi/commcare-cloud",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dimagi/commcare-cloud"
+    }
+  ],
   "organizations": [
     {
       "name": "Dimagi",

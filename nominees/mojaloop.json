@@ -37,7 +37,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/mojaloop/mojaloop",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mojaloop/mojaloop"
+    }
+  ],
   "organizations": [
     {
       "name": "MojaLoop",
@@ -50,5 +55,5 @@
       "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

@@ -1,0 +1,59 @@
+{
+  "name": "Hand-in-Hand Geospatial Platform",
+  "aliases": [
+    ""
+  ],
+  "description": "The Hand-in-Hand Geospatial Platform is a supporting tool for the Hand-in-Hand (HiH) Initiative, an evidence-based, country-led and country-owned initiative to accelerate the Sustainable Development Goals (SDGs), SDG1 and SDG 2, using the most sophisticated tools available, including advanced geo-spatial modeling and analytics to identify the biggest opportunities to raise the incomes and reduce the inequities and vulnerabilities of rural populations, who constitute the vast majority of the world's poor. The platform brings together over 20 technical units from multiple domains across FAO, from Animal Health to Trade and Markets, integrating data from across FAO on Soil, Land, Water, Climate, Fisheries, Livestock, Crops, Forestry, Trade, Social and Economics, among others.",
+  "website": "https://www.fao.org/hih-geospatial-platform/en/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-3.0",
+      "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://reliefweb.int/report/world/fao-launches-hand-hand-geospatial-data-platform-help-build-stronger-food-and"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://thetimesofafrica.com/fao-launches-hand-in-hand-geospatial-data-platform-for-food-and-agriculture-sectors/"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://reliefweb.int/report/world/fao-launches-hand-hand-geospatial-data-platform-help-build-stronger-food-and"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://reliefweb.int/report/world/fao-launches-hand-hand-geospatial-data-platform-help-build-stronger-food-and"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://reliefweb.int/report/world/fao-launches-hand-hand-geospatial-data-platform-help-build-stronger-food-and"
+    }
+  ],
+  "sectors": [
+    "Agriculture",
+    "Climate"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "FAO",
+      "website": "https://www.fao.org/",
+      "org_type": "owner",
+      "contact_name": "Karl Morteo",
+      "contact_email": "karl.morteo@fao.org"
+    }
+  ],
+  "stage": "DPG"
+}

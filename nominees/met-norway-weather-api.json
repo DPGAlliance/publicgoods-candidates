@@ -1,0 +1,58 @@
+{
+  "name": "MET Norway Weather API",
+  "description": "Free digital access to high-quality, reliable and user-friendly 10-day weather forecast data for any geolocation in the world. Provides an open interface to a world weather data produced by MET Norway.",
+  "website": "https://developer.yr.no/",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://developer.yr.no/doc/License/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "The NORAD funded project - Weather and Climate Services in Tanzania and Malawi as Digital Public Goods: Exploring the benefits of using Digital Public Goods to strengthen and add value to weather and climate services - explores the potential benefits of integrating Digital Public Goods (DPGs) innovation as a tool and mechanism for enhancing provision of weather and climate services. The primary goal is to use DPGs as a tool to improve the weather and climate services by broadening and enhancing access to and utility of data, tools and infrastructure in Tanzania and Malawi (more countries may be included), as well as improvement related to heightened competencies at TMA and DCCMS. The improved services should support the achievement of the UN's Sustainable Development Goals (SDGs), provide socio-economic benefits for Tanzania and Malawi, and make TMA and DCCMS better equipped to adequately respond to ever increasing demand of timely and high resolution weather and climate information in the context of a changing climate and thus handle competition from global actors in the weather enterprise.",
+      "evidenceURL": "https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/ (Norwegian only)\nhttps://www.facebook.com/Norad/videos/v%C3%A6rvarsel-kan-redde-liv-digitale-fellesgoder-var-stikkordet-da-meteorologisk-ins/516510358948902/\nhttps://ms-my.facebook.com/Norad/videos/-v%C3%A6rvarsel-kan-redde-liv-v%C3%A6rvarsel-som-et-gratis-digitalt-fellesgode-er-blitt-en/842623346186886/\nhttps://www.norad.no/en/front/about-norad/news/2019/the-norad-conference-2019-digitalisation-and-development/\nhttps://www.youtube.com/watch?v=iNC-h6r0Kgc"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The NORAD funded project - Weather and Climate Services in Tanzania and Malawi as Digital Public Goods: Exploring the benefits of using Digital Public Goods to strengthen and add value to weather and climate services - explores the potential benefits of integrating Digital Public Goods (DPGs) innovation as a tool and mechanism for enhancing provision of weather and climate services. The primary goal is to use DPGs as a tool to improve the weather and climate services by broadening and enhancing access to and utility of data, tools and infrastructure in Tanzania and Malawi (more countries may be included), as well as improvement related to heightened competencies at TMA and DCCMS. The improved services should support the achievement of the UN's Sustainable Development Goals (SDGs), provide socio-economic benefits for Tanzania and Malawi, and make TMA and DCCMS better equipped to adequately respond to ever increasing demand of timely and high resolution weather and climate information in the context of a changing climate and thus handle competition from global actors in the weather enterprise.",
+      "evidenceURL": "https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/ (Norwegian only)\nhttps://www.facebook.com/Norad/videos/v%C3%A6rvarsel-kan-redde-liv-digitale-fellesgoder-var-stikkordet-da-meteorologisk-ins/516510358948902/\nhttps://ms-my.facebook.com/Norad/videos/-v%C3%A6rvarsel-kan-redde-liv-v%C3%A6rvarsel-som-et-gratis-digitalt-fellesgode-er-blitt-en/842623346186886/\nhttps://www.norad.no/en/front/about-norad/news/2019/the-norad-conference-2019-digitalisation-and-development/\nhttps://www.youtube.com/watch?v=iNC-h6r0Kgc"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The NORAD funded project - Weather and Climate Services in Tanzania and Malawi as Digital Public Goods: Exploring the benefits of using Digital Public Goods to strengthen and add value to weather and climate services - explores the potential benefits of integrating Digital Public Goods (DPGs) innovation as a tool and mechanism for enhancing provision of weather and climate services. The primary goal is to use DPGs as a tool to improve the weather and climate services by broadening and enhancing access to and utility of data, tools and infrastructure in Tanzania and Malawi (more countries may be included), as well as improvement related to heightened competencies at TMA and DCCMS. The improved services should support the achievement of the UN's Sustainable Development Goals (SDGs), provide socio-economic benefits for Tanzania and Malawi, and make TMA and DCCMS better equipped to adequately respond to ever increasing demand of timely and high resolution weather and climate information in the context of a changing climate and thus handle competition from global actors in the weather enterprise.",
+      "evidenceURL": "https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/ (Norwegian only)\nhttps://www.facebook.com/Norad/videos/v%C3%A6rvarsel-kan-redde-liv-digitale-fellesgoder-var-stikkordet-da-meteorologisk-ins/516510358948902/\nhttps://ms-my.facebook.com/Norad/videos/-v%C3%A6rvarsel-kan-redde-liv-v%C3%A6rvarsel-som-et-gratis-digitalt-fellesgode-er-blitt-en/842623346186886/\nhttps://www.norad.no/en/front/about-norad/news/2019/the-norad-conference-2019-digitalisation-and-development/\nhttps://www.youtube.com/watch?v=iNC-h6r0Kgc"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The NORAD funded project - Weather and Climate Services in Tanzania and Malawi as Digital Public Goods: Exploring the benefits of using Digital Public Goods to strengthen and add value to weather and climate services - explores the potential benefits of integrating Digital Public Goods (DPGs) innovation as a tool and mechanism for enhancing provision of weather and climate services. The primary goal is to use DPGs as a tool to improve the weather and climate services by broadening and enhancing access to and utility of data, tools and infrastructure in Tanzania and Malawi (more countries may be included), as well as improvement related to heightened competencies at TMA and DCCMS. The improved services should support the achievement of the UN's Sustainable Development Goals (SDGs), provide socio-economic benefits for Tanzania and Malawi, and make TMA and DCCMS better equipped to adequately respond to ever increasing demand of timely and high resolution weather and climate information in the context of a changing climate and thus handle competition from global actors in the weather enterprise.",
+      "evidenceURL": "https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/ (Norwegian only)\nhttps://www.facebook.com/Norad/videos/v%C3%A6rvarsel-kan-redde-liv-digitale-fellesgoder-var-stikkordet-da-meteorologisk-ins/516510358948902/\nhttps://ms-my.facebook.com/Norad/videos/-v%C3%A6rvarsel-kan-redde-liv-v%C3%A6rvarsel-som-et-gratis-digitalt-fellesgode-er-blitt-en/842623346186886/\nhttps://www.norad.no/en/front/about-norad/news/2019/the-norad-conference-2019-digitalisation-and-development/\nhttps://www.youtube.com/watch?v=iNC-h6r0Kgc"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "The NORAD funded project - Weather and Climate Services in Tanzania and Malawi as Digital Public Goods: Exploring the benefits of using Digital Public Goods to strengthen and add value to weather and climate services - explores the potential benefits of integrating Digital Public Goods (DPGs) innovation as a tool and mechanism for enhancing provision of weather and climate services. The primary goal is to use DPGs as a tool to improve the weather and climate services by broadening and enhancing access to and utility of data, tools and infrastructure in Tanzania and Malawi (more countries may be included), as well as improvement related to heightened competencies at TMA and DCCMS. The improved services should support the achievement of the UN's Sustainable Development Goals (SDGs), provide socio-economic benefits for Tanzania and Malawi, and make TMA and DCCMS better equipped to adequately respond to ever increasing demand of timely and high resolution weather and climate information in the context of a changing climate and thus handle competition from global actors in the weather enterprise.",
+      "evidenceURL": "https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/ (Norwegian only)\nhttps://www.facebook.com/Norad/videos/v%C3%A6rvarsel-kan-redde-liv-digitale-fellesgoder-var-stikkordet-da-meteorologisk-ins/516510358948902/\nhttps://ms-my.facebook.com/Norad/videos/-v%C3%A6rvarsel-kan-redde-liv-v%C3%A6rvarsel-som-et-gratis-digitalt-fellesgode-er-blitt-en/842623346186886/\nhttps://www.norad.no/en/front/about-norad/news/2019/the-norad-conference-2019-digitalisation-and-development/\nhttps://www.youtube.com/watch?v=iNC-h6r0Kgc"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "The NORAD funded project - Weather and Climate Services in Tanzania and Malawi as Digital Public Goods: Exploring the benefits of using Digital Public Goods to strengthen and add value to weather and climate services - explores the potential benefits of integrating Digital Public Goods (DPGs) innovation as a tool and mechanism for enhancing provision of weather and climate services. The primary goal is to use DPGs as a tool to improve the weather and climate services by broadening and enhancing access to and utility of data, tools and infrastructure in Tanzania and Malawi (more countries may be included), as well as improvement related to heightened competencies at TMA and DCCMS. The improved services should support the achievement of the UN's Sustainable Development Goals (SDGs), provide socio-economic benefits for Tanzania and Malawi, and make TMA and DCCMS better equipped to adequately respond to ever increasing demand of timely and high resolution weather and climate information in the context of a changing climate and thus handle competition from global actors in the weather enterprise.",
+      "evidenceURL": "https://www.norad.no/aktuelt/nyheter/2019/skal-gi-gratis-varvarsel-til-afrika/ (Norwegian only)\nhttps://www.facebook.com/Norad/videos/v%C3%A6rvarsel-kan-redde-liv-digitale-fellesgoder-var-stikkordet-da-meteorologisk-ins/516510358948902/\nhttps://ms-my.facebook.com/Norad/videos/-v%C3%A6rvarsel-kan-redde-liv-v%C3%A6rvarsel-som-et-gratis-digitalt-fellesgode-er-blitt-en/842623346186886/\nhttps://www.norad.no/en/front/about-norad/news/2019/the-norad-conference-2019-digitalisation-and-development/\nhttps://www.youtube.com/watch?v=iNC-h6r0Kgc"
+    }
+  ],
+  "sectors": [
+    "Climate",
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Norwegian Meteorological Insitute",
+      "website": "https://www.met.no/en",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

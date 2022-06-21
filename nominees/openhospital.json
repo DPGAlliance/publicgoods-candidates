@@ -1,0 +1,34 @@
+{
+  "name": "OpenHospital",
+  "description": "Open Hospital (OH) is an electronic health record (EHR) application. Open Hospital is currently provided as a desktop application written in Java and it's designed to work without an internet connection.",
+  "website": "https://www.open-hospital.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/informatici/openhospital/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.open-hospital.org/perche-open-hospital-software-his-open-source/"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/informatici/openhospital"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Informatici Senza Frontiere",
+      "website": "https://www.informaticisenzafrontiere.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

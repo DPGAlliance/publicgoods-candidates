@@ -1,0 +1,52 @@
+{
+  "name": "Community Health Toolkit",
+  "aliases": [
+    "CHT",
+    "Medic Mobile"
+  ],
+  "description": "The Community Health Toolkit is a collection of free and open-source technologies; open-access design, technical, and implementer resources; and a community of practice for advanced community health systems. ",
+  "website": "https://communityhealthtoolkit.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/medic/cht-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The CHT website has a 'Principles' page; the first of these principles is to advance Universal Health Coverage, in line with SDG 3. The About Us page for Medic, the non-profit technical steward of the CHT, states a vision and mission that are similarly focused on SDG 3: 'We envision a more just world in which health workers are supported as they provide care for their communities, where universal health coverage is a reality, and health is a secured human right – for everyone, everywhere, always.'",
+      "evidenceURL": "https://communityhealthtoolkit.org/principles \nhttps://medic.org/about/"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Medic and the CHT community’s advocacy for gender equality (SDG 5) is most apparent in our advocacy for better compensation, protective equipment, and support for the mostly-female community health workers who are the main users of CHT apps. Examples include a journal article in the BMJ calling for greater involvement of and protection of CHWs in COVID-19 response, and participation in a report (lead author: Resolve to Save Lives) focused on protecting health workers.",
+      "evidenceURL": "https://gh.bmj.com/content/5/6/e002550 \nhttps://resolvetosavelives.org/about/press/protecting-hcws"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "In a recent blog post we shared a milestone - that CHT applications have supported over 50 million caring activities since 2014. \nWith respect to SDG 17, it bears mentioning that the CHT is widely recognized as a digital global public good, and the public goods approach is all about partnering to achieve the SDGs rather than going alone with a private/proprietary solution. Examples of the CHT being recognized as a global public good are inclusion in Digital Square’s Global Goods Guidebook, and a video featuring the CHT as a global good in a WHO and ITU supported course in Digital Health: Planning National Systems.",
+      "evidenceURL": "https://medic.org/stories/redefining-what-it-means-to-support-care/ \nhttps://digitalsquare.org/global-goods-guidebook \nhttps://www.youtube.com/watch?v=Gxf0xNvZPG8"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/medic/cht-core"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Medic Mobile, Inc.",
+      "website": "https://medic.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}

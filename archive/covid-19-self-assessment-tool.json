@@ -1,0 +1,32 @@
+{
+  "name": "COVID-19 Self Assessment Tool",
+  "description": "The questionnaire takes the public through a series of questions to inform those who are concerned they may have contracted COVID-19.",
+  "website": "https://covid-19.ontario.ca/self-assessment/#q0",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/ongov/covid-19-self-assessment/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ongov/covid-19-self-assessment"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ontario Government",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

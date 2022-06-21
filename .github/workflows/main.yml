@@ -20,14 +20,19 @@ jobs:
         run: ./scripts/check-filenames.bash
       - name: Check order of fields in each file
         run: npm run order
+      - name: Check country names in digital public goods JSON files
+        run: npm run cleanCountries
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
       - name: Install dependecies
         run: npm install
       # - name: Run Server
@@ -39,15 +44,36 @@ jobs:
       - name: Deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
+          NEXT_PUBLIC_MAPBOX_TOKEN: ${{ secrets.NEXT_PUBLIC_MAPBOX_TOKEN }}
+          NEXT_PUBLIC_SHEET_ID: ${{ secrets.NEXT_PUBLIC_SHEET_ID }}
         run: ./scripts/push.bash
 
-  open_pr:
+  # As of May 2021, this integration is disabled. Leaving it commented it out for reference.
+  # open_pr:
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   if: |
+  #     github.ref == 'refs/heads/main' &&
+  #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
+  #     !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
+  #
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - id: file_changes
+  #       uses: trilom/file-changes-action@v1.2.3
+  #     - name: Install dependencies
+  #       run:
+  #         npm install
+  #     - name: open PR
+  #       env:
+  #         GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
+  #       run:
+  #         node scripts/open_pr.js
+
+  api:
     needs: build
     runs-on: ubuntu-latest
-    if: |
-      github.ref == 'refs/heads/master' &&
-      !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[skip pr]') &&
-      !contains(format('{0} {1} {2}', github.event.head_commit.message, github.event.pull_request.title, github.event.pull_request.body), '[pr skip]')
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - uses: actions/checkout@v2
@@ -56,8 +82,8 @@ jobs:
       - name: Install dependencies
         run:
           npm install
-      - name: open PR
+      - name: Update API
         env:
           GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
         run:
-          node scripts/open_pr.js
+          node scripts/api.js

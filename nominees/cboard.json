@@ -1,0 +1,46 @@
+{
+  "name": "Cboard",
+  "description": "Cboard is an AAC web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech. ",
+  "website": "https://www.cboard.io/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/cboard-org/cboard/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Impact in Serbia, Croatia, and Montenegro",
+      "evidenceURL": "https://www.unicef.org/serbia/en/stories/long-awaited-first-word"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Impact in Serbia, Croatia, and Montenegro",
+      "evidenceURL": "https://www.unicef.org/montenegro/en/stories/c-board-application-makes-communication-easier-children-disabilities"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Impact in Serbia, Croatia, and Montenegro",
+      "evidenceURL": "https://www.unicef.org/montenegro/en/stories/c-board-application-makes-communication-easier-children-disabilities"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cboard-org/cboard"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "CIREHA",
+      "website": "https://cireha.com.ar",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}
