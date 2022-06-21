@@ -1,0 +1,42 @@
+{
+  "name": "Digital Health Access",
+  "aliases": [
+    "DHA"
+  ],
+  "description": "Health Education and consultation platform for users to interract with doctors,counselors and other health professionals.",
+  "website": "https://app.digitalhealthaccess.com/",
+  "license": [
+    {
+      "spdx": "CC-BY-1.0",
+      "licenseURL": "https://digitalhealthaccess.com/license/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We are providing access to a consortium of health professionals accross the globe so that people no matter how remore you are can access a specialist services that might not be readily available in their domain. Access to profesional conselors is a big issue in Ghana and for that matter Africa. making these proffessionals accessible will help people gain the right solutions to health and psychological problems",
+      "evidenceURL": "https://app.digitalhealthaccess.com/consultants"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Access to health education is key to national development. Instead of people seeking answers from social media they can obtain those answers from professionals and will help them learn a lot about their health. ",
+      "evidenceURL": "https://app.digitalhealthaccess.com/forum/46VYGTz8MQo7f3vgsWQj"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Digital Health Access",
+      "website": "https://app.digitalhealthaccess.com/",
+      "org_type": "owner",
+      "contact_name": "Ampabeng Richmond BEdiako",
+      "contact_email": "ampabeng99@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
