@@ -1,0 +1,34 @@
+{
+  "name": "Mes Aides - UI",
+  "description": "Le simulateur global des prestations sociales françaises https://mes-aides.gouv.fr/",
+  "website": "https://mes-aides.gouv.fr/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/betagouv/aides-jeunes/blob/master/LICENSE.AGPL.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/betagouv/aides-jeunes"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Beta.Gouv",
+      "website": "https://beta.gouv.fr/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

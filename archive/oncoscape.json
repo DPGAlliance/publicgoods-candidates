@@ -1,0 +1,44 @@
+{
+  "name": "Oncoscape",
+  "description": "Oncoscape is a data visualization platform that empowers researchers to discover novel patterns and relationships between clinical and molecular data. Through a suite of interoperable tools, Oncoscape offers a unique and intuitive approach to hypothesis refinement.",
+  "website": "https://oncoscape.sttrcancer.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/FredHutch/Oncoscape/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.sttrcancer.org/en/biotools/oncoscape.html"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "In partnership with Github and Amazon Web Services, the Fred Hutch based team has developed a web-based portal equipped with rich data, powerful statistics and a simple interface to empower doctors, researchers, and scientists in investigating hypotheses, discovering novel patterns and associations, and ultimately expediting the process of translational research and precision medicine.",
+      "evidenceURL": "https://www.sttrcancer.org/en/biotools/oncoscape.html"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/FredHutch/Oncoscape"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Fred Hutchinson Cancer Research Center",
+      "website": "https://www.fredhutch.org/en/research/institutes-networks-ircs/seattle-translational-tumor-research.html",
+      "org_type": "owner"
+    },
+    {
+      "name": "Seattle Translational Tumor Research",
+      "website": "https://www.sttrcancer.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Simple",
+  "aliases": [
+    ""
+  ],
+  "description": "Free software to manage large-scale hypertension and diabetes control programs.",
+  "website": "https://simple.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/simpledotorg/simple-server/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "In collaboration with local ministries of health, WHO, and other partners, Simple is used in India, Ethiopia, and Bangladesh to manage large hypertension controls in public health settings with over 1M patients under care.",
+      "evidenceURL": "https://simple.org"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/simpledotorg/simple-server"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Resolve to Save Lives",
+      "website": "https://resolvetosavelives.org",
+      "org_type": "maintainer",
+      "contact_name": "Daniel Burka",
+      "contact_email": "dburka@resolvetosavelives.org"
+    }
+  ],
+  "stage": "DPG"
+}

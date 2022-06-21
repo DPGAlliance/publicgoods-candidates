@@ -33,7 +33,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/glific/glific",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/glific/glific"
+    }
+  ],
   "organizations": [
     {
       "name": "Project Tech4Dev",
