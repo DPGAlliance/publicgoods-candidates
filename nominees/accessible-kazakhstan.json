@@ -24,7 +24,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/qlt2020/doskaz",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/qlt2020/doskaz"
+    }
+  ],
   "organizations": [
     {
       "name": "Public fund \"Tandau Foundation\"",
@@ -32,5 +37,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

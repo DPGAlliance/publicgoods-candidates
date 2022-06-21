@@ -1,0 +1,34 @@
+{
+  "name": "OpenStates",
+  "description": "Track bills, review upcoming legislation, and see how your local representatives are voting in your state.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openstates/openstates-scrapers/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openstates/openstates-scrapers"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open States",
+      "website": "https://openstates.org/about/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

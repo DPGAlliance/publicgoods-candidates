@@ -1,0 +1,34 @@
+{
+  "name": "Open Science Framework",
+  "description": "Facilitating Open Science",
+  "website": "https://osf.io/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/CenterForOpenScience/osf.io/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CenterForOpenScience/osf.io"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Centre for Open Science",
+      "website": "https://cos.io/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

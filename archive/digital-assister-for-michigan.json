@@ -1,0 +1,32 @@
+{
+  "name": "Digital Assister for Michigan",
+  "description": "A multi-benefit assistance application built for the State of Michigan.",
+  "website": "https://demo.michiganbenefits.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforamerica/michigan-benefits/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforamerica/michigan-benefits"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for America",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
