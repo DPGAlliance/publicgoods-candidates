@@ -1,0 +1,68 @@
+{
+  "name": "Digital Health Access",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Data processed are transmitted through https encryptions"
+    ],
+    "evidenceStandardSupport": [
+      "https://app.digitalhealthaccess.com/"
+    ],
+    "bestPracticesList": [
+      "Data transfer accross https encryption transfers."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Data processed are transmitted through https encryptions"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Audio,Video,Text and pictures",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "We have live admins and moderators who approve most of the content making sure they are consistent and free from unwelcome data"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Users access data based on the priority access that's you are able to access data based on your priority"
+      ],
+      "harassmentProtectionSteps": [
+        "Users have option to make it make data public or private while posting, While users sharing problems can post anonymously for support"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana",
+      "Uganda",
+      "Nigeria"
+    ]
+  }
+}
