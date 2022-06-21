@@ -3,7 +3,7 @@
   "aliases": [
     "Treejer"
   ],
-  "description": "Connecting Funders to Rural Planters Worldwide ",
+  "description": "Connecting funders to rural planters worldwide",
   "website": "https://treejer.com",
   "license": [
     {
@@ -31,8 +31,18 @@
       "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
     },
     {
+      "SDGNumber": 3,
+      "evidenceText": "A healthy tree can help us stay healthy. A study by a TNC scientist found that spending time in nature, such as walking amid the trees in a city park, is linked to lower levels of anxiety and despair. With Treejer, local communities make their surrounding greener. This has a positive impact on mental and physical health. And of course, trees clean the air so we can breathe more easily.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
       "SDGNumber": 5,
       "evidenceText": "We're building technologies that promote the empowerment of women. This is mainly done by providing fair and equal access to remote job opportunities in places where women have less opportunities. We encourage rural ambassadors to invite more women as planters in their local communities.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "By reducing stormwater runoff and soil erosion, trees and plants can aid communities with water quality issues. Trees help collect nutrients that might otherwise be washed away from the soil. Some of our communities plant the trees in strategic places for better management of rain water. Forests slow the flow of water by intercepting precipitation and by consuming water in the ground.",
       "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
     },
     {
@@ -64,16 +74,6 @@
       "SDGNumber": 15,
       "evidenceText": "This is the most relevant SDG to the works of Treejer. We continue to make our contribution to building a sustainable green future for everyone in the world with the help of new technologies. We connect funders to rural planters worldwide to protect forests even in remote and unbanked communities. Forests have direct impact on biodiversity and Treejer facilitates forest financing.",
       "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
-    },
-    {
-      "SDGNumber": 3,
-      "evidenceText": "A healthy tree can help us stay healthy. A study by a TNC scientist found that spending time in nature, such as walking amid the trees in a city park, is linked to lower levels of anxiety and despair. With Treejer, local communities make their surrounding greener. This has a positive impact on mental and physical health. And of course, trees clean the air so we can breathe more easily.",
-      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
-    },
-    {
-      "SDGNumber": 6,
-      "evidenceText": "By reducing stormwater runoff and soil erosion, trees and plants can aid communities with water quality issues. Trees help collect nutrients that might otherwise be washed away from the soil. Some of our communities plant the trees in strategic places for better management of rain water. Forests slow the flow of water by intercepting precipitation and by consuming water in the ground.",
-      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
     }
   ],
   "sectors": [],
@@ -83,15 +83,15 @@
   "repositories": [
     {
       "name": "Smart Contracts",
-      "url": "https://github.com/treejer/contract/blob/main/LICENSE"
+      "url": "https://github.com/treejer/contract"
     },
     {
-      "name": "Mobile Application for Planters",
-      "url": "https://github.com/treejer/mobile/blob/master/LICENSE"
+      "name": "Mobile app for tree planters",
+      "url": "https://github.com/treejer/mobile"
     },
     {
-      "url": "https://github.com/treejer/web/blob/master/LICENSE",
-      "name": "Web Application"
+      "name": "Web Application",
+      "url": "https://github.com/treejer/web"
     }
   ],
   "organizations": [
