@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "the link leads to a linkedin profile of the project, I think that's valid but I'm not 100% sure",
+    "confidence": 2
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "user": "AriadneBigheti",
+  "timestamp": 1633963986,
+  "timeTaken": 476
+}

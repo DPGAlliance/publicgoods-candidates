@@ -1,0 +1,103 @@
+{
+  "name": "VaccineLedger",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitlab.com/statwig-public/theledger",
+      "https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/docs/VaccineLedger-_Use_Case___Functional_Features_.pdf",
+      "https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "This data is stored on Blockchain and can be accessible through REST APIs.\nThe core idea of blockchain is collaboration based on shared data ownership, governance and  operations. The major difference from centralized system architectures is that peers,  collaborating in a network, can continue using their own systems and technology stack without  the need to integrate them in the classical way. Instead, blockchain provides a shared data  layer that allows these systems to interoperate on top and acts as the single truth. \n\nAs a result, the network has no single authority, which owns the data or controls the systems.  The decentralization of the ledger means a decentralization of power.\n\nLink to Evidence: https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/docs/Server.pdf"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Privacy_policy_of_VaccineLedger__1_.pdf",
+      "https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/docs/Server.pdf"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "WaSP",
+      "HTML",
+      "CSS",
+      "ECMAScript",
+      "JSON",
+      "REST"
+    ],
+    "evidenceStandardSupport": [
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles of Digital Development ",
+      "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/Standards"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our Risk Management strategy includes  Include risk management in our projects (Guidelines / Checklist/ Templates) Communicate risks to other stakeholders. Prioritize risks. Analyze risks with metrics. Implement risk responses as early as possible to avoid aggravating issues. Track them down regularly for compliance."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://gitlab.com/statwig-public/theledger/-/blob/development/docs/VaccineLedger_-_Data_Confidentiality.pdf"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "User information like phone and email are not stored - https://gitlab.com/statwig-public/theledger/-/blob/050a19d2c92a2836bfb9483941e5219e5b90be62/docs/VaccineLedger_-_Data_Confidentiality.pdf"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The users on our platform are supply chain managers, operational teams, logistics partners and so on. The user onboarding in each of these different types of users is carried out by a two step process:",
+        "- Step 1: User registers using name, official emails and/or phone numbers for verification and other identification details when needed. ",
+        "- Step 2: An admin reviews and approves the users."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The safety and wellbeing of those we work with is of paramount importance to us. This includes staff, and the people  we work  with. We  have a  zero-tolerance  approach towards all forms of unethical behavior. We  also  have  a  zero  tolerance  towards  bribes,  facilitation  payments,  tax  evasion  and  money laundering. We will do all we can to prevent financing or the support of terrorist organisations and will not appoint or employ anyone that could reasonably be suspected to be connected to a terrorist group. We will abide by all the Laws in all matters including those related to modern slavery.",
+        "Code of conduct - https://gitlab.com/statwig-public/theledger/-/blob/development/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "Costa Rica",
+      "India"
+    ]
+  }
+}

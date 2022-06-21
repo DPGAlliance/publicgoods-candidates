@@ -1,0 +1,126 @@
+{
+  "name": "DIGIT",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.digit.org/about-us/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.digit.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "DIGIT supports the creation of reports and dashboards, using tools such as Elastic Search and Kibana. These tools support export of data in most commonly used formats, e.g. CSV. The responsibility for and capability to access data lies with the government entity/ies who are using DIGIT to deliver municipal services, rather than with eGov. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgement)",
+      "Personal Data Protection Bill (Draft bill)"
+    ],
+    "adherenceSteps": [
+      "Privacy Policy - https://core.digit.org/focus-areas/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Rest API Definitions",
+      "OpenAPI Specifications Transfer Protocol",
+      "HTTPS Storage and Query",
+      "SQL PII Encrypted using",
+      "AES/GCM/NoPadding",
+      "Data Layer SQL PII Encrypted using",
+      "AES/GCM/NoPadding",
+      "Service Layer RestAPIs",
+      "OpenAPI 3.0 JSON HTTPS",
+      "Frontend - JavaScript, HTML CSS"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.digit.org/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "1. Ecosystem-Driven",
+      "2. Interoperability through Open APIs and Open Standards",
+      "3. Inclusive",
+      "4. Minimalistic",
+      "5. Privacy and Security by Design",
+      "6. Unbundling",
+      "7. Designing for Evolvability and scale",
+      "8. Transparency and Accountability through Data",
+      "9. Non-Repudiable",
+      "10. Domain Modeling",
+      "11. Federated Architecture",
+      "12. Ensuring extensibility through the use of layered design",
+      "13. Multi-Channel Access"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "DIGIT takes the following mitigation steps: Secure by default, Privacy by Default, ensures ownership of Data must reside with the user, consent is sought and stored, and data is purpose limited."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "We collect information/data (“data”) to improve and provide better services to you.",
+        "We collect and process PII such as your first name, last name, parent’s / guardian’s name, address, email address, telephone number, age, gender, identification documents.",
+        "We may collect your educational, demographic, location, device and other similar information.",
+        "We collect information such as Internet Protocol (IP) addresses, domain name, browser type, Operating System, Date and Time of the visit, pages visited, IMEI/IMSI number, device ID, location information, language settings, handset make & model etc.",
+        "However, no attempt is made to link these with the true identity of individuals visiting the mSewa App."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "We use this data to serve you with the best civic experience, such as providing digital complaints systems, creating dashboards of ULB activities, etc. We collect only such data as serves these objectives. Specifically:",
+        "- We process this data as necessary to provide you with the services you are requesting.",
+        "- We may process, disclose, or share certain metadata, as well as aggregated and anonymised data, in order to assess and improve the status of such service delivery over time.",
+        "- We may disclose or share this data to/with employees and/or contractors of the urban local body, state government, or other government agencies, service providers, whose role requires them to view or use this information in order to perform their official duties, including providing you the service(s) you are requesting.",
+        "- Resolving any disputes that may arise with respect to the transactions/deals that you may conduct using the app/website.",
+        "- Monitoring user activity and preferences as evidence from user’s activity on app to provide a better experience in future.",
+        "- Detecting, investigating and preventing activities that may violate our policies or that may be illegal or unlawful.",
+        "- Conducting research or analysing of the user preferences and demographics as statistical data and not as individual data.",
+        "- We may disclose or share this data in order to comply with the law or any legal process, including when required in judicial, arbitral, or administrative proceedings.",
+        "- Payments made through the mSewa App/website are processed via secure payment gateways.",
+        "- We will not process, disclose, or share your data except as described in this policy or as otherwise authorized by you."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "DIGIT implements the following in its core architecture: authentication, authorization and data encryption to guarantee data privacy and security. \n Encyption techniques- https://core.digit.org/focus-areas/data-security/encryption-techniques \nPrivacy Design - https://core.digit.org/focus-areas/privacy/privacy-design"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Magma",
+  "description": "Magma is an open-source software platform that gives network operators an open, flexible and extendable mobile core network solution.",
+  "website": "https://engineering.fb.com/open-source/magma/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/magma/magma/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/magma/magma"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Facebook",
+      "website": "https://opensource.facebook.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

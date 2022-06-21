@@ -1,0 +1,54 @@
+{
+  "name": "Global Biodiversity Information Facility",
+  "aliases": [
+    "GBIF"
+  ],
+  "description": "Platform providing open access to biodiversity data, includes a public API.",
+  "website": "https://www.gbif.org",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://www.gbif.org/terms"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://www.gbif.org/terms"
+    },
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/gbif/registry/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Data gathered aids analyses of climate change, allowing for strategies to be developed and awareness to be spread, helping meet target 13.3",
+      "evidenceURL": "https://www.gbif.org/what-is-gbif"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Data gathered aids analyses of invasive species and biodiversity changes, allowing for strategies to be developed for conservation and awareness to be spread, helping meet target 15.5",
+      "evidenceURL": "https://www.gbif.org/what-is-gbif"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/gbif/registry"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GBIF Governing Board",
+      "website": "https://www.gbif.org/governance",
+      "org_type": "owner",
+      "contact_email": "info@gbif.org"
+    }
+  ],
+  "stage": "nominee"
+}

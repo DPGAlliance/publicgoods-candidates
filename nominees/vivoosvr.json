@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Ideasis/VivoosVR",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Ideasis/VivoosVR"
+    }
+  ],
   "organizations": [
     {
       "name": "Ideasis / Turkey",
@@ -35,10 +40,10 @@
       "org_type": "owner"
     },
     {
-      "name": "UNICEF",
-      "website": "https://www.unicef.org/",
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
       "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

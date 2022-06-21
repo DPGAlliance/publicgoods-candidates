@@ -1,0 +1,44 @@
+{
+  "name": "Angaza Elimu",
+  "aliases": [
+    "Angaza AI"
+  ],
+  "description": "Adaptive assessments for better learning outcomes",
+  "website": "https://angazaelimu.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/Angaza-Elimu/learning_recommendation/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Angaza Elimu exists to ensure that every child has access to quality and relevant education on demand. Our team has developed an interactive eLearning platform powered by artificial intelligence which delivers personalized learning experiences to students and amplifies teacher student engagement. The platform has interactive and adaptive learning modules, giving students access to rich quality digital content and adaptive assessments. We provide teachers with a supportive tool to identify students' specific needs and help deliver personalized/customized instruction. \n Parents also have the option to receive instant notifications about their children's performance and engage with teachers instantaneously  contributing to targeted, constructive, feedback.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-angaza-elimu"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Education"
+  ],
+  "type": [
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Angaza-Elimu/learning_recommendation"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Angaza Elimu",
+      "website": "https://angazaelimu.com",
+      "org_type": "owner",
+      "contact_name": "Shawn Chiama",
+      "contact_email": "shawn.cliff@angazaelimu.com"
+    }
+  ],
+  "stage": "nominee"
+}

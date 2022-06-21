@@ -1,0 +1,34 @@
+{
+  "name": "MapSwipe Backend",
+  "description": "Backend scripts to run the MapSwipe App",
+  "website": "",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/mapswipe/python-mapswipe-workers/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mapswipe/python-mapswipe-workers"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "MapSwipe",
+      "website": "https://mapswipe.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
