@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/epiverse-trace/linelist/blob/main/LICENSE.md"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -16,10 +18,18 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown"
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
@@ -37,7 +47,7 @@
       "Additional free online tutorials",
       "Unit testing and full (100%) code coverage",
       "Continuous integration using github actions",
-      "Code of conduct"
+      "Code of conduct - https://www.contributor-covenant.org/version/2/0/code_of_conduct/"
     ]
   },
   "doNoHarm": {
@@ -46,14 +56,31 @@
       "additionalInfoMechanismProcessesPolicies": "The package implements safeguards against the accidental loss of key epidemiological variables."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). technical error reports from devices (using Sentry.io). usage analytics to understand how users are interacting with the app (using Matomo, self-hosted)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The package implements safeguards against the accidental loss of key epidemiological variables."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Contributor Code of Conduct: https://www.contributor-covenant.org/version/2/0/code_of_conduct/"
