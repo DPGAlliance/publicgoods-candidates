@@ -1,0 +1,65 @@
+{
+  "name": "African Highlander Farmer II",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://gitlab.com/farmz2u/african-highland-farmer/-/blob/main/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitlab.com/farmz2u/african-highland-farmer/-/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS)"
+    ],
+    "adherenceSteps": [
+      "The AHF II game does not collect any user data, any indirect data (buttons clicked) processed during the gaming is not saved, the game resets every session."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The project deploys by CI/CD"
+    ],
+    "standardsList": [
+      "WCAG 2.0 Level-AA conformance statements for HTML5 foundation markup"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.webaccessibility.com/results/?url=https%3A%2F%2Fplay.farmz2u.com%2Fahf%2F"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The project does not store or collect user data directly or indirectly. The tone and words used in the game are standard, moderate and formal. We also did not depict anything in a tribalistic or nepotistic manner."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Nigeria",
+      "Netherlands"
+    ],
+    "deploymentCountries": [
+      "Nigeria"
+    ]
+  }
+}
