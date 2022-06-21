@@ -13,26 +13,28 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 2,
-      "evidenceText": "The AHF game teaches farming: the creation of food, simulating the best practices through gaming, in the bid to promote sustainable agriculture, end hunger, and achieve food security."
-    },
-    {
       "SDGNumber": 1,
       "evidenceText": "The AHF game simulates a real-world environment where farmers have to generate income through their farming business and manage the income monthly without burnout. This educative process of learning to farm via gaming teaches how to sustainably generate and use your income as a farmer in the real world. "
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "The AHF game teaches farming: the creation of food, simulating the best practices through gaming, in the bid to promote sustainable agriculture, end hunger, and achieve food security."
     },
     {
       "SDGNumber": 12,
       "evidenceText": "The AHF game simulates sustainable farming practices, educating on how to generate food using sustainable methods, hence promoting SDG 12 on responsible production."
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Agriculture"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://gitlab.com/farmz2u/african-highland-farmer",
-      "name": "African Highland Farmer"
+      "name": "main",
+      "url": "https://gitlab.com/farmz2u/african-highland-farmer"
     }
   ],
   "organizations": [
