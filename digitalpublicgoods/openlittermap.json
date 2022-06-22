@@ -1,0 +1,107 @@
+{
+  "name": "OpenLitterMap",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://openlittermap.com"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "OpenLitterMap uses AWS S3 to store photos on production; Minio is an open source alternative for someone trying to host the application."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Installation guide - https://github.com/OpenLitterMap/openlittermap-web"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "We collect both personal and non-personal data. If you want to download our data, visit the World Cup page (openlittermap.com/world), scroll down, find a location of your choosing, select the download tab, enter your email, and press submit. If you want to submit data, either download our app, or submit via the website. Alternatively, users may choose to install the APK on their own device directly. Our data is open, anyone can download it in CSV format."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Verification process - https://github.com/OpenLitterMap/openlittermap-web/wiki/Verification-Process"
+    ],
+    "adherenceSteps": [
+      "To protect privacy, remove offensive content and ensure data integrity, all data from new users goes through a several-step manual review process  before coming accessible. You can find more information in the wiki (https://github.com/OpenLitterMap/openlittermap-web/wiki/Verification-Process)"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "CSV",
+      "SQL",
+      "JavaScript",
+      "SSH",
+      "REST"
+    ],
+    "evidenceStandardSupport": [
+      "https://openlittermap.com"
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      "Understanding the ecosystem",
+      "Be data driven",
+      "Address privacy and security",
+      "Use open standards and open source"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All photos from new users go through a manual verification process to remove any potentially sensitive data (e.g. people could upload pictures of children cleaning beaches). If any embarrassing photos were accidentally uploaded, we screen for and delete these too. We do not capture litter that would increase the risk of already marginalised and vulnerable people, such as human waste, or drug-related paraphernalia. We do have a separate platform for drug-related litter, which local authorities can decide on a level of openness that would be appropriate relative to their local context."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Users are required to submit a name, username and email address. By default, all users are anonymous which can be controlled in the privacy settings.",
+        "Our download does not include any personal information. Our open data includes pre-defined litter types (120+ items), custom-tags, latitude, longitude, full OSM address at each location, litter picked up (boolean)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All photos from new users go through a manual verification process to remove any potentially sensitive data (e.g. people could upload pictures of children cleaning beaches). If any embarrassing photos were accidentally uploaded, we screen for and delete these too. We do not capture litter that would increase the risk of already marginalised and vulnerable people, such as human waste, or drug-related paraphernalia. We do have a separate platform for drug-related litter, which local authorities can decide on a level of openness that would be appropriate relative to their local context."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Children under the age of 13 should not use our app and produce geographic information. Children between the ages of 13-17 may do so with guardian supervision. "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "All users are default by anonymous. Users may wish to include social media links, which will appear in the leaderboard or any data they add to the global map. We do not encourage use below the age of 18, but have plans to create resources that would teach people about the responsible use of sharing location data openly online."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ireland",
+      "Albania",
+      "India",
+      "Netherlands"
+    ],
+    "deploymentCountries": [
+      "Netherlands",
+      "Canada",
+      "United States of America",
+      "Ireland",
+      "Belgium",
+      "United Kingdom",
+      "Japan",
+      "Switzerland"
+    ]
+  }
+}
