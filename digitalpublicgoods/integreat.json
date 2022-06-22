@@ -1,0 +1,75 @@
+{
+  "name": "Integreat",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/digitalfabrik"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/digitalfabrik/integreat-app#readme",
+      "https://github.com/digitalfabrik/integreat-cms#readme",
+      "https://wiki.integreat-app.com/knowledgebase",
+      "https://wiki.integreat-app.com/selfhosted"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR compliant (checked with the Bavarian data protection agency) early on. "
+    ],
+    "adherenceSteps": [
+      "We use a privacy-by-design approach in all software and all features. Here is our data privacy policy: https://integreat-app.de/en/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design with the user: Research paper \"Supporting Refugees in Every Day Life – Intercultural Design Evaluation of an Application for Local Information\" on design of Integreat's apps: https://mediatum.ub.tum.de/node?id=1362264",
+      "Understand the Existing Ecosystem: Integration efforts and strategies are carried out locally. Integreat offers a highly customizable solution to provide highly local content which is the most relevant to refugees and migrants. ",
+      "Design for Scale: Integreat has been implemented in every fifth (85 of 401) German municipality who all share the same platform but own their own appearance on the platform. Integreat has been implented on Lesvos and been white-labelled to be used by a German NGO for large accommodations for asylum seekers too:  https://malteapp.de/",
+      "Build for Sustainability: With a shared platform between municipalities within and outside of Germany, Integreat only needs relatively small personal and financial resources to keep Integreat running. Integreat is in operation since November 2015. ",
+      "Be Data Driven: Integreat creates new data or make it understandable for refugees and migrants who are then empowered to act on this information. ",
+      "Use Open Data and Open Source: Integreat is fully open source, content is CC licenced, online documentation is openly available, the API is open to be used. ",
+      "Reuse and Improve: We have only white-labelled Integreat ourselves but it is possible to do quite easily with good ICT-knowledge. ",
+      "Adress Privacy & Security: We developed Integreat with a privacy-by-design approach. We only count access number per language in a city or region. We have started a RCT-evaluation with J-PAL Europe last/this year for which we developed the analytics ourselves and users have to actively accept tracking. ",
+      "Be Collaborative: We truly believe in collaborations to multiply each solutions impact and create synergies. We have interfaces to job platforms in Germany and lobby heavily in the German Federal Governement to open their integration-relevant data (jobs, language classes etc.) so we and others can include them in our/their solutions. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Refugees belong to the most vulnerable groups of people. Understanding relevant information can keep them safe. With us not collecting data they can make well-informed decisions without having to provide any personal data in the process. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Integration-relevant content for refugees and migrants about the required steps upon their arrival, procedures and processes, counselling services, information about healthcare and education systems, access to language classes and the job market, financial support programs, participation opportunities and events. ",
+      "contentFilter": "No",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Content creation is governed by German municipal governments who have a very high standard of publishing information. Creating new users are either done by those platform owners or our organisation. The contract between those municipalities and us contains a preamble pointing out to always work in good faith. "
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Germany"
+    ],
+    "deploymentCountries": [
+      "Germany",
+      "Greece"
+    ]
+  }
+}
