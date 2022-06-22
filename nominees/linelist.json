@@ -1,0 +1,41 @@
+{
+  "name": "linelist",
+  "aliases": [
+    ""
+  ],
+  "description": "An R package for handling case line list data",
+  "website": "https://epiverse-trace.github.io/linelist/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/epiverse-trace/linelist/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This R package provides robust solutions for handling and validating case line list data, preventing loss of key variables, and strengthening outbreak analytics pipelines. ",
+      "evidenceURL": "https://epiverse-trace.github.io/linelist/articles/linelist_introduction.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/epiverse-trace/linelist"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "data.org",
+      "website": "https://data.org/",
+      "org_type": "owner",
+      "contact_name": "Thibaut Jombart",
+      "contact_email": "thibaut@data.org"
+    }
+  ],
+  "stage": "nominee"
+}
