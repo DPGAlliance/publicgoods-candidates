@@ -13,7 +13,9 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://unbiodiversitylab.org/support/",
-      "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf"
+      "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf",
+      "https://github.com/natgeosociety/marapp-frontend",
+      "https://github.com/natgeosociety/marapp-services"
     ]
   },
   "NonPII": {
