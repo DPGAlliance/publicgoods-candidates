@@ -1,0 +1,41 @@
+{
+  "name": "Moodle LMS",
+  "aliases": [
+    "Moodle"
+  ],
+  "description": "Moodle is the world’s most customisable and trusted Learning Management System that empowers educators to improve our world.",
+  "website": "https://moodle.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://docs.moodle.org/dev/License"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Moodle is the world’s most customisable and trusted eLearning solution that empowers educators to improve our world.",
+      "evidenceURL": "https://moodle.com/about/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "moodle",
+      "url": "https://github.com/moodle/moodle"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Moodle Pty Ltd",
+      "website": "https://moodle.com",
+      "org_type": "owner",
+      "contact_name": "Carles Aguiló-Collado",
+      "contact_email": "technology-partners@moodle.com"
+    }
+  ],
+  "stage": "nominee"
+}
