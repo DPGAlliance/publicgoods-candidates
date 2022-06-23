@@ -1,5 +1,5 @@
 {
-  "name": "Koster Seafloor Observatory ",
+  "name": "Koster Seafloor Observatory",
   "aliases": [
     ""
   ],
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 14,
-      "evidenceText": "approach incorporates three distinct modules to: manage and archive the subsea movies, involve citizen scientists to accurately classify the footage and, finally, train and test machine learning algorithms for detection of biological objects. This modular approach is based on open-source code and allows researchers to customise and further develop the presented functionalities to various types of data and questions related to analysis of marine imagery.",
+      "evidenceText": "Approach incorporates three distinct modules to: manage and archive the subsea movies, involve citizen scientists to accurately classify the footage and, finally, train and test machine learning algorithms for detection of biological objects. This modular approach is based on open-source code and allows researchers to customise and further develop the presented functionalities to various types of data and questions related to analysis of marine imagery.",
       "evidenceURL": "https://bdj.pensoft.net/article/60548/"
     }
   ],
