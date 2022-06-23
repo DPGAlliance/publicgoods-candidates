@@ -1,0 +1,89 @@
+{
+  "name": "Moodle LMS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.moodle.org/dev/License"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.moodle.org"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Backup, restores, different open data extraction formats or SQL queries against the DB"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://gdpr-info.eu/"
+    ],
+    "adherenceSteps": [
+      "https://docs.moodle.org/400/en/GDPR",
+      "https://moodle.com/news/moodles-data-protection-pledge-commitment/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "https://www.imsglobal.org/activity/learning-tools-interoperability",
+      "https://www.imsglobal.org/question/index.html",
+      "https://xapi.com/overview/"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.moodle.org/400/en/LTI_and_Moodle",
+      "https://docs.moodle.org/400/en/Migration_from_Moodle",
+      "https://docs.moodle.org/dev/Experience_API_(xAPI)"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "All of them: Design with the user, Understand the existing ecosystem, Design for scale, Build for sustainability, Be data driven, Use open standard, open data, open source and open innovation, Reuse and improve, Address privacy and security, Be collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://moodle.com/security-privacy/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Student personal information",
+        "Student results"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://moodle.com/security-privacy/ and https://docs.moodle.org/dev/Privacy_API"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Learning materials - The project is neutral regarding content, and all moderation is left to the institution deploying the software.",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://docs.moodle.org/400/en/Data_privacy"
+      ],
+      "harassmentProtectionSteps": [
+        "https://docs.moodle.org/400/en/Data_privacy"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Australia",
+      "Spain",
+      "United States of America"
+    ],
+    "deploymentCountries": []
+  }
+}
