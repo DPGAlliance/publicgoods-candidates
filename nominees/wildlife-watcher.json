@@ -23,8 +23,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/wildlifeai/wai_data_tools",
-      "name": "Wildlife Watcher Data Tools"
+      "name": "Wildlife Watcher Data Tools",
+      "url": "https://github.com/wildlifeai/wai_data_tools"
     }
   ],
   "organizations": [
