@@ -5,7 +5,9 @@
     "copyrightURL": "https://docs.moodle.org/dev/License"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -38,7 +40,9 @@
     "evidenceStandardSupport": [
       "https://docs.moodle.org/400/en/LTI_and_Moodle",
       "https://docs.moodle.org/400/en/Migration_from_Moodle",
-      "https://docs.moodle.org/dev/Experience_API_(xAPI)"
+      "https://docs.moodle.org/dev/Experience_API_(xAPI)",
+      "https://moodle.com/security-privacy/",
+      "https://docs.moodle.org/dev/Privacy_API"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -57,22 +61,27 @@
         "Student results"
       ],
       "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://moodle.com/security-privacy/ and https://docs.moodle.org/dev/Privacy_API"
+      "privacySecurityDescription": "https://moodle.com/security-privacy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Learning materials - The project is neutral regarding content, and all moderation is left to the institution deploying the software.",
       "contentFilter": "No",
-      "illegalContentDetection": "No"
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "https://docs.moodle.org/400/en/Data_privacy"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "https://docs.moodle.org/400/en/Data_privacy"
       ]
@@ -84,6 +93,8 @@
       "Spain",
       "United States of America"
     ],
-    "deploymentCountries": []
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
