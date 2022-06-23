@@ -32,12 +32,8 @@
   ],
   "repositories": [
     {
-      "name": "Open Collective Organization",
-      "url": "https://github.com/opencollective"
-    },
-    {
-      "url": "https://github.com/opencollective/opencollective-frontend",
-      "name": "Frontend"
+      "name": "Frontend",
+      "url": "https://github.com/opencollective/opencollective-frontend"
     },
     {
       "name": "API",
