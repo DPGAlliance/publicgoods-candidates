@@ -5,7 +5,9 @@
     "copyrightURL": "https://gitlab.com/farmz2u/african-highland-farmer/-/blob/main/README.md"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -27,15 +31,15 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
-    "bestPracticesList": [
-      "The project deploys by CI/CD"
-    ],
     "standardsList": [
       "WCAG 2.0 Level-AA conformance statements for HTML5 foundation markup"
     ],
     "evidenceStandardSupport": [
       "https://www.webaccessibility.com/results/?url=https%3A%2F%2Fplay.farmz2u.com%2Fahf%2F"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The project deploys by CI/CD"
     ]
   },
   "doNoHarm": {
@@ -44,13 +48,35 @@
       "additionalInfoMechanismProcessesPolicies": "The project does not store or collect user data directly or indirectly. The tone and words used in the game are standard, moderate and formal. We also did not depict anything in a tribalistic or nepotistic manner."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
