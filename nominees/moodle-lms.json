@@ -3,22 +3,24 @@
   "aliases": [
     "Moodle"
   ],
-  "description": "Moodle is the world’s most customisable and trusted Learning Management System that empowers educators to improve our world.",
+  "description": "Moodle is the world's most customisable and trusted Learning Management System that empowers educators to improve our world.",
   "website": "https://moodle.org",
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://docs.moodle.org/dev/License"
+      "licenseURL": "https://github.com/moodle/moodle/blob/master/COPYING.txt"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 4,
-      "evidenceText": "Moodle is the world’s most customisable and trusted eLearning solution that empowers educators to improve our world.",
+      "evidenceText": "Moodle is the world's most customisable and trusted eLearning solution that empowers educators to improve our world.",
       "evidenceURL": "https://moodle.com/about/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "software"
   ],
