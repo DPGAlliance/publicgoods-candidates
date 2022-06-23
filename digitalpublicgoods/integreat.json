@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/digitalfabrik"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -18,7 +20,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -50,17 +53,35 @@
       "additionalInfoMechanismProcessesPolicies": "Refugees belong to the most vulnerable groups of people. Understanding relevant information can keep them safe. With us not collecting data they can make well-informed decisions without having to provide any personal data in the process. "
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Integration-relevant content for refugees and migrants about the required steps upon their arrival, procedures and processes, counselling services, information about healthcare and education systems, access to language classes and the job market, financial support programs, participation opportunities and events. ",
       "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "Content creation is governed by German municipal governments who have a very high standard of publishing information. Creating new users are either done by those platform owners or our organisation. The contract between those municipalities and us contains a preamble pointing out to always work in good faith. "
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
