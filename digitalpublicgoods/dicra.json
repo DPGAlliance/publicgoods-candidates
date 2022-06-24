@@ -5,9 +5,9 @@
     "copyrightURL": "https://dicra.undp.org.in/about-project"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "1. DiCRA platform requires the functionality to allow policy-makers to search for a village or locality to perform analysis on climate and agriculture indicators. This requires an API that allows for geocoding (the process of converting address in text format to geo-coordinates). We explored the use of (open option) OSM Geocoder - Nominatim for this but found that the spatial accuracy and match rate is low for our preliminary area of interest which was Telangana. Hence we have used Google Geocoding API for this use case. In case the developer wishes to deploy the application without using this API, the codebase includes the following module which uses Nominatim instead of Google API. \n 2. Based on our visual identity and user experience discussions, we have used the CARTO base map public styles (not the proprietary style)as the base map for our map views. It provides a BSD 3-Clause License for the code and CC-BY 4.0 for the design. But it does have the following limitations: \n -- free usage for up to 75,000 map views per month \n-- none-commercial services only. \nThis service does not need to enable an API or an account to set up the base map. If the dark theme is not required, the developer can use alternatives quite easily by updating the code base use services such as Open Map Tiles. \n 3. DiCRA also includes a Satellite View which uses the Google Basemap which requires an account registration as well as setting up of API. But the codebase also includes an option to reconfigure it to use USGS or ESRI Base maps instead of Google service."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
