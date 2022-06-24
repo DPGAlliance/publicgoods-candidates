@@ -40,6 +40,10 @@
     {
       "name": "main",
       "url": "https://github.com/kobotoolbox/kpi"
+    },
+    {
+      "name": "KoboCat",
+      "url": "https://github.com/kobotoolbox/kobocat"
     }
   ],
   "organizations": [
