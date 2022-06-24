@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/eco-index/ecoindex-stack#license"
+      "licenseURL": "https://github.com/eco-index/ecoindex-stack/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -20,8 +20,7 @@
   "sectors": [],
   "type": [
     "software",
-    "aimodel",
-    "content"
+    "aimodel"
   ],
   "repositories": [
     {
