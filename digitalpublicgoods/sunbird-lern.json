@@ -1,0 +1,96 @@
+{
+  "name": "Sunbird Lern",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://sunbird.org/software-license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://lern.sunbird.org"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Sunbird Lern is an open-source software available under MIT License. To enable various capabilities, it stores primarily three types of data - user, asset, and interaction data. Sunbird Lern has APIs and tools to manage the data which uses JSON as the native data format. In some cases, tools have been developed to support import and export in CSV format.\n"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "India's Personal Data Protection Bill (2019)",
+      "The IT Act (2000) for its implementation in India"
+    ],
+    "adherenceSteps": [
+      "Privacy policy: https://www.sunbird.org/privacy-policy",
+      "Terms & conditions: https://www.sunbird.org/terms-conditions"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Security standards - PKI, HTTPS, JWT",
+      "Standard auth protocols such as OAuth"
+    ],
+    "evidenceStandardSupport": [
+      "https://lern.sunbird.org"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird Lern software has implemented many best practices in its building blocks to keep user data safe and secure. Users are empowered to safeguard and share their data with appropriate consent management mechanisms. Default software has implemented data collection in an open and transparent manner. Sunbird Lern software implements principles of minimalism, consent, transparency of data collection, and other best practices. Sunbird has capabilities for curating and reviewing content before it is published for consumption. Please see earlier and following responses for details about privacy, safety of minors, and data security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "For user registration, Sunbird Lern makes use of the user's Email or Phone Number, a user name, and a high level (state/district level only) location to personalize content for learners. Users can also optionally choose to share with an organization - additional contact details or IDs relevant to the Organization that they are associated with, via the platform using Sunbird Lern  "
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "An adopter of Sunbird may choose to share PII data with third parties if they so require, as per the workflows they choose to configure. Implementers/Adopters of Sunbird, have the autonomy to decide what fields to capture/maintain, which other systems to integrate with, and whether they share this data with other authorised parties. (An example of this would be a Sunbird adopter choosing to share the profile data of registered users - after obtaining explicit user consent to do so - with a Course mentor, to permit further analysis of the batch by the mentor)",
+        "While the Sunbird technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a suitable privacy policy at their end to cover the various implementation-specific scenarios regarding the. management & sharing of PII/non PII data.",
+        "As an open source-code solution, Sunbird Lern should be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they address data management (PII/non-PII) and hosting of the solution."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "As an open source-code solution, Sunbird Lern will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth.    Management of PII/non-PII data in Sunbird is purely a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (Sunbird is not a ‘hosted service or product’). Implementers/adopters of Sunbird, have the autonomy to decide “what” fields to be capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the Sunbird technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Sunbird Lern follows many best practices to keep user data safe and secure. Users are empowered to safeguard & share their data with appropriate consent management mechanisms. No personal data is shared among collaborators and only with explicit consent of all participating individuals, a collaboration flow can be triggered.  It is designed considering the laws of the country of its origin (India) with best in class implementation for governing privacy of users, data protection, and safety of minors. It collects data in an open, transparent, and consented manner - stores it safely & securely - and shares it as per the data sharing laws of the country with the appropriate consent from users and in an anonymised manner. Some of the steps taken to ensure safety of minors are: Minors can login only with parental consent Consented data sharing for all users Profile controls to modify and manage data stored against user profile Two-Factor Authentication (OTP based) Users join a Group by accepting an invite. No one can add a user to a group without their consent. Users can exit discussion areas at any time. Minors need to provide parental consent for authorisation flows. Content publishing workflow is built with a review step to ensure safe content is made available to users"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Sunbird Lern has a microservices for reporting and flagging. But, typically adopters extend this to cater to specific needs of the users and processes within their context. Users who take part in interactions using the discussion forum enabled via Sunbird Lern will have the ability to flag/ downvote conversations that they deem offensive or abusive. Threads that are thus flagged by users may eventually be removed by the moderator. The Discussion Forum component of the Sunbird Lern building block is enabled using the NodeBB community platform, which also provides the ability for users to flag threads via the configurations that it provides. ",
+        "The Code of conduct may be defined by an adopter based on the workflows that they choose to configure. An example is the code defined by a Sunbird adopter, DIKSHA, for various types of users including registered users, Course mentors or administrators in the DIKSHA system: https://diksha.gov.in/term-of-use.html"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
