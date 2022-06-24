@@ -7,10 +7,6 @@
   "website": "https://bloinx.io/",
   "license": [
     {
-      "spdx": "BSD-3-Clause-LBNL",
-      "licenseURL": "https://github.com/Bloinx/bloinx-v1/blob/main/LICENSE"
-    },
-    {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/mfluevano/bloinx-v1/blob/main/LICENSE"
     }
