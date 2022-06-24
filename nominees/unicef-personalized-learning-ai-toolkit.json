@@ -1,0 +1,34 @@
+{
+  "name": "UNICEF Personalized Learning AI Toolkit",
+  "aliases": [
+    ""
+  ],
+  "description": "An online website that organizes, curates, and provides education of 7 different AI learning personalization models’ documentation with an overall aim to increase learning outcomes for all children by leveraging the power of AI and making it accessible to both technical and non-technical users to implement and customize to existing LMS solutions. ",
+  "website": "https://www.unicef.org/innovation/aitoolkit",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://www.unicef.org/innovation/aitoolkit"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "This compendium of open source AI models and datasets helps country offices of education scale personalized learning solutions to increase learning outcomes in all children.",
+      "evidenceURL": "https://www.unicef.org/innovation/aitoolkit"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://www.unicef.org/innovation",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
