@@ -1,0 +1,106 @@
+{
+  "name": "Sunbird",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://sunbird.org/software-license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://docs.sunbird.org/latest/developer-docs/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Sunbird is an open-source software available under MIT License. To enable various capabilities, it stores primarily three types of data - users, assets, and transactional data. \nSunbird has APIs and tools to manage users, assets, and transactional data which uses JSON as the native data format. In some cases, tools have been developed to support import and export in CSV format."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "India's Personal Data Protection Bill (2019)",
+      "The IT Act (2000) for its implementation in India."
+    ],
+    "adherenceSteps": [
+      "Privacy policy: https://www.sunbird.org/privacy-policy",
+      "Terms & conditions: https://www.sunbird.org/terms-conditions"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "WCAG 2.0 - Level AA",
+      "OpenWeb Standard such as - HTML, CSS, ECMAScript, LaTeX",
+      "Standard Content Format such as PDF, MP4, WebM, H5P, ePub, and more",
+      "Educational Specifications such as IEEE Learning Object Model, QTI (Question & Test Interoperability)",
+      "Accessibility - WCAG, Internationalisation",
+      "Security - PKI, HTTPS, JWT"
+    ],
+    "evidenceStandardSupport": [
+      "Most of the standards are underlying technological standards which are not applicable for auditing. Sunbird as an open-source tool can be extended to comply or support more standards as necessary. For WCAG 2.0 - Level AA certification, we are working with Deque to help us audit it."
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird software has implemented many best practices to keep user data safe and secure. Users are empowered to safeguard and share their data with appropriate consent management mechanisms. Default software has implemented data collection in an open and transparent manner. Sunbird software implements principles of minimalism, consent, transparency of data collection, and other best practices. Sunbird has capabilities for curating and reviewing content before it is published for consumption. Please see earlier and following responses for details about privacy, safety of minors, and data security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "For user registration, Sunbird-Ed solution requires Email or Phone Number, a user name, and a high level (state/district level only) location to personalize content for learners (given India has 22 official languages across the country and learning also happens in local languages in addition to English)."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "As an open source-code solution, Sunbird will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth. \n Management of PII/non-PII data in Sunbird is purely a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (Sunbird is not a ‘hosted service or product’). Implementers/adopters of Sunbird, have the autonomy to decide “what” fields to be capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the Sunbird technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Sunbird is an open-source software that has implemented privacy and security best practices such as data minimalism, anonymization, consent, etc. has no data of its own. "
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Sunbird follows many best practices to keep user data safe and secure. Users are empowered to safeguard & share their data with appropriate consent management mechanisms. No personal data is shared among collaborators and only with explicit consent of all participating individuals, a collaboration flow can be triggered. \n It is designed considering the laws of the country of its origin (India) with best in class implementation for governing privacy of users, data protection, and safety of minors. It collects data in an open, transparent, and consented manner - stores it safely & securely - and shares it as per the data sharing laws of the country with the appropriate consent from users and in an anonymised manner. Some of the steps taken to ensure safety of minors are:",
+        " - Minors can login only with parental consent",
+        " - Consented data sharing for all users",
+        " - Profile controls to modify and manage data stored against user profile",
+        " - Two-Factor Authentication (OTP based)",
+        " - Users join a Group by accepting an invite. No one can add a user to a group without their consent.",
+        " - Users can exit discussion areas at any time",
+        " - Users can delete account",
+        " - Minors need to provide parental consent for authorisation flows",
+        " - Content publishing workflow is built with a review step to ensure safe content is made available to users"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Sunbird has a microservices for reporting and flagging. But, typically adopters extend this to cater to specific needs of the users and processes within their context."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}

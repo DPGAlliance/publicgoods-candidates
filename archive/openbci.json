@@ -1,0 +1,42 @@
+{
+  "name": "OpenBCI",
+  "aliases": [
+    "Open Source Brain-Computer Interfaces"
+  ],
+  "description": "They provide tools necessary to sample the electrical activity of their body, such as electrical brain activity (EEG), muscle activity (EMG), heart rate(ECG) and body movement.",
+  "website": "https://openbci.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/OpenBCI/OpenBCI_GUI/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "They believe that these discoveries will only be made through an open forum of shared knowledge and concerted effort, by people from a variety of disciplines. Their vision is to realise the potential of the open-source movement to accelerate innovation in brain science.",
+      "evidenceURL": "https://www.opensourceimaging.org/project/openbci/"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenBCI/OpenBCI_GUI"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenBCI",
+      "website": "https://openbci.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

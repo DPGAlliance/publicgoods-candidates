@@ -1,0 +1,34 @@
+{
+  "name": "Sugar",
+  "description": "The Sugar Learning Platform is a leading learning platform that began in the famous One Laptop Per Child project. It is used every day by nearly 3 million children around the world.",
+  "website": "https://www.sugarlabs.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/sugarlabs/sugar/blob/master/COPYING"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sugarlabs/sugar"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "SugarLabs",
+      "website": "https://sugarlabs.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

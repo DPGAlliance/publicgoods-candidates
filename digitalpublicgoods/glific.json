@@ -1,0 +1,94 @@
+{
+  "name": "Glific",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/glific/glific/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "API documentation: https://glific.github.io/slate/",
+      "Code documentation: https://glific.github.io/glific/",
+      "End user documentation: https://glific.slab.com/public/topics/glific-documentation-nb8345sh"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "To the best of our knowledge, Glific does not store any PII for the beneficiaries. The only potential PII that we collect and store is the beneficiary phone number (i.e. their whatsapp number). As such, as an open source project, we do not think GDPR applies to Glific."
+    ],
+    "adherenceSteps": [
+      "https://glific.org/glific-privacy-policy/",
+      "From a SaaS perspective, the NGO might decide to collect PII information and this is use case specific. We strongly recommend that NGOs do not collect this information if not required. We are in conversations with NGOs on what needs to be done to ensure that their install of Glific is GDPR compliant in this case,. and how the platform and potentially enable it. This is similar to the ODK ecosystem, where the various SaaS providers of ODK enforce and implement GDPR compliance"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Our primary end-user interface is WhatsApp client which is WCAG compliant. Our platform for the NGO is not compliant as yet."
+    ],
+    "evidenceStandardSupport": [
+      "https://faq.whatsapp.com/android/account-and-profile/about-accessibility-features-on-whatsapp/?lang=en"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "User Centered Design, Involve and interact with your user base on a frequent basis."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "This is dependent on our users. Glific is a platform, and users can use it in different ways",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "For our SaaS service we work with NGOs that are certified and have a known presence."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India",
+      "United States of America",
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "India",
+      "United States of America"
+    ]
+  }
+}

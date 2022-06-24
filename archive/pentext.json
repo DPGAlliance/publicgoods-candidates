@@ -1,0 +1,34 @@
+{
+  "name": "PenText",
+  "description": "The PenText XML documentation project is a collection of XML templates, XML schemas and XSLT code, which combined provide an easy way to generate IT security documents including test reports (for penetration tests, load tests, code audits, etc), offers (to companies requesting these tests) and invoices",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/radicallyopensecurity/pentext/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/radicallyopensecurity/pentext"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Radically Open Security",
+      "website": "https://radicallyopensecurity.com/index.htm",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

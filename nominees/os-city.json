@@ -1,0 +1,78 @@
+{
+  "name": "OS City",
+  "aliases": [
+    "Onesmart"
+  ],
+  "description": "An improved, self-sovereign digital ID to make life easy.",
+  "website": "https://os.city",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://gitlab.com/oscity/community/govtechwallet/-/blob/master/LICENSE"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://gitlab.com/oscity/community/cmp-did/-/blob/master/LICENSE.md"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://gitlab.com/oscity/community/cloud-functions-did/-/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://gitlab.com/oscity/community/certifier-did/-/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://gitlab.com/oscity/community/certviewer-did/-/blob/dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "We are facilitating the creation of new businesses and licenses and permits to operate by creating more agile public institutions and fraud-proof, digital official documents. Also, by providing a new digital identity we foster the creation of a network economy around the citizen."
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "We are facilitating the digital transition for public institutions to that they can get the most out of the web 3.0. We help them issue and manage every official document as a blockchain assets, and to send it to citizens digital wallets."
+    }
+  ],
+  "sectors": [
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "GovTech Wallet (Soberana Mobile App)",
+      "url": "https://gitlab.com/oscity/community/govtechwallet"
+    },
+    {
+      "name": "CMP DID (Certificates Management Platform)",
+      "url": "https://gitlab.com/oscity/community/cmp-did"
+    },
+    {
+      "name": "Cloud Functions DID (Automatic Blockchain Certifier)",
+      "url": "https://gitlab.com/oscity/community/cloud-functions-did"
+    },
+    {
+      "name": "Certifier DID (Blockcerts Certifier Improved)",
+      "url": "https://gitlab.com/oscity/community/certifier-did"
+    },
+    {
+      "name": "CertViewer DID  (Blockcerts Viewer Improved)",
+      "url": "https://gitlab.com/oscity/community/certviewer-did"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OS City",
+      "website": "https://os.city",
+      "org_type": "owner",
+      "contact_name": "Jesus Cepeda",
+      "contact_email": "j@os.city"
+    }
+  ],
+  "stage": "nominee"
+}

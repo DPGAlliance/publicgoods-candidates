@@ -1,0 +1,34 @@
+{
+  "name": "Participatory Budgeting",
+  "description": "OpenBudgets Participatory Budgeting aims to be a tool where citizens can express their budget allocation priorities during the budget approval process and along the lines and within the process defined by each administration concerned, but also a tool where citizens can monitor budget transactions, auditing budget compromised and giving feedback to the administrations.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/openbudgets/participatory-budgeting/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openbudgets/participatory-budgeting"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Budgets EU",
+      "website": "https://openbudgets.eu/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

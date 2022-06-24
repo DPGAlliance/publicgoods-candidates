@@ -1,0 +1,34 @@
+{
+  "name": "HospitalRun Server Routes",
+  "description": "Express server routes for HospitalRun",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/HospitalRun/hospitalrun-server-routes/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/HospitalRun/hospitalrun-server-routes"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "HospitalRun",
+      "website": "https://hospitalrun.io/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

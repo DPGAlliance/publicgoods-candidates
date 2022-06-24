@@ -1,0 +1,46 @@
+{
+  "name": "cupl NFC sensor platform",
+  "aliases": [
+    ""
+  ],
+  "description": "A Near-field communication (NFC) tag that records temperature and humidity.",
+  "website": "https://cupl.co.uk/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/cuplsensor/cuplbackend/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Can be used to monitor goods in the cold chain.",
+      "evidenceURL": "https://cupl.co.uk/index.php/benefits/cold-chain/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Helps to address problems with poorly ventilated buildings",
+      "evidenceURL": "https://cupl.co.uk/index.php/benefits/at-home/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cuplsensor/cuplbackend"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Plotsensor Ltd.",
+      "website": "https://cupl.co.uk/",
+      "org_type": "owner",
+      "contact_name": "Malcolm Mackay",
+      "contact_email": "malcolm@plotsensor.com"
+    }
+  ],
+  "stage": "nominee"
+}

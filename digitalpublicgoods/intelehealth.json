@@ -1,0 +1,113 @@
+{
+  "name": "Intelehealth",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview",
+      "https://github.com/Intelehealth/Android-Mobile-Client",
+      "https://github.com/Intelehealth/Intelehealth-WebApp",
+      "https://sites.google.com/a/intelehealth.io/team-wiki/the-intelehealth-platform/openmrs/openmrs-development-guide"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "DPA - Data Protection Act, Phillipines: https://docs.google.com/spreadsheets/d/1doSLgybdhUL42HR11kP4di3wVuUeZ30HLGjj7RfYBjc/edit#gid=0",
+      "IT Act 2000, India"
+    ],
+    "adherenceSteps": [
+      "Terms of service - https://intelehealth.org/terms-of-use/",
+      "Privacy policy - https://intelehealth.org/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7",
+      "CCD / CDA Export"
+    ],
+    "evidenceStandardSupport": [
+      "https://wiki.openmrs.org/pages/viewpage.action?pageId=69075133"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "User Center design",
+      "OWASP top 10 standard",
+      "Agile Methodologies",
+      "S.O.L.I.D",
+      "Don't Repeat Your self (DRY)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Risk Assess and Risk Treatment Plan - https://docs.google.com/spreadsheets/d/1szWmJSUI9yZgJogTsxyQQAfAzIRVmqBi/edit#gid=391261868"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Gender",
+        "DOB",
+        "Mobile No",
+        "Address",
+        "Son / Daughter / Wife of",
+        "Occupation",
+        "Cast",
+        "Economics status",
+        "Education level",
+        "Health Vital / medical history",
+        "Past and family medical history"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All data transfer through HTTPS (SSL) & user level security is maintained through SHA-512 encryption with roles & privileges. Privacy policy - https://intelehealth.org/privacy-policy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We are not registering Underage users"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://github.com/Intelehealth/Android-Mobile-Client/blob/master-2.0/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Kyrgyzstan",
+      "Philippines"
+    ]
+  }
+}
