@@ -25,8 +25,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/wildlifeai/pepeketua_landmarks",
-      "name": "Landmark detection for frogs"
+      "name": "Landmark detection for frogs",
+      "url": "https://github.com/wildlifeai/pepeketua_landmarks"
     }
   ],
   "organizations": [
