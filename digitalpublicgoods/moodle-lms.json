@@ -12,41 +12,48 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "Installation guide - https://docs.moodle.org/400/en/Installation_quick_guide",
       "https://docs.moodle.org"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Backup, restores, different open data extraction formats or SQL queries against the DB"
+    "nonPIIAccessMechanism": "Backup, restores, different open data extraction formats or SQL queries against the DB. Reference - https://docs.moodle.org/400/en/Migration_from_Moodle"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "https://gdpr-info.eu/"
+      "GDPR"
     ],
     "adherenceSteps": [
-      "https://docs.moodle.org/400/en/GDPR",
-      "https://moodle.com/news/moodles-data-protection-pledge-commitment/"
+      "Moodle's data protection pledge of commitment - https://moodle.com/news/moodles-data-protection-pledge-commitment/",
+      "https://docs.moodle.org/400/en/GDPR"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "https://www.imsglobal.org/activity/learning-tools-interoperability",
-      "https://www.imsglobal.org/question/index.html",
-      "https://xapi.com/overview/"
+      "JWT",
+      "Oauth2",
+      "XSD",
+      "XAPI",
+      "XSLT",
+      "XML"
     ],
     "evidenceStandardSupport": [
       "https://docs.moodle.org/400/en/LTI_and_Moodle",
       "https://docs.moodle.org/400/en/Migration_from_Moodle",
       "https://docs.moodle.org/dev/Experience_API_(xAPI)",
       "https://moodle.com/security-privacy/",
-      "https://docs.moodle.org/dev/Privacy_API"
+      "https://docs.moodle.org/dev/Privacy_API",
+      "https://www.imsglobal.org/activity/learning-tools-interoperability",
+      "https://www.imsglobal.org/question/index.html",
+      "https://xapi.com/overview/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "All of them: Design with the user, Understand the existing ecosystem, Design for scale, Build for sustainability, Be data driven, Use open standard, open data, open source and open innovation, Reuse and improve, Address privacy and security, Be collaborative"
+      "Principles for Digital Development: Design with the user, Understand the existing ecosystem, Design for scale, Build for sustainability, Be data driven, Use open standard, open data, open source and open innovation, Reuse and improve, Address privacy and security, Be collaborative"
     ]
   },
   "doNoHarm": {
@@ -73,7 +80,7 @@
       "contentFilter": "No",
       "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "No",
-      "illegalContentDetectionMechanism": ""
+      "illegalContentDetectionMechanism": "Learning materials - The project is neutral regarding content, and all moderation is left to the institution deploying the software."
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
