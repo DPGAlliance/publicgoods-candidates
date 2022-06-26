@@ -16,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -30,15 +32,15 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
-    "bestPracticesList": [
-      "Many of the listed Principles for Digital Development are used by Treejer including \"Design With the User, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Source, Make Open Innovation, Reuse and Improve, Be Collaborative\""
-    ],
     "standardsList": [
       "Web Design and Applications, HTML & CSS, JavaScript Web APIs, Graphics, Audio and Video, Accessibility, Internationalization, Mobile Web, Privacy"
     ],
     "evidenceStandardSupport": [
       "https://validator.w3.org/nu/?doc=https%3A%2F%2Ftreejer.com%2F"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Many of the listed Principles for Digital Development are used by Treejer including \"Design With the User, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Source, Make Open Innovation, Reuse and Improve, Be Collaborative\""
     ]
   },
   "doNoHarm": {
@@ -52,13 +54,27 @@
         "Only when adding planters on the supply side, we temporarily verify personal data (name and phone number) to prevent sybils and bots from impersonating tree planters. This will be replaced with a more decentralized method in the future.."
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "https://docs.treejer.com/project-charter"
       ]
