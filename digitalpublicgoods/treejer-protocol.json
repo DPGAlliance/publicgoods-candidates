@@ -12,7 +12,10 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://docs.treejer.com"
+      "https://docs.treejer.com",
+      "https://github.com/treejer/mobile",
+      "https://github.com/treejer/contract/blob/main/CONTRIBUTING.md",
+      "https://github.com/treejer/web/blob/master/CONTRIBUTING.md"
     ]
   },
   "NonPII": {
@@ -33,7 +36,14 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Web Design and Applications, HTML & CSS, JavaScript Web APIs, Graphics, Audio and Video, Accessibility, Internationalization, Mobile Web, Privacy"
+      "HTML & CSS",
+      "JavaScript Web APIs",
+      "Graphics",
+      "Audio and Video",
+      "Accessibility",
+      "Internationalization",
+      "Mobile Web",
+      "Privacy"
     ],
     "evidenceStandardSupport": [
       "https://validator.w3.org/nu/?doc=https%3A%2F%2Ftreejer.com%2F"
@@ -58,7 +68,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Privacy policy - https://docs.treejer.com/privacy-policy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -74,9 +84,9 @@
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "Yes",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
-        "https://docs.treejer.com/project-charter"
+        ""
       ]
     }
   },
