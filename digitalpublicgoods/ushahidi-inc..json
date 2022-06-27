@@ -2,7 +2,7 @@
   "name": "Ushahidi Inc.",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://drive.google.com/file/d/1QCh6aCmh5su_G_RobyyIonfgOqMXRQhi/view?usp=sharing"
+    "copyrightURL": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
