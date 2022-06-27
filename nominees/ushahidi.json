@@ -1,9 +1,9 @@
 {
-  "name": "Ushahidi Inc.",
+  "name": "Ushahidi",
   "aliases": [
     ""
   ],
-  "description": "Empowering communities to advance social change through accessible technology solutions",
+  "description": "The Ushahidi Platform helps communities turn information into action with an intuitive and accessible crowdsourcing and mapping tool. By enabling the rapid collection, management and analysis of crowdsourced information, Ushahidi empowers everyone—individuals, community groups, governments, activists, organizations—to create meaningful change. Empowering communities to advance social change through accessible technology solutions",
   "website": "https://www.ushahidi.com/",
   "license": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "SDGNumber": 16,
-      "evidenceText": "\tThis is where Ushahidi's strength lies in as it encapsulates two of our three key focus areas: good governance and human rights protection. On good governance, Ushahidi was born out of an electoral crisis — here in Kenya. Ushahidi in practice can be read in the published paper titled “Crowdsourcing Accountability in a Nigerian Election” in the Journal of Information Technology & Politics by Catie Snow Bailard & Steven Livingston, proving that the use of Ushahidi – ReclaimNaija (http://www.reclaimnaija.net/)- increased voter turnout in the 2011 Nigerian election by 8%). Additionally,  Ushahidi has been used to monitor elections in India, Zambia, Mozambique, Nigeria, the USA and many other countries over the past decade. Our strategy has evolved from being primarily reactionary, to proactively engaging with ordinary citizens and stakeholders to help foster transparency and accountability in elect  The United Nations (UN) has a long history of working to maintain peace and security around the world. It strives to improve relations among nations and protect human rights. The UN Department of Field Services uses the Ushahidi platform for their peacekeeping operations. Called SAGE—Situational Awareness Geospatial Enterprise—the UN uses the Ushahidi platform to collect, processes and disseminates information from their field staff, so the mission HQ has a better understanding of what’s happening on the ground, can triage accordingly, and can make better decisions.",
+      "evidenceText": "This is where Ushahidi's strength lies in as it encapsulates two of our three key focus areas: good governance and human rights protection. On good governance, Ushahidi was born out of an electoral crisis — here in Kenya. Ushahidi in practice can be read in the published paper titled “Crowdsourcing Accountability in a Nigerian Election” in the Journal of Information Technology & Politics by Catie Snow Bailard & Steven Livingston, proving that the use of Ushahidi – ReclaimNaija (http://www.reclaimnaija.net/)- increased voter turnout in the 2011 Nigerian election by 8%). Additionally,  Ushahidi has been used to monitor elections in India, Zambia, Mozambique, Nigeria, the USA and many other countries over the past decade. Our strategy has evolved from being primarily reactionary, to proactively engaging with ordinary citizens and stakeholders to help foster transparency and accountability in elect  The United Nations (UN) has a long history of working to maintain peace and security around the world. It strives to improve relations among nations and protect human rights. The UN Department of Field Services uses the Ushahidi platform for their peacekeeping operations. Called SAGE—Situational Awareness Geospatial Enterprise—the UN uses the Ushahidi platform to collect, processes and disseminates information from their field staff, so the mission HQ has a better understanding of what’s happening on the ground, can triage accordingly, and can make better decisions.",
       "evidenceURL": "https://www.ushahidi.com/about/blog/keeping-the-peace-the-un-department-of-field-services-and-peacekeeping-operations-use-of-ushahidi"
     }
   ],
@@ -39,8 +39,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/ushahidi/platform/",
-      "name": "Platform"
+      "name": "main",
+      "url": "https://github.com/ushahidi/platform/"
     }
   ],
   "organizations": [
