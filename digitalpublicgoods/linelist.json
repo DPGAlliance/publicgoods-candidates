@@ -18,17 +18,17 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The linelist package provides a storage mechanism in the R software for case line list data (the most common type of epidemiological data), as well as ‘accessors’ to retrieve specific data fields. The entire package is open-source, including these accessors. We assume that data will be mostly non-PII, but it is the user's responsibility to ensure that confidentiality is respected if they store PII in their linelist."
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The software provides a data format for storing case line list data, and routines to handle/retrieve this data. Like other open document formats such as ods, it makes no assumption on the degree of confidentiality of the data stored. We provide a privacy disclaimer on our website"
     ],
     "adherenceSteps": [
-      ""
+      "https://github.com/epiverse-trace/linelist#data-privacy"
     ]
   },
   "standards": {
@@ -79,7 +79,7 @@
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "linelist is a data processing software package and not an online communication platform, where the risk of harassment would require elaborate prevention mechanisms. However, our project encourages collaboration between developers and end-users, typically health professionals. These interactions are protected by our code of conduct, which is documented on our website"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
