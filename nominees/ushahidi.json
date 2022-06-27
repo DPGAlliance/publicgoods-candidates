@@ -1,0 +1,56 @@
+{
+  "name": "Ushahidi",
+  "aliases": [
+    ""
+  ],
+  "description": "The Ushahidi Platform helps communities turn information into action with an intuitive and accessible crowdsourcing and mapping tool. By enabling the rapid collection, management and analysis of crowdsourced information, Ushahidi empowers everyone—individuals, community groups, governments, activists, organizations—to create meaningful change. Empowering communities to advance social change through accessible technology solutions",
+  "website": "https://www.ushahidi.com/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Harassmap. Born as a response to the persistent problem of sexual harassment on the streets of Egypt, to which society had become increasingly tolerant. It was the first independent initiative to work on this issue and was launched in December 2010 by a founding group of four women together with tech partners, advisers, and volunteers. It generated mass public dialogue, pushed the National Council for Women and several members of parliament to draft new laws, inspired a first successful court case, and encouraged women's NGOs who had previously been reluctant to take on this issue, to form an 18 member NGO Task Force on Sexual Harassment. In an independent review (https://www.ushahidi.com/in-action/towards-a-safer-city) of Harassmap.org, they concluded that the Ushahidi map is an effective tool for data collection for sensitive issues, encouraging more participation and sometimes more truthful reports than other typical data collection means. The map is no longer active. ",
+      "evidenceURL": "https://harassmap.org/en/"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "Following the COVID pandemic, there was been an increased use of the Ushahidi platform globally by organizations and individuals self-organizing to provide mutual aid, document COVID-19 testing experiences, and create visibility on where to access essential resources for vulnerable communities. Ushahidi is supporting over 2000 deployments in over 140 countries and this number is growing. One such engagement was Humanitarian Open Street Maps (HOT) in Indonesia that set up a deployment to track and publicise handwashing stations across Indonesia to allow easier access for residents. The idea was inspired by early expert advice deeming handwashing as an effective way to prevent the spread of the virus. ",
+      "evidenceURL": "https://handwashing-station.ushahidi.io/views/map"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Ushahidi was one of four organizations to win a Global Adaptation Index (GAIN) Prize in its inaugural year for its adaptation to urbanization, population growth, climate change and other global challenges (https://www.ushahidi.com/about/blog/ushahidi-wins-global-adaptation-index-prize). One such climate change deployment is the Hatfield Climate Resilience-MVP Plan that crowdsourced information about Hatfield and its climate resilinece (https://mvp.ushahidi.io/views/map). A second example is the Tana River Climate Change & Livelihoods Restoration Project (https://tclirp.ushahidi.io/views/map) by World Vision Kenya that aims to contribute to enabling environmental policy implementation, governance, and environmental management through evidence generation using crowd geo-tagging.",
+      "evidenceURL": "https://www.ushahidi.com/about/blog/ushahidi-wins-global-adaptation-index-prize"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "This is where Ushahidi's strength lies in as it encapsulates two of our three key focus areas: good governance and human rights protection. On good governance, Ushahidi was born out of an electoral crisis — here in Kenya. Ushahidi in practice can be read in the published paper titled “Crowdsourcing Accountability in a Nigerian Election” in the Journal of Information Technology & Politics by Catie Snow Bailard & Steven Livingston, proving that the use of Ushahidi – ReclaimNaija (http://www.reclaimnaija.net/)- increased voter turnout in the 2011 Nigerian election by 8%). Additionally,  Ushahidi has been used to monitor elections in India, Zambia, Mozambique, Nigeria, the USA and many other countries over the past decade. Our strategy has evolved from being primarily reactionary, to proactively engaging with ordinary citizens and stakeholders to help foster transparency and accountability in elect  The United Nations (UN) has a long history of working to maintain peace and security around the world. It strives to improve relations among nations and protect human rights. The UN Department of Field Services uses the Ushahidi platform for their peacekeeping operations. Called SAGE—Situational Awareness Geospatial Enterprise—the UN uses the Ushahidi platform to collect, processes and disseminates information from their field staff, so the mission HQ has a better understanding of what’s happening on the ground, can triage accordingly, and can make better decisions.",
+      "evidenceURL": "https://www.ushahidi.com/about/blog/keeping-the-peace-the-un-department-of-field-services-and-peacekeeping-operations-use-of-ushahidi"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ushahidi/platform/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ushahidi Inc.",
+      "website": "https://www.ushahidi.com/",
+      "org_type": "owner",
+      "contact_name": "Rhoda Omenya",
+      "contact_email": "rhoda@ushahidi.com"
+    }
+  ],
+  "stage": "nominee"
+}
