@@ -59,25 +59,30 @@
         "Telephone number"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Reports",
       "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user",
       "illegalContentDetection": "No",
-      "policyGuidelinesDocumentationLink": "https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user"
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Identify the risk",
         "Assess the risk",
         "Treat the risk",
         "Monitor and report the risk"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Identify the issue",
         "Assess the issue",
@@ -90,6 +95,8 @@
     "developmentCountries": [
       "Kenya"
     ],
-    "deploymentCountries": []
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
