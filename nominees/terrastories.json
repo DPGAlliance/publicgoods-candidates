@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "An open-source application for mapping place-based oral histories",
+  "description": "An open-source application for mapping place-based oral histories. Powered by the Mapbox platform, Terrastories is designed to be entirely offline-compatible, so that remote communities can access the application entirely without needing internet connectivity. ",
   "website": "https://terrastories.io",
   "license": [
     {
@@ -29,7 +29,7 @@
   ],
   "repositories": [
     {
-      "name": "Terrastories codebase",
+      "name": "main",
       "url": "https://github.com/terrastories/terrastories"
     }
   ],
