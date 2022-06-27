@@ -15,7 +15,9 @@
       "https://github.com/digitalfabrik/integreat-app#readme",
       "https://github.com/digitalfabrik/integreat-cms#readme",
       "https://wiki.integreat-app.com/knowledgebase",
-      "https://wiki.integreat-app.com/selfhosted"
+      "https://wiki.integreat-app.com/selfhosted",
+      "https://digitalfabrik.github.io/integreat-cms/",
+      "Installation guide - https://digitalfabrik.github.io/integreat-cms/installation.html"
     ]
   },
   "NonPII": {
@@ -26,7 +28,7 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR compliant (checked with the Bavarian data protection agency) early on. "
+      "GDPR compliant (checked with the Bavarian data protection agency) early on."
     ],
     "adherenceSteps": [
       "We use a privacy-by-design approach in all software and all features. Here is our data privacy policy: https://integreat-app.de/en/privacy-policy/"
@@ -34,6 +36,12 @@
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Design with the user: Research paper \"Supporting Refugees in Every Day Life – Intercultural Design Evaluation of an Application for Local Information\" on design of Integreat's apps: https://mediatum.ub.tum.de/node?id=1362264",
@@ -62,7 +70,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Privacy policy - https://integreat-app.de/en/privacy-policy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
