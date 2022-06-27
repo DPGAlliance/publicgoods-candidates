@@ -1,0 +1,41 @@
+{
+  "name": "Eco-Index Biodiversity Dashboards",
+  "aliases": [
+    ""
+  ],
+  "description": "Digital dashboards and related tools help users to monitor and set goals around biodiversity levels.",
+  "website": "https://eco-index.nz/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/eco-index/ecoindex-stack/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15,
+      "evidenceText": "The digital tools that Eco-index creates help users to track and understand the health of terrestrial biodiversity over time. This is relevant to all terrestrial ecosystem types (forests, wetlands, etc.). The tool is also being designed for use by local and national governments that are looking to bring their own biodiversity targets--often in line with SDGs."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "Ecoindex-stack",
+      "url": "https://github.com/eco-index/ecoindex-stack"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Eco-Index",
+      "website": "https://eco-index.nz/",
+      "org_type": "maintainer",
+      "contact_name": "Nathaniel Calhoun",
+      "contact_email": "Nathaniel@codeinnovation.com"
+    }
+  ],
+  "stage": "nominee"
+}
