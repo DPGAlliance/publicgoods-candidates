@@ -13,10 +13,6 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 8,
-      "evidenceText": "Open Collective enables communities to be sustainable by unlocking access to funding and enabling communities to employ their members. "
-    },
-    {
       "SDGNumber": 10,
       "evidenceText": "Open Collective enables communities to be sustainable by unlocking access to funding they otherwise wouldn't be able to access.",
       "evidenceURL": "https://opencollective.foundation"
@@ -44,7 +40,8 @@
     {
       "name": "Open Collective Inc.",
       "website": "https://opencollective.com",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_email": "info@opencollective.com"
     }
   ],
   "stage": "nominee"
