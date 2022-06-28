@@ -1,0 +1,41 @@
+{
+  "name": "OKOO",
+  "aliases": [
+    "okoo"
+  ],
+  "description": "online educational platform",
+  "website": "https://okoo.kz/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "it is online educational platform for public schools",
+      "evidenceURL": "https://okoo.kz/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/DinmukhamedJunussov/okoo-landing",
+      "name": "okoo-landing"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Millennium Education Technologies",
+      "website": "https://okoo.kz/",
+      "org_type": "owner",
+      "contact_name": "Dimash",
+      "contact_email": "dimash.junusov@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
