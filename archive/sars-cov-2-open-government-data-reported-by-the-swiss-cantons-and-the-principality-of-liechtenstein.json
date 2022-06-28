@@ -1,0 +1,32 @@
+{
+  "name": "SARS-CoV-2 Open Government Data reported by the Swiss Cantons and the Principality of Liechtenstein",
+  "description": "A common official OGD dataset of SARS-CoV-2 cases for the Swiss Authorities. SARS-CoV-2 case numbers are provided in machine-readable form (CSV) as OGD resources (Open Government Data), that have been published by official sources (Cantons and FL) online.",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://github.com/openZH/covid_19/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openZH/covid_19"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The Canton of Zurich",
+      "org_type": "owner",
+      "contact_email": "datashop@statistik.zh.ch"
+    }
+  ],
+  "stage": "nominee"
+}

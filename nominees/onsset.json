@@ -1,7 +1,7 @@
 {
   "name": "OnSSET",
   "description": "A GIS based optimization tool, developed to support electrification planning and decision making.",
-  "website": "http://www.onsset.org/",
+  "website": "https://www.onsset.org/",
   "license": [
     {
       "spdx": "MIT",
@@ -21,11 +21,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OnSSET/onsset",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OnSSET/onsset"
+    }
+  ],
   "organizations": [
     {
       "name": "OnSSET",
-      "website": "http://www.onsset.org/",
+      "website": "https://www.onsset.org/",
       "org_type": "owner"
     }
   ],

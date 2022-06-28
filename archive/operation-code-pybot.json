@@ -1,0 +1,37 @@
+{
+  "name": "Operation Code Pybot",
+  "description": "Operation Code's Official Slackbot",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/OperationCode/operationcode-pybot/blob/staging/LICENSE.MD"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OperationCode/operationcode-pybot"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Operation Code",
+      "website": "https://www.operationcode.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

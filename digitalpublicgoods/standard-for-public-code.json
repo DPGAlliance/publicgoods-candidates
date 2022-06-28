@@ -1,0 +1,107 @@
+{
+  "name": "Standard for Public Code",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://standard.publiccode.net/GOVERNANCE.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/publiccodenet/standard"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "The project encourages users to avoid sharing sensitive data on their own platforms. \n Reference: https://standard.publiccode.net/criteria/code-in-the-open.html"
+    ],
+    "adherenceSteps": [
+      "The Standard for Public Code is best practice guidance for developing open source software projects. Though public bodies implementing the Standard are subject to laws, the Standard itself is not. The Standard does not encourage illegal behavior."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The Standard requires or strongly encourages users to meet or use:",
+      "Web Content Accessibility Guidelines 2.1 (https://www.w3.org/TR/WCAG21/) ",
+      "Public code (https://github.com/italia/publiccode.yml)",
+      "Business Process Model and Notation (BPMN)",
+      "Decision Model Notation (DMN)",
+      "Case Management Model Notation (CMMN)",
+      "Open Source Initiative Open Standard Requirements (https://opensource.org/osr)",
+      "Open Source Institute approved open source license (https://opensource.org/licenses/category)",
+      "RFC 2119"
+    ],
+    "evidenceStandardSupport": [
+      "WCAAG 2: https://standard.publiccode.net/criteria/understandable-english-first.html#requirements",
+      "publiccode.yml: https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html#requirements",
+      "BPMN, DMN or CMMN: https://standard.publiccode.net/criteria/bundle-policy-and-code.html#policy-makers:-what-you-need-to-do",
+      "Open standards: https://standard.publiccode.net/criteria/open-standards.html#requirements",
+      "Open source licence: https://standard.publiccode.net/criteria/open-licenses.html",
+      "RFC 2119: https://standard.publiccode.net/readers-guide.html"
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The target audience is public organizations that have ethics and value based policies already. We remind them to document that publicly in our criterion \"Document your objectives\":  https://standard.publiccode.net/criteria/document-objectives.html"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The project encourages users to avoid sharing sensitive data on their own platforms."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "All contributors to the Standard for Public Code must follow the [Code of Conduct](https://standard.publiccode.net/CODE_OF_CONDUCT.html). This sets out our values and explains how we handle Code of Conduct violations.\n\n[Contributing](https://standard.publiccode.net/CONTRIBUTING.html) explains our review process. Though no times are listed, in practice contributions are usually checked within 2 hours during business hours, Monday-Friday. We have set up automatic alerts to notify us when a new contribution is made."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The project does not identify, collect or store the age of the audience, nor enforce age limits. The target audience to use the Standard are civil servants (policy makers, managers), and developers and designers. Anyone is allowed to contribute to the Standard via the GitHub repository. Contributions must abide by our code of conduct."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Our code of conduct is enforced as follows:",
+        "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at directors@publiccode.net. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.",
+        "Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Netherlands"
+    ],
+    "deploymentCountries": [
+      "Netherlands",
+      "France",
+      "Germany",
+      "Denmark"
+    ]
+  }
+}

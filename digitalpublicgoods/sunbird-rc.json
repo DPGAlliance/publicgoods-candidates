@@ -1,0 +1,106 @@
+{
+  "name": "Sunbird RC",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://sunbird.org/software-license "
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.sunbirdrc.dev"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Sunbird RC is an open-source software available under MIT License enabling adopters to build core electronic registries through configurable schemas and workflows. Sunbird RC adopters may configure their Sunbird RC based registry instance to collect PII or non-PII and hence Sunbird RC has implemented many best practices to keep user data safe and secure such as attribute visibility, user consent, data security, etc. \n Sunbird RC is completely built on  APIs that allow data stored in registries to be exported as JSON as the native data format. In some cases, tools have been developed to support import and export in CSV format as well."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "India Information Technology Act (2000)",
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "As an open source-code solution, Sunbird RC will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth. \nManagement of PII/non-PII data in Sunbird RC is purely a “highly extensible/configurable/non-opinionated open-software solution” through configurable registry schemas, and it’s source code lies in GitHub (Sunbird RC is not a ‘hosted service or product’). Implementers/adopters of Sunbird RC, have the autonomy to decide “what” fields to be capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the Sunbird RC technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data). \nFor the Indian implementations of Sunbird RC, the software has gone through audits and certification by the country's premier agencies conducting such audits for national digital infrastructure."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Web Standards - HTML, CSS, JavaScript",
+      "Security - PKI, HTTPS, JWT, SFTP, OpenID Connect, SAML 2.0, RS256, HS256, AES, ES256",
+      "Networking - TCP/IP",
+      "Credentialing standard - W3C VC"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Sunbird-RC/sunbird-rc-core",
+      "https://docs.sunbirdrc.dev/use/sso-with-existing-systems"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design Principles:",
+      "Minimalism and Decentralisation (federated). Registries should be built for specific purposes containing just enough attributes for serving that purpose. Registries should leverage other existing registries, avoid creating multiple sources of truths,  and allowing other federated linked registries to be built on top.",
+      "Accountability & Non-repudiability. Complexity is an inherent characteristic of large-scale ecosystems, and solutions can not be trusted and sustained if the authenticity of authorship and validity of contracts can be repudiated. Registry will enable non-repudiation of authorship and contracts as an embedded feature using user authentication and digital signatures.",
+      "Empowerment & Self-maintainability. Empowering data owners, by giving them the ability to view, initiate correction and control how their information is accessed or used, by giving them the ability to give and withdraw consent at the attribute level (consent-based architecture).",
+      "Security & Consented Access. Ensuring that data is exchanged in a secured manner with well defined privacy rules and in alignment with access allowed by data owner and issuer.",
+      "Universal Access & Open APIs. Universal Access & Open APIs",
+      "Registries based on these principles will drive data accuracy and build trust in the system among the actors of the ecosystem.",
+      "Reference: https://docs.sunbirdrc.dev/learn/design-principles"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird RC software has implemented many best practices to keep user data safe and secure such as attribute visibility, user consent, data security, etc."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "As an open source-code solution, Sunbird RC will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth. Sunbird RC is an open-source software available enabling adopters to build core electronic registries through configurable schemas and workflows. Sunbird RC adopters may configure their Sunbird RC based registry instance to collect PII or non-PII and hence Sunbird RC has implemented many best practices to keep user data safe and secure such as attribute visibility, user consent, data security, etc.",
+        "Management of PII/non-PII data in Sunbird RC is purely a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (Sunbird RC is not a ‘hosted service or product’). Implementers/adopters of Sunbird RC, have the autonomy to decide “what” fields to be capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the Sunbird RC technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Management of PII/non-PII data in Sunbird RC is purely a “highly extensible/configurable/non-opinionated open-software solution”, and it’s source code lies in GitHub (Sunbird RC is not a ‘hosted service or product’). Implementers/adopters of Sunbird RC, have the autonomy to decide “what” fields to be capture/maintain, “what” other systems will they integrate with, “will” they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the Sunbird RC technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Sri Lanka",
+      "Philippines",
+      "Ethiopia"
+    ]
+  }
+}

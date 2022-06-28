@@ -1,7 +1,7 @@
 {
   "name": "Open Foris Collect Mobile",
   "description": "Open Foris Collect Mobile is a fast, intuitive and flexible data collection tool for field-based surveys. This Android app allows the completion of complex data structures, such as biophysical, socio-economic or biodiversity surveys.",
-  "website": "http://www.openforis.org/newwebsite/tools/collect-mobile.html",
+  "website": "https://www.openforis.org/newwebsite/tools/collect-mobile.html",
   "license": [
     {
       "spdx": "MIT",
@@ -32,11 +32,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openforis/collect-mobile",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openforis/collect-mobile"
+    }
+  ],
   "organizations": [
     {
       "name": "Food and Agriculture Organization (FAO) of the United Nations",
-      "website": "http://www.fao.org/home/en/",
+      "website": "https://www.fao.org/home/en/",
       "org_type": "owner"
     }
   ],

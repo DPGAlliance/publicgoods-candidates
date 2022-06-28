@@ -1,0 +1,46 @@
+{
+  "name": "Fedora Linux",
+  "aliases": [
+    "Fedora"
+  ],
+  "description": "A complete free and open source operating system for laptops, desktops, servers, devices, clouds, and containers",
+  "website": "https://fedoraproject.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://fedoraproject.org/wiki/Legal:Licenses/LicenseAgreement"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Free access to our open source technology and community provides industry connections and the ability to learn best practices in an established technology project. Community members learn real skills that are relevant in the global job market.",
+      "evidenceURL": "https://www.zdnet.com/article/the-most-popular-fedora-linux-in-years-rolls-out/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Our project mission is directly aligned: Fedora creates an innovative platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.",
+      "evidenceURL": "https://www.zdnet.com/article/the-most-popular-fedora-linux-in-years-rolls-out/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://src.fedoraproject.org/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Fedora Project",
+      "website": "https://fedoraproject.org",
+      "org_type": "owner",
+      "contact_name": "Matthew Miller",
+      "contact_email": "mattdm@fedoraproject.org"
+    }
+  ],
+  "stage": "DPG"
+}

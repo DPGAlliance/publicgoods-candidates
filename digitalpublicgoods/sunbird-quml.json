@@ -1,0 +1,105 @@
+{
+  "name": "Sunbird QuML",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/sunbird-specs/QuML/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://quml.sunbird.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      "Not Applicable"
+    ],
+    "adherenceSteps": [
+      "QuML (Question Markup Language) is a markup structure to represent any kind of question for various use-cases. Privacy is not relevant in this case as it doesn't deal with any transaction or user data. QuML is a specification for storage, representation, and distribution. It allows interoperability between systems. "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "OpenWeb Standard such as - HTML, CSS, JavaScript, LaTeX",
+      "Educational Specifications such as IEEE Learning Object Model, QTI (Question & Test Interoperability)"
+    ],
+    "evidenceStandardSupport": [
+      "Most of the standards are underlying technological standards which are inherently supported within the QuML specifications - https://github.com/sunbird-specs/QuML"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Unified and not Uniform",
+      "Embrace Diversity",
+      "Unbundle for reusability",
+      "Replaceability",
+      "Interoperability",
+      "Configurability",
+      "Scalable",
+      "Observability",
+      "Resilience",
+      "Privacy & Security by design",
+      "Trust by design",
+      "Leverage commoditization, adopt heterogeneity",
+      "Adopt open standards and open source",
+      "Adopt extreme automation",
+      "Reference - https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird microservices are built such that every microservice captures every action and interaction on the platform naturally emits anonymized confidentiality protecting, privacy protecting data stream, automatically, and accumulated through the Sunbird telemetry infrastructure, so that extraction of data is avoided."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Sunbird platform uses data minimalism and data protection architecture to achieve privacy and security by design."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}

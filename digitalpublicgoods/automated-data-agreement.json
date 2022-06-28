@@ -1,0 +1,96 @@
+{
+  "name": "Automated Data Agreement",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/decentralised-dataexchange/automated-data-agreements"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/docs/data-agreement-specification.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://igrant.io/privacy.html#privacy",
+      "https://igrant.io/terms.html"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Decentralised Identifiers: https://www.w3.org/TR/did-core/",
+      "DID Method Registry: https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/docs/did-spec.md"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/docs/did-spec.md",
+      "https://www.w3.org/TR/did-spec-registries/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "This includes agile project management, CI/CD, automation, monitoring, observability, and continuous feedback.",
+      "Architectual principles: We follow a microservice architecture"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The project aims to protect the individuals' rights (as per GDPR) while creating a win win towards organisations in their digitalisation journey (by GDPR compliance and privacy by design). With the ADA project both organisations can prove their lawful use of data and individuals can monitor and audit any personal data transaction."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "iGrant.io maintains appropriate standard security practices, including encryption, passwords and physical security measures, as well as management procedures to protect the security and confidentiality of your personal data. Only a limited number of persons within LCubed AB are authorised to access, modify and delete your personal data that is stored on the www.igrant.io website. In case of any data breach, we will promptly inform our users of it as per the regulatory guideline."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Code of conduct - https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/CODE-OF-CONDUCT.md"
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/CODE-OF-CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden",
+      "India",
+      "Finland"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

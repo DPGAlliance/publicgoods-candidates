@@ -1,0 +1,32 @@
+{
+  "name": "Healthcare Rollcall",
+  "description": "This system will provide methods for healthcare providers to check-in with public health agencies during disasters, and update their information during non-emergency periods.",
+  "website": "https://healthcarerollcall.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/CodeForBaltimore/Healthcare-Rollcall/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/CodeForBaltimore/Healthcare-Rollcall"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for Baltimore",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

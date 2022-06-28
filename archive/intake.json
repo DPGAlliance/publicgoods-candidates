@@ -1,0 +1,34 @@
+{
+  "name": "Intake",
+  "description": "A Django project behind the Clear My Record website",
+  "website": "https://www.clearmyrecord.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforamerica/intake/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforamerica/intake"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

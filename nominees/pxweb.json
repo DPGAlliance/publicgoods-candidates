@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Web application for disseminating statistical tables.",
+  "description": "Web application for publishing statistics in data for government agencies and other organisations. Improves access to data, helping develop partnerships between stakeholders in the SDGs.",
   "website": "https://www.scb.se/px-web",
   "license": [
     {
@@ -14,14 +14,20 @@
   "SDGs": [
     {
       "SDGNumber": 17,
-      "evidenceText": "PxWeb is been used to disseminate SDG. UNECE has with Statistics Sweden and Statistics Norway arranged a workshop to help other organizations to build capacity to be able do disseminate the SDGs with PxWeb.  "
+      "evidenceText": "PxWeb is a software that enables publishing of statistics which further the SDGs by improving access to data which can help countries and organisations develop better partnerships. \n UNECE and Statistics Sweden and Statistics Norway organised a workshop for other organisations specifically on 'PxWeb as a dissemination tool for SDG indicators'. This is in line with targets 17.6, 17.7, 17.14, 17.6, 17.17 and 17.19.",
+      "evidenceURL": "https://unece.org/statistics/documents/2021/03/presentations/pxweb-dissemination-tool-sdg-indicators-sweden-unsd-pcbs"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/statisticssweden/PxWeb",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/statisticssweden/PxWeb"
+    }
+  ],
   "organizations": [
     {
       "name": "Statistics Sweden",
@@ -31,5 +37,5 @@
       "contact_email": "pc-axis@scb.se"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

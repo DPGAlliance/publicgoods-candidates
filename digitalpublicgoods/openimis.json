@@ -1,0 +1,100 @@
+{
+  "name": "openIMIS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://openimis.atlassian.net/wiki/spaces/OP/pages/40566798/Licenses"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The software originally was built on the Microsoft stack, so while the code has been released as open source, there were dependencies on MS products and servers. However, since 2017 a complete rearchitecture of the system is in process, which includes the development of the software using a modular architecture, and also using open source programming languages and databases. The new modules are developed to run side-by-side to the older versions (MS based) until the full transition in complete - after which there will be no further dependencies."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Documentation: http://docs.openimis.org/en/latest/",
+      "Use cases: https://openimis.atlassian.net/wiki/spaces/OP/pages/40665130/Implementations"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "The software is deployed on local servers when implementation is done in-country, and local laws surrounding privacy are adhered to. In the schemes in Nepal and Tanzania, the Ministry of Health and the President's Office, Regional Administration and Local Government respectively responsible for the implementation of the software."
+    ],
+    "adherenceSteps": [
+      "https://openimis.org/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Health Level 7 Fast Health Interoperability Resource (FHIR)"
+    ],
+    "evidenceStandardSupport": [
+      "https://openimis.atlassian.net/wiki/spaces/OP/pages/1233649676/openIMIS+FHIR+R4+Overview+Page"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles of Digital Development, and standards prescribed by the Open Health Information Exchange (www.ohie.org)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "openIMIS will retain any, including personal, data entered into the openIMIS demo server for a maximum period of one week."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "The openIMIS initiative as a ‘project’ only collects data through user approved sign-ups for our newsletter and our collaboration platform (Atlassian Confluence). The data collected through both the platforms are mainly email addresses and user provided names (could also be aliases). This data is not shared with any third parties and the data is collected using third party platforms (Atlassian for our collaboration platform and Mailchimp for the newsletter), and they are governed by the GDPR.",
+        "The openIMIS product does have the functionality to collect various data of users, including names, date of birth, ID number, phone number and also a (limited) medical treatment history. However the product is not hosted by the initiative, and thus anyone wanting to implement it would need to ensure that the data protection regulations of the area of jurisdiction are met. For example, the Health Insurance Board of Nepal uses openIMIS to manage the National Health Insurance of the country – so they deploy openIMIS as their own system and ensure that data confidentiality and data privacy regulations from the Government of Nepal are met. That being said, openIMIS does offer various levels of data security functionality for the implementers of the tool to use – particularly centered around role based access (read only, write only, none, or both) to data within the openIMIS system. Additionally, the openIMIS initiative provides security guidance on deploying openIMIS: Infrastructure security - openIMIS - openIMIS Wiki (atlassian.net), and also a template to do security assessments of implementations: Security assessment template - openIMIS - openIMIS Wiki (atlassian.net)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "When you submit data using the Apps or the web interface, the data collected from you will be stored the Web-embed server. If collected via the app, they will be: \n -stored on the IMIS folder in your root directory for the photos and connection tokens \n - in the application database located in the application folder for the other information (not accessible for non-root user). \n\n Those data are erased after synchronisation with the service of generation of an export archive (encrypted via password, stored in the IMIS folder). Sensitive information exchanged between your browser and our website is transmitted in encrypted form using Transport Layer Security (TLS)"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "As an open source community, the openIMIS initiative encourages interactions between various users and contributors within the initiative. In such interactions, the openIMIS community is guided by our Contributor Covenant Code of Conduct: Contributor Covenant Code of Conduct - openIMIS - Confluence (atlassian.net). The openIMIS coordination desk monitors the activities in the various forums and platforms, which can only be accessed after a registration and is committed to ensuring the safety and security of all our users and contributors."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "While there are no formal procedures in place, we believe in respectful, open communication between the community members and strive ensure this through constant engagement with the community."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Tanzania",
+      "Nepal",
+      "Germany",
+      "Switzerland",
+      "Belgium"
+    ],
+    "deploymentCountries": [
+      "Tanzania",
+      "Nepal",
+      "Chad",
+      "Cameroon"
+    ]
+  }
+}

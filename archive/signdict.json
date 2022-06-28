@@ -1,0 +1,44 @@
+{
+  "name": "SignDict",
+  "aliases": [
+    ""
+  ],
+  "description": "SignDict is an open sign language dictionary in which you can contribute to its source code or to the dictionary itself by adding a sign that is missing. SignDict believes that communication is the key to an open society and has created a living dictionary to help increase the integration of deaf communities.",
+  "website": "https://signdict.org/?locale=en",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/signdict/website/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "SignDict goal is to create the first interactive sign language dictionary in which everyone can participate without the need for technical knowledge. The reason for this is so that people with disabilities can easily communicate with other people. This also enables people to effectively communicate with people with disabilites",
+      "evidenceURL": "https://signdict.org/about"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "SignDict goal is to create the first interactive sign language dictionary in which everyone can participate without the need for technical knowledge. The reason for this is so that people with disabilities can easily communicate with other people. This also enables people to effectively communicate with people with disabilites",
+      "evidenceURL": "https://signdict.org/about"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/signdict/website"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "SignDict",
+      "website": "https://signdict.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

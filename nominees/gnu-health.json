@@ -1,0 +1,50 @@
+{
+  "name": "GNU Health",
+  "aliases": [
+    "MyGNUHealth",
+    "GNU Health Federation",
+    "Thalamus"
+  ],
+  "description": "GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine.",
+  "website": "https://www.gnuhealth.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://hg.savannah.gnu.org/hgweb/health/file/aa07cb2bcb15/COPYING"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues. GNU Health ecosystem contains a Hospital management and information system, a Personal Health Record and a federation server to interconnect user and health institutions",
+      "evidenceURL": "https://www.gnuhealth.org/about-us.html"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues",
+      "evidenceURL": "https://www.gnuhealth.org/about-us.html"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "GNU Health",
+      "url": "https://hg.savannah.gnu.org/hgweb/health/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "GNU Solidario",
+      "website": "https://www.gnusolidario.org",
+      "org_type": "owner",
+      "contact_name": "Selene Cordara",
+      "contact_email": "scordara@gnusolidario.org"
+    }
+  ],
+  "stage": "DPG"
+}
