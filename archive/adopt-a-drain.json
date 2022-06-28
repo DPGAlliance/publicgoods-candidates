@@ -1,0 +1,34 @@
+{
+  "name": "Adopt a Drain",
+  "description": "A web application that allows citizens to \"adopt\" a storm drain in San Francisco. ",
+  "website": "https://adoptadrain.sfwater.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/sfbrigade/adopt-a-drain/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sfbrigade/adopt-a-drain"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for SF",
+      "website": "https://codeforsanfrancisco.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "archive"
+}

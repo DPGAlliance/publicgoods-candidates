@@ -1,0 +1,111 @@
+{
+  "name": "Sempo",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://withsempo.com/legal/platform-terms"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Amazon SES can easily be replaced with open alternatives for sending mail such as Flask-mail (https://flask-mail.readthedocs.io/en/latest/), a library which abstracts the SMTP interface"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.withsempo.com/",
+      "https://github.com/teamsempo/SempoBlockchain/wiki",
+      "Infrastructure & stack - https://github.com/teamsempo/SempoBlockchain/wiki/Technical-Overview"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be imported and exported into Excel and CSV formats \n Sempo can automatically sync with KoboToolbox, so no manual upload is required (https://docs.withsempo.com/integrations/kobotoolbox)\n Sempo also integrates with CommCare (https://docs.withsempo.com/integrations/commcare)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "AML/CTF by Financial Action Task Force and AUSTRAC",
+      "We adhere to the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) and to the extent applicable, the EU General Data Protection Regulation (GDPR)."
+    ],
+    "adherenceSteps": [
+      "https://withsempo.com/legal/privacy-policy/",
+      "https://withsempo.com/legal/platform-terms/",
+      "https://withsempo.com/legal/aml-policy/",
+      "SOC 2 Type 1"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/teamsempo/SempoBlockchain/wiki/Technical-Overview"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile software development",
+      "12 Factor App (https://12factor.net/)",
+      "CI/CD and Code Review",
+      "We follow Human Centered Design for all product design and development cycles."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "SOC 2 ensures all our policies and controls follow industry best practice when providing Software Services to customers. We are SOC 2 Type 1 compliant for trust service criteria Security, Availability, Processing Integrity and Confidentiality as of March 2021. This ensures customer data is protected and secured at all times. Here is an overview on SOC 2 https://www.imperva.com/learn/data-security/soc-2-compliance/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://drive.google.com/file/d/12UE3JUc-WwTyXGz9oEeuMjYgmLQ63TZJ/view?usp=sharing"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "Sempo supports a number of integrations including:",
+        "- KoboToolbox (https://docs.withsempo.com/integrations/kobotoolbox)",
+        "- Commcare (https://docs.withsempo.com/integrations/commcare)",
+        "- SurveyCTO (https://docs.withsempo.com/integrations/surveycto)"
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://withsempo.com/legal/privacy-policy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "Vanuatu",
+      "Iraq",
+      "Lebanon",
+      "Greece",
+      "Venezuela",
+      "Papua New Guinea",
+      "Kenya"
+    ]
+  }
+}

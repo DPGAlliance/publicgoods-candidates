@@ -1,0 +1,34 @@
+{
+  "name": "Ask",
+  "description": "A better way for journalists to manage forms, submissions, and galleries. Because journalism needs everyone.",
+  "website": "https://github.com/coralproject/ask",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/coralproject/ask/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/coralproject/ask"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The Coral Project",
+      "website": "https://coralproject.net/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "archive"
+}
