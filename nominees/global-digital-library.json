@@ -4,7 +4,7 @@
     "GDL"
   ],
   "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
-  "website": "https://home.digitallibrary.io/",
+  "website": "https://digitallibrary.io",
   "license": [
     {
       "spdx": "CC-BY-3.0",
@@ -24,7 +24,12 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/GlobalDigitalLibraryio/book-api"
+    }
+  ],
   "organizations": [
     {
       "name": "Global Book Alliance",

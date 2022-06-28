@@ -1,0 +1,34 @@
+{
+  "name": "Refuge Restrooms",
+  "description": "REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. ",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RefugeRestrooms/refugerestrooms"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Refuge Restrooms",
+      "website": "https://www.refugerestrooms.org/about",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

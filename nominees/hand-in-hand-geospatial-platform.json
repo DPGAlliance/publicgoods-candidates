@@ -4,11 +4,11 @@
     ""
   ],
   "description": "The Hand-in-Hand Geospatial Platform is a supporting tool for the Hand-in-Hand (HiH) Initiative, an evidence-based, country-led and country-owned initiative to accelerate the Sustainable Development Goals (SDGs), SDG1 and SDG 2, using the most sophisticated tools available, including advanced geo-spatial modeling and analytics to identify the biggest opportunities to raise the incomes and reduce the inequities and vulnerabilities of rural populations, who constitute the vast majority of the world's poor. The platform brings together over 20 technical units from multiple domains across FAO, from Animal Health to Trade and Markets, integrating data from across FAO on Soil, Land, Water, Climate, Fisheries, Livestock, Crops, Forestry, Trade, Social and Economics, among others.",
-  "website": "http://www.fao.org/hih-geospatial-platform/en/",
+  "website": "https://www.fao.org/hih-geospatial-platform/en/",
   "license": [
     {
       "spdx": "CC-BY-NC-SA-3.0",
-      "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+      "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
     }
   ],
   "SDGs": [
@@ -40,15 +40,20 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "FAO",
-      "website": "http://www.fao.org/",
+      "website": "https://www.fao.org/",
       "org_type": "owner",
       "contact_name": "Karl Morteo",
       "contact_email": "karl.morteo@fao.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

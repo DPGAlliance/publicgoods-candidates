@@ -1,0 +1,94 @@
+{
+  "name": "InaSAFE",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://www.inasafe.org/about-inasafe/governance/index.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "For developers - https://github.com/inasafe/inasafe/wiki",
+      "For users - http://inasafe.org/for-users/index.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "InaSAFE is a BYOD (Bring Your Own Data) platform that runs locally on your own computer. The outputs that it produces are in the open GeoPackage format."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "We do not collect cookies or store any personally identifiable data, usage etc. of our users. InaSAFE is a desktop application that runs locally on your own computer. InaSAFE does not share the data you use with any third party, including the InaSAFE project itself."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "InaSAFE runs on top of QGIS, a desktop GIS application. QGIS itself supports a wide number ot standards complaint data sources, in particular the WMS, WFS, WCS, CSW OGC (Open Geospatial Consortium) standards for accessing GeoSpatial data online."
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/inasafe/inasafe"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile software development",
+      "Unit testing",
+      "Code compliance (PEP8, Flake8 etc.)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our algorithms are implemented as rigorously as possible and all reports produced include a list of assumptions, caveats and other descriptive metadata to prevent users of the reports making poor contingency plans based on the data presented."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "InaSAFE is a desktop app. We do not collect any personal data."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Interaction is via GitHub which manages platform engagement. The target audience for this community is skilled users of the InaSAFE software (expected age 20+), and discussion is limited to topics relating to software implementation and use. At this point, we have no reason to believe that any underage users are participating in the project.",
+        "In regards to the InaSAFE software itself, access controls are established by the countries or organizations implementing the software, which is targeted at professional users."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Zero tolerance approach to abuse. We adhere to the community guidelines of QGIS itself: https://www.qgis.org/en/site/getinvolved/governance/codeofconduct/codeofconduct.html"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Indonesia"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

@@ -1,28 +1,58 @@
 {
   "name": "Book Dash",
-  "description": "Book Dash gathers creative volunteers to create new African storybooks that anyone can freely print, translate and distribute.",
-  "website": "https://bookdash.org",
+  "aliases": [
+    ""
+  ],
+  "description": "Book Dash is a South African social impact publisher of free books for very young children. Our vision is that “Every child should own a hundred books by the age of five”, before they enter school! Book Dash gather volunteers to create new, African picturebooks that anyone can read, re-use, download, adapt and share.",
+  "website": "https://bookdash.org/",
   "license": [
     {
-      "spdx": "CC-BY-SA-4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://bookdash.org/books/"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 4
+      "SDGNumber": 1,
+      "evidenceText": "Access to books from a young age (books that are relevant, high-quality, and in mothertongue) is a key component to literacy development. Increasing levels of literacy has been shown on a micro and macro economic level to reduce poverty and inequality.",
+      "evidenceURL": "https://www.dropbox.com/s/yzbmzzvv9d2hq47/2010_gustafsson_the-costs-of-illiteracy.pdf?dl=0"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The WHO's Nurturing Care Framework outline the five components needed for young children and their carers to thrive (rather than merely survive) in health and wellbeing. Access to quality, relatable books in home languages play a vital supportive role in two of those components: Access to early learning opportunities and responsive caregiving. We need to think of early development of the whole child and books play a role in wellbeing and develop socio-emotional skills such as empathy and resilience, as much as they encourage cognitive development.",
+      "evidenceURL": "https://nurturing-care.org/about/why-nurturing-care/?page_id=1331"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Increased access to books plays a fundamental role in quality education. Early access is appealing reading materials is linked to reading performance and quality is education is unlocked when a children can read fluently, with comprehension.",
+      "evidenceURL": "https://www.dropbox.com/s/cwb60g6c5opp80d/2017_National_Literacy_Trust_-_Book_ownership_and_reading-outcomes_-_December_2017.pdf?dl=0"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Increased access to books plays a fundamental role in providing quality education. Having many books from a young age has been proven to propel children further into education, increase chances of academic and economic success and reduce inequality.",
+      "evidenceURL": "https://www.sciencedaily.com/releases/2010/05/100520213116.htm"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
   ],
   "organizations": [
     {
       "name": "Book Dash",
       "website": "https://bookdash.org/",
-      "org_type": "owner"
+      "org_type": "maintainer",
+      "contact_name": "Julia",
+      "contact_email": "julia@bookdash.org"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
