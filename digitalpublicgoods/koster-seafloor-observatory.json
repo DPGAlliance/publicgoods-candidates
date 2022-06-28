@@ -1,0 +1,48 @@
+{
+  "name": "Koster Seafloor Observatory",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://biodiversitydata.se/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://bdj.pensoft.net/article/60548/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden"
+    ],
+    "deploymentCountries": [
+      "Sweden"
+    ]
+  }
+}
