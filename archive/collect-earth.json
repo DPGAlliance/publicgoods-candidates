@@ -1,0 +1,36 @@
+{
+  "name": "Collect Earth",
+  "description": "Collect Earth is a tool that enables data collection through Augmented Visual Interpretation. In conjunction with Google Earth, Bing Maps and Google Earth Engine, users can analyze high and very high resolution satellite imagery for a wide variety of purposes, including,  Support multi-phase National Forest Inventories - Land Use, Land Use Change and Forestry (LULUCF) assessments - Monitoring agricultural land and urban areas - Validation of existing maps - Collection of spatially explicit socio-economic data - Quantifying deforestation, reforestation and desertification. Its user friendliness and smooth learning curve make it a perfect tool for performing fast, accurate and cost-effective assessments. It is highly customizable for the specific data collection needs and methodologies.",
+  "website": "https://www.openforis.org/tools/collect-earth.html",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openforis/collect-earth/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Collect Earth has been used to set baselines for ecosystem restoration projects, to support the establishment of National Forest Monitoring Systems NFMS (http://www.fao.org/in-action/png-multipurpose-national-forest-inventory/es/) and it is one of he most important tools used by countries in the REDD+ initiative to set the Forest Reference Emission Levels (FREL) that allow for deforestation monitoring (i.e. FRELS of Panama, Belize or Mexico: https://redd.unfccc.int/submissions.html)",
+      "evidenceURL": "https://www.wri.org/publication/mapping-together-monitor-forest-landscape-restoration"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openforis/collect-earth"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "FAO - Open Foris Initiative",
+      "website": "https://www.openforis.org/newwebsite/home.html",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

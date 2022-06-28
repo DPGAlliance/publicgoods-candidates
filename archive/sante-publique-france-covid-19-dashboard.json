@@ -1,0 +1,32 @@
+{
+  "name": "Santé publique France COVID-19 Dashboard",
+  "description": "Santé Publique France, the French public health agency responsible for monitoring health security and implementing appropriate responses, has compiled official information on the COVID-19 outbreak from regional health agencies, prefectures, and other authorities and represented this information graphically in a dashboard.",
+  "website": "https://dashboard.covid19.data.gouv.fr/vue-d-ensemble",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/etalab/covid19-dashboard/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/etalab/covid19-dashboard"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Santé Publique France",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

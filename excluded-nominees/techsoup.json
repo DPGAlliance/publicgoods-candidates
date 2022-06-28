@@ -1,0 +1,35 @@
+{
+  "name": "techsoup",
+  "aliases": [
+    ""
+  ],
+  "description": "TechSoup equips changemakers with transformative technology solutions and skills they need to improve lives globally and locally.",
+  "website": "https://www.techsoup.org/",
+  "license": [
+    {
+      "spdx": "Artistic-2.0",
+      "licenseURL": "https://github.com/newrelic/nr-ngo-validation-serverless/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "TechSoup's mission is to build a dynamic bridge that leverages technology to enable connections and innovative solutions for a more equitable planet.",
+      "evidenceURL": "https://meet.techsoup.org/about-us/mission-and-values/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/newrelic/nr-ngo-validation-serverless",
+  "organizations": [
+    {
+      "name": "Tech Soup",
+      "website": "https://www.techsoup.org/",
+      "org_type": "owner",
+      "contact_email": "https://www.techsoup.org/about-us/contact-us"
+    }
+  ],
+  "stage": "nominee"
+}

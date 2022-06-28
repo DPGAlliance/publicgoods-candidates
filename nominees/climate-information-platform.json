@@ -1,0 +1,83 @@
+{
+  "name": "Climate Information Platform",
+  "aliases": [
+    "CIP"
+  ],
+  "description": "Providing climate science basis with easy access to many pre-calculated climate indicators of weather and water in the past, present and future, for better planning of climate adaptation and mitigation activities.",
+  "website": "https://climateinformation.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://climateinformation.org/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters."
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 2.4: By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases."
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 6.3: By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally."
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 7.2: By 2030, increase substantially the share of renewable energy in the global energy mix."
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 9a: Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States."
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 11.5:  By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations."
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal  12.2:  By 2030, achieve the sustainable management and efficient use of natural resources. "
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 13.1:  Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries."
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 15.1: By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Scientific basis of weather and water information to reach sub goal 17.6: Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism."
+    }
+  ],
+  "sectors": [
+    "Climate"
+  ],
+  "type": [
+    "data",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Swedish Meteorological and Hydrological Institute (SMHI)",
+      "website": "https://smhi.com/",
+      "org_type": "implementer",
+      "contact_name": "Frida Gyllensvärd",
+      "contact_email": "frida.gyllensvard@smhi.se"
+    }
+  ],
+  "stage": "DPG"
+}

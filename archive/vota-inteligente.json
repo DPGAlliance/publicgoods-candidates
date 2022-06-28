@@ -1,0 +1,37 @@
+{
+  "name": "Vota Inteligente",
+  "description": "Web platform for citizen participation in which any person or organization can propose initiatives to electoral candidates so that they add them to their electoral commitments.",
+  "website": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ciudadanía Inteligente",
+      "website": "https://ciudadaniai.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

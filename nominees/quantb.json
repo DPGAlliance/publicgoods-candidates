@@ -1,7 +1,10 @@
 {
   "name": "QuanTB",
-  "description": "An electronic quantification and early warning system designed to improve procurement processes, ordering, and supply planning for TB treatment.",
-  "website": "https://github.com/MSH/QuanTB",
+  "aliases": [
+    ""
+  ],
+  "description": "QuanTB is an electronic quantification and early warning system designed to improve procurement processes, ordering, and supply planning for tuberculosis (TB) treatment.",
+  "website": "https://msh.org/resources/quantb/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -10,25 +13,30 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
-    },
-    {
-      "SDGNumber": 16
-    },
-    {
-      "SDGNumber": 17
+      "SDGNumber": 3,
+      "evidenceText": "When used on a regular basis, QuanTB serves as an early warning system by providing information on actual versus planned consumption, impending expiries, and stock-outs of medicines.",
+      "evidenceURL": "https://msh.org/resources/quantb/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/MSH/QuanTB",
+  "repositories": [
+    {
+      "name": "QuanTB",
+      "url": "https://github.com/MSH/QuanTB"
+    }
+  ],
   "organizations": [
     {
       "name": "Management Sciences for Health",
       "website": "https://www.msh.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "The Digital Team",
+      "contact_email": "digital@msh.org"
     }
   ],
   "stage": "nominee"

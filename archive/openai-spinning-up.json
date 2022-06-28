@@ -1,0 +1,37 @@
+{
+  "name": "OpenAI Spinning Up",
+  "description": "An educational resource to help anyone learn deep reinforcement learning.",
+  "website": "https://spinningup.openai.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openai/spinningup/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openai/spinningup"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenAI",
+      "website": "https://openai.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

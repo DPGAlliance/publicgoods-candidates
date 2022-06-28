@@ -19,7 +19,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Non personally identifiable information can be extracted from OpenCRVS through a non-proprietary export of performance management reports (in csv format). This will include non-PII data such as the no. of applications received, no. of certificates issued, configurable by date and vital event, and disaggregated by gender.Regarding import, OpenCRVS enables the upload of country reference data such as the full administrative structure including statistical IDs, population sizes, crude birth/death rates by location, health facilities, civil registration offices, all in a non-proprietary format. "
+    "nonPIIAccessMechanism": "Non personally identifiable information can be extracted from OpenCRVS through a non-proprietary export of performance management reports (in csv format). This will include non-PII data such as the number of applications received, number of certificates issued, configurable by date and vital event, and disaggregated by gender. Regarding import, OpenCRVS enables the upload of country reference data such as the full administrative structure including statistical IDs, population sizes, crude birth/death rates by location, health facilities, civil registration offices, all in a non-proprietary format. "
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -46,10 +46,10 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development (https://digitalprinciples.org/)",
-      "Principles on Identification for Sustainable Development (http://documents1.worldbank.org/curated/en/213581486378184357/pdf/Principles-on-identification-for-sustainable-development-toward-the-digital-age.pdf)",
-      "Handbook on Civil Registration and Vital Statistics Systems: Management, Operation and Maintenance (https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Handbooks/crvs/crvs-mgt-E.pdf)",
-      "See OpenCRVS design principles here: https://documentation.opencrvs.org/opencrvs-core/docs/system_overview/designPrinciples"
+      "Principles for Digital Development - https://digitalprinciples.org/",
+      "Principles on Identification for Sustainable Development - http://documents1.worldbank.org/curated/en/213581486378184357/pdf/Principles-on-identification-for-sustainable-development-toward-the-digital-age.pdf",
+      "Handbook on Civil Registration and Vital Statistics Systems: Management, Operation and Maintenance - https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Handbooks/crvs/crvs-mgt-E.pdf",
+      "OpenCRVS design principles - https://documentation.opencrvs.org/opencrvs-core/docs/system_overview/designPrinciples"
     ]
   },
   "doNoHarm": {

@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Yes. Note that this software has additional permissions and terms beyond the standard AGPLv3 license, all issued in alignment with Section 7 of the main license.",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes; both description and website substantiate nexus to SDG10 targets.",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "The link leads to extensive documentation about the project, including to the code repository which has a clear copyright statement in the standard AUTHORS file.",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Detailed documentation for installation and operation.",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "Yes, presuming the API returns data in a non-obstructed format, which, although generally the case, this response does not explain the output.",
+    "confidence": 4
+  },
+  "user": "downeymj",
+  "timestamp": 1636688098,
+  "timeTaken": 561
+}

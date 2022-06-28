@@ -1,0 +1,109 @@
+{
+  "name": "OpenLMIS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://openlmis.atlassian.net/wiki/spaces/OP/overview"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://openlmis.org/get-started/developer/",
+      "https://openlmis.atlassian.net/wiki/spaces/OP/pages/88670494/Functional+Documentation",
+      "https://openlmis.org/wp-content/uploads/2020/07/OpenLMIS_FeaturesOverview_FINAL.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://openlmis.org/privacy-policy/",
+      "https://openlmis.org/terms-and-conditions/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "FHIR Location",
+      "GTIN",
+      "GLN",
+      "IHE mCSD",
+      "HTTP",
+      "REST",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://openlmis.atlassian.net/wiki/spaces/OP/pages/561446913/OpenLMIS+Interoperability?search_id=5f16741d-9ab1-4dd3-98d9-cd9a8d9e19ff"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We actively engage with our users, implementing partners, and associated Ministries of Health to track how the software is being used, rolled out, and the impact it is having on communities. We document lessons learned, share successes and challenges throughout our community via written materials and encourage dialogue through our multiple committees and online discussion forum. We have also held annual in-person OpenLMIS Community Meetings to document feedback from in-country user experiences. By maintaining an open line of communication with our community we are on the pulse of OpenLMIS use and if any issues arose or harm was caused we would utilize our community resources and structures to be able to respond accordingly."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Job Title",
+        "Home Facility",
+        "Email Address",
+        "Phone Number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Personal data is stored in one of our contact management databases, which are accessible by our employees and service providers (processors). We work with the database platforms and any service providers to ensure your data are protected."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Malawi",
+      "Angola",
+      "Benin",
+      "Guinea",
+      "Côte d'Ivoire",
+      "Mozambique",
+      "Zambia",
+      "Tanzania"
+    ]
+  }
+}
