@@ -44,8 +44,8 @@
   ],
   "repositories": [
     {
-      "url": "https://gitlab.gnome.org/explore/projects/trending",
-      "name": "Platform components: Libraries and services"
+      "name": "Platform components: Libraries and services",
+      "url": "https://gitlab.gnome.org/explore/projects/trending"
     }
   ],
   "organizations": [
