@@ -1,8 +1,8 @@
 {
   "name": "AP Latam",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://ap-latam.dymaxionlabs.com/en/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
