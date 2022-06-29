@@ -1,0 +1,58 @@
+{
+  "name": "XR Accessibility Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [],
+    "adherenceSteps": [
+      "Only points to publicly available documents and resources"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Clear hierarchy of items, alt text for all images"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Guidelines and code snippets for accessible XR",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform",
+      "illegalContentDetectionMechanism": "Only content submitted through the resource suggestion form and approved by moderators is shared"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
