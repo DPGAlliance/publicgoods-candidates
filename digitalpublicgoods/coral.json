@@ -5,7 +5,7 @@
     "copyrightURL": "https://coralproject.net/about-2/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
@@ -33,8 +33,7 @@
     "supportStandards": "Yes",
     "standardsList": [
       "JWT standards https://docs.coralproject.net/sso ",
-      "Structured object types via RESTful-like API through GraphQL https://docs.coralproject.net/api/schema",
-      "CI linting https://github.com/coralproject/talk/blob/develop/CONTRIBUTING.md"
+      "Structured object types via RESTful-like API through GraphQL https://docs.coralproject.net/api/schema"
     ],
     "evidenceStandardSupport": [
       "https://app.circleci.com/pipelines/github/coralproject/talk"
@@ -42,7 +41,8 @@
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "https://digitalprinciples.org/",
-      "https://www.mozilla.org/en-US/about/manifesto/"
+      "https://www.mozilla.org/en-US/about/manifesto/",
+      "CI linting https://github.com/coralproject/talk/blob/develop/CONTRIBUTING.md"
     ]
   },
   "doNoHarm": {
@@ -61,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "https://docs.coralproject.net/gdpr"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -74,6 +74,9 @@
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "The entire platform is built around best-in-class safety and moderation tools. Users can mute each other, flag/report abusive content, and moderators have dozens of dedicated tools to help spot, remove, and take action against grief, abuse, harassment "
