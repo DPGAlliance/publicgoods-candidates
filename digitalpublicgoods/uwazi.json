@@ -2,7 +2,7 @@
   "name": "Uwazi",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://uwazi.readthedocs.io/"
+    "copyrightURL": "https://uwazi.io/en/page/w4feakb1j3p/about"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,9 +12,9 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://huridocs.org/latest/?news_types%5B%5D=project-spotlight",
-      "https://github.com/huridocs/uwazi#readme",
       "https://uwazi.readthedocs.io/",
+      "Installation guide - https://github.com/huridocs/uwazi#development",
+      "Dependencies - https://github.com/huridocs/uwazi#dependencies",
       "https://huridocs.org/technology/uwazi/"
     ]
   },
@@ -30,16 +30,20 @@
     ],
     "adherenceSteps": [
       "Cookies Policy - https://huridocs.org/cookies-policy/",
-      "Privacy Policy - https://huridocs.org/privacy-policy/ "
+      "Privacy Policy - https://huridocs.org/privacy-policy/"
     ]
   },
   "standards": {
     "supportStandards": "No",
     "standardsList": [
-      ""
+      "HTML",
+      "CSS",
+      "JSON",
+      "JavaScript",
+      "REST API"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/huridocs/uwazi#development"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -71,10 +75,10 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "Hosting and processing: the HURIDOCS Websites and HURIDOCS Applications/Tools are hosted by third party service providers and therefore any personal details you submit through a HURIDOCS Website and/or HURIDOCS Applications/Tools may be processed by that third party service provider. We may also use other third parties to process your personal details. For example, such third parties may process your personal information to process donations to HURIDOCS on our behalf or process and forward mailing information for users to sign up to our online actions and/or choose to subscribe to our email updates. All of these third party services providers will process your personal information only on HURIDOCS’ behalf and will be bound by strict confidentiality conditions. Link: https://huridocs.org/privacy-policy/"
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Hosting and processing: the HURIDOCS Websites and HURIDOCS Applications/Tools are hosted by third party service providers and therefore any personal details you submit through a HURIDOCS Website and/or HURIDOCS Applications/Tools may be processed by that third party service provider. We may also use other third parties to process your personal details. For example, such third parties may process your personal information to process donations to HURIDOCS on our behalf or process and forward mailing information for users to sign up to our online actions and/or choose to subscribe to our email updates. All of these third party services providers will process your personal information only on HURIDOCS’ behalf and will be bound by strict confidentiality conditions. Link: https://huridocs.org/privacy-policy/"
+      "privacySecurityDescription": "Uwazi only uses cookies for users that log in into the platform, for example, to upload content into the instance. We might also use third party cookies, on the request of a partner, for example, Google Analytics. We collect IP address information for security reasons and statistical analysis of the traffic, and keep an access log during 3 months. For more details visit the Cookies Policy - https://huridocs.org/cookies-policy/ "
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
