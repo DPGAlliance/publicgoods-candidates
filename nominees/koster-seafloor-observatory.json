@@ -9,6 +9,10 @@
     {
       "spdx": "CC-BY-4.0",
       "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/ocean-data-factory-sweden/koster_ml/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -26,8 +30,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/ocean-data-factory-sweden/koster_data_management",
-      "name": "Github repository for the system data flow"
+      "name": "Github repository for the system data flow",
+      "url": "https://github.com/ocean-data-factory-sweden/koster_data_management"
     },
     {
       "name": "Github repository for the machine learning model",
