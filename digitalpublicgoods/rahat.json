@@ -63,7 +63,7 @@
         "Vendors - Name, Phone Number, Email, Address Image: Vendor’s profile image and Government identification document",
         "Social mobilizers - Name, Phone Number, Email, Address  Image: social mobilizer’s profile image and Government identification document"
       ],
-      "thirdPartyDataSharing": "Yes",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
