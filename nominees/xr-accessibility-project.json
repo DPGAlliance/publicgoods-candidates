@@ -1,0 +1,39 @@
+{
+  "name": "XR Accessibility Project",
+  "aliases": [
+    "XRAP"
+  ],
+  "description": "An index of resources for people creating accessible XR (extended reality) applications.",
+  "website": "https://github.com/XRAccessibility/xraccessibility.github.io",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/README.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Supports accessible communication, training, and education XR infrastructure so that people with disabilities can benefit from the new applications of these technologies."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Reduces inequality by ensuring equitable access to new technologies."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "XR Access",
+      "website": "https://xraccess.org",
+      "org_type": "maintainer",
+      "contact_name": "Dylan Fox",
+      "contact_email": "dylan@xraccess.org"
+    }
+  ],
+  "stage": "nominee"
+}
