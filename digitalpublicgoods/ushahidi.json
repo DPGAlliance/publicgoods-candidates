@@ -67,7 +67,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "How we protect data: \n- https://www.ushahidi.com/support/data-security \n. -https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user"
+      "privacySecurityDescription": "How we protect data: \n- https://www.ushahidi.com/support/data-security \n. -https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user \n-A deployer's obligation to protect his audience  https://www.ushahidi.com/support/deployer-obligations-under-the-gdpr"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
