@@ -1,5 +1,5 @@
 {
-  "name": "Ushahidi Inc.",
+  "name": "Ushahidi",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
@@ -18,12 +18,13 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "1. PII: https://docs.ushahidi.com/platform-developer-documentation/untitled/security-for-deployment-admins#personally-identifiable-information, \n2. How we protect data: https://www.ushahidi.com/support/data-securityThe,  \n3. A deployer's obligation to protect his audience  https://www.ushahidi.com/support/deployer-obligations-under-the-gdpr\n"
+    "nonPIIAccessMechanism": "The REST API provides all data access (https://docs.ushahidi.com/platform-developer-documentation/tech-stack/architecture)"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "General Data Protection Regulation (GDPR) - https://www.ushahidi.com/support/how-ushahidi-prepared-for-gdpr and, Kenya Data Protection Act (2019)"
+      "General Data Protection Regulation (GDPR) - https://www.ushahidi.com/support/how-ushahidi-prepared-for-gdpr",
+      "Kenya Data Protection Act (2019)"
     ],
     "adherenceSteps": [
       "Terms of Service: https://www.ushahidi.com/terms-of-service",
@@ -33,8 +34,11 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Coding Standards",
-      "Ushahidi Developer Guide"
+      "HTML",
+      "CSS",
+      "JSON",
+      "REST",
+      "JavaScript"
     ],
     "evidenceStandardSupport": [
       "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/coding-standards",
@@ -63,14 +67,14 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Privacy policy - https://www.ushahidi.com/privacy-policy/"
+      "privacySecurityDescription": "How we protect data: \n- https://www.ushahidi.com/support/data-security \n. -https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Reports",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user",
-      "illegalContentDetection": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
@@ -84,10 +88,7 @@
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "Identify the issue",
-        "Assess the issue",
-        "Treat the issue",
-        "Monitor and report the issue"
+        "Code of conduct - https://docs.ushahidi.com/platform-developer-documentation/code-of-conduct"
       ]
     }
   },
