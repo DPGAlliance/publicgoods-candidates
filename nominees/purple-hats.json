@@ -1,0 +1,40 @@
+{
+  "name": "Purple HATS",
+  "aliases": [
+    ""
+  ],
+  "description": "Purple HATS is a customisable, automated accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs) access to digital services.",
+  "website": "https://github.com/GovTechSG/purple-hats",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/GovTechSG/purple-hats/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10,
+      "evidenceText": "According to the World Health Organisation (WHO), around 15 per cent of the world’s population, or an estimated one billion people are persons with disabilities. According to the 2018 Disability & Development Report from the UN, 'persons with disabilities are at a disadvantage regarding most Sustainable Development Goals', and 'concrete action is needed to include the world's one billion persons with disabilities, as both agents and beneficiaries of development'. Barriers to inclusion and participation are exacerbated by the lack of access to affordable, relevant assistive technology. According to existing research, only one in 10 people have access to the assistive technology they need to live independent and autonomous lives. Furthermore, inclusive digital design is uncommon for online spaces and technologies, which has resulted in people with disabilities engaging less in the digital economy. Some 62% of adults with a disability say they own a desktop or laptop computer, compared with 81% of those without a disability. Digital accessibility is recognised as a key priority in several global commitments, including the Convention on the Rights of Persons with Disabilities (CRPD), SDG 10: Reduced Inequalities, and the UN Disability Inclusion Strategy, with the core aim to ensure 'no one is left behind' in our increasingly digital world. Purple HATS offers a solution that significantly contributes to the improvement of digital accessibility. The customisable, automated accessibility testing tool allows software development teams to find and fix accessibility problems to improve persons with disabilities' access to digital services."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Purple-hats",
+      "url": "https://github.com/GovTechSG/purple-hats"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Government Technology Agency, Singapore",
+      "website": "https://www.tech.gov.sg",
+      "org_type": "owner",
+      "contact_name": "Zui Young Lim",
+      "contact_email": "accessibility@tech.gov.sg"
+    }
+  ],
+  "stage": "nominee"
+}
