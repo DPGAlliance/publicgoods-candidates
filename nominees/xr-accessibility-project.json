@@ -25,7 +25,12 @@
   "type": [
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/README.md"
+    }
+  ],
   "organizations": [
     {
       "name": "XR Access",
