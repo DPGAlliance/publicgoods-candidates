@@ -2,7 +2,7 @@
   "name": "African Highlander Farmer II",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://gitlab.com/farmz2u/african-highland-farmer/-/blob/main/README.md"
+    "copyrightURL": "https://gitlab.com/farmz2u/african-highland-farmer/-/blob/main/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
