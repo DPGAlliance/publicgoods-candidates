@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The project does not store or collect user data directly or indirectly."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
