@@ -26,7 +26,8 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "Terms of services: https://uk.hellobob.com/conditions-generales  and privacy policy: https://uk.hellobob.com/vie-privee"
+      "Terms of services: https://uk.hellobob.com/conditions-generales",
+      "Privacy policy: https://uk.hellobob.com/vie-privee"
     ]
   },
   "standards": {
@@ -57,7 +58,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Privacy policy - https://uk.hellobob.com/vie-privee"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
