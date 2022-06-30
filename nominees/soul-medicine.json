@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Soul Medicine a multilingual digital service designed to deliver critical information in bite-sized pieces",
+  "description": "Soul Medicine a multilingual digital service designed to deliver critical information in bite-sized pieces for survivors of abuse, available online or sent direct to your email inbox",
   "website": "https://soulmedicine.io/",
   "license": [
     {
@@ -25,22 +25,28 @@
   ],
   "sectors": [],
   "type": [
-    "content",
+    "content"
+    }
+  ],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
+  "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "soulmedicine",
+      "name": "main",
       "url": "https://github.com/chaynHQ/soulmedicine"
     }
   ],
   "organizations": [
     {
       "name": "Chayn",
-      "website": "https://www.chayn.co/",
+      "website": "https://www.chayn.co",
       "org_type": "owner",
-      "contact_name": "Hera Hussain",
-      "contact_email": "team@chayn.co"
+      "contact_name": "Naomi Alexander Naidoo",
+      "contact_email": "naomi@chayn.co"
     }
   ],
   "stage": "nominee"
