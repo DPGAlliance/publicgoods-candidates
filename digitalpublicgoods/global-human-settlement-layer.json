@@ -2,7 +2,7 @@
   "name": "Global Human Settlement Layer",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://ghsl.jrc.ec.europa.eu/documents/GHSL_Data_Package_2019.pdf?t=1478q532234372"
+    "copyrightURL": "https://ghsl.jrc.ec.europa.eu/about.php"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
