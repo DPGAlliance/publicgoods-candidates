@@ -1,0 +1,110 @@
+{
+  "name": "Boxtribute",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.boxtribute.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/boxwise/dropapp#readme",
+      "https://github.com/boxwise/boxtribute#readme"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR in the European Union"
+    ],
+    "adherenceSteps": [
+      "We collect no data on our website, which we can see on the bottom of our page. ",
+      "All the people who work on the project, from staff to volunteers, have to sign a confidentiality agreement: https://drive.google.com/file/d/1kASwONuUHbneCHXUuJT-YC-g5ZZ0WM5E/view?usp=sharing as well as sign data privacy guidelines: https://drive.google.com/file/d/1GogW9b5r0MPuGTNOtnwmsLYNTjj849kl/view?usp=sharing",
+      "For all partners who use our hosted services, we have them sign a data processing agreement (https://docs.google.com/document/d/1_CbXjNLmk96A7VjLhyjh6Q1l0EIeu_BRWgMEhhHTHXI/edit?usp=sharing) as well as an annex disclosing all of our data sub-processors, as well as having them designate a GDPR contact person who is authorized to issue privacy transfer instructions to us (https://docs.google.com/document/d/1BbyW-yIrBKsHsTtOEwLiVtMnnfqjsSAQCZVWS5fgZOw/edit?usp=sharing). We also have a dedicated GDPR email address which is limited only to authorized personnel, gdpr@boxtribute.org"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HMTL",
+      "CSS",
+      "JavaScript",
+      "REST",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://drive.google.com/file/d/1uydhO--UtSx8VK_V9bHqj_4Qi-mO8OdP/view?usp=sharing"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design with the User: we work closely with other organizations on the field and build trust as former field workers ourselves",
+      "Understand the Existing Ecosystem: One of our core principles is try to patch the gaps in the humanitarian system, and reduce the areas of duplication and overlap. In fact, our software is designed specifically for that purpose, and we try to follow that principle as well in our own design and operations.",
+      "Be Data Driven: We compare our impact and our methods not only with usage data of the software, but also global humanitarian data. Both our long-term policies and day-to-day decisions make heavy use of this.",
+      "Be Collaborative: We are always collaborative within the sector and across the sector. We attend conferences to give people a better idea of how things work internally.",
+      "Address Privacy and Security: We not only follow GDPR guidelines ourselves, but our software also encourages our users to follow those same guidelines by having simple privacy management modules for beneficiaries. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We have a strong anti-discrimination and anti-harassment policy for our team and volunteers. We check potential partners to make sure that they have similar policies and safeguarding in place. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "We register beneficiaries as a data processor for participating partner organizations. "
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We collect no data on our website. It's not really a content or interaction platform. This is more about logistical cooperation in the field for humanitarian aid."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "For our users, this is not relevant as it's not a content or interaction platform. For our team, we do not accept any underage people."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "It's not really a content or interaction platform, so this is not really relevant. This is more about logistical cooperation in the field for humanitarian aid. "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Germany",
+      "Greece",
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "Germany",
+      "Greece",
+      "Lebanon",
+      "Poland",
+      "Bosnia and Herzegovina",
+      "Serbia",
+      "Italy"
+    ]
+  }
+}
