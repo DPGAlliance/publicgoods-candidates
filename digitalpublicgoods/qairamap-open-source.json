@@ -12,6 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "https://qaira.github.io/docs/",
       "https://github.com/qAIRa/qAIRaMap-OpenSource",
       "https://github.com/qAIRa/qAIRaMapAPI-OpenSource"
     ]
@@ -61,11 +62,11 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Data",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://qaira.github.io/docs/doc1",
-      "illegalContentDetection": "Unknown"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
