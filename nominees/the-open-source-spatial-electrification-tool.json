@@ -14,8 +14,8 @@
   "SDGs": [
     {
       "SDGNumber": 7,
-      "evidenceText": "The following publication presents the first application of the OnSSET tool, focusing on achieving SDG7 in sub-Saharan Africa by 2030, in line with SDG7.",
-      "evidenceURL": "https://iopscience.iop.org/article/10.1088/1748-9326/aa7b29/meta"
+      "evidenceText": "The tool is focused on the assessment and deployment of conventional and renewable energy technologies aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.",
+      "evidenceURL": "https://www.energy.kth.se/energy-systems/completed-projects/open-source-spatial-electrification-toolkit-onsset-1.940024"
     }
   ],
   "sectors": [],
@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "name": "Main",
-      "url": "https://github.com/onsset"
+      "name": "main",
+      "url": "https://github.com/OnSSET/onsset"
     }
   ],
   "organizations": [
