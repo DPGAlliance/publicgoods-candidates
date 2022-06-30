@@ -57,15 +57,15 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "All data privacy considerations carefully discussed and negotiated in advance."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Environmental data from a range of sources--some APIs, some directly gathered and input manually. All data privacy considerations carefully discussed and negotiated in advance. ",
-      "contentFilter": "No",
+      "collectStoreDistribute": "No",
+      "type": " ",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "Not a risk with our content type. "
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": " "
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
