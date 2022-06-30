@@ -1,8 +1,8 @@
 {
   "name": "Eco-Index Biodiversity Dashboards",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://eco-index.nz/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
