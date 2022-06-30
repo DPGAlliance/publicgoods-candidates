@@ -1,0 +1,115 @@
+{
+  "name": "iVerify",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/undp/iVerify-Apps#readme"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Social media companies provide proprietary APIs to access their technologies (Meta's Crowdtangle for Facebook and Instagram, Twitter, Reddit, YouTube, TikTok, etc). Nevertheless, without access to these proprietary APIs, the iVerify tool still functions albeit requiring a manual submission rather than having an automated process. It is built in a modular way that allows for certain features to be enabled or disabled while still functioning as a whole."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/undp/iVerify-Apps#readme"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "There is a REST API for internal use to export non-PII data in a non-proprietary format (e.g. JSON, yaml, csv). Access to the codebase does not give access to different instances of these internal APIs, eg they are secure\n\nA form exists allowing users to request access to their data."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Zambia: THE DATA PROTECTION ACT, 2021, no. 3 https://www.parliament.gov.zm/node/8853 & Cyber Security and Cyber Crimes Act of 2021 https://www.zicta.zm/storage/posts/attachments/5B0E7uR3LSBIXVimAVsilYdIur2NwLnjT0TlScrl.pdf ",
+      "Honduras: Transparency and Access to Public Information Law (Decree 170-2006), 2006 https://portalunico.iaip.gob.hn/assets/docs/leyes/ley-de-transparencia-y-reglamento.pdf  National Constitution: Article 182; Law of the Civil Registry (Article 109, Decree 62-2004); Rulings on the Law for Transparency and for Access to Public Information (Article 42, Accord 001-2008); the Law for the Protection of Confidential Personal Data (the “Law”) https://pdba.georgetown.edu/Constitutions/Honduras/hond05.html ",
+      "European Union: General Data Protection Regulation (GDPR)",
+      "ECOWAS: Personal Data Protection for the Economic Community of West African States",
+      "USA: California Consumer Privacy Act (CCPA)"
+    ],
+    "adherenceSteps": [
+      "Terms of Use - https://iverify.org.zm/terms-of-use/ ",
+      "Privacy Policy - https://iverify.org.zm/privacy-policy/",
+      "Cookie Policy - https://iverify.org.zm/cookie-policy/ ",
+      "Cookie Consent Tool - https://iverify.org.zm/wp-admin/edit.php?post_type=cookielawinfo&page=cookie-law-info "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Accessibility - WCAG 2.0/2.1 (Web Content Accessibility Guidelines)",
+      "Security - HTTPS, SSL, SSH, AES",
+      "Authentication & Authorization - OAuth 2, JWT, SAML",
+      "Security Assertion Markup Language",
+      "Internationalization (i18n) - UTF-8, ISO-8859-1, ASCII",
+      "Web standards - HTML, CSS, ECMAScript (ES 5/6/7), Latex",
+      "Software Architectural Styles - REST, OpenAPI",
+      "Data Exchange formats - JSON, XML, CSV",
+      "Software Quality Assurance  - IEEE Software Testing, IEEE829 Credentialing, W3C VC",
+      "Multimedia - SVG, PNG, JPEG"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/undp/iVerify-Apps#components"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles of Digital Development",
+      "Strict access controls  i.\tAdmin – UNDP only (access administration) ii.\tUsers – Viewing non-individual information e.\tAdherence to national laws f.\tTransparency i.\tAny and all external requests for data will be published 2.\tSecurity Requirements a.\tRisk assessment with each new country deployment  b.\tSecurity Audits with each new country deployment i.\tCritical issues must be patched. Non-critical issues should be patched. c.\tPasswords: strength requirement  d.\tTwo-factor authentication (2FA): available; not required  e.\tAdherence to national laws f.\tAdherence to UNDP data principles: https://data.undp.org/data-principles"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "iVerify has undertaken : Media Information Landscape Assessment, Misinformation & Hate Speech Landscape, Technical Assessment, Security Audit, Privacy Audit, Accessibility Audit, Algorithmic bias audit to ensure no bias in the AI models predictions."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "iVerify collects PII data on the volunteer",
+        "- Name",
+        "- Phone numbers (WhatsApp numbers  All are kept private)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Privacy requirements include: \n - Privacy Audit with each new country deployment, \n - Not sharing personally identifiable information (PII) \n - Any PII is transmitted over an encrypted internet connecting."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "News articles and stories",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://iverify.org.zm/about-us/",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "All content presented publicly has a strict moderation policy that is described in detail in our user manual https://github.com/undp/iVerify-Apps/blob/main/iVerify%20Manual%20v1_2.pdf"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Zambia",
+      "Honduras",
+      "Italy",
+      "Spain",
+      "Belgium",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Zambia",
+      "Honduras"
+    ]
+  }
+}
