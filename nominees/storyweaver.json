@@ -1,28 +1,60 @@
 {
   "name": "StoryWeaver",
-  "description": "StoryWeaver is an open source platform by Pratham Books for multilingual children’s stories. It addresses all the issues around the lack of content by using an open access framework and technology as force multipliers combined with a platform that supports translation and re-mixing av stories.",
-  "website": "https://storyweaver.org.in",
+  "aliases": [
+    "Pratham Books’ StoryWeaver"
+  ],
+  "description": "StoryWeaver is a digital platform that addresses the global book gap by providing open and free access to quality storybooks in multiple languages to promote reading acquisition among children. At the platform’s core, is a repository of high-quality, openly licensed, multilingual storybooks from Pratham Books and other reputed publishers. While the platform is digital, the books are available in multiple formats to overcome the issue of digital access and can be read online and offline.",
+  "website": "https://storyweaver.org.in/",
   "license": [
     {
       "spdx": "CC-BY-4.0",
-      "licenseURL": "https://storyweaver.org.in/attributions"
+      "licenseURL": "https://storyweaver.org.in/terms_and_conditions"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/PrathamBooks/sw-core/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 4
+      "SDGNumber": 4,
+      "evidenceText": "To meet the 2030 SDG for education, there is a need to bring books to children in an accelerated and sustainable manner. StoryWeaver addresses the book gap by providing open and free access to a repository of quality storybooks in multiple languages to promote reading acquisition among children.  It also has simple tools embedded on the platform that allow users to further translate and version the books for localized requirements and these resources become available to other users as well, creating a multiplier effect and amplifying impact. This has led to a massive increase of local language books on the platform with more than 24,000 books available in 259 languages, which have been read over 40 million times in 150 countries. 57 % of languages are indigenous and 12% classified as endangered, where books are scarce or non-existent and children have often read a book in their own language for the first time. While the platform is digital, the books are available in multiple formats to overcome the issue of digital access and can be read online and offline.",
+      "evidenceURL": "https://storyweaver.org.in/about/impact"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
+    "software",
     "content"
+  ],
+  "repositories": [
+    {
+      "name": "PrathamBooks / sw-core",
+      "url": "https://github.com/PrathamBooks/sw-core"
+    },
+    {
+      "name": "PrathamBooks / sw-web",
+      "url": "https://github.com/PrathamBooks/sw-web"
+    },
+    {
+      "name": "PrathamBooks / sw-docker",
+      "url": "https://github.com/PrathamBooks/sw-docker"
+    },
+    {
+      "name": "StoryWeaver Open Source",
+      "url": "https://open.storyweaver.org.in/"
+    }
   ],
   "organizations": [
     {
-      "name": "Pratham Books",
-      "website": "https://www.prathambooks.org",
-      "org_type": "owner"
+      "name": " Pratham Books",
+      "website": "https://prathambooks.org/",
+      "org_type": "owner",
+      "contact_name": "Purvi Shah",
+      "contact_email": "info@prathambooks.org"
     }
   ],
-  "stage": "DPG"
+  "stage": "nominee"
 }
