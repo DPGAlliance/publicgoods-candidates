@@ -28,7 +28,9 @@
       "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "data",
     "content"
@@ -40,5 +42,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
