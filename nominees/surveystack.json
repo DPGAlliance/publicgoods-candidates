@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+      "licenseURL": "https://gitlab.com/our-sci/software/surveystack/-/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -30,9 +30,7 @@
   ],
   "sectors": [],
   "type": [
-    "software",
-    "data",
-    "content"
+    "software"
   ],
   "repositories": [
     {
