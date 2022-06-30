@@ -13,26 +13,22 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 5,
-      "evidenceText": "We have resources for women and non-binary to help them get back on their feet, while dealing with abuse.",
-      "evidenceURL": "https://soulmedicine.io/en/pathways"
-    },
-    {
       "SDGNumber": 3,
       "evidenceText": "We have several guides on how to take care of your wellbeing especially targeted towards survivors of different forms of abuse. Our resources are trauma informed to ensure that survivors find a way to use these tools to build on their resilience while dealing with abuse.",
       "evidenceURL": "https://soulmedicine.io/en/pathways"
-    }
-  ],
-  "sectors": [],
-  "type": [
-    "content"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We have resources for women and non-binary to help them get back on their feet, while dealing with abuse.",
+      "evidenceURL": "https://soulmedicine.io/en/pathways"
     }
   ],
   "sectors": [
     "Gender and Minority Groups"
   ],
   "type": [
-    "software"
+    "software",
+    "content"
   ],
   "repositories": [
     {
