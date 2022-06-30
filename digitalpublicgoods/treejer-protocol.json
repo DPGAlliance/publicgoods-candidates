@@ -2,7 +2,7 @@
   "name": "Treejer Protocol",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://docs.treejer.com/"
+    "copyrightURL": "https://docs.treejer.com/terms-of-service"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
