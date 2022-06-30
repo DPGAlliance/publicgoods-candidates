@@ -1,0 +1,48 @@
+{
+  "name": "Public Utility Data Liberation Project",
+  "aliases": [
+    "PUDL"
+  ],
+  "description": "The Public Utility Data Liberation (PUDL) project takes US energy system information that’s already publicly available, and makes it publicly usable, by cleaning, standardizing, and cross-linking utility data from different sources in a single database.",
+  "website": "http://catalyst.coop/pudl",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://data.catalyst.coop/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Substantially increasing the share of renewable energy in the global energy mix and promoting investment in energy infrastructure will require transparency in resource planning decisions and in the models that underpin energy system data. Transparency in resource planning and open energy system models must be built on open and accessible energy system data.",
+      "evidenceURL": "https://datacollaboratives.org/cases/the-public-utility-data-liberation-pudl-project.html"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "Public Utility Data Liberation Project",
+      "url": "https://data.catalyst.coop/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Catalyst Cooperative",
+      "website": "http://catalyst.coop",
+      "org_type": "maintainer",
+      "contact_name": "Steven Winter",
+      "contact_email": "steven.winter@catalyst.coop"
+    }
+  ],
+  "stage": "nominee"
+}
