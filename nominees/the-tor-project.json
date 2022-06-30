@@ -3,16 +3,12 @@
   "aliases": [
     "Tor"
   ],
-  "description": "The Tor Project is a 501(c)(3) nonprofit that builds and maintains the free & open source privacy software known as Tor.",
+  "description": "Free & open source privacy software providing secure and private web access.",
   "website": "https://torproject.org",
   "license": [
     {
       "spdx": "BSD-3-Clause",
       "licenseURL": "https://gitweb.torproject.org/tor.git/plain/LICENSE"
-    },
-    {
-      "spdx": "CC-BY-3.0-US",
-      "licenseURL": "https://www.torproject.org/about/trademark/"
     }
   ],
   "SDGs": [
@@ -28,7 +24,7 @@
   ],
   "repositories": [
     {
-      "name": "Tor Project Repository",
+      "name": "main",
       "url": "https://gitweb.torproject.org"
     }
   ],
