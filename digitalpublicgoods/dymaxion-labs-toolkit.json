@@ -1,0 +1,85 @@
+{
+  "name": "Dymaxion Labs Toolkit",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/dymaxionlabs/toolkit"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://satproc.readthedocs.io/en/latest/",
+      "https://unetseg.readthedocs.io/en/latest/",
+      "https://github.com/labfunctions/labfunctions"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Dymaxion Toolkit complies with all privacy protecting regulations, suchs as GDPR, as it does not interact with personal data at all."
+    ],
+    "adherenceSteps": [
+      "The project does not collect nor store personal data of any kind."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The Dymaxion Toolkit supports reading and exporting geographic data using open, non-proprietary, platform-independent and standards-based formats, including the GeoPackage Encoding Standard (https://www.geopackage.org) and GeoJSON (https://datatracker.ietf.org/doc/html/rfc7946). It is also designed and tuned to harness no-cost, open access, worldwide coverage satellite imagery from Earth observation programmes such as NASA’s Landsat (https://www.usgs.gov/faqs/are-there-any-restrictions-use-or-redistribution-landsat-data) and European Space Agency’s Copernicus/Sentinel (https://open.esa.int/copernicus-sentinel-satellite-data/).  Dymaxion Lab’s official blog at https://dymaxionlabs-eng.medium.com/ lists step-by-step tutorial that showcase the toolkit’s integration with open data and standards.  The next section of this form (“Standards support evidence”) provides a link to a tutorial for automatically identifying large wildfires, by processing openly licenced Sentinel satellite data, taking user defined areas of interest encoded with the open and interoperable GeoJSON format."
+    ],
+    "evidenceStandardSupport": [
+      "https://dymaxionlabs-eng.medium.com/satellite-imagery-processing-for-convolutional-neural-networks-5160b1b57e9b"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design With the User",
+      "Understand the Existing Ecosystem",
+      "Design for Scale",
+      "Build for Sustainability",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation",
+      "Be Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our project contributors are required to follow a Code of Conduct, available at its main page. The code asks all of us contributors to demonstrate empathy and kindness toward other people, accepting responsibility and apologizing to those affected by our mistakes -learning from the experience-,  and focusing on what is best not just for us as individuals, but for the overall community. The Code states enforcement guidelines, determining the consequences for any action deemed in violation of its standards. These range from private, written warnings for first time lesser offenses, to permanent bans for sustained inappropriate behavior, harassment, or aggression."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "harassmentProtectionSteps": [
+        "All contributors are required to follow our Contributor Covenant Code of Conduct (https://www.contributor-covenant.org/version/2/1/code_of_conduct/) . Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.  All community leaders are obligated to respect the privacy and security of the reporter of any incident."
+      ],
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Interaction is only facilitated, via chatrooms, for registered contributors. This project does not facilitate interactions between users. "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Brazil",
+      "Uruguay",
+      "Paraguay",
+      "Chile",
+      "Colombia",
+      "Peru"
+    ]
+  }
+}
