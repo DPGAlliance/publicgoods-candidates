@@ -1,0 +1,76 @@
+{
+  "name": "Sunbird Lern",
+  "aliases": [
+    ""
+  ],
+  "description": "Sunbird Lern is primarily a set of microservices along with some reference UX widgets that offer capabilities to enable tracking of a user’s learning journey as well as enable interactions and collaboration among users. These capabilities can be leveraged by any adopter with requirements for measurement of learning progress, creation and management of cohorts/ batches of learners, as well as enabling collaboration capabilities such as Groups or Discussion forums. The Lern services are also employed for creation and management of user accounts and organisations within a Sunbird instance.",
+  "website": "https://lern.sunbird.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/project-sunbird/sunbird-lms-service/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Good health and well being: Another instance of the training platform employing the Sunbird building blocks was rapidly deployed in the wake of the Covid outbreak to train frontline workers on how to deal with the pandemic. These included healthcare workers and professionals as well as volunteers - this was launched on the Integrated Government Online training portal, and resulted in Sunbird Lern being successfully leveraged for training several thousands of frontline workers in the fight against Covid. This was one of the measures undertaken by the National Health Mission and was also part of the operational guidelines from the Ministry of Health. This effort is in line with goal #3.d of the global framework. ",
+      "evidenceURL": "https://www.mohfw.gov.in/pdf/MeasuresUndertakenToEnsureSafetyOfHealthWorkersDraftedForCOVID19Services.pdf"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Quality Education: Sunbird building blocks have been adopted by the Ministry of Education, Government of India to launch a national school education platform called DIKSHA, which has been used extensively in each of the 36 States and Union Territories in India across 30+ languages. Through DIKSHA (of which Sunbird Lern is a core building block), millions of students, teachers, parents and educational leaders in India are accessing learning content as well as undertaking courses to further their learning. Education leadership is another domain that Sunbird Lern has been successfully deployed in. Sunbird Lern is aimed at promoting inclusive and equitable quality education and enabling lifelong learning for all, in line with Goal #4 of the global framework referred to above.",
+      "evidenceURL": "https://sunbird.org/explore/articles/13-shikshalokam-on-adopting-sunbird"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "Clean water and sanitation: Sunbird Lern has also been used for capacity building in the areas of water management and conservation - this involves training sessions for actors in the ecosystem including frontline workers as they use digital content assets and attestations to upskill themselves as part of their mission. These are in line with Goals #6a and #6b of the global framework.",
+      "evidenceURL": "https://www.indiawaterportal.org/articles/connecting-dots-reimagining-water-security-scale"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Decent work and economic growth: Skilling, talent transformation and capacity building for employability is another area that Sunbird Lern will extensively be used in - easily consumable personalized learning content can aid the journey of a learner on scalable and powerful learning platforms that are deployed by corporates as well as government-led skilling agencies alike. This pertains to goal #8 of the global framework.",
+      "evidenceURL": "https://sunbird.org/explore/articles/14-infosys-lex-on-adopting-sunbird"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Sunbird-Lern"
+    },
+    {
+      "name": "LMS service",
+      "url": "https://github.com/project-sunbird/sunbird-lms-service"
+    },
+    {
+      "name": "API services for course management",
+      "url": "https://github.com/project-sunbird/sunbird-course-service"
+    },
+    {
+      "name": "API services for groups functionality",
+      "url": "https://github.com/project-sunbird/groups-service"
+    },
+    {
+      "name": "Microservice for sending notifications via different channels",
+      "url": "https://github.com/project-sunbird/sunbird-notification-service"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://lern.sunbird.org/use/developer-installation"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "EkStep Foundation",
+      "website": "https://www.ekstep.org",
+      "org_type": "owner",
+      "contact_name": "Deepika Mogilishetty",
+      "contact_email": "info@ekstep.org"
+    }
+  ],
+  "stage": "DPG"
+}
