@@ -30,10 +30,11 @@
   ],
   "organizations": [
     {
-      "name": "KTH Energy Systems",
+      "name": "KTH Royal Institute of Technology - division of Energy Systems",
       "website": "https://www.energy.kth.se/energy-systems/about-the-division-of-energy-systems-1.937036",
       "org_type": "maintainer",
-      "contact_name": "KTH Royal Institute of Technology - division of Energy Systems"
+      "contact_name": "Andreas Sahlberg",
+      "contact_email": "asahl@kth.se"
     }
   ],
   "stage": "nominee"
