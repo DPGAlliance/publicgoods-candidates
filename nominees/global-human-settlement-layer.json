@@ -13,6 +13,37 @@
   ],
   "SDGs": [
     {
+      "SDGNumber": 1,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "In this article, the GHSL population data were used to assess the number of people with access to water.",
+      "evidenceURL": "https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "The GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share",
+      "evidenceURL": "https://doi.org/10.1016/j.rser.2021.111282"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The GHSL data on population and settlements can measure the rural population with access to an all weather road",
+      "evidenceURL": "https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721"
+    },
+    {
       "SDGNumber": 11,
       "evidenceText": "GHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green)",
       "evidenceURL": "http://dx.doi.org/10.3390/su11205674"
