@@ -2,7 +2,7 @@
   "name": "X-Road",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/nordic-institute/X-Road-development"
+    "copyrightURL": "https://github.com/nordic-institute/X-Road/blob/develop/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -28,7 +28,7 @@
       "- REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."
     ],
     "adherenceSteps": [
-      ""
+      "https://www.niis.org/procedure-for-use-of-data-and-data-processing"
     ]
   },
   "standards": {
@@ -56,28 +56,28 @@
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
-      "privacySecurityDescription": ""
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://www.niis.org/procedure-for-use-of-data-and-data-processing"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Technical documentation and other materials related to knowledge-sharing",
-      "contentFilter": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "Internal and external monitoring of media, social media, websites and documentation base."
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
