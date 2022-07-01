@@ -1,8 +1,8 @@
 {
   "name": "Gibbon",
   "clearOwnership": {
-    "isOwnershipExplicit": "No",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://gibbonedu.org/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
