@@ -3,18 +3,18 @@
   "aliases": [
     ""
   ],
-  "description": "Providing carbon-free, unmanned aerial services at the frontier in developing markets for humanitarian uses. Our open-source work is focused on expanding the existing open-source software stack in PX4, to include a new vehicle mode, airships. We are also working on providing an open-source refrigerated container for drone delivery at 10kg payload, but are still in the process with the Open Hardware Repository, under a CERN open hardware licence.",
-  "website": "https://www.flycloudline.com",
+  "description": "Cloudline, based in Cape Town, South Africa, designs, manufactures and operates autonomous airships that provide carbon-free, unmanned aerial services at the frontier in developing markets for humanitarian uses;  ",
+  "website": "https://www.flycloudline.com/",
   "license": [
     {
       "spdx": "BSD-3-Clause",
-      "licenseURL": "https://github.com/PX4/PX4-Autopilot/blob/master/LICENSE"
+      "licenseURL": "https://docs.px4.io/master/en/contribute/licenses.html"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 1,
-      "evidenceText": "Cloudline aims to bring affordable logistics access to rural economics that are not connected to regional and global economics. Through outbound services to aid agencies and organizations, Cloudline hopes to enable and facilitate subsidised services to farmers and artisans all over the world. At a time when it costs more than two million dollars to build a kilometre of new paved road, large payload delivery drones allow us to reach communities that do not have the density to make roads viable, with the added benefit of a much smaller environmental footprint. ",
+      "evidenceText": "Cloudline aims to bring affordable logistics access to rural economics that are not connected to regional and global economics. Through outbound services to aid agencies and organizations, Cloudline hopes to enable and facilitate subsidised services to farmers and artisans all over the world. At a time when it costs more than two million dollars to build a kilometre of new paved road, large payload delivery drones allow us to reach communities that do not have the density to make roads viable, with the added benefit of a much smaller environmental footprint.",
       "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
     },
     {
@@ -34,23 +34,40 @@
     },
     {
       "SDGNumber": 13,
-      "evidenceText": "Our airships run exclusively on electric power with zero emissions and substitute carbon emitting vehicles. ",
+      "evidenceText": "Our airships run exclusively on electric power with zero emissions and substitute carbon emitting vehicles.",
       "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
     },
     {
       "SDGNumber": 17,
-      "evidenceText": "Cloudline believes in collaboration and partnerships with governments, private agencies and aid agencies towards achieving the UNICEF goals. In demonstration of our commitment towards this SDG goal, we are now in discussions with UNICEF, Red Cross, WFP and Village Reach on programs in Namibia, Philippines, Kenya, Sudan and DRC to deliver diagnostic samples, vaccines and medicines between facilities. ",
+      "evidenceText": "Cloudline believes in collaboration and partnerships with governments, private agencies and aid agencies towards achieving the UNICEF goals. In demonstration of our commitment towards this SDG goal, we are now in discussions with UNICEF, Red Cross, WFP and Village Reach on programs in Namibia, Philippines, Kenya, Sudan and DRC to deliver diagnostic samples, vaccines and medicines between facilities.",
       "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
     }
   ],
   "sectors": [],
   "type": [
+    "standard",
     "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/PX4/PX4-Autopilot"
+      "name": "PX4 repository of open source flight control software",
+      "url": "https://github.com/PX4/Devguide/pull/1065"
+    },
+    {
+      "name": "PX4 repository of open source flight control software",
+      "url": "https://github.com/PX4/Devguide/pull/1065"
+    },
+    {
+      "name": "BSD 3-Clause License (BSD-3-Clause)",
+      "url": "https://github.com/PX4/Firmware/pull/15232"
+    },
+    {
+      "name": "PX4 repository of open source flight control software",
+      "url": "https://github.com/PX4/Firmware/pull/14862"
+    },
+    {
+      "name": "PX4 repository of open source flight control software",
+      "url": "https://github.com/PX4/sitl_gazebo/pull/490"
     }
   ],
   "organizations": [
@@ -60,11 +77,6 @@
       "org_type": "owner",
       "contact_name": "Spencer Horne",
       "contact_email": "spencer@flycloudline.com"
-    },
-    {
-      "name": "UNICEF Venture Fund",
-      "website": "https://www.unicef.org/innovation/venturefund",
-      "org_type": "funder"
     }
   ],
   "stage": "nominee"
