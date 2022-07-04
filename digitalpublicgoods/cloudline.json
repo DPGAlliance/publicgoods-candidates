@@ -1,0 +1,56 @@
+{
+  "name": "Cloudline",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.px4.io/master/en/contribute/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.px4.io/master/en/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "https://docs.px4.io/master/en/contribute/code.html"
+    ],
+    "bestPracticesList": [
+      "Design for Scale; Build for Sustainability; Be Data Driven; Use Open Standards, Open Source, Open Data and Open Innovation; Be Collaborative; Reuse and Improve"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "PX4 has a dedicated flight testing team that continually tests new features and the stability of the code to ensure it is safe. Here are the details: https://docs.px4.io/master/en/test_and_ci/test_flights.html  They also run tests & simulations on the software before new features are merged to ensure it works as expected."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "South Africa",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "South Africa"
+    ]
+  }
+}
