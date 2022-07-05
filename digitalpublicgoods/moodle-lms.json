@@ -69,7 +69,7 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "Moodle is a piece of open-source software, so we don't generally host the tool nor have access to student or content data. The hosting entity (typically the institution itself or a company providing this service) does have access to the content and student data. The tool is so built that privacy is at its core, plus a series of plugins are maintained to allow for extra functionality in this regard: \n - https://moodle.org/plugins/tool_dataprivacy (Moodle HQ) \n- https://moodle.org/plugins/local_gdpr_deleteuserdata (external contributor) \n - https://moodle.org/plugins/local_revoke_consent (external contributor)  \n - https://moodle.org/plugins/block_blurnames (external contributor) \n In general, Moodle is built on the principle that users must have sovereignty over their data, so disclosures to third-parties are not allowed. The institutions that typically deploy Moodle also value integrity and security as a reason to choose Moodle, for example government agencies or military branches, schools with data of minors or tech agencies working on behalf of the Ministries of Education, be them global or regional."
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "https://moodle.com/security-privacy/"
