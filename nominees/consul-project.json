@@ -1,0 +1,42 @@
+{
+  "name": "CONSUL Project",
+  "aliases": [
+    "Consul",
+    "Consul Democracy"
+  ],
+  "description": "Free Open Source Participation Software for Democracy. Citizen participation and open government web application that helps public officials carry out participatory processes with their citizens. Through an accessible and friendly interface, governments can facilitate direct citizen participation through a number of activities, including citizen proposals, participatory budgets, collaborative legislation, debates and voting.",
+  "website": "https://consulproject.org/en/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "CONSUL is a project that supports governments and institutions to become stronger by involving citizens and stakeholders into decision-making processes. Moreover, it has developed in collaboration with the UNDP a SDG module. ",
+      "evidenceURL": "https://consulproject.org/docs/consul_sdg_module_en.pdf"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "CONSUL Project",
+      "url": "https://github.com/consul/consul"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Consul Democracy Foundation",
+      "website": "https://consulfoundation.org/",
+      "org_type": "owner",
+      "contact_name": "Esther Nass",
+      "contact_email": "info@consulfoundation.org"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "The Open Source Spatial Electrification Tool",
+  "aliases": [
+    "OnSSET"
+  ],
+  "description": "OnSSET is an open source, GIS-based tool for developing electrification investment scenarios towards achieving universal access to electricity in accordance with SDG7.",
+  "website": "http://www.onsset.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/OnSSET/onsset/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "The tool is focused on the assessment and deployment of conventional and renewable energy technologies aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.",
+      "evidenceURL": "https://www.energy.kth.se/energy-systems/completed-projects/open-source-spatial-electrification-toolkit-onsset-1.940024"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OnSSET/onsset"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "KTH Royal Institute of Technology - division of Energy Systems",
+      "website": "https://www.energy.kth.se/energy-systems/about-the-division-of-energy-systems-1.937036",
+      "org_type": "maintainer",
+      "contact_name": "Andreas Sahlberg",
+      "contact_email": "asahl@kth.se"
+    }
+  ],
+  "stage": "nominee"
+}
