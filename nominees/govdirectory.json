@@ -3,7 +3,7 @@
   "aliases": [
     "WikiProject Govdirectory"
   ],
-  "description": "The easiest way to contact your government.",
+  "description": "A crowdsourced and fact-checked directory of official governmental online accounts and services. The easiest way to contact your government.",
   "website": "https://govdirectory.org",
   "license": [
     {
@@ -20,10 +20,14 @@
   ],
   "sectors": [],
   "type": [
-    "data",
-    "content"
+    "data"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "Topics",
+      "url": "https://www.govdirectory.org/topics/"
+    }
+  ],
   "organizations": [
     {
       "name": "Govdirectory",
