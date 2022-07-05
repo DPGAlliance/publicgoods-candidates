@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
+      "licenseURL": "https://github.com/dymaxionlabs/satproc/blob/main/LICENSE.txt"
     }
   ],
   "SDGs": [
@@ -33,7 +33,9 @@
       "evidenceURL": "https://ircai.org/top100/entry/adress-informal-settlements-exposure-to-climate-related-hazard/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Climate"
+  ],
   "type": [
     "software"
   ],
@@ -66,6 +68,11 @@
       "org_type": "maintainer",
       "contact_name": "Damian Silvani",
       "contact_email": "damian@dymaxionlabs.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicef.org/innovation/venturefund",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
