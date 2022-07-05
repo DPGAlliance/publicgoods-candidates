@@ -1,0 +1,102 @@
+{
+  "name": "linelist",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/epiverse-trace/linelist/blob/main/LICENSE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://epiverse-trace.github.io/linelist/",
+      "https://epiverse-trace.github.io/linelist/articles/linelist_introduction.html",
+      "https://epiverse-trace.github.io/linelist/reference/index.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The linelist package provides a storage mechanism in the R software for case line list data (the most common type of epidemiological data), as well as ‘accessors’ to retrieve specific data fields. The entire package is open-source, including these accessors. We assume that data will be mostly non-PII, but it is the user's responsibility to ensure that confidentiality is respected if they store PII in their linelist."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The software provides a data format for storing case line list data, and routines to handle/retrieve this data. Like other open document formats such as ods, it makes no assumption on the degree of confidentiality of the data stored. We provide a privacy disclaimer on our website"
+    ],
+    "adherenceSteps": [
+      "https://github.com/epiverse-trace/linelist#data-privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "CRAN development guidelines: https://cran.r-project.org/doc/manuals/r-release/R-exts.html",
+      "Tidyverse code testing standards: https://r-pkgs.org/tests.html"
+    ],
+    "evidenceStandardSupport": [
+      "https://cran.r-project.org/web/checks/check_results_linelist.html",
+      "https://app.codecov.io/gh/epiverse-trace/linelist"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Full documentation of all functions",
+      "Additional free online tutorials",
+      "Unit testing and full (100%) code coverage",
+      "Continuous integration using github actions",
+      "Code of conduct - https://www.contributor-covenant.org/version/2/0/code_of_conduct/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The package implements safeguards against the accidental loss of key epidemiological variables."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). technical error reports from devices (using Sentry.io). usage analytics to understand how users are interacting with the app (using Matomo, self-hosted)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The package implements safeguards against the accidental loss of key epidemiological variables."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "linelist is a data processing software package and not an online communication platform, where the risk of harassment would require elaborate prevention mechanisms. However, our project encourages collaboration between developers and end-users, typically health professionals. These interactions are protected by our code of conduct, which is documented on our website"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Code of Conduct: https://www.contributor-covenant.org/version/2/0/code_of_conduct/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "France"
+    ],
+    "deploymentCountries": [
+      "Colombia",
+      "Gambia",
+      "France",
+      "Peru",
+      "United Kingdom"
+    ]
+  }
+}
