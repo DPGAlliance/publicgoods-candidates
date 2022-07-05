@@ -81,10 +81,7 @@
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "Identify the risk",
-        "Assess the risk",
-        "Treat the risk",
-        "Monitor and report the risk"
+        "The Ushahidi Platform is age-agnostic. This means that persons of all age groups are able to access both frontend and backend features of the platform. Our community advocacy and technology privacy teams regularly review and monitor the new and existing deployments created on our servers for predatory threats such as bullying, grooming, abuse, and aggression. Every two weeks, Ushahidi team members randomly spotlight deployments, and this enables us to further check the thematic areas and content of deployments that we host. We also partner with digital security organizations such as Tor in order to amplify safeguarding information, advice, and guidance for deployers and users of Ushahidi. Every visitor or user of any hosted Ushahidi deployment has 24/7 access to our community support channel which they can use to anonymously report any content that poses a risk to the safety and security of underage users. Upon receipt of the report, our community advocacy and technology privacy teams shall suspend the deployment and form a committee to investigate the claims expeditiously. Any deployments whose content is found in contravention shall be banned indefinitely. Over the last 13 years of our existence, Ushahidi has not discovered or received any complaint of a deployment that poses a risk to its underage users or visitors. "
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
