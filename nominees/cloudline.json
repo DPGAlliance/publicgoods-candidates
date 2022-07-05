@@ -45,7 +45,6 @@
   ],
   "sectors": [],
   "type": [
-    "standard",
     "software"
   ],
   "repositories": [
@@ -77,6 +76,11 @@
       "org_type": "owner",
       "contact_name": "Spencer Horne",
       "contact_email": "spencer@flycloudline.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicef.org/innovation/venturefund",
+      "org_type": "funder"
     }
   ],
   "stage": "nominee"
