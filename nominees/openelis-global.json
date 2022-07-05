@@ -17,7 +17,9 @@
       "evidenceText": "High quality lab information is key to good health outcomes"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
