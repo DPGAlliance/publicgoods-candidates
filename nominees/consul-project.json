@@ -1,9 +1,10 @@
 {
   "name": "CONSUL Project",
   "aliases": [
-    "Consul, Consul Democracy"
+    "Consul",
+    "Consul Democracy"
   ],
-  "description": "Free Open Source Participation Software for Democracy",
+  "description": "Free Open Source Participation Software for Democracy. Citizen participation and open government web application that helps public officials carry out participatory processes with their citizens. Through an accessible and friendly interface, governments can facilitate direct citizen participation through a number of activities, including citizen proposals, participatory budgets, collaborative legislation, debates and voting.",
   "website": "https://consulproject.org/en/",
   "license": [
     {
