@@ -29,8 +29,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/CitizensFoundation/your-priorities-app",
-      "name": "Your Priorities API & Progressive Web App"
+      "name": "Your Priorities API & Progressive Web App",
+      "url": "https://github.com/CitizensFoundation/your-priorities-app"
     },
     {
       "name": "Your Priorities Active Citizen AI Library",
