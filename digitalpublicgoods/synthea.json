@@ -1,0 +1,101 @@
+{
+  "name": "Synthea",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/synthetichealth/synthea#license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/synthetichealth/synthea/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
+    ],
+    "adherenceSteps": [
+      "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR",
+      "HL7 C-CDA",
+      "LOINC",
+      "SNOMED",
+      "RxNorm"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/synthetichealth/synthea"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "Continous integration - https://github.com/synthetichealth/synthea/tree/master/.github/workflows"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The foundational principle of the project - synthetic health data as a safe and useful alternative to real health data - is designed to prevent harm to individuals’ privacy and security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The foundational principle of the project - synthetic health data as a safe and useful alternative to real health data - is designed to prevent harm to individuals’ privacy and security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct - https://github.com/synthetichealth/synthea/blob/master/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Canada",
+      "United Kingdom",
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "United States of America",
+      "Canada",
+      "Australia",
+      "India"
+    ]
+  }
+}
