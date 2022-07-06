@@ -9,6 +9,10 @@
     {
       "spdx": "ODbL-1.0",
       "licenseURL": "https://world.openfoodfacts.org/data"
+    },
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/openfoodfacts/openfoodfacts-server/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -35,16 +39,12 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/openfoodfacts/openfoodfacts-server",
-      "name": "Open Food Facts backend: data analysis + API + website"
+      "name": "Open Food Facts backend: data analysis + API + website",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-server"
     },
     {
       "name": "Open Food Facts mobile app",
       "url": "https://github.com/openfoodfacts/smooth-app"
-    },
-    {
-      "name": "Open Food Facts Artificial Intelligence models",
-      "url": "https://github.com/orgs/openfoodfacts/projects/16"
     }
   ],
   "organizations": [
