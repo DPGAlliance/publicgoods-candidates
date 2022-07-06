@@ -1,0 +1,41 @@
+{
+  "name": "Bob, the AI career coach",
+  "aliases": [
+    "Bob"
+  ],
+  "description": "Bob supports jobseekers by helping them create a data-driven plan highlighting their main job search priorities, and coaching them to take action, thereby improving their employment outcomes",
+  "website": "https://uk.hellobob.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/bayesimpact/bob-emploi/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Bob supports job seekers in their job search by providing them with key information and resources. It helps them better understand how to conduct their job search and how to move on it proactively. Bob promotes decent work and economic growth as it helps people find sustainable jobs in which they have a higher chance of staying.",
+      "evidenceURL": "https://uk.hellobob.com/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bayesimpact/bob-emploi"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bayes Impact",
+      "website": "https://www.bayesimpact.org/",
+      "org_type": "owner",
+      "contact_name": "Benjamin Goullard",
+      "contact_email": "benjamin@bayesimpact.org"
+    }
+  ],
+  "stage": "nominee"
+}
