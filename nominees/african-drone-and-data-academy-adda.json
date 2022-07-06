@@ -1,0 +1,60 @@
+{
+  "name": "African Drone and Data Academy (ADDA)",
+  "aliases": [
+    "ADDA"
+  ],
+  "description": "3 MOOCs that focus on drones and data for SDG applications",
+  "website": "https://adda-malawi.org/",
+  "license": [
+    {
+      "licenseURL": "https://adda.outreach.vt.edu",
+      "spdx": "CC-BY-SA-2.5"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Support precision agriculture in Africa by providing youth with relevant skillsets ",
+      "evidenceURL": "https://www.nepad.org/publication/drones-horizon-transforming-africas-agriculture"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Strengthen last mile heath supply chains by providing relevant skillsets",
+      "evidenceURL": "https://isghealth.org/wp-content/uploads/2020/04/UAV-use-case-prioritization_Dec2018.pdf"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Skilling youth in UAS applications. Educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy that is accessible to all.",
+      "evidenceURL": "https://adda-malawi.org"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Providing relevant skills and certificate trainings relevant in the job market. ourse imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities and  ",
+      "evidenceURL": "https://adda-malawi.org"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Use of drones for urban planning. This course fosters innovation in data use for public good and building community resilience.",
+      "evidenceURL": "https://opendri.org/project/zanzibar/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Course introduces knowledge and skills necessary to make use of existing geospatial data to map and communicate climate change impacts and promote action. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://www.unicef.org",
+      "org_type": "owner",
+      "contact_name": "Denise Soesilo",
+      "contact_email": "dsoesilo@unicef.org"
+    }
+  ],
+  "stage": "nominee"
+}
