@@ -1,5 +1,5 @@
 {
-  "name": "African Drone and Data Academy (ADDA)",
+  "name": "African Drone and Data Academy",
   "aliases": [
     "ADDA"
   ],
@@ -7,8 +7,8 @@
   "website": "https://adda-malawi.org/",
   "license": [
     {
-      "licenseURL": "https://adda.outreach.vt.edu",
-      "spdx": "CC-BY-SA-2.5"
+      "spdx": "CC-BY-SA-2.5",
+      "licenseURL": "https://adda.outreach.vt.edu"
     }
   ],
   "SDGs": [
