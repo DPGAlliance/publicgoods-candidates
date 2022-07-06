@@ -7,7 +7,7 @@
   "website": "https://cryptomator.org/",
   "license": [
     {
-      "spdx": "AGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/cryptomator/cryptomator#license"
     }
   ],
@@ -32,7 +32,7 @@
   "repositories": [
     {
       "name": "Cryptomator",
-      "url": "https://github.com/cryptomator"
+      "url": "https://github.com/cryptomator/cryptomator"
     }
   ],
   "organizations": [
