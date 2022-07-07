@@ -6,23 +6,37 @@
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "No"
+    "isSoftwarePltIndependent": "No",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No"
+    "isDocumentationAvailable": "No",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
-    "privacyComplianceList": [],
+    "privacyComplianceList": [
+      ""
+    ],
     "adherenceSteps": [
       "Only points to publicly available documents and resources"
     ]
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Clear hierarchy of items, alt text for all images"
@@ -30,21 +44,39 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Guidelines and code snippets for accessible XR",
       "contentFilter": "Yes",
-      "illegalContentDetection": "Yes",
       "policyGuidelinesDocumentationLink": "https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform",
+      "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "Only content submitted through the resource suggestion form and approved by moderators is shared"
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
