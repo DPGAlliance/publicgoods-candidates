@@ -5,10 +5,15 @@
     "copyrightURL": "https://soulmedicine.io/en/pages/terms-of-service"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Yes"
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
@@ -18,7 +23,7 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "https://soulmedicine.io/en/pages/privacy-policy"
+      "GDPR"
     ],
     "adherenceSteps": [
       "https://soulmedicine.io/en/pages/privacy-policy"
@@ -37,13 +42,35 @@
       "additionalInfoMechanismProcessesPolicies": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fdoc-0s-bs-apps-viewer.googleusercontent.com%2Fviewer%2Fsecure%2Fpdf%2Fpnha8n1bqi20scnqv957h66sk6fejc2b%2Fnm6va6s900kmct9i0tu0t8o0mt46odac%2F1647349350000%2Fdrive%2F05842605433649667759%2FACFrOgBe0-2BkcCXBHclvEL7e2xnl_uV8KAsBuPidVVQrPTNKuKMD1Wt72Sq56JlltWPcC_i3um5WXf1KcpmI0ikvdw6ikeDNnc27YC_wNjqPMMpFGcSdsFwFiRILEPUcFxFuFKxDFQ4pKDR0b_p%3Fprint%3Dtrue%26nonce%3D2o82fbff04vfi%26user%3D05842605433649667759%26hash%3Drmjqocd7a8b5s79n2jfo5cfsihi6khg8&googlePrint=true"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown"
+      "collectsPII": "Unknown",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
