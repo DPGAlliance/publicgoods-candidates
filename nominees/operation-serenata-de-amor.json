@@ -21,11 +21,8 @@
   "sectors": [],
   "type": [
     "software",
-    "content",
-    "aimodel",
-    "data"
+    "aimodel"
   ],
-  "repositoryURL": "https://github.com/okfn-brasil/serenata-de-amor",
   "organizations": [
     {
       "name": "Open Knowledge Brasil",
