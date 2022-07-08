@@ -1,0 +1,52 @@
+{
+  "name": "DiCRA",
+  "aliases": [
+    "Data in Climate Resilient Agriculture"
+  ],
+  "description": "Data in Climate Resilient Agriculture (DiCRA) is a collaborative geospatial platform which provides open access to key geospatial datasets pertinent to climate resilient agriculture. These datasets are curated and validated through collaborative efforts of a large community of data scientists and citizen scientists across the world. The pattern detection and data insights emerging from DiCRA are aimed towards strengthening evidence-driven policy making for climate resilient food systems.",
+  "website": "https://dicra.undp.org.in/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/undpindia/dicra/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "The objective of the DiCRA platform is to provide free and open access to geospatial datasets through an open digital platform thereby enabling concrete evidence-driven policies and concerted action from all stakeholders involved in sustainable and climate resilient agriculture. Through geospatial analysis and data powered positive deviance approaches, the platform informs stakeholders on which farms are more resilient to extreme weather events. Indigenous knowledge is tapped through field validation and ethnography to suggest good practices on climate resilient farming that are already working well through bottom-up approaches, to feed into large scale agriculture programs and policies and optimize public investments on climate resilient agriculture.  DiCRA platform therefore contributes to SDG 2 to 'End hunger, achieve food security and improved nutrition and promote sustainable agriculture'. Specifically DiCRA contributes to SDG target 2.4 which states 'By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality. ",
+      "evidenceURL": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-1.md"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The objective of the DiCRA platform is to provide free and open access to geospatial datasets through an open digital platform thereby enabling concrete evidence-driven policies and concerted action from all stakeholders involved in sustainable and climate resilient agriculture. Through geospatial analysis and data powered positive deviance approaches, the platform informs stakeholders on which farms are more resilient to extreme weather events. Indigenous knowledge is tapped through field validation and ethnography to suggest good practices on climate resilient farming that are already working well through bottom-up approaches, to feed into large scale agriculture programs and policies and optimize public investments on climate resilient agriculture.  DiCRA platform therefore contributes to SDG 13 'Take urgent action to combat climate change and its impacts'. With its objective to enhance climate adaptation measures through data-driven approaches as well as impact on policies for climate resilient agriculture, DiCRA platform contributes directly to SDG target 13.1 'Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries' and SDG target 13.2 to 'Integrate climate change measures into national policies, strategies and planning'.",
+      "evidenceURL": "https://github.com/undpindia/dicra/blob/main/docs/dpg-criteria/criteria-1.md"
+    }
+  ],
+  "sectors": [
+    "Agriculture"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "DiCRA",
+      "url": "https://github.com/undpindia/dicra"
+    },
+    {
+      "name": "Data4Policy",
+      "url": "https://github.com/undpindia/data4policy"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNDP",
+      "website": "https://dicra.undp.org.in/",
+      "org_type": "owner",
+      "contact_name": "Swetha Kolluri",
+      "contact_email": "swetha.kolluri@undp.org"
+    }
+  ],
+  "stage": "DPG"
+}

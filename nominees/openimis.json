@@ -32,7 +32,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openimis/web_app_vb",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openimis/web_app_vb"
+    }
+  ],
   "organizations": [
     {
       "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",

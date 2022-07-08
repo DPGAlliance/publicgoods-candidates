@@ -1,0 +1,44 @@
+{
+  "name": "Hyperaudio",
+  "aliases": [
+    ""
+  ],
+  "description": "Hyperaudio is technology that links audio tracks with transcripts.  Having coupled text with the spoken word contained within audio or video to produce an Interactive Transcript we reveal many advantages around the theme of accessibility:  Audio is more easily navigated (each word has associated start time and duration) click on a word to jump directly to that point in the audio.  The spoken word is more easily searched, indexed and discovered.  You can easily share selected parts of the transcript and so the audio.  You can remix pieces of audio and video from the transcript in a non-destructive manner.  Add to this the fact that the spoken word becomes much more accessible to people consuming media in a language which is not their first and that seeing words light up in time to being spoken reinforces learning and helps people with learning difficulties.",
+  "website": "https://hyper.audio",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/hyperaudio/hyperaudio-lite/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Having coupled text with the spoken word contained within audio or video to produce an Interactive Transcript we reveal many advantages around the theme of accessibility:  Audio is more easily navigated (each word has associated start time and duration) click on a word to jump directly to that point in the audio.  The spoken word is more easily searched, indexed and discovered.  You can easily share selected parts of the transcript and so the audio.  You can remix pieces of audio and video from the transcript in a non-destructive manner.  Add to this the fact that the spoken word becomes much more accessible to people consuming media in a language which is not their first and that seeing words light up in time to being spoken reinforces learning and helps people with learning difficulties.",
+      "evidenceURL": "https://github.com/hyperaudio/README/wiki/About-(What-is-Hyperaudio%3F)#summary"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Having coupled text with the spoken word contained within audio or video to produce an Interactive Transcript we reveal many advantages around the theme of accessibility:  Audio is more easily navigated (each word has associated start time and duration) click on a word to jump directly to that point in the audio.  The spoken word is more easily searched, indexed and discovered.  You can easily share selected parts of the transcript and so the audio.  You can remix pieces of audio and video from the transcript in a non-destructive manner.  Add to this the fact that the spoken word becomes much more accessible to people consuming media in a language which is not their first and that seeing words light up in time to being spoken reinforces learning and helps people with learning difficulties.",
+      "evidenceURL": "https://github.com/hyperaudio/README/wiki/About-(What-is-Hyperaudio%3F)#summary"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hyperaudio/hyperaudio-lite"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Hyperaudio",
+      "website": "https://hyper.audio",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

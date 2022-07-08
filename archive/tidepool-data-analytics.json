@@ -1,0 +1,34 @@
+{
+  "name": "TidePool Data Analytics",
+  "description": "Home for code we use to analyze data for the Tidepool Big Data Donation project and similar.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "BSD-2-Clause",
+      "licenseURL": "https://github.com/tidepool-org/data-analytics/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/tidepool-org/data-analytics"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "TidePool",
+      "website": "https://tidepool.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

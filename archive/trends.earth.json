@@ -1,0 +1,40 @@
+{
+  "name": "Trends.earth",
+  "description": "Trends.Earth (formerly the Land Degradation Monitoring Toolbox) is a tool for monitoring land change. Trends.Earth is a QGIS plugin that supports monitoring of land change, including changes in productivity, land cover, and soil organic carbon. ",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/ConservationInternational/trends.earth/blob/master/LICENCE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15
+    },
+    {
+      "SDGNumber": 14
+    },
+    {
+      "SDGNumber": 13
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/ConservationInternational/trends.earth"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Conservation International",
+      "website": "https://www.conservation.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

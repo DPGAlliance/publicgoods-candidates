@@ -1,0 +1,38 @@
+{
+  "name": "OpenEMR",
+  "description": "OpenEMR is the most popular open source electronic health records and medical practice management solution. OpenEMR's goal is a superior alternative to its proprietary counterparts.",
+  "website": "https://www.open-emr.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openemr/openemr/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.openhealthnews.com/content/openemr-community-responds-hrsa-call-advanced-ehr-solutions-community-health-centers"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.openhealthnews.com/content/openemr-stands-hurricane-marias-fury-puerto-rico"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openemr/openemr"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenEMR",
+      "website": "https://open-emr.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
