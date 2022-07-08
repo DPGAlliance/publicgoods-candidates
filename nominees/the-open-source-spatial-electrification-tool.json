@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 7,
-      "evidenceText": "The tool is focused on the assessment and deployment of conventional and renewable energy technologies aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.",
+      "evidenceText": "OnSSET focuses on SDG7, particularly target 7.1 which is to \"ensure universal access to affordable, reliable and modern energy services\". The tool identifies the least-cost technology (grid-extension, mini-grid or stand-alone technologies) to meet the electricity demand in each settlement in a country or region.",
       "evidenceURL": "https://www.energy.kth.se/energy-systems/completed-projects/open-source-spatial-electrification-toolkit-onsset-1.940024"
     }
   ],
