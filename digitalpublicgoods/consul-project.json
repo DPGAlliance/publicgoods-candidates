@@ -60,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "CONSUL doesn't use personal data. When implemented in local communities, it is often installed on the local server and has several ways to connect in a safe way to different systems of identificiation (local CENSUS, ElectronicID etc)."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -79,7 +79,7 @@
       "griefAbuseHarassmentProtection": "Unknown",
       "harassmentProtectionSteps": [
         "As an open source project we monitor both our GitHub and Slack closely",
-        "GitHub also has it’s own mechanism for reporting abuse"
+        "Code of conduct - https://github.com/consul/consul/blob/master/CODE_OF_CONDUCT.md"
       ]
     }
   },
