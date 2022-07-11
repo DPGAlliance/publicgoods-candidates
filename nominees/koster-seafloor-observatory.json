@@ -7,10 +7,6 @@
   "website": "https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory",
   "license": [
     {
-      "spdx": "CC-BY-4.0",
-      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    {
       "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/ocean-data-factory-sweden/koster_ml/blob/master/LICENSE"
     }
@@ -24,9 +20,7 @@
   "sectors": [],
   "type": [
     "software",
-    "data",
-    "aimodel",
-    "content"
+    "aimodel"
   ],
   "repositories": [
     {
