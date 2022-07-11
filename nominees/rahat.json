@@ -1,0 +1,100 @@
+{
+  "name": "Rahat",
+  "aliases": [
+    ""
+  ],
+  "description": "Rahat is a collection of open source blockchain-based digital relief distribution management projects  for humanitarian agencies to support marginalized communities.",
+  "website": "https://www.rahat.io/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat/blob/master/LICENSE"
+    },
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat-contracts/blob/main/LICENSE"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Rahat has been supporting vulnerable communities affected by natural disasters (Target 1.5) through cash and voucher assistance programs - making the community financially resilient.  It ensures people, especially the unbanked have the freedom, dignity and independence to decide on their own recovery.",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/rahat-tokenized-aid-distribution-platform-support-vulnerable-communities"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Since the onset of the Covid-19 pandemic, Rahat has been using its decentralized platform to distribute food supplies to vulnerable communities with small children, single women, elderly citizens in an effective and efficient manner. One of its first projects involved assisting Dhana Yoga Foundation, a US based NGO, to provide food packets to the marginalized community in Chitwan who could only harvest enough for six months. It thus aims to achieve Target 2.1 i.e. to end hunger and provide access to nutritious food all year around. In addition, Rahat has been working with local partners on pilots to support women in maternity by providing nutritious food packages in the remote mountainous regions of Humla and Jumla (on-going) with the overall aim of reducing child mortality and supporting child development (Target 2.2).",
+      "evidenceURL": "https://assets.rumsan.com/rumsan-group/rahat-pilot-8.0-case-study-report.pdf"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Local female partners are strongly encouraged to participate and facilitate the pilot projects of Rahat. This increases digital literacy, and female users become well-versed with the system and using mobile phones (Target 5.b). ",
+      "evidenceURL": "https://assets.rumsan.com/rumsan-group/rahat-pilot-7.0-case-study-report.pdf"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Rahat is a cash and voucher assistance system which utilizes local traders and institutions to distribute cash and in-kind relief packages during disaster recovery. This means that the local businesses can continue to supply available products and earn income simultaneously. This thus reduces economic burden on poor people and creates a multiplier effect on the local economy.",
+      "evidenceURL": "https://assets.rumsan.com/rumsan-group/-rahat-pilot-5.0-case-study-report.pdf"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "API service for all the other web-apps",
+      "url": "https://github.com/esatya/rahat"
+    },
+    {
+      "name": "App used by agencies to track and distribute aids",
+      "url": "https://github.com/esatya/rahat-agency"
+    },
+    {
+      "name": "To onboard beneficiaries",
+      "url": "https://github.com/esatya/rahat-mobilizer"
+    },
+    {
+      "name": "To serve beneficiary for aid distribution",
+      "url": "https://github.com/esatya/rahat-vendor"
+    },
+    {
+      "name": "Mobile based vendor wallet app to serve beneficiary for aid distribution",
+      "url": "https://github.com/esatya/rahat-vendor-app"
+    },
+    {
+      "name": "All the smart contracts implemented in Rahat application",
+      "url": "https://github.com/esatya/rahat-contracts"
+    },
+    {
+      "name": "OTP service to verify transactions between beneficiary and vendor",
+      "url": "https://github.com/esatya/rahat-otp"
+    },
+    {
+      "name": "Rahat tool to onboard beneficiaries for agencies and implementers",
+      "url": "https://github.com/esatya/rahat-aid-connect"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Rumsan Associates Private Limited",
+      "website": "https://www.rumsan.com/",
+      "org_type": "owner",
+      "contact_name": "Ruchin Singh",
+      "contact_email": "ruchin@rumsan.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}
