@@ -7,7 +7,7 @@
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/acknowledgements_and_third_party_copyrights.md"
+    "pltIndependenceDesc": "Daysim offers an open alternative, and we have made an acknowledgement for third party copyrights on our GitHub: https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/acknowledgements_and_third_party_copyrights.md"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -18,39 +18,42 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Unknown",
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The project does not provide or collect any private information"
     ],
     "adherenceSteps": [
-      ""
+      "The project does not provide or collect any private information"
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      ""
+      "Some of the building and system-related properties are stored in .csv format"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Design With the User",
       "Design for Scale",
       "Build for Sustainability",
-      "Be Collaborative"
+      "Be Collaborative",
+      "Agile development: https://city-energy-analyst.readthedocs.io/en/latest/agile-with-CEA.html",
+      "PEP 8 coding style",
+      "Test-driven development: https://city-energy-analyst.readthedocs.io/en/latest/how-to-test-the-cea.html?highlight=style#test-driven-development"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Through implementing constructive code review procedures - https://city-energy-analyst.readthedocs.io/en/latest/developer/how-to-review-a-pull-request.html?highlight=pull%20requestion"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -62,7 +65,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The repository does not provide or collect any private information"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -74,13 +77,14 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "",
+      "addressSafetySecurityUnderageUsers": "No",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "We follow clear roles and responsibilities - https://city-energy-analyst.readthedocs.io/en/latest/agile-with-CEA.html",
+        "Through implementing constructive code review procedures - https://city-energy-analyst.readthedocs.io/en/latest/developer/how-to-review-a-pull-request.html?highlight=pull%20requestion"
       ]
     }
   },
