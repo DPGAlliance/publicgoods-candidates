@@ -36,6 +36,9 @@
     "standardsList": [
       "Open Food Facts data is available in JSON, XML, CSV formats"
     ],
+    "evidenceStandardSupport": [
+      "https://world.openfoodfacts.org/data"
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Open Source + Open Data"
