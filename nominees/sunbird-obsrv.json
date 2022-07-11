@@ -19,8 +19,8 @@
     },
     {
       "SDGNumber": 4,
-      "evidenceText": "Quality Education: Sunbird building blocks have been adopted by the Ministry of Education, Government of India to launch a national school education platform called DIKSHA, which has been used extensively in each of the 36 States and Union Territories in India across 30+ languages. Measurement of usage data, which has been made possible by Sunbird Obsrv indicates widespread and intensive use of the platform. It has logged 37 billion minutes of learning from over 3 billion sessions, with over a million teachers accessing curriculum-linked digital content available in 31 languages. In addition, around 3 million teachers have completed close to 7 million courses from over the 2,600 online course options available as part of their continuing professional development. Education leadership is another domain that Sunbird Obsrv has been successfully deployed in. In this context, we see Sunbird Obsrv being used towards promoting inclusive and equitable quality education and enabling lifelong learning for all, in line with Goal #4 of the global framework referred to above.",
-      "evidenceURL": "https://www.education.gov.in/sites/upload_files/mhrd/files/Secretary_DoSEL_Presentation_World_Bank_Webinar.pdf"
+      "evidenceText": "Quality Education: Sunbird building blocks have been adopted by the Ministry of Education, Government of India to launch a national school education platform called DIKSHA, which has been used extensively in each of the 36 States and Union Territories in India across 30+ languages. Measurement of usage data, which has been made possible by Sunbird Obsrv indicates widespread and intensive use of the platform. Diksha public dashboard (https://diksha.gov.in/about/) that employs Sunbird Obsrv to report metrics. It has logged 37 billion minutes of learning from over 3 billion sessions, with over a million teachers accessing curriculum-linked digital content available in 31 languages. In addition, around 3 million teachers have completed close to 7 million courses from over the 2,600 online course options available as part of their continuing professional development. Education leadership is another domain that Sunbird Obsrv has been successfully deployed in. In this context, we see Sunbird Obsrv being used towards promoting inclusive and equitable quality education and enabling lifelong learning for all, in line with Goal #4 of the global framework referred to above. ",
+      "evidenceURL": "https://diksha.gov.in/data/"
     },
     {
       "SDGNumber": 8,
@@ -29,8 +29,7 @@
     },
     {
       "SDGNumber": 11,
-      "evidenceText": "Sustainable cities and communities: Capacity building for sustainable urban development is the key objective of the National Urban Learning Platform. There is a wide range of courses that have been rolled out by the NULP in this regard, and Sunbird Obsrv plays a critical role in making available reporting capabilities and dashboards for the platform. NULP aims to empower India’s urban functionaries, administrators, elected representatives, civil society, industry actors and other ecosystem players to build smart, inclusive, sustainable and resilient cities - in line with Goal #11 of the global framework.",
-      "evidenceURL": "https://niua.org/intranet/sites/default/files/1931.pdf"
+      "evidenceText": "Sustainable cities and communities: Capacity building for sustainable urban development is the key objective of the National Urban Learning Platform. There is a wide range of courses that have been rolled out by the NULP in this regard, and Sunbird Obsrv plays a critical role in making available reporting capabilities and dashboards for the platform. NULP aims to empower India’s urban functionaries, administrators, elected representatives, civil society, industry actors and other ecosystem players to build smart, inclusive, sustainable and resilient cities - in line with Goal #11 of the global framework."
     }
   ],
   "sectors": [],
@@ -72,5 +71,5 @@
       "contact_email": "info@ekstep.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
