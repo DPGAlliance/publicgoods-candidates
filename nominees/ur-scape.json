@@ -3,8 +3,8 @@
   "aliases": [
     ""
   ],
-  "description": "ur-scape is an open-source spatial planning tool designed to support sustainable futures in rapidly developing urban and rural regions where data is often difficult to access and uneven in quality, and where development needs are especially urgent and challenging.",
-  "website": "https://urs.sec.sg/#filter=.platform",
+  "description": "ur-scape is an open-source spatial planning tool designed to support sustainable futures in rapidly developing urban and rural regions where data is often difficult to access and uneven in quality, and where development needs are especially urgent and challenging. ur-scape does this by bringing diverse kinds of data together and encouraging people to explore the data intuitively and in real-time.  ur-scape helps city makers, be they governments, businesses or communities, improve the quality of planning and design decisions. It helps develop liveable neighbourhoods, build responsive towns, reduce city ‘stress points’ (flooding, traffic snarls, poverty) and enhance ‘sweet spots’ (accessible, equitable, economically vibrant), and progress towards strategic development goals (regional, national and SDGs).  Developed by the Urban-Rural Systems (URS) team at Future Cities Laboratory (FCL), ur-scape is supported by the Asian Development Bank (ADB) and the Swiss Secretariat for Economic Affairs (SECO). Pilot implementation of the ur-scape tool is supported by the municipal planning authorities of the city of Bandung, the Indonesian Ministry of Agrarian Affairs and Spatial Planning (MASP), and the Bauhaus Weimar University.",
+  "website": "https://urs.sec.sg/",
   "license": [
     {
       "spdx": "MIT",
@@ -24,7 +24,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/UrbanRuralSystems/ur-scape/"
+      "url": "https://github.com/UrbanRuralSystems/ur-scape"
     }
   ],
   "organizations": [
