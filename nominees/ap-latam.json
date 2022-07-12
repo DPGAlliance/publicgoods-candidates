@@ -1,0 +1,73 @@
+{
+  "name": "AP Latam",
+  "aliases": [
+    ""
+  ],
+  "description": "Measuring the growth of informal settlements in Latin America using satellite imagery and AI algorithms",
+  "website": "https://ap-latam.dymaxionlabs.com/en/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/dymaxionlabs/ap-latam/blob/master/LICENSE.md"
+    },
+    {
+      "spdx": "PDDL-1.0",
+      "licenseURL": "https://ap-latam.dymaxionlabs.com/en/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "In order to secure the livelihoods of every person, it is imperative to generate up-to-date data to measure the impact of public policies related to food security and household conditions. Using our analytics platform, companies, governments, and NGOs can access up-to-date, ready to use data to make better decisions that impact their populations.",
+      "evidenceURL": "https://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-dymaxion-labs"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Cities in Latin America and the Caribbean grow spatially and socially segregated. This inequality reflects a widespread need for better living conditions. The problem has been traditionally addressed as a quantity deficit, but it has become a quality deficit: wide swaths of the population lack access to public services, housing tenure and other qualitative aspects. Our tool identifies and monitors location and growth patterns of informal settlements through satellite or aerial images. It can help predict the location and number of residents without access to basic services, and produce extremely-high resolution maps to guide precise targeting of amelioration efforts.",
+      "evidenceURL": "https://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-dymaxion-labs"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "AP Latam is designed to monitor the rate of growth, expansion and change of Informal Settlements in fast-urbanizing environments especially at the fringe of the city, to be used as a wide-range urban planning tool for municipalities and communities.",
+      "evidenceURL": "https://ircai.org/top100/entry/adress-informal-settlements-exposure-to-climate-related-hazard/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "AP Latam identifies and monitors location and growth patterns of informal settlements through satellite or aerial images and that, combined with topography and local precipitation data, can identify exposure to climate-related risks, shocks, and stresses within hours once the system is set up. The solution is able to scale economically and quickly, enabling use at the regional and local levels. This solution is replicable for every country that suffers climate change consequences regarding water hazards.",
+      "evidenceURL": "https://ircai.org/top100/entry/adress-informal-settlements-exposure-to-climate-related-hazard/"
+    }
+  ],
+  "sectors": [
+    "Climate",
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dymaxionlabs/ap-latam"
+    },
+    {
+      "name": "data",
+      "url": "https://ap-latam.dymaxionlabs.com/en/data"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Dymaxion labs",
+      "website": "https://dymaxionlabs.com/",
+      "org_type": "owner",
+      "contact_name": "Antonio Vazquez Brust",
+      "contact_email": "antonio@dymaxionlabs.com"
+    },
+    {
+      "name": "UNICEF Innovation Fund",
+      "website": "https://www.unicefinnovationfund.org/home",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}
