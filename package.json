@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.6"
   }
 }
