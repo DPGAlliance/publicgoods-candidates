@@ -1,0 +1,117 @@
+{
+  "name": "Coral",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://coralproject.net/about-2/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.coralproject.net"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "You can use the API or a db dump. We don't get any access to any information whatsoever - we don't even know if you're running the software - but in order for it to work, people have to create accounts, and that information lives on your servers"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "We don't host any of your data (unless we have a separate paid relationship with you), so it is up to each individual host to ensure that they are compliant. However, we provide the infrastructure and tooling to make compliance easy for GDPR, PIPEDA, CCPA, etc."
+    ],
+    "adherenceSteps": [
+      "https://docs.coralproject.net/gdpr"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "JWT standards https://docs.coralproject.net/sso ",
+      "Structured object types via RESTful-like API through GraphQL https://docs.coralproject.net/api/schema"
+    ],
+    "evidenceStandardSupport": [
+      "https://app.circleci.com/pipelines/github/coralproject/talk"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org/",
+      "https://www.mozilla.org/en-US/about/manifesto/",
+      "CI linting https://github.com/coralproject/talk/blob/develop/CONTRIBUTING.md"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We always consider how any feature could be used by a hostile force, eg abuser, spammer, troll. We will not ship any feature that can be used also to troll without strong mitigation principles.  https://medium.com/the-coral-project/by-andrew-losowsky-head-of-coral-365c44152149 "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Email address",
+        "Username (which can contain PII)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://docs.coralproject.net/gdpr"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "UGC via comments",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://coralproject.net/acceptable-use-policy/",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "We have several mechanisms in place to prevent spam and abuse, including optional integration of AI (including free-to-use AI services), the ability to block/flag/remove users, domains, and language, and much more"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The entire platform is built around best-in-class safety and moderation tools. Users can mute each other, flag/report abusive content, and moderators have dozens of dedicated tools to help spot, remove, and take action against grief, abuse, harassment "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Canada",
+      "Germany"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Denmark",
+      "Chile",
+      "Finland",
+      "France",
+      "Germany",
+      "New Zealand",
+      "Netherlands",
+      "Norway",
+      "Serbia",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay",
+      "Montenegro",
+      "Poland"
+    ]
+  }
+}
