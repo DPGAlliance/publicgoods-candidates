@@ -1,0 +1,73 @@
+{
+  "name": "tERRASTORIES",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Terrastories/terrastories"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.earthdefenderstoolkit.com/toolkit/terrastories-a-tool-for-place-based-storytelling/",
+      "https://terrastories.io/category/user-stories/",
+      "https://github.com/Terrastories/terrastories/blob/master/documentation/DEVELOPMENT.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Terrastories can be used to map media content (e.g. stories) about places of interest. As well, data can be entered for speakers involved in those stories. This data can be exported and imported in a CSV format."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Offline-first design",
+      "Co-creation with Indigenous communities",
+      "Indigenous data sovereignty"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Terrastories is built with a user roles schema that allows community administrators to dole out permissions of access, viewing, and editing data. Communities themselves can determine who has access to which kinds of data stored on Terrastories."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Stories, Speakers, Places - each of which may contain media content e.g. images and videos.",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Suriname",
+      "Brazil",
+      "Canada",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Canada",
+      "Guyana",
+      "Suriname",
+      "Kenya",
+      "Brazil",
+      "Colombia",
+      "United States of America",
+      "Uganda"
+    ]
+  }
+}
