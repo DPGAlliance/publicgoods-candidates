@@ -1,0 +1,33 @@
+{
+  "name": "Aarogya Setu",
+  "description": "Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19.",
+  "website": "https://www.aarogyasetu.gov.in/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/nic-delhi/AarogyaSetu_Android/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/nic-delhi/AarogyaSetu_Android"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The Government of India's Ministry of Electronics and Information Technology",
+      "org_type": "owner",
+      "contact_email": "support.aarogyasetu@nic.in"
+    }
+  ],
+  "stage": "archive"
+}

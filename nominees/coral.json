@@ -1,0 +1,56 @@
+{
+  "name": "Coral",
+  "aliases": [
+    "The Coral Project"
+  ],
+  "description": "Open source commenting platform free from adtech and surveillance",
+  "website": "https://coral.voxmedia.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/coralproject/talk/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Online violence against women is a pervasive problem. By creating a strong community moderation platform and strategy guides, we help make the internet a safer place for women",
+      "evidenceURL": "https://guides.coralproject.net/what-women-want-in-community/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Community engagement is a core piece of digital infrastructure. Our platform empowers moderation and community management to empower online conversation"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Our platform, built and designed by a diverse team, is designed to create more productive, welcoming online communities, with software and research designed to reduce online racism and abuse",
+      "evidenceURL": "https://guides.coralproject.net/survey-marginalized-voices/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "By designing safer community software for major media organizations, we empower both state broadcasters and local news startups to improve online dialog without the abuse and spam that plagues conversation"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/coralproject/talk/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Vox Media",
+      "website": "https://voxmedia.com",
+      "org_type": "owner",
+      "contact_name": "Andrew Losowsky",
+      "contact_email": "andrew.losowsky@voxmedia.com"
+    }
+  ],
+  "stage": "DPG"
+}
