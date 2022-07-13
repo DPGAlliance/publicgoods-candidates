@@ -17,7 +17,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/nvaccess/nvda",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/nvaccess/nvda"
+    }
+  ],
   "organizations": [
     {
       "name": "NVAccess",

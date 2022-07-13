@@ -1,0 +1,97 @@
+{
+  "name": "Translation Initiative for Covid-19",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://tico-19.github.io/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://tico-19.github.io/index.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The translations are free to use under a CC0 license."
+    ],
+    "adherenceSteps": [
+      "we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance  over the produced translations. "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The data collection followed established industry standards for fair compensation. The released dataset has also been reviewed through a rigorous quality assurance process, which exceeds the typical academic standards and follows industry standards."
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "See answer above. The data collection followed established industry standards for fair compensation. The released dataset has also been reviewed through a rigorous quality assurance process, which exceeds the typical academic standards and follows higher-quality translation industry standards."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Yes. A major potential from harm relating to COVID-19 is the spread of misinformation. As such, the team made sure that all originally selected documents came from trusted sources and did not include unsubstantiated claims.\nAnother potential harm could result from potential mistranslations of the COVID-19 content, which could inadvertently provide misleading information. Thus, we followed a rigorous quality assurance process involving professional translators with medical expertise, to ensure that the terminologies and translations are as accurate as possible."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance over the produced translations."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Yes, the project created and distributed translations memories, terminologies and a public translation benchmark that includes 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Yes, the project created and distributed translations memories, terminologies and a public translation benchmark that includes 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages: Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, Farsi, French (European), Hausa, Hindi, Indonesian, Kanuri, Khmer (Central), Kinyarwanda, Kurdish Kurmanji, Kurdish Sorani, Lingala, Luganda, Malay, Marathi, Myanmar, Nepali, Nigerian Fulfulde, Nuer, Oromo, Pashto, Portuguese (Brazilian), Russian, Somali, Spanish (Latin American), Swahili, Congolese Swahili, Tagalog, Tamil, Tigrinya, Urdu, Zulu.\nThese documents were originally selected for their relevance to COVID-19, and they do not contain inappropriate or illegal content."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Yes, there is a call for community contributions: https://tico-19.github.io/translators.html",
+        "Professional translators are invited to share their translation memories or terminologies, as well as to use and potentially correct the provided datasets.",
+        "We also invite translations of the existing data to more languages.",
+        "We do not anticipate any risk from underage or other users, hence we do not restrict access to anyone."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance over the produced translations. "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Ireland",
+      "United Kingdom",
+      "Canada",
+      "Spain",
+      "Italy",
+      "Australia"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

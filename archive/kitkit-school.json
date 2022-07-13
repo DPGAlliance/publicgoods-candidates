@@ -1,0 +1,35 @@
+{
+  "name": "Kitkit School",
+  "description": "Kitkit School is a tablet-based application with a comprehensive curriculum that spans early childhood through early elementary. It is designed to provide children with the foundations and practice needed to build fundamental skills in literacy and numeracy along with opportunities to explore other subjects including music and art, regardless of access to school or resources.",
+  "website": "https://kitkitschool.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/XPRIZE/GLEXP-Team-KitkitSchool/blob/newmaster/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Kitkit School is transforming learning and delivering powerful results for children, regardless of initial capacity and access to resources. Since Kitkit was developed in 2016, our partner organizations have helped make our growing impact possible, delivering Kitkit School to children and hard-to-reach communities across the globe. Our comprehensive learning app has demonstrated significant gains in literacy and numeracy, improved outcomes for those who need it the most and transformative benefits beyond academics.",
+      "evidenceURL": "https://www.xprize.org/prizes/global-learning, http://kitkitschool.com/impact/"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/XPRIZE/GLEXP-Team-KitkitSchool"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Enuma",
+      "website": "https://enuma.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

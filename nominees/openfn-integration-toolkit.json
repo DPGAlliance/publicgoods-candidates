@@ -30,7 +30,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenFn/core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenFn/core"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenFn",

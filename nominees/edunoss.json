@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://repos.nos.aiti-kace.com.gh/noss/pool/",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://repos.nos.aiti-kace.com.gh/noss/pool/"
+    }
+  ],
   "organizations": [
     {
       "name": "Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE)",

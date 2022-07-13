@@ -1,0 +1,35 @@
+{
+  "name": "VistA",
+  "description": "Electronic Health Record systems (EHR) are essential to improving health quality and managing health care delivery, whether in a large health system, hospital, or primary care clinic. The U.S. Department of Veterans Affairs (VA) has developed and continues to maintain a robust EHR known as VistA - the Veterans Health Information Systems and Technology Architecture. This system was designed and developed to support a high-quality medical care environment for the military veterans in the United States.",
+  "website": "https://worldvista.org/AboutVistA",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/WorldVistA/VistA/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.nytimes.com/2007/05/30/opinion/30goetz.html?ex=1338177600&en=4b9b74b9874cad7f&ei=5124&partner=permalink&exprod=permalink"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WorldVistA/VistA"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "WorldVistA",
+      "website": "https://www.worldvista.org/",
+      "org_type": "owner",
+      "contact_email": "info@worldvista.org"
+    }
+  ],
+  "stage": "nominee"
+}

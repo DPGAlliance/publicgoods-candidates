@@ -1,0 +1,34 @@
+{
+  "name": "Tenants 2.0 - NYC",
+  "description": "JustFix.nyc is a tool to document, organize, and take action in getting repairs made on your apartment.",
+  "website": "https://tenants2.herokuapp.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/JustFixNYC/tenants2/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/JustFixNYC/tenants2"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "JustFix",
+      "website": "https://justfix.nyc",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "PrivateTracer",
+  "description": "A bluetooth-based contact tracing app being developed by the the Municipality of the Hague and other private and nonprofit partners. It abides by the DP-3T privacy protocol specifications and processes location and bluetooth data locally on the user's smartphone.",
+  "website": "https://gitlab.com/PrivateTracer",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://gitlab.com/PrivateTracer/ios-client/-/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.com/PrivateTracer/ios-client"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "PrivateTracer Foundation",
+      "org_type": "owner",
+      "contact_email": "contribute@privatetracer.org"
+    }
+  ],
+  "stage": "nominee"
+}

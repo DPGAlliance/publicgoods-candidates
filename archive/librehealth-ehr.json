@@ -1,0 +1,34 @@
+{
+  "name": "LibreHealth EHR",
+  "description": "The LibreHealth EHR application is a clinically-focused electronic health record (EHR) system designed to be both easy to use “out of the box” and also customizable for use in a variety of health care settings.",
+  "website": "https://librehealth.io/projects/lh-ehr/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/LibreHealthIO/lh-ehr/blob/master/COPYRIGHT_AND_LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LibreHealthIO/lh-ehr"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "LibreHealthIO",
+      "website": "https://librehealth.io/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
