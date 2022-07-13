@@ -1,0 +1,32 @@
+{
+  "name": "Project PAPUA",
+  "description": "The Pilot Application for Pandemic Unemployment Assistance (PAPUA) project is a prototype service providing a unified unemployment intake form and delivers validated unemployment claims to various State backends. This project is a volunteer-led effort and part of the US Digital Response network. It was been adopted by the State of New Jersey.",
+  "website": "https://papua.usdigitalresponse.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/usdigitalresponse/project-papua/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/usdigitalresponse/project-papua"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "US Digital Response",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

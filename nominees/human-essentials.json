@@ -1,29 +1,46 @@
 {
   "name": "Human Essentials",
-  "description": "An inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.",
-  "website": "https://diaper.app/",
+  "aliases": [
+    ""
+  ],
+  "description": "Human Essentials is an inventory management system for essentials banks, to aid them in distributing items to their partners, tracking their inventory, and providing statistics about their inventory flows.",
+  "website": "https://www.humanessentials.app",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/rubyforgood/human-essentials/blob/master/LICENSE"
+      "licenseURL": "https://github.com/rubyforgood/human-essentials/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 10
+      "SDGNumber": 1,
+      "evidenceText": "Essentials banks provide individuals with basic needs they cannot otherwise afford and helps them get out of a cycle of poverty. If you lack diapers you are unable to put your children in daycare, if you can't put your children in daycare you are unable to work, and the situation is exasperated. "
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Essential banks supply period products to those that wouldn't otherwise be able to afford them. Aside from the human diginity aspect, the lack of period supplies puts those who need them in the situation where they use products longer than intended or use other unsanitary and unsafe methods such as socks, pieces of clothing, and so on."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Essential banks supply period products to those that wouldn't otherwise be able to afford them. Aside from the human diginity aspect, the lack of period supplies puts those who need them in the situation where they use products longer than intended or use other unsanitary and unsafe methods such as socks, pieces of clothing, and so on."
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rubyforgood/human-essentials",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rubyforgood/human-essentials"
+    }
+  ],
   "organizations": [
     {
-      "name": "RubyForGood",
-      "website": "https://rubyforgood.org/",
+      "name": "Ruby for Good",
+      "website": "https://rubyforgood.org",
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

@@ -30,7 +30,12 @@
   "type": [
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/Wonder-Tree/PoseCamera",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Wonder-Tree/PoseCamera"
+    }
+  ],
   "organizations": [
     {
       "name": "Wonder Tree",
