@@ -1,0 +1,101 @@
+{
+  "name": "Human Essentials",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/rubyforgood/human-essentials/blob/main/README.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/rubyforgood/human-essentials/blob/main/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Privacy policy - https://humanessentials.app/privacypolicy"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://humanessentials.app/privacypolicy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTPS, SSL, SSH, OAuth 2, JWT, UTF-8, HTML, CSS, ES7, REST, JSON, CSV, PDF, PNG"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/rubyforgood/human-essentials"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile Development",
+      "12 Factor",
+      "TDD",
+      "CI/CD",
+      "Code Reviews",
+      "DRY"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The team actively maintains the project and works directly with the organizations using the software. They also hold monthly meetings with the stakeholders as well as attend the national conference for the stakeholders."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Email"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Like the technical community as a whole, the Ruby for Good team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://github.com/rubyforgood/human-essentials/blob/main/code-of-conduct.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Brazil",
+      "Canada",
+      "Japan",
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "Canada",
+      "United States of America"
+    ]
+  }
+}
