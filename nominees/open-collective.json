@@ -3,16 +3,12 @@
   "aliases": [
     ""
   ],
-  "description": "Open source platform for transparent fundraising, community engagement, and fiscal hosting.",
+  "description": "Open source platform for transparent fundraising, community engagement, and fiscal hosting. Open Collective is a legal and financial toolbox for grassroots groups. It's a fundraising, legal status and money management platform for your community",
   "website": "https://opencollective.com",
   "license": [
     {
       "spdx": "MIT",
       "licenseURL": "https://github.com/opencollective/opencollective-api/blob/main/LICENSE"
-    },
-    {
-      "spdx": "MIT",
-      "licenseURL": "https://github.com/opencollective/opencollective-frontend/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -43,8 +39,8 @@
   ],
   "repositories": [
     {
-      "name": "Open Collective organization",
-      "url": "https://github.com/opencollective"
+      "name": "Open Collective API",
+      "url": "https://github.com/opencollective/opencollective-api"
     }
   ],
   "organizations": [
