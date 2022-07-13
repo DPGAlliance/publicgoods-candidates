@@ -14,19 +14,22 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "Another instance of the training platform employing the Sunbird building blocks was rapidly deployed in the wake of the Covid outbreak to train frontline workers on how to deal with the pandemic. These included healthcare workers and professionals as well as volunteers - this was launched on the Integrated Government Online training portal. This effort utilized Sunbird Obsrv to measure and generate metrics on the number of individuals being trained, the extent of their training completion as well as system performance. This was an instrumental effort in training several thousands of frontline workers in the fight against Covid. This measure was undertaken by the National Health Mission and was also part of the operational guidelines from the Ministry of Health. This effort is in line with goal #3.d of the global framework."
+      "evidenceText": "Good health and well being: Another instance of the training platform employing the Sunbird building blocks was rapidly deployed in the wake of the Covid outbreak to train frontline workers on how to deal with the pandemic. These included healthcare workers and professionals as well as volunteers - this was launched on the Integrated Government Online training portal. This effort utilized Sunbird Obsrv to measure and generate metrics on the number of individuals being trained, the extent of their training completion as well as system performance. This was an instrumental effort in training several thousands of frontline workers in the fight against Covid. This measure was undertaken by the National Health Mission and was also part of the operational guidelines from the Ministry of Health. This effort is in line with goal #3.d of the global framework. ",
+      "evidenceURL": "https://www.mohfw.gov.in/pdf/MeasuresUndertakenToEnsureSafetyOfHealthWorkersDraftedForCOVID19Services.pdf"
     },
     {
       "SDGNumber": 4,
-      "evidenceText": "Sunbird building blocks have been adopted by the Ministry of Education, Government of India to launch a national school education platform called DIKSHA, which has been used extensively in each of the 36 States and Union Territories in India across 30+ languages. Measurement of usage data, which has been made possible by Sunbird Obsrv indicates widespread and intensive use of the platform. It has logged 37 billion minutes of learning from over 3 billion sessions, with over a million teachers accessing curriculum-linked digital content available in 31 languages. In addition, around 3 million teachers have completed close to 7 million courses from over the 2,600 online course options available as part of their continuing professional development. Education leadership is another domain that Sunbird Obsrv has been successfully deployed in. In this context, we see Sunbird Obsrv being used towards promoting inclusive and equitable quality education and enabling lifelong learning for all, in line with Goal #4 of the global framework referred to above."
+      "evidenceText": "Quality Education: Sunbird building blocks have been adopted by the Ministry of Education, Government of India to launch a national school education platform called DIKSHA, which has been used extensively in each of the 36 States and Union Territories in India across 30+ languages. Measurement of usage data, which has been made possible by Sunbird Obsrv indicates widespread and intensive use of the platform. Diksha public dashboard (https://diksha.gov.in/about/) that employs Sunbird Obsrv to report metrics. It has logged 37 billion minutes of learning from over 3 billion sessions, with over a million teachers accessing curriculum-linked digital content available in 31 languages. In addition, around 3 million teachers have completed close to 7 million courses from over the 2,600 online course options available as part of their continuing professional development. Education leadership is another domain that Sunbird Obsrv has been successfully deployed in. In this context, we see Sunbird Obsrv being used towards promoting inclusive and equitable quality education and enabling lifelong learning for all, in line with Goal #4 of the global framework referred to above. ",
+      "evidenceURL": "https://diksha.gov.in/data/"
     },
     {
       "SDGNumber": 8,
-      "evidenceText": "Skilling, talent transformation and capacity building for employability is another area that Sunbird Obsrv will extensively be used in - tracking of user learning progress, measurement of scores for questions and assessments as well as measuring user engagement is a key capability enabled by Sunbird Obsrv on scalable and powerful learning platforms that are deployed by corporates as well as government-led skilling agencies alike. This pertains to goal #8 of the global framework."
+      "evidenceText": "Decent work and economic growth: Skilling, talent transformation and capacity building for employability is another area that Sunbird Obsrv will extensively be used in - tracking of user learning progress, measurement of scores for questions and assessments as well as measuring user engagement is a key capability enabled by Sunbird Obsrv on scalable and powerful learning platforms that are deployed by corporates as well as government-led skilling agencies alike. This pertains to goal #8 of the global framework.",
+      "evidenceURL": "https://sunbird.org/explore/articles/14-infosys-lex-on-adopting-sunbird"
     },
     {
       "SDGNumber": 11,
-      "evidenceText": "Capacity building for sustainable urban development is the key objective of the National Urban Learning Platform. There is a wide range of courses that have been rolled out by the NULP in this regard, and Sunbird Obsrv plays a critical role in making available reporting capabilities and dashboards for the platform. NULP aims to empower India’s urban functionaries, administrators, elected representatives, civil society, industry actors and other ecosystem players to build smart, inclusive, sustainable and resilient cities - in line with Goal #11 of the global framework."
+      "evidenceText": "Sustainable cities and communities: Capacity building for sustainable urban development is the key objective of the National Urban Learning Platform. There is a wide range of courses that have been rolled out by the NULP in this regard, and Sunbird Obsrv plays a critical role in making available reporting capabilities and dashboards for the platform. NULP aims to empower India’s urban functionaries, administrators, elected representatives, civil society, industry actors and other ecosystem players to build smart, inclusive, sustainable and resilient cities - in line with Goal #11 of the global framework."
     }
   ],
   "sectors": [],
@@ -34,6 +37,10 @@
     "software"
   ],
   "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Sunbird-Obsrv"
+    },
     {
       "name": "API services for handling telemetry in sunbird",
       "url": "https://github.com/project-sunbird/sunbird-telemetry-service"
@@ -64,5 +71,5 @@
       "contact_email": "info@ekstep.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
