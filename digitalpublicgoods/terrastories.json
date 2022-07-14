@@ -1,11 +1,13 @@
 {
-  "name": "tERRASTORIES",
+  "name": "Terrastories",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/Terrastories/terrastories"
+    "copyrightURL": "https://terrastories.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -21,10 +23,22 @@
     "nonPIIAccessMechanism": "Terrastories can be used to map media content (e.g. stories) about places of interest. As well, data can be entered for speakers involved in those stories. This data can be exported and imported in a CSV format."
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Offline-first design",
@@ -35,21 +49,38 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "Terrastories is built with a user roles schema that allows community administrators to dole out permissions of access, viewing, and editing data. Communities themselves can determine who has access to which kinds of data stored on Terrastories."
+      "additionalInfoMechanismProcessesPolicies": "Terrastories is built with a user roles schema that allows community administrators to assign out permissions of access, viewing, and editing data. Communities themselves can determine who has access to which kinds of data stored on Terrastories."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Stories, Speakers, Places - each of which may contain media content e.g. images and videos.",
-      "contentFilter": "Unknown",
-      "illegalContentDetection": "Unknown"
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "Terrastories is built with a user roles schema that allows community administrators to assign out permissions of access, viewing, and editing data. Communities themselves can determine who has access to which kinds of data stored on Terrastories.",
+      "illegalContentDetection": "Unknown",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Unknown",
-      "griefAbuseHarassmentProtection": "Unknown"
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
