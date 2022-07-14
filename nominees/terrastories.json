@@ -1,9 +1,9 @@
 {
-  "name": "tERRASTORIES",
+  "name": "Terrastories",
   "aliases": [
     ""
   ],
-  "description": "An open-source application for mapping place-based oral histories",
+  "description": "An open-source application for mapping place-based oral histories. Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. Terrastories is designed to be entirely offline-compatible",
   "website": "https://terrastories.io",
   "license": [
     {
@@ -29,7 +29,7 @@
   ],
   "repositories": [
     {
-      "name": "Terrastories codebase",
+      "name": "main",
       "url": "https://github.com/terrastories/terrastories"
     }
   ],
