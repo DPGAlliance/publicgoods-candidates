@@ -46,7 +46,12 @@
   "type": [
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "courses",
+      "url": "https://adda.outreach.vt.edu/course/index.php"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",
