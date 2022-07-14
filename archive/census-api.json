@@ -1,0 +1,34 @@
+{
+  "name": "Census API",
+  "description": "A Python wrapper for the US Census API.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/datamade/census/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/datamade/census"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "DataMade ",
+      "website": "https://www.councilmatic.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

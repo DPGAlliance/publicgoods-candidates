@@ -1,0 +1,34 @@
+{
+  "name": "LiberaPay",
+  "description": "Source code of the recurrent donations platform Liberapay.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/liberapay/liberapay.com"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "LiberaPay",
+      "website": "https://liberapay.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Sunbird QuML",
+  "aliases": [
+    "QuML",
+    "SB-QuML"
+  ],
+  "description": "Question Markup Language (QuML in short) is a specification for representation, storage, rendering and distribution of any type of “Questions” and “Question Sets”. Wherever a question can be used (assessments, practice, quizzes, surveys, feedbacks, polls, etc) across any domain, it can be represented within QuML as a structured markup. QuML enables interoperability between various systems by making them portable and markup driven. It can be used in learning and capacity building contexts.",
+  "website": "https://quml.sunbird.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/sunbird-specs/QuML/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Question Markup Language (QuML in short) is a specification for representation, storage, rendering and distribution of any type of “Questions” and “Question Sets”. Wherever a question can be used (assessments, practice, quizzes, surveys, feedbacks, polls, etc) across any domain, it can be represented within QuML as a structured markup. QuML enables interoperability between various systems by making them portable and markup driven.   This specification is based on IMS QTI Specification 2.2 with necessary extensions. QuML specification describes the information model for questions and question sets used in practice, assessments, surveys, quizzes, polls, and many other relevant use-cases. This specification describes a model for the representation of questions and question sets data and their corresponding results reports. Therefore, the specification enables the exchange of the question, question set and results data between authoring tools, question banks, test construction tools, learning systems and assessment delivery systems.  QuML specification is designed for a wide range of use-cases by enabling configurable behaviour of questions and questions. It can support dynamic worksheets or tests, timed tests, limited attempts, multilingual questions, adaptive tests, rubric based assessments, polls, surveys, quizzes, etc.  This specification is used in Sunbird ED which is adopted by many organizations including the Ministry of Education, Government of India for DIKSHA. Given the unbundled nature of questions and machine independent representation, question object or question set object can be rendered within any user interface, forms, learning environment, polls, surveys, mobile applications, etc easily.   QuML is an open-source (MIT license), configurable, extendable, modular, specification for learning and human development designed for massive scale implementations."
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Question Markup Language (QuML in short) is a specification for representation, storage, rendering and distribution of any type of “Questions” and “Question Sets”. Wherever a question can be used (assessments, practice, quizzes, surveys, feedbacks, polls, etc) across any domain, it can be represented within QuML as a structured markup. QuML enables interoperability between various systems by making them portable and markup driven.   This specification is based on IMS QTI Specification 2.2 with necessary extensions. QuML specification describes the information model for questions and question sets used in practice, assessments, surveys, quizzes, polls, and many other relevant use-cases. This specification describes a model for the representation of questions and question sets data and their corresponding results reports. Therefore, the specification enables the exchange of the question, question set and results data between authoring tools, question banks, test construction tools, learning systems and assessment delivery systems.  QuML specification is designed for a wide range of use-cases by enabling configurable behaviour of questions and questions. It can support dynamic worksheets or tests, timed tests, limited attempts, multilingual questions, adaptive tests, rubric based assessments, polls, surveys, quizzes, etc.  This specification is used in Sunbird ED which is adopted by many organizations including the Ministry of Education, Government of India for DIKSHA. Given the unbundled nature of questions and machine independent representation, question object or question set object can be rendered within any user interface, forms, learning environment, polls, surveys, mobile applications, etc easily.   QuML is an open-source (MIT license), configurable, extendable, modular, specification for learning and human development designed for massive scale implementations."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/sunbird-specs/QuML"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "EkStep Foundation",
+      "website": "https://www.ekstep.org",
+      "org_type": "owner",
+      "contact_name": "Deepika Mogilishetty",
+      "contact_email": "info@ekstep.org"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Find Training",
+  "description": "Mobile-optimized site for job seekers to find and compare training programs that are eligible for tuition assistance from the government workforce system.",
+  "website": "https://findtraining.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforamerica/etpl-search/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforamerica/etpl-search"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

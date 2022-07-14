@@ -1,0 +1,34 @@
+{
+  "name": "Open Food Network",
+  "description": "Connect suppliers, distributors and consumers to trade local produce.",
+  "website": "https://openfoodnetwork.org/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/openfoodfoundation/openfoodnetwork/blob/master/LICENCE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 12
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Food Foundation",
+      "website": "https://openfoodfoundation.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

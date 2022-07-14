@@ -1,0 +1,34 @@
+{
+  "name": "Otsimo AAC",
+  "description": "Otsimo AAC is an application that ables kids with autism who can not speak to compose phrases by tapping on the words via using picture exchange communication system.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/otsimo/aac/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/otsimo/aac"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Otsimo",
+      "website": "https://otsimo.com/en/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

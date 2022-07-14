@@ -1,0 +1,52 @@
+{
+  "name": "Jellow AAC Communicator",
+  "aliases": [
+    "Jellow Basic"
+  ],
+  "description": "Jellow Basic Communicator is a freely downloadable friendly Augmentative and Alternative Communication (AAC) system that uses icons/images to enable aid communication in people learning to speak or with difficulty with speech and language.",
+  "website": "https://jellow.org/jellow-basic.php",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/jellow-aac/jellow-communicator-android/blob/master/LICENSE.txt"
+    },
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://github.com/jellow-aac/jellow-communicator-android"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/graduate-ninaad-jellow-communicator-friendly-augmentative-and-alternative"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/jellow-aac/jellow-communicator-android"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "NINAAD Digital Technology Private Limited",
+      "website": "https://jellow.org/",
+      "org_type": "owner",
+      "contact_name": "Vidya Upadhya",
+      "contact_email": "jellowcommunicator@gmail.com"
+    },
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

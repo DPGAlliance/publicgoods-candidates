@@ -33,7 +33,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dhis2/dhis2-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dhis2/dhis2-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Health Information Systems Programme (HISP), University of Oslo",
