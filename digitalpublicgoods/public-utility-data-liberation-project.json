@@ -60,22 +60,22 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Cleaned, standardized, and cross linked US energy system data tables; unified open source US energy system database; web interface for filtering and querying US energy system database.",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://catalystcoop-pudl.readthedocs.io/en/latest/code_of_conduct.html",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "We review all comments on our website and issue management system as well as all contributions to our code base to make sure that they adhere to our code of conduct. Any comments are typically reviewed within 24 hours. https://catalystcoop-pudl.readthedocs.io/en/latest/code_of_conduct.html"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "code of conduct - https://catalystcoop-pudl.readthedocs.io/en/latest/code_of_conduct.html"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "The enforcement section of our code of conduct addresses this issue: Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at pudl@catalyst.coop. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.  Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership."
+        "The enforcement section of our code of conduct (https://catalystcoop-pudl.readthedocs.io/en/latest/code_of_conduct.html) addresses this issue: Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at pudl@catalyst.coop. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.  Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership."
       ]
     }
   },
