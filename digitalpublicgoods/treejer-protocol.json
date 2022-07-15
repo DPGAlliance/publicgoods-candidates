@@ -46,7 +46,24 @@
       "Privacy"
     ],
     "evidenceStandardSupport": [
-      "https://validator.w3.org/nu/?doc=https%3A%2F%2Ftreejer.com%2F"
+      "ERC-721 token Standard (Treejer's NFT Trees)- https://polygonscan.com/address/0x3abbc23f3303ef36fd9f6cec0e585b2c23e47fd9",
+      "HTTPS - https://www.ssllabs.com/ssltest/analyze.html?d=treejer.com&latest",
+      "SSL - https://treejer.com/",
+      "JWT (JSON Web Tokens) -  https://api.treejer.com/explorer/",
+      "Internationalization (i18n)-  https://github.com/treejer/mobile/tree/crowdin/src/localization",
+      "UTF-8 - https://github.com/treejer/mobile/search?q=utf-8",
+      "HTML - https://validator.w3.org/nu/?doc=https%3A%2F%2Ftreejer.com%2F",
+      "CSS - https://validator.w3.org/nu/?doc=https%3A%2F%2Ftreejer.com%2F",
+      "ECMAScript (ES 5/6/7) - https://github.com/treejer/mobile/blob/master/src/types.ts",
+      "REST (Representational State Transfer) - https://api.treejer.com/explorer/",
+      "Application Programming Interfaces (APIs) - https://api.treejer.com/explorer/",
+      "OpenAPI  - https://api.treejer.com/explorer/",
+      "JSON (JavaScript Object Notation) - https://api.treejer.com/explorer/",
+      "W3C VC (Treejer's planters are identified by crypto wallet addresses which acts as a verifiable digital credential on blockchain)",
+      "Multimedia (Tree NFT Covers) - https://opensea.io/collection/treejer-trees",
+      "SVG (Scalable Vector Graphics) - https://github.com/treejer/web/blob/master/static/tree.svg",
+      "PNG (Portable Network Graphics) - https://github.com/treejer/web/blob/master/static/favicon-32x32.png",
+      "JPEG (Joint Photographic Experts Group) - https://github.com/treejer/web/blob/master/static/featureImage/TreejerWorld.jpg"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -79,14 +96,15 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No",
-      "addressSafetySecurityUnderageUsers": "",
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "Code of conduct - https://docs.treejer.com/project-charter#da-contributor-covenant-code-of-conduct"
       ],
-      "griefAbuseHarassmentProtection": "",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "Code of conduct - https://docs.treejer.com/project-charter#da-contributor-covenant-code-of-conduct",
+        "We also have an internal guideline on how to enforce our Code of Conduct in the team - https://doc.clickup.com/605145/d/h/jeyt-943/929897440f2d4a9"
       ]
     }
   },
