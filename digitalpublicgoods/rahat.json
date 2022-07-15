@@ -1,0 +1,104 @@
+{
+  "name": "Rahat",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.github.com/esatya"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Yes, currently we are dependent on the local SMS service provider. The other instances of Rahat need to connect to the local SMS service provider of that region. Rahat is also compatible with Twilio APIs and can be integratable with the Open Source cloud communication platform such as somleng (https://www.somleng.org) for SMS services."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.rahat.io/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "All the non-PII data is accessible through the REST API (https://docs.rahat.io/api/)  in JSON format. Each Agency of Rahat has its own REST API and can choose to make it public or not."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Privacy Act, 2075 (2018) of Government of Nepal"
+    ],
+    "adherenceSteps": [
+      "Rahat uses an Ethereum based private network and non convertible tokens in a closed ecosystem because of the Central Bank of Nepal’s crypto ban. For countries using the Rahat projects in other regions are responsible for complying with local legislation. ",
+      "Privacy policy - https://docs.rahat.io/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Secure Sockets Layer (SSL)",
+      "Open Web Application Security Project",
+      "REST API"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.rahat.io/docs/contributing_guidelines",
+      "https://docs.rahat.io/docs/tech_stack",
+      "https://docs.rahat.io/api"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We have developed transparent open source software in accordance with the Principles for Digital Development with close collaboration with various humanitarian agencies and with local users. ",
+      "The software development process follows agile methodology for quicker and cheaper iterative development along with best practices for open-source development - contribution guidelines, documentation etc.",
+      "For new version delivery, Rahat follows Continuous integration/continuous delivery (CI/CD) pipeline so that incremental development is reliable. ",
+      "AirBNB Coding Standards"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Rahat software provides documentation and guidelines to mitigate security and privacy risks. We adhere to best practices for privacy and data security in accordance with Nepali laws and regulations for the relief distribution service that we provide.  It is the responsibility of each individual organization that implements the software to adhere to best practices, since each instance of the software is locally owned and maintained, and the Rahat will not have access to individual organization databases."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Agency administrator  - Name, Email, Phone",
+        "Beneficiaries - Name, Phone Number, Address,Email Address, Age, Gender Image: Beneficiary’s profile image and Government identification document",
+        "Vendors - Name, Phone Number, Email, Address Image: Vendor’s profile image and Government identification document",
+        "Social mobilizers - Name, Phone Number, Email, Address  Image: social mobilizer’s profile image and Government identification document"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "PII data are not publicly available and only be accessed by authorized personnel with specific roles. For example, the vendors won’t be able to access the KYC information/documentation.  The user access and privilege restricts access to specific kinds of information and features to particular roles.   Rahat has privacy policy in place - https://docs.rahat.io/privacy-policy "
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Interactions between users / contributors on this project are managed through an online forum - Discord Channel and UNICEF Innovation Open Source Network",
+        "Terms of Service requires people to be over a minimum age to access our app or website. The minimum age to access forums is 13, unless local legislation mandates an older age. https://discord.com/terms#age-requirements-and-responsibility-of-parents-and-guardians and https://meta.discourse.org/tos#heading--conditions ",
+        "Any underaged beneficiaries in the aid distribution program needs to be accompanied/consented by guardian(s) or parent(s) to receive relief materials and photos"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Rahat is governed by clearly stated community guidelines: https://docs.rahat.io/docs/contribution-guidelines ",
+        "Forums are actively moderated by members of the Rahat core team, who can flag and remove content or comments as needed."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Nepal"
+    ],
+    "deploymentCountries": [
+      "Nepal"
+    ]
+  }
+}
