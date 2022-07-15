@@ -41,7 +41,12 @@
     "data",
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "FAMEWS",
+      "url": "https://digital.apps.fao.org/plant-pests"
+    }
+  ],
   "organizations": [
     {
       "name": "FAO",
