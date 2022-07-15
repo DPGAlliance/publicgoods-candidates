@@ -1,9 +1,9 @@
 {
   "name": "EpiRust",
   "aliases": [
-    ""
+    "epirust"
   ],
-  "description": "An open source agent-based epidemiology simulation framework built in Rust",
+  "description": "Large-scale, fast, open source agent-based epidemic simulation using Rust language. Using EpiRust, researchers can simulate the spread of different diseases like smallpox, H1N1, and COVID-19.",
   "website": "https://www.thoughtworks.com/en-ca/insights/topic/open-source/epirust",
   "license": [
     {
@@ -13,19 +13,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3,
-      "evidenceText": "In early 2019, we started to work towards developing a large-scale, agent-based epidemiological simulation so that a researcher could model an infectious disease spreading through a society and its mitigation strategies via what-if and if-what scenarios, this leads to innovation in the areas of health and well-being. ",
-      "evidenceURL": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown"
-    },
-    {
       "SDGNumber": 9,
-      "evidenceText": "The application domain of disaster response—in particular epidemic response—has some high-quality computational problems. Epirust is part of an innovative solution. ",
-      "evidenceURL": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown"
+      "evidenceText": "A researcher can simulate a communicable disease model for a city with a population of up to a few million agents using commodity hardware like laptops and desktops. Multi-city simulations (with populations of 100+ million) can as well be performed using a cluster of computers or within a cloud. EpiRust is one of the very few open-source epidemiology simulations which are fast and can scale upto 100+ million agents.",
+      "evidenceURL": "https://github.com/thoughtworks/epirust"
     },
     {
       "SDGNumber": 11,
-      "evidenceText": "Collaborating on Epirust has also been converted into another ambitious project called BharatSim that will develop India’s first ultra-large scale agent-based simulation framework for epidemiology, economics and climate change.",
-      "evidenceURL": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown"
+      "evidenceText": "Sustainable cities need good policy making frameworks. Agent based models help policy makers to try different what-if and if-what scenarios. EpiRust can help researchers and policy makers to visualize the spread of an epidemic and implement necessary interventions to reduce the spread and minimize the impact, thereby leading to healthier and sustainable cities and communities.",
+      "evidenceURL": "https://github.com/thoughtworks/epirust"
     }
   ],
   "sectors": [],
@@ -41,7 +36,7 @@
   "organizations": [
     {
       "name": "Thoughtworks",
-      "website": "https://www.thoughtworks.com/en-in",
+      "website": "http://www.thoughtworks.com",
       "org_type": "owner",
       "contact_name": "Chhaya Yadav",
       "contact_email": "chhayay@thoughtworks.com"
