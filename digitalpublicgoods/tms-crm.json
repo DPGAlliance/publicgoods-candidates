@@ -1,0 +1,25 @@
+{
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://tms-crm-backend.herokuapp.com/api-docs/"
+    ]
+  },
+  "clearOwnership": {
+    "copyrightURL": "https://tms-crm-backend.herokuapp.com/api-docs/",
+    "isOwnershipExplicit": "Yes"
+  },
+  "privacy": {
+    "privacyComplianceList": [],
+    "isPrivacyCompliant": "Yes"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Node js  Express js Typescript React js"
+  },
+  "name": "TMS CRM"
+}
