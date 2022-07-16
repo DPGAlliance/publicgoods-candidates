@@ -1,0 +1,45 @@
+{
+  "name": "TMS CRM",
+  "aliases": [
+    ""
+  ],
+  "description": "A digital health system with embedded financial solutions for women in their reproductive stages",
+  "website": "https://trimestersave.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Trimester-Save-Ltd/tms-crm-backend"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "to be completed",
+      "evidenceURL": "https://trimestersave.com"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "frontend",
+      "url": "https://github.com/Trimester-Save-Ltd/tms-crm-frontend"
+    },
+    {
+      "name": "backend",
+      "url": "https://github.com/Trimester-Save-Ltd/tms-crm-backend"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Trimester Save Ltd",
+      "website": "https://trimestersave.com",
+      "org_type": "owner",
+      "contact_name": "Divine Doe Anyigbah",
+      "contact_email": "anyigbahdoe@trimestersave.com"
+    }
+  ],
+  "stage": "nominee"
+}
