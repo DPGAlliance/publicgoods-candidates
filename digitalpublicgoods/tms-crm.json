@@ -1,25 +1,90 @@
 {
-  "documentation": {
-    "isDocumentationAvailable": "Yes",
-    "documentationURL": [
-      "https://tms-crm-backend.herokuapp.com/api-docs/"
-    ]
-  },
+  "name": "TMS CRM",
   "clearOwnership": {
-    "copyrightURL": "https://tms-crm-backend.herokuapp.com/api-docs/",
-    "isOwnershipExplicit": "Yes"
-  },
-  "privacy": {
-    "privacyComplianceList": [],
-    "isPrivacyCompliant": "Yes"
-  },
-  "NonPII": {
-    "collectsNonPII": "No"
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://tms-crm-backend.herokuapp.com/api-docs/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
     "pltIndependenceDesc": "Node js  Express js Typescript React js"
   },
-  "name": "TMS CRM"
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://tms-crm-backend.herokuapp.com/api-docs/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Unknown",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
 }
