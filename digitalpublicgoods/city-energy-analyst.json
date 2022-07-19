@@ -1,0 +1,101 @@
+{
+  "name": "City Energy Analyst",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Daysim offers an open alternative, and we have made an acknowledgement for third party copyrights on our GitHub: https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/acknowledgements_and_third_party_copyrights.md"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://cityenergyanalyst.com/blog/2019/6/28/getting-started-with-your-own-project-1",
+      "https://city-energy-analyst.readthedocs.io/en/latest/installation/installation.html",
+      "https://city-energy-analyst.readthedocs.io/en/latest/tutorials.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The project does not provide or collect any private information"
+    ],
+    "adherenceSteps": [
+      "The project does not provide or collect any private information"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "Some of the building and system-related properties are stored in .csv format"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design With the User",
+      "Design for Scale",
+      "Build for Sustainability",
+      "Be Collaborative",
+      "Agile development: https://city-energy-analyst.readthedocs.io/en/latest/agile-with-CEA.html",
+      "PEP 8 coding style",
+      "Test-driven development: https://city-energy-analyst.readthedocs.io/en/latest/how-to-test-the-cea.html?highlight=style#test-driven-development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Through implementing constructive code review procedures - https://city-energy-analyst.readthedocs.io/en/latest/developer/how-to-review-a-pull-request.html?highlight=pull%20requestion"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The repository does not provide or collect any private information"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "We follow clear roles and responsibilities - https://city-energy-analyst.readthedocs.io/en/latest/agile-with-CEA.html",
+        "Through implementing constructive code review procedures - https://city-energy-analyst.readthedocs.io/en/latest/developer/how-to-review-a-pull-request.html?highlight=pull%20requestion"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Switzerland",
+      "Singapore"
+    ],
+    "deploymentCountries": [
+      "Switzerland",
+      "Singapore"
+    ]
+  }
+}
