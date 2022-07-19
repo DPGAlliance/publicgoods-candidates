@@ -5,7 +5,9 @@
     "copyrightURL": "https://opentermsarchive.org/en/terms-of-service"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -26,7 +28,7 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR. "
+      "GDPR"
     ],
     "adherenceSteps": [
       "This project is GDPR-compliant. Open Terms Archive relies on public documents released by digital platforms.  When the website is visited, a small text file (a “cookie”) is left on the visitor’s computer. This allows us to measure how many visits we’ve had and which pages are most viewed. The tracking software we use, Matomo, is open-source, self-managed, and set up to properly anonymize the data we collect and is thus exempt from prior consent according to the French data protection authority CNIL’s recommendations. The analytics data for this website are publicly available on stats.data.gouv.fr Privacy policy page is here : https://opentermsarchive.org/en/privacy-policy and terms of service here https://opentermsarchive.org/en/terms-of-service"
@@ -44,16 +46,39 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes"
+      "collectStoreDistribute": "Yes",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes"
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
