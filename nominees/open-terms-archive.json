@@ -7,8 +7,8 @@
   "website": "https://opentermsarchive.org/",
   "license": [
     {
-      "spdx": "ODC-By-1.0",
-      "licenseURL": "https://github.com/ambanum/OpenTermsArchive-snapshots/blob/master/LICENSE"
+      "spdx": "EUPL-1.2",
+      "licenseURL": "https://github.com/ambanum/OpenTermsArchive/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -20,12 +20,12 @@
   ],
   "sectors": [],
   "type": [
-    "data"
+    "software"
   ],
   "repositories": [
     {
       "name": "main",
-      "url": ""
+      "url": "https://github.com/ambanum/OpenTermsArchive/"
     }
   ],
   "organizations": [
