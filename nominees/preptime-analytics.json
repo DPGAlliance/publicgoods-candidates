@@ -1,0 +1,48 @@
+{
+  "name": "PrepTime Analytics",
+  "aliases": [
+    ""
+  ],
+  "description": "PrepTime Analytics is a Google Forms and Sheets add-on that enhances their functionality to analyze and report the results of assessments in a meaningful way. ",
+  "website": "https://preptimeanalytics.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://opensource.org/licenses/GPL-3.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Preptime Analytics enables schools to integrate technology by enhancing the functionalities of Google Forms and Sheets to generate reports and analytics on objective tests to accurately measure learning outcomes and provide insights that helps to improve learning outcomes. With Preptime Analytics, schools do not need to invest in Learning Management Systems, which comes with cost. They can simply use Google Forms and generate insightful reports with Preptime Analytics "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "preptime-website  ",
+      "url": "https://github.com/Scribble-Works/preptime-website"
+    },
+    {
+      "name": "preptimeanalyser",
+      "url": "https://github.com/Scribble-Works/preptimeanalyser"
+    },
+    {
+      "name": "Analytics screenshot  ",
+      "url": "https://github.com/Scribble-Works/screenshot"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Scribble Works",
+      "website": "https://scribbleworks.com.gh/",
+      "org_type": "owner",
+      "contact_name": "Daniel Amedza-Philips",
+      "contact_email": "danielamedzaphilips@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
