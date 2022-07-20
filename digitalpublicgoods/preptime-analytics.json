@@ -1,0 +1,71 @@
+{
+  "name": "PrepTime Analytics",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/orgs/Scribble-Works/repositories"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Scribble-Works/scribbleworks_loopback_nuxt_cms"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "This project collects Personally Identifiable data to analyse the test scores of students that are provided by teachers. After analysis is run on the test scores, the teachers can request for the data to be removed from the platform by sending an email to us. Functionality to automatically remove data themselves is currently being developed."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The site is GDPR compliant. Any data submitted by the user to be analysed can be requested by the same user to be removed by sending an email to us."
+    ],
+    "adherenceSteps": [
+      "https://preptimeanalytics.com/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Yes.http://es6-features.org/#Constants"
+    ],
+    "evidenceStandardSupport": [
+      "http://es6-features.org/#Constants"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "http://es6-features.org/#Constants"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All processing data is run in-memory. Persisted data can also be deleted at the user's request. Functionality to do this automatically is in development."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Email addresses. All information is transferred securely using HTTPS and raw data provided by the user for analysis can be deleted at the user's request."
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
