@@ -3,8 +3,8 @@
   "aliases": [
     "GHSL"
   ],
-  "description": "Open and free data and tools for assessing the human presence on the planet",
-  "website": "https://ghsl.jrc.ec.europa.eu/",
+  "description": "GHSL provides analysis ready, global, geospatial data reporting about the presence of population and human settlements",
+  "website": "https://ghsl.jrc.ec.europa.eu",
   "license": [
     {
       "spdx": "CC-BY-4.0",
@@ -45,8 +45,8 @@
     },
     {
       "SDGNumber": 11,
-      "evidenceText": "The multi-temporal data of built-up area and population density allow calculating the land use efficiency SDG 11.3.1",
-      "evidenceURL": "https://www.mdpi.com/2071-1050/11/20/5674"
+      "evidenceText": "GHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green)",
+      "evidenceURL": "http://dx.doi.org/10.3390/su11205674"
     }
   ],
   "sectors": [
@@ -57,7 +57,7 @@
   ],
   "repositories": [
     {
-      "name": "main",
+      "name": "Data & tools",
       "url": "https://ghsl.jrc.ec.europa.eu/download.php"
     }
   ],
