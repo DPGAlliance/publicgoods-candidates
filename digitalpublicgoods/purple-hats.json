@@ -5,8 +5,8 @@
     "copyrightURL": "https://github.com/GovTechSG/purple-hats/blob/master/LICENSE"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "As a statutory board in Singapore, GovTech’s management of data is governed by the Public Sector (Governance) Act (PSGA) and the Government Instruction Manual on Infocomm Technology & Smart Systems Management (“IM on ICT&SS Management”). The IM on ICT&SS Management sets out how the Government manages and protects data (including personal data) in its possession or control. The PSGA was enacted in 2018 to further strengthen public sector data governance by imposing criminal penalties on public officers who (a) knowingly or recklessly disclose data without authorisation; (b) misuse data that results in personal gain for the public officer or another person, or harm or loss to another person; and (c) knowingly or recklessly re-identify anonymised information without authorisation."
     ],
     "adherenceSteps": [
-      ""
+      "Additional Information on Data: \nPurple HATS uses third-party open-source tools that may be downloaded over the Internet during the installation process of Purple HATS. Users should be aware of the libraries used by examining package.json. \n Purple HATS may send information to the website or URL where the user chooses to initiate a Purple HATS scan. By default, data collected by Purple HATS is processed and stored locally on the machine where the tool is run. \n Reference: https://github.com/GovTechSG/purple-hats/blob/master/README.md#additional-information-on-data"
     ]
   },
   "standards": {
