@@ -2,7 +2,7 @@
   "name": "PharmacoVigilance Monitoring System",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/msh/pvims2"
+    "copyrightURL": "https://pvims.msh.org/security/landing"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Unknown",
