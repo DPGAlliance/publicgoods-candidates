@@ -2,7 +2,7 @@
   "name": "Harmony",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/Zenysis/Harmony/blob/master/LICENSE"
+    "copyrightURL": "https://www.zenysis.com/#harmony"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
