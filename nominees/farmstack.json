@@ -1,0 +1,39 @@
+{
+  "name": "FarmStack",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source product suite which enables the secure transfer of data across the agricultural ecosystem",
+  "website": "https://www.farmstack.co/",
+  "license": [
+    {
+      "licenseURL": "https://github.com/digitalgreenorg/farmstack-open/blob/main/LICENSE",
+      "spdx": "Apache-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "We aim to improve the sharing of data across the ag and food system in order to enable the customization of agricultural advisory services which will lead to improved productivity."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Our approach and software puts farmers and other data providers at the center of data sharing and in control of their own data"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Digital Green",
+      "website": "https://digitalgreen.org",
+      "org_type": "owner",
+      "contact_name": "Andrew",
+      "contact_email": "andrew@digitalgreen.org"
+    }
+  ],
+  "stage": "nominee"
+}
