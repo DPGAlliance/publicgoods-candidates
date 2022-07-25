@@ -1,0 +1,100 @@
+{
+  "name": "Ushahidi",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "An example is our SMS Sync product. We built it ground up, but some libraries have not been updated, others even deprecated. However, it exists as a plug-in to the Ushahidi Platform, and Platform continues to operate normally without it. There also exists commercial + opensource alternatives such FrontlineSMS, Africa's Talking, etc."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/how-to-get-the-source-code"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The REST API provides all data access (https://docs.ushahidi.com/platform-developer-documentation/tech-stack/architecture)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR) - https://www.ushahidi.com/support/how-ushahidi-prepared-for-gdpr",
+      "Kenya Data Protection Act (2019)"
+    ],
+    "adherenceSteps": [
+      "Terms of Service: https://www.ushahidi.com/terms-of-service",
+      "Privacy Policy: https://www.ushahidi.com/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JSON",
+      "REST",
+      "JavaScript"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/coding-standards",
+      "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/add-code-to-ushahidi"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Privacy and Security",
+      "Open Source Design"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The Ushahidi Platform offers settings to protect some of these information items, without completely hiding them, by making them fuzzier. This is important for data that is valuable to show aggregated (i.e. incidents in a geographic area), and thus is not desired to make completely private."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Email address",
+        "Location",
+        "Telephone number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "How we protect data: \n- https://www.ushahidi.com/support/data-security \n. -https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user \n-A deployer's obligation to protect his audience  https://www.ushahidi.com/support/deployer-obligations-under-the-gdpr"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The Ushahidi Platform is age-agnostic. This means that persons of all age groups are able to access both frontend and backend features of the platform. Our community advocacy and technology privacy teams regularly review and monitor the new and existing deployments created on our servers for predatory threats such as bullying, grooming, abuse, and aggression. Every two weeks, Ushahidi team members randomly spotlight deployments, and this enables us to further check the thematic areas and content of deployments that we host. We also partner with digital security organizations such as Tor in order to amplify safeguarding information, advice, and guidance for deployers and users of Ushahidi. Every visitor or user of any hosted Ushahidi deployment has 24/7 access to our community support channel which they can use to anonymously report any content that poses a risk to the safety and security of underage users. Upon receipt of the report, our community advocacy and technology privacy teams shall suspend the deployment and form a committee to investigate the claims expeditiously. Any deployments whose content is found in contravention shall be banned indefinitely. Over the last 13 years of our existence, Ushahidi has not discovered or received any complaint of a deployment that poses a risk to its underage users or visitors. "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://docs.ushahidi.com/platform-developer-documentation/code-of-conduct"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
