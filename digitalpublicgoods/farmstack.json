@@ -1,0 +1,59 @@
+{
+  "name": "FarmStack",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/digitalgreenorg/farmstack-open"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Using open standards (ISDA) and building open source"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "The software enables the sharing of data via secure p2p connectors. The data can include content of all kinds, but the purpose is to enable data sharing across ag ecosystem actors.",
+      "contentFilter": "No",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Data sharing networks are orchestrated by \"Stewards\" who set policies in their respective jurisdictions. The steward will typically be a gov't org. The steward sets the policies, certifies connectors, and has the ability to audit and decertify connectors if the owner violates the established policies or agreements."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Ethiopia",
+      "United States of America"
+    ]
+  }
+}
