@@ -7,7 +7,7 @@
   "website": "http://towi.com.mx/",
   "license": [
     {
-      "spdx": "LGPL-3.0",
+      "spdx": "GPL-3.0",
       "licenseURL": "https://github.com/pixframeStudios/towi_godot/blob/main/LICENSE"
     }
   ],
