@@ -5,9 +5,9 @@
     "copyrightURL": "https://www.zenysis.com/#harmony"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Emails are sent via Mailgun API, a subscription-based email delivery service. An open functional alternative would be to continue using Mailgun API but use the OpenSMTP interface instead. Alternatively, since the project uses Flask, they can use flask-mail (https://flask-mail.readthedocs.io/en/latest/) and use the Mailgun SMTP credentials"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
