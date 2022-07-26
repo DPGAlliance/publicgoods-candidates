@@ -7,25 +7,34 @@
   "website": "https://www.farmstack.co/",
   "license": [
     {
-      "licenseURL": "https://github.com/digitalgreenorg/farmstack-open/blob/main/LICENSE",
-      "spdx": "Apache-2.0"
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/digitalgreenorg/farmstack-open/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 2,
-      "evidenceText": "We aim to improve the sharing of data across the ag and food system in order to enable the customization of agricultural advisory services which will lead to improved productivity."
+      "evidenceText": "We aim to improve the sharing of data across the agriculture and food system in order to enable the customization of agricultural advisory services which will lead to improved productivity.",
+      "evidenceURL": "https://www.digitalgreen.org/blogs/catalyzing-the-data-sharing-ecosystem-introducing-farmstack/"
     },
     {
       "SDGNumber": 10,
-      "evidenceText": "Our approach and software puts farmers and other data providers at the center of data sharing and in control of their own data"
+      "evidenceText": "Our approach and software puts farmers and other data providers at the center of data sharing and in control of their own data",
+      "evidenceURL": "https://www.digitalgreen.org/blogs/catalyzing-the-data-sharing-ecosystem-introducing-farmstack/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Agriculture"
+  ],
   "type": [
     "software"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/digitalgreenorg/farmstack-open"
+    }
+  ],
   "organizations": [
     {
       "name": "Digital Green",
