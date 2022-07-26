@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Understand and reduce your carbon footprint 🌱 ",
+  "description": "Understand and reduce your carbon footprint 🌱",
   "website": "https://nmf.earth/",
   "license": [
     {
@@ -13,34 +13,21 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 11,
-      "evidenceURL": "https://nmf.earth/"
-    },
-    {
-      "SDGNumber": 12,
-      "evidenceURL": "https://nmf.earth/"
-    },
-    {
       "SDGNumber": 13,
       "evidenceText": "Help individuals to track their carbon footprint",
       "evidenceURL": "https://nmf.earth/"
     }
   ],
   "sectors": [
-    "Climate",
-    "Sustainable Cities"
+    "Climate"
   ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/NMF-earth/nmf-app"
-    },
-    {
-      "name": " carbon-footprint",
-      "url": "https://github.com/NMF-earth/carbon-footprint"
+      "name": "nmf-app",
+      "url": "https://github.com/NMF-earth/nmf-app/"
     }
   ],
   "organizations": [
@@ -52,5 +39,5 @@
       "contact_email": "contact@nmf.earth"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
