@@ -24,7 +24,7 @@ On creating a new issue, you should see a bug reporting template available. Plea
 Provide a quick description of the bug. For example, “Distorted Text in FAQ section on <name> homepage”.
 ```
 
-### Steps to Reproduce a Bug
+### Steps to Reproduce the Bug
 Number the steps clearly from first to last so that the developers can quickly and exactly follow them to see the bug for themselves. For example:
 ```
 1. Click “nominate” on the Homepage (this takes the user to the eligibity page).
