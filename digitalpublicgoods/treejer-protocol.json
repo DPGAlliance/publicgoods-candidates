@@ -7,7 +7,7 @@
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "Open-source components of Treejer protocol are able to demonstrate independence from the closed components since they all have functional and open alternatives. We're using Twilio as SMS service replaceable by Somleng, SendGrid as Email services replaceable by self-hosed email system replaceable by Postal, Google Maps and MapBox as MAP services replaceable by OpenStreetMap, EtherScan as Crypto Price API (ETH/USD) replaceable by Chainlink and Infura as blockchain RPC service replaceable by self-run nodes."
+    "pltIndependenceDesc": "Open-source components of Treejer protocol are able to demonstrate independence from the closed components since they all have functional and open alternatives. We're using Twilio as SMS service replaceable by Somleng, SendGrid as Email services replaceable by self-hosed email system replaceable by Postal, Google Maps and MapBox as MAP services replaceable by OpenStreetMap, EtherScan as Crypto Price API (ETH/USD) replaceable by Chainlink and Infura as blockchain RPC service replaceable by self-run nodes. \n Firebase is not a mandatory dependency in Treejer Protocol, it's currently being used only for analytics. However, it can be replaced by an an open-source alternative called Parse (https://docs.parseplatform.org/)"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
