@@ -5,8 +5,8 @@
     "copyrightURL": "https://qaira.github.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
@@ -23,7 +23,7 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Unknown",
     "privacyComplianceList": [
       ""
     ],
@@ -32,34 +32,45 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "HTTPS",
+      "SSL",
+      "UTF-8",
+      "HTML",
+      "CSS",
+      "ECMAScript (ES 5/6/7)",
+      "JSON",
+      "XML",
+      "CSV",
+      "OpenAPI"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/qAIRa/qAIRaMap-OpenSource"
     ],
-    "implementBestPractices": "No",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Agile development (Scrum)",
+      "Microservices architecture",
+      "User-centered design principles"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "No",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "- Use of SSL security certificates \n- Use of firewall to block unauthorized accessc \n- To avoid having scattered code and facilitate development agility, Git is used as a version control system and Github is used to manage versioning work"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No",
+      "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "Currently we only store basic access information to the platform, such as email and password"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "- Use of SSL security certificates \n - Use of firewall to block unauthorized access."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
