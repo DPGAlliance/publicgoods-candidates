@@ -2,7 +2,7 @@
   "name": "Towi Plugin",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/pixframeStudios/towi_godot/blob/main/LICENSE"
+    "copyrightURL": "https://github.com/pixframeStudios/towi_godot"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
