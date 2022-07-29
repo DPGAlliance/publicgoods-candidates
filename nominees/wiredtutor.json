@@ -1,0 +1,36 @@
+{
+  "name": "WiredTutor",
+  "aliases": [
+    ""
+  ],
+  "description": "An EdTech company that allows students to book tutors for private tution online and in physical locations.",
+  "website": "https://wiredtutor.com",
+  "license": [
+    {
+      "spdx": "ECL-1.0",
+      "licenseURL": "https://github.com/groupnkabe/wiredtutor_app/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "We are integrating the Education into Technology that will help students get access to teachers around the community they live."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "aimodel",
+    "data"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "WiredTutor",
+      "website": "https://wiredtutor.com",
+      "org_type": "owner",
+      "contact_name": "Raphale Winyemmibie",
+      "contact_email": "nkaberaphael5@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
