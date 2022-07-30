@@ -1,0 +1,35 @@
+{
+  "name": "Open Virtual Augmented Reality",
+  "aliases": [
+    "openVAR"
+  ],
+  "description": "an enabling tool to facilitate the creation of virtual experiential hands-on learning environments. Virtual Augmented Reality development Tool Kit. Software and Hardware components. application includes transfroming vidoes into Virtual and Augmented Reality content, to be used by e-learing platforms and other organizations. Video / Image / Text processor to Virtual Augmented Reality content.",
+  "website": "https://openvar.ecampus.camp",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://openvar.ecampus.camp"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://vimeo.com/389712703"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "eCampus LLC",
+      "website": "https://ecampus.camp",
+      "org_type": "owner",
+      "contact_name": "Thomas Darku",
+      "contact_email": "tdarku@ecampus.camp"
+    }
+  ],
+  "stage": "nominee"
+}
