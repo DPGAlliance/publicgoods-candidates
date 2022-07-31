@@ -3,11 +3,11 @@
   "aliases": [
     ""
   ],
-  "description": "An EdTech company that allows students to book tutors for private tution online and in physical locations.",
-  "website": "https://wiredtutor.com",
+  "description": "Wired Tutor is a platform that connects students, tutors and institutions for the purpose of learning through the web and a mobile application. This platform guarantees every student the advantage to learn on his or her own will through the internet with keen supervision and monitoring from qualified, well equipped teachers.",
+  "website": "https://www.wiredtutor.com/",
   "license": [
     {
-      "spdx": "ECL-1.0",
+      "spdx": "MIT",
       "licenseURL": "https://github.com/groupnkabe/wiredtutor_app/blob/master/LICENSE"
     }
   ],
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "WiredTutor",
-      "website": "https://wiredtutor.com",
+      "website": "https://www.wiredtutor.com/",
       "org_type": "owner",
       "contact_name": "Raphale Winyemmibie",
       "contact_email": "nkaberaphael5@gmail.com"
