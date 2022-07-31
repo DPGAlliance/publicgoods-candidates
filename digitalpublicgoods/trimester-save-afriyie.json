@@ -1,0 +1,79 @@
+{
+  "name": "Trimester Save Afriyie",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.google.com/document/d/1Bzx_xaJ8NQqHxgjILEmMf_No_S0EsYmD/edit?usp=sharing&ouid=114711352430957985538&rtpof=true&sd=true"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "The open-source components used in this project are TYPESCRIPT(https://www.typescriptlang.org/) , EXPRESS Framework(https://expressjs.com/), TAILWIND CSS (https://tailwindcss.com/), REACT JS(https://reactjs.org/), NODE JS(https://nodejs.org/en/), HTML 5, POSTGRESS(https://www.postgresql.org/). The open source components listed here are free to use, cross platform compatible and can be used independent of each other. "
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://tms-crm-backend.herokuapp.com/api-docs/v1"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Data Protection Commission Ghana",
+      "Business Registration Number: CS264162019"
+    ],
+    "adherenceSteps": [
+      "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend/blob/main/Terms%20of%20Service%20and%20Privacy%20Policy.md"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design with the user",
+      "Use Open Standards, Open Data and Open Source and Open Innovation",
+      "Address Privacy and Security",
+      "Understand the Existing Ecosystem",
+      "Design for scale"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Telephone Number",
+        "Identification Card Number",
+        "Email Address",
+        "Spouse Name",
+        "Spouse Telephone Number",
+        "City",
+        "Country"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Health and Financial Literacy content",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
