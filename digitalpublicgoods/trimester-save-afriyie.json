@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "API documentation - https://tms-crm-backend.herokuapp.com/api-docs/v1"
+      "API documentation - https://tms-crm-backend.herokuapp.com/api-docs/v1",
+      "https://trimester-save.herokuapp.com/"
     ]
   },
   "NonPII": {
