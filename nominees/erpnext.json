@@ -33,10 +33,6 @@
     {
       "name": "ERPNext",
       "url": "https://github.com/frappe/erpnext"
-    },
-    {
-      "name": "Frappe Framework",
-      "url": "https://github.com/frappe/frappe"
     }
   ],
   "organizations": [
