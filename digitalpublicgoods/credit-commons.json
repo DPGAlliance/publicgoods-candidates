@@ -1,0 +1,72 @@
+{
+  "name": "Credit Commons ",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitlab.com/credit-commons/credit-commons-documentation"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "It's just a REST query to view the transaction data. Transaction data contains wallet ids but not PII."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Complies with GDPR by not holding PII"
+    ],
+    "adherenceSteps": [
+      "Groups are intended to host their own transaction data.",
+      "PII should be stored outside this application",
+      "No knowledge of the counterparty is needed to transact with them",
+      "See 'node visibility and privacy' in https://gitlab.com/credit-commons/credit-commons-documentation"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST API with JSON",
+      "PSR1, PSR4, PSR7",
+      "Open API documentation"
+    ],
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Data sovereignty is a high priority, but on the level of trust-groups not individuals. The main risk is over exposure to debt default, but all of this is decided through group governance. You could theoretically send a transaction with an offensive description to someone if you knew their wallet id, just like email.."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The whole thing is a network of trust. Everyone is known to their own group. Admins can trace transactions. Reputation is everything.",
+        "Transaction fees can be added to any transactions making it costly to transact with users in certain groups.",
+        "Users need not broadcast their wallet ids."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Italy"
+    ],
+    "deploymentCountries": [
+      "Sweden",
+      "South Africa"
+    ]
+  }
+}
