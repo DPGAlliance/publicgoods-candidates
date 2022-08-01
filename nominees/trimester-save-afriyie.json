@@ -4,26 +4,28 @@
     "Afriyie"
   ],
   "description": "TMS Afriyie project is a patient facing application that offers healthcare focused financial solutions such as savings and budgeting whilst leveraging insights from their healthcare journey, especially during pregnancy and childbirth.",
-  "website": "https://trimester-save.herokuapp.com/",
+  "website": "https://trimestersave.com/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend/blob/main/package.json"
+      "licenseURL": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend/blob/main/LICENSE"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 3,
       "evidenceText": "Afriyie facilitates access to health monitoring and financial solutions to women who are in their reproductive age (bottom of the pyramid).  Moreover, these women's access to savings leads to access of primary health care which will improve universal health coverage, access to quality, essential health care and medicines (SDG 3.8) to reduce mother and child mortality rate in the Sub-Saharan Africa (SDG 3.1 & 3.2)",
-      "evidenceURL": "https://trimestersave.com/"
+      "evidenceURL": "https://www.youtube.com/watch?v=3LW5YAuEG3U"
     },
     {
       "SDGNumber": 5,
       "evidenceText": "Afriyie has the potential to empower women to take control of the reproductive health and finances so that they are not disadvantaged compared to their male counterparts.",
-      "evidenceURL": "https://trimestersave.com/"
+      "evidenceURL": "https://www.youtube.com/watch?v=3LW5YAuEG3U"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
@@ -34,7 +36,7 @@
     },
     {
       "name": "tms-afriyie-backend",
-      "url": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend"
+      "url": ""
     }
   ],
   "organizations": [
