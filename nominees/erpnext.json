@@ -1,0 +1,52 @@
+{
+  "name": "ERPNext",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source ERP system for financial accounting, inventory management etc.",
+  "website": "https://erpnext.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/frappe/erpnext/blob/develop/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Provide high quality / low cost software to small businesses"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Help organisations manage themselves better"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Used for managing city accounting, issue tracking, citizen services etc."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "ERPNext",
+      "url": "https://github.com/frappe/erpnext"
+    },
+    {
+      "name": "Frappe Framework",
+      "url": "https://github.com/frappe/frappe"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Frappe",
+      "website": "https://frappe.io",
+      "org_type": "owner",
+      "contact_name": "Rushabh Mehta",
+      "contact_email": "rushabh@frappe.io"
+    }
+  ],
+  "stage": "nominee"
+}
