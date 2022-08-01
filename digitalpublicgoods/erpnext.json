@@ -2,7 +2,7 @@
   "name": "ERPNext",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/frappe"
+    "copyrightURL": "https://erpnext.com/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -13,7 +13,7 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://docs.erpnext.com",
-      "https://frappeframework.com/docs"
+      "https://github.com/frappe/erpnext"
     ]
   },
   "NonPII": {
@@ -24,10 +24,11 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/personal-data-download"
+      "GDPR"
     ],
     "adherenceSteps": [
-      "https://erpnext.com/terms"
+      "https://erpnext.com/terms",
+      "https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/personal-data-download"
     ]
   },
   "standards": {
