@@ -1,0 +1,62 @@
+{
+  "name": "MOCHCare",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://drive.google.com/drive/folders/1Ua1qL__QDLSul7KTIjBoMBpwH9eI6t6d"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "1. Data Driven ",
+      "2. Design with the User",
+      " 3. Address Privacy and Security"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Stigmatization is bridged since all data of previous health history is seized from the public"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name, Date of Birth, Place of Birth, Telephone Number and Location."
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "MOCHCare deals with top Officials from the health sector directly. From Regional to District and in that manner, we prevent access by underage."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": []
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
