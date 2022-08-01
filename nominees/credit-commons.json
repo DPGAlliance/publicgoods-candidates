@@ -1,0 +1,41 @@
+{
+  "name": "Credit Commons ",
+  "aliases": [
+    ""
+  ],
+  "description": "A  protocol for nested mutual credit accounting.",
+  "website": "http://creditcommons.net",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://gitlab.com/credit-commons/cc-node/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Mutual credit accounting allows communities to create their own medium of exchange, thus boosting trade especially when money is short"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "standard",
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "cc-node",
+      "url": "https://gitlab.com/credit-commons/cc-node"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Credit commons society",
+      "website": "https://creditcommonssociety.org/",
+      "org_type": "owner",
+      "contact_name": "Matthew Slater",
+      "contact_email": "matslats@creditcommons.net"
+    }
+  ],
+  "stage": "nominee"
+}
