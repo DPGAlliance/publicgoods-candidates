@@ -6,7 +6,7 @@
 | Stages of application | Nominated | Reviewed | Full DPG  | Inactive |
 |---------------------------|-----------|----------|-----------|----------|
 | What happens at this stage? | Solution is screened for open source & SDG relevance | Solutions are screened against the full DPG standard | Solutions appear as DPGs on the registry | Solutions are in the database but not on registry |
-| Requirements to enter this stage | First 3 indicators | Has completed a nomination form & there is a project Contact | Addressed all of the DPG Standard | No response for 30 days | How does a solution enter this stage? | Submission form
+| Requirements to enter this stage | First 3 indicators | Has completed a nomination form & there is a project contact | Addressed all of the DPG Standard | No response for 30 days | How does a solution enter this stage? | Submission form
 | Nomination form & passing the nomination stage | Completing the review process | Manually moved to inactive - PR open | 
 | How long does this stage last? | T+7 days | T+21 days  | 1 year | Infinitely
 | What happens if the requirements aren’t met | Project moves to excluded pipeline | It fails the indicator and applicant is informed | Returns to “new application stage” | Reactivate the application - returns to “new”
