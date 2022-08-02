@@ -3,7 +3,7 @@
 
 ### Summary: 
 
-| Stages in current process | Nominated | Reviewed | Full DPG  | Inactive |
+| Stages of application | Nominated | Reviewed | Full DPG  | Inactive |
 |---------------------------|-----------|----------|-----------|----------|
 | What happens at this stage? | Solution is screened for open source & SDG relevance | Solutions are screened against the full DPG standard | Solutions appear as DPGs on the registry | Solutions are in the database but not on registry |
 | Requirements to enter this stage | First 3 indicators | Has completed a nomination form & there is a project Contact | Addressed all of the DPG Standard | No response for 30 days | How does a solution enter this stage? | Submission form
