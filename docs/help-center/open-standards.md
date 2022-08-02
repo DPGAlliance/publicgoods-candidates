@@ -75,3 +75,6 @@ Open standards establish protocols and building blocks that can help make digita
 * H.264 (H.264/MPEG-4 AVC)
 * AAC (Advanced Audio Coding)
 * MP4 (MPEG-4 Part 14)
+
+#### IEEE Digital Reality Standards
+* [IEEE Digital Reality standards](https://digitalreality.ieee.org/standards)
