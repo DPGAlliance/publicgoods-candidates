@@ -61,7 +61,7 @@ It is considered spam (see spam policy)
 If it found to no longer use an open license or be relevant to the SDGs 
 At the request of the original nominator or someone with authority to speak on behalf of the solution. Note that if the individual requesting removal is different from the original nominator we may contact the original nominator.
 
-### Archiving Policy
+### Archiving Policy:
 
 The DPG Registry includes both digital solutions that have been confirmed as digital public goods and those that have been nominated to be digital public goods ("nominees").
 
