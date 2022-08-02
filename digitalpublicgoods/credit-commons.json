@@ -1,8 +1,8 @@
 {
   "name": "Credit Commons",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://creditcommons.net/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,7 +12,9 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://gitlab.com/credit-commons/credit-commons-documentation"
+      "Documentation - https://gitlab.com/credit-commons/credit-commons-documentation",
+      "API documentation - https://gitlab.com/credit-commons/cc-php-lib/-/blob/master/docs/credit-commons-openapi-3.0.yml",
+      "Installation - https://gitlab.com/credit-commons/cc-server"
     ]
   },
   "NonPII": {
@@ -40,7 +42,7 @@
       "Open API documentation"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://gitlab.com/credit-commons/credit-commons-documentation"
     ],
     "implementBestPractices": "Unknown",
     "bestPracticesList": [
@@ -62,7 +64,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Credit Commons does not hold PII"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -74,9 +76,9 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "The whole thing is a network of trust. Everyone is known to their own group. Admins can trace transactions. Reputation is everything."
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
