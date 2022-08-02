@@ -3,7 +3,7 @@
   "aliases": [
     "MLC"
   ],
-  "description": "Digitization of Maternal and Child Health Record Book",
+  "description": "Digitization of Maternal and Child Health Record Book. With MOCHCare, doctors can record post-natal and ante-natal information about the mother and child digitally to help mitigate the effects of maternal books shortage.",
   "website": "https://www.mochcare.com",
   "license": [
     {
@@ -15,7 +15,7 @@
     {
       "SDGNumber": 3,
       "evidenceText": "This solution is relevant because it is contributing in eradicating maternal mortality and infant death and also keep all data of pregnant women and children under five(5) years safer rather than the manual way of collecting and storing of the data.",
-      "evidenceURL": "https://www.un.org/sustainabledevelopment/health/page/2/"
+      "evidenceURL": "https://www.youtube.com/watch?v=XFe1pGL67Eo"
     }
   ],
   "sectors": [],
