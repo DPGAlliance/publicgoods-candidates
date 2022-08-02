@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": ".csv"
+    "nonPIIAccessMechanism": "PViMS uses Swagger API to handle data. This is both PULL and POST using .json or .xml.: https://pvims-api.msh.org/"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -26,27 +26,34 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "NA"
+      "MSH is the current custodian of PViMS. The Privacy Policy and Terms of Use that apply are located here: https://github.com/MSH/PViMS-2/tree/master/policyandterms"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "MedDRA"
+      "MedDRA",
+      "OpenAPI",
+      "REST",
+      "JSON",
+      "JavaScript",
+      "SQL"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/Aam-Digital/ndb-core/tree/master/src/locale",
-      "https://user-roles.aam-digital.com/db/api/"
+      "https://github.com/DPGAlliance/publicgoods-candidates/pull/1282"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Developed with the users to be sustainable and flexible"
+      "Agile development",
+      "WHO Digital Principles of Digital Development",
+      "CI/CD on Azure DevOps and GitHub actions",
+      "Material design"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "For enhanced security we apply SSL, conduct penetration testing. Additional steps are detailed in the Policy and Terms of Use: https://github.com/MSH/PViMS-2/blob/master/policyandterms/termsofuse.pdf"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -58,7 +65,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "To ensure privacy and data protection we are applying the following privacy policy (https://github.com/MSH/PViMS-2/blob/master/policyandterms/privacypolicy.pdf). Inaddition to that we are applying encryption and obfuscation of PII at database level."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
