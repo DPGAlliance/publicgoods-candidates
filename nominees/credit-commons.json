@@ -1,9 +1,9 @@
 {
-  "name": "Credit Commons ",
+  "name": "Credit Commons",
   "aliases": [
     ""
   ],
-  "description": "A  protocol for nested mutual credit accounting.",
+  "description": "A protocol for recursive mutual credit accounting. The Credit Commons Protocol supports independent entities to keep track of their exchange on a ledger which they control. Ledgers can be recursively nested, allowing trading blocs of all scales to exchange with each other without using money.",
   "website": "http://creditcommons.net",
   "license": [
     {
@@ -19,7 +19,6 @@
   ],
   "sectors": [],
   "type": [
-    "standard",
     "software"
   ],
   "repositories": [
