@@ -1,0 +1,76 @@
+{
+  "name": "Open Contracting Portal",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/devgateway/ocportal/blob/develop/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://devgateway.github.io/ocportal/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be exported in OCDS format and it's published in the Open Contracting Dashboards API as specified here: https://ocexplorer.dgstg.org/swagger-ui.html\n"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "We work with governments and implementing organizations to apply the local data protection laws. We have a Data Privacy policy publicly available."
+    ],
+    "adherenceSteps": [
+      "https://github.com/devgateway/ocportal/blob/develop/docs/PRIVACY.md"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "OCDS",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://devgateway.github.io/ocportal/architecture/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Architecture principles: https://devgateway.github.io/ocportal/architecture/",
+      "Agile with User-centered approach: https://developmentgateway.org/build/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Names and emails for the government desk officers",
+        "Emails from the public that would require updates for certain tenders",
+        "Phone, email and mailing address to individuals and institutions that are assigned as contact points in tenders (as specified by the OCDS)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Romania",
+      "United States of America",
+      "Moldova"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}
