@@ -40,7 +40,9 @@
     {
       "name": "Cirrolytix Research Services",
       "website": "https://aedesproject.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Rache Melendres",
+      "contact_email": "rache.melendres@cirrolytix.com"
     }
   ],
   "stage": "DPG"
