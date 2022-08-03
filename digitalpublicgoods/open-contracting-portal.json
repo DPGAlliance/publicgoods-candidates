@@ -5,12 +5,15 @@
     "copyrightURL": "https://github.com/devgateway/ocportal/blob/develop/LICENSE"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://devgateway.github.io/ocportal/"
+      "https://devgateway.github.io/ocportal/",
+      "https://github.com/devgateway/ocportal"
     ]
   },
   "NonPII": {
@@ -44,7 +47,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -54,13 +58,30 @@
         "Phone, email and mailing address to individuals and institutions that are assigned as contact points in tenders (as specified by the OCDS)"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
