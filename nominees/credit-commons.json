@@ -25,6 +25,14 @@
     {
       "name": "cc-node",
       "url": "https://gitlab.com/credit-commons/cc-node"
+    },
+    {
+      "name": "REST server",
+      "url": "https://gitlab.com/credit-commons/cc-server"
+    },
+    {
+      "name": "Credit Commons PHP library",
+      "url": "https://gitlab.com/credit-commons/cc-php-lib"
     }
   ],
   "organizations": [
