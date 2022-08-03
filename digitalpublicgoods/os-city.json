@@ -17,17 +17,18 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "We create daily encrypted backups of our databases"
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "su Reglamento y Lineamientos aplicables de México"
     ],
     "adherenceSteps": [
-      ""
+      "https://drive.google.com/drive/u/1/folders/1BWRI3kUa7lQvygQ1q0KCmFv_xQGMOKzQ"
     ]
   },
   "standards": {
@@ -59,13 +60,14 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "PII is needed to verify user's identity at registration process yet we use third-party APIs and Services to confirm this validation of identity."
+        "User authentication data",
+        "Profile data such as firstname, lastname and address"
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
-      "ensurePrivacySecurity": "Unknown",
+      "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
@@ -77,12 +79,12 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
