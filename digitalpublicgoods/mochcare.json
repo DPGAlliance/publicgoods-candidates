@@ -2,27 +2,46 @@
   "name": "MOCHCare",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://drive.google.com/drive/folders/1Ua1qL__QDLSul7KTIjBoMBpwH9eI6t6d"
+    "copyrightURL": "https://www.mochcare.com"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No"
+    "isDocumentationAvailable": "No",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "1. Data Driven ",
       "2. Design with the User",
-      " 3. Address Privacy and Security"
+      "3. Address Privacy and Security"
     ]
   },
   "doNoHarm": {
@@ -33,13 +52,26 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Name, Date of Birth, Place of Birth, Telephone Number and Location."
+        "Name",
+        "Date of Birth",
+        "Place of Birth",
+        "Telephone Number",
+        "Location"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -48,7 +80,9 @@
         "MOCHCare deals with top Officials from the health sector directly. From Regional to District and in that manner, we prevent access by underage."
       ],
       "griefAbuseHarassmentProtection": "Yes",
-      "harassmentProtectionSteps": []
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
