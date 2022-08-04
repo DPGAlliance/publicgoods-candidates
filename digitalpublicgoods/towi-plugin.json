@@ -22,12 +22,18 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "We made our own GPDR that is published in our repositories and in Towi web page (https://towi.com.mx/aviso-de-privacidad/) this contract is based on the Mexican GDPR, you can see it in https://www.gob.mx/indesol/documentos/ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados."
     ],
     "adherenceSteps": [
-      ""
+      "The key points of the agreement are:",
+      "-Recolección de Información por TOWI - How we recolect the information and save it in our platform",
+      "-Uso de la información por TOWI - What we will do with the information",
+      "-Información Compartida - We will not share the information with anyone outside Towi Services",
+      "-Seguridad Relativa a su Información - All around the security that we can give around the user data.",
+      "Also we provide instructions to remove all your data from our databases",
+      "There are a few more things but this are the main ones, you can find fit all in: https://towi.com.mx/aviso-de-privacidad/"
     ]
   },
   "standards": {
@@ -54,16 +60,17 @@
       "additionalInfoMechanismProcessesPolicies": "https://github.com/pixframeStudios/towi_godot/blob/main/CODE%20OF%20CONDUCT.md"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No",
+      "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "TOWI may collect information from its SUBSCRIBERS, through our Site, of the following types:",
+        "- Personal Information such as: Full name, date of birth, age, place of birth, address, telephone, family data or references, email, occupation, gender, academic level, university career, work or professional experience, interests, country, region or state. (https://towi.com.mx/aviso-de-privacidad/)"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "TOWI will not create databases that contain sensitive personal data, without obtaining your express written consent, and without justifying their creation for legitimate, specific purposes and in accordance with the activities or explicit purposes of TOWI. (https://towi.com.mx/aviso-de-privacidad/)"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
