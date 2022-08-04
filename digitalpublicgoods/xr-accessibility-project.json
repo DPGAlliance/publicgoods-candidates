@@ -2,22 +2,22 @@
   "name": "XR Accessibility Project",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/README.md"
+    "copyrightURL": "https://xraccess.org/resources/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "No",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No",
+    "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "https://xraccessibility.github.io/"
     ]
   },
   "NonPII": {
     "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "Yes",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
@@ -30,22 +30,27 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "In terms of formats, the index supports HTML5",
+      "We also offer resources to support WebXR, the open XR standard supported by the W3C"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://xraccess.org/resources/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Clear hierarchy of items, alt text for all images"
+      "We also believe in the Principles for Digital Development, as the project:",
+      "- Aims to reuse and improve accessible code so developers don't have to recreate accessibility features from scratch",
+      "- Leverages as many open source resources as possible",
+      "- Attempts to understand the existing ecosystem by supporting the tools that developers are actively using",
+      "- Is collaborative, asking developers to share new resources and code as they find it"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "As an index of resources there isn't a huge capacity for harm, but we as the moderators of the resource vet all submissions for accuracy and keep harmful or hazardous material off of the site."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
