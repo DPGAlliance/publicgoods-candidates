@@ -44,9 +44,15 @@
     "evidenceStandardSupport": [
       "https://gitlab.com/credit-commons/credit-commons-documentation"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "The Twelve Factor App (https://12factor.net/)",
+      "Principles For Digital Development",
+      "Code versioning - Using a version control system",
+      "Test driven development - There are currently about 100 tests running against the OpenAPI spec",
+      "Code refactoring - The code has been refactored many times and makes use of the latest php8 syntax for brevity and clarity",
+      "Extensive use is made of class inheritance for separating out the code.",
+      "Modularity - The linked package cc-node is just the core of the system. Part of the code base is a library of mostly objects and base objects which are strongly implied by the API, which would help a developer get started with a fresh implementation. Another package cc-server puts a REST wrapper around cc-node."
     ]
   },
   "doNoHarm": {
