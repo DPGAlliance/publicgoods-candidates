@@ -1,0 +1,48 @@
+{
+  "name": "Credit Commons",
+  "aliases": [
+    ""
+  ],
+  "description": "A protocol for recursive mutual credit accounting. The Credit Commons Protocol supports independent entities to keep track of their exchange on a ledger which they control. Ledgers can be recursively nested, allowing trading blocs of all scales to exchange with each other without using money.",
+  "website": "http://creditcommons.net",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://gitlab.com/credit-commons/cc-node/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Mutual credit accounting allows communities to create their own medium of exchange, thus boosting trade especially when money is short. The Credit Commons protocol is intended facilitate this kind of project by providing accounting software which also allows trade between groups. One developed world analogue of these systems is Business Barter networks, sometimes called 'Capacity Trade' because they help business trade towards their maximum capacity.  There are almost no cooperative or self-run business networks and no open source software to run them. The Credit Commons reference implementation does accounting - the most crucial function for such groups if they wanted to work cooperatively. Our first implementation is for this cooperative Swedish barter network. http://www.svenskbarter.se/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "cc-node",
+      "url": "https://gitlab.com/credit-commons/cc-node"
+    },
+    {
+      "name": "REST server",
+      "url": "https://gitlab.com/credit-commons/cc-server"
+    },
+    {
+      "name": "Credit Commons PHP library",
+      "url": "https://gitlab.com/credit-commons/cc-php-lib"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Credit commons society",
+      "website": "https://creditcommonssociety.org/",
+      "org_type": "owner",
+      "contact_name": "Matthew Slater",
+      "contact_email": "matslats@creditcommons.net"
+    }
+  ],
+  "stage": "nominee"
+}
