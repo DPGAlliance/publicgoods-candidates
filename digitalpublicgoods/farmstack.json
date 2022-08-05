@@ -16,26 +16,27 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data is NOT stored within the software but is kept by the original data providers and shared via a connector against a pre-defined usage policy."
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "One type of user is called a steward, and this user type sets baseline rules by which their network of other users 'participants' are meant to use the software. Because it is used in different jurisdictions for example the US, India, Ethiopia and Kenya, it is necessary to set standards based on the geography. The software itself is a flexible solution that is customized by the steward as needed."
     ],
     "adherenceSteps": [
-      ""
+      "One type of user is called a steward, and this user type sets baseline rules by which their network of other users 'participants' are meant to use the software. Because it is used in different jurisdictions for example the US, India, Ethiopia and Kenya, it is necessary to set standards based on the geography. The software itself is a flexible solution that is customized by the steward as needed."
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "JSON",
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/digitalgreenorg/farmstack-open"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -57,7 +58,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Data is not collected and stored by our solution."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -69,13 +70,13 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
       ],
-      "griefAbuseHarassmentProtection": "",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
       ]
     }
   },
