@@ -1,8 +1,8 @@
 {
-  "name": "Test removal of stage",
+  "name": "NMF.earth",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/"
+    "copyrightURL": "https://nmf.earth/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/"
+      "https://github.com/NMF-earth/nmf-app/blob/main/README.md"
     ]
   },
   "NonPII": {
@@ -23,29 +23,30 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR"
+      "No tracking in the app, except for the crashes/bugs that are anonymously reported via sentry"
     ],
     "adherenceSteps": [
-      "Privacy policy - https://github.com/"
+      "No tracking in the app, except for the crashes/bugs that are anonymously reported via sentry"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "HTTPS/SSL"
+      "HTML",
+      "JavaScript"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/"
+      "https://github.com/NMF-earth/nmf-app"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "CI/CD"
+      "Follow best practices with more than 30 contributors, not tracking user, using a lot reusable components and more than 80 percent test coverage (unit tests and visual regressions) and using user feedback for the roadmap"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "Code of conduct"
+      "additionalInfoMechanismProcessesPolicies": "All data provided in the app will never be sold or shared to any companies and we don't track what you do in the app"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -57,7 +58,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "HTTPS"
+      "privacySecurityDescription": "All data provided in the app will never be sold or shared to any companies and we don't track what you do in the app"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -81,10 +82,10 @@
   },
   "locations": {
     "developmentCountries": [
-      "Ghana"
+      "Denmark"
     ],
     "deploymentCountries": [
-      "Uganda"
+      "France"
     ]
   }
 }
