@@ -1,11 +1,24 @@
 {
   "name": "PHARMARUN",
   "clearOwnership": {
-    "isOwnershipExplicit": "No"
+    "isOwnershipExplicit": "No",
+    "copyrightURL": ""
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "No"
+    "isSoftwarePltIndependent": "No",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      ""
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -18,6 +31,12 @@
   },
   "standards": {
     "supportStandards": "No",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "1.Design With the User  2.Understand the Existing system  3.Scalability  4.Build for Sustainability  5.Data Driven principles  6.Use Open Standards, Open Data, Open Source  7.Be able to Reuse and Improve  8.Privacy & Security is addressed  9.To be Collaborative"
@@ -25,7 +44,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -33,22 +53,27 @@
         "Names, National Identification Number, Age, Bank Details , Phone Numbers"
       ],
       "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "MFA (Multi Factor Authentication) for 2 step verification, Encrypted Bank Details and payment channes"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Inventory of Health centers, Pharmacies",
-      "contentFilter": "Unknown",
-      "illegalContentDetection": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "By using NIN, numbers, underaged users cannot access this platform or complete registration. Using account details that match Username."
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Authentication protocols, Identity to prevent multiple accounts,  History to prevent buying more than what is required to avoid abuse or overdose"
       ]
