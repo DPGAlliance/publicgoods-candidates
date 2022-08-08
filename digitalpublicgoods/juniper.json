@@ -63,6 +63,8 @@
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
@@ -80,7 +82,7 @@
   },
   "locations": {
     "developmentCountries": [
-      "USA",
+      "United States of America",
       "Canada",
       "Switzerland",
       "France"
