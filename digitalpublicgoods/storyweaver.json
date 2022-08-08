@@ -1,0 +1,158 @@
+{
+  "name": "StoryWeaver",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://storyweaver.org.in/terms_and_conditions"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/PrathamBooks/sw-core/blob/master/README.md",
+      "https://github.com/PrathamBooks/sw-web/blob/master/README.md",
+      "https://github.com/PrathamBooks/sw-docker/blob/master/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "For accessing non-PII data from the system, we use the BI tool (powered by Metabase) and build dashboard(s) for analytics. These dashboards do have export facilities and non-PII data can be exported in CSV and PDF format(s). "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)",
+      "ndia does not have separate Privacy legislation in place. Privacy is governed under the IT Act itself. To the best of our knowledge, the StoryWaver platform complies with all applicable and requisite provisions of the IT Act."
+    ],
+    "adherenceSteps": [
+      "https://storyweaver.org.in/terms_and_conditions",
+      "https://storyweaver.org.in/privacy_policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Accessibility - WCAG 2.0/2.1",
+      "Security - HTTPS, SSL, SSH",
+      "Multimedia - MP4, Ogg MP3, JPEG, PNG, SVG",
+      "Standard Content formats - PDF, ePub, WebM",
+      "Authentication & Authorization - OAuth 2, JWT",
+      "Web standards - HTML, CSS",
+      "Software Architectural Styles - REST",
+      "Application Programming Interfaces (APIs) - OpenAPI",
+      "Data Exchange formats - JSON, XML, CSV",
+      "Credentialing - W3C VC",
+      "Internationalization (i18n) - UTF-8, ISO-8859-1"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/PrathamBooks/sw-core"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design With the User",
+      "Design for scale",
+      "Understand the Existing Ecosystem",
+      "Build for sustainability",
+      "Data driven",
+      "Use open standards, open data, open source and open innovation",
+      "Reuse and Improve",
+      "Address Privacy & Security",
+      "Collaboration"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We have developed several tools and models for rating and reviewing the user-generated content on the platform. We have a quality control framework for onboarding volunteer reviewers to review user-generated content, which allows for the rating of the books on a number of parameters. This process not only helps us identify and pull down malicious and/or harmful content, but also helps us identify good writers and translators, and recommend high-quality content to our users. Additionally, users can directly report malicious and/or harmful content to moderators on the platform. The tools for the same are user facing on the platform at a story level. The reported content is screened by moderators and if found malicious and/or harmful, it is pulled down from the platform.  The user-author or user-illustrator ( whose work is pulled down) is notified of the same via email from StoryWeaver. The notification mailer details the specific reason for pulling down such content.  Users have a chance to modify the content and re-upload their work Users repeatedly posting such content are banned from the platform - they can read but they are not allowed to create / upload anything.   We do not allow the hosting of content as per the following guidelines:  Content that is considered using copyrighted ideas/images, characters or intellectual property that belong to another person or entity, content that contains explicit or provocative content or that depicts overly-detailed or mature portrayals of violence (to people or animals), or use of language (e.g. profanities), physical/romantic relationships, self-harm, or substance abuse.  Content that promotes hate speech, discrimination, or intolerance based on language, religion, or region.  Content that pushed personal agendas, or specific moral or religious belief systems.  Content designed to bully, marginalize, harass, insult, or attack specific users or groups"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "To enhance the user experience on StoryWeaver,  we collect user information for profiling the user base. We look at the one time collected self-identified profile information provided on StoryWeaver platform when registering to break down readership of a book or enrollment in a certain reading program",
+        "StoryWeaver does not explicitly share any personally identifiable data (Name, age, gender etc.) with any 3rd parties. Any anonymized behavioural data which is collected and stored outside of the platform. E.g. Google Analytics is used for internal analysis and product improvements to the platform and not shared explicitly with any 3rd party either. "
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "StoryWeaver collects data at various points in order to maintain and enhance the services on the website. The types of data collected are: \n- User registration: Name and email address at the time of sign-up \n - Operational data: Specific data recorded from product usages such as form submissions, enrollment, and reading progress in a program or content downloads \n - Weblog data: Interaction with a certain page, device, or browser data, usually collected automatically. \n All these datasets are secured on private servers behind firewalls with highly-controlled access. Any data that is shared with third parties is always in aggregated or anonymized form."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "1. Children stories  2. Curated lists of stories  3. Resource programmes aligned to learning outcomes  4. Illustrations for children's stories ",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://storyweaver.org.in/contributor_guidelines",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "We have developed several tools and models for rating and reviewing the user-generated content on the platform. We have a quality control framework for onboarding volunteer reviewers to review user-generated content, which allows for the rating of the books on a number of parameters. This process not only helps us identify and pull down malicious and/or harmful content, but also helps us identify good writers and translators, and recommend high-quality content to our users. Additionally, users can directly report malicious and/or harmful content to moderators on the platform. The tools for the same are user facing on the platform at a story level. The reported content is screened by moderators and if found malicious and/or harmful, it is pulled down from the platform.  The user-author or user-illustrator ( whose work is pulled down) is notified of the same via email from StoryWeaver. The notification mailer details the specific reason for pulling down such content.  Users have a chance to modify the content and re-upload their work Users repeatedly posting such content are banned from the platform - they can read but they are not allowed to create / upload anything.  Link: https://storyweaver.org.in/contributor_guidelines; The average response time of screening and pulling down reported content is within 3-4 working days. "
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "Afghanistan",
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Mexico",
+      "Albania",
+      "Brazil",
+      "China",
+      "France",
+      "Ghana",
+      "Guatemala",
+      "Italy",
+      "Kenya",
+      "Japan",
+      "Malaysia",
+      "Nepal",
+      "Norway",
+      "Nigeria",
+      "Portugal",
+      "Slovakia",
+      "Vietnam",
+      "United States of America",
+      "United Kingdom",
+      "Qatar",
+      "Uganda",
+      "Thailand",
+      "Spain",
+      "Sri Lanka",
+      "South Africa",
+      "Papua New Guinea",
+      "Romania",
+      "Pakistan",
+      "North Macedonia",
+      "Singapore",
+      "Iraq",
+      "Iran",
+      "Turkey",
+      "Syria",
+      "Ukraine",
+      "Myanmar",
+      "Zambia",
+      "Zimbabwe",
+      "South Sudan",
+      "Tanzania",
+      "Somalia",
+      "Togo"
+    ]
+  }
+}
