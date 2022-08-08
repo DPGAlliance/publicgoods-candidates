@@ -47,7 +47,9 @@
     {
       "name": "World Bank",
       "website": "https://www.worldbank.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Nathan Schneck",
+      "contact_email": "nschneck@pactworld.org"
     }
   ],
   "stage": "DPG"
