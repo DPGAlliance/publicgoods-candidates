@@ -1,0 +1,52 @@
+{
+  "name": "DIGIT",
+  "aliases": [
+    "Digital Infrastructure for Governance, Impact and Transformation"
+  ],
+  "description": "DIGIT is an open-source, configurable, extendable, modular, digital  infrastructure that enables local governments to deliver municipal services to citizens in an efficient, inclusive, and transparent manner.",
+  "website": "https://www.digit.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/egovernments/DIGIT-OSS/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "SDG 9, our work is closely aligned with Target 9.1, \"Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all\". Effective local government, which is able to provide local infrastructure and services, is key to inclusive development at the last mile, and enabling local governments to collect resources and deliver services in an efficient & transparent manner enhances their capacity to deliver the conditions for well-being, sustainability, and innovation. Our work also aligns with Target 9.c, leveraging local intermediaries to provide digitally-enabled access to services to populations that may otherwise have to rely on physical channels, or have difficulty accessing services at all.",
+      "evidenceURL": "http://13.232.68.160/impactbook/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "At eGov, we see our work as fitting with the themes of SDG 11 - Sustainable Cities and Communities - and SDG 17 - Partnerships for Development. SDG 11 - Some key targets that our work supports include: • Ensuring access for all to adequate, safe, and affordable housing and basic services • Enhancing capacity for participatory, integrated, and sustainable human settlement planning and management • Reducing the adverse environmental impacts of cities, including by paying special attention to municipal and other waste management • Developing effective, transparent, and accountable institutions at all levels",
+      "evidenceURL": "http://13.232.68.160/impactbook/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "At eGov, we see our work as fitting with the themes of SDG 11 - Sustainable Cities and Communities - and SDG 17 - Partnerships for Development. SDG 17 - To make cities work for citizens requires collaborative efforts that reach across every sector of economy and society. We place great emphasis on collaboration and co-creation because urban governance is an inherently complex problem. We think of the ecosystem in terms of three sectors: samaaj (society), sarkaar (government), and bazaar (market or industry). The ecosystem first approach is what differentiates eGov from organisations that seek to identify “what works” and then scale that solution. We aim to create networks of trust and partnership that enhance local capacity to solve - so that the diverse challenges of urban India can be met by a wide range of local solutions, each effective in its own context.",
+      "evidenceURL": "http://13.232.68.160/impactbook/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/egovernments/DIGIT-OSS"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "eGovernments Foundation",
+      "website": "https://egov.org.in/",
+      "org_type": "owner",
+      "contact_name": "Nabhonil Roy Chowdhury",
+      "contact_email": "neil.roy@egovernments.org"
+    }
+  ],
+  "stage": "DPG"
+}

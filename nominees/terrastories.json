@@ -1,7 +1,10 @@
 {
   "name": "Terrastories",
-  "description": "Powered by the Mapbox platform, Terrastories is designed to be entirely offline-compatible, so that remote communities can access the application entirely without needing internet connectivity.",
-  "website": "",
+  "aliases": [
+    ""
+  ],
+  "description": "An open-source application for mapping place-based oral histories. Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. Terrastories is designed to be entirely offline-compatible",
+  "website": "https://terrastories.io",
   "license": [
     {
       "spdx": "MIT",
@@ -10,19 +13,33 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 11
+      "SDGNumber": 4,
+      "evidenceText": "Terrastories pertains to Target 4.7 insofar as the application promotes young learners, in particular from Indigenous communities, to gain appreciation of cultural diversity and of culture's contribution to sustainable development, in their own language and using materials that directly relate to their lands and communities.",
+      "evidenceURL": "https://terrastories.io"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Terrastories pertains to Target 11.4 insofar as the application serves as a resource for protecting a community's intangible cultural heritage, in the form of oral histories and traditional knowledge about the lands.",
+      "evidenceURL": "https://terrastories.io"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Terrastories/terrastories",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/terrastories/terrastories"
+    }
+  ],
   "organizations": [
     {
-      "name": "Terrastories",
-      "website": "https://www.amazonteam.org/terrastories/",
-      "org_type": "owner"
+      "name": "Digital Democracy",
+      "website": "http://digital-democracy.org",
+      "org_type": "maintainer",
+      "contact_name": "Rudo Kemper",
+      "contact_email": "rkemper@digital-democracy.org"
     }
   ],
   "stage": "nominee"

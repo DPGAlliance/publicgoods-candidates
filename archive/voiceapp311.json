@@ -1,0 +1,40 @@
+{
+  "name": "VoiceApp311",
+  "description": "Boston Info is an Alexa skill designed to provide easy access to information about municipal services in Boston.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforboston/voiceapp311/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    },
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforboston/voiceapp311"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for Boston",
+      "website": "https://www.codeforboston.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

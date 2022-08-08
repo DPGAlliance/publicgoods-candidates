@@ -1,0 +1,121 @@
+{
+  "name": "Delve",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "Yes the platform donor, implementer and steering committee are noted on the Governance page: https://delvedatabase.org/about/governance . Content on the platform always is published with the Author and Institutional affiliation. The resource library tags content with author, institution, license, along with other metadata tags displayed on each resource’s individual page (example: https://delvedatabase.org/resources/delve-country-profile-central-african-republic). "
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "12% of all resources (86/749) in the ‘Resource Library’ are articles published in academic journals that restrict a user’s access behind the journal’s paywall.  Delve’s seeks to promote awareness of the existing literature and data on the artisanal mining sector. Quantitative data points from restricted journal articles are still cited in the Delve platform’s dashboards fulfilling the primary goal of the platform. Users are able to identify the source and all biographical information required for citing these sources using the metadata tags in the Resource Library. "
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Delve’s dashboards are built on a set of standardized data points. Users can upload data to the Delve database via a contribution mechanism (CSV-upload template or online form). The data points for the data upload template are defined in Data Field Definitions document (https://delvedatabase.org/resources/delve-data-field-definitions). Delve’s data standards are stated at https://delvedatabase.org/contribute/data-standards."
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The Delve platform stores data points related to the artisanal mining sector around employment, production and revenue. These data points are listed in the data upload template. Users can extract this data from charts which contain this data in a CSV format from any dashboard visualization. The Delve platform also does collect non-personally identifiable information data on the use of the platform via Google Analytics. The site analytics are used to inform development and key metrics associated with site performance and usage. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "The Delve platform has taken steps to ensure adherence to relevant privacy law including General Data Protection Regulation (GDPR). The project is compliant with GDPR as noted in the Delve privacy policy (https://delvedatabase.org/privacy)."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Delve supports:",
+      "UTF–8 for character encoding",
+      "Web Content Accessibility Guidelines 2.1 when operationally possible",
+      "Uniform Resource Identifiers when linking to externally hosted resources",
+      "PDF for document formatting in the Resource Library & all Delve publications",
+      "JPEG, PNG, CSV for multimedia exports of data visualizations"
+    ],
+    "evidenceStandardSupport": [
+      "https://delvedatabase.org/about/faqs#faq12"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Delve platform supports the Principles for Digital Development. The platform's development involved user testing with target stakeholders following a eight month 'roadshow' that tested the concept and value proposition of the platform among sector professionals (target users). The roadshow also identified complementary initiatives and content that could be incorporated into the platform to avoid redundancies and duplication. The platform piloted a beta version of the platform in 2018 and released a full version 1.0 of the platform 2019. The platform's development relies on site analytics and user surveys and interviews to inform priorities and future development."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Care will continue to be taken to ensure that data is aggregated and, where appropriate, anonymized to avoid putting any stakeholders at risk. Commercial confidentiality is respected through the review of contributed data prior to publishing on the platform. Issues such as the risk of stimulating rushes, distorting markets, creating legal pressures, etc., are carefully considered and managed by the Delve operating team and Steering Committee."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Email Address",
+        "Job Title",
+        "Organization"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Delve users are required to provide an e-mail address and first and last name in order to create a user account on the platform. Users have the option to provide their organization, job title and additional information with the platform when a user account is created. Users are also able to choose to make their information publicly listed on the platform under the Delve Users directory. Users at anytime are able to remove their listing from the profile directory on their own. The administrative portal of the platform where user information (e-mail address, name, etc.) can be viewed is password protected and access is restricted to administrators of the site."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Knowledge products on artisanal mining (academic journal articles, datasets, program reports, government publications, conference presentations, survey instruments)",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Data and resources contributed to the Delve platform undergo an administrative review prior to being made public and integrated into the master Delve dataset. Data reviews take between 3-10 business days and produce three outcomes (approved, subject to revisions, denied). Approved contributions are made public and integrated into the master Delve dataset. Contributions subject to revisions are provided with a set of required revisions/clarifications that need to be addressed prior to the approval of the contribution. Denied contributions are not be accepted into the database with noted justifications. Users are notified via e-mail upon completion of their administrative review, including the review outcome and any necessary actions/justifications. Data and resource reviews consider the following areas: \n- Alignment with Delve data quality standards \n- Obvious errors, omissions or other issues that affect the validity of the data or resource \n- General verification of data reliability through consultation with expert advisory team \n- Commercial confidentiality \n- Risks associated with making the data public (risk of creating rushes, distorting markets, creating legal pressures, harm to ASM communities etc.) \n- Inappropriate content (For example but not limited to content promoting hate, racism, discrimination, violent extremism, sexually explicit content) \n https: //delvedatabase.org/contribute"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Brazil",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Ethiopia",
+      "Ghana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Mongolia",
+      "Morocco",
+      "Mozambique",
+      "Myanmar",
+      "Niger",
+      "Nigeria",
+      "Peru",
+      "Rwanda",
+      "Tanzania",
+      "Uganda",
+      "Zimbabwe"
+    ]
+  }
+}

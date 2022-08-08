@@ -1,0 +1,112 @@
+{
+  "name": "farmOS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://farmos.org/community/trademark"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://farmos.org/hosting/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "farmOS provides an API (that adheres to JSON) that other applications/systems can use to read and write records via HTTP requests - https://farmos.org/development/api/"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty. As such, laws such as GDPR do not apply, because a third-party is not involved in data storage."
+    ],
+    "adherenceSteps": [
+      "farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty. As such, laws such as GDPR do not apply, because a third-party is not involved in data storage."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTTPS",
+      "SSL",
+      "OAuth2",
+      "OIDC",
+      "JWT",
+      "UTF-8",
+      "HTML",
+      "CSS",
+      "REST (Representational State Transfer)",
+      "OpenAPI",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://farmos.org/development/environment/code/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Coding standards - farmOS follows Drupal coding standards (https://farmos.org/development/environment/code/)",
+      "Automated tests - https://farmos.org/development/environment/tests/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": "The farmOS community has adopted the Contributor's Covenant as its Code of Conduct - https://www.contributor-covenant.org/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Farm records and field geometries"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The farmOS community has adopted the Contributor's Covenant as its Code of Conduct, which is used to enforce positive conduct in our community spaces such as the forum and issue queues. The software itself can be self-hosted and therefore the users of it are dictated by the person running the software."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Covenant Code of Conduct - https://farmos.org/community/conduct/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United Kingdom",
+      "Ireland",
+      "Spain",
+      "Germany",
+      "Norway",
+      "Sweden",
+      "Uganda",
+      "Australia",
+      "New Zealand",
+      "Malaysia",
+      "India",
+      "United States of America"
+    ]
+  }
+}

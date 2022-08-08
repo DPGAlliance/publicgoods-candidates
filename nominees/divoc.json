@@ -24,12 +24,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/egovernments/DIVOC",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/egovernments/DIVOC"
+    }
+  ],
   "organizations": [
     {
       "name": "eGovernments Foundation",
       "website": "https://egov.org.in/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Rajeesh R Menon",
+      "contact_email": "rajeesh.menon@in.ey.com"
     },
     {
       "name": "eGovernments Foundation",

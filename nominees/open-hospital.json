@@ -1,0 +1,54 @@
+{
+  "name": "Open Hospital",
+  "aliases": [
+    "OH"
+  ],
+  "description": "OH – Open Hospital is a free and open source software developed and supported by Informatici Senza Frontiere to provide a sustainable tool for the management of hospitals, health centers and facilities, with a strong focus on developing countries.",
+  "website": "https://www.open-hospital.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/informatici/openhospital-core/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.open-hospital.org/about-open-hospital/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "OH Core",
+      "url": "https://github.com/informatici/openhospital-core"
+    },
+    {
+      "name": "OH GUI",
+      "url": "https://github.com/informatici/openhospital-gui"
+    },
+    {
+      "name": "OH Documentation",
+      "url": "https://github.com/informatici/openhospital-doc"
+    },
+    {
+      "name": "OH API",
+      "url": "https://github.com/informatici/openhospital-api"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Informatici Senza Frontiere",
+      "website": "https://www.informaticisenzafrontiere.org",
+      "org_type": "maintainer",
+      "contact_name": "ISF",
+      "contact_email": "info@informaticisenzafrontiere.org"
+    }
+  ],
+  "stage": "nominee"
+}

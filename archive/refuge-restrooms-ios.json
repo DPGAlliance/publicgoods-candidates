@@ -1,0 +1,34 @@
+{
+  "name": "Refuge Restrooms iOS",
+  "description": "iOS app for Refuge Restrooms",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/RefugeRestrooms/refugerestrooms-ios/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RefugeRestrooms/refugerestrooms-ios"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Refuge Restrooms",
+      "website": "https://www.refugerestrooms.org/about",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
