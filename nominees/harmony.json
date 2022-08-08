@@ -1,0 +1,66 @@
+{
+  "name": "Harmony",
+  "aliases": [
+    ""
+  ],
+  "description": "Harmony is an open-source, end-to end data integration and advanced analytics platform for integrating, harmonizing, analyzing, and visualizing any number of structured data sources from different sectors (e.g. health, education, agriculture, sustainable development, climate change adaptation), ranging from routinely collected individual level data to operational research and survey data. ",
+  "website": "https://github.com/Zenysis/Harmony",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/Zenysis/Harmony/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "For ALL: Harmony currently serves as the open source, data integration and data analytics platform for governments in 8 low-, middle- and upper-middle income countries in Asia, Africa, and Latin America. It is also used by the RBM Partnership to End Malaria for global coordination of the malaria response. Scaled through funding by the Global Fund, GAVI, USAID, Bill & Melinda Gates Foundation, Big Win Philanthropy, Vital Strategies, and the Pan American Health Organization, Harmony is utilized to integrate and analyze data across various sectors, including health (for national and sub-national HIV, TB, Malaria, supply chain, programs) and poverty reduction.  Harmony has been used to integrate data from multiple structured data sources, including various health management information systems (e.g. DHIS2), logistic management information systems (e.g. OpenLMIS), Excel and CSV files, surveys (e.g. Demographic and Health Surveys), scorecards, financial data, from individual level data to national surveys, and from open source and enterprise systems. Once data is integrated, it is used to optimize vaccine supply chains, improve financial and human resource allocations for health programs, mitigate loss to follow up of patients, identify and respond to data quality issues, align labor data to educational supply data, rapidly respond to global or national emergencies (e.g. hurricanes and pandemics), and coordinate inter-agency actions and funding. 1. No Poverty Evidence: Harmony is being deployed in more than 8 countries in Sub-Saharan Africa, Asia, and Latin America, and in more than 25 countries through global projects, to integrate and effectively utilize data to mitigate the health and economic challenges felt by those living in extreme poverty. Harmony supports a myriad of governments and organizations to focus on health poverty alleviation that leads to improved health outcomes, a reduction out-of-pocket payments and health expenditures and a healthier workforce. For example, through the RBM Partnership to End Malaria project, Zenysis is supporting the development coordination and mobilization of resources from a variety of sources, in order to provide adequate and predictable supply of malaria commodities and technical assistance services that impact those living in extreme poverty.  Every country Harmony is deployed in is classified as low or middle income country per the World Bank’s classification.   ",
+      "evidenceURL": "https://www.ft.com/content/330b1734-684a-11ea-a6ac-9122541af204"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "3. Good Health and Well-being Evidence: Harmony is utilized to integrate and analyze data across various disease areas within the health sector, including but not limited to, for national and sub-national HIV, TB, and Malaria programs. Harmony has been used to integrate data from multiple structured data sources, including various health management information systems (e.g. DHIS2), logistic management information systems (e.g. OpenLMIS), Excel and CSV files, surveys (e.g. Demographic and Health Surveys), scorecards, financial data, from individual level data to national surveys, and from open source and enterprise systems. Once data has been integrated, it is being used to optimize vaccine supply chains, improve financial and human resource allocations for health programs, mitigate loss to follow up of patients, identify and respond to data quality issues, align labor data to educational supply data, rapidly respond to global or national emergencies (e.g. hurricanes and pandemics), and coordinate inter-agency actions and funding. Harmony is used by national health ministries, global health stakeholders (The Global Fund, Gavi, USAID). During the COVID-19 pandemic, 3 countries utilized their instance of Harmony for their pandemic response. Excerpt from Devex Article: “Zenysis builds relationships by starting small, and solving data and interoperability problems, identified by users,” John Fairhurst, the head of private sector engagement at the Global Fund to Fight AIDS, Tuberculosis and Malaria, told Devex by email. “This model has proved effective in a range of operating and digital maturity contexts.\" In addition to Mozambique, Zenysis works in Brazil, Pakistan, South Africa, Zambia, Benin, Ethiopia, and Rwanda, as well as for the RBM Partnership to End Malaria, which operates globally. Rwanda Biomedical Centre, a government organization affiliated with Rwanda’s Health Ministry, used to have separate tracking systems for different health priorities, with one for HIV/AIDS, another for malaria, another for tuberculosis, and so on. It is now partnering with Zenysis, which is working on a new agreement with the Rwandan government. RBC said Zenysis’ approach is different from those of other tech companies that have come and gone over the years. “We attribute most of those failures to a lack of ownership or long-term vision,” said Albert Tuyishime, division manager for planning, business strategy, and monitoring and evaluation at RBC. “We’ve had some partners pull out, saying: ‘Our time here has elapsed. The resources we had are now finished, so we have to step out.’” ",
+      "evidenceURL": "https://www.devex.com/news/zenysis-aims-to-be-government-operating-system-in-low-income-nations-100438"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "5. Gender Equality Evidence: In all deployments, where sex or gender disaggregated data is available, Harmony collects and integrates data on gender that can then be disaggregated and analyzed to help the government unlock key insights to have an impact on the gender-specific outcomes. For example, in South Africa, Zenysis’ software was used for the integration of Adolescent Girls and Young Women programmatic data across three Global Fund stakeholders. By using Zenysis’ analytics tools, the stakeholders have enhanced capacity to track cohorts of clients through time for their respective programs and refer clients more effectively to external services. Excerpt from Global Fund Overview Publication: “In public health programming we need to be a lot smarter in the way we use data in order to make the money go further and ensure that we reach the communities we are trying to reach with the services they require at the right time. NACOSA previously used a spreadsheet to track the number of sex workers reached in South Africa and it became very difficult to accurately track the types of services received and the profiles of the sex workers that we reached. With the Zenysis data platform we are now able to look at the unique number of sex workers reached and the exact services provided. We are able to analyse the data down to a hotspot level to be able to tailor programmatic interventions to better reach the sex workers at the right times. Additionally, we have been able to merge programmatic and finance data, which has helped us look at the cost-effectiveness of the program and identify problems.” Leora Casey Key Populations Manager, Networking HIV & AIDS Community of Southern Africa (NACOSA)",
+      "evidenceURL": "https://www.theglobalfund.org/media/8705/publication_privatesectorzenysis_focuson_en.pdf"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "6. Clean Water and Sanitation Evidence: Harmony can be used to integrate a myriad of cross-sectoral data systems that can be utilized for analysis. For example data on water quality can be integrated with health data, infrastructure data, and supply chain data to pinpoint an outbreak due to unclean water and optimize the delivery of health commodities to that location.  In March and April 2019, Tropical Cyclones Idai and Kenneth made landfall in Mozambique. The National Institute of Health of Mozambique used Harmony to quickly integrate 8 separate critical emergency response systems into a single platform for analysis. By analyzing the data integrated within Harmony and optimizing key interventions, the Government and all of its partners, including the World Health Organization and Doctors Without Borders, were able to identify tainted water sources and subsequently reduce the number of new cholera cases in Sofala Province, where Cyclone Idai made landfall, from over four hundred (400) per day to zero (0). Excerpt from FT Article: Zenysis formed part of a “virtual control room”, integrating information to help decision makers understand what was happening in the worst hit areas, identify sources of water contamination and where to prioritise cholera vaccinations. It supported an “mAlert system”, which integrated health surveillance data into a single platform for analysis. The output was daily reports distilled from data issued by health facilities and accommodation centres in affected areas, disease monitoring and surveillance from laboratory testing. Machine learning applied to disparate data helps manage shortages of medical supplies Eduardo Samo Gudo, deputy director-general of Mozambique’s National Health Institute, says that such information, combined with epidemiological bulletins and detailed presentations, helped inform daily discussions and decisions.",
+      "evidenceURL": "https://www.ft.com/content/330b1734-684a-11ea-a6ac-9122541af204"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "8. Decent Work and Economic Growth Evidence: Zenysis is working with the Jobs Creation Commission (JCC) to establish a Jobs Enablement and Data Interoperability (JEDI) platform to help the government manage and monitor its job creation programs. The platform, supported by Big Win Philanthropy, brings together a number of data sources to generate insights for policymakers, employers, job seekers and employment agencies.  Excerpt from Big Win Philanthropy Article: During this meeting, the delegation also learned about Ethiopia’s Jobs Enablement and Data Interoperability (JEDI) platform, developed by Zenysis Technologies to facilitate evidence-based decision-making through aggregating employment data from different information systems. Now in its second phase of expansion, the platform aggregates more than 20 data sources including job creation reports, education data, and labor force and employment surveys to create a national employment database and verify the accuracy of reports received from a variety of sources.",
+      "evidenceURL": "https://www.bigwin.org/blog-posts/ethiopia-shares-key-economic-transformation-insights-with-burkina-faso-delegation/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "17. Partnerships for the Goals Evidence: The integration of data across multiple once siloed systems supports the partnership and coordination of both domestic and international stakeholders in each Harmony deployment. For example, the RBM Partnership to End Malaria is the largest global platform for coordinated action towards a world free from malaria and since July 2019, Zenysis Technologies has been working with the RBM partnership to enhance data sharing, coordination and action in the fight against malaria. Zenysis has developed the Global Malaria Monitoring Dashboard to strengthen regional and global reporting requirements, integrate data from different systems, and improve data visualization and management tools. The dashboards integrate epidemiological, programmatic, financial, supply chain, and other data from more than 30 countries.",
+      "evidenceURL": "https://endmalaria.org/dashboard"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Zenysis' Harmony ",
+      "url": "https://github.com/Zenysis/Harmony"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Zenysis Technologies Inc.",
+      "website": "https://www.zenysis.com/",
+      "org_type": "owner",
+      "contact_name": "Kevin Gandhi",
+      "contact_email": "kevin@zenysis.com"
+    }
+  ],
+  "stage": "DPG"
+}
