@@ -1,0 +1,50 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "Yes, there are a variety of export formats from ODK from their UI or their external API.",
+    "confidence": 5
+  },
+  "user": "andrewtpham",
+  "timestamp": 1652865640,
+  "timeTaken": 259
+}
