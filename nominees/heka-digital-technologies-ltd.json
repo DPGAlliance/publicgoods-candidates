@@ -22,7 +22,12 @@
   "type": [
     "aimodel"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "Heka Digital Technologies LTD",
