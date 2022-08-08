@@ -32,22 +32,27 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "REST",
+      "JSON",
+      "HTML",
+      "CSS",
+      "JavaScript"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/frappe/erpnext"
     ],
     "implementBestPractices": "No",
     "bestPracticesList": [
-      ""
+      "Continous integration",
+      "Code coverage"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "No",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "https://erpnext.com/terms"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -59,7 +64,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "https://erpnext.com/terms#12-confidentiality"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
