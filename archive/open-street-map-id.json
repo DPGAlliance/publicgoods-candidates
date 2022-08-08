@@ -1,0 +1,34 @@
+{
+  "name": "Open Street Map iD",
+  "description": "This is the easy-to-use OpenStreetMap editor in JavaScript.",
+  "website": "https://www.openstreetmap.org/login?cookie_test=true&referer=%2Fedit%3Feditor%3Did",
+  "license": [
+    {
+      "spdx": "ISC",
+      "licenseURL": "https://github.com/openstreetmap/iD/blob/2.x/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openstreetmap/iD"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Street Map",
+      "website": "https://www.openstreetmap.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

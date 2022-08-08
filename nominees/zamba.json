@@ -1,29 +1,44 @@
 {
   "name": "Zamba",
-  "description": "Zamba is a command-line tool built in Python to automatically identify the species seen in camera trap videos from sites in central Africa. The tool makes predictions for 24 common species in these videos.",
+  "aliases": [
+    ""
+  ],
+  "description": "AI tools for wildlife monitoring with camera trap videos. Zamba is a command-line tool built in Python to automatically identify the species seen in camera trap videos from sites in central Africa. The tool makes predictions for 24 common species in these videos.",
   "website": "https://zamba.drivendata.org/",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/drivendataorg/zamba/blob/master/LICENSE.txt"
+      "licenseURL": "https://github.com/drivendataorg/zamba/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 17
+      "SDGNumber": 15,
+      "evidenceText": "Camera traps are critical tools in research and conservation efforts because they allow ecologists, biologists, and other researchers to study valuable footage of wildlife without human interference. Still, camera traps can't yet automatically label the species they observe. It takes the valuable time of experts, or thousands of citizen scientists, to label this data. Zamba uses state-of-the-art computer vision and artificial intelligence to perform intensive camera trap video processing work, freeing up more time for humans to focus on interpreting the content and using the results.",
+      "evidenceURL": "https://zamba.drivendata.org/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Environment"
+  ],
   "type": [
+    "aimodel",
     "software"
   ],
-  "repositoryURL": "https://github.com/drivendataorg/zamba",
+  "repositories": [
+    {
+      "name": "Zamba",
+      "url": "https://github.com/drivendataorg/zamba"
+    }
+  ],
   "organizations": [
     {
       "name": "DrivenData",
-      "website": "https://www.drivendata.org/",
-      "org_type": "owner"
+      "website": "https://www.drivendata.co/",
+      "org_type": "maintainer",
+      "contact_name": "Peter Bull",
+      "contact_email": "peter@drivendata.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

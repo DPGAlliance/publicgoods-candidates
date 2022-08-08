@@ -22,13 +22,20 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/cdsframework/ice",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cdsframework/ice"
+    }
+  ],
   "organizations": [
     {
       "name": "HLN Consulting, LLC",
       "website": "https://hln.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Noam H. Arzt",
+      "contact_email": "arzt@hln.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

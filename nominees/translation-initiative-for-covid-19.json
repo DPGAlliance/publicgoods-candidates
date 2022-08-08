@@ -1,0 +1,48 @@
+{
+  "name": "Translation Initiative for Covid-19",
+  "aliases": [
+    "TICO-19"
+  ],
+  "description": "Academic and industry partners are collaborating with Translators without Borders to provide machine-readable translation data related to the COVID-19 pandemic. The project has prepared COVID-19 materials for a variety of the world's languages to be used by professional translators and for training state-of-the-art Machine Translation (MT) models. The focus is on making emergency and crisis-related content available in as many languages as possible.",
+  "website": "https://tico-19.github.io/",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://tico-19.github.io/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17.",
+      "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17. ",
+      "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "The commitments in the Sustainable Development Goals to put the most vulnerable people first and leave no one behind hinge on two-way communication in a multiplicity of languages, yet the SDGs are silent on language issues and many international organizations stop short of listening and communicating in local languages. This project aims to address these issues, contributing directly to achieving goals on good health and well-being (Goal 3) and on social equality (Goal 10). We want to ensure people can access the information about COVID-19 they need and want, regardless of what language they speak. And we are doing so by fostering collaboration between technologists, native speaker communities, humanitarian organizations, content creators, and donors, in line with Goal 17. ",
+      "evidenceURL": "https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "data",
+    "content"
+  ],
+  "organizations": [
+    {
+      "name": "Translators Without Borders",
+      "website": "https://translatorswithoutborders.org/",
+      "org_type": "owner",
+      "contact_name": "Andy Way",
+      "contact_email": "andy.way@adaptcentre.ie"
+    }
+  ],
+  "stage": "DPG"
+}

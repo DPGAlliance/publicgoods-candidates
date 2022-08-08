@@ -1,0 +1,34 @@
+{
+  "name": "Open Machine Learning",
+  "description": "OpenML is an online machine learning platform for sharing and organizing data, machine learning algorithms and experiments.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/openml/OpenML/blob/master/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openml/OpenML"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open ML",
+      "website": "https://openml.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

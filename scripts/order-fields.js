@@ -8,6 +8,8 @@
  * for all files in the expected order.
  */
 
+require('colors');
+const Diff = require('diff');
 const fs = require("fs");
 const path = require("path");
 const glob = require("glob");
@@ -149,6 +151,15 @@ function checkOrder(productsPath, propertiesOrder) {
                 productFiles[i] +
                 ". Re-run with --fix to fix."
             );
+            const diff = Diff.diffChars(JSON.stringify(product, propertiesOrder, 2) + "\n", jsonData);
+ 
+            diff.forEach((part) => {
+              // green for additions, red for deletions
+              // grey for common parts
+              const color = part.added ? 'green' :
+                part.removed ? 'red' : 'grey';
+              process.stderr.write(part.value[color]);
+            });
             process.exit(1);
           }
         }

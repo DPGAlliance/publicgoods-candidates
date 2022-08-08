@@ -1,0 +1,39 @@
+{
+  "name": "AI Powered Poverty Estimation",
+  "description": "Using AI on satellite imagery to scalably and quickly estimate poverty.",
+  "website": "https://thinkingmachin.es",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/thinkingmachines/ph-poverty-mapping/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://stories.thinkingmachin.es/philippines-most-vulnerable-communities/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://aiforsocialgood.github.io/icml2019/accepted/track1/pdfs/7_aisg_icml2019.pdf"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/thinkingmachines/ph-poverty-mapping"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Thinking Machines Data Science Inc.",
+      "website": "https://thinkingmachin.es",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

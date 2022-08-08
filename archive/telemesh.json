@@ -1,0 +1,49 @@
+{
+  "name": "Telemesh",
+  "description": "An open-source blockchain & mesh enabled messaging application for the unconnected.",
+  "website": "https://telemesh.net/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/w3-engineers/telemesh"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Telemesh believes that access to connectivity and communication is the key to improve people's lives, social status, and economic development. Access to connectivity directly impacts most of  SDG goals."
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Connectivity is an effective medium to promptly deliver economic resources and provide access to the global economy. When people have access to connectivity, it will improve education, health, employment opportunities, and, ultimately, GDP. The Telemesh project aims to connect remote rural populations in an accessible, affordable, and sustainable way. Telemesh can lead to improvements in major socio-economic sectors and lift millions of people out of poverty. "
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Telemesh Purpose: To solve the significant connectivity problem still exists in this 4th industrial era. Telemesh Motivation: Connectivity has so many essential factors to uplift people's life. The World is dependent on connectivity, and the United Nations has declared it as a Human Right. Telemesh Mission: To bring 3.9 billion unconnected people under connectivity benefits. Telemesh Scope: Infrastructure, maintenance, and data cost are barriers to reach out to those unconnected people. Our solution builds the infrastructure with the handheld device they already have, connect with the data providers as a compliment.",
+      "evidenceURL": "https://www.unicef.org/innovation/stories/w3-engineers-developing-open-source-messaging-solution-providing-connectivity-remote-areas https://www.unicef.org/innovation/fundgraduate/w3engineers https://www.forbes.com/sites/unicefusa/2020/01/22/unicef-steps-up-blockchain-investments-for-children/#21cc779d218f"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Connectivity is an effective medium to promptly deliver economic resources and provide access to the global economy. When people have access to connectivity, it will improve education, health, employment opportunities, and, ultimately, GDP. The Telemesh project aims to connect remote rural populations in an accessible, affordable, and sustainable way. Telemesh can lead to improvements in major socio-economic sectors and lift millions of people out of poverty.",
+      "evidenceURL": "Telemesh Pitch deck: https://drive.google.com/file/d/1e0qN9v7CfZV05BcvHDr2sE9U8pm6tL4n/view?usp=sharing"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/w3-engineers/telemesh"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "W3 Engineers Ltd.",
+      "website": "https://w3engineers.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

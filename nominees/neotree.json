@@ -1,0 +1,56 @@
+{
+  "name": "Neotree",
+  "aliases": [
+    ""
+  ],
+  "description": "Data and technology empowering healthcare providers to improve neonatal care and survival in low resource settings",
+  "website": "https://neotree.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/neotree/neotree/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Our development of learning health care systems for newborn care, and the human capacity with which to deliver these, will contribute directly to the UN Sustainable Development Goal (SDG) 3: to reduce neonatal mortality to 12/1000 live births. Our work will also contribute to other outcomes for SDG3: to achieve universal health coverage, improve recruitment, development, retention and training of the healthcare workforce. Our focus on optimising newborn and child outcomes, including disability, addresses the SDGs that focus on disability: 4,8,10,11,17."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Main",
+      "url": "https://github.com/neotree/neotree"
+    },
+    {
+      "name": "Mobile app",
+      "url": "https://github.com/neotree/neotree-react-native-app"
+    },
+    {
+      "name": "Editor",
+      "url": "https://github.com/neotree/neotree-editor"
+    },
+    {
+      "name": "Data pipeline",
+      "url": "https://github.com/neotree/neotree-data-pipeline-kedro"
+    },
+    {
+      "name": "Backend ",
+      "url": "https://github.com/neotree/node-api"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Neotree",
+      "website": "https://neotree.org/",
+      "org_type": "owner",
+      "contact_name": "Yali Sassoon",
+      "contact_email": "yali@snowplowanalytics.com"
+    }
+  ],
+  "stage": "nominee"
+}

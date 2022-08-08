@@ -1,0 +1,38 @@
+{
+  "name": "Wikigender",
+  "description": "A data story for exploring the gender linguistic in the overview of Wikipedia biographies.",
+  "website": "https://wiki-gender.github.io/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/wiki-gender/wiki-gender.github.io/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "This project explores gender linguistic bias in the overview of Wikipedia biographies. The project provide statistics proving the underrepresentation of women in Wikipedia, insights on occupations in Wikipedia and gender stereotypes.",
+      "evidenceURL": "https://wiki-gender.github.io/#topic-bias, https://github.com/natbolon/wiki-gender"
+    }
+  ],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/wiki-gender/wiki-gender.github.io"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Wikigender",
+      "website": "https://wiki-gender.github.io/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

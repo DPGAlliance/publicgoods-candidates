@@ -1,0 +1,35 @@
+{
+  "name": "Common Forms Toolkit",
+  "aliases": [
+    "COMFORT"
+  ],
+  "description": "COMFORT is an opinionated toolkit approach to designing and managing multi-tenanted forms. The Government of British Columbia is using this software to create screening forms that protect employees, contractors, and employers by ensuring a safe workplace and demonstrating proof of an Infection Prevention Control protocol (IPCP).",
+  "website": "https://silviculture-ipc-dev.pathfinder.gov.bc.ca/app/#/home",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/bcgov/common-forms-toolkit/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/bcgov/common-forms-toolkit"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Government of British Columbia",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
