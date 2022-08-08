@@ -13,6 +13,8 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "API documentation - https://tms-crm-backend.herokuapp.com/api-docs/v1",
+      "Backend - https://github.com/Trimester-Save-Ltd/tms-afriyie-backend",
+      "Frontend - https://github.com/Trimester-Save-Ltd/tms-afriyie-frontend",
       "https://trimester-save.herokuapp.com/"
     ]
   },
@@ -31,7 +33,7 @@
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
       "HTML",
       "CSS",
@@ -54,26 +56,22 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The TMS Afriyie app demonstrates and it is designed not to cause any harm to the user and the app's design is considered user friendly."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Name",
-        "Telephone Number",
-        "Identification Card Number",
-        "Email Address",
-        "Spouse Name",
-        "Spouse Telephone Number",
-        "City",
-        "Country"
+        "The application collects and stores:",
+        "Personal information such as: name, telephone number, spouse name, spouse phone number, email address, identification card, demographic (city, town, country, address)",
+        "Personal budgeting information",
+        "Medical vitals - blood pressure, weight, glucose level, last cycle date"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "The project also took steps to ensure that the data collected are secured in cloud based databases (Postgres)  and using modules that secure HTTP headers (Helmet) to prevent intruders from grabbing information easily. The application also verifies users by sending verification code to their mobile phones and entering passwords which provides a standard level of security."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
