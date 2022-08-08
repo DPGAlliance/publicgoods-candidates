@@ -1,33 +1,90 @@
 {
   "name": "Heka Digital Technologies LTD",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown",
+    "documentationURL": [
+      ""
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown"
+      "collectsPII": "Unknown",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown"
+      "collectStoreDistribute": "Unknown",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
-    "developmentCountries": []
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
   }
 }
