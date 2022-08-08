@@ -39,7 +39,9 @@
     {
       "name": "Ruby for Good",
       "website": "https://rubyforgood.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Sean Marcia",
+      "contact_email": "sean@rubyforgood.org"
     }
   ],
   "stage": "DPG"

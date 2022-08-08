@@ -35,7 +35,9 @@
     {
       "name": "OpenMRS, Inc.",
       "website": "https://openmrs.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Jennifer Antilla",
+      "contact_email": "jennifer@openmrs.org"
     }
   ],
   "stage": "DPG"
