@@ -33,12 +33,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dhis2/dhis2-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dhis2/dhis2-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Health Information Systems Programme (HISP), University of Oslo",
       "website": "https://www.mn.uio.no/ifi/english/research/networks/hisp/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Max Krafft",
+      "contact_email": "max@dhis2.org"
     },
     {
       "name": "Norad",

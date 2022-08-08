@@ -1,0 +1,34 @@
+{
+  "name": "Imisi3D",
+  "description": "Locally tailored interactve VR content to transform education in Nigeria",
+  "website": "https://www.imisi3d.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Imisi3D/leVRn-beta"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

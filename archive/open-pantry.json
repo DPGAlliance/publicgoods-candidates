@@ -1,0 +1,37 @@
+{
+  "name": "Open Pantry",
+  "description": "A management system for pantry programs to help people eat healthy meals with dignity.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/openpantry/open_pantry/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openpantry/open_pantry"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Pantry",
+      "website": "https://www.masbia.org/pantry",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -7,12 +7,20 @@ Open standards establish protocols and building blocks that can help make digita
 #### Security
 * PKI
 * HTTPS
-* JWT
 * SSL
-* Kerberos (Secure Authentication)
-* LDAP (Authorization)
 * SSH
 * GPG
+* RS256
+* HS256
+* AES
+* ES256
+
+#### Authentication & Authorization
+* OAuth 2
+* [OIDC](https://openid.net/connect/) (OpenID Connect)
+* JWT (JSON Web Tokens)
+* SAML (Security Assertion Markup Language)
+* XACML 3.0 (eXtensible Access Control Markup Language)
 
 #### Internationalization (i18n)
 * UTF-8
@@ -25,11 +33,20 @@ Open standards establish protocols and building blocks that can help make digita
 * ECMAScript (ES 5/6/7)
 * Latex
 
+#### Software Architectural Styles
+* REST (Representational State Transfer)
+
+#### Application Programming Interfaces (APIs)
+* OpenAPI
+
 #### Data Exchange formats 
-* JSON (JavaScript Object Notation)
-* XML (Extensible Markup Language)
-* CSV (Comma Separated Values)
-* TIFF
+* [JSON](https://www.json.org/json-en.html)
+* [YAML](https://yaml.org/)
+* [XML](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
+* [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+* [TIFF](https://en.wikipedia.org/wiki/TIFF)
+* [GeoTIFF](https://www.ogc.org/standards/geotiff)
+* [HDF5](https://www.ogc.org/standards/HDF5)
 * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
 #### Software Quality Assurance
@@ -39,6 +56,12 @@ Open standards establish protocols and building blocks that can help make digita
 #### Software Testing 
 * IEEE829
 * ISO/IEC/IEEE29119
+
+#### Business Process Modelling
+* [BPMN 2.0](https://www.omg.org/spec/BPMN/2.0/)
+
+#### Credentialing
+* [W3C VC](https://www.w3.org/TR/vc-data-model/)
 
 #### Standard Content formats
 * PDF
@@ -55,3 +78,7 @@ Open standards establish protocols and building blocks that can help make digita
 * H.264 (H.264/MPEG-4 AVC)
 * AAC (Advanced Audio Coding)
 * MP4 (MPEG-4 Part 14)
+
+#### Virtual Reality/ Augmented Reality (VR /AR)
+* [WebXR](https://www.w3.org/TR/webxr/)
+* [IEEE Digital Reality standards](https://digitalreality.ieee.org/standards)

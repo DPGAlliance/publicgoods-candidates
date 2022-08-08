@@ -26,16 +26,23 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/apache/fineract",
-  "organizations": [
+  "repositories": [
     {
-      "name": "The Apache Software Foundation",
-      "website": "https://apache.org",
-      "org_type": "owner"
-    },
+      "name": "main",
+      "url": "https://github.com/apache/fineract"
+    }
+  ],
+  "organizations": [
     {
       "name": "Mifos",
       "website": "https://mifos.org",
+      "org_type": "owner",
+      "contact_name": "Edward Cable",
+      "contact_email": "edcable@mifos.org"
+    },
+    {
+      "name": "The Apache Software Foundation",
+      "website": "https://apache.org",
       "org_type": "owner"
     }
   ],

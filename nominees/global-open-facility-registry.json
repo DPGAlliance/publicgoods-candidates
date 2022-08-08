@@ -25,12 +25,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/intrahealth/gofr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/gofr"
+    }
+  ],
   "organizations": [
     {
       "name": "IntraHealth International",
       "website": "https://www.intrahealth.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Dana Acciavatt",
+      "contact_email": "dacciavatti@intrahealth.org"
     }
   ],
   "stage": "DPG"

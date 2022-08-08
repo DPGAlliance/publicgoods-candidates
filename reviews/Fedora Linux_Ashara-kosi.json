@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "This Link confirmed the project has the MIT license",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The project would aid individuals to grow and create decent work",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "user": "Ashara-kosi",
+  "timestamp": 1634165612,
+  "timeTaken": 152
+}

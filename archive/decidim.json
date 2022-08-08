@@ -1,0 +1,34 @@
+{
+  "name": "Decidim",
+  "description": "Decidim helps citizens, organizations and public institutions self-organize democratically at every scale.",
+  "website": "https://www.decidim.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/OpenSourcePolitics/decidim/blob/master/LICENSE-AGPLv3.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenSourcePolitics/decidim"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenSoucePolitics",
+      "website": "https://www.opensourcepolitics.eu/en/home",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

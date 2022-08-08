@@ -34,12 +34,19 @@
     "software",
     "content"
   ],
-  "repositoryURL": "https://github.com/alextyers/period-tracker-app-whitelabelled",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/alextyers/period-tracker-app-whitelabelled"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",
       "website": "https://www.unicef.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Gerda Binder",
+      "contact_email": "gbinder@unicef.org"
     }
   ],
   "stage": "DPG"
