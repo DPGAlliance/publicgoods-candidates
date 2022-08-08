@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Data is NOT stored within the software but is kept by the original data providers and shared via a connector against a pre-defined usage policy."
+    "nonPIIAccessMechanism": "Data is NOT stored within the software but is kept by the original data providers and shared via a connector against a pre-defined usage policy in non-proprietary formats such as CSV"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
