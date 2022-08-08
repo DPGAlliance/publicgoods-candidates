@@ -7,7 +7,7 @@
   "website": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/",
   "license": [
     {
-      "spdx": "CC-BY-4.0",
+      "spdx": "CC-BY-NC-SA-4.0",
       "licenseURL": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
     }
   ],
@@ -40,8 +40,10 @@
     {
       "name": "Stanford Center for Health Education",
       "website": "https://healtheducation.stanford.edu/",
-      "org_type": "maintainer"
+      "org_type": "maintainer",
+      "contact_name": "Emma Rachel Rashes",
+      "contact_email": "erashes@stanford.edu"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
