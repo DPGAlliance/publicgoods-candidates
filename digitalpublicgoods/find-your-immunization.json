@@ -1,0 +1,97 @@
+{
+  "name": "Find Your Immunization",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://appointments.vaccinehunters.ca/tos"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://dbdiagram.io/d/6084d79fb29a09603d11fe4c",
+      "https://github.com/Vaccine-Hunters-Canada/VaxFinder-Frontend",
+      "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": "Supports RESTful APIs and uses Swagger for API documentation"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Applicable laws - these Terms and any dispute, controversy, proceedings or claim of whatever nature arising out of or in any way relating to these Terms will be governed by and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable within Ontario without regard to conflict of law provisions. The Ontario Superior Court of Justice will have exclusive jurisdiction to resolve any disputes relating to these Terms."
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://appointments.vaccinehunters.ca/privacypolicy",
+      "Absolutely no personal data and nothing identifiable to users are being collected."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "WCAG 2.0",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "OpenAPI"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Vaccine-Hunters-Canada/VaxFinder-Frontend"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The UI is designed to comply with WCAG 2.0 standard. Some developers who worked on the project had accessibility training and did their best to ensure compliance, but the website has not been audited. The project was designed to support not just the “find a vaccine” ecosystem, but a “find me anything” ecosystem. Anything that can be displayed for a “find me/where is” program, the front and backend can be easily tweaked to support this. The modular design of components on the website means that the majority of the components can be reused for different needs, and require minimal changes to support different use-cases. The UHN social medicine unit plans to transition into the code owners, allowing for maintainability and scalability. Third party caching and an OpenAPI are other factors contributing to low running costs. A clearly defined schema allows for simple and clearly-defined data ingestion, allowing the website to serve consistent data despite having many data inputs. As privacy was one of our top concerns, the only data being stored is publicly available pharmacy data, and site views (provided by the server analytics)."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The Services may be accessed and used only by or under the supervision of individuals who can form legally binding contracts under applicable laws, who are 18 years of age or older, and who are not barred from using the website under applicable laws. \n Subject to these Terms, the Services can be used to access information on vaccines and potentially available vaccination appointments. With VHC’s express written consent, the Services may also be used to serve as a model for non-profit organizations whose goal is to provide the public with information regarding vaccines. \n The Services are provided by VHC in good faith on an “as is” and “as available” basis for general information purposes. Users agree to bear all risks associated with their use of the Services, including any reliance on their availability, accuracy, completeness, timeliness, usefulness or appropriateness. \n The use of extensions to the Services is permitted provided that i) you contact us and we provide our express written consent to the use of the extension; and ii) you abide by any conditions we impose on that consent."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Vaccine Hunters Canada (VHC) takes reasonable steps to ensure the security of its systems. However, there are inherent risks associated with the use of electronic means of communication. Therefore, VHC discourages the use of its website to submit sensitive personal or business information. The possibility exists that information could be unlawfully observed by a third party while the data is being transmitted over the internet or while stored on cloud-based servers, or subject to access and review by law enforcement or other authorities. VHC accepts no liability that may arise if any other persons obtain the information you submit to the Services."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Canada"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Code for America Brigade Website",
+  "description": "The Code for America Brigade Website",
+  "website": "https://brigade.codeforamerica.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeforamerica/brigade/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/codeforamerica/brigade"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code for America",
+      "website": "https://www.codeforamerica.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,45 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "",
+    "confidence": 2
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "",
+    "confidence": 2
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The documentation done is easy to follow with examples included.",
+    "confidence": 4
+  },
+  "user": "MuluhGodson",
+  "timestamp": 1633959598,
+  "timeTaken": 450
+}

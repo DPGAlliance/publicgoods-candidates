@@ -1,0 +1,34 @@
+{
+  "name": "Mobile Kids Id App",
+  "description": "The intent of the app is to help parents keep up to date information on their kids, and to provide parents with relevant information to keep their kids safe and what to do if they can’t find their child.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/HTBox/MobileKidsIdApp/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/HTBox/MobileKidsIdApp"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Humanitarian Toolbox",
+      "website": "https://www.htbox.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

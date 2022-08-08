@@ -1,0 +1,51 @@
+{
+  "name": "Cloud Carbon Footprint",
+  "aliases": [
+    "CCF"
+  ],
+  "description": "Cloud Carbon Footprint is an open source tool and methodology that provides visibility and tooling to measure, monitor and reduce organizations' infrastructure carbon emissions and optimize costs associated with cloud computing.",
+  "website": "https://www.cloudcarbonfootprint.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/blob/trunk/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "CCF provides estimates for both energy and carbon emissions for all types of cloud usage including embodied emissions from manufacturing, with the ability to drill down into emissions by cloud provider, account, service and time period.",
+      "evidenceURL": "https://www.cloudcarbonfootprint.org/"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Understanding your cloud carbon footprint baseline helps you make specific, targeted reductions to reduce your emissions, such as rightsizing, deleting idle instances, and more.",
+      "evidenceURL": "https://www.cloudcarbonfootprint.org/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The software tool helps users measure and analyze cloud carbon emissions, the tool helps users understand the impacts of their carbon footprint on our environment and provides specific recommendations for ways to mitigate those impacts",
+      "evidenceURL": "https://www.cloudcarbonfootprint.org/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Thoughtworks, Inc.",
+      "website": "https://www.thoughtworks.com/",
+      "org_type": "funder",
+      "contact_name": "Lisa McNally",
+      "contact_email": "lisa.mcnally@thoughtworks.com"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MPL-2.0",
-      "licenseURL": "https://www.opencrvs.org/license"
+      "licenseURL": "https://github.com/opencrvs/opencrvs-core/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -27,10 +27,33 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opencrvs/opencrvs-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opencrvs/opencrvs-core"
+    }
+  ],
   "organizations": [
     {
+      "name": "opencrvs.org",
+      "website": "https://www.opencrvs.org/",
+      "org_type": "maintainer",
+      "contact_name": "Edward Duffus",
+      "contact_email": "edward.duffus@plan-international.org"
+    },
+    {
       "name": "Plan International Australia",
+      "website": "https://www.plan.org.au/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Jembi Health Systems",
+      "website": "https://www.jembi.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Vital Strategies",
+      "website": "https://www.vitalstrategies.org/",
       "org_type": "owner"
     }
   ],

@@ -1,0 +1,39 @@
+{
+  "name": "WaziMap",
+  "aliases": [
+    ""
+  ],
+  "description": "Platform for binding census and extended data to spatial boundaries in South Africa. Developed in part for media to track population statistics and dynamics in the country.",
+  "website": "https://wazimap.co.za",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/OpenUpSA/wazimap-ng/blob/staging/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Site aims to make data about population statistics (incl economic and health) open and accessible to those who use this data to increase understanding of where are a country's challenges in addressing inequality in the country. Meets target 16.10",
+      "evidenceURL": "https://openup.org.za/blog/growing-communities-through-data"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openupsa/wazimap-ng"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenUp",
+      "website": "https://openup.org.za",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
