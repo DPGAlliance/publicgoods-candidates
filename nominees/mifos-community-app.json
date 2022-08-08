@@ -22,12 +22,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openMF/community-app",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openMF/community-app"
+    }
+  ],
   "organizations": [
     {
       "name": "Mifos",
       "website": "https://mifos.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Edward Cable",
+      "contact_email": "edcable@mifos.org"
     }
   ],
   "stage": "DPG"

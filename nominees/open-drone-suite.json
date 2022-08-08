@@ -30,12 +30,19 @@
     "software",
     "data"
   ],
-  "repositoryURL": "https://github.com/team-asr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/team-asr"
+    }
+  ],
   "organizations": [
     {
       "name": "Autonomous Systems Research Ltd",
       "website": "https://as-research.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Moses gichangA",
+      "contact_email": "gichanga@as-research.org"
     },
     {
       "name": "UNICEF Ventures Fund",

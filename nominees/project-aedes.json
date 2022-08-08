@@ -3,7 +3,7 @@
   "aliases": [
     "Advanced Early Dengue Prediction and Exploration Service"
   ],
-  "description": "Project AEDES is a tool that correlates dengue cases and deaths with real-time data from climate, google searches, and remote sensing, to predict potential dengue hotspot locations.",
+  "description": "Project AEDES, by CirroLytix is a tool that correlates dengue cases and deaths with real-time data from climate, google searches, and remote sensing, to predict potential dengue hotspot locations.",
   "website": "https://aedesproject.org",
   "license": [
     {
@@ -30,12 +30,19 @@
     "content",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/Cirrolytix/aedes_dpg",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Cirrolytix/aedes_dpg"
+    }
+  ],
   "organizations": [
     {
       "name": "Cirrolytix Research Services",
       "website": "https://aedesproject.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Rache Melendres",
+      "contact_email": "rache.melendres@cirrolytix.com"
     }
   ],
   "stage": "DPG"

@@ -36,12 +36,23 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/kobotoolbox/kpi",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/kobotoolbox/kpi"
+    },
+    {
+      "name": "KoboCat",
+      "url": "https://github.com/kobotoolbox/kobocat"
+    }
+  ],
   "organizations": [
     {
       "name": "KoBo, Inc",
       "website": "https://www.kobotoolbox.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Tino Kreutzer",
+      "contact_email": "tino.kreutzer@kobotoolbox.org"
     }
   ],
   "stage": "DPG"

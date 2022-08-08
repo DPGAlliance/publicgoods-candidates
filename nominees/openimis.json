@@ -32,12 +32,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openimis/web_app_vb",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openimis/web_app_vb"
+    }
+  ],
   "organizations": [
     {
       "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "website": "https://www.giz.de/en/html/index.html",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Bhattarai, Saurav",
+      "contact_email": "saurav.bhattarai@giz.de"
     },
     {
       "name": "OpenIMIS",
