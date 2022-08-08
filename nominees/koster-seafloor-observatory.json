@@ -1,21 +1,20 @@
 {
   "name": "Koster Seafloor Observatory",
   "aliases": [
-    ""
+    "KSO"
   ],
-  "description": "Open-source, citizen science and machine learning approach to analyse subsea movies",
-  "website": "https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory/about/results",
+  "description": "Koster Seafloor Observatory (KSO) is a system which combines citizen science and machine learning for automated analysis of subsea movies. The system offers volunteers to assist scientists by watching snapshots of deep-water recordings and identify species in short movies recorded by remotely operated vehicles (ROVs). These annotations are then used to train machine learning algorithms to recognise biological objects in real time - for example species or habitats that are rare or indicative for a certain ecological condition. Originally, KSO was designed for presenting the biological diversity on the seabed of Kosterhavets National Park on the Swedish West coast - an environment that is otherwise invisible to the public. Here you can find dead whales, flying feather stars, swimming scallops, large colourful sponges and starfish. Currently, the KSO system is upgraded and will soon also feature Baltic environments, while the analytical functions likewise expanding.",
+  "website": "https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory",
   "license": [
     {
-      "spdx": "MIT",
-      "licenseURL": "https://github.com/ocean-data-factory-sweden/koster_data_management/blob/main/license.txt"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/ocean-data-factory-sweden/koster_ml/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 14,
-      "evidenceText": "Approach incorporates three distinct modules to: manage and archive the subsea movies, involve citizen scientists to accurately classify the footage and, finally, train and test machine learning algorithms for detection of biological objects. This modular approach is based on open-source code and allows researchers to customise and further develop the presented functionalities to various types of data and questions related to analysis of marine imagery.",
-      "evidenceURL": "https://bdj.pensoft.net/article/60548/"
+      "evidenceText": "KSO contriuted to a global ocean observing system for marine biodiversity and anthropogenic effects "
     }
   ],
   "sectors": [],
@@ -25,15 +24,19 @@
   ],
   "repositories": [
     {
-      "name": "KSO - Data management",
+      "name": "Github repository for the system data flow",
       "url": "https://github.com/ocean-data-factory-sweden/koster_data_management"
+    },
+    {
+      "name": "Github repository for the machine learning model",
+      "url": "https://github.com/ocean-data-factory-sweden/koster_ml"
     }
   ],
   "organizations": [
     {
-      "name": "Ocean Data Factory Sweden",
-      "website": "https://oceandatafactory.se/",
-      "org_type": "owner",
+      "name": "University of Gothenburg, Swedish biodiversity Data Infrastructure",
+      "website": "https://biodiversitydata.se/",
+      "org_type": "maintainer",
       "contact_name": "Matthias Obst",
       "contact_email": "matthias.obst@marine.gu.se"
     }

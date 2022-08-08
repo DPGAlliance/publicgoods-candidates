@@ -1,0 +1,96 @@
+{
+  "name": "Eco-Index Biodiversity Dashboards",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://eco-index.nz/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/eco-index/ecoindex-stack#readme"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The project stack has a built in API that allows extraction from the database without direct access to it.  If deployed in a public server (currently the main deployment is still within the University of Waikato server but it will be moved to Cloud), a prospective user can register for an account and once approved, retrieve data through the API. The API uses an injection proof filtered SQL query to bring back results from the database.  You are also able to currently retrieve all occurrence-based data held in the database in one go."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "The Privacy Act 2020 (NZ)"
+    ],
+    "adherenceSteps": [
+      "We largely comply with both laws by virtue of not holding any PII data."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Security - HTTPS, SSH",
+      "Authentication and Authorisation - OAuth 2, JWT",
+      "Internationalization - UTF-8",
+      "APIs - OpenAPI",
+      "Data Exchange formats - JSON, CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/eco-index/ecoindex-stack"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Developed in accordance with the Digital Development Principles.",
+      "PEP-8"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Two notable risk mitigation strategies include: close consultation with experts on the interface of indigenous data sovereignty in the environmental context and close coordination with thought leaders at the Stockholm Resilience Center who consider how using AI on environmental monitoring can encode harmful biases. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All data privacy considerations carefully discussed and negotiated in advance."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": " ",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": " "
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "New Zealand"
+    ],
+    "deploymentCountries": [
+      "New Zealand"
+    ]
+  }
+}
