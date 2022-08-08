@@ -4,7 +4,7 @@
     ""
   ],
   "description": "Providing carbon-free, unmanned aerial services at the frontier in developing markets for humanitarian uses. Our open-source work is focused on expanding the existing open-source software stack in PX4, to include a new vehicle mode, airships. We are also working on providing an open-source refrigerated container for drone delivery at 10kg payload, but are still in the process with the Open Hardware Repository, under a CERN open hardware licence.",
-  "website": "http://www.flycloudline.com",
+  "website": "https://www.flycloudline.com",
   "license": [
     {
       "spdx": "BSD-3-Clause",
@@ -47,11 +47,16 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/PX4/PX4-Autopilot",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PX4/PX4-Autopilot"
+    }
+  ],
   "organizations": [
     {
       "name": "Cloudline Africa (Pty) Ltd",
-      "website": "http://www.flycloudline.com",
+      "website": "https://www.flycloudline.com",
       "org_type": "owner",
       "contact_name": "Spencer Horne",
       "contact_email": "spencer@flycloudline.com"

@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend"
+    }
+  ],
   "organizations": [
     {
       "name": "Vaccine Hunters Canada",
@@ -32,5 +37,5 @@
       "contact_email": "andryou@gmail.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

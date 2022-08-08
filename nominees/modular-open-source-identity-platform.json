@@ -58,12 +58,19 @@
     "software",
     "standard"
   ],
-  "repositoryURL": "https://github.com/mosip/commons",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mosip/commons"
+    }
+  ],
   "organizations": [
     {
       "name": "MOSIP",
       "website": "https://mosip.io/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Arun Gurumurthy",
+      "contact_email": "arun@mosip.io"
     },
     {
       "name": "International Institute of Information Technology, Bangalore (IIIT-B)",

@@ -1,0 +1,33 @@
+{
+  "name": "StopCovid Android",
+  "description": "A digital contact tracing app supported by the French government. Created by the French state research agency INRIA, with the support of French companies such as Orange, Capgemini and Dassault Systèms, the app follows the ROBERT privacy framework which allows for proximity data to be collected and stored in a central database, such as by a Ministry of Health.",
+  "website": "https://gitlab.inria.fr/stopcovid19",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://gitlab.inria.fr/stopcovid19/stopcovid-android/-/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.inria.fr/stopcovid19/stopcovid-android"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "INRIA",
+      "org_type": "owner",
+      "contact_email": "stopcovid@lunabee.com"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -7,11 +7,11 @@ const githubUser = 'publicgoods';
 const githubRepo = 'products';
 const baseURL = 'https://api.github.com/repos/' + githubUser + '/' + githubRepo + '/';
 
-const branchName = 'unicef/publicgoods-candidates-'+process.env.GITHUB_SHA.substring(0, 8);
+const branchName = 'DPGAlliance/publicgoods-candidates-'+process.env.GITHUB_SHA.substring(0, 8);
 
 options = {
   auth: {
-    'user': 'lacabra',
+    'user': 'dpgabot',
     'pass': process.env.GITHUBTOKEN
   },
   headers: {
@@ -247,7 +247,7 @@ async function createPR(files){
     'title': 'Add/Delete new product(s): ' + files.toString(),
     'head': branchName,
     'base': 'master',
-    'body': 'Add/Delete new product(s) from [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods/candidates)'
+    'body': 'Add/Delete new product(s) from [DPGAlliance/publicgoods-candidates](https://github.com/DPGAlliance/publicgoods-candidates)'
   })
   try{
     const createPrData = await apiCall(my_options, 'POST');
@@ -266,7 +266,7 @@ function assignPR(numPR) {
   my_options['url'] = baseURL + 'issues/' + numPR;
   my_options['body'] = JSON.stringify({
     'assignees': [
-      'ericboucher',
+      'nathanbaleeta',
       'conradsp'
     ]
   })

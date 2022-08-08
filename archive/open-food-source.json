@@ -1,0 +1,43 @@
+{
+  "name": "Open Food Source",
+  "description": "A web-based open source software system that coordinates and manages local food systems where many producers sell to many customers in an online 24-7 marketplace.",
+  "website": "https://www.openfoodsource.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openfoodsource/OFS_trunk/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2
+    },
+    {
+      "SDGNumber": 8
+    },
+    {
+      "SDGNumber": 9
+    },
+    {
+      "SDGNumber": 12
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openfoodsource/OFS_trunk"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Food Source",
+      "website": "https://www.openfoodsource.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Opt-Out",
+  "description": "Opt Out is a browser extension that filters sexual harassment and sexist hate speech from an individual’s twitter feed.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/opt-out-tools/opt-out/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opt-out-tools/opt-out"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Opt-Out",
+      "website": "",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

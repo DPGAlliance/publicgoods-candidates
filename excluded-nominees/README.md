@@ -24,5 +24,31 @@ Frictionless Data | Nov 15th, 2021 |  No longer accepting open source tools that
 techsoup | Nov 9th, 2021 |  Provided vague SDG relevance
 Project Kick Out Covid-19 Infotech | Nov 15th, 2021 |  Missing open license
 The Atlas of Economic Complexity | Nov 15th, 2021 |  Missing open license
+Open Source Society University | Dec 1st, 2021 |  Aggregates courses from several different platforms (edX, coursera, etc), which potentially have different licensing structures hence missing open license
+Apache Mahout | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Caffe | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Tensorflow | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Tabpy | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Scikit Learn | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Power BI React | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+OADA Service Docker | Dec 8th, 2021 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Callisto - Core | Jan 8th, 2022 |  No longer being maintained; the current code is not open source; 
+ActivityInfo Python | Jan 9th, 2022 |  The Python client is an open-source project to communicate with ActivityInfo, a proprietary software platform for humanitarian coordination and information sharing. A previous version of ActivityInfo was open source, but not the current one hence not feasible to keep the Python client in registry any more.
+KA Lite | Jan 10th, 2022 |  KA Lite is no longer under active development, work has been underway to transition users to [Kolibri](https://github.com/DPGAlliance/publicgoods-candidates/blob/main/nominees/kolibri.json) which is continuing to be developed, used and improved.
+Looking Glass | Feb 15th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+OpenStax | Feb 16th, 2022 | OpenStax Customer Support mentioned they will not be looking into the DPG nomination at this time.
+OpenML-Python | Feb 22nd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Aster - Emergency Scoring, Aster - Stream & Aster - Platform | March 7th, 2022 |  No longer actively maintained
+Blockly | April 20th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Label Maker | May 03rd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Open Neural Networks | May 13th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+OpenRefine | May 17th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Orange | May 23rd, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+Raster Vision | May 24th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+MUI Core | May 26th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+TypeScript | May 27th, 2022 |  No longer accepting open source tools that are primarily used to support developers; focus has shifted to tools that are specifically oriented around supporting SDGs
+
+
+
 
 
