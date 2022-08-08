@@ -1,0 +1,37 @@
+{
+  "name": "Operation Code Backend",
+  "description": "This is the backend repo for the Operation Code website",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/OperationCode/operationcode_backend/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4
+    },
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OperationCode/operationcode_backend"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Operation Code",
+      "website": "https://www.operationcode.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "LittleSis Rails",
+  "description": "LittleSis is a free database of who-knows-who at the heights of business and government. ",
+  "website": "https://littlesis.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/public-accountability/littlesis-rails/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/public-accountability/littlesis-rails"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Public Accountability Initiative",
+      "website": "https://public-accountability.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

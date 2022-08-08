@@ -54,12 +54,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenG2P/openg2p-erp",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenG2P/openg2p-erp"
+    }
+  ],
   "organizations": [
     {
       "name": "Government of Sierra Leone",
       "website": "https://www.dsti.gov.sl",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Salton Massally",
+      "contact_email": "salton.massally@gmail.com"
     }
   ],
   "stage": "DPG"

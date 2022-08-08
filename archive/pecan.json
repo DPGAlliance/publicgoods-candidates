@@ -1,0 +1,34 @@
+{
+  "name": "PeCan",
+  "description": "The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. ",
+  "website": "",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/PecanProject/pecan/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PecanProject/pecan"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "PeCan Project",
+      "website": "https://pecanproject.github.io/index.html",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

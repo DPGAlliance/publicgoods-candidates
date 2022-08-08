@@ -41,7 +41,12 @@
   "type": [
     "standard"
   ],
-  "repositoryURL": "https://github.com/openreferral/specification",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openreferral/specification"
+    }
+  ],
   "organizations": [
     {
       "name": "Aspiration",

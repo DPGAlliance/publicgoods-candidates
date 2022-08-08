@@ -1,0 +1,34 @@
+{
+  "name": "Poly",
+  "description": "Open source, modern software to share and learn every language in the world",
+  "website": "https://poly.wikitongues.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/wikitongues/poly/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/wikitongues/poly"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "WikiTongues",
+      "website": "https://www.wikitongues.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

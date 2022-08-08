@@ -1,0 +1,109 @@
+{
+  "name": "SanteIMS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/santedb/santedb-server/blob/master/SanteDB.licenseheader"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://help.santesuite.org/product-overview/santesuite-products/immunization-management-system-santeims"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "HL7 V2, FHIR"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The solution was designed and modeled after Canada’s standards and regulations for privacy as defined The Personal Information Protection and Electronic Documents Act (PIPEDA)."
+    ],
+    "adherenceSteps": [
+      "Countries using SantéSuite software in other regions are responsible for complying with local legislation."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ATNA - Audit Trail and Node Authentication",
+      "BPPC - Basic Patient Privacy Consents",
+      "CPT",
+      "GS1",
+      "HL7 FHIR R4",
+      "HL7 v2",
+      "ICD-10",
+      "JSON",
+      "PDQ or PDQm - (Mobile) Patient Demographics Query",
+      "PIX or PIXm - (Mobile) Patient Identifier Cross Reference"
+    ],
+    "evidenceStandardSupport": [
+      "HL7 Testing Tool: https://github.com/santedb/hl7-testing-tool",
+      "FHIR: https://github.com/santedb/santedb-fhir"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "SantéSuite software development processes and team follow the Principles for Digital Development, we work side-by-side with the country Ministry of Health frontline workers, digital health experts, management, as well as key implementation partners to foster “ground truth” evidence based improvement and inspire and drive our innovation strategy.",
+      "The SanteSuite uses a variety of best practices and processes depending on the client’s needs and capacity to participate. For complex projects we follow a Disciplined Agile Delivery Approach which combines the rigor of traditional processes, such as Waterfall and Unified Processes, with the responsiveness of Agile. At a minimum, we leverage Kanban and Scrum (Scrumban) for delivery of smaller projects where our clients do not have the capacity to participate in a full agile delivery.",
+      "We implement a quality assurance plan after each iteration ensuring that all modules and features work as they are expected. We follow the test-driven development methodology, which ensure that all components or modules are thoroughly tested before they are incorporated into the final solution. Accompanying documentation is provided with each release, including technical documentation and release notes / change logs."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "SantéSuite employs a “Privacy by Design” philosophy and software development lifecyle. Protecting privacy is an integral part of implementing a quality assurance plan after each development iteration ensuring that all modules and features work as they are expected. We follow the test-driven development methodology, which ensure that all components or modules are thoroughly tested for privacy compliance before they are incorporated into the final solution."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Date of birth",
+        "Address",
+        "Contact information such as phone number",
+        "Health ID number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "SanteDB's Policy Access Control components can be used to enable basic data privacy controls on data stored within the SanteDB solution. SanteDB allows objects such as Entities, Acts and identifiers to be tagged with one or more policies which apply to that particular object. \nPlease see the following links that describe our privacy and security architecture. In addition to these SantéSuite adapts and/or develops privacy protection standard operating procedures, job aides and policy inputs to each country context we work in: \n-https://help.santesuite.org/santedb/architecture/privacy-architecture \n- https://help.santesuite.org/santedb/architecture/security-architecture#policy-access-control-architecture \n- https://help.santesuite.org/santempi/recipes/adding-security-policy-based-on-occupation \n-https://help.santesuite.org/santedb/architecture/security-architecture"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Currently primarily via Slack and Github and limited to technical software developers. SantéSuite does not operate an open online discussion forum."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "SantéSuite has implemented a corporate Anti-harassment policy https://santesuite.com/assets/policies/SSI-POL003-Corporate-Harassment-1.1.pdf"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Canada",
+      "Tanzania",
+      "Myanmar"
+    ],
+    "deploymentCountries": [
+      "Tanzania",
+      "Myanmar"
+    ]
+  }
+}
