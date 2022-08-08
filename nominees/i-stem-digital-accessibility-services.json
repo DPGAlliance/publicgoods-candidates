@@ -1,0 +1,64 @@
+{
+  "name": "I-Stem digital accessibility services",
+  "aliases": [
+    "I-Stem",
+    "I-Stem-A11Y"
+  ],
+  "description": "AI-powered document accessibility services that help convert inaccessible content into accessible and usable formats for people with print disabilities",
+  "website": "https://www.istemai.com",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/I-Stem/frontend/blob/main/LICENSE"
+    },
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/I-Stem/backend/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CAL-1.0",
+      "licenseURL": "https://github.com/I-Stem/science/blob/main/license.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "While there has been growing legal mandate in countries for Inclusive Education and employment opportunities, access to equal and quality education and equitable hiring opportunities remains a challenge for students with disabilities. For instance, the law mandates a 5% reservation for the disabled in India, but educational institutions are often at a loss in delivering inclusive education services, forcing students to rely on volunteers and often dropping out. Similarly, reasonable accommodations are still in their infancy at corporates throughout the country. Specifically, for people with print disabilities, this leads to much of the content (e.g. textbooks, handouts etc.) as well as over 97.4% of webpages remaining inaccessible due to it being incompatible with assistive technologies. Covid-19 has further exacerbated this challenge with social distancing leading to lack of volunteers and online education leading to a proliferation in the creation and sharing of inaccessible digital content. Thus, I-Stem, through our work in document accessibility seeks to end this \"book famine\", thereby promoting independence and self-reliance in education for all.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-i-stem"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "In our research over the last two years and in talking to hundreds of users and organizations in India and beyond, there are three critical aspects that organizations request when starting on their inclusion journey-accessible websites/apps and other digital portals, content accessibility services for their students/employees/users with disabilities and upskilling/training. This project is the first step in this direction in being able to provide organizations and people with disabilities the tools they need to convert any inaccessible content into accessible format (including complex content such as math, multi-column layouts, tables etc.). This not only helps people with disabilities access content in a reliable and efficient manner but also substantially saves time, effort and money (by upto 70%) spent by organizations to remediate content. This enhances access to information on an equal basis, leading to the community being able to contribute to the economy more meaningfully.",
+      "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-i-stem"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "frontend",
+      "url": "https://github.com/i-stem/frontend"
+    },
+    {
+      "name": "backend",
+      "url": "https://github.com/i-stem/backend"
+    },
+    {
+      "name": "science",
+      "url": "https://github.com/i-stem/science"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "I-Stem",
+      "website": "https://www.istemai.com",
+      "org_type": "owner",
+      "contact_name": "Kartik Sawhney",
+      "contact_email": "kartik@inclusivestem.org"
+    }
+  ],
+  "stage": "nominee"
+}
