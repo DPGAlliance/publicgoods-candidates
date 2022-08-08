@@ -1,0 +1,108 @@
+{
+  "name": "Coronasafe Care",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://deploydocs.coronasafe.network/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://coronasafe.network/",
+      "https://deploydocs.coronasafe.network/",
+      "https://care-be-docs.coronasafe.network/",
+      "https://school.coronasafe.network/courses/357/curriculum"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "We have CSV exports and Public API's"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "India's Personal Data Protection Bill (2019)",
+      "The IT Act (2000) for its implementation in India."
+    ],
+    "adherenceSteps": [
+      "The enforcement is by the state administration. Reference: https://deploydocs.coronasafe.network/operationalizing-care-in-the-field#how-to-operationalise-care-within-a-district"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "- OpenWeb Standard - HTML, CSS, ECMAScript",
+      "- Accessibility - Internationalisation",
+      "- Security - PKI, HTTPS, JWT"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/coronasafe/care_fe"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles For Digital Development:",
+      "- Design With the User: The systems are designed with the user taking their inputs and feedback into account. Reference: https://model.coronasafe.network/centralised-facilities/critical-care",
+      "- Understand the existing ecosystem: The whole ecosystem was studied and documented. Reference: https://model.coronasafe.network/",
+      "- Design for Scale: The systems are designed to be cloud-agnostic and scalable. The automation scripts help in faster deployments across locations. Reference: https://github.com/coronasafe/automation",
+      "- Build for Sustainability: The tool is designed to be sustainable and usable for the pandemic and beyond. Reference: https://coronasafe.network/government-orders",
+      "- Be Data Driven: All the features are designed and improved based on data driven decisions. Reference: https://dashboard.coronasafe.network/",
+      "- Use Open Standards, Open Data, Open Source, and Open Innovation: All the system are open source: https://github.com/coronasafe",
+      "- Reuse and Improve: The tools highly rely on open-source tools and packages. Reference: https://github.com/coronasafe/care_fe/blob/develop/package.json",
+      "- Be Collaborative: All the tools are designed and developed in collaboration with volunteers. Reference: https://github.com/orgs/coronasafe/people"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The software has implemented many best practices to keep user data safe and secure. Default software has implemented data collection in an open and transparent manner. The system is designed for process automation and reporting which by design cannot be used to do harm. \n Data is encrypted and stored. All the changes in the system are public and are moderated and reviewed by the open-source community volunteers. https://github.com/coronasafe/care_Fe/pull/. Independent security audits. https://dev.coronasafe.network/cyber-security-audit"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Full name",
+        "Home address",
+        "Email address",
+        "Passport number",
+        "Date of birth"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "- Care implements a hierarchical authorization system that makes sure that only the facility that owns the data and the administrative authorities that the facility reports have access to patient data. Reference: https://deploydocs.coronasafe.network/operationalizing-care-in-the-field#care-data-collection-and-enforcement \n - Steps and Standard took to ensure data security. Reference: https://dev.coronasafe.network/security/data-security \n - Independent security audits. Reference: https://dev.coronasafe.network/cyber-security-audit"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}

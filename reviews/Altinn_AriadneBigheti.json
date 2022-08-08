@@ -1,0 +1,30 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "i think it's not clear if the project uses non-personally identifiable information and extract non-PII data from the system in a non-proprietary format",
+    "confidence": 1
+  },
+  "user": "AriadneBigheti",
+  "timestamp": 1633978455,
+  "timeTaken": 287
+}

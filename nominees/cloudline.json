@@ -1,0 +1,71 @@
+{
+  "name": "Cloudline",
+  "aliases": [
+    ""
+  ],
+  "description": "Providing carbon-free, unmanned aerial services at the frontier in developing markets for humanitarian uses. Our open-source work is focused on expanding the existing open-source software stack in PX4, to include a new vehicle mode, airships. We are also working on providing an open-source refrigerated container for drone delivery at 10kg payload, but are still in the process with the Open Hardware Repository, under a CERN open hardware licence.",
+  "website": "https://www.flycloudline.com",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/PX4/PX4-Autopilot/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Cloudline aims to bring affordable logistics access to rural economics that are not connected to regional and global economics. Through outbound services to aid agencies and organizations, Cloudline hopes to enable and facilitate subsidised services to farmers and artisans all over the world. At a time when it costs more than two million dollars to build a kilometre of new paved road, large payload delivery drones allow us to reach communities that do not have the density to make roads viable, with the added benefit of a much smaller environmental footprint. ",
+      "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Cloudline improves patient access to medical products and services, empowers health workers to better serve their communities, and eliminates waste due to expiries and broken cold chains. Cloudline’s airships offer flexible active cold-chain delivery solutions, allowing affordable and timely, cold-chain-guaranteed transport of blood, vaccines, and other sensitive consumables, and collection and delivery of test samples from virtually any location to any other location nation-wide.",
+      "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Cloudline aims to create new economic opportunities by opening up new markets in rural and hard to reach areas. Our aim is to hire locally, wherever we go. We plan to operate locally and provide all necessary training and up-skilling opportunities (engineering, data science, operations, management etc.) to create economic growth.",
+      "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Cloudline designs, builds, and operates smart blimps, or autonomous airships. Our airships benefit from combining the lifting power of helium with advanced flight control and power train technologies to offer order-of-magnitude advantages over multi-copter and fixed-wing platforms. Indeed, when compared with UAVs currently being used for logistics, airships are safer (and therefore preferred by regulators), less expensive, more flexible, have a greater range and much greater carrying capacity.  Our South African engineering team is determined to solve core problems at home. The team has been privileged enough to know what seamless logistics looks like in a developed setting, while being close enough to places where that same access is near non-existent. The team brings our multidisciplinary knowledge of mechanical and electronics engineering, as well as Machine Learning, to problems that require expertise on a number of fronts.",
+      "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Our airships run exclusively on electric power with zero emissions and substitute carbon emitting vehicles. ",
+      "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Cloudline believes in collaboration and partnerships with governments, private agencies and aid agencies towards achieving the UNICEF goals. In demonstration of our commitment towards this SDG goal, we are now in discussions with UNICEF, Red Cross, WFP and Village Reach on programs in Namibia, Philippines, Kenya, Sudan and DRC to deliver diagnostic samples, vaccines and medicines between facilities. ",
+      "evidenceURL": "https://www.unicef.org/innovation/venturefund/dronescohort/Cloudline"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/PX4/PX4-Autopilot"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Cloudline Africa (Pty) Ltd",
+      "website": "https://www.flycloudline.com",
+      "org_type": "owner",
+      "contact_name": "Spencer Horne",
+      "contact_email": "spencer@flycloudline.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicef.org/innovation/venturefund",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "nominee"
+}

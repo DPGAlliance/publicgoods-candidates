@@ -1,34 +1,38 @@
 {
   "name": "The Tor Project",
-  "description": "Providing secure and private web access",
+  "aliases": [
+    "Tor"
+  ],
+  "description": "Free & open source privacy software providing secure and private web access.",
   "website": "https://torproject.org",
   "license": [
     {
-      "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/TheTorProject/gettor/LICENSE"
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://gitweb.torproject.org/tor.git/plain/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 5
-    },
-    {
-      "SDGNumber": 9
-    },
-    {
-      "SDGNumber": 16
+      "SDGNumber": 16,
+      "evidenceText": "This project is relevant to Goal 16, Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels, particularly Goal 16.10:, “Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements.” The Tor Project’s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.  Privacy and anonymity technologies like Tor make it possible for people in countries where governments censor the internet to bypass that censorship and freely access public information. Our work supports the human right to access information, which is fundamental to effective, accountable, and inclusive institutions. Some examples of Tor’s importance are included below: (1) In a report on the promotion and protection of the right to freedom of opinion and expression (A/HRC/29/32) to the UN Human Rights Council, Special Rapporteur David Kaye wrote that Tor, alongside encryption, maybe the only way for some individuals to exercise their “freedom to seek, receive, and impart information and ideas.” Kaye also writes: “Some states impose content-based, often discriminatory restrictions or criminalize online expression, intimidating political opposition and dissenters and applying defamation and lese-majesty laws to silence journalists, defenders and activists. A VPN connection, or use of Tor or a proxy server, combined with encryption, may be the only way in which an individual is able to access or share information in such environments.” (2) Tor is widely used in Russia to access international news as the Kremlin rapidly increases internet censorship (Washington Post link included below), (3) Tor is recommended to journalists who need to protect themselves against surveillance to do their work (Freedom of the Press Foundation)    ",
+      "evidenceURL": "https://www.washingtonpost.com/technology/2022/03/04/russia-ukraine-internet-cogent-cutoff/"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/TheTorProject/gettor",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitweb.torproject.org"
+    }
+  ],
   "organizations": [
     {
-      "name": "Tor Project",
+      "name": "The Tor Project",
       "website": "https://torproject.org",
-      "org_type": "owner"
+      "org_type": "maintainer"
     }
   ],
   "stage": "nominee"

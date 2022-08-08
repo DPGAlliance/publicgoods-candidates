@@ -10,9 +10,14 @@
   ],
   "SDGs": [
     {
+      "SDGNumber": 1,
+      "evidenceText": "openIMIS, originally released in 2012, operates within the framework of the 2030 Agenda for Sustainable Development, specifically referencing Sustainable Development Goal (SDG) 1.3, which calls for social protection systems for all, and SDG 3.8, which endorses universal health coverage.",
+      "evidenceURL": "https://socialprotection.org/discover/blog/introducing-openimis-%E2%80%93-open-source-solution-universal-health-coverage"
+    },
+    {
       "SDGNumber": 3,
       "evidenceText": "The project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\n\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries.",
-      "evidenceURL": "http://health.bmz.de/what_we_do/openimis/index.html"
+      "evidenceURL": "https://socialprotection.org/discover/blog/introducing-openimis-%E2%80%93-open-source-solution-universal-health-coverage"
     },
     {
       "SDGNumber": 9,
@@ -27,18 +32,30 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openimis/web_app_vb",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openimis/web_app_vb"
+    }
+  ],
   "organizations": [
     {
       "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "website": "https://www.giz.de/en/html/index.html",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Bhattarai, Saurav",
+      "contact_email": "saurav.bhattarai@giz.de"
     },
     {
       "name": "OpenIMIS",
       "website": "https://openimis.org",
       "org_type": "owner"
+    },
+    {
+      "name": "Swiss Agency for Development and Cooperation",
+      "website": "https://www.eda.admin.ch/sdc",
+      "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

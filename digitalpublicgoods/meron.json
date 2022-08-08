@@ -1,0 +1,107 @@
+{
+  "name": "MERON",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/kimetrica/MERON_api/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://meron.kimetrica.com/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "REST API"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "Data is controlled in isolated storage and used only for offline training with separation between the data scientist and the data. Individual data points containing PII are only used for random QA sampling and never leaves controlled storage."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST API",
+      "JSON",
+      "JPEG"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/kimetrica/MERON_api"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "MERON is designed with all of the Principles for Digital Development in mind:",
+      "Design with the user: MERON was designed after conversations with parents of young children who expressed concern with hands-on health surveys as well as with survey teams who were seeking additional ways to screen for malnutrition when on other missions.",
+      "Understand the existing ecosystem: MERON was designed with the existing ecosystem in mind. Given an ecosystem that includes periodic health surveys as well as numerous other non-health interactions, MERON was designed to take the valuable data collected in health surveys and make non-health interactions useful as a malnutrition screening opportunity. Additionally, care was taken to protect dignity and be culturally aware through less invasive techniques than are currently standard.",
+      "Design for scale: MERON is designed to improve as adoption increases, with near-instantaneous results at scale for field users.",
+      "Build for Sustainability: Once trained, the MERON application runs with very minimal overhead, and with the proper partnership the project can sustainably run and improve itself with low cost.",
+      "Be data driven: MERON is meant to generate the critical insights that are currently difficult to gather through health monitoring surveys alone. MERON will drive down the cost of data, making it practicable to use in estimating malnutrition impacts and informing interventions.",
+      "Use open standards, open data, open source, and open innovation: The MERON code is open source, leverages open projects and standards. The only protected information is individual health data, which must be secured to ensure privacy and dignity.",
+      "Reuse and Improve: MERON is designed to reuse the valuable truth data collected through health surveys and improve it such that a quick smartphone photo can screen for malnutrition in non-health related contexts.",
+      "Address privacy and security: MERON secures individual’s private information and only uses this information for model training purposes. Use of the MERON application results only in individual private results that are not shared or exposed in a way that puts any individuals at risk.",
+      "Be collaborative: Kimetrica’s vision for MERON is as a capability that is operated as a common good for all.  We envision a mutually beneficial partnership through the sharing of resources from health surveys and broader MERON use within a population. This way, all participants including funding agency, implementing partner, and potentially malnourished people involved all benefit."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "MERON takes an open approach to technology, however due to the privacy risk of personal health data, we have designed the system to operate without direct access to any data at the individual level. All training is performed in a secure system and only anonymized model parameters are available through a public interface.  This, coupled with the limitations put on the system to prevent abuse in the field strongly coerces a user into only beneficial use patterns and limits risk to individuals and partnering organizations."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Facial photographs",
+        "Height",
+        "Weight",
+        "Age",
+        "Gender",
+        "Location"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Data is controlled in isolated storage and used only for offline training with separation between the data scientist and the data. Individual data points containing PII are only used for random QA sampling and never leaves controlled storage."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "No",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}

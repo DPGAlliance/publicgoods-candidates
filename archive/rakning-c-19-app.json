@@ -1,0 +1,32 @@
+{
+  "name": "Rakning C-19 App",
+  "description": "An app that can be downloaded voluntarily and facilitates the contact tracing process amidst the ongoing Covid-19 pandemic in Iceland.",
+  "website": "https://covid.is/app",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/aranja/rakning-c19-app/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/aranja/rakning-c19-app"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Icelandic Directorate of Health and the Department of Civil Protection and Emergency Management.",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

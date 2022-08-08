@@ -1,6 +1,9 @@
 {
-  "name": "GrowStuff",
-  "description": "Open data project for small-scale food growers.",
+  "name": "Growstuff",
+  "aliases": [
+    ""
+  ],
+  "description": "Growstuff is an open source project for food gardeners. They crowdsource information on what their members are growing and harvesting, aggregate it, and make it available as open data via their API.",
   "website": "https://www.growstuff.org/",
   "license": [
     {
@@ -10,20 +13,30 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 12
+      "SDGNumber": 1,
+      "evidenceText": "They are providing the knowledge to empower people to grow their own food, and making all of this data available via API.",
+      "evidenceURL": "https://www.shareable.net/new-urban-ag-study-touts-potential-of-small-cities/"
     }
   ],
-  "sectors": [],
-  "type": [
-    "software",
-    "data"
+  "sectors": [
+    "Agriculture"
   ],
-  "repositoryURL": "https://github.com/Growstuff/growstuff",
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Growstuff/growstuff"
+    }
+  ],
   "organizations": [
     {
-      "name": "GrowStuff",
-      "website": "https://www.growstuff.org/",
-      "org_type": "owner"
+      "name": "Brenda Wallace (person)",
+      "website": "https://www.allthethings.nz/",
+      "org_type": "maintainer",
+      "contact_name": "Brenda Wallace",
+      "contact_email": "info@growstuff.org"
     }
   ],
   "stage": "nominee"
