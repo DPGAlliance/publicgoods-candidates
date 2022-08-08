@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 2
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "yes because Data can also be extracted by calling authenticated REST APIs.",
+    "confidence": 4
+  },
+  "user": "Simpleshell3",
+  "timestamp": 1633972118,
+  "timeTaken": 235
+}

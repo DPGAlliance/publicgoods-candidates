@@ -1,0 +1,48 @@
+{
+  "name": "City Energy Analyst",
+  "aliases": [
+    ""
+  ],
+  "description": "A fully integrated urban building energy modeling tool that simulates building energy demand, energy supply potentials, system designs and optimization.",
+  "website": "https://cityenergyanalyst.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "This tool helps design low-carbon and low-cost energy systems."
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "This tool helps cities to forecast future energy demand under uncertain future scenarios."
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "This tool forecasts future energy demand under uncertain future scenarios and identify most robust envelope and system recommendation through comparisons."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/architecture-building-systems/CityEnergyAnalyst"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Chair of Architecture and Building Systems",
+      "website": "https://systems.arch.ethz.ch/",
+      "org_type": "owner",
+      "contact_name": "Hsieh Shan-Shan",
+      "contact_email": "hsieh@arch.ethz.ch"
+    }
+  ],
+  "stage": "DPG"
+}

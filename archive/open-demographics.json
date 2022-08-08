@@ -1,0 +1,35 @@
+{
+  "name": "Open Demographics",
+  "description": "Open Demographics Initiative: An open standard for collecting identity/demographic data in open source communities.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/drnikki/open-demographics/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/drnikki/open-demographics"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Demographics",
+      "website": "https://open-demographics.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

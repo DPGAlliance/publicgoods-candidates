@@ -1,7 +1,10 @@
 {
-  "name": "OptiKey",
-  "description": "OptiKey - Full computer control and speech with your eyes.",
-  "website": "",
+  "name": "Optikey",
+  "aliases": [
+    ""
+  ],
+  "description": "OptiKey is an on-screen keyboard that is designed to help people with motor and speech disabilities to interact with Windows computers and speak",
+  "website": "https://optikey.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -10,19 +13,27 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 10,
+      "evidenceText": "Optikey is a free accessibility tool which can be used by people with motor and speech disabilities to interact with their computer (for leisure, study, or work) and generate speech to be able to communicate effectively."
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OptiKey/OptiKey",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OptiKey/OptiKey/"
+    }
+  ],
   "organizations": [
     {
-      "name": "OptiKey",
-      "website": "https://www.optikey.org",
-      "org_type": "owner"
+      "name": "Julius Sweetland",
+      "website": "https://optikey.org",
+      "org_type": "owner",
+      "contact_name": "Julius Sweetland",
+      "contact_email": "juliussweetland@gmail.com"
     }
   ],
   "stage": "nominee"

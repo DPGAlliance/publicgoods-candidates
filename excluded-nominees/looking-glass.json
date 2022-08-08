@@ -1,0 +1,40 @@
+{
+  "name": "Looking Glass",
+  "aliases": [
+    "LG"
+  ],
+  "description": "Enables usage of a GPU hardware accelerated Virtual Machine (Windows or Linux) from Linux with near native performance, zero-loss, and lowest possible latency.",
+  "website": "https://looking-glass.io",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/gnif/LookingGlass/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Looking Glass allows people in all areas of industry that are forced to make use of legacy products that only operate on untrusted operating systems such as Windows to do so without compromising their workflow. It has been adopted by thousands of people from those just wanting to relax to play games, to those making use of it for work with tools such as Adobe Photoshop, SolidWorks and MatLab which do not have ports for Linux. Unlike Wine or other such solutions, there is no compromise on compatibillity or performance, everything simply just works. This is industry changing technology and has even seen interest by Intel who have forked and are using Looking Glass internally."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "LookingGlass",
+      "url": "https://github.com/gnif/LookingGlass"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "HostFission",
+      "website": "https://hostfission.com",
+      "org_type": "owner",
+      "contact_name": "Geoffrey McRae",
+      "contact_email": "geoff@hostfission.com"
+    }
+  ],
+  "stage": "nominee"
+}

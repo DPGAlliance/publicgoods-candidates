@@ -1,0 +1,45 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Meron is aimed towards classifying children under 6 years old whether they have malnutrition or not. This can help reduce the cases of malnutrition ",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "The link was to License of  Meron",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "O evidence to support this",
+    "confidence": 4
+  },
+  "user": "Lovelyfin00",
+  "timestamp": 1634302538,
+  "timeTaken": 951
+}

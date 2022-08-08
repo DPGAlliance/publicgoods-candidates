@@ -1,7 +1,7 @@
 {
   "name": "AI Agro",
   "description": "Open Source Precision Agriculture with Drones leverages a set of machine learning algorithms & computer vision developed with the goal of determining health states and relevant information for efficient management of resources of different types of crops using drone data (UAV)",
-  "website": "https://rentadrone.cl/developers/precision-agriculture-maps/",
+  "website": "https://rentadrone.cl/developers/ai-agro/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -31,13 +31,20 @@
     "software",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/RentadroneCL/Precision_Agriculture",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RentadroneCL/Precision_Agriculture"
+    }
+  ],
   "organizations": [
     {
       "name": "Rentadrone.cl",
       "website": "https://rentadrone.cl/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Julio Rejón",
+      "contact_email": "julio.rejon@rentadrone.cl"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

@@ -20,6 +20,8 @@ jobs:
         run: ./scripts/check-filenames.bash
       - name: Check order of fields in each file
         run: npm run order
+      - name: Check country names in digital public goods JSON files
+        run: npm run cleanCountries
 
   deploy:
     needs: build
@@ -42,6 +44,8 @@ jobs:
       - name: Deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN}}
+          NEXT_PUBLIC_MAPBOX_TOKEN: ${{ secrets.NEXT_PUBLIC_MAPBOX_TOKEN }}
+          NEXT_PUBLIC_SHEET_ID: ${{ secrets.NEXT_PUBLIC_SHEET_ID }}
         run: ./scripts/push.bash
 
   # As of May 2021, this integration is disabled. Leaving it commented it out for reference.

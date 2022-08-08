@@ -1,0 +1,34 @@
+{
+  "name": "Our World In Data Grapher",
+  "description": "Interactive data visualizations done quickly.",
+  "website": "https://ourworldindata.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/owid/owid-grapher/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/owid/owid-grapher"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Our World In Data",
+      "website": "https://ourworldindata.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

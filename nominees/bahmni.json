@@ -28,12 +28,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Bahmni/bahmni-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Bahmni/bahmni-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Bahmni",
       "website": "https://bahmni.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Vinod Sankaranarayanan",
+      "contact_email": "vinod.sankaranarayanan@thoughtworks.com"
     }
   ],
   "stage": "DPG"
