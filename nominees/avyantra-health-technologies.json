@@ -33,6 +33,13 @@
   ],
   "organizations": [
     {
+      "name": "Avyantra Health Technologies",
+      "website": "https://www.avyantra.com/",
+      "org_type": "owner",
+      "contact_name": "Hyma Goparaju",
+      "contact_email": "avyantra@gmail.com"
+    },
+    {
       "name": "UNICEF Ventures Fund",
       "website": "https://unicefinnovationfund.org/",
       "org_type": "funder"
