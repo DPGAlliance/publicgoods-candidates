@@ -90,13 +90,14 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "We have provided an email address for reporting abuse, harassment or improper conduct. This goes directly to our Chief Technology Officer and Director of Programmes, who will review and investigate any issues further."
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "As the main channel is Github, the main way to do so would be to moderate there."
+        "Contributor Covenant Code of Conduct - https://github.com/huridocs/uwazi/blob/development/CODE_OF_CONDUCT.md",
+        "We have provided an email address for reporting abuse, harassment or improper conduct. This goes directly to our Chief Technology Officer and Director of Programmes, who will review and investigate any issues further."
       ]
     }
   },
