@@ -1,0 +1,102 @@
+{
+  "name": "Treejer Protocol",
+  "aliases": [
+    "Treejer"
+  ],
+  "description": "Connecting funders to rural planters worldwide",
+  "website": "https://treejer.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/treejer/contract/blob/main/LICENSE"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/treejer/mobile/blob/master/LICENSE"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/treejer/web/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Most of Treejer's users in the tree plantation side are among vulnerable communities in developing countries in LatAm, Africa and Middle East. By onboarding them, we provide them with a new channel of income. Some of them were unemployed before working with us. Also, our Rural Development Fund, supports local communities in areas other than environmental work. We aim to distribute micr0-loans and micro-grants from this fund to eligible planters working with Treejer. Microfinance and land ownership are key ways to eliminate poverty.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "We support regenerative agriculture and some of our projects are part of agroforestry and provide sustainable food supply to families involved.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We're building technologies that promote the empowerment of women. This is mainly done by providing fair and equal access to remote job opportunities in places where women have less opportunities. We encourage rural ambassadors to invite more women as planters in their local communities.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "By reducing stormwater runoff and soil erosion, trees and plants can aid communities with water quality issues. Trees help collect nutrients that might otherwise be washed away from the soil. Some of our communities plant the trees in strategic places for better management of rain water. Forests slow the flow of water by intercepting precipitation and by consuming water in the ground.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "One of the most important features of Treejer protocol is providing bankless payments to unbanked individuals as they contribute to the environmental causes. We have a special focus on onboarding communities from global south and provide them with decent job opportunities as planters. All women and men receive equal pay for work of equal value. In addition, we work with contributors from various countries. Currently, most of our core contributors are immigrants.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "By developing open-source technologies on public blockchains, we're building sustainable, resilient and transparent infrastructures specially for communities in least developed countries. Treejer's innovations has already added financial, technological and technical support to African, LatAm and Middle Eastern people.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Using some of the key features of web 3.0, Treejer empowers the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status. When working with local communities in the supply side, we do our best to minimize the cost for them. For instance, Treejer sponsors blockchain transaction fees for rural planters and charges planters $0 costs to use Treejer. We consider costless and incentivized inclusion as a key design principle in product development.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Treejer helps locals to protect and safeguard their natural heritage by providing financial support. There are communities who plant trees in public rural areas. Their forestation efforts provides safe and inclusive access to green and public spaces. Also, forests facilitate mitigation and adaptation to climate change, and resilience to disasters specially by flood prevention.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Climate change poses a clear and present danger to our entire civilization. The consequences are already evident and will be disastrous unless we act quickly. We need to make the necessary changes to protect the earth via education, open innovation, and adherence to our climate obligations. Governments lack enough coordination tools, but web3 is providing unprecedented opportunities with new incentive structures globally. As a web3-native and open-source project, we're experimenting for a faster and multi-stakeholder climate innovation.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "This is the most relevant SDG to the works of Treejer. We continue to make our contribution to building a sustainable green future for everyone in the world with the help of new technologies. We connect funders to rural planters worldwide to protect forests even in remote and unbanked communities. Forests have direct impact on biodiversity and Treejer facilitates forest financing.",
+      "evidenceURL": "https://blog.treejer.com/treejer-and-sdgs/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Smart Contracts",
+      "url": "https://github.com/treejer/contract"
+    },
+    {
+      "name": "Mobile app for tree planters",
+      "url": "https://github.com/treejer/mobile"
+    },
+    {
+      "name": "Web Application",
+      "url": "https://github.com/treejer/web"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Treejer",
+      "website": "https://treejer.com",
+      "org_type": "owner",
+      "contact_name": "Ermia Saharkhiz",
+      "contact_email": "ermia@treejer.com"
+    }
+  ],
+  "stage": "DPG"
+}

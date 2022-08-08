@@ -1,0 +1,39 @@
+{
+  "name": "Global Carbon Budget",
+  "description": "Global carbon cycle and emissions data, including fossil-fuel, cement, and land-use change emissions, atmospheric growth, and ocean and land sinks",
+  "website": "https://nbviewer.jupyter.org/github/openclimatedata/notebooks/blob/master/Global%20Carbon%20Budget%20%7C%20Fossil%20Fuel%20and%20Cement%20Production.ipynb",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 13
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openclimatedata/global-carbon-budget"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Climate Data",
+      "website": "https://openclimatedata.net/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "The link is to page which explains how the software helps improve agriculture measures - leading to sustainable crop yields. The site also explicitly states that it supports SDG 2.",
+    "confidence": 5
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "The site does not explicitly state it supports SDG 13 (even though it lists SDG 2, 12 and 17). However, the text provided does support targets 13.1 and 13.b whereas the decrease in pesticides and the use of weather-based algorithms will allow agriculture practices to become more resilient and adaptable to climate change.",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "The site does not explicitly state it supports SDG 15 (even though it lists SDG 2, 12 and 17). However, the article linked does support targets 15.8, where the software can be supported in tracking invasive pests and allowing solutions to be created to control them. As well as 15.9 where it encourages a move away from pesticides which can threaten the natural biodiversity an ecosystems.",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Link is to the documentation readme on Github which outlines how the software works. It includes a link to the further documentation which details how to setup the software.",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "user": "sabinevidal",
+  "timestamp": 1634125330,
+  "timeTaken": 2115
+}

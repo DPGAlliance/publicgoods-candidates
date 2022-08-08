@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "The page gave an error",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "The link gave an error",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The link given gave an error",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "No link was provided to check whether the claim was correct or not",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "No link was provided to ascertain the claim",
+    "confidence": 4
+  },
+  "user": "Lovelyfin00",
+  "timestamp": 1634300566,
+  "timeTaken": 1285
+}

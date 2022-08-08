@@ -1,0 +1,49 @@
+{
+  "name": "Lily the Llama Helps Her Herd",
+  "aliases": [
+    ""
+  ],
+  "description": "Lily the Llama Helps Her Herd is a picture book that teaches children about herd immunity, explaining the importance of vaccination for their own health and for protecting their loved ones and communities.",
+  "website": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Lily the Llama Helps Her Herd is designed as an educational resource to teach children and families about herd immunity, explaining the importance of vaccination for their own health and for protecting their loved ones and communities. Lily the Llama Helps Her Herd is also available in Spanish and Portuguese. All translations and links related to the project can be found at https://linktr.ee/lilythellama.",
+      "evidenceURL": "https://digitalmedic.stanford.edu/general/educating-children-about-vaccination-with-lily-the-llama-helps-her-herd/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Lily the Llama Helps Her Herd is designed as an educational resource to teach children and families about herd immunity, explaining the importance of vaccination for their own health and for protecting their loved ones and communities. Lily the Llama Helps Her Herd is also available in Spanish and Portuguese. All translations and links related to the project can be found at https://linktr.ee/lilythellama.",
+      "evidenceURL": "https://digitalmedic.stanford.edu/general/educating-children-about-vaccination-with-lily-the-llama-helps-her-herd/"
+    }
+  ],
+  "sectors": [
+    "Education",
+    "Health"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Stanford Center for Health Education",
+      "website": "https://healtheducation.stanford.edu/",
+      "org_type": "maintainer",
+      "contact_name": "Emma Rachel Rashes",
+      "contact_email": "erashes@stanford.edu"
+    }
+  ],
+  "stage": "DPG"
+}

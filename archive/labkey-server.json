@@ -1,0 +1,36 @@
+{
+  "name": "LabKey Server",
+  "description": "LabKey Server is an open-source software platform designed to help research organizations integrate, analyze, and share complex biomedical data. Adaptable to varying research protocols, analysis tools, and data sharing requirements, LabKey Server couples the flexibility of a custom solution with enterprise-level scalability to support scientific workflows.",
+  "website": "https://www.labkey.com/products-services/labkey-server/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.labkey.org/Documentation/wiki-page.view?name=openSourceProject"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.researchgate.net/publication/50347617_LabKey_Server_An_open_source_platform_for_scientific_data_integration_analysis_and_collaboration"
+    }
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/LabKey/server"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "LabKey",
+      "website": "https://www.labkey.com/",
+      "org_type": "owner",
+      "contact_email": "info@labkey.com"
+    }
+  ],
+  "stage": "nominee"
+}

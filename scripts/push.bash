@@ -1,6 +1,6 @@
 #!/bin/bash
-git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-website && \
-    git clone https://github.com/unicef/publicgoods-scripts.git ../publicgoods-scripts && \
+git clone https://github.com/DPGAlliance/publicgoods-website.git ../publicgoods-website && \
+    git clone https://github.com/DPGAlliance/publicgoods-scripts.git ../publicgoods-scripts && \
     pushd ../publicgoods-scripts && \
         npm install && \
         ./scripts/static.bash && \
@@ -18,13 +18,16 @@ git clone https://github.com/unicef/publicgoods-website.git ../publicgoods-websi
         pushd packages/map && \
             npm run build && \
         popd && \
+        pushd packages/roadmap && \
+            npm run build && \
+        popd && \
         ./scripts/moveFiles.bash && \
     popd && \
-    git config --global user.email "lacabra@users.noreply.github.com" && \
-    git config --global user.name "Victor Grau Serrat" && \
+    git config --global user.email "96251909+dpgabot@users.noreply.github.com" && \
+    git config --global user.name "dpgabot" && \
     pushd ../publicgoods-website && \
-        git remote set-url origin https://${GITHUB_TOKEN}@github.com/unicef/publicgoods-website.git && \
-        git add author blog category registry tag && \
+        git remote set-url origin https://${GITHUB_TOKEN}@github.com/DPGAlliance/publicgoods-website.git && \
+        git add . && \
         git stash && git pull --rebase && git stash pop && \
         git commit -am "BLD: $GITHUB_SHA" || true && \
         git push --set-upstream origin main

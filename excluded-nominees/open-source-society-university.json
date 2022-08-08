@@ -1,0 +1,34 @@
+{
+  "name": "Open Source Society University",
+  "aliases": [
+    ""
+  ],
+  "description": "Open Source Society University is a community of students of all levels, completing a comprehensive, project based, open-source computer science curriculum, helping each other and sharing their experiences and code through github and our community forums.",
+  "website": "https://ossu.firebaseapp.com/#/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/ossu/computer-science/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Open Source Society University is a community of students of all levels, completing a comprehensive, project based, open-source computer science curriculum, helping each other and sharing their experiences and code through github and our community forums.",
+      "evidenceURL": "https://ossu.firebaseapp.com/#/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "Open Source Society University ",
+      "website": "https://ossu.firebaseapp.com/#/",
+      "org_type": "maintainer"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Good Here",
+  "description": "Good Here helps you discover social impact startups, connect with the social impact community, and find social impact opportunities.",
+  "website": "https://goodhere.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/goodhere/goodhere/blob/master/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/goodhere/goodhere/blob/master/README.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://blog.goodhere.org/introducing-good-here-find-social-impact-startups-and-funding/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/goodhere/goodhere"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ben Matthew",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
