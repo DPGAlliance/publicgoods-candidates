@@ -1,37 +1,90 @@
 {
   "name": "OpenAttestation",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Unknown",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Unknown"
+    "isDocumentationAvailable": "Unknown",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown"
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown"
+      "collectsPII": "Unknown",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "Unknown",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown"
+      "collectStoreDistribute": "Unknown",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown"
+      "userInteraction": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
-  "locations": {}
+  "locations": {
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
 }
