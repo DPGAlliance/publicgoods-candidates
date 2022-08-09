@@ -1,18 +1,20 @@
 {
   "name": "OpenAttestation",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.openattestation.com/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Unknown",
+    "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "Installation guide - https://github.com/Open-Attestation/open-attestation",
+      "Developer guide - https://www.openattestation.com/docs/docs-section/introduction",
+      "Integrator docs - https://www.openattestation.com/docs/integrator-section/verifiable-document/overview"
     ]
   },
   "NonPII": {
