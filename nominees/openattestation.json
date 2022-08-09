@@ -1,0 +1,45 @@
+{
+  "name": "OpenAttestation",
+  "aliases": [
+    ""
+  ],
+  "description": "OpenAttestation is an open-sourced framework that allows for trustworthy education data-sharing by facilitating the decentralised issuance, storage and verification of academic and training documents, in line with applicable data privacy regulations.",
+  "website": "https://www.openattestation.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.openattestation.com/docs/developer-section/libraries/remote-files/open-attestation-verify/#license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Distributed-ledger technologies are a decentralized, transactional database technology that facilitate validated and peer-to-peer transactions that are consistent across a large number of anonymous network participants - sometimes referred to as nodes. Given its decentralized and tamper-resistant nature, distributed-ledger technology comes with promises of tackling issues of information traceability, accountability, and integrity among a wide variety of individuals, organizations, and institutions across society while improving privacy, transparency, robustness, trustworthiness, and authenticity.   The applications of emerging technology have been proliferating in various sectors and, among them, the education field. Distributed-ledger technology can be harnessed to address challenges to issue and verification of educational data. OpenAttestation is an open-sourced framework that supports the issuance, storage, and verification of different types of academic information, and complies with applicable regulations, protecting the privacy of users’ personal data, all these benefits align with and make contributions to SDG 4: Quality Education. ",
+      "evidenceURL": "https://www.openattestation.com/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/Open-Attestation/open-attestation",
+      "name": "open-attestation"
+    },
+    {
+      "url": "https://www.developer.tech.gov.sg/products/categories/open-source/index.html",
+      "name": "open-attestation"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Government Technology Agency, Singapore",
+      "website": "https://www.tech.gov.sg",
+      "org_type": "owner",
+      "contact_name": "Barry Lim",
+      "contact_email": "OpenAttestation_Support@tech.gov.sg"
+    }
+  ],
+  "stage": "nominee"
+}
