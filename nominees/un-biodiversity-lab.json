@@ -7,8 +7,8 @@
   "website": "https://unbiodiversitylab.org/",
   "license": [
     {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/natgeosociety/marapp-frontend/blob/develop/LICENSE"
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://map.unbiodiversitylab.org/earth"
     }
   ],
   "SDGs": [
@@ -44,18 +44,12 @@
     "Water and Sanitation"
   ],
   "type": [
-    "software",
-    "data",
-    "content"
+    "data"
   ],
   "repositories": [
     {
-      "name": "Marapp frontend",
-      "url": "https://github.com/natgeosociety/marapp-frontend"
-    },
-    {
-      "name": "Marapp API Services",
-      "url": "https://github.com/natgeosociety/marapp-services"
+      "name": "UNBL map",
+      "url": "https://map.unbiodiversitylab.org/earth"
     }
   ],
   "organizations": [
