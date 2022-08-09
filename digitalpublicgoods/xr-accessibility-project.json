@@ -1,0 +1,95 @@
+{
+  "name": "XR Accessibility Project",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://xraccess.org/resources/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://xraccessibility.github.io/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      "Only points to publicly available documents and resources"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "In terms of formats, the index supports HTML5",
+      "We also offer resources to support WebXR, the open XR standard supported by the W3C"
+    ],
+    "evidenceStandardSupport": [
+      "https://xraccess.org/resources/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We also believe in the Principles for Digital Development, as the project:",
+      "- Aims to reuse and improve accessible code so developers don't have to recreate accessibility features from scratch",
+      "- Leverages as many open source resources as possible",
+      "- Attempts to understand the existing ecosystem by supporting the tools that developers are actively using",
+      "- Is collaborative, asking developers to share new resources and code as they find it"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "As an index of resources there isn't a huge capacity for harm, but we as the moderators of the resource vet all submissions for accuracy and keep harmful or hazardous material off of the site."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Only points to publicly available documents and resources"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Guidelines and code snippets for accessible XR",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Only content submitted through the resource suggestion form and approved by moderators is shared"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
