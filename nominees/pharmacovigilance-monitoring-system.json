@@ -1,0 +1,42 @@
+{
+  "name": "PharmacoVigilance Monitoring System",
+  "aliases": [
+    "PViMS"
+  ],
+  "description": "The PharmacoVigilance Monitoring System (PViMS) is a web-based application used to monitor the safety of medicines. This tool was created by the USAID-funded Systems for Improved Access to Pharmaceutical and Services (SIAPS) Program implemented by Management Sciences for Health.",
+  "website": "https://pvims.msh.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/MSH/PViMS/blob/devel/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://siapsprogram.org/tools-and-guidance/pvims/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MSH/PViMS"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Management Sciences for Health",
+      "website": "https://msh.org",
+      "org_type": "owner",
+      "contact_name": "Kim Hoppenworth",
+      "contact_email": "khoppenworth@mtapsprogram.org"
+    }
+  ],
+  "stage": "nominee"
+}

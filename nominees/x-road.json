@@ -64,7 +64,9 @@
     {
       "name": "Nordic Institute for Interoperability Solutions (NIIS)",
       "website": "https://www.niis.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Ville Sirviö",
+      "contact_email": "ville.sirvio@niis.org"
     }
   ],
   "stage": "DPG"

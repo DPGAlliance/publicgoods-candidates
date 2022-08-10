@@ -64,7 +64,9 @@
     {
       "name": "Government of Sierra Leone",
       "website": "https://www.dsti.gov.sl",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Salton Massally",
+      "contact_email": "salton.massally@gmail.com"
     }
   ],
   "stage": "DPG"
