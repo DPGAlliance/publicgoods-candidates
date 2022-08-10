@@ -1,0 +1,41 @@
+{
+  "name": "MOCHCare",
+  "aliases": [
+    ""
+  ],
+  "description": "Digitization of Maternal and Child Health Record Book. With MOCHCare, doctors can record post-natal and ante-natal information about the mother and child digitally to help mitigate the effects of maternal books shortage.",
+  "website": "https://www.mochcare.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/MochCare-Gh/service-provider-portal/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This solution is relevant because it is contributing in eradicating maternal mortality and infant death and also keep all data of pregnant women and children under five(5) years safer rather than the manual way of collecting and storing of the data.",
+      "evidenceURL": "https://www.youtube.com/watch?v=XFe1pGL67Eo"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "service-provider-portal",
+      "url": "https://github.com/MochCare-Gh/service-provider-portal"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "MOCHCare Limited Company",
+      "website": "https://www.mochcare.com",
+      "org_type": "owner",
+      "contact_name": "Sophia Boduwah Mensah",
+      "contact_email": "sophiabm90@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
