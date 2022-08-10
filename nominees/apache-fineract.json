@@ -34,13 +34,15 @@
   ],
   "organizations": [
     {
-      "name": "The Apache Software Foundation",
-      "website": "https://apache.org",
-      "org_type": "owner"
-    },
-    {
       "name": "Mifos",
       "website": "https://mifos.org",
+      "org_type": "owner",
+      "contact_name": "Edward Cable",
+      "contact_email": "edcable@mifos.org"
+    },
+    {
+      "name": "The Apache Software Foundation",
+      "website": "https://apache.org",
       "org_type": "owner"
     }
   ],
