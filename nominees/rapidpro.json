@@ -39,14 +39,16 @@
   ],
   "organizations": [
     {
+      "name": "United Nations Children's Fund (UNICEF)",
+      "website": "https://unicef.org",
+      "org_type": "funder",
+      "contact_name": "Matthew Mcnaughton",
+      "contact_email": "mmcnaughton@unicef.org"
+    },
+    {
       "name": "RapidPro",
       "website": "https://rapidpro.io",
       "org_type": "owner"
-    },
-    {
-      "name": "United Nations Children’s Fund (UNICEF)",
-      "website": "https://unicef.org",
-      "org_type": "funder"
     }
   ],
   "stage": "DPG"
