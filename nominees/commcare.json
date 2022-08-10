@@ -52,7 +52,9 @@
     {
       "name": "Dimagi",
       "website": "https://dimagi.com",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Jonathan Jackson",
+      "contact_email": "jjackson@dimagi.com"
     }
   ],
   "stage": "DPG"

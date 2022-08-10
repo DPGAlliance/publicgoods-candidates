@@ -32,7 +32,9 @@
     {
       "name": "HLN Consulting, LLC",
       "website": "https://hln.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Noam H. Arzt",
+      "contact_email": "arzt@hln.com"
     }
   ],
   "stage": "DPG"
