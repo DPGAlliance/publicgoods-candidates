@@ -42,7 +42,9 @@
     {
       "name": "NIBIO",
       "website": "https://nibio.no",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Tor-Einar Skog",
+      "contact_email": "tor-einar.skog@nibio.no"
     }
   ],
   "stage": "DPG"

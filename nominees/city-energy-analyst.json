@@ -39,7 +39,9 @@
     {
       "name": "Chair of Architecture and Building Systems",
       "website": "https://systems.arch.ethz.ch/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Hsieh Shan-Shan",
+      "contact_email": "hsieh@arch.ethz.ch"
     }
   ],
   "stage": "DPG"
