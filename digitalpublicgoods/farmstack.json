@@ -1,0 +1,94 @@
+{
+  "name": "FarmStack",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.farmstack.co/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/digitalgreenorg/farmstack-open"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data is NOT stored within the software but is kept by the original data providers and shared via a connector against a pre-defined usage policy in non-proprietary formats such as CSV"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "One type of user is called a steward, and this user type sets baseline rules by which their network of other users 'participants' are meant to use the software. Because it is used in different jurisdictions for example the US, India, Ethiopia and Kenya, it is necessary to set standards based on the geography. The software itself is a flexible solution that is customized by the steward as needed."
+    ],
+    "adherenceSteps": [
+      "One type of user is called a steward, and this user type sets baseline rules by which their network of other users 'participants' are meant to use the software. Because it is used in different jurisdictions for example the US, India, Ethiopia and Kenya, it is necessary to set standards based on the geography. The software itself is a flexible solution that is customized by the steward as needed."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "JSON",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/digitalgreenorg/farmstack-open"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Using open standards (ISDA) and building open source"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Data sharing networks are orchestrated by stewards who set policies in their respective jurisdictions. The steward will typically be a gov't org. The steward sets the policies, certifies connectors, and has the ability to audit and decertify connectors if the owner violates the established policies or agreements."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Data is not collected and stored by our solution."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Ethiopia",
+      "United States of America"
+    ]
+  }
+}
