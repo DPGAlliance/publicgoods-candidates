@@ -39,7 +39,9 @@
     {
       "name": "Translators Without Borders",
       "website": "https://translatorswithoutborders.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Andy Way",
+      "contact_email": "andy.way@adaptcentre.ie"
     }
   ],
   "stage": "DPG"

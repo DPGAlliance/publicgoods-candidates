@@ -40,7 +40,9 @@
     {
       "name": "UNICEF",
       "website": "https://unicef.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Robert MacTavish",
+      "contact_email": "rmactavish@unicef.org"
     }
   ],
   "stage": "DPG"
