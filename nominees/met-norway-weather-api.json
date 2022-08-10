@@ -51,7 +51,9 @@
     {
       "name": "Norwegian Meteorological Insitute",
       "website": "https://www.met.no/en",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Jørn Kristiansen",
+      "contact_email": "jornk@met.no"
     }
   ],
   "stage": "DPG"
