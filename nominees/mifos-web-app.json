@@ -32,7 +32,9 @@
     {
       "name": "Mifos",
       "website": "https://mifos.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Edward Cable",
+      "contact_email": "edcable@mifos.org"
     }
   ],
   "stage": "DPG"
