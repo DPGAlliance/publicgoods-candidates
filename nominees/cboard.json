@@ -39,7 +39,9 @@
     {
       "name": "CIREHA",
       "website": "https://cireha.com.ar",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Martin Bedouret",
+      "contact_email": "martinbedouret@gmail.com"
     }
   ],
   "stage": "DPG"
