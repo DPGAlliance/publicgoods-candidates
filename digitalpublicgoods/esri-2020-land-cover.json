@@ -22,7 +22,7 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
       "This map does not collect or use any personal information that would require compliance with laws such as the EU's General Data Protection Regulation (GDPR) or the California Consumer Privacy Act of 2018 (CCPA)"
     ],
