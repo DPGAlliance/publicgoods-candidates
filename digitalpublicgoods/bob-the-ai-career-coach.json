@@ -31,12 +31,14 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "JSON",
+      "REST",
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/bayesimpact/bob-emploi"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
