@@ -33,7 +33,12 @@
     "software",
     "standard"
   ],
-  "repositoryURL": "https://github.com/egovernments/DIGIT-OSS",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/egovernments/DIGIT-OSS"
+    }
+  ],
   "organizations": [
     {
       "name": "eGovernments Foundation",

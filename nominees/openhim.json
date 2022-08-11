@@ -4,7 +4,7 @@
     "Open Health Information Mediator"
   ],
   "description": "The OpenHIM is a middleware component designed to ease interoperability between disparate information systems. It provides secure communications and data governance as well as support for routing, orchestrating and translating requests as they flow between systems.",
-  "website": "http://openhim.org/",
+  "website": "https://openhim.org/",
   "license": [
     {
       "spdx": "MPL-2.0",
@@ -24,7 +24,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/jembi/openhim-core-js",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/jembi/openhim-core-js"
+    }
+  ],
   "organizations": [
     {
       "name": "Jembi Health Systems",

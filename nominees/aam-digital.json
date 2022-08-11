@@ -39,7 +39,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Aam-Digital/ndb-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Aam-Digital/ndb-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Aam Digital GmbH",
@@ -49,5 +54,5 @@
       "contact_email": "sebastian@aam-digital.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

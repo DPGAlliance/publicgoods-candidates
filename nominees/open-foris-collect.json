@@ -35,12 +35,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openforis/collect",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openforis/collect"
+    }
+  ],
   "organizations": [
     {
       "name": "Food and Agriculture Organization (FAO) of the United Nations",
       "website": "https://www.fao.org/home/en/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "SanchezPausDiaz, Alfonso",
+      "contact_email": "alfonso.sanchezpausdiaz@fao.org"
     }
   ],
   "stage": "DPG"

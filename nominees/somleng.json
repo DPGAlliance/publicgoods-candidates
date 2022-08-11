@@ -25,13 +25,25 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/somleng/somleng",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/somleng/somleng"
+    }
+  ],
   "organizations": [
+    {
+      "name": "Somleng",
+      "website": "https://www.somleng.org/",
+      "org_type": "owner",
+      "contact_name": "David Cooper Wilkie",
+      "contact_email": "dwilkie@somleng.org"
+    },
     {
       "name": "UNICEF Ventures Fund",
       "website": "https://unicefinnovationfund.org/",
       "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

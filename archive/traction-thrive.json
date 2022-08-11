@@ -1,0 +1,32 @@
+{
+  "name": "Traction Thrive",
+  "description": "An application that enables hospitals and healthcare practitioners to more accurately track and distribute critical medical staff and resources to meet the immediate needs of COVID-19 response teams. It was created by Traction On Demand in partnership with Thrive Health and initially rolled out with the Provincial Health Services Authority of British Columbia.",
+  "website": "https://tractionondemand.com/traction-thrive/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/SFDO-Community/TractionThrive/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/SFDO-Community/TractionThrive"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Traction Thrive, Salesforce.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

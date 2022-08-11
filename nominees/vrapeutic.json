@@ -4,7 +4,7 @@
     ""
   ],
   "description": "VRapeutic develops virtual reality software modules specially tailored to instill cognitive, social, academic, and motor skills in children and young adults. Our ever-growing library of modules empowers therapists with unlimited virtual rehabilitation scenarios, in addition to providing them cutting-edge technologies to track children’s performance and design data-driven rehabilitation plans. VRapeutic's vision is to develop the largest science-backed VR curricula for essential life skills worldwide.",
-  "website": "https://www.linkedin.com/company/vrapeutic",
+  "website": "https://myvrapeutic.com/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -39,7 +39,12 @@
     "software",
     "content"
   ],
-  "repositoryURL": "https://github.com/vrapeutic/Rodja-webXR",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/vrapeutic/Rodja-webXR"
+    }
+  ],
   "organizations": [
     {
       "name": "VRapeutic, Inc",

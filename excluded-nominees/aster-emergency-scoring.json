@@ -1,0 +1,34 @@
+{
+  "name": "Aster - Emergency Scoring",
+  "description": "Core containerized service aimed at attributing priority to an incoming transcript. It also uses NLU for emotion analysis, and keywords extraction. Tech Stack: AWS, LightGBM, Bayesian Optimization, Flask.",
+  "website": "https://www.project-aster.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Project-AsTeR/scoring/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Project-AsTeR/scoring"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "AsTer",
+      "website": "https://www.project-aster.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
