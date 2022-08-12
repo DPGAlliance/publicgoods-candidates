@@ -65,7 +65,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "We don't collect PII data"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
