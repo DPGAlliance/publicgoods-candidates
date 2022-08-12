@@ -66,3 +66,7 @@ Below are some of the common best practices and principles implemented by severa
 * Leverage IT auditing
 * Protect data at rest (data encryption, using a firewall, antivirus protection, schedule backups)
 * Protect data in transit (encrypt data in transit using TLS/SSL, authenticate data integrity using TLS/SSL, use X.509 certificates to authenticate the remote end)
+
+#### Data Principles:
+* [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
+*
