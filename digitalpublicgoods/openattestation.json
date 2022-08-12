@@ -18,30 +18,36 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
+    "collectsNonPII": "No",
     "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Singapore's PDPA"
     ],
     "adherenceSteps": [
-      ""
+      "Privacy policy - https://www.opencerts.io/privacy"
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Accessibility - WCAG2.1",
+      "Security - HTTPS, SSL, SHA3",
+      "Internationalization (i18n) - UTF-8, ASCII",
+      "Data Exchange formats - JSON, YAML, XML",
+      "Standard Content formats - PDF",
+      "Multimedia - SVG, PNG, JPEG"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/Open-Attestation/open-attestation"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Software Development - Agile development",
+      "Architectural Design - Modularity and Maintainability, Reusability and Extensibility"
     ]
   },
   "doNoHarm": {
@@ -50,19 +56,19 @@
       "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown",
+      "collectsPII": "No",
       "typesOfDataCollected": [
         ""
       ],
-      "thirdPartyDataSharing": "Unknown",
+      "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Verification of uploaded OpenAttestation compatible documents are computed on the client-side. For the purposes of verification on the blockchain, only the merkle root values are communicated externally for comparison. At no point in time is PII data communicated of the client-device."
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown",
+      "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
@@ -70,14 +76,15 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown",
-      "addressSafetySecurityUnderageUsers": "",
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "Users of system remain anonymous, and at no time is PII retained in our systems."
       ],
-      "griefAbuseHarassmentProtection": "",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "Collaboration is done via Github, which have policies in-place for account sign up by underage users.",
+        "Users of system remain anonymous, and at no time is PII retained in our systems."
       ]
     }
   },
