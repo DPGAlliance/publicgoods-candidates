@@ -69,4 +69,3 @@ Below are some of the common best practices and principles implemented by severa
 
 #### Data Principles:
 * [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
-*
