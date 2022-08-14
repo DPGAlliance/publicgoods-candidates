@@ -50,7 +50,9 @@
     {
       "name": "KoBo, Inc",
       "website": "https://www.kobotoolbox.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Tino Kreutzer",
+      "contact_email": "tino.kreutzer@kobotoolbox.org"
     }
   ],
   "stage": "DPG"

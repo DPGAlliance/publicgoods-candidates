@@ -38,7 +38,9 @@
     {
       "name": "Bahmni",
       "website": "https://bahmni.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Vinod Sankaranarayanan",
+      "contact_email": "vinod.sankaranarayanan@thoughtworks.com"
     }
   ],
   "stage": "DPG"
