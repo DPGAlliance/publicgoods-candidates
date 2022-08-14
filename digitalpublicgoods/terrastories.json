@@ -5,9 +5,9 @@
     "copyrightURL": "https://terrastories.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Terrastories predominantly uses dependencies with an open-source license similar to that of Terrastories itself. Currently, Terrastories uses Mapbox GL JS for rendering a background map by default, but there is also the option to host your own tiles using the open-source map server TileServer-GL. It is on our roadmap to switch to MapLibre, the open-source fork of the Mapbox GL JS library prior to implementing a more restrictive license, once that project meets the sufficient conditions for map design and serving."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -23,21 +23,25 @@
     "nonPIIAccessMechanism": "Terrastories can be used to map media content (e.g. stories) about places of interest. As well, data can be entered for speakers involved in those stories. This data can be exported and imported in a CSV format."
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Since Terrastories is a web application that can be hosted by any third party, the onus is on the third party to implement any due adherence to privacy and applicable laws. However, the Terrastories application does not collect any data from a user, unless that user has editing permissions for a Terrastories community and has voluntarily entered information in the form of Speaker, Place, or Story data to add to the community map. That said, there is no place for the user to enter any of their own (e.g. personally identifiable) data except for a place to add a photo for their username."
     ],
     "adherenceSteps": [
-      ""
+      "Since Terrastories is a web application that can be hosted by any third party, the onus is on the third party to implement any due adherence to privacy and applicable laws. However, the Terrastories application does not collect any data from a user, unless that user has editing permissions for a Terrastories community and has voluntarily entered information in the form of Speaker, Place, or Story data to add to the community map. That said, there is no place for the user to enter any of their own (e.g. personally identifiable) data except for a place to add a photo for their username."
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Internationalization - UTF-8",
+      "HTTPS",
+      "CSV"
     ],
     "evidenceStandardSupport": [
-      ""
+      "This project supports UTF-8 internationalization and there is description in our documentation on how to add languages to Terrastories: https://github.com/Terrastories/terrastories/blob/master/documentation/CUSTOMIZATION.md#adding-languages-to-terrastories",
+      "A user can add HTTPS to any Terrastories server, as we have done for a server that we operate at https://our.terrastories.io/",
+      "A user can upload a CSV of data to Terrastories, as documented here: https://github.com/Terrastories/terrastories/blob/master/documentation/CUSTOMIZATION.md#importing-data-into-terrastories"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -61,15 +65,15 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Community data can only be accessed by logging in to a Terrastories server with given credentials for that community space. Additionally, administrators of a Terrastories community can protect data by limiting viewing and editing permissions per user account. Communities residing on the same Terrastories server may not access each other's data."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Stories, Speakers, Places - each of which may contain media content e.g. images and videos.",
       "contentFilter": "Yes",
       "policyGuidelinesDocumentationLink": "Terrastories is built with a user roles schema that allows community administrators to assign out permissions of access, viewing, and editing data. Communities themselves can determine who has access to which kinds of data stored on Terrastories.",
-      "illegalContentDetection": "Unknown",
-      "illegalContentDetectionMechanism": ""
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Community administrators have the ability to remove user accounts that are being operated by bad actors, as well as delete any inappropriate or illegal content."
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
@@ -77,9 +81,9 @@
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
       ],
-      "griefAbuseHarassmentProtection": "Unknown",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "Community administrators have the ability to remote user accounts that are engaging in behavior such as grief, abuse, or harassment. There is a system log that can be accessed to review any undesired behavior such as maliciously editing data on the Terrastories community. Community users may contact the administrator(s) in case of any suspected wrongdoing."
       ]
     }
   },
