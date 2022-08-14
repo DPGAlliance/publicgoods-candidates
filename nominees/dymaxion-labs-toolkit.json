@@ -1,0 +1,79 @@
+{
+  "name": "Dymaxion Labs Toolkit",
+  "aliases": [
+    "DMX Tookit"
+  ],
+  "description": "The Dymaxion Labs Toolkit is a collection of open source libraries that leverage AI and Computer Vision to understand the physical world, by analyzing large scale geospatial data.",
+  "website": "https://github.com/dymaxionlabs/toolkit",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/dymaxionlabs/satproc/blob/main/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "In order to secure the livelihoods of every person, it is imperative to generate up-to-date data to measure the impact of public policies related to food security and household conditions. Using our analytics platform, companies, governments, and NGOs can access up-to-date, ready to use data to make better decisions that impact their populations",
+      "evidenceURL": "https://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-dymaxion-labs"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Cities in Latin America and the Caribbean grow spatially and socially segregated. This inequality reflects a widespread need for better living conditions. The problem has been traditionally addressed as a quantity deficit, but it has become a quality deficit: wide swaths of the population lack access to public services, housing tenure and other qualitative aspects. Our tool identifies and monitors location and growth patterns of informal settlements through satellite or aerial images. It can help predict the location and number of residents without access to basic services, and produce extremely-high resolution maps to guide precise targeting of amelioration efforts.",
+      "evidenceURL": "https://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-dymaxion-labs"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "AP Latam [an open source application developed with the Dymaxion Labs Toolkit] is designed to monitor the rate of growth, expansion and change of Informal Settlements in fast-urbanizing environments especially at the fringe of the city, to be used as a wide-range urban planning tool for municipalities and communities.",
+      "evidenceURL": "https://ircai.org/top100/entry/adress-informal-settlements-exposure-to-climate-related-hazard/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "AP Latam [an open source application developed with the Dymaxion Labs Toolkit] identifies and monitors location and growth patterns of informal settlements through satellite or aerial images and that, combined with topography and local precipitation data, can identify exposure to climate-related risks, shocks, and stresses within hours once the system is set up. The solution is able to scale economically and quickly, enabling use at the regional and local levels. This solution is replicable for every country that suffers climate change consequences regarding water hazards.",
+      "evidenceURL": "https://ircai.org/top100/entry/adress-informal-settlements-exposure-to-climate-related-hazard/"
+    }
+  ],
+  "sectors": [
+    "Climate"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Main",
+      "url": "https://github.com/dymaxionlabs/toolkit"
+    },
+    {
+      "name": "satproc: artificial_satellite Python library and CLI tools for processing geospatial imagery for ML",
+      "url": "https://github.com/dymaxionlabs/satproc"
+    },
+    {
+      "name": "unetseg: U-Net semantic segmentation for satellite imagery",
+      "url": "https://github.com/dymaxionlabs/unetseg"
+    },
+    {
+      "name": "labfunctions: A workflow platform which allows you to run parameterized notebooks programmatically",
+      "url": "https://github.com/labfunctions/labfunctions"
+    },
+    {
+      "name": "platform: Dymaxion Labs MLaaS platform repository, containing the web UI application and backend API",
+      "url": "https://github.com/dymaxionlabs/platform"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Dymaxion Labs",
+      "website": "https://dymaxionlabs.com/",
+      "org_type": "maintainer",
+      "contact_name": "Damian Silvani",
+      "contact_email": "damian@dymaxionlabs.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicef.org/innovation/venturefund",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

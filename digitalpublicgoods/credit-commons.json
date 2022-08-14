@@ -1,0 +1,106 @@
+{
+  "name": "Credit Commons",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://creditcommons.net/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Documentation - https://gitlab.com/credit-commons/credit-commons-documentation",
+      "API documentation - https://gitlab.com/credit-commons/cc-php-lib/-/blob/master/docs/credit-commons-openapi-3.0.yml",
+      "Installation - https://gitlab.com/credit-commons/cc-server"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "It's just a REST query to view the transaction data. Transaction data contains wallet ids but not PII."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Complies with GDPR by not holding PII"
+    ],
+    "adherenceSteps": [
+      "Groups are intended to host their own transaction data.",
+      "PII should be stored outside this application",
+      "No knowledge of the counterparty is needed to transact with them",
+      "See 'node visibility and privacy' in https://gitlab.com/credit-commons/credit-commons-documentation"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST API with JSON",
+      "PSR1, PSR4, PSR7",
+      "Open API documentation"
+    ],
+    "evidenceStandardSupport": [
+      "https://gitlab.com/credit-commons/credit-commons-documentation"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "The Twelve Factor App (https://12factor.net/)",
+      "Principles For Digital Development",
+      "Code versioning - Using a version control system",
+      "Test driven development - There are currently about 100 tests running against the OpenAPI spec",
+      "Code refactoring - The code has been refactored many times and makes use of the latest php8 syntax for brevity and clarity",
+      "Extensive use is made of class inheritance for separating out the code.",
+      "Modularity - The linked package cc-node is just the core of the system. Part of the code base is a library of mostly objects and base objects which are strongly implied by the API, which would help a developer get started with a fresh implementation. Another package cc-server puts a REST wrapper around cc-node."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Data sovereignty is a high priority, but on the level of trust-groups not individuals. The main risk is over exposure to debt default, but all of this is decided through group governance. You could theoretically send a transaction with an offensive description to someone if you knew their wallet id, just like email.."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Credit Commons does not hold PII"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The whole thing is a network of trust. Everyone is known to their own group. Admins can trace transactions. Reputation is everything."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The whole thing is a network of trust. Everyone is known to their own group. Admins can trace transactions. Reputation is everything.",
+        "Transaction fees can be added to any transactions making it costly to transact with users in certain groups.",
+        "Users need not broadcast their wallet ids."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Italy"
+    ],
+    "deploymentCountries": [
+      "Sweden",
+      "South Africa"
+    ]
+  }
+}
