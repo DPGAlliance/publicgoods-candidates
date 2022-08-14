@@ -40,7 +40,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": ""
+      "url": "https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac"
     }
   ],
   "organizations": [
@@ -52,5 +52,5 @@
       "contact_email": "katy@impactobservatory.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
