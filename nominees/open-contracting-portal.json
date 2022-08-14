@@ -1,0 +1,40 @@
+{
+  "name": "Open Contracting Portal",
+  "aliases": [
+    "ocportal OCE ocexplorer"
+  ],
+  "description": "The Open Contracting Portal (OC Portal) is an open-source platform built to organize and archive procurement documents, improve data transparency and feedback by the public, and to help publish procurement information in the Open Contracting Data Standard (OCDS)",
+  "website": "https://devgateway.github.io/ocportal/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/devgateway/ocportal/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "The Open Contracting Portal (OC Portal) aligns with SDG 16's specific target of ‘develop[ing] effective, accountable and transparent institutions at all levels’ by making public procurement more transparent; helping governments to benefit from digitizing procurement data and producing procurement analytics designed to address their objectives to improve procurement efficiency, increase value for money, and reduce corruption risk."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "ocportal",
+      "url": "https://github.com/devgateway/ocportal"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Development Gateway, Inc",
+      "website": "https://developmentgateway.org",
+      "org_type": "owner",
+      "contact_name": "Fernando Ferreyra",
+      "contact_email": "fferreyra@developmentgateway.org"
+    }
+  ],
+  "stage": "nominee"
+}

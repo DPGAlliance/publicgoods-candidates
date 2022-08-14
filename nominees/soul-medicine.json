@@ -1,0 +1,43 @@
+{
+  "name": "Soul Medicine",
+  "aliases": [
+    ""
+  ],
+  "description": "Bite-sized support for survivors of abuse, available online or sent direct to your email inbox",
+  "website": "https://soulmedicine.io/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/chaynHQ/soulmedicine/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "This solution supports survivors of gender-based violence to heal and thrive.",
+      "evidenceURL": "https://soulmedicine.io/"
+    }
+  ],
+  "sectors": [
+    "Gender and Minority Groups"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/chaynHQ/soulmedicine"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Chayn",
+      "website": "https://www.chayn.co",
+      "org_type": "owner",
+      "contact_name": "Naomi Alexander Naidoo",
+      "contact_email": "naomi@chayn.co"
+    }
+  ],
+  "stage": "nominee"
+}
