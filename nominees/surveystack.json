@@ -1,0 +1,51 @@
+{
+  "name": "SurveyStack",
+  "aliases": [
+    ""
+  ],
+  "description": "Survey software designed to empower shared community knowledge. SurveyStack helps support groups like yours, with custom tools and processes to get the data you need, where you need it. SurveyStack offers intuitive data collection, community management tools, flexible data processing, and visualizations and scripts to make your data work for your needs from thought to finish.",
+  "website": "http://surveystack.io",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://gitlab.com/our-sci/software/surveystack/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This is used with the Bionutrient Food Association group in order to collect and share food quality and nutrient density data.  We've collected thousands of data points across 40 states in the US and europe.",
+      "evidenceURL": "https://proofingfuture.eu/2022/02/09/bionutrient-food-association/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Used for distributed manufacturing groups - like through the group Beneficial Bio who uses our software to support their manufacturing in multiple continents",
+      "evidenceURL": "https://proofingfuture.eu/2022/03/01/beneficial-bio/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "We use surveystack with projects for carbon sequestration, for example the Quick Carbon project from Yale was performed in SurveyStack using Our Sci tools (Reflectometer)",
+      "evidenceURL": "https://proofingfuture.eu/2022/03/22/improved-ecosystem-services/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "SurveyStack Monorepo",
+      "url": "https://gitlab.com/our-sci/software/surveystack/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Our Sci LLC",
+      "website": "https://our-sci.net",
+      "org_type": "owner",
+      "contact_name": "Greg Austic",
+      "contact_email": "gbathree@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}

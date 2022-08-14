@@ -44,7 +44,9 @@
     {
       "name": "Foundation for Public Code",
       "website": "https://publiccode.net",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Boris van Hoytema",
+      "contact_email": "boris@publiccode.net"
     }
   ],
   "stage": "DPG"
