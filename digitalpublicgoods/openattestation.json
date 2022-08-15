@@ -52,8 +52,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Verification of uploaded OpenAttestation compatible documents are computed on the client-side. For the purposes of verification on the blockchain, only the merkle root values are communicated externally for comparison. At no point in time is PII data communicated outside the client-device. Verifiers are only allowed to verify documents that had been shared to them, and do not have access to any database(s). Thus, they are unable to access other persons' records."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -90,7 +90,7 @@
   },
   "locations": {
     "developmentCountries": [
-      ""
+      "Singapore"
     ],
     "deploymentCountries": [
       ""
