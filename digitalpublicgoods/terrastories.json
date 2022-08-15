@@ -77,9 +77,9 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "Community administrators have the ability to remove user accounts that are engaging in behavior such as grief, abuse, or harassment. Moreover, since community administrators must create and/or approve accounts and generally know the community members they are creating accounts for, they have the ability to prevent underage users from gaining access to their Terrastories community space if they are not supposed to. If account credentials get shared with either bad actors or underage users, the community administrators may remove the ability for that account to access or edit data. There is a system log that can be accessed to review any undesired behavior such as maliciously editing data on the Terrastories community. Community users may contact the administrator(s) in case of any suspected wrongdoing."
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
