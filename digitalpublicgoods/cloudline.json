@@ -5,14 +5,15 @@
     "copyrightURL": "https://www.flycloudline.com/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "PX4 designs its software around the Pixhawk Open Hardware Standards. They release hardware reference designs, which vendors should adopt in order to ensure PX4 compatibility. For example, one such hardware reference design is the FMUv5. CUAV adopted this design into their V5+ Autopilot product and, therefore, ensures the future compatibility with the PX4 firmware. Other components of the hardware standards include connectors, pinouts, communication links, etc. Vendors should adopt these in order to ensure the support of PX4."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://docs.px4.io/master/en/"
+      "https://docs.px4.io/master/en/",
+      "https://docs.px4.io/master/en/contribute/code.html"
     ]
   },
   "NonPII": {
@@ -21,25 +22,27 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "PX4 does not collect, store or distribute any data"
     ],
     "adherenceSteps": [
-      ""
+      "PX4 does not collect, store or distribute any data"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "APIs"
     ],
     "evidenceStandardSupport": [
-      "https://docs.px4.io/master/en/contribute/code.html"
+      "Drone Apps & APIs - https://docs.px4.io/main/en/robotics/",
+      "Open hardware standards can be found here - https://pixhawk.org/standards/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Design for Scale; Build for Sustainability; Be Data Driven; Use Open Standards, Open Source, Open Data and Open Innovation; Be Collaborative; Reuse and Improve"
+      "Design for Scale; Build for Sustainability; Be Data Driven; Use Open Standards, Open Source, Open Data and Open Innovation; Be Collaborative; Reuse and Improve",
+      "PX4 uses the Google C++ style guide - https://docs.px4.io/main/en/contribute/code.html"
     ]
   },
   "doNoHarm": {
@@ -57,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "PX4 does not collect, store or distribute any data"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
