@@ -31,7 +31,7 @@ Refer to [docs/development.md](docs/development.md) for information related to d
 
 ## Bugs
 
-If you notice anything amiss, please report any bugs [here](docs/bugs.md).
+If you notice anything amiss, refer [here](docs/bugs.md) on how to report bugs.
 
 ## :memo: License
 
