@@ -5,9 +5,9 @@
     "copyrightURL": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Please note the downloadable format is GeoTIFF, hence you need to use a downloader to get individual tiles from - https://env1.arcgis.com/arcgis/rest/services/Sentinel2_10m_LandCover/ImageServer"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
