@@ -10,7 +10,7 @@ We define digital public goods as *open source software, open data, open AI mode
 
 From the set of data files found in the [nominees](nominees/) and [digitalpublicgoods](digitalpublicgoods/) folders, [this list](https://digitalpublicgoods.net/explore/) of Digital Global Public Goods is automatically generated and kept in sync with the contents of this repo.
 
-Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](docs/archiving.md).
+Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](https://github.com/DPGAlliance/DPG-Standard/blob/main/archiving.md).
 
 ## 🙋🏽 How to nominate a Digital Public Good
 
@@ -31,7 +31,7 @@ Refer to [docs/development.md](docs/development.md) for information related to d
 
 ## Bugs
 
-If you notice anything amiss, refer to [BUGS.md](BUGS.md) on how to report bugs.
+If you notice anything amiss, please report any bugs [here](docs/bugs.md).
 
 ## :memo: License
 
