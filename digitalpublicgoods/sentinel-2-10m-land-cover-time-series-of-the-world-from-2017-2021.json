@@ -1,0 +1,92 @@
+{
+  "name": "Sentinel-2 10m Land Cover Time Series of the World from 2017-2021",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31",
+      "Please note the format is GeoTIFF, hence you need to use a downloader to get individual tiles - https://env1.arcgis.com/arcgis/rest/services/Sentinel2_10m_LandCover/ImageServer"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "This map does not collect or use any personal information that would require compliance with laws such as the EU's General Data Protection Regulation (GDPR) or the California Consumer Privacy Act of 2018 (CCPA)"
+    ],
+    "adherenceSteps": [
+      "Terms of Use listed at bottom of main webpage: https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31 "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The map supports geospatial standards (GeoTIFF)"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.ogc.org/standards/geotiff"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "SpatioTemporal Asset Catalogs (STAC), as described here: https://stacspec.org/",
+      "Cloud Optimized GeoTiff (COG), as described here: https://www.cogeo.org/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our validation processes used to estimate the accuracy of our map include a representative set of ecosystems and geographies from around the world to minimize any regional bias in the data."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "No data is collected.  No user data or personal information related to individuals is stored or distributed by the map. No data of any kind is stored or distributed beyond the actual data of the map, which is licensed under CC-BY-4.0 as open source."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
