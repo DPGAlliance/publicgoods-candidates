@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/MSH/PViMS/blob/devel/LICENSE"
+      "licenseURL": "https://github.com/MSH/PViMS-2/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -26,7 +26,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/MSH/PViMS"
+      "url": "https://github.com/MSH/PViMS-2"
     }
   ],
   "organizations": [
@@ -38,5 +38,5 @@
       "contact_email": "khoppenworth@mtapsprogram.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
