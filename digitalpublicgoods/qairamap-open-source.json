@@ -18,17 +18,17 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The data can be obtained from a direct connection to the database provided by qAIRa, this data will be displayed as long as there is an active Open Source measurement device. These monitoring devices  (qHAWAX), are called 'Open Source' when it is decided to make the monitoring data known through an agreement with people or institutions that we work with. A qHAWAX device is a continuous air quality monitoring module developed by the qAIRa. They can monitor up to 5 polluting gases, including carbon monoxide (CO), nitrogen dioxide (NO2), sulfur dioxide (SO2), ozone (O3), and hydrogen sulfide (H2S). In addition, the qHAWAX monitors the amount of dust or particles (PM2.5, PM10) in the air and other variables such as pressure, temperature, relative humidity, UV radiation and noise. The sending of data from the qHAWAX is through a 2G/3G mobile cellular network. The main value of the qHAWAX module is to be able to show the INCA value (Air Quality Index, established by the Ministry of the Environment of Peru), which allows evaluating the level of air quality through 4 colors."
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Currently the platform does not record personal information of any kind, it is for informational purposes"
     ],
     "adherenceSteps": [
-      ""
+      "Currently the platform does not record personal information of any kind, it is for informational purposes"
     ]
   },
   "standards": {
@@ -70,7 +70,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "- Use of SSL security certificates \n - Use of firewall to block unauthorized access."
+      "privacySecurityDescription": "Currently the platform does not record personal information of any kind, it is for informational purposes"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
