@@ -5,14 +5,14 @@
     "copyrightURL": "https://pvims.msh.org/security/landing"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Uses MS SQL Server as the database, however Entity Framework Core 6.0 supports other open functional alternative database providers such as MySQL and PostgreSQL. For more information, please refer here - https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/MSH/PViMS/tree/devel/Manuals"
+      "https://github.com/MSH/PViMS-2/tree/master/docs"
     ]
   },
   "NonPII": {
@@ -40,7 +40,7 @@
       "SQL"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/MSH/PViMS"
+      "https://github.com/MSH/PViMS-2"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
