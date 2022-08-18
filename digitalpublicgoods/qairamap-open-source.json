@@ -5,9 +5,9 @@
     "copyrightURL": "https://qaira.github.io/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "At the data level, there is a dependency on its extraction, this is because the platform depends on the availability of 'Open source' monitoring devices that are part of the qAIRa network. \n - At the software level, there is only one dependency related to the Google Maps libraries, on the other hand, all the components used are free."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
