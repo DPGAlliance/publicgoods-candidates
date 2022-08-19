@@ -1,0 +1,70 @@
+{
+  "name": "Sunbird UCI",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://uci.sunbird.org/engage/software-license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://uci.sunbird.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be exported via the Admin console UI and the API in a variety of standard formats. The adopter of UCI can choose to create custom mechanisms to allow extraction of the data. For example, DIKSHA UCI has created its own APIs for data exhaust to allow access of data to authorised users only.\n\nMechanism is detailed here - https://uci.sunbird.org/use/adopter/data-exhaust-and-analytics \n"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "UCI does not store any PII for the users. The only potential PII that it can collect and store is the user phone number or any other digital address like email address. Additionally, the onus is on the UCI Implementer to manage/flush PII information as per requirement. UCI complies with the following relevant laws - India's Personal Data Protection Bill (2019), The IT Act (2000) for its implementation in India"
+    ],
+    "adherenceSteps": [
+      "The adopter using UCI might decide to collect PII information and this is use case specific. We strongly recommend that applications do not collect this information if not required. We are in conversations with applications on what needs to be done to ensure that their install of UCI is GDPR compliant. This is similar to the ODK and Glific ecosystem, where the various SaaS providers of ODK enforce and implement GDPR compliance. Privacy policy: https://www.sunbird.org/privacy-policy and Terms & conditions: https://www.sunbird.org/terms-conditions"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "OpenWeb Standard such as - HTML, CSS, ECMAScript, LaTeX",
+      "Standard Content Format such as PDF, MP4, WebM, H5P, ePub, and more",
+      "XForm Specification",
+      "Accessibility - WCAG, Internationalisation",
+      "Security - PKI, HTTPS, JWT"
+    ],
+    "evidenceStandardSupport": [
+      "https://uci.sunbird.org/learn/tech-overview/standards"
+    ],
+    "bestPracticesList": [
+      "Yes, details at https://sunbird.org/explore/articles/2-thinking-microservice-architecture "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird software has implemented many best practices to keep user data safe and secure. Users are empowered to safeguard and share their data with appropriate consent management mechanisms. Default software has implemented data collection in an open and transparent manner. Sunbird software implements principles of minimalism, consent, transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy, and data security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
