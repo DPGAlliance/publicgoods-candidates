@@ -1,0 +1,36 @@
+{
+  "name": "Automatic Classification(Immediate diagnosis) and 3d Segmentation of BONE TUMOUR from  patient CT images",
+  "aliases": [
+    "AutoTumorDetect"
+  ],
+  "description": "Aim of this project is to use Artificial intelligence, specifically, deep learning methods to automate 3d bone tumor detection, segmentation, 3d  reconstruction and classification of pelvic bone tumours types by applying deep learning Convolutional Neural Networks on volume datasets of variety pelvic bone tumours types in nifty (.nii) format and apply convolutional networks UNET (in segmentation) and DenseNet (in classification) to extract the prediction training Model .All that done using python language and predefined image processing , convolution and image-to-numerical arrays-transforms libraries, Pytorch and MONAI  (Medical Open Network for AI )",
+  "website": "https://github.com/basharbme/MONAI-3D-Bone-tumor-segmentation-and-classification",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/biomedicalengineering/3D-Bone-cancer-segmentation-and-classification/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "increase society health quality , giving faster and simpler way for both patients and medical staff , accurate segmentation of tumor size , less complications for surgery and patients , coverage of more patients in short time",
+      "evidenceURL": "https://github.com/biomedicalengineering/3D-Pelvic-Bone-cancer-segmentation-and-classification"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Ingeneiria Biomedica Arte",
+      "website": "https://github.com/biomedicalengineering",
+      "org_type": "owner",
+      "contact_name": "Bashar Shami",
+      "contact_email": "biodevelopeng@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
