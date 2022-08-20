@@ -1,0 +1,59 @@
+{
+  "name": "Automatic Classification(Immediate diagnosis) and 3d Segmentation of BONE TUMOUR from  patient CT images",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/basharbme/MONAI-3D-Bone-tumor-segmentation-and-classification"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/basharbme/MONAI-3D-Bone-tumor-segmentation-and-classification/blob/main/DOCUMENTATION_FINAL.docx"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "just needs imaging data of patient , no need specify any personal information"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "high resolution CT images with clear ROI imaging "
+    ],
+    "standardsList": [
+      "standard of CT radiology imaging protocols , validation accuracy evaluation metrics,"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/basharbme/MONAI-3D-Bone-tumor-segmentation-and-classification/blob/main/PBT_3d_classification_Part_2_evaluation_claassification_model.ipynb"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "patient bone CT imaging radiology data",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Jordan"
+    ]
+  }
+}
