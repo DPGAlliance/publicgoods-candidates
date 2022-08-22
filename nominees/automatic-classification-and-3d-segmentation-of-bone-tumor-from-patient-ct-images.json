@@ -22,7 +22,12 @@
   "type": [
     "aimodel"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/biomedicalengineering/3D-Bone-cancer-segmentation-and-classification/blob/main/Pelvic_Bone_Tumour_segmentation_3d.ipynb"
+    }
+  ],
   "organizations": [
     {
       "name": "Ingeneiria Biomedica Arte",
