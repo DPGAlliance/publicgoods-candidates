@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Data can be exported via the Admin console UI and the API in a variety of standard formats. The adopter of UCI can choose to create custom mechanisms to allow extraction of the data. For example, DIKSHA UCI has created its own APIs for data exhaust to allow access of data to authorised users only.\n\nMechanism is detailed here - https://uci.sunbird.org/use/adopter/data-exhaust-and-analytics \n"
+    "nonPIIAccessMechanism": "Data can be exported via the Admin console UI and the API in a variety of standard formats. The adopter of UCI can choose to create custom mechanisms to allow extraction of the data. For example, DIKSHA UCI has created its own APIs for data exhaust to allow access of data to authorised users only.\n\nMechanism is detailed here - https://uci.sunbird.org/use/adopter/data-exhaust-and-analytics"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -43,7 +43,7 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Yes, details at https://sunbird.org/explore/articles/2-thinking-microservice-architecture "
+      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
     ]
   },
   "doNoHarm": {
@@ -61,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "UCI does not store any PII for the users. The only potential PII that it can collect and store is the user phone number or any other digital address like email address. Additionally, the onus is on the UCI Implementer to manage/flush PII information as per requirement. UCI complies with the following relevant laws - India's Personal Data Protection Bill (2019), The IT Act (2000) for its implementation in India"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
