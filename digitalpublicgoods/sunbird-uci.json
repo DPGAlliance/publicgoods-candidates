@@ -5,7 +5,9 @@
     "copyrightURL": "https://uci.sunbird.org/engage/software-license"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -29,7 +31,6 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "OpenWeb Standard such as - HTML, CSS, ECMAScript, LaTeX",
       "Standard Content Format such as PDF, MP4, WebM, H5P, ePub, and more",
@@ -40,6 +41,7 @@
     "evidenceStandardSupport": [
       "https://uci.sunbird.org/learn/tech-overview/standards"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Yes, details at https://sunbird.org/explore/articles/2-thinking-microservice-architecture "
     ]
@@ -50,13 +52,35 @@
       "additionalInfoMechanismProcessesPolicies": "Sunbird software has implemented many best practices to keep user data safe and secure. Users are empowered to safeguard and share their data with appropriate consent management mechanisms. Default software has implemented data collection in an open and transparent manner. Sunbird software implements principles of minimalism, consent, transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy, and data security."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
