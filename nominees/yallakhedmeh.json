@@ -1,31 +1,11 @@
 {
   "name": "Yallakhedmeh",
   "aliases": [
-    "Yallakhedmeh"
+    ""
   ],
-  "description": "an Application that contains more than 40 important community services. ",
+  "description": "An Application that contains more than 40 important community services. ",
   "website": "https://www.facebook.com/yallakhedmeh/",
   "license": [
-    {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-    },
-    {
-      "spdx": "Apache-1.1",
-      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-    },
-    {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-    },
-    {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-    },
-    {
-      "spdx": "Apache-2.0",
-      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-    },
     {
       "spdx": "Apache-2.0",
       "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
@@ -43,6 +23,11 @@
       "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.provider"
     },
     {
+      "SDGNumber": 7,
+      "evidenceText": "providing services to all areas at the lowest prices.",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
       "SDGNumber": 8,
       "evidenceText": "spread of the our App to all regions locally and globally by increasing of users.",
       "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
@@ -55,11 +40,6 @@
     {
       "SDGNumber": 17,
       "evidenceText": "our goal is provide services at the lowest price and fastest time in all countries",
-      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-    },
-    {
-      "SDGNumber": 7,
-      "evidenceText": "providing services to all areas at the lowest prices.",
       "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
     }
   ],
