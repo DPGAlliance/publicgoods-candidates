@@ -1,0 +1,86 @@
+{
+  "name": "Yallakhedmeh",
+  "aliases": [
+    "Yallakhedmeh"
+  ],
+  "description": "an Application that contains more than 40 important community services. ",
+  "website": "https://www.facebook.com/yallakhedmeh/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "spdx": "Apache-1.1",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "providing job opportunities by registering with the App .",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.provider"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "providing job opportunities for gender equity.",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.provider"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "spread of the our App to all regions locally and globally by increasing of users.",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "projects can use our App to provide the necessary services for construction.",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "our goal is provide services at the lowest price and fastest time in all countries",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "providing services to all areas at the lowest prices.",
+      "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "yallakhedmeh",
+      "url": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Yallakhedmeh ",
+      "website": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client",
+      "org_type": "owner",
+      "contact_name": "Ayman Abu salah",
+      "contact_email": "ayman.aqrabawi@hotmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
