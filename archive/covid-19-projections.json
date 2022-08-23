@@ -1,0 +1,32 @@
+{
+  "name": "COVID-19 Projections",
+  "description": "COVID-19 prediction model that uses AI and classic infections disease modeling to simulate the outbreak in each country, state, and region. It is the only model shared by the CDC that is not publicly funded, and factors in regional re-openings in their projections.",
+  "website": "https://covid19-projections.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/youyanggu/covid19_projections/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/youyanggu/covid19_projections"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Youyang Gu",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

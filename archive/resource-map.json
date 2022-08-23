@@ -1,0 +1,37 @@
+{
+  "name": "Resource Map",
+  "description": "A free, open-source tool that helps you make better decisions by giving you better insight into the location and distribution of your resources.",
+  "website": "https://resourcemap.instedd.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/instedd/resourcemap/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/instedd/resourcemap"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "InSTEDD",
+      "website": "https://instedd.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

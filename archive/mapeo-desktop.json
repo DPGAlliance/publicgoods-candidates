@@ -1,0 +1,34 @@
+{
+  "name": "Mapeo Desktop",
+  "description": "Mapeo is an open source, offline-first map editor. Mapeo makes it easy for individuals or teams to create maps and organize stories and knowledge.",
+  "website": "https://www.digital-democracy.org/mapeo/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/digidem/mapeo-desktop/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/digidem/mapeo-desktop"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Digital Democracy",
+      "website": "https://www.digital-democracy.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

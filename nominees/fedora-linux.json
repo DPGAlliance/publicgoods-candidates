@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://src.fedoraproject.org/",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://src.fedoraproject.org/"
+    }
+  ],
   "organizations": [
     {
       "name": "Fedora Project",

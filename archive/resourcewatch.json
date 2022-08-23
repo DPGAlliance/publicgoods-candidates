@@ -1,0 +1,37 @@
+{
+  "name": "ResourceWatch",
+  "description": "Resource Watch features hundreds of data sets all in one place on the state of the planet’s resources and citizens. Users can visualize challenges facing people and the planet, from climate change to poverty, water risk to state instability, air pollution to human migration, and more.",
+  "website": "https://resourcewatch.org/about",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/resource-watch/resource-watch/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 12
+    },
+    {
+      "SDGNumber": 9
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/resource-watch/resource-watch"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "World Resources Institute",
+      "website": "https://www.wri.org/about",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

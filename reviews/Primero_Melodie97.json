@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "Yes, this link points to an AGPL-3.0 license",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "The link took me to an error 404 page, so No, the evidence provided doesn't justify their relevance to SDG 5",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "The link took me to an error 404 page, so No, the evidence provided doesn't justify their relevance to SDG 8",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The link took me to an error 404 page, so No, the evidence provided doesn't justify their relevance to SDG 16",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "No evidence was provided, but ownership of the project and everything that the project produces is clearly defined and documented.\nhttps://github.com/primeroIMS/primero/blob/master/LICENSE\nThe link shows that the project is owned by UNICEF",
+    "confidence": 5
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Yes, the documentation provided satisfies the following criteria\nAlso this link - https://github.com/primeroIMS/primero - provides technical documentation that would allow a technical person unfamiliar with the project to launch and run the software.",
+    "confidence": 5
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "No, there is not enough evidence in the above description to reasonably assert that non-PII data can be imported or exported",
+    "confidence": 4
+  },
+  "user": "Melodie97",
+  "timestamp": 1635248879,
+  "timeTaken": 613
+}

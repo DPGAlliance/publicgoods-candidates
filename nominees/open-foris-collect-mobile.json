@@ -32,7 +32,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openforis/collect-mobile",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openforis/collect-mobile"
+    }
+  ],
   "organizations": [
     {
       "name": "Food and Agriculture Organization (FAO) of the United Nations",

@@ -1,0 +1,34 @@
+{
+  "name": "TideLine",
+  "description": "Library for Tidepool's timeline-style diabetes data visualization(s) used in Blip.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "BSD-2-Clause",
+      "licenseURL": "https://github.com/tidepool-org/tideline/blob/develop/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/tidepool-org/tideline"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "TidePool",
+      "website": "https://tidepool.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}
