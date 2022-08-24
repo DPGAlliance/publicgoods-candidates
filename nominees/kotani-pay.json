@@ -1,14 +1,14 @@
 {
   "name": "Kotani Pay",
   "aliases": [
-    "KP"
+    ""
   ],
-  "description": "A technology stack that connects blockchain protocols, dApps, and blockchain fintechs to local payment channels in Africa",
+  "description": "Kotani Pay is a stablecoin to fiat off-ramp and off-ramp service. The service is offered as an end to end API (Application Programming Interface) to enable other businesses to integrate and also as a USSD (Unstructured Supplementary Service Data) application for end-users to convert stablecoins to local fiat. A technology stack that connects blockchain protocols, dApps, and blockchain fintechs to local payment channels in Africa",
   "website": "https://kotanipay.com",
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/Kotani-Pay/Kotani-Pay-API/blob/main/LICENSE.txt"
+      "licenseURL": "https://github.com/kotanipay/Kotani-Pay-API/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -30,7 +30,7 @@
   "repositories": [
     {
       "name": "Kotani Pay API",
-      "url": "https://github.com/Kotani-Pay/Kotani-Pay-API"
+      "url": "https://github.com/kotanipay/Kotani-Pay-API"
     }
   ],
   "organizations": [
