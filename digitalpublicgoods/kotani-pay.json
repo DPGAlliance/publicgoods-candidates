@@ -2,7 +2,7 @@
   "name": "Kotani Pay",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/Kotani-Pay/Kotani-Pay-API/blob/main/LICENSE.txt"
+    "copyrightURL": "https://github.com/kotanipay/Kotani-Pay-API/blob/main/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
@@ -12,8 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/Kotani-Pay/docs",
-      "https://docs.kotanipay.com"
+      "https://docs.kotanipay.com",
+      "https://github.com/Kotani-Pay/docs"
     ]
   },
   "NonPII": {
@@ -43,7 +43,7 @@
       "Data Exchange (JSON)"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/Kotani-Pay/Kotani-Pay-API"
+      "https://github.com/kotanipay/Kotani-Pay-API"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
