@@ -1,0 +1,51 @@
+{
+  "name": "Sunbird UCI",
+  "aliases": [
+    "UCI"
+  ],
+  "description": "Sunbird UCI (Unified Communications Interface) is an open-source configurable platform to enable multi-channel, personalised chatbot conversations and nudges across various channels such as WhatsApp, Telegram, SMS, email, etc. for governance use cases.",
+  "website": "https://uci.sunbird.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/samagra-comms/uci-apis/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Ministry of Education (MoE), Government of India's DIKSHA Platform uses Sunbird UCI as a medium for states to configure interactive WhatsApp chatbot conversations for education use cases. The use cases range from academic quizzes and self-paced learning material distribution for students to academic surveys and forms used by teachers and administrators. Any user can go to the Diksha Tara Bot (+91 93102 00148), type the starting message and start using the bot.",
+      "evidenceURL": "https://drive.google.com/file/d/1wp2QlcLae3plH9zmBQudFs5A0BZwJ-A4/view"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "The Employment Department, Government of Haryana leveraged Sunbird UCI to create a WhatsApp Bot (Rozgar Bot) for employment linkages. This bot enabled employers to post the job openings and interested candidates to apply for relevant job roles. ",
+      "evidenceURL": "https://drive.google.com/file/d/1UJ81Q7pknXjcSN4fiBCXnw8lOr-OIurC/view?usp=sharing"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "UCI is a digital infrastructure that powers conversational use cases across domains such as education, healthcare delivery, agriculture, employment and skilling, local governance and service delivery et. al. Any adopter across these domains can use UCI to enable two key features: 1) Creation of a 2 way conversations for their end user 2) Direct notification/nudges to a targeted set of relevant end users.",
+      "evidenceURL": "https://uci.sunbird.org/learn/uci-use-cases"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Sunbird Unified Communications Interface (UCI)",
+      "url": "https://github.com/samagra-comms/uci-apis"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Samagra | Transforming Governance",
+      "website": "https://www.samagragovernance.in",
+      "org_type": "owner",
+      "contact_name": "Ujjwal Relan",
+      "contact_email": "org@samagragovernance.in"
+    }
+  ],
+  "stage": "nominee"
+}
