@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://uci.sunbird.org/engage/software-license"
+      "licenseURL": "https://github.com/samagra-comms/uci-apis/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -35,7 +35,7 @@
   "repositories": [
     {
       "name": "Sunbird Unified Communications Interface (UCI)",
-      "url": "https://github.com/samagra-comms"
+      "url": "https://github.com/samagra-comms/uci-apis"
     }
   ],
   "organizations": [
