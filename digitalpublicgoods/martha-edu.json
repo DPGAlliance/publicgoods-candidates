@@ -1,0 +1,55 @@
+{
+  "name": "Martha EDU",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://learn.marthaedu.com/home/terms_and_condition"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://learn.marthaedu.com/home/privacy_policy"
+    ],
+    "adherenceSteps": [
+      "https://learn.marthaedu.com/home/terms_and_condition"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Videos",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Unknown",
+      "policyGuidelinesDocumentationLink": "https://learn.marthaedu.com/home/privacy_policy"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Jordan"
+    ],
+    "deploymentCountries": [
+      "Jordan"
+    ]
+  }
+}
