@@ -1,0 +1,44 @@
+{
+  "name": "Catalog",
+  "aliases": [
+    ""
+  ],
+  "description": "CATALOG is an online multi-vendor platform that delivers best technology, user experience, & products for home renovation and design. Connecting homeowners, home professionals, and suppliers.",
+  "website": "https://catalogjo.com/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://catalogjo.com/about/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://catalogjo.com/about/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "kinsta",
+      "url": "https://kinsta.com/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Catalog",
+      "website": "https://catalogjo.com/",
+      "org_type": "owner",
+      "contact_name": "Hana Khairi",
+      "contact_email": "info@catalogjo.com"
+    }
+  ],
+  "stage": "nominee"
+}
