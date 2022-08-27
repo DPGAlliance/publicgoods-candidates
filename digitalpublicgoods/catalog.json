@@ -1,0 +1,75 @@
+{
+  "name": "Catalog",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://catalogjo.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://wordpress.org/support/article/formatting-date-and-time/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://catalogjo.com/privacy/"
+    ],
+    "adherenceSteps": [
+      "https://catalogjo.com/privacy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "https://catalogjo.com/terms-and-conditions-of-use/"
+    ],
+    "evidenceStandardSupport": [
+      "https://catalogjo.com/terms-and-conditions-of-use/",
+      "https://catalogjo.com/privacy/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://wordpress.org/support/article/formatting-date-and-time/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://catalogjo.com/privacy/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "home renovation and construction products",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "No",
+      "policyGuidelinesDocumentationLink": "https://catalogjo.com/terms-and-conditions-of-use/"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://catalogjo.com/privacy/"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Jordan"
+    ],
+    "deploymentCountries": [
+      "Jordan"
+    ]
+  }
+}
