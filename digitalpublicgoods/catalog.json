@@ -5,7 +5,9 @@
     "copyrightURL": "https://catalogjo.com/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -15,7 +17,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Unknown"
+    "checkNonPIIAccessMechanism": "Unknown",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -46,21 +49,34 @@
       "additionalInfoMechanismProcessesPolicies": "https://catalogjo.com/privacy/"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "home renovation and construction products",
-      "contentFilter": "Yes",
-      "illegalContentDetection": "No",
-      "policyGuidelinesDocumentationLink": "https://catalogjo.com/terms-and-conditions-of-use/"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Unknown",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "https://catalogjo.com/privacy/"
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
       ]
     }
   },
