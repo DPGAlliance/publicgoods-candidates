@@ -1,0 +1,63 @@
+{
+  "name": "Open partners",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://docs.google.com/document/d/e/2PACX-1vQzHarmsqn1DNQwqKHgSEgGXmibnUhHemGBw3sFGGnQu8pOXoLbeQ0jMp91nUdYox2mt0FuJC9jADNi/pub"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes"
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Donnée crypté au niveau du serveur serveur",
+      "Accès est règlementer par clé de cryptage"
+    ],
+    "adherenceSteps": []
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Mot de pass",
+        "Nom d'utilisateur"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Budget financier  ",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Senegal"
+    ],
+    "deploymentCountries": [
+      "Senegal"
+    ]
+  }
+}
