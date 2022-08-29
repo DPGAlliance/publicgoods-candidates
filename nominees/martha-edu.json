@@ -29,12 +29,18 @@
       "evidenceText": "Peace-building: By substantially contributing to dialogue and creating the space and time for conversations in communities and households instead of the unfortunately common violent and inhumane practices against people with hearing disabilities. Advocating for D/deaf Children and People: We work with the D/deaf to develop our products and build platforms on which their stories reach more segments of society, decision-makers and international community. "
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
-    "standard",
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://learn.marthaedu.com/home/courses"
+    }
+  ],
   "organizations": [
     {
       "name": "Martha EDU",
