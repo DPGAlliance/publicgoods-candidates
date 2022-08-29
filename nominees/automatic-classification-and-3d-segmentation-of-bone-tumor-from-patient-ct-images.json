@@ -14,8 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "Increase society health quality , giving faster and simpler way for both patients and medical staff , accurate segmentation of tumor size , less complications for surgery and patients , coverage of more patients in short time",
-      "evidenceURL": "https://github.com/biomedicalengineering/3D-Pelvic-Bone-cancer-segmentation-and-classification"
+      "evidenceText": "Increase society health quality , giving faster and simpler way for both patients and medical staff , accurate segmentation of tumor size , less complications for surgery and patients , coverage of more patients in short time"
     }
   ],
   "sectors": [],
