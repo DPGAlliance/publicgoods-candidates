@@ -1,0 +1,48 @@
+{
+  "name": "Open partners",
+  "aliases": [
+    "Openpartners"
+  ],
+  "description": "Open partners is an open source project that aims to solve a recurring problem in the health system which is the management of supporting documents. several activities are subject to a lack of justification documents, which is why we volunteered with the help of the donors to put in place a system that manages from the creation of the budget lines to the justification of the activity going through the attendance sheets, the state of payments and the management of reports, TDR and budget as well as overruns",
+  "website": "https://github.com/rassouldev/Openpartners.git",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/rassouldev/Openpartners/blob/b1c7fa24a925df1d58b73d236eaea1dd01e9db09/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Troubleshoot voucher issues"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Have the supporting documents before disbursement of another activity automatically in the software."
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "A single financial management system that manages the management of program activities."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/rassouldev/Openpartners.git",
+      "name": "Openpartners"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "CARBONE GROUP",
+      "website": "http://carbonesoft.com/",
+      "org_type": "owner",
+      "contact_name": "MEISSA SECK",
+      "contact_email": "rassoul@seck.tech"
+    }
+  ],
+  "stage": "nominee"
+}
