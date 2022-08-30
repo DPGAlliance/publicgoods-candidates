@@ -1,0 +1,73 @@
+{
+  "name": "Vxnaid - Vaccination Monitoring Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/johnsonandjohnson/vxnaid/wiki"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/johnsonandjohnson/vxnaid/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "AU Treaty and EU GDPR "
+    ],
+    "adherenceSteps": [
+      "Formal data privacy assessment of relevant legal requirements by an independent agency with a view to potential deployment of platform in RLS countries"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "CIEL; ICD-9, ICD-10, ICD-11"
+    ],
+    "bestPracticesList": [
+      "J&J Software development best practices and FLCD approachh"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "appropriate open source license terms"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "vaccinee number and limited demographics; vaccination status"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Belgium"
+    ],
+    "deploymentCountries": [
+      "Rwanda",
+      "Sierra Leone",
+      "Democratic Republic of the Congo",
+      "Mali",
+      "Philippines",
+      "Colombia",
+      "Tanzania"
+    ]
+  }
+}
