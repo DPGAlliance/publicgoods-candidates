@@ -17,12 +17,12 @@
       "evidenceText": "Troubleshoot voucher issues"
     },
     {
-      "SDGNumber": 17,
-      "evidenceText": "Have the supporting documents before disbursement of another activity automatically in the software."
-    },
-    {
       "SDGNumber": 9,
       "evidenceText": "A single financial management system that manages the management of program activities."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Have the supporting documents before disbursement of another activity automatically in the software."
     }
   ],
   "sectors": [],
@@ -31,8 +31,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/rassouldev/Openpartners.git",
-      "name": "Openpartners"
+      "name": "main",
+      "url": "https://github.com/rassouldev/Openpartners.git"
     }
   ],
   "organizations": [
