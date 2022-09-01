@@ -1,0 +1,69 @@
+{
+  "name": "Play A Song - Save A Dog",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.willivision.com"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.thesound.com"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)",
+      "California and Nevada state privacy laws"
+    ],
+    "adherenceSteps": [
+      "This project does not collect any personal data."
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "This project has a user-centered design, is collaborative with musicians, designed for scale, is data driven, and uses open standards."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We rescue abandoned dogs from being killed on the highway."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "music files",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://artists.spotify.com/en/help/article/prohibited-content",
+      "illegalContentDetectionMechanism": "https://artists.spotify.com/en/help/article/prohibited-content"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Ukraine",
+      "Mexico",
+      "Portugal"
+    ],
+    "deploymentCountries": [
+      "United States of America",
+      "Mexico",
+      "Ukraine"
+    ]
+  }
+}
