@@ -1,0 +1,36 @@
+{
+  "name": "Play A Song - Save A Dog",
+  "aliases": [
+    "TheSound"
+  ],
+  "description": "Free Music Supports Animal Rescue Efforts",
+  "website": "https://www.thesound.com",
+  "license": [
+    {
+      "spdx": "CC-BY-1.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc/1.0/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Project Owner Willivision Foundation Inc is a 501 (c) (3) supports animal rescue efforts",
+      "evidenceURL": "http://www.willivision.com"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "WILLIVISION FOUNDATION INC",
+      "website": "https://www.willivision.com",
+      "org_type": "owner",
+      "contact_name": "William Vinson",
+      "contact_email": "willivision@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
