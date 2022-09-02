@@ -1,0 +1,40 @@
+{
+  "name": "NioViz for Digital Government",
+  "aliases": [
+    "Apache Superset"
+  ],
+  "description": "We are a startup based in India and with our subsidiary in USA. We are building a data visualization and data exploration tool using Apache Superset specifically customizable for Government. This would help governments to democratize their data and empower all government staff to use data for their decision making ",
+  "website": "https://superset.apache.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://apache.org/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Data is new Oil. It can be applied to all SDG."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/apache/superset",
+      "name": "superset"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Apache Software Foundation",
+      "website": "https://apache.org/",
+      "org_type": "maintainer",
+      "contact_name": "Apache",
+      "contact_email": "press@apache.org"
+    }
+  ],
+  "stage": "nominee"
+}
