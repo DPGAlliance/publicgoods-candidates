@@ -23,8 +23,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/apache/superset",
-      "name": "superset"
+      "name": "superset",
+      "url": "https://github.com/apache/superset"
     }
   ],
   "organizations": [
