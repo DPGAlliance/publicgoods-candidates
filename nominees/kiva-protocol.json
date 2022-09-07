@@ -32,7 +32,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/kiva"
+      "url": "https://github.com/kiva/protocol-common"
     }
   ],
   "organizations": [
