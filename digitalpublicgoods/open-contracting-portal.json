@@ -48,7 +48,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "- We recommend and use security certificates in our deployments, as well as best practices that are aligned with the government or organization hosting the application. \n - Use an irreversible encryption key to store passwords so they can’t be guessed if hacked. \n- As part of the deployment, we advise on secure hosting of the platform after we transferred hosting to the county recommending use of a secure cloud environment using only secure certificates so that it's difficult to tamper with the deployed platform."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -62,7 +62,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "- Strong password policy including requirements so that registered users can't use simple passwords (e.g. use of numbers, length, complexity rules) \n - Accounts can be deleted by administrators only (for registered users) - centralized administration so that the government agency has control over employee access. \n - The extent of the personal data collected  is names and emails of platforms users for login/notifications exclusively. \n - From the public, they can be subscribed for updates via email; we don’t collect names, just email addresses that are not published in the portal, only used internally for notifications. \n - Explicit mandate to not publishing data for evaluation committees; in the procurement process there’s an evaluation committee and documentation in which you could see the names and contact info of evaluators. There was concern this would be open to harassment/reduce transparency in the procurement process."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
