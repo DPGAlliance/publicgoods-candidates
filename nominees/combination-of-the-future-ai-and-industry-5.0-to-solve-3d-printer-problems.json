@@ -1,0 +1,48 @@
+{
+  "name": "Combination of the future: AI and industry 5.0 to solve 3D printer problems",
+  "aliases": [
+    "3DAI5.0"
+  ],
+  "description": "Use AI and other advanced technologies in industry 5.0 to solve the problems of 3D printers",
+  "website": "https://github.com/AI53D?tab=projects",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Support Industry 5.0"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "eliminate the defects and time and cost"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Need no energy "
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "Optimise the production with better finishing for the products and free defects"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "3DAI5.0",
+      "website": "https://github.com/AI53D?tab=projects",
+      "org_type": "owner",
+      "contact_name": "Saba AbuDalu",
+      "contact_email": "saba.abudalu@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
