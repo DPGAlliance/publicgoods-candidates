@@ -1,0 +1,90 @@
+{
+  "name": "E-Heza Digital Data Solutions",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://tip-global-health.github.io/eheza-documentation/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Non-PII data can be extracted using the export function within the E-Heza backend application."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Rwandan Data Protection Law"
+    ],
+    "adherenceSteps": [
+      "For countries using the E-Heza software in other regions are responsible for complying with local legislation."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "FHIR",
+      "ICD-11",
+      "WCAG 2.1"
+    ],
+    "bestPracticesList": [
+      "E-Heza is developed in line with the Principles for Digital Development.",
+      "E-Heza development follows an agile development process, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Date of Birth",
+        "Address",
+        "Contact Information",
+        "National ID number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "E-Heza is designed to be used only by healthcare workers and implementing organizations are responsible for screening healthcare workers for age. Each device is prescribed a unique pairing PIN which can only be set by an administrator and access is provided to healthcare workers with a unique PIN which identifies them on the device"
+      ],
+      "harassmentProtectionSteps": [
+        "E-Heza discussion and development is guided by: https://tip-global-health.github.io/eheza-documentation/community_docs/contribute-eheza/#code-of-conduct ",
+        "E-Heza is actively moderated by the E-Heza project lead, who can flag and remove content or comments as needed."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Rwanda",
+      "United States of America",
+      "Canada",
+      "Israel",
+      "Hungary",
+      "Argentina",
+      "Spain",
+      "Russia"
+    ],
+    "deploymentCountries": [
+      "Rwanda"
+    ]
+  }
+}
