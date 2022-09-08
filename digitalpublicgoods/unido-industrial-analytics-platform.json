@@ -1,0 +1,57 @@
+{
+  "name": "UNIDO Industrial Analytics Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://open.unido.org/projects/M0/projects/190326"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Open content"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://iap.unido.org/articles"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Adhering to the UN Privacy Policy Group"
+    ],
+    "adherenceSteps": [
+      "https://www.unido.org/overview/disclaimer",
+      "https://unsceb.org/privacy-principles"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The content is moderated and reviewed by a team before it is published for others to reshape or reuse."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [],
+    "deploymentCountries": []
+  }
+}
