@@ -1,7 +1,7 @@
 {
-  "name": "E-Heza Digital Data Solutions",
+  "name": "E-Heza",
   "aliases": [
-    "E-Heza "
+    "E-Heza Digital Data Solutions"
   ],
   "description": "E-Heza Data Solutions is a digital app designed by and for the frontline health worker that can be used on a smartphone or tablet.",
   "website": "https://tip-global-health.github.io/eheza-documentation/",
@@ -18,7 +18,7 @@
     },
     {
       "SDGNumber": 3,
-      "evidenceText": " E- Heza supports the good health and well being goal by providing healthcare workers with an efficient interface for providing maternal and child healthcare according to protocols and international standards, and to pass patient data, including diagnosis and treatments, across levels of care.    Among the hundreds of healthcare workers using E-Heza, quality of care has been shown to have increased by 120% and have documented 150 minutes saved per patient interaction. E-Heza supports comprehensive primary care across the entire spectrum of maternal and child health, as well as non-communicable diseases of hypertension and type 2 diabetes. Data collected can easily provide reports on most SDG indicators, particularly for SDG 3.1 (Decrease global maternal mortality), SDG 3.2 (End preventable deaths of newborns and children under 5), SDG 3.3 (Fight communicable diseases), SDG 3.4 (Reduce mortality from non-communicable diseases and promote mental health), and SDG 3.8 (Achieve Universal Health Coverage- RMNCH branch)."
+      "evidenceText": "E-Heza supports the good health and well being goal by providing healthcare workers with an efficient interface for providing maternal and child healthcare according to protocols and international standards, and to pass patient data, including diagnosis and treatments, across levels of care.    Among the hundreds of healthcare workers using E-Heza, quality of care has been shown to have increased by 120% and have documented 150 minutes saved per patient interaction. E-Heza supports comprehensive primary care across the entire spectrum of maternal and child health, as well as non-communicable diseases of hypertension and type 2 diabetes. Data collected can easily provide reports on most SDG indicators, particularly for SDG 3.1 (Decrease global maternal mortality), SDG 3.2 (End preventable deaths of newborns and children under 5), SDG 3.3 (Fight communicable diseases), SDG 3.4 (Reduce mortality from non-communicable diseases and promote mental health), and SDG 3.8 (Achieve Universal Health Coverage- RMNCH branch)."
     }
   ],
   "sectors": [],
@@ -27,8 +27,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/TIP-Global-Health/eheza-app",
-      "name": "E-Heza App"
+      "name": "E-Heza App",
+      "url": "https://github.com/TIP-Global-Health/eheza-app"
     }
   ],
   "organizations": [
