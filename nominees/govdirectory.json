@@ -20,13 +20,7 @@
   ],
   "sectors": [],
   "type": [
-    "data"
-  ],
-  "repositories": [
-    {
-      "name": "Topics",
-      "url": "https://www.govdirectory.org/topics/"
-    }
+    "content"
   ],
   "organizations": [
     {
