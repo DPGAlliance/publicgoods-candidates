@@ -1,0 +1,54 @@
+{
+  "name": "Your Priorities",
+  "aliases": [
+    ""
+  ],
+  "description": "Your Priorities is a cloud-based online idea generation, deliberation & decision-making platform connecting governments and citizens, evolving since 2008 in thousands of projects, connecting millions of citizens to governments.",
+  "website": "https://citizens.is/your-priorities-features-overview/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/CitizensFoundation/your-priorities-app/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Your Priorities is used in cities around the world enabling citizens to participate in order to help cities take better decisions on budgets and policies. An example is Better Reykjavik, a platform run in collaboration with the city of Reykjavik since the year 2010..",
+      "evidenceURL": "https://citizens.is/portfolio_page/better_reykjavik/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Your Priorities helps governments around the world include citizens in decision making. Your Priorities has been used in over 25 countries on 5 continents. Here is an example on how the Scottish Parliament used Your Priorities ensure citizens can participate in decision making.",
+      "evidenceURL": "https://citizens.is/portfolio_page/engage-scottish-parliament/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Your Priorities API & Progressive Web App",
+      "url": "https://github.com/CitizensFoundation/your-priorities-app"
+    },
+    {
+      "name": "Your Priorities Active Citizen AI Library",
+      "url": "https://github.com/CitizensFoundation/active-citizen"
+    },
+    {
+      "name": "Your Priorities AI Analytics Backend",
+      "url": "https://github.com/CitizensFoundation/ac-analytics-api"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Citizens Foundation",
+      "website": "https://citizens.is/",
+      "org_type": "owner",
+      "contact_name": "Robert Bjarnason",
+      "contact_email": "robert@citizens.is"
+    }
+  ],
+  "stage": "nominee"
+}
