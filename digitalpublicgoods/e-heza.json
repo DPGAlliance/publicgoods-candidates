@@ -1,11 +1,13 @@
 {
-  "name": "E-Heza Digital Data Solutions",
+  "name": "E-Heza",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://www.apache.org/licenses/LICENSE-2.0"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -29,12 +31,15 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "FHIR",
       "ICD-11",
       "WCAG 2.1"
     ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "E-Heza is developed in line with the Principles for Digital Development.",
       "E-Heza development follows an agile development process, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
@@ -42,7 +47,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -54,18 +60,27 @@
         "National ID number"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "E-Heza is designed to be used only by healthcare workers and implementing organizations are responsible for screening healthcare workers for age. Each device is prescribed a unique pairing PIN which can only be set by an administrator and access is provided to healthcare workers with a unique PIN which identifies them on the device"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "E-Heza discussion and development is guided by: https://tip-global-health.github.io/eheza-documentation/community_docs/contribute-eheza/#code-of-conduct ",
         "E-Heza is actively moderated by the E-Heza project lead, who can flag and remove content or comments as needed."
