@@ -1,0 +1,165 @@
+{
+  "name": "Uwazi",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://uwazi.io/en/page/w4feakb1j3p/about"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://uwazi.readthedocs.io/",
+      "Installation guide - https://github.com/huridocs/uwazi#development",
+      "Dependencies - https://github.com/huridocs/uwazi#dependencies",
+      "https://huridocs.org/technology/uwazi/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Uwazi has an import and export functionality for CSV files. It also has an API."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Cookies Policy - https://huridocs.org/cookies-policy/",
+      "Privacy Policy - https://huridocs.org/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JSON",
+      "JavaScript",
+      "REST API"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/huridocs/uwazi#development"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design With the User",
+      "Understand the Existing Ecosystem",
+      "Design for Scale ",
+      "Build for Sustainability ",
+      "Be Data Driven",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation",
+      "Reuse and Improve",
+      "Address Privacy & Security",
+      "Be Collaborative",
+      "Agile Principles",
+      "Automated Testing"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Internal security review of all code and regular 3rd party security audits."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Uwazi only uses cookies for users that log in into the platform, for example, to upload content into the instance.",
+        "We might also use third party cookies, on the request of a partner, for example, Google Analytics. ",
+        "We collect IP address information for security reasons and statistical analysis of the traffic, and keep an access log during 3 months.",
+        "Uwazi is often used to record and manage information about human rights violations, but this information is accessible only to the organisations managing a respective collection."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "Hosting and processing: the HURIDOCS Websites and HURIDOCS Applications/Tools are hosted by third party service providers and therefore any personal details you submit through a HURIDOCS Website and/or HURIDOCS Applications/Tools may be processed by that third party service provider. We may also use other third parties to process your personal details. For example, such third parties may process your personal information to process donations to HURIDOCS on our behalf or process and forward mailing information for users to sign up to our online actions and/or choose to subscribe to our email updates. All of these third party services providers will process your personal information only on HURIDOCS’ behalf and will be bound by strict confidentiality conditions. Link: https://huridocs.org/privacy-policy/"
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Uwazi only uses cookies for users that log in into the platform, for example, to upload content into the instance. We might also use third party cookies, on the request of a partner, for example, Google Analytics. We collect IP address information for security reasons and statistical analysis of the traffic, and keep an access log during 3 months. For more details visit the Cookies Policy - https://huridocs.org/cookies-policy/ "
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Human rights documentation (information on human rights violations, general human rights information, legal documents, court cases, academic resources, legal resources, photos, audio files, videos and other information that users see fit to upload to their collections.",
+      "contentFilter": "No",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Since we work with human rights organisations, we anticipate that this is taken care of by selecting who we work with."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "We have provided an email address for reporting abuse, harassment or improper conduct. This goes directly to our Chief Technology Officer and Director of Programmes, who will review and investigate any issues further."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Contributor Covenant Code of Conduct - https://github.com/huridocs/uwazi/blob/development/CODE_OF_CONDUCT.md",
+        "We have provided an email address for reporting abuse, harassment or improper conduct. This goes directly to our Chief Technology Officer and Director of Programmes, who will review and investigate any issues further."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Argentina",
+      "Costa Rica",
+      "Egypt",
+      "Ecuador",
+      "El Salvador",
+      "France",
+      "Hungary",
+      "India",
+      "Italy",
+      "Kenya",
+      "Mexico",
+      "Nepal",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Sri Lanka",
+      "Switzerland",
+      "Turkey",
+      "United States of America",
+      "Uruguay",
+      "Poland"
+    ],
+    "deploymentCountries": [
+      "Argentina",
+      "Bangladesh",
+      "Bolivia",
+      "Egypt",
+      "France",
+      "Gambia",
+      "Germany",
+      "India",
+      "Iran",
+      "Kenya",
+      "Lebanon",
+      "Libya",
+      "Malaysia",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "North Korea",
+      "Palestine State",
+      "Peru",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "Switzerland",
+      "Syria",
+      "Thailand",
+      "Turkey",
+      "United Kingdom",
+      "Uganda",
+      "Ukraine",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen",
+      "Zimbabwe"
+    ]
+  }
+}

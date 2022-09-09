@@ -34,7 +34,9 @@
     {
       "name": "VillageReach",
       "website": "https://www.villagereach.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Pranil Singh",
+      "contact_email": "pranil.singh@openlmis.org"
     }
   ],
   "stage": "DPG"
