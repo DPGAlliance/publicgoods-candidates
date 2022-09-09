@@ -31,7 +31,9 @@
     {
       "name": "IntraHealth International",
       "website": "https://www.intrahealth.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Caitlin Loehr",
+      "contact_email": "cloehr@intrahealth.org"
     }
   ],
   "stage": "DPG"
