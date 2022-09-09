@@ -1,14 +1,14 @@
 {
-  "name": "Esri 2020 Land Cover",
+  "name": "Sentinel-2 10m Land Cover Time Series of the World from 2017-2021",
   "aliases": [
     ""
   ],
-  "description": "Esri 2020 Land Cover Map provides public access to global land use and land cover data with 10 meter resolution.",
-  "website": "https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac",
+  "description": "Sentinel-2 10m Land Cover Time Series provides public access to global land use and land cover data of the world from 2017-2021 with 10 meter resolution.",
+  "website": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31",
   "license": [
     {
       "spdx": "CC-BY-4.0",
-      "licenseURL": "https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac"
+      "licenseURL": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
     }
   ],
   "SDGs": [
@@ -40,7 +40,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": ""
+      "url": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
     }
   ],
   "organizations": [
@@ -52,5 +52,5 @@
       "contact_email": "katy@impactobservatory.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
