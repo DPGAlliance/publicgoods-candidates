@@ -23,7 +23,7 @@
   ],
   "repositories": [
     {
-      "name": "ocportal",
+      "name": "main",
       "url": "https://github.com/devgateway/ocportal"
     }
   ],
@@ -36,5 +36,5 @@
       "contact_email": "fferreyra@developmentgateway.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

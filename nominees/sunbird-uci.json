@@ -34,8 +34,16 @@
   ],
   "repositories": [
     {
-      "name": "Sunbird Unified Communications Interface (UCI)",
+      "name": "APIs",
       "url": "https://github.com/samagra-comms/uci-apis"
+    },
+    {
+      "name": "Inbound",
+      "url": "https://github.com/samagra-comms/inbound"
+    },
+    {
+      "name": "Transformer",
+      "url": "https://github.com/samagra-comms/transformer"
     }
   ],
   "organizations": [
@@ -47,5 +55,5 @@
       "contact_email": "org@samagragovernance.in"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
