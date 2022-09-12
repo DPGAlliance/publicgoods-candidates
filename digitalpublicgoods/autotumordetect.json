@@ -1,5 +1,5 @@
 {
-  "name": "Automatic Classification and 3D Segmentation of Bone Tumor from Patient CT Images",
+  "name": "AutoTumorDetect",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://github.com/basharbme/MONAI-3D-Bone-tumor-segmentation-and-classification"
