@@ -1,0 +1,41 @@
+{
+  "name": "Govdirectory",
+  "aliases": [
+    "WikiProject Govdirectory"
+  ],
+  "description": "A crowdsourced and fact-checked directory of official governmental online accounts and services. The easiest way to contact your government.",
+  "website": "https://govdirectory.org",
+  "license": [
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://github.com/govdirectory/website/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Our vision is \"Our vision is a world where people are empowered to engage with their government to ensure responsive, inclusive, participatory and representative decision-making at all levels.\"  and our mission is \"We will enable a community powered directory where the online presence of every public organization is easily findable, queryable and trustworthy.\". Together, they are directly related to target 16.7 and 16.8.",
+      "evidenceURL": "https://www.govdirectory.org/about/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "Topics",
+      "url": "https://www.govdirectory.org/topics/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Govdirectory",
+      "website": "https://github.com/govdirectory",
+      "org_type": "maintainer",
+      "contact_name": "Jan Ainali",
+      "contact_email": "ainali.jan@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
