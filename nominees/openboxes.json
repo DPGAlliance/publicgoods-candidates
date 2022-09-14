@@ -1,39 +1,36 @@
 {
   "name": "OpenBoxes",
   "aliases": [
-    ""
+    "OB"
   ],
-  "description": "OpenBoxes is an open-source logistics management information system (LMIS) designed to serve the supply-chain management demands of public health systems. ",
-  "website": "https://www.openboxes.com",
+  "description": "Open source LMIS system designed for health systems in developing countries",
+  "website": "http://www.openboxes.com",
   "license": [
     {
       "spdx": "EPL-1.0",
-      "licenseURL": "https://github.com/openboxes/openboxes/blob/develop/epl-v10.html"
+      "licenseURL": "https://github.com/openboxes/openboxes/blob/develop/epl-v10.htmlc"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "OpenBoxes provides health organizations with a free logistics management solutions designed for use in developing countries.",
-      "evidenceURL": "https://www.pih.org/article/need-know-openboxes-and-supply-chain"
+      "evidenceText": "OpenBoxes is designed specifically to support logistics at low-resource health facilities"
     }
   ],
-  "sectors": [
-    "Health"
-  ],
+  "sectors": [],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "main",
-      "url": "https://github.com/openboxes/openboxes"
+      "name": "OpenBoxes",
+      "url": "https://github.com/openboxes"
     }
   ],
   "organizations": [
     {
-      "name": "Partner in Health",
-      "website": "https://www.pih.org",
+      "name": "Partners in Health",
+      "website": "http://www.pih.org",
       "org_type": "maintainer",
       "contact_name": "Kelsey Nagel",
       "contact_email": "knagel@pih.org"
