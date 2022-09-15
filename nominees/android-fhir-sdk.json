@@ -18,14 +18,16 @@
       "evidenceURL": "https://www.who.int/teams/digital-health-and-innovation/smart-guidelines/fhir-based-smart-guidelines"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://github.com/google/android-fhir",
-      "name": "Android FHIR SDK"
+      "name": "Android FHIR SDK",
+      "url": "https://github.com/google/android-fhir"
     }
   ],
   "organizations": [
