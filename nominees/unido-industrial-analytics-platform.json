@@ -3,7 +3,7 @@
   "aliases": [
     "IAP"
   ],
-  "description": "UNIDO’s IAP is a data-driven knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.",
+  "description": "UNIDO's IAP is a data-driven knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.",
   "website": "https://iap.unido.org",
   "license": [
     {
@@ -13,14 +13,14 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 9,
-      "evidenceText": "The SDG-9 Industry Index can be used to identify the dimensions that have an impact on the performance of Indonesia towards achieving the SDG-9 industry-related targets. It comprises the following dimensions: manufacturing value added, manufacturing employment, technological sophistication of manufacturing production and the manufacturing sector’s environmental performance. The Index tracks the performance of a country over time and in relation to other economies.",
-      "evidenceURL": "https://iap.unido.org/data/sdg-9-industry"
-    },
-    {
       "SDGNumber": 4,
       "evidenceText": "The UNIDO IAP can be used for both outreach and capacity-building workshops in how to strive for evidence-based policymaking.",
       "evidenceURL": "https://iap.unido.org"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The SDG-9 Industry Index can be used to identify the dimensions that have an impact on the performance of Indonesia towards achieving the SDG-9 industry-related targets. It comprises the following dimensions: manufacturing value added, manufacturing employment, technological sophistication of manufacturing production and the manufacturing sector’s environmental performance. The Index tracks the performance of a country over time and in relation to other economies.",
+      "evidenceURL": "https://iap.unido.org/data/sdg-9-industry"
     },
     {
       "SDGNumber": 17,
