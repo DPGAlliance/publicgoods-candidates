@@ -1,0 +1,41 @@
+{
+  "name": "Android FHIR SDK",
+  "aliases": [
+    ""
+  ],
+  "description": "The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android.",
+  "website": "https://github.com/google/android-fhir",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/google/android-fhir/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Through this toolkit we make it easier for developers to build mobile health applications specifically designed to meet the needs of LMICs. Through our collaboration with the WHO we also enable the deployment of digitised clinical guidelines for improving quality of care",
+      "evidenceURL": "https://www.who.int/teams/digital-health-and-innovation/smart-guidelines/fhir-based-smart-guidelines"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/google/android-fhir",
+      "name": "Android FHIR SDK"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Google",
+      "website": "https://www.google.com",
+      "org_type": "maintainer",
+      "contact_name": "Fred Hersch",
+      "contact_email": "fredhersch@google.com"
+    }
+  ],
+  "stage": "nominee"
+}
