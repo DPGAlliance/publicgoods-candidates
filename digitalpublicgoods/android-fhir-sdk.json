@@ -1,0 +1,63 @@
+{
+  "name": "Android FHIR SDK",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/google/android-fhir/wiki"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/google/android-fhir/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/google/android-fhir"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Understand the ecosystem",
+      "Design for scale",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation",
+      "Address privacy and security",
+      "Be collaborative",
+      "Design with the user"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom",
+      "India",
+      "Kenya",
+      "United States of America"
+    ],
+    "deploymentCountries": []
+  }
+}
