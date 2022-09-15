@@ -2,7 +2,7 @@
   "name": "Vxnaid",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/johnsonandjohnson/vxnaid/wiki"
+    "copyrightURL": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -23,7 +23,7 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "AU Treaty and EU GDPR "
+      "AU Treaty and EU GDPR"
     ],
     "adherenceSteps": [
       "Formal data privacy assessment of relevant legal requirements by an independent agency with a view to potential deployment of platform in RLS countries"
@@ -39,7 +39,7 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "J&J Software development best practices and FLCD approachh"
+      "J&J Software development best practices and FLCD approach"
     ]
   },
   "doNoHarm": {
@@ -50,7 +50,8 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "vaccinee number and limited demographics; vaccination status"
+        "Vaccinee number and limited demographics",
+        "Vaccination status"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
@@ -60,7 +61,7 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown",
+      "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
