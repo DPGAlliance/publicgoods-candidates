@@ -18,9 +18,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Some data collected would be non-personally identifiable such as facility data. Data can be imported through CSV, API, or through a FHIR server. "
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -28,7 +28,10 @@
       "General Data Protection Regulation (GDPR)"
     ],
     "adherenceSteps": [
-      "Only collect and retain data necessary, we have data security policies and procedures are the key, the system has data encryption, authentication, and authorization"
+      "Only collect and retain data necessary, we have data security policies and procedures are the key, the system has data encryption, authentication, and authorization",
+      "Local laws about data storage are reviewed to determine how and where data is stored. Data sharing agreements are established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc.: \n https://www.ihris.org/toolkit-new/pilot/presentation-creating-a-data-sharing-agreement/",
+      "Privacy policy - https://www.ihris.org/privacy",
+      "Terms of use - https://www.ihris.org/terms-use"
     ]
   },
   "standards": {
@@ -43,13 +46,13 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      " Principles for Digital Development"
+      "We adhere to the Principles of Digital Development and the Health Data Governance Principles and IntraHealth has endorsed both sets of principles and is listed under the endorsements for each. \n https://healthdataprinciples.org/endorse \n https://digitalprinciples.org/endorse/endorsers/"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "We ensure strong data privacy and security practices are in place in the software and hosting environments and where possible work with stakeholders to put local policies in place. iHRIS has secure access, using authorization and authentication, for only limited number of users, differing levels of access permissions and roles, and allows for customizations to adhere to local laws and procedures"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -61,7 +64,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Authentication, authorization, and other privacy and security features are built into the application. The backend is secured and not exposed except through an API that requires secure tokens."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -79,7 +82,7 @@
       ],
       "griefAbuseHarassmentProtection": "No",
       "harassmentProtectionSteps": [
-        ""
+        "iHRIS does not have a code of conduct for the core software, though these are sometimes put in place locally. Primary users are employees of the government Ministry or subnational Human Resource units. Any relevant terms of use and mechanisms/processes/policies are developed in each country in accordance with local laws and regulations, rather than being embedded in the core software package."
       ]
     }
   },
