@@ -1,0 +1,41 @@
+{
+  "name": "MapMap",
+  "aliases": [
+    "MapMap"
+  ],
+  "description": "MapMap is a mobile application that allows you to map routes that travel on public transport vehicles in a city, with the aim of generating data in GTFS format.",
+  "website": "https://mapaton.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/codeandoxalapa/mapmap/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Currently one of the greatest challenges presented by cities of Latin American countries is that of the urban mobility, in a large percentage public transport provided through concessions through the sector private, this could imply a lack of knowledge of the number of concessions passing through the cities, the itineraries that tend to be irregular, as well as the routes where they circulate are unknown",
+      "evidenceURL": "https://blogs.iadb.org/conocimiento-abierto/es/mapear-rutas-de-transporte-publico-mapmap/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/codeandoxalapa/mapmap",
+      "name": "mobile app"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Codeando México",
+      "website": "https://www.codeandomexico.org/",
+      "org_type": "owner",
+      "contact_name": "Ricardo Miron",
+      "contact_email": "ricardomirontorres@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
