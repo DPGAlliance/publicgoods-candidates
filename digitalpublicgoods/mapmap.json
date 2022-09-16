@@ -1,0 +1,64 @@
+{
+  "name": "MapMap",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://mapaton.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/codeandoxalapa/mapmap/blob/master/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Download CSV"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Ley de protección de datos personales"
+    ],
+    "adherenceSteps": [
+      "https://github.com/codeandoxalapa/mapmap/tree/master/server"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Using GTFS"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mexico"
+    ],
+    "deploymentCountries": [
+      "Mexico"
+    ]
+  }
+}
