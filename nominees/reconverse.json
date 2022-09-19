@@ -1,0 +1,41 @@
+{
+  "name": "Reconverse",
+  "aliases": [
+    "RECON"
+  ],
+  "description": "Reconverse aims to provide a coherent and composable suite of analytics tools for informing the response to disease outbreaks, health emergencies and humanitarian crises, using the R software environment.",
+  "website": "https://www.reconverse.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://www.reconverse.org/grates/LICENSE-text.html"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Recoverse is a package of open-source software analytics to help field experts, epidemiologists, researchers, and others make informed responses to disease outbreaks, health emergencies and humanitarian crises",
+      "evidenceURL": "https://www.reconverse.org/posts/2021-03-09-welcome-to-the-reconverse/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Github",
+      "url": "https://www.reconverse.org/packages.html"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Epiverse, data.org",
+      "website": "https://data.org/",
+      "org_type": "owner",
+      "contact_name": "Thibaut Jombart",
+      "contact_email": "thibautjombart@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
