@@ -37,7 +37,9 @@
     {
       "name": "Ideasis / Turkey",
       "website": "https://ideasis.com.tr/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Oguzhan Koksal",
+      "contact_email": "oguzhank@ideasis.com.tr"
     },
     {
       "name": "UNICEF Ventures Fund",

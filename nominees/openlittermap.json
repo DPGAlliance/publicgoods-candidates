@@ -35,7 +35,9 @@
     {
       "name": "GeoTech Innovations Ltd",
       "website": "https://openlittermap.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Seán Lynch",
+      "contact_email": "openlittermap@gmail.com"
     }
   ],
   "stage": "DPG"
