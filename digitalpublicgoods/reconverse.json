@@ -1,0 +1,64 @@
+{
+  "name": "Reconverse",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.reconverse.org/grates/",
+      "https://www.reconverse.org/incidence2/",
+      "https://www.reconverse.org/i2extras/",
+      "https://www.reconverse.org/outbreaks/",
+      "https://www.reconverse.org/reportfactory/",
+      "https://www.reconverse.org/trending/",
+      "https://www.reconverse.org/trendeval/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "Principles for Digital Development"
+    ],
+    "bestPracticesList": [
+      "Be Collaborative",
+      "Be Data Driven",
+      "Reuse and Improve",
+      "Use Open Source, Open Data, Open Innovation, and Open Standards"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Each package produces different content. For example, outbreak compiles a series of publicly available disease outbreak data; incidence2 functions and classes to compute, handle and visualise incidence from dated events for a defined time interval",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom"
+    ]
+  }
+}
