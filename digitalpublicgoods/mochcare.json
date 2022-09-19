@@ -39,9 +39,7 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "1. Data Driven ",
-      "2. Design with the User",
-      "3. Address Privacy and Security"
+      "Principles For Digital Development"
     ]
   },
   "doNoHarm": {
@@ -63,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "All data/information required by the user are that which are only required by the Ghana Health Service and for health purposes only. \n All Data collected and stored are only made available to the Health Facility where the data is stored and the client (pregnant women/children)."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -81,7 +79,8 @@
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "1. All Health Facilities that will be on boarded on MOCHCare will be certified health facilities from the Ghana Health Service.",
+        "2. All health workers on our system are certified Health officials from the Ghana Health Service and are logged on with their certified Pin and Registration numbers."
       ]
     }
   },
