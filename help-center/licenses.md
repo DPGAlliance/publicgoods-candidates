@@ -54,8 +54,8 @@ CC0-1.0 | Creative Commons Zero v1.0 Universal
 ODbL-1.0 | Open Data Commons Open Database License 1.0
 ODC-By-1.0 | Open Data Commons Attribution License 1.0 
 PDDL-1.0 | Open Data Commons Public Domain Dedication and Licence 1.0
-CC-BY-3.0-IGO | Creative Commons Attribution 3.0 IGO)
-CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO)
+CC-BY-3.0-IGO | Creative Commons Attribution 3.0 IGO
+CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 
 ## Software
 
