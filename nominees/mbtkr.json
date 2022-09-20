@@ -1,7 +1,7 @@
 {
   "name": "Mbtkr",
   "aliases": [
-    "Mbtkr"
+    ""
   ],
   "description": "An educational system for self taught people.",
   "website": "http://mbtkr.rf.gd/",
@@ -9,25 +9,23 @@
     {
       "spdx": "CC-BY-1.0",
       "licenseURL": "http://mbtkr.rf.gd/course.php?ID=MATH101"
-    },
-    {
-      "spdx": "CC-BY-1.0",
-      "licenseURL": "http://mbtkr.rf.gd/course.php?ID=MATH101"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 4,
-      "evidenceText": "Through providing open source educational content based on sharing economy concept.",
-      "evidenceURL": "http://mbtkr.rf.gd/course.php?ID=MATH101"
+      "SDGNumber": 1,
+      "evidenceText": "Provides open source educational content for people who don't have the ability to afford school fees.",
+      "evidenceURL": "http://mbtkr.rf.gd/plan.php?ID=ele101"
     },
     {
-      "SDGNumber": 1,
-      "evidenceText": "through provide open source educational content for people who doesn’t have the ability to provide school fees.",
-      "evidenceURL": "http://mbtkr.rf.gd/plan.php?ID=ele101"
+      "SDGNumber": 4,
+      "evidenceText": "Through providing open source educational content based on the sharing economy concept",
+      "evidenceURL": "http://mbtkr.rf.gd/course.php?ID=MATH101"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Education"
+  ],
   "type": [
     "content"
   ],
