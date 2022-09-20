@@ -1,0 +1,71 @@
+{
+  "name": "ClinicalBERT",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source natural language processing for clinical decision support, electronic health records, public health design, implementation, delivery, quality assurance, at national scales. ",
+  "website": "https://onefact.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Our work is cited 300+ times and used in academic medical centers worldwide and for entire countries' electronic health records analysis",
+      "evidenceURL": "https://arxiv.org/abs/1904.05342"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We have used these tools to analyze hundreds of millions of health records for evidence of gender and health disparity",
+      "evidenceURL": "https://arxiv.org/abs/2203.05174"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "We are a 501(c)(3) nonprofit foundation in the United States whose goal is to build Apache 2.0 licensed open source infrastructure for low- and middle-income countries around the world to sustain their public health initatives through open, transparent infrastructure",
+      "evidenceURL": "https://www.dropbox.com/s/kzb7zj24u6gewkk/07.26.22%20IRS%20Determination%20Letter_%20One%20Fact%20Foundation%5B73%5D.pdf?dl=0"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "The aim of our nonprofit foundation is to reduce inequality through open source AI -- see this keynote I gave at an NIH conference called aim-ahead.net last month.",
+      "evidenceURL": "https://bit.ly/onefact-keynote"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "We are building open source AI to help countries and cities develop critical health infrastructure in-house"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "The aim of our nonprofit foundation is to reduce inequality through open source AI -- see this keynote I gave at an NIH conference called aim-ahead.net last month.",
+      "evidenceURL": "https://bit.ly/onefact-keynote"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "We are building open source AI to help countries and cities develop critical health infrastructure in-house"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel",
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "ClinicalBERT",
+      "url": "https://github.com/onefact/clinicalbert"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "One Fact Foundation",
+      "website": "https://onefact.org",
+      "org_type": "owner",
+      "contact_name": "Dr. Jaan Altosaar",
+      "contact_email": "jaan@onefact.org"
+    }
+  ],
+  "stage": "nominee"
+}
