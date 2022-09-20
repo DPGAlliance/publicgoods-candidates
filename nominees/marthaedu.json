@@ -1,5 +1,5 @@
 {
-  "name": "Martha EDU",
+  "name": "MarthaEDU",
   "aliases": [
     ""
   ],
@@ -13,12 +13,12 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 5,
-      "evidenceText": "Shifting the burden from women and girls: Through a product that can help families and communities take initiative and collaborate, instead of fully relying on the overwhelming, unpaid work women and girls are held responsible for because of certain gender-related misconceptions and norms"
-    },
-    {
       "SDGNumber": 4,
       "evidenceText": "Literacy-boosting: Through a collaborative approach that allows children, parents and guardians to learn together. Building an educational experience which involves parents, guardians and others: Our content is produced with children in mind at every stage without promoting stereotypes and common biases."
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Shifting the burden from women and girls: Through a product that can help families and communities take initiative and collaborate, instead of fully relying on the overwhelming, unpaid work women and girls are held responsible for because of certain gender-related misconceptions and norms"
     },
     {
       "SDGNumber": 10,
