@@ -1,0 +1,73 @@
+{
+  "name": "Open Concept Lab",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.openconceptlab.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "FHIR v4",
+      "IHE Sharing Valuesets and Concept Maps (SVCM) Profile",
+      "ICD-10",
+      "LOINC",
+      "CIEL"
+    ],
+    "evidenceStandardSupport": [
+      "https://app.openconceptlab.org/#/orgs/CIEL/",
+      "https://app.openconceptlab.org/#/orgs/WHO/sources/ICD-10-WHO/",
+      "https://app.openconceptlab.org/#/orgs/Regenstrief/sources/LOINC/"
+    ],
+    "bestPracticesList": [
+      "Principles for Digital Development: Use Open Standards, Open Data, Open Source, and Open Innovation"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Terminology and metadata definitions and relationships/mappings between metadata definitions",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India",
+      "Poland",
+      "Ethiopia",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Ethiopia",
+      "Kenya",
+      "Malawi",
+      "Haiti"
+    ]
+  }
+}
