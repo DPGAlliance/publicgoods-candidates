@@ -16,7 +16,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown"
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -29,6 +31,12 @@
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "User Centered Design"
@@ -36,7 +44,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -44,19 +53,38 @@
         "https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
       ],
       "thirdPartyDataSharing": "Yes",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "The GPML Digital Platform captures three main types of data: Open Data, Personal Data and  Web Traffic Data.  - Open Data is shared on the Digital Platform;  - Personal Data is captured during Stakeholders registration; and  Web Traffic Data is captured anonymously for purposes of monitoring the sites usage and  obtain statistics on such usage.",
       "contentFilter": "Unknown",
-      "illegalContentDetection": "Unknown"
+      "policyGuidelinesDocumentationLink": "Unknown",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Unknown",
-      "griefAbuseHarassmentProtection": "Unknown"
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
-  "locations": {}
+  "locations": {
+    "developmentCountries": [
+      ""
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
 }
