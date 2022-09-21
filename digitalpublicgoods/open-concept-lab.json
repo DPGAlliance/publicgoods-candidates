@@ -4,7 +4,9 @@
     "isOwnershipExplicit": "Unknown"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -13,14 +15,21 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "FHIR v4",
       "IHE Sharing Valuesets and Concept Maps (SVCM) Profile",
@@ -33,27 +42,46 @@
       "https://app.openconceptlab.org/#/orgs/WHO/sources/ICD-10-WHO/",
       "https://app.openconceptlab.org/#/orgs/Regenstrief/sources/LOINC/"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development: Use Open Standards, Open Data, Open Source, and Open Innovation"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Terminology and metadata definitions and relationships/mappings between metadata definitions",
       "contentFilter": "No",
-      "illegalContentDetection": "No"
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Unknown",
-      "griefAbuseHarassmentProtection": "Unknown"
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Unknown",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
