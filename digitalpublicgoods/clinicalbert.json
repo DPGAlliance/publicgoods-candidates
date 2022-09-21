@@ -5,43 +5,74 @@
     "copyrightURL": "https://www.dropbox.com/s/kzb7zj24u6gewkk/07.26.22%20IRS%20Determination%20Letter_%20One%20Fact%20Foundation%5B73%5D.pdf?dl=0"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Yes"
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "OMOP"
     ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "OMOP CDM"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Yes"
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "We are a 501c3 institution subject to laws in the USA."
       ],
-      "addressSafetySecurityUnderageUsers": "Yes",
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "We are a 501c3 institution subject to laws in the USA."
