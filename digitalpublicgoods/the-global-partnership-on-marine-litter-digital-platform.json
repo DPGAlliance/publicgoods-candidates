@@ -1,0 +1,62 @@
+{
+  "name": "The Global Partnership on Marine Litter Digital Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://digital.gpmarinelitter.org/about-us"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Some of the software used in developing the functionalities of the platform are not open source. For example ESRI ArcGIS online has been used in the implementation of the data hub component."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The GPML  Digital Platform Privacy  Policy, Personal Data Protection and Terms of Use is framed within the UN Personal  Data Protection and Privacy Principles, the UNEP Access-to-Information Policy and relevant  UN administrative issuances."
+    ],
+    "adherenceSteps": [
+      "https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "User Centered Design"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "The GPML Digital Platform captures three main types of data: Open Data, Personal Data and  Web Traffic Data.  - Open Data is shared on the Digital Platform;  - Personal Data is captured during Stakeholders registration; and  Web Traffic Data is captured anonymously for purposes of monitoring the sites usage and  obtain statistics on such usage.",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Unknown",
+      "griefAbuseHarassmentProtection": "Unknown"
+    }
+  },
+  "locations": {}
+}
