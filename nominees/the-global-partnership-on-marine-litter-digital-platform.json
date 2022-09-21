@@ -3,20 +3,18 @@
   "aliases": [
     "GPML Digital Platform"
   ],
-  "description": " The GPML Digital Platform is multi-stakeholder and partly open source, compiling and crowdsourcing different resources, integrating data and connecting stakeholders to guide and coordinate ad hoc and regular action. It offers a single point of access for current, accurate data and information on plastic pollution and marine litter and related topics, and it provides a wide range of materials to support stakeholders’ needs, ranging from scientific research to technological innovation and public outreach, to inform decision-making, educate and raise awareness, facilitate target setting, and advance stakeholders’ cooperation and coordination.",
-  "website": "https://digital.gpmarinelitter.org/",
+  "description": "The GPML Digital Platform is multi-stakeholder and partly open source, compiling and crowdsourcing different resources, integrating data and connecting stakeholders to guide and coordinate ad hoc and regular action. It offers a single point of access for current, accurate data and information on plastic pollution and marine litter and related topics, and it provides a wide range of materials to support stakeholders’ needs, ranging from scientific research to technological innovation and public outreach, to inform decision-making, educate and raise awareness, facilitate target setting, and advance stakeholders’ cooperation and coordination.",
+  "website": "https://www.gpmarinelitter.org/",
   "license": [
-    {}
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/akvo/unep-gpml/blob/main/LICENSE"
+    }
   ],
   "SDGs": [
     {
-      "SDGNumber": 14,
-      "evidenceText": "The platform primarily focuses on addressing plastic pollution and  marine litter. ",
-      "evidenceURL": "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
-    },
-    {
-      "SDGNumber": 12,
-      "evidenceText": "Data and resources shared on the platform, include content on plastic waste exports and recycling.",
+      "SDGNumber": 6,
+      "evidenceText": "Data and resources shared on the platform, include content on macro plastics in freshwater pathways (SDG 6); ",
       "evidenceURL": "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
     },
     {
@@ -25,8 +23,13 @@
       "evidenceURL": "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
     },
     {
-      "SDGNumber": 6,
-      "evidenceText": "Data and resources shared on the platform, include content on macro plastics in freshwater pathways (SDG 6); ",
+      "SDGNumber": 12,
+      "evidenceText": "Data and resources shared on the platform, include content on plastic waste exports and recycling.",
+      "evidenceURL": "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
+    },
+    {
+      "SDGNumber": 14,
+      "evidenceText": "The platform primarily focuses on addressing plastic pollution and  marine litter. ",
       "evidenceURL": "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
     }
   ],
@@ -36,7 +39,12 @@
     "data",
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/akvo/unep-gpml"
+    }
+  ],
   "organizations": [
     {
       "name": " United Nation Environment Programme (UNEP), Global Partnership on Marine Litter (GPML)",
