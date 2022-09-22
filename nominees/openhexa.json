@@ -1,0 +1,61 @@
+{
+  "name": "OpenHexa",
+  "aliases": [
+    ""
+  ],
+  "description": "An open-source data integration platform",
+  "website": "https://www.bluesquarehub.com/openhexa/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/BLSQ/openhexa/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Our data integration platform is focused on public health and has been designed to help data scientists and data analysts integrate and analyze a wide range of health data. Its goal is to strengthen public health programmes, such as improving Improving national surveillance systems for infectious diseases.",
+      "evidenceURL": "https://www.bluesquarehub.com/blog/openhexa-bluesquares-new-data-integration-platform/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Our platform is also used to extract and analyze environment data, such as temperature and precipitations data."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Starting point / doc & roadmap",
+      "url": "https://github.com/BLSQ/openhexa"
+    },
+    {
+      "name": "Backend",
+      "url": "https://github.com/BLSQ/openhexa-app"
+    },
+    {
+      "name": "Frontend",
+      "url": "https://github.com/BLSQ/openhexa-frontend"
+    },
+    {
+      "name": "Notebooks component",
+      "url": "https://github.com/BLSQ/openhexa-notebooks"
+    },
+    {
+      "name": "Data pipelines",
+      "url": "https://github.com/BLSQ/openhexa-pipelines"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bluesquare SA",
+      "website": "https://bluesquarehub.com/",
+      "org_type": "owner",
+      "contact_name": "Nicolas De Borman",
+      "contact_email": "ndeborman@bluesquarehub.com"
+    }
+  ],
+  "stage": "nominee"
+}
