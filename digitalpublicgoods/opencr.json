@@ -1,0 +1,83 @@
+{
+  "name": "OpenCR",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.openclientregistry.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/intrahealth/client-registry",
+      "https://intrahealth.github.io/client-registry/",
+      "https://intrahealth.github.io/client-registry/dev/addalgos/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "CSV & REST are supported"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR) "
+    ],
+    "adherenceSteps": [
+      "Local laws about data storage are reviewed determine how and where data is stored. Data sharing agreements can be established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc.",
+      "https://www.openclientregistry.org/privacy",
+      "https://intrahealth.github.io/client-registry/admin/security/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "SNOMED",
+      "IHE PIXm",
+      " IHE PDQm",
+      "HL7 FHIR"
+    ],
+    "evidenceStandardSupport": [
+      "https://intrahealth.github.io/client-registry/dev/license/",
+      "https://intrahealth.github.io/client-registry/admin/architecture/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "OpenHIE, https://ohie.org/",
+      "Principles for Digital Development, https://digitalprinciples.org/endorse/endorsers/",
+      "Health Data Governance Principles , https://healthdataprinciples.org/endorse"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We ensure strong data privacy and security practices are in place in the software and hosting environments and where possible work with stakeholders to put local policies in place. OpenCR has secure access, using authorization and authentication, for only limited number of users, differing levels of access permissions and roles, and allows for customizations to adhere to local laws and procedures."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "OpenCR stores non-clinical patient data in order to create record linkages. OpenCR creates unique identifiers (CRUIDs) which provide the key for record linkage. There is non-permanent linkage between the source record and the CRUID."
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Uganda"
+    ],
+    "deploymentCountries": [
+      "Uganda",
+      "Botswana",
+      "Haiti"
+    ]
+  }
+}
