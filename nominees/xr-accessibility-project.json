@@ -1,0 +1,44 @@
+{
+  "name": "XR Accessibility Project",
+  "aliases": [
+    "XRAP"
+  ],
+  "description": "An index of resources for people creating accessible XR (extended reality) applications.",
+  "website": "https://github.com/XRAccessibility/xraccessibility.github.io",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/README.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://arvrjourney.com/xr-accessibility-a-capstone-project-e0f9dc5e0f02"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "The XR Accessibility Project seeks to reduce income inequality by enabling people with disabilities to take part in the hybrid workplace. XR offers new opportunities to work from home by enriching online communication and enabling remote piloting and operation of machinery. Ensuring that people with disabilities can participate in these opportunities should raise the employment rate for people with disabilities in the US from the meager 19.1 percent it stood at in 2021 (according to the US Bureau of Labor Statistics). This is in line with Target 10.2 ('By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status') and 10.3 ('Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard.')"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/README.md"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "XR Access",
+      "website": "https://xraccess.org",
+      "org_type": "maintainer",
+      "contact_name": "Dylan Fox",
+      "contact_email": "dylan@xraccess.org"
+    }
+  ],
+  "stage": "DPG"
+}
