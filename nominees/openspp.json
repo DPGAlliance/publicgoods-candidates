@@ -1,0 +1,80 @@
+{
+  "name": "OpenSPP",
+  "aliases": [
+    ""
+  ],
+  "description": "OpenSPP (Open Source Social Protection Platform) is an integrated and digital social protection information system that enables governments and humanitarian agencies to streamline the creation and management of assistance programs.",
+  "website": "http://openspp.org/",
+  "license": [
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://github.com/openspp-project/openspp-program/blob/15.0/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "OpenSPP enables governments and humanitarian agencies to support the underprivileged through assistance programs."
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "OpenSPP can be used to distribute food assistance to the most vulnerable populations thanks to offline registration and advance targeting."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenSPP can be used to implement antenatal and postnatal programs to ensure maternal and child well-being."
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "OpenSPP targeting, monitoring and data analytics tools allow for the integration of gender considerations into all aspects of a social protection program – from intent and design to implementation."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "OpenSPP targeting, monitoring and data analytics tools allow for the integration of inequality considerations into all aspects of a social protection program – from intent and design to implementation."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "OpenSPP is partnering with governments, humanitarian agencies, the open source community, and the private sector to accelerate progress towards the achievement of SDGs."
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "OpenSPP can be used to implement school feeding programs to provide both educational and health benefits to the most vulnerable children."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/openspp-project/openspp-registry",
+      "name": "OpenSPP registry"
+    },
+    {
+      "url": "https://github.com/openspp-project/openspp-program",
+      "name": "OpenSPP program"
+    },
+    {
+      "name": "OpenSPP grievance redress mechanism",
+      "url": "https://github.com/openspp-project/openspp-grievance-redress-mechanism"
+    },
+    {
+      "url": "https://github.com/openspp-project/documentation",
+      "name": "OpenSPP documentation"
+    },
+    {
+      "name": "OpenSPP docker",
+      "url": "https://github.com/openspp-project/openspp-docker"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OpenSPP",
+      "website": "https://openspp.org/",
+      "org_type": "owner",
+      "contact_name": "Jeremi Joslin",
+      "contact_email": "jeremi@openspp.org"
+    }
+  ],
+  "stage": "nominee"
+}
