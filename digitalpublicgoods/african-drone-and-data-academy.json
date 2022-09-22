@@ -21,9 +21,9 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "GDPR"
     ],
     "adherenceSteps": [
       ""
@@ -54,7 +54,7 @@
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
-        ""
+        "Limited access is granted to instructors for the purpose of instructing the course"
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": ""
