@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": ""
+    "nonPIIAccessMechanism": "For exporting, CSV and access-controlled REST API can be used. \nOur ETL module (see https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/ETL-Lite-Module) can be used for data import of any standard."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -32,20 +32,21 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "CIEL; ICD-9, ICD-10, ICD-11"
+      "The standards used are made available through the Open Concept Lab (OCL) module for OpenMRS. This is referenced on our wiki page:https://github.com/johnsonandjohnson/vxnaid/wiki/Install-Backend-OpenMRS-System#startup-process",
+      "OCL supports CIEL, LOINC, SNOMED-GPS, SNOMED-TEST and ICD-10."
     ],
     "evidenceStandardSupport": [
       ""
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "J&J Software development best practices and FLCD approach"
+      "J&J SDLC standard with agile methodology (scrum) is followed, which includes compliance analysis, user stories in Jira, SIT, UAT and automation testing in Jira, change management, traceability matrix, Continuous Integration & Continuous Deployment pipelines. "
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "appropriate open source license terms"
+      "additionalInfoMechanismProcessesPolicies": "Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual’s health information. Application has role-based access control and segregation of duties."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -58,7 +59,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual’s health information. Application has role-based access control and segregation of duties."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
