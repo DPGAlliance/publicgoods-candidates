@@ -18,14 +18,16 @@
       "evidenceURL": "https://www.openclientregistry.org/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://github.com/intrahealth/client-registry",
-      "name": "Main"
+      "name": "main",
+      "url": "https://github.com/intrahealth/client-registry"
     }
   ],
   "organizations": [
@@ -33,7 +35,7 @@
       "name": "IntraHealth International",
       "website": "https://www.intrahealth.org/",
       "org_type": "owner",
-      "contact_name": " Margarite Nathe",
+      "contact_name": "Margarite Nathe",
       "contact_email": "intrahealth@intrahealth.org"
     }
   ],
