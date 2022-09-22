@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "Clarify a problem Most people identifying with a hearing disability and being d/Deaf have challenges that begin in early childhood. With 80% born to hearing parents, the majority or the d/Deaf community grows unable to have a common language with others, and lack literacy skills in sign language.  In the developing world, even more children suffer from the impacts of armed conflicts, poverty, and short-sighted policies; making it a challenge to access medical and educational aid and build meaningful relations and hopeful lives.  Our solutions At Martha EDU, we work on eradicating the barriers to literacy among the d/Deaf from childhood, using interactive flashcards and mobile App technologies.   We aspire to reach every home with our products; with the main one currently consisting of flashcards supported by QR codes that our free mobile app can read and bring out Jordanian Arabic sign language tutorials for children, by children.   Using a multi-level structure, we also gradually add English and Arabic words to the vocabulary and imagination of children and their families. Moreover, given the nature of our solutions, we are able to scale them and localize them to a wide range of contexts and cultures.",
+  "description": "Martha EDU is a Jordanian/Syrian social enterprise that aims at uprooting illiteracy from the early stages of the lives of the d/Deaf and enabling children to grow with confidence and power.",
   "website": "https://learn.marthaedu.com",
   "license": [
     {
@@ -37,7 +37,7 @@
   ],
   "repositories": [
     {
-      "name": "main",
+      "name": "content repository",
       "url": "https://learn.marthaedu.com/home/courses"
     }
   ],
