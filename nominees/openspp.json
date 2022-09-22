@@ -1,9 +1,9 @@
 {
   "name": "OpenSPP",
   "aliases": [
-    ""
+    "Open Source Social Protection Platform"
   ],
-  "description": "OpenSPP (Open Source Social Protection Platform) is an integrated and digital social protection information system that enables governments and humanitarian agencies to streamline the creation and management of assistance programs.",
+  "description": "OpenSPP is an integrated and digital social protection information system that enables governments and humanitarian agencies to streamline the creation and management of assistance programs.",
   "website": "http://openspp.org/",
   "license": [
     {
@@ -25,6 +25,10 @@
       "evidenceText": "OpenSPP can be used to implement antenatal and postnatal programs to ensure maternal and child well-being."
     },
     {
+      "SDGNumber": 4,
+      "evidenceText": "OpenSPP can be used to implement school feeding programs to provide both educational and health benefits to the most vulnerable children."
+    },
+    {
       "SDGNumber": 5,
       "evidenceText": "OpenSPP targeting, monitoring and data analytics tools allow for the integration of gender considerations into all aspects of a social protection program – from intent and design to implementation."
     },
@@ -35,10 +39,6 @@
     {
       "SDGNumber": 17,
       "evidenceText": "OpenSPP is partnering with governments, humanitarian agencies, the open source community, and the private sector to accelerate progress towards the achievement of SDGs."
-    },
-    {
-      "SDGNumber": 4,
-      "evidenceText": "OpenSPP can be used to implement school feeding programs to provide both educational and health benefits to the most vulnerable children."
     }
   ],
   "sectors": [],
@@ -47,20 +47,20 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/openspp-project/openspp-registry",
-      "name": "OpenSPP registry"
+      "name": "OpenSPP registry",
+      "url": "https://github.com/openspp-project/openspp-registry"
     },
     {
-      "url": "https://github.com/openspp-project/openspp-program",
-      "name": "OpenSPP program"
+      "name": "OpenSPP program",
+      "url": "https://github.com/openspp-project/openspp-program"
     },
     {
       "name": "OpenSPP grievance redress mechanism",
       "url": "https://github.com/openspp-project/openspp-grievance-redress-mechanism"
     },
     {
-      "url": "https://github.com/openspp-project/documentation",
-      "name": "OpenSPP documentation"
+      "name": "OpenSPP documentation",
+      "url": "https://github.com/openspp-project/documentation"
     },
     {
       "name": "OpenSPP docker",
