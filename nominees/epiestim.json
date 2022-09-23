@@ -1,0 +1,46 @@
+{
+  "name": "EpiEstim",
+  "aliases": [
+    ""
+  ],
+  "description": "This web application generates an estimate of infectious disease transmissibility throughout an outbreak. ",
+  "website": "https://github.com/mrc-ide/EpiEstim",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://cran.r-project.org/web/packages/EpiEstim/index.html"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The quantification of transmissibility during epidemics is essential to designing and adjusting public health responses.  This tool should help epidemiologists quantify temporal changes in the transmission intensity of future epidemics by using surveillance data.",
+      "evidenceURL": "https://academic.oup.com/aje/article/178/9/1505/89262?login=false"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "CRAN",
+      "url": "https://cran.r-project.org/web/packages/EpiEstim/index.html"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/mrc-ide/EpiEstim/wiki"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The R Epidemics Consortium (RECON)",
+      "website": "https://www.repidemicsconsortium.org/",
+      "org_type": "maintainer",
+      "contact_name": "Anne Cori",
+      "contact_email": "a.cori@imperial.ac.uk"
+    }
+  ],
+  "stage": "nominee"
+}
