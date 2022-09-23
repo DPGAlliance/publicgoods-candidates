@@ -16,10 +16,6 @@
       "SDGNumber": 3,
       "evidenceText": "Our data integration platform is focused on public health and has been designed to help data scientists and data analysts integrate and analyze a wide range of health data. Its goal is to strengthen public health programmes, such as improving Improving national surveillance systems for infectious diseases.",
       "evidenceURL": "https://www.bluesquarehub.com/blog/openhexa-bluesquares-new-data-integration-platform/"
-    },
-    {
-      "SDGNumber": 13,
-      "evidenceText": "Our platform is also used to extract and analyze environment data, such as temperature and precipitations data."
     }
   ],
   "sectors": [],
