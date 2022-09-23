@@ -1,0 +1,54 @@
+{
+  "name": "EpiEstim",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://cran.r-project.org/web/packages/EpiEstim/index.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/mrc-ide/EpiEstim"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown",
+    "nonPIIAccessMechanism": "N/A"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Be Data Driven, Be Collaborative, Reuse and Improve, Use Open Source/Standards/Data/Innovation"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Incidences of disease outbreaks and transmissions from person to person",
+      "contentFilter": "Yes",
+      "illegalContentDetection": "Yes",
+      "policyGuidelinesDocumentationLink": "https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/",
+      "illegalContentDetectionMechanism": "https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom"
+    ]
+  }
+}
