@@ -1,0 +1,69 @@
+{
+  "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/decentralised-dataexchange/data-exchange-agreements/tree/main"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Uses Data Protection Impact Assessment as the basis for creation of any Data Agreement"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "ISO27560"
+    ],
+    "bestPracticesList": [
+      "https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "It follows code of conduct relevant for open source project and community driven knowledge sharing. "
+      ],
+      "harassmentProtectionSteps": [
+        "Based on code or conduct as stated at: https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/CODE-OF-CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden",
+      "India"
+    ],
+    "deploymentCountries": [
+      "Sweden",
+      "India"
+    ]
+  }
+}
