@@ -1,0 +1,52 @@
+{
+  "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
+  "aliases": [
+    "DEXA, PS-SDA"
+  ],
+  "description": "DEXA protocol is a key component for developing and deploying trustworthy, human-centric decentralised data applications (dApps) across domains. ",
+  "website": "https://ontochain.ngi.eu/content/ps-sda",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The DEXA protocol facilitates sustainable personal exchange for organisations, ensuring that all data transactions are lawful, scalable and verifiable. An organisation can be a Data Source or a Data Using Service. The DEXA protocol brings in the requisite trust and governance to establish a ubiquitous data exchange marketplace while empowering individuals to be in control of their data. All organisations need to ensure that they are on the right side of the law (e.g. the GDPR) when consuming personal data (risk management) and to establish the digital trust needed for individuals to say yes to sharing their data. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "data-exchange-agreements",
+      "url": "https://github.com/decentralised-dataexchange/data-exchange-agreements"
+    },
+    {
+      "url": "https://github.com/decentralised-dataexchange/dexa-protocol",
+      "name": "dexa-protocol"
+    },
+    {
+      "url": "https://github.com/decentralised-dataexchange/dexa-sdk",
+      "name": "dexa-sdk"
+    },
+    {
+      "url": "https://github.com/decentralised-dataexchange/dexa-smartcontracts",
+      "name": "dexa-smartcontracts"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "LCubed AB (iGrant.io)",
+      "website": "https://igrant.io/",
+      "org_type": "maintainer",
+      "contact_name": "Lal Chandran",
+      "contact_email": "lal@igrant.io"
+    }
+  ],
+  "stage": "nominee"
+}
