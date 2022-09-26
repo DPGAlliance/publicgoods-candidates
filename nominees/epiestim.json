@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "This web application generates an estimate of infectious disease transmissibility throughout an outbreak. ",
+  "description": "EpiEstim is a tool to estimate the time-varying instantaneous reproduction number during epidemics. This web application generates an estimate of infectious disease transmissibility throughout an outbreak. ",
   "website": "https://github.com/mrc-ide/EpiEstim",
   "license": [
     {
