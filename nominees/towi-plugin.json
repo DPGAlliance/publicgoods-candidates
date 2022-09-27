@@ -1,0 +1,42 @@
+{
+  "name": "Towi Plugin",
+  "aliases": [
+    "towigodot"
+  ],
+  "description": "Plugin made to interact with Pixframe Studios Towi platforms which allow creators to create new Serious games and connected to Towi.com.mx",
+  "website": "http://towi.com.mx/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/pixframeStudios/towi_godot/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Globally, and especially in Latin America, children have learning problems for different reasons which, according to various investigations, may be due to socioeconomic, cultural, low infrastructure in education and poor cognitive development. Currently we live in a technological age where children and adolescents live a normality that consists of the use of technological tools. They get bored easily, the way in which information is presented to them is not very motivating and school is no longer the only means of access to education. There are different tools through which they can acquire knowledge, however the minimum has a pedagogical basis. Due to the aforementioned, we must innovate in the teaching-learning process. Currently there are new teaching methodologies, with a focus on active learning and the development of skills through play. One of these methodologies is gamification. Different authors define it as a process in which game mechanisms are used to attract people, promote learning and solve problems. The purpose is to motivate the player's behavior. Elements in the game such as points, avatars or levels, increase the psychological predisposition of the player to continue in it. This makes gamification an ally of education. Currently there are game developers who use platforms like Godot, however they do not have the pedagogical knowledge to add elements that help the user to consolidate their learning. That's why Pixframe Studios is developing a plugin for the Godot Engine: a tool to help new game developers and serious game teams create new games with the goal of aiding in the development of education. As mentioned before, Latin America is still trying to develop new tools to improve their educational field, nevertheless they don't have enough knowledge nor tools to achieve it. The plugin is open source so that the community in Latin America can access new ways of creating video games with a pedagogical basis. In this way, code is created, optimized and shared. Educational material can be shared in an innovative way and finally a stock of illustrative material is generated such as button icons, backgrounds for games, fonts and unique Godot Engine assets."
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "towi",
+      "url": "https://github.com/pixframeStudios/towi_godot"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Pixframe Studios",
+      "website": "https://pixframestudios.com/",
+      "org_type": "owner",
+      "contact_name": "David Casillas",
+      "contact_email": "dc@pixframestudios.com"
+    }
+  ],
+  "stage": "DPG"
+}
