@@ -1,0 +1,41 @@
+{
+  "name": "Everwell Hub",
+  "aliases": [
+    "Hub"
+  ],
+  "description": "The Everwell Hub is a best in-class patient management platform designed for high-burden public healthcare programs globally.  The Everwell Hub supports the entire digital cascade of care from diagnosis through treatment support and completion, including fully integrated modules for diagnostics (both lab generated results and AI diagnostic solutions), digital adherence technologies, virtual care and patient engagement, and digital payments. ",
+  "website": "https://www.everwell.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://gitlab.com/everwell/hub-foss/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The official description of SDG 3 includes (but is not limited to): To ensure healthy lives and promote well-being for all at all ages. Borrowing cue from this, our mission at Everwell is to create and scale user-centric technologies that can positively impact health with the vision of creating a world where every person is empowered to lead a healthy life. We ensure that all personas in any healthcare setting, be it a health care professional, patient, individual care giver are kept engaged and enthusiastic about their association with the domain. We do so by designing, developing and deploying easy to use, localized, contextual, configurable, interoperable, secure and low cost digital health solutions for both providers as well as care seekers.  ",
+      "evidenceURL": "https://www.everwell.org/about-us"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Everwell Hub FOSS",
+      "url": "https://gitlab.com/everwell/hub-foss"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Everwell Health Solutions Pvt. Ltd.",
+      "website": "https://www.everwell.org/",
+      "org_type": "owner",
+      "contact_name": "Nakull Gupta",
+      "contact_email": "nakull@everwell.org"
+    }
+  ],
+  "stage": "nominee"
+}
