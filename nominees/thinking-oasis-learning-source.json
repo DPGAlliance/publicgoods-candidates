@@ -3,11 +3,12 @@
   "aliases": [
     ""
   ],
-  "description": "An online platform that provides learning tools in Arabic on STEM Education, and specifically coding and programming using SYSCOLAB, Arduino and other. The idea is to make Coding and Programming accessible to learn ",
+  "description": "An online platform that provides learning tools in Arabic on STEM Education, and specifically coding and programming using SYSCOLAB, Arduino and other. The idea is to make Coding and Programming accessible to learn",
   "website": "http://thinking-oasis.com/notyetlaunched",
   "license": [
     {
-      "spdx": "CNRI-Python"
+      "spdx": "CNRI-Python",
+      "licenseURL": "http://thinking-oasis.com/"
     }
   ],
   "SDGs": [
@@ -22,7 +23,12 @@
     "content",
     "aimodel"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "http://thinking-oasis.com/"
+    }
+  ],
   "organizations": [
     {
       "name": "Thinking Oasis for Capacity Building",
