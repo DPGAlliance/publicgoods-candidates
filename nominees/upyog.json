@@ -1,0 +1,43 @@
+{
+  "name": "UPYOG",
+  "aliases": [
+    "Urban Platform for Delivery of online Governance"
+  ],
+  "description": "The Centre for Digital Governance at the National Institute of Urban Affairs has launched the Urban Platform for deliverY of Online Governance programme as one of the flagship initiatives under the National Urban Digital Mission. The UPYOG program aims at supporting states in implementing integrated e-governance and digital delivery of municipal services to citizens",
+  "website": "https://upyog.niua.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "3.1.\tThe objective of the program is to build and manage a \"shared digital good\" called UPYOG, comprising a set of software building blocks as well as reference applications for most needed e-governance solutions in the urban context."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "upyog",
+      "url": "https://github.com/upyog"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Centre for Digital Governance- NIUA",
+      "website": "https://niua.in/cdg/Home",
+      "org_type": "owner",
+      "contact_name": "Manpreet Singh",
+      "contact_email": "manpreet@niua.org"
+    }
+  ],
+  "stage": "nominee"
+}
