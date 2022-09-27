@@ -8,26 +8,23 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://opensource.org/licenses/MIT"
+      "licenseURL": "https://github.com/upyog/UPYOG/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
       "SDGNumber": 11,
-      "evidenceText": "3.1.\tThe objective of the program is to build and manage a \"shared digital good\" called UPYOG, comprising a set of software building blocks as well as reference applications for most needed e-governance solutions in the urban context."
+      "evidenceText": "The objective of the program is to build and manage a \"shared digital good\" called UPYOG, comprising a set of software building blocks as well as reference applications for most needed e-governance solutions in the urban context."
     }
   ],
   "sectors": [],
   "type": [
-    "software",
-    "data",
-    "content",
-    "aimodel"
+    "software"
   ],
   "repositories": [
     {
-      "name": "upyog",
-      "url": "https://github.com/upyog"
+      "name": "main",
+      "url": "hhttps://github.com/upyog/UPYOG"
     }
   ],
   "organizations": [
