@@ -1,0 +1,74 @@
+{
+  "name": "Everwell Hub",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://gitlab.com/everwell/hub-foss/-/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://gitlab.com/everwell/hub-foss"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Some of our sub-projects (or deployments) choose to collect PII. Non-PII related information for these projects can be easily extracted or imported using sql queries or reporting data bases that do not contain PII details "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "ISO 27001"
+    ],
+    "adherenceSteps": [
+      "https://www.everwell.org/_files/ugd/4b9674_3fdf417f100745a5a79959ebb8917ae8.pdf"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We have commonly used best practices defined by azure architecture defined here - https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "As a default, this project does not collect of store PII data, but some partners and deployments would like the option to have the same; in which case we store the name, address and phone number of the consenting individual and clearly mention in our contracting terms that we do not own any of this data"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "Bangladesh",
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "India",
+      "Myanmar",
+      "Nigeria",
+      "Tanzania",
+      "Ukraine",
+      "Ethiopia",
+      "South Africa",
+      "Philippines"
+    ]
+  }
+}
