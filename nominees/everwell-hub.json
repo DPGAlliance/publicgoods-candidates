@@ -1,7 +1,7 @@
 {
   "name": "Everwell Hub",
   "aliases": [
-    "Hub"
+    ""
   ],
   "description": "The Everwell Hub is a best in-class patient management platform designed for high-burden public healthcare programs globally.  The Everwell Hub supports the entire digital cascade of care from diagnosis through treatment support and completion, including fully integrated modules for diagnostics (both lab generated results and AI diagnostic solutions), digital adherence technologies, virtual care and patient engagement, and digital payments. ",
   "website": "https://www.everwell.org/",
@@ -18,7 +18,9 @@
       "evidenceURL": "https://www.everwell.org/about-us"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
