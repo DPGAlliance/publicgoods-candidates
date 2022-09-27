@@ -1,8 +1,8 @@
 {
   "name": "UPYOG",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://upyog.niua.org/citizen/language-selection"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
