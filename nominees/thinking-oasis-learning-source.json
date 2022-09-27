@@ -1,0 +1,36 @@
+{
+  "name": "Thinking Oasis Learning source",
+  "aliases": [
+    ""
+  ],
+  "description": "An online platform that provides learning tools in Arabic on STEM Education, and specifically coding and programming using SYSCOLAB, Arduino and other. The idea is to make Coding and Programming accessible to learn ",
+  "website": "http://thinking-oasis.com/notyetlaunched",
+  "license": [
+    {
+      "spdx": "CNRI-Python"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "As an NGO, we aim to provide equal and accessible learning opportunities to develop 21st century skills, with focus on critical thinking skills, using STEM education. ",
+      "evidenceURL": "http://thinking-oasis.com/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "aimodel"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Thinking Oasis for Capacity Building",
+      "website": "http://thinking-oasis.com/",
+      "org_type": "owner",
+      "contact_name": "Nada Alsharif",
+      "contact_email": "nada.sharif@thinking-oasis.com"
+    }
+  ],
+  "stage": "nominee"
+}
