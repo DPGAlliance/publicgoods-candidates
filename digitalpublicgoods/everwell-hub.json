@@ -30,12 +30,12 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "ISO 27001"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://www.everwell.org/_files/ugd/4b9674_3fdf417f100745a5a79959ebb8917ae8.pdf"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "As a default, this project does not collect of store PII data, but some partners and deployments would like the option to have the same; in which case we store the name, address and phone number of the consenting individual and clearly mention in our contracting terms that we do not own any of this data"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
