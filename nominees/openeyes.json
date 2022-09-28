@@ -1,5 +1,5 @@
 {
-  "name": "OpenEYyes",
+  "name": "OpenEyes",
   "aliases": [
     "OE"
   ],
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "OpenEyes has been developed with the goal of improving ophthalmic outcomes for patients, ",
+      "evidenceText": "OpenEyes has been developed with the goal of improving ophthalmic outcomes for patients",
       "evidenceURL": "http://openeyes.apperta.org"
     },
     {
@@ -23,13 +23,15 @@
       "evidenceURL": "https://apperta.org/assets/Apperta_Custodian_Model.pdf"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "openeyes",
+      "name": "main",
       "url": "https://github.com/AppertaFoundation/openeyes"
     }
   ],
