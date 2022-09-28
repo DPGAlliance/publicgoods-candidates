@@ -61,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Regular monitoring of dependencies, secure access to server resources, education of users about encryption-at-rest options, etc. More details available if needed. \nPrivacy policy links: \n- https://www.humanitarianresponse.info/en/applications/kobotoolbox/privacy-policy \n- https://www.kobotoolbox.org/privacy"
+      "privacySecurityDescription": "Regular monitoring of dependencies, secure access to server resources, education of users about encryption-at-rest options, etc. More details available if needed. \nPrivacy policy links: \n- https://www.kobotoolbox.org/privacy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
