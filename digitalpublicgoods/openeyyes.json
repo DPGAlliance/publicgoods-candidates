@@ -1,0 +1,83 @@
+{
+  "name": "OpenEYyes",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00003557481"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://openeyes.atlassian.net/wiki/spaces/OPD/pages/1570209809/Developer+Guidelines",
+      "https://openeyes.atlassian.net/jira/software/c/projects/OE/boards/147"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "DCB0129: Clinical Risk Management: its Application in the Manufacture of Health IT Systems",
+      "DCB0160: Clinical Risk Management: its Application in the Deployment and Use of Health IT Systems"
+    ],
+    "adherenceSteps": [
+      "Apperta Foundation Custodian Model requires sign up to CLA and MOU, ensuring partners working with Health Care Organisations adhere to the standards set by the Custodian, through design, development, implementation and support.  ",
+      "Apperta undertake DCB0129 assurance of all contributions to the codebase "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems",
+      "https://www.gov.uk/government/publications/cyber-essentials-scheme-overview",
+      "https://www.openchainproject.org/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://apperta.org/assets/Apperta_Defining_an_Open_Platform.pdf",
+      "https://openeyes.atlassian.net/wiki/spaces/OPD/pages/1570209809/Developer+Guidelines"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "DCB0129 / DCB0160 Clinical Assurance through the Custodian model. Technical assurance through the technical custodian, appointed via the Custodian to review security and other technical input to the project."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The users of OpenEyes are clinical and non-medical staff at health care organisations. This means that use of OE is controlled by the implementing organisations and end users will not be underage. "
+      ],
+      "harassmentProtectionSteps": [
+        "All contributors sign up to a standard set of values as part of the contributor agreement. The custodian (Apperta) set organisational values and behaviours for all members and ensure the community can contribute without grief, abuse or harassment. "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom",
+      "Australia",
+      "Hungary"
+    ],
+    "deploymentCountries": [
+      "United Kingdom",
+      "Australia",
+      "South Africa",
+      "Greece",
+      "Pakistan",
+      "Trinidad and Tobago"
+    ]
+  }
+}
