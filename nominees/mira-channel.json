@@ -3,16 +3,16 @@
   "aliases": [
     "MIRA"
   ],
-  "description": "MIRA is and integrated last mile basic health service communication, tracking and service delivery platform designed as a front end toolkit using audio-visual interaction with beneficiaries. It ensures timely registration of pregnant women and new-borns, provide time specific health information and timely delivery of health services. ",
+  "description": "MIRA is an integrated last mile basic health service communication, tracking and service delivery platform designed as a front end toolkit using audio-visual interaction with beneficiaries. It ensures timely registration of pregnant women and new-borns, provide time specific health information and timely delivery of health services. ",
   "website": "https://www.mirachannel.org",
   "license": [
     {
       "spdx": "CC-BY-NC-3.0-US",
-      "licenseURL": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons Attribution-NonCommercial 4.0 International License</a>."
+      "licenseURL": "https://www.mirachannel.org"
     },
     {
       "spdx": "CC-BY-2.0",
-      "licenseURL": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc/4.0/88x31.png\" /></a><br />This work is licensed under a http://creativecommons.org/licenses/by-nc/4.0/\""
+      "licenseURL": "https://www.mirachannel.org"
     }
   ],
   "SDGs": [
