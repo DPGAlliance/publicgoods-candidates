@@ -5,7 +5,9 @@
     "copyrightURL": "https://cran.r-project.org/web/packages/EpiEstim/index.html"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -15,13 +17,26 @@
   },
   "NonPII": {
     "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
     "nonPIIAccessMechanism": "N/A"
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Be Data Driven, Be Collaborative, Reuse and Improve, Use Open Source/Standards/Data/Innovation"
@@ -29,26 +44,47 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown"
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown"
+      "collectsPII": "Unknown",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Incidences of disease outbreaks and transmissions from person to person",
       "contentFilter": "Yes",
-      "illegalContentDetection": "Yes",
       "policyGuidelinesDocumentationLink": "https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/",
+      "illegalContentDetection": "Yes",
       "illegalContentDetectionMechanism": "https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/"
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
     "developmentCountries": [
       "United Kingdom"
+    ],
+    "deploymentCountries": [
+      ""
     ]
   }
 }
