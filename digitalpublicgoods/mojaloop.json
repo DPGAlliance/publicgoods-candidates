@@ -2,7 +2,7 @@
   "name": "Mojaloop",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://docs.mojaloop.io/documentation/mojaloop-background/ \n https://mojaloop.io/terms-of-use/"
+    "copyrightURL": "https://mojaloop.io/terms-of-use/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
