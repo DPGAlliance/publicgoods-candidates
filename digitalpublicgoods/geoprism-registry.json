@@ -1,0 +1,67 @@
+{
+  "name": "GeoPrism Registry",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.terraframe.com/products"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://georegistry-api-docs.geoprism.net",
+      "https://terraframe.atlassian.net/wiki/spaces/GGR/pages/901513246/Developer+APIs"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GeoPrism Registry does not manage personal data, but rather lists, hierarchies and geospatial data curated by the ministries with the authoritative mandate. This includes administrative divisions, villages, infrastructure, and other relevant physical and virtual features."
+    ],
+    "adherenceSteps": [
+      "Documentation on the user roles to ensure only the organizations with the authoritative mandate can make data public: https://terraframe.atlassian.net/wiki/spaces/GGR/pages/931004419/User+Management"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "OAuth 2, SAML, UTF-8, HTML, CSS, ECMAScript, REST, OpenAPI, JSON, GeoJSON, XML, VectorTiles"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/terraframe/geoprism-registry/tree/master/georegistry-test"
+    ],
+    "bestPracticesList": [
+      "Understand the Existing Ecosystem, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Standards, Open Source and Open Innovation, Reuse and Improve, Address Privacy & Security, Be Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "A multi-tenant architecture and role-based access controls ensure that only the organizations with the authoritative mandate can share and make public geospatial data. Changes to data are supervised through change request management workflow to ensure sensitive data are not made public."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Laos",
+      "Mozambique",
+      "United States of America"
+    ]
+  }
+}
