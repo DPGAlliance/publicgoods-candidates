@@ -5,7 +5,9 @@
     "copyrightURL": "https://www.terraframe.com/products"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -15,7 +17,9 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -28,13 +32,24 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
-      "OAuth 2, SAML, UTF-8, HTML, CSS, ECMAScript, REST, OpenAPI, JSON, GeoJSON, XML, VectorTiles"
+      "OAuth 2",
+      "SAML",
+      "UTF-8",
+      "HTML",
+      "CSS",
+      "ECMAScript",
+      "REST",
+      "OpenAPI",
+      "JSON",
+      "GeoJSON",
+      "XML",
+      "VectorTiles"
     ],
     "evidenceStandardSupport": [
       "https://github.com/terraframe/geoprism-registry/tree/master/georegistry-test"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Understand the Existing Ecosystem, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Standards, Open Source and Open Innovation, Reuse and Improve, Address Privacy & Security, Be Collaborative"
     ]
@@ -45,13 +60,35 @@
       "additionalInfoMechanismProcessesPolicies": "A multi-tenant architecture and role-based access controls ensure that only the organizations with the authoritative mandate can share and make public geospatial data. Changes to data are supervised through change request management workflow to ensure sensitive data are not made public."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
