@@ -1,0 +1,56 @@
+{
+  "name": "Document GPS",
+  "aliases": [
+    ""
+  ],
+  "description": "A secure way to transmit information using Web3 protocols while also reducing large carbon emissions from digital infrastructure.  ",
+  "website": "https://shelterzoom.com/document-gps",
+  "license": [
+    {
+      "spdx": "CC-BY-1.0",
+      "licenseURL": "https://creativecommons.org/licenses/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "This low-cost solution brings digital security to remote and low-income populations."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The private and secure platform is already in use by hospitals and can be used by most health care settings anywhere in the world.  "
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The Web3, decentralized nature of the platform brings a new era of digital security without undue burden or cost. "
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The platform has tools for underpinning the growth of Smart Cities and other urban digital infrastructure initiatives. "
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "By using a secure single point of access to information Document GPS can prevent millions of tonnes of CO2 emissions from unnecessary and repetitive downloads. "
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "The platform provides a way to store immutable records, including laws/contracts and other vital documents. These are a necessity for a safe and just society. Our groundbreaking project with a library at the Vatican was profiled in the New York Times (see link) which is just one example of how our technology can preserve culture and history, but the same platform is adaptable to the transfer of any important records.  ",
+      "evidenceURL": "https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "ShelterZoom",
+      "website": "https://shelterzoom.com/",
+      "org_type": "maintainer",
+      "contact_name": "Amy Dobson",
+      "contact_email": "Amy.Dobson@shelterzoom.com"
+    }
+  ],
+  "stage": "nominee"
+}
