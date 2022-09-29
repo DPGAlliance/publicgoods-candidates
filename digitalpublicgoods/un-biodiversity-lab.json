@@ -5,17 +5,16 @@
     "copyrightURL": "https://unbiodiversitylab.org/about/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "The most recent release of UNBL has switched our AWS and Google services for Azure services. However, this code still needs to be cleaned before we release publicly (planned release: July/August 2022). This addresses many of the dependencies highlighted above. Changes include: \n - GEE Storage and Tilling have been replaced with STAC + any file store (we use Azure Storage). This was a very large and challenging step forward. \n - GEE metrics have been replaced with python/gdal/rasterio/numpy which are all open. However, these services are run on a 'cloud scale' using Azure Batch, which is not. \n -GEE Tiler has been replaced with Titiler, which is open. However, this service is run on a 'cloud scale' using Azure Batch, which is not. \n- AWS Lambda was replaced with Azure functions (both not open). \n - AWS SNS/SQS was replaced with Azure batch (both not open). \n -We also have a (fairly light) dependency on Mapbox which is not documented above. \n\n -We understand there are a couple of components referenced above which are cloud-platform specific. We knowingly created them to be very loosely coupled. Any event handler, such as a generic Kafka service, could provide the needed functionality. The cloud-providers make their own packaged versions of these real-time event handler services at a significant improvement in development time and operating costs. \n- Making a SaaS platform as large and feature rich as the UNBL platform completely cloud agnostic would be excessively expensive and less reliable, two things that are extremely important in this case."
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://unbiodiversitylab.org/support/",
       "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf",
-      "https://github.com/natgeosociety/marapp-frontend",
-      "https://github.com/natgeosociety/marapp-services"
+      "How to find licensing information for a dataset - When selecting the layers, on the legend box there will be a small i symbol, ‘layer info', at the right of the layer's name. By clicking it, you can explore the metadata and learn more about the source. "
     ]
   },
   "NonPII": {
@@ -43,18 +42,18 @@
       "JavaScript"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/natgeosociety/marapp-frontend"
+      "https://map.unbiodiversitylab.org/earth"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Yes, the core tenets of PDD have been followed. ",
       "Design Thinking Methodology has been followed which has significant overlap with the PDD principles.",
       "Design with the User - User Centered Design was followed with many user workshops following the Empathize,Define,Ideate, Prototype, Test, Implement.",
-      "Understand the Ecosystem – Multiple workshops held with the users in the target countries. ",
-      "Design for Scale – The platform was designed to scale with a serverless architecture, load-testing for 300 current users at a time.",
+      "Understand the Ecosystem - Multiple workshops held with the users in the target countries. ",
+      "Design for Scale - The platform was designed to scale with a serverless architecture, load-testing for 300 current users at a time.",
       "Data Driven - Analytics and tag management have been built in as well as HotJar for site usage analysis.",
       "Use Open Standards - The entire application is built using open standard tools, frameworks, libraries and servers.",
-      "Reuse and Improve - We are contributors on several open source projects that are using. We’ve found and fixed a few bugs, but mostly we’re improving the packages for better scaling. For example, you’ll find several issues opened and pull requests submitted for pgstac from Impact Observatory members.",
+      "Reuse and Improve - We are contributors on several open source projects that are using. We've found and fixed a few bugs, but mostly we're improving the packages for better scaling. For example, you'll find several issues opened and pull requests submitted for pgstac from Impact Observatory members.",
       "Security - we have carefully walked the line so far to keep all PII data (user account data) held within the security provider Auth0. We do not have any PII data under our management that can be compromised."
     ]
   },
