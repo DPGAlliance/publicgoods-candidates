@@ -1,7 +1,7 @@
 {
   "name": "GeoPrism Registry",
   "aliases": [
-    "GPR, Common Geo-Registry, CGR"
+    "Common Geo-Registry"
   ],
   "description": "GeoPrism Registry allows for the simultaneous hosting, management, regular update, and sharing of master lists, associated hierarchies, and geospatial data for the geographic objects core to sustainable development including public health, education, agriculture, infrastructure, and other public and private services. ",
   "website": "https://terraframe.atlassian.net/wiki/spaces/GGR/overview/",
