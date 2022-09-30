@@ -80,7 +80,7 @@
       "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
-      "policyGuidelinesDocumentationLink": "https://docs.dhis2.org/2.34/en/dhis2_android_implementation_guideline/data-security-and-privacy.html \n https://www.dhis2.org/security",
+      "policyGuidelinesDocumentationLink": "https://docs.dhis2.org/en/implement/android-implementation/data-security-and-privacy.html \n https://www.dhis2.org/security",
       "illegalContentDetection": "",
       "illegalContentDetectionMechanism": "As stated above, the platform is not intended for collecting, storing, or distributing content"
     },
