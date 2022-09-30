@@ -5,7 +5,9 @@
     "copyrightURL": "https://www.trademarkia.com/company-shelterzoom-corp-4832561-page-1-2"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,12 +16,15 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR, ISO"
+      "GDPR",
+      "ISO"
     ],
     "adherenceSteps": [
       "External auditors and stress testing"
@@ -27,7 +32,16 @@
   },
   "standards": {
     "supportStandards": "Unknown",
-    "implementBestPractices": "Unknown"
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
@@ -35,13 +49,35 @@
       "additionalInfoMechanismProcessesPolicies": "Zero trust protocols"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
