@@ -88,9 +88,9 @@
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "Interactions between users / contributors on this project are managed through an online forum, the DHIS2 Community of Practice.",
+        "Interactions between users / contributors on this project are managed through an online forum, the DHIS2 Community of Practice: https://developers.dhis2.org/community",
         "The target audience for this community is skilled users of the DHIS2 software (expected age 20+), and discussion is limited to topics relating to software implementation and use.",
-        "The age limit for participation on the forum is set at 13 or older: https://community.dhis2.org/t/terms-of-service/4 -- At this point, we have no reason to believe that any underage users are participating in our forum.",
+        "The age limit for participation on the forum is set at 13 or older. At this point, we have no reason to believe that any underage users are participating in our forum.",
         "In regards to the DHIS2 software itself, access controls are established by the countries or organizations implementing the software, which is targeted at professional users."
       ],
       "griefAbuseHarassmentProtection": "Yes",
