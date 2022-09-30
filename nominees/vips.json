@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://nibio.no/en/about-eng/software-licenses-and-agreements"
+      "licenseURL": "https://gitlab.nibio.no/VIPS/VIPSCore/-/blob/develop/LICENSE.txt"
     }
   ],
   "SDGs": [
