@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Non-PII data can be extracted and/or imported using the DHIS2 Web API as described here: https://docs.dhis2.org/2.35/en/dhis2_developer_manual/web-api.html and via the Import-Export App within DHIS2"
+    "nonPIIAccessMechanism": "Non-PII data can be extracted and/or imported using the DHIS2 Web API as described here: https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-235/web-api.html and via the Import-Export App within DHIS2"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
