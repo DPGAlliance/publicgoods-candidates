@@ -46,7 +46,7 @@
     "evidenceStandardSupport": [
       "Some information is available here:",
       "https://www.dhis2.org/integration",
-      "https://docs.dhis2.org/2.35/en/dhis2_implementation_guide/integration-concepts.html"
+      "https://docs.dhis2.org/en/implement/implementing-dhis2/integration-concepts.html"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
