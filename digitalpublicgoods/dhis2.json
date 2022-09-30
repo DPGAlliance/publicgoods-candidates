@@ -62,7 +62,7 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "The DHIS2 core team provides general guidance on configuring the system for collection of personal data that include references for navigating legal privacy frameworks: https://docs.dhis2.org/2.35/en/dhis2_tracker_implementation_guide/is-my-project-ready-for-tracker.html#legislation-and-policies. PII collected varies per country, based on program needs and privacy regulations. Some examples include:",
+        "The DHIS2 core team provides general guidance on configuring the system for collection of personal data that include references for navigating legal privacy frameworks: https://docs.dhis2.org/en/implement/tracker-implementation/is-my-project-ready-for-tracker.html#legislation-and-policies. PII collected varies per country, based on program needs and privacy regulations. Some examples include:",
         "name",
         "date of birth",
         "address",
