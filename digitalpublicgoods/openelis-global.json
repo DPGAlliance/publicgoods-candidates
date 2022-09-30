@@ -1,0 +1,98 @@
+{
+  "name": "OpenELIS Global",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "http://openelis-global.org/about/partners/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://docs.openelis-global.org/en/latest/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The FHIR API can be used to selectively pull data"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "It complies with GDPR, it also passes HIPPA compliance as well as ISO requirements for LIS systems "
+    ],
+    "adherenceSteps": [
+      "We have done extensive privacy and sucurity audits with the USG to ensure the highest levels of data security, we also have internal reviews of GDPR compliance."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR, HL7 v2, ASTM, IPS, MCD"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/I-TECH-UW/OpenELIS-Global-2/wiki/FHIR-Notes"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We have rigourous policies not to host any PII on any servers, as we do not operate on a SAAS model, and rather help governmental and NGO groups to host servers securely on-site. We offer security audit documentation and guidance. \n In our design of the software, we incorperate a do no harm model which gives only the most necessary of identifying information when working with lab samples (EG: patient names not listed on workplans), and the incorperation of IDs which allow for patient names to be un-recorded."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "All medical and lab data"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We work with CDC to go through an intense security audit of the source code, and deployed software to ensure that the OpenELIS system is completely safe, and can be deployed on highly secure networks (EG: US Embassy networks). This ensures that OpenELIS conforms to the most rigorous of security standards"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Côte d'Ivoire",
+      "Mauritius",
+      "Uganda",
+      "Haiti",
+      "United States of America",
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "Côte d'Ivoire",
+      "Mauritius",
+      "Haiti",
+      "Kenya"
+    ]
+  }
+}
