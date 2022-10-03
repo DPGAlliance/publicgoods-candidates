@@ -34,7 +34,9 @@
     {
       "name": "Helmholtz Centre for Infection Research",
       "website": "https://www.helmholtz-hzi.de/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Dörrbecker, Juliane",
+      "contact_email": "juliane.doerrbecker@helmholtz-hzi.de"
     }
   ],
   "stage": "DPG"

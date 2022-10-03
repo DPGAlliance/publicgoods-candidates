@@ -42,7 +42,9 @@
     {
       "name": "Ona",
       "website": "https://company.ona.io/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Marcha Bekker",
+      "contact_email": "mbekker@ona.io"
     }
   ],
   "stage": "DPG"

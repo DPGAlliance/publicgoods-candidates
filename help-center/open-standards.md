@@ -5,6 +5,7 @@ Open standards establish protocols and building blocks that can help make digita
 * [WCAG 2.0/2.1 (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 #### Security
+* [ISO/IEC 27001 (Information Security Management)](https://www.iso.org/isoiec-27001-information-security.html)
 * PKI
 * HTTPS
 * SSL
@@ -40,10 +41,13 @@ Open standards establish protocols and building blocks that can help make digita
 * OpenAPI
 
 #### Data Exchange formats 
-* JSON (JavaScript Object Notation)
-* XML (Extensible Markup Language)
-* CSV (Comma Separated Values)
-* TIFF
+* [JSON](https://www.json.org/json-en.html)
+* [YAML](https://yaml.org/)
+* [XML](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
+* [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+* [TIFF](https://en.wikipedia.org/wiki/TIFF)
+* [GeoTIFF](https://www.ogc.org/standards/geotiff)
+* [HDF5](https://www.ogc.org/standards/HDF5)
 * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
 #### Software Quality Assurance
@@ -75,3 +79,7 @@ Open standards establish protocols and building blocks that can help make digita
 * H.264 (H.264/MPEG-4 AVC)
 * AAC (Advanced Audio Coding)
 * MP4 (MPEG-4 Part 14)
+
+#### Virtual Reality/ Augmented Reality (VR /AR)
+* [WebXR](https://www.w3.org/TR/webxr/)
+* [IEEE Digital Reality standards](https://digitalreality.ieee.org/standards)
