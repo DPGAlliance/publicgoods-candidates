@@ -1,0 +1,109 @@
+{
+  "name": "UN Biodiversity Lab",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://unbiodiversitylab.org/about/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://unbiodiversitylab.org/support/",
+      "https://www.new.unbiodiversitylab.org/wp-content/uploads/2021/01/Global-Public-Good-Dataset-Criteria-v8_1-.pdf",
+      "How to find licensing information for a dataset - When selecting the layers, on the legend box there will be a small i symbol, ‘layer info', at the right of the layer's name. By clicking it, you can explore the metadata and learn more about the source. "
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data layers can be downloaded directly from UNBL, if allowed by the original data provider. Where this is not possible, we provide links to the original source for download. Shapes can be downloaded directly from the UNBL interface and MongoDB has an export tool. Metrics calculated on UNBL can be downloaded as a CSV or JSON."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation 2016/679 (GDPR)"
+    ],
+    "adherenceSteps": [
+      "Privacy Policy - https://unbiodiversitylab.org/privacy-policy/",
+      "Terms of Use - https://unbiodiversitylab.org/terms-of-use/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "UNBL is built on 100% open data standards. All Science Data Sets (SDS) are spatially and temporally indexed using the STAC catalog specifications, allowing easy discovery and access to exactly the right AOI and time ranges desired. SDS are stored in Cloud Optimized GeoTIFFs to provide easy access to small areas (AOIs) within the very large GeoTIFF files, eliminating the need to have the entire dataset local to access and perform calculations on and create client-side visualization of using open tiling solutions (e.g. titiler). All analysis of the SDS is done using open standard analysis libraries including gdal, numpy, and xarray.",
+      "Web Content Accessibility Guidelines (WCAG)",
+      "CSV",
+      "JSON",
+      "JavaScript"
+    ],
+    "evidenceStandardSupport": [
+      "https://map.unbiodiversitylab.org/earth"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Yes, the core tenets of PDD have been followed. ",
+      "Design Thinking Methodology has been followed which has significant overlap with the PDD principles.",
+      "Design with the User - User Centered Design was followed with many user workshops following the Empathize,Define,Ideate, Prototype, Test, Implement.",
+      "Understand the Ecosystem - Multiple workshops held with the users in the target countries. ",
+      "Design for Scale - The platform was designed to scale with a serverless architecture, load-testing for 300 current users at a time.",
+      "Data Driven - Analytics and tag management have been built in as well as HotJar for site usage analysis.",
+      "Use Open Standards - The entire application is built using open standard tools, frameworks, libraries and servers.",
+      "Reuse and Improve - We are contributors on several open source projects that are using. We've found and fixed a few bugs, but mostly we're improving the packages for better scaling. For example, you'll find several issues opened and pull requests submitted for pgstac from Impact Observatory members.",
+      "Security - we have carefully walked the line so far to keep all PII data (user account data) held within the security provider Auth0. We do not have any PII data under our management that can be compromised."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Clear documentation of all sources and guidance on appropriately using and citing the maps and data."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "When visiting or registering on our site, as appropriate, users may be asked to enter name, email address, phone number or other details to help the experience. We ensure that the collection of personal data is adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "With your previous consent, we may use the information we collect from you when you create an account in our website, respond to a survey or marketing communication, surf our website, or use certain other site features in the following ways:",
+        "- To send periodic newsletters or site communications",
+        "- To collect statistics about users in order for us to improve the website"
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We treat personal data with confidentiality and will only disclose it when necessary to provide services or report on business operations. When you sign-up on our website, your contact information is shared with MailChimp, which hosts our newsletter list and page. Aggregate statistics of user interaction with the platform are created from non-personally identifiable information. Reference - https://unbiodiversitylab.org/privacy-policy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "United Kingdom",
+      "Romania"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}

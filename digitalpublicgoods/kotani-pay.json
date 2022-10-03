@@ -1,0 +1,100 @@
+{
+  "name": "Kotani Pay",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/kotanipay/Kotani-Pay-API/blob/main/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Kotani Pay offers an API solution which is open-source. Our current dependency is on Firebase as a database solution but we are migrating to MongoDB to ensure complete platform independence"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.kotanipay.com",
+      "https://github.com/Kotani-Pay/docs"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Because our API is exposed, data can be extracted in JSON format"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Data Protection Act of Kenya (https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=109333&p_count=3&p_classification=01)"
+    ],
+    "adherenceSteps": [
+      "Kotani Pay Privacy Policy - https://kotanipay.com/privacy.html",
+      "Kotani Pay Terms and Conditions - https://kotanipay.com/terms.html"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Security (PKI, HTTPS, SSL)",
+      "Authentication (JWT)",
+      "Internationalization (UTF-8)",
+      "ECMAScript (ES 6)",
+      "Software Architecture (REST)",
+      "APIs (OpenAPI)",
+      "Data Exchange (JSON)"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/kotanipay/Kotani-Pay-API"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile methodology",
+      "Continous Integration & Continous Deployment (CI/CD)",
+      "Universal Access & Open APIs"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Kotani Pay ensures that users are protected as they use the solution by adhering to cybersecurity policies and privacy and data protection policies (https://docs.google.com/document/d/1jBkF-yF9BFwp8t-_qyb9_zhJjtbe-U7JWOU7SjSrKR8/edit)"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Personal Information including users' full names, government-issued identification number, date of birth, age, and gender."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "When employees use their digital devices to access company emails or accounts, they introduce security risks to our data. We advise our employees to keep their personal and company-issued computers, tablets and cell phones secure. They do this by: \n- Keeping all devices and passwords protected. \n - Choosing and upgrading antivirus software. \n- Ensure they do not leave their devices exposed or unattended. \n - Install security updates of browsers and systems monthly or as soon as updates are available. \n - Log into company accounts and systems through secure and private networks only."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Kotani Pay does not serve underage users. For a user to access our service, they have to have a government-issued ID."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "We outline standards for user interaction in our contributor guidelines (https://docs.kotanipay.com/fundamentals/contribution-guidelines)"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}
