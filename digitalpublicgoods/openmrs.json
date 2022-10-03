@@ -2,7 +2,7 @@
   "name": "OpenMRS",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy \nhttps://wiki.openmrs.org/display/RES/OpenMRS+Copyright+and+DMCA+Policy"
+    "copyrightURL": "https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
