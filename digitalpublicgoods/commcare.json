@@ -5,7 +5,7 @@
     "copyrightURL": "CommCare is an ecosystem of open source components, fronted by CommCareHQ (Web) and CommCare Mobile. CommCare Web is sourced under the open source BSD license while CommCare Mobile is sourced under the Apache License. Everything we produce has clearly defined, both, functional: https://confluence.dimagi.com/display/commcarepublic/Home \n technical: https://github.com/dimagi/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
