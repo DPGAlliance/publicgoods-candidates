@@ -74,15 +74,15 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "DHIS2 features configurable access control levels that restrict access to specific kinds of information to particular user roles, groups, and organization units. Additionally, metadata can be defined as either public or private. The DHIS2 database itself can be encrypted. A discussion of some privacy controls can be found here: https://community.dhis2.org/t/how-does-dhis2-protect-personal-information-the-tech-details/5335/2"
+      "privacySecurityDescription": "DHIS2 features configurable access control levels that restrict access to specific kinds of information to particular user roles, groups, and organization units. Additionally, metadata can be defined as either public or private. The DHIS2 database itself can be encrypted. A discussion of some privacy controls can be found here: https://community.dhis2.org/t/how-does-dhis2-protect-personal-information-the-tech-details/5335/2 \n https://docs.dhis2.org/en/implement/android-implementation/data-security-and-privacy.html"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
-      "policyGuidelinesDocumentationLink": "https://docs.dhis2.org/en/implement/android-implementation/data-security-and-privacy.html \n https://www.dhis2.org/security",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
-      "illegalContentDetectionMechanism": "As stated above, the platform is not intended for collecting, storing, or distributing content"
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
