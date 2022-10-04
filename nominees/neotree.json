@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/neotree/neotree/blob/master/LICENSE"
+      "licenseURL": "https://github.com/neotree/neotree/blob/master/"
     }
   ],
   "SDGs": [
@@ -23,24 +23,24 @@
   ],
   "repositories": [
     {
-      "name": "Main",
+      "name": "Neotree overall project",
       "url": "https://github.com/neotree/neotree"
     },
     {
-      "name": "Mobile app",
+      "name": "Neotree mobile app",
       "url": "https://github.com/neotree/neotree-react-native-app"
     },
     {
-      "name": "Editor",
-      "url": "https://github.com/neotree/neotree-editor"
+      "name": "Neotree backend ",
+      "url": "https://github.com/neotree/node-api"
     },
     {
-      "name": "Data pipeline",
+      "name": "Neotree data pipeline ",
       "url": "https://github.com/neotree/neotree-data-pipeline-kedro"
     },
     {
-      "name": "Backend ",
-      "url": "https://github.com/neotree/node-api"
+      "name": "Neotree Editor ",
+      "url": "https://github.com/neotree/neotree-editor"
     }
   ],
   "organizations": [
@@ -48,8 +48,8 @@
       "name": "Neotree",
       "website": "https://neotree.org/",
       "org_type": "owner",
-      "contact_name": "Yali Sassoon",
-      "contact_email": "yali@snowplowanalytics.com"
+      "contact_name": " Dr Michelle Heys",
+      "contact_email": "m.heys@ucl.ac.uk"
     }
   ],
   "stage": "nominee"
