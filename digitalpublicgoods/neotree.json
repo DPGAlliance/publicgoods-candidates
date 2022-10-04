@@ -1,0 +1,73 @@
+{
+  "name": "Neotree",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://neotree.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/neotree/node-api/blob/master/README.md",
+      "https://github.com/neotree/neotree-data-pipeline-kedro/blob/master/README.md",
+      "https://github.com/neotree/neotree-react-native-app/blob/master/README.md",
+      "https://github.com/neotree/neotree#readme",
+      "https://github.com/neotree/neotree-editor/blob/master/README.md"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be exported as JSON and CSV. In addition, the data is stored in a Postgres database, so can be exported as SQL or accessed via a JDBC or ODBC driver"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR "
+    ],
+    "adherenceSteps": [
+      "Technical and organisational measures taken to ensure the security of all data incl. but not limited to (i) data encrypted in transit and at rest, (ii) pseudonomization of personal data (iii) robust access control"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Unknown",
+    "standardsList": [
+      "RESTful API",
+      "JSON data serialization"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Very thorough testing of software in situ by clinicians with the release of all functionality to assess impact "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Pseudonomized identifiers for individual patients"
+      ],
+      "thirdPartyDataSharing": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "South Africa",
+      "United Kingdom",
+      "Zimbabwe",
+      "Malawi"
+    ],
+    "deploymentCountries": [
+      "Zimbabwe",
+      "Malawi"
+    ]
+  }
+}
