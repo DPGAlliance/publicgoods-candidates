@@ -1,0 +1,79 @@
+{
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "policyGuidelinesDocumentationLink": "https://www.opentelerehab.com/termsandconditions",
+      "illegalContentDetection": "Yes",
+      "type": "Exercices, information and education material",
+      "collectStoreDistribute": "Yes",
+      "contentFilter": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "typesOfDataCollected": [
+        "Name",
+        "Personal telephone number",
+        "Date of birth",
+        "Email adress",
+        "Medical information"
+      ],
+      "ensurePrivacySecurity": "Unknown",
+      "collectsPII": "Yes",
+      "thirdPartyDataSharing": "No"
+    },
+    "protectionFromHarassment": {
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "test"
+      ],
+      "addressSafetySecurityUnderageUsers": "No",
+      "userInteraction": "No",
+      "harassmentProtectionSteps": [
+        "test"
+      ],
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab"
+    ]
+  },
+  "clearOwnership": {
+    "copyrightURL": "https://euipo.europa.eu/eSearch/#basic/1+1+1+1/opentelerehab",
+    "isOwnershipExplicit": "Yes"
+  },
+  "privacy": {
+    "privacyComplianceList": [],
+    "isPrivacyCompliant": "No",
+    "adherenceSteps": []
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ],
+    "evidenceStandardSupport": [
+      "https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab/pages/8880423/WCAG"
+    ],
+    "standardsList": [
+      "WCAG Level A/AA"
+    ]
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes"
+  },
+  "name": "OpenTeleRehab",
+  "locations": {
+    "developmentCountries": [
+      "Vietnam"
+    ],
+    "deploymentCountries": []
+  }
+}
