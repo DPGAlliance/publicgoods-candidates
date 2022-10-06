@@ -5,7 +5,9 @@
     "copyrightURL": "https://codeyourfuture.io/governance/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -44,17 +46,31 @@
       "additionalInfoMechanismProcessesPolicies": "For the syllabus, no. It's a syllabus. For our in-person course we check our outcomes and we create a buddy programme to support trainees https://docs.google.com/spreadsheets/d/1HtKd6J12ISE5va4fG0fPGIy18ILA0I6jZJS3FFN4DFw/edit?usp=sharing https://docs.google.com/spreadsheets/d/1SFNpbbFVXE1Lusm5MI7lc51r09_2ecpyFNvKUuAkkFU/edit?usp=sharing https://vimeo.com//650257108#t=2m48s"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). technical error reports from devices (using Sentry.io). usage analytics to understand how users are interacting with the app (using Matomo, self-hosted)"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Full stack web development training",
       "contentFilter": "No",
-      "illegalContentDetection": "No"
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "No",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "For the syllabus, no, because it's just a website with no interactions. For our course, we have a code of conduct, a safeguarding lead, safeguarding training, and a personal coach for targeted support sessions for people with social impairments."
