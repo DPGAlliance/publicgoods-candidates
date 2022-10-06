@@ -5,7 +5,9 @@
     "copyrightURL": "https://neotree.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -33,10 +35,13 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Unknown",
     "standardsList": [
       "RESTful API",
       "JSON data serialization"
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
     ]
   },
   "doNoHarm": {
@@ -49,13 +54,31 @@
       "typesOfDataCollected": [
         "Pseudonomized identifiers for individual patients"
       ],
-      "thirdPartyDataSharing": "No"
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
