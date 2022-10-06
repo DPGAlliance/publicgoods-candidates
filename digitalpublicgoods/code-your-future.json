@@ -1,0 +1,85 @@
+{
+  "name": "Code Your Future",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://codeyourfuture.io/governance/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://module-template.codeyourfuture.io/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The syllabus can be accessed without an account so no PII is collected unless people join our in person classes. We are a registered charity and regulated in the UK by the Charity Commission and Ofsted."
+    ],
+    "adherenceSteps": [
+      "https://codeyourfuture.io/governance/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "This doesn't quite fit our use case. We align to SFIA mappings for graduation https://sfia-online.org/en."
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.google.com/document/d/1jMxqI0L7IKFENCQ8Lw-D1lhnj3c3RZI_WK808wG4YJM/edit?usp=sharing"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://teachtogether.tech/en/index.html"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "For the syllabus, no. It's a syllabus. For our in-person course we check our outcomes and we create a buddy programme to support trainees https://docs.google.com/spreadsheets/d/1HtKd6J12ISE5va4fG0fPGIy18ILA0I6jZJS3FFN4DFw/edit?usp=sharing https://docs.google.com/spreadsheets/d/1SFNpbbFVXE1Lusm5MI7lc51r09_2ecpyFNvKUuAkkFU/edit?usp=sharing https://vimeo.com//650257108#t=2m48s"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Full stack web development training",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "For the syllabus, no, because it's just a website with no interactions. For our course, we have a code of conduct, a safeguarding lead, safeguarding training, and a personal coach for targeted support sessions for people with social impairments."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Brazil",
+      "United Kingdom",
+      "South Africa",
+      "Colombia",
+      "Belgium",
+      "Eritrea",
+      "France",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Pakistan",
+      "India",
+      "Italy"
+    ],
+    "deploymentCountries": [
+      "United Kingdom",
+      "South Africa"
+    ]
+  }
+}
