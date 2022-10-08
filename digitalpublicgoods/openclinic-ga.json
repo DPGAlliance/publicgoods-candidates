@@ -1,0 +1,83 @@
+{
+  "name": "OpenClinic GA",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://sourceforge.net/projects/open-clinic/support"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "FHIR"
+    ],
+    "adherenceSteps": [
+      "FINAL"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Unknown",
+    "standardsList": [
+      "HL7/FHIR",
+      "DICOM",
+      "LOINC"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Unknown"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Belgium",
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Mali",
+      "Rwanda"
+    ],
+    "deploymentCountries": [
+      "Albania",
+      "Bangladesh",
+      "Belgium",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Congo (Congo-Brazzaville)",
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Côte d'Ivoire",
+      "Kenya",
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Senegal",
+      "Rwanda",
+      "Uganda",
+      "Peru",
+      "Sri Lanka",
+      "Tanzania",
+      "Zambia"
+    ]
+  }
+}
