@@ -30,9 +30,19 @@
   ],
   "sectors": [],
   "type": [
-    "content"
+    "content",
+    "data"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "IAP SDG-9 Industry Index",
+      "url": "https://stat.unido.org/SDG"
+    },
+    {
+      "name": "IAP Competitive Industries & Global Value Chains",
+      "url": "http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp"
+    }
+  ],
   "organizations": [
     {
       "name": "United Nations Industrial Development Organization",
