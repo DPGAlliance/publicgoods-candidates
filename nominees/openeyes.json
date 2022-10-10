@@ -1,0 +1,43 @@
+{
+  "name": "OpenEyes",
+  "aliases": [
+    "OE"
+  ],
+  "description": "OpenEyes™ is the leading open source electronic patient record (EPR) for ophthalmology. It has been designed by clinicians to be fast in delivering content, fast to navigate and easy (and fun) to use.",
+  "website": "https://openeyes.apperta.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/AppertaFoundation/openeyes/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenEyes has been developed with the goal of improving ophthalmic outcomes for patients",
+      "evidenceURL": "http://openeyes.apperta.org"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/AppertaFoundation/openeyes"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Apperta Foundation CIC",
+      "website": "http://apperta.org",
+      "org_type": "owner",
+      "contact_name": "David Jobling",
+      "contact_email": "david.jobling@apperta.org"
+    }
+  ],
+  "stage": "nominee"
+}
