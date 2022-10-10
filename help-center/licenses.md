@@ -39,6 +39,10 @@ CC-BY-SA-3.0-AT | Creative Commons Attribution Share Alike 3.0 Austria
 CC-BY-SA-3.0-US | Creative Commons Attribution Share Alike 3.0 United States
 CC-BY-SA-4.0 | Creative Commons Attribution Share Alike 4.0 International
 CC0-1.0 | Creative Commons Zero v1.0 Universal
+CC-BY-3.0-IGO | Creative Commons Attribution 3.0 IGO
+CC-BY-NC-3.0-IGO | Creative Commons Attribution Non Commercial 3.0 IGO
+CC-BY-NC-SA-3.0-IGO | Creative Commons Attribution Non Commercial Share Alike 3.0 IGO
+CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 
 ## Data
 
@@ -50,6 +54,8 @@ CC0-1.0 | Creative Commons Zero v1.0 Universal
 ODbL-1.0 | Open Data Commons Open Database License 1.0
 ODC-By-1.0 | Open Data Commons Attribution License 1.0 
 PDDL-1.0 | Open Data Commons Public Domain Dedication and Licence 1.0
+CC-BY-3.0-IGO | Creative Commons Attribution 3.0 IGO
+CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 
 ## Software
 
