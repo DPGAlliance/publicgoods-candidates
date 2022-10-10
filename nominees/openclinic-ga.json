@@ -27,7 +27,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/jact/openclinic"
+      "url": "https://sourceforge.net/p/open-clinic/code/ci/master/tree/"
     }
   ],
   "organizations": [
