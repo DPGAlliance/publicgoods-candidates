@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://sourceforge.net/projects/open-clinic/support"
+      "https://sourceforge.net/projects/open-clinic/files/Documentation/EN/"
     ]
   },
   "NonPII": {
@@ -50,7 +50,7 @@
     "dataPrivacySecurity": {
       "collectsPII": "Unknown",
       "typesOfDataCollected": [
-        "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). technical error reports from devices (using Sentry.io). usage analytics to understand how users are interacting with the app (using Matomo, self-hosted)"
+        ""
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
@@ -60,7 +60,7 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown",
+      "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
@@ -68,7 +68,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown",
+      "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
