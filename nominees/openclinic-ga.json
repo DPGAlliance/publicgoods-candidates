@@ -7,7 +7,7 @@
   "website": "https://sourceforge.net/projects/open-clinic/",
   "license": [
     {
-      "spdx": "GPL-2.0",
+      "spdx": "LGPL-2.1",
       "licenseURL": "https://sourceforge.net/projects/open-clinic/"
     }
   ],
