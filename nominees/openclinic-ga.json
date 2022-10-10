@@ -7,8 +7,8 @@
   "website": "https://sourceforge.net/projects/open-clinic/",
   "license": [
     {
-      "spdx": "LGPL-2.1",
-      "licenseURL": "https://sourceforge.net/p/open-clinic/code/ci/master/tree/"
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/jact/openclinic/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,19 +18,21 @@
       "evidenceURL": "https://sourceforge.net/projects/open-clinic/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "url": "https://sourceforge.net/projects/open-clinic/",
-      "name": "sourceforge: open-clinic"
+      "name": "main",
+      "url": "https://github.com/jact/openclinic"
     }
   ],
   "organizations": [
     {
-      "name": "postfactum-ict4development",
+      "name": "ICT4D - Post-Factum",
       "website": "http://www.post-factum.be/",
       "org_type": "funder",
       "contact_name": "FRANK VERBEKE",
