@@ -1,0 +1,65 @@
+{
+  "name": "Digital Health Platform",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes"
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "non-PII is used for reporting"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ICD-11, Kenya Essential Medicines List"
+    ],
+    "implementBestPractices": "Yes"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Patient data protection"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Biodata, Diagnostics, Drugs and medical supplies, Financial data"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "griefAbuseHarassmentProtection": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Users are only authorized to access what is relevant for the service they provide"
+      ],
+      "harassmentProtectionSteps": [
+        "Use of passwords to access allowed modules of the platform"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya",
+      "Namibia"
+    ],
+    "deploymentCountries": [
+      "Kenya",
+      "Namibia"
+    ]
+  }
+}
