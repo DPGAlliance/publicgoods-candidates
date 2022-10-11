@@ -1,0 +1,55 @@
+{
+  "name": "Digital Health Platform",
+  "aliases": [
+    "DHP"
+  ],
+  "description": "The Digital Health Platform is an end-to-end Electronic Medical Records platform designed from open-source tools (Microsoft asp.net, c# .net core 3.1, PostgreSQL) to support patient data collection, health records management, storage and reporting.",
+  "website": "http://kenyadhp.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+      "spdx": "MS-PL",
+      "licenseURL": "https://opensource.org/licenses/MS-PL"
+    },
+    {
+      "spdx": "PostgreSQL",
+      "licenseURL": "https://www.postgresql.org/about/licence/"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://www.postgresql.org/about/licence/"
+    },
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://www.postgresql.org/about/licence/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This platform promotes efficient and optimized management of patients clinical data within a public health facility"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The DHP promotes the use of innovative technologies towards establishing an efficient platform for the management of patient data which includes access to health information"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "Ministry of Health (Kenya)",
+      "website": "https://health.go.ke",
+      "org_type": "maintainer",
+      "contact_name": "Dickson Kirathe",
+      "contact_email": "dkirathe@nltp.co.ke"
+    }
+  ],
+  "stage": "nominee"
+}
