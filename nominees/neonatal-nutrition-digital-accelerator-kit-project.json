@@ -1,0 +1,40 @@
+{
+  "name": "NEONATAL NUTRITION DIGITAL ACCELERATOR KIT PROJECT",
+  "aliases": [
+    "NNDAK"
+  ],
+  "description": "This project streamlines data collection for newborn nutrition to aid in decision-making. ",
+  "website": "https://play.google.com/store/apps/details?id=com.intellisoft.nndak&hl=en",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The main aim of this project is to streamline data collection for newborn nutrition to aid in decision-making. The data will equip mothers and health care providers with information and real-time feedback to adapt practices to optimize the provision of lifesaving milk to newborns. This system will primarily support infant feeding through the mother’s own milk or donor human milk.  "
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The NNDAK reference application is the first-ever system to be developed in Kenya using the WHO newborn nutrition guidelines in conjunction with the principles for digital development.  The application will be developed on top of Google's FHIR SDK, which is an open-source product. It is also important to point out that the user personas, database design, and business logic will be derived from the WHO NN-DAK, and then domesticated to fit the local context.  Data exchange will be guided by the OpenHIE architecture definitions. Indicator calculations will be defined on a FHIR-based server using requisite FHIR Quality MEASURE resources and Clinical Quality Language (CQL) to generate aggregated values for reporting and visualization, in a pipeline that will use the Interoperability Layer (OpenHIM) for data exchange."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "IntelliSOFT Consulting Limited",
+      "website": "https://www.intellisoftkenya.com/",
+      "org_type": "maintainer",
+      "contact_name": "Susan Gathu",
+      "contact_email": "sgathu@intellisoftkeny.com"
+    }
+  ],
+  "stage": "nominee"
+}
