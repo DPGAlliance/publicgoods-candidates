@@ -1,0 +1,70 @@
+{
+  "name": "NEONATAL NUTRITION DIGITAL ACCELERATOR KIT PROJECT",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.google.com/document/d/15lryinyblKPD3E6L-jTbdepox230qaBWR6phHM-AnT0/edit"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Unknown"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Kenya Data Protection Act 2019"
+    ],
+    "adherenceSteps": []
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "HL7 FHIR, WHO SMART GUIDELINES"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md"
+    ],
+    "bestPracticesList": [
+      "We develop with an agile methodology and engage the intended users throughout the development phase. This embodies the principle of \"designing with the user.\""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "NNDAK is anchored on the WHO treatment guidelines "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Health data of mothers and children"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Antenatal Care Guidelines",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "Unknown"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}
