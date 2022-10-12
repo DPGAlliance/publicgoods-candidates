@@ -1,0 +1,69 @@
+{
+  "name": "Pharmacovigilance Electronic Reporting Tool",
+  "clearOwnership": {
+    "isOwnershipExplicit": "No"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.google.com/document/d/1LjkPOKrK-4O_PBb4GRfx61I2_0zfesD_5X1y9aw34dQ/edit#heading=h.6nlwssopwwv3"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Kenya Standards and Guidelines for E-Health Systems Interoperability: https://pdf.usaid.gov/pdf_docs/PA00TB28.pdf",
+      "The Kenya Data Protection Act 2019: https://www.odpc.go.ke/dpa-act/",
+      "General Data Protection Regulation"
+    ],
+    "adherenceSteps": [
+      "Privacy Policy:https://web.pharmacyboardkenya.org/terms-and-conditions/",
+      "Cookie's consent: https://web.pharmacyboardkenya.org/pharmacovigilance/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "File exchange formats as ICH E2B CIOMS",
+      "Medical terminologies such MedDRA"
+    ],
+    "bestPracticesList": [
+      "Design for scale",
+      "Be data driven ",
+      "Reuse and improve",
+      "Be collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "It has inbuilt flags to identify serious cases for rapid response. It also provides a communication platform that allows for clarification on reported cases. There are also reminders sent to reporters for any unsubmitted reports."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Kenya",
+      "Zimbabwe"
+    ]
+  }
+}
