@@ -1,10 +1,13 @@
 {
   "name": "NEONATAL NUTRITION DIGITAL ACCELERATOR KIT PROJECT",
   "clearOwnership": {
-    "isOwnershipExplicit": "No"
+    "isOwnershipExplicit": "No",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,24 +17,27 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Unknown"
+    "checkNonPIIAccessMechanism": "Unknown",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
       "The Kenya Data Protection Act 2019"
     ],
-    "adherenceSteps": []
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "HL7 FHIR, WHO SMART GUIDELINES"
     ],
     "evidenceStandardSupport": [
       "https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "We develop with an agile methodology and engage the intended users throughout the development phase. This embodies the principle of \"designing with the user.\""
     ]
@@ -47,16 +53,30 @@
         "Health data of mothers and children"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Antenatal Care Guidelines",
       "contentFilter": "Unknown",
-      "illegalContentDetection": "Unknown"
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "Unknown",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
