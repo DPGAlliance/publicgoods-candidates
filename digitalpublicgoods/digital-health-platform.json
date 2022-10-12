@@ -1,13 +1,19 @@
 {
   "name": "Digital Health Platform",
   "clearOwnership": {
-    "isOwnershipExplicit": "No"
+    "isOwnershipExplicit": "No",
+    "copyrightURL": ""
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "Yes"
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
@@ -15,14 +21,26 @@
     "nonPIIAccessMechanism": "non-PII is used for reporting"
   },
   "privacy": {
-    "isPrivacyCompliant": "No"
+    "isPrivacyCompliant": "No",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
       "ICD-11, Kenya Essential Medicines List"
     ],
-    "implementBestPractices": "Yes"
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
@@ -35,18 +53,27 @@
         "Biodata, Diagnostics, Drugs and medical supplies, Financial data"
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
-      "griefAbuseHarassmentProtection": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "Users are only authorized to access what is relevant for the service they provide"
       ],
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
         "Use of passwords to access allowed modules of the platform"
       ]
