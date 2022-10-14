@@ -1,0 +1,51 @@
+{
+  "name": "Malaria Scorecard apps",
+  "aliases": [
+    "Malaria Scorecard"
+  ],
+  "description": "Ranked 3rd in the Web and Android Apps Competition at the 2021 DHIS2 Annual Conference  What is the Malaria Scorecard app? The Malaria Scorecard App is a software application developed by the PMI MEASURE Malaria project with the aim of providing a user-friendly mobile scorecard dashboard at the device level aimed at improving the ability of health workers to analyze and use data. data for decision making. This application comes in two versions: A mobile version available for Android and IOS for the decentralized level This version of the Malaria Dashboard application can be installed on Android or IOS mobile devices allowing connection to the country's DHIS2 application to download and make malaria data from the relevant health facility available offline to enable analysis and decision-making without the need for an internet connection.  A web version in the form of a DHIS2 application for the central level This version of the Malaria Scorecard application can be installed as an additional module of the DHIS2 (District Health Information Software v2). It makes it possible to install a Malaria metadata package inspired by the work carried out in this direction by the WHO and the MEASURE Evaluation project in DHIS2 while generating a simplified dashboard designed to be accessible to health personnel at the decentralized level.",
+  "website": "https://projectpmmi.github.io/malaria-scorecard/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/projectpmmi/Malaria-Scorecard-mobile/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Malaria data analyzed by the app is desegregated by sex and age promoting gender awarness",
+      "evidenceURL": "https://projectpmmi.github.io/malaria-scorecard/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "By making Malaria data accessible to decision makers at all levels of the health pyramid the Malaria scorecard apps allow the improvement of citizens living in countries living endemic to Malaria",
+      "evidenceURL": "https://projectpmmi.github.io/malaria-scorecard/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/projectpmmi/malaria-scorecard",
+      "name": "malaria-scorecard"
+    },
+    {
+      "url": "https://github.com/projectpmmi/Malaria-Scorecard-mobile",
+      "name": "Malaria-Scorecard-mobile"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "PMI MEASURE Evaluation",
+      "website": "https://www.measuremalaria.org/",
+      "org_type": "owner",
+      "contact_name": "Romain-Rolland Tohouri",
+      "contact_email": "romain_tohouri@jsi.com"
+    }
+  ],
+  "stage": "nominee"
+}
