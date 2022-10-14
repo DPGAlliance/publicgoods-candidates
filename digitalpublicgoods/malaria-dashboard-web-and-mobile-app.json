@@ -1,0 +1,59 @@
+{
+  "name": "Malaria dashboard web and mobile app",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://projectpmmi.github.io/malaria-dashboard/about.html"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://projectpmmi.github.io/malaria-dashboard/specs.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "DXF"
+    ],
+    "bestPracticesList": [
+      "WHO Malaria metadata package"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Aggregated routine malaria data",
+      "contentFilter": "No",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Côte d'Ivoire"
+    ],
+    "deploymentCountries": [
+      "Côte d'Ivoire",
+      "Madagascar"
+    ]
+  }
+}
