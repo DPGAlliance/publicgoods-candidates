@@ -1,0 +1,74 @@
+{
+  "name": "Product Catalog Management Tool",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://gitlab.com/pcmt/pcmt/-/blob/master/COPYRIGHT.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "http://help.akeneo.com",
+      "https://gitlab.com/pcmt/pcmt/-/wikis/home"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Imports and exports in CSV or excel formats"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "FHIR, REST, JSON"
+    ],
+    "bestPracticesList": [
+      "Design w/ User, understand ecosystem, scale, sustainability, data driven, open standards, reuse and improve, security, collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The product catalog system has PII on catalog administrators, however the catalog specifically discourages tying catalog entries to patients or procedures."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name and email for admistrators"
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Open Data catalog of GS1 identifiers",
+      "contentFilter": "Unknown",
+      "illegalContentDetection": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "No",
+      "griefAbuseHarassmentProtection": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "France",
+      "Poland",
+      "United States of America",
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Rwanda",
+      "Zambia",
+      "Ethiopia",
+      "Malawi"
+    ]
+  }
+}
