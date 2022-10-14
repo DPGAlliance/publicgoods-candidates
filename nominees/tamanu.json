@@ -1,0 +1,41 @@
+{
+  "name": "Tamanu",
+  "aliases": [
+    ""
+  ],
+  "description": "Tamanu is a free and open-source electronic health record (EHR) for low resource and remote settings.",
+  "website": "https://www.beyondessential.com.au/products/tamanu/",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/beyondessential/tamanu-open/blob/master/license"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Tamanu is a free and open source patient-level EHR for desktop and mobile. It allows health workers to track individual patients and provide clinical support. Designed specifically for remote settings and the Asia-Pacific context, Tamanu allows health workers to monitor patients in hospitals, health centers, clinics, and even out in the community, enabling consistent, long-term management of patient conditions. The system is offline-first, with syncing capabilities, allowing users to work seamlessly with and without an internet connection. The mobile and desktop versions are fully integrated “out -of- the -box,” meaning there are no third-party integrations required for any core features. ",
+      "evidenceURL": "https://www.beyondessential.com.au/products/tamanu/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Tamanu Open",
+      "url": "https://github.com/beyondessential/tamanu-open"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Beyond Essential Systems",
+      "website": "https://www.beyondessential.com.au/",
+      "org_type": "owner",
+      "contact_name": "Megan Lane",
+      "contact_email": "megan@beyondessential.com.au"
+    }
+  ],
+  "stage": "nominee"
+}
