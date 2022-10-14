@@ -1,0 +1,83 @@
+{
+  "name": "Tamanu",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/beyondessential/tamanu-open"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/beyondessential/tamanu-open",
+      "https://www.beyondessential.com.au/wp-content/uploads/2022/01/Tamanu-data-sheet_May-2021.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Non-PII information can be exported through the Tamanu reporting suite in excel or CSV format. Tamanu also integrates with the open-source platform Tupaia which enables the aggregation and visualisation of non-PII data. "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "No"
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR",
+      "ICD-10",
+      "SNOMED",
+      "LOINC",
+      "CPT",
+      "mSupply Universal Medicines"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "OpenHIE"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Full name",
+        "Personal identification numbers",
+        "Personal address information",
+        "Personal contact information "
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Tamanu is used by medical professionals, public health workers, Ministry of Health staff, and partners/donors. The application is not have a patient facing capability and therefore is not used by anyone underage. "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Child protection policy"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "Fiji",
+      "Palau",
+      "Tuvalu",
+      "Samoa",
+      "Nauru",
+      "Tonga"
+    ]
+  }
+}
