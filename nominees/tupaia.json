@@ -1,0 +1,41 @@
+{
+  "name": "Tupaia",
+  "aliases": [
+    ""
+  ],
+  "description": "End-to-end data platform for health systems, focused on data aggregation, analysis and visualisation.",
+  "website": "https://tupaia.org",
+  "license": [
+    {
+      "spdx": "GPL-2.0",
+      "licenseURL": "https://github.com/beyondessential/tupaia/blob/dev/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Tupaia is a data platform that allows you to collect information about any entity, aggregate it with other data sources, build beautiful analytics and reports, then disseminate, map and visualise it – all in one place. It has highly granular permissions structures, supports multiple data hierarchies and it brings your data together in award-winning, mapping-led visualisations that will blow you away. It is used to support health systems, complementing technologies such as DHIS2 and mSupply in 12 countries around the world.",
+      "evidenceURL": "https://www.beyondessential.com.au/products/tupaia/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/beyondessential/tupaia",
+      "name": "Complete repo"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Beyond Essential Systems",
+      "website": "https://beyondessential.com.au",
+      "org_type": "owner",
+      "contact_name": "Michael Nunan",
+      "contact_email": "michael@beyondessential.com.au"
+    }
+  ],
+  "stage": "nominee"
+}
