@@ -1,0 +1,58 @@
+{
+  "name": "Malaria Routine Data Quality Assessment application",
+  "aliases": [
+    "MRDQA apps"
+  ],
+  "description": "The MRDQA is an android app used to facilitate data collection of information on data quality for routine malaria reporting from health facilities. The app employs internationally standardized metrics to evaluate the completeness, timeliness, accuracy, and consistency of routine data for malaria. The app is intended to be used as part of routine supervision by district health teams or malaria program managers. The app is accompanied by a “DHIS 2 Configuration Package” which includes meta data and dashboards to permit the uploading of results from supervisory visits to the national instance of DHIS 2 where it can be aggregated with results from other supervisory visits for the same purpose in the country. The aggregate data on data quality for malaria can be evaluated by sub-national unit and over time to permit a more centralized and standard approach to data quality monitoring and response. The app is open source and can be easily adapted to other health and disease programs.",
+  "website": "https://projectpmmi.github.io/mrdqa/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://fsf.org/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This application helps improve malaria data quality and support decision at the decentralized level to take action to improve action to improve good health of citizens in countries endemic to Malaria",
+      "evidenceURL": "https://projectpmmi.github.io/mrdqa/"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "The indicators tracked are desegregated by gender to help understand and reduce gender inequalities",
+      "evidenceURL": "https://projectpmmi.github.io/mrdqa/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "This tool is innovative as it makes use of technology to bridge data access gap and provide accessible information to practitioners at the grass root level of the health pyramid using mobile technologies. traditionally access to data is reserved to national level. ",
+      "evidenceURL": "https://projectpmmi.github.io/mrdqa/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Better information at the decentralized level help decision makers to take action to ends inequalities.",
+      "evidenceURL": "https://projectpmmi.github.io/mrdqa/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "mrdqa",
+      "url": "https://github.com/projectpmmi/mrdqa"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "PMI MEASURE Malaria",
+      "website": "https://www.measuremalaria.org",
+      "org_type": "maintainer",
+      "contact_name": "Romain-Rolland Tohouri",
+      "contact_email": "romain_tohouri@jsi.com"
+    }
+  ],
+  "stage": "nominee"
+}
