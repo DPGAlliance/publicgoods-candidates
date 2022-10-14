@@ -5,7 +5,9 @@
     "copyrightURL": "https://github.com/datakind/Data-Observation-Toolkit/blob/main/README.md"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -32,13 +34,13 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "We use open standards."
     ],
     "evidenceStandardSupport": [
       "https://github.com/datakind/Data-Observation-Toolkit#code-quality"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "https://github.com/datakind/Data-Observation-Toolkit#code-quality"
     ]
@@ -49,13 +51,35 @@
       "additionalInfoMechanismProcessesPolicies": "DOT does not capture PII to work. A user may configure DOT to monitor data in a source database. It does capture their user and date for entity configuration which can support an audit. We also have a Code of Conduct in place: https://github.com/datakind/Data-Observation-Toolkit/blob/main/CODE_OF_CONDUCT.md"
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown"
+      "userInteraction": "Unknown",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
