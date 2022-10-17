@@ -1,0 +1,63 @@
+{
+  "name": "Lexsitus",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://cilrap-lexsitus.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "No"
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR."
+    ],
+    "adherenceSteps": [
+      "https://cilrap-lexsitus.org/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "No",
+    "implementBestPractices": "No"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Users cannot add content. There is an editorial team with strict conrol of publish ability."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Lexsitus can be used without registering. However, if users wish to use a reading list function, they can optionally register (https://cilrap-lexsitus.org/register). ",
+        "There is also an optional 'Report Issue' function which registers name and e-mail address."
+      ],
+      "thirdPartyDataSharing": "No",
+      "ensurePrivacySecurity": "Yes"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Belgium",
+      "India",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Italy",
+      "United States of America"
+    ]
+  }
+}
