@@ -24,8 +24,8 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/beyondessential/tupaia",
-      "name": "Complete repo"
+      "name": "main",
+      "url": "https://github.com/beyondessential/tupaia"
     }
   ],
   "organizations": [
