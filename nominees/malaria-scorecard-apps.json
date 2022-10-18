@@ -13,13 +13,13 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 5,
-      "evidenceText": "Malaria data analyzed by the app is desegregated by sex and age promoting gender awarness",
+      "SDGNumber": 3,
+      "evidenceText": "By making Malaria data accessible to decision makers at all levels of the health pyramid the Malaria scorecard apps allow the improvement of citizens living in countries living endemic to Malaria",
       "evidenceURL": "https://projectpmmi.github.io/malaria-scorecard/"
     },
     {
-      "SDGNumber": 3,
-      "evidenceText": "By making Malaria data accessible to decision makers at all levels of the health pyramid the Malaria scorecard apps allow the improvement of citizens living in countries living endemic to Malaria",
+      "SDGNumber": 5,
+      "evidenceText": "Malaria data analyzed by the app is desegregated by sex and age promoting gender awarness",
       "evidenceURL": "https://projectpmmi.github.io/malaria-scorecard/"
     }
   ],
@@ -30,12 +30,12 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/projectpmmi/malaria-scorecard",
-      "name": "malaria-scorecard"
+      "name": "malaria-scorecard",
+      "url": "https://github.com/projectpmmi/malaria-scorecard"
     },
     {
-      "url": "https://github.com/projectpmmi/Malaria-Scorecard-mobile",
-      "name": "Malaria-Scorecard-mobile"
+      "name": "Malaria-Scorecard-mobile",
+      "url": "https://github.com/projectpmmi/Malaria-Scorecard-mobile"
     }
   ],
   "organizations": [
