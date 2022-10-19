@@ -35,12 +35,12 @@
   ],
   "repositories": [
     {
-      "url": "https://github.com/projectpmmi/malaria-dashboard",
-      "name": "malaria-dashboard"
+      "name": "malaria-dashboard",
+      "url": "https://github.com/projectpmmi/malaria-dashboard"
     },
     {
-      "url": "https://github.com/projectpmmi/malaria-dashboard-dhis",
-      "name": "malaria-dashboard-dhis"
+      "name": "malaria-dashboard-dhis",
+      "url": "https://github.com/projectpmmi/malaria-dashboard-dhis"
     }
   ],
   "organizations": [
