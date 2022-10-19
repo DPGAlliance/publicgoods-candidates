@@ -10,15 +10,15 @@
     "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No",
+    "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "Tutorials - https://www.legal-tools.org/tutorials"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The ICC Case Matrix and legal tools database support downloads in PDF format including metadata - https://www.cilrap.org/cilrap-film/220426-ltd-3/"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -30,13 +30,22 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
-    "implementBestPractices": "No"
+    "supportStandards": "Yes",
+    "standardsList": [
+      "PDF"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.legal-tools.org/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      ""
+    ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "Users cannot add content. There is an editorial team with strict conrol of publish ability."
+      "additionalInfoMechanismProcessesPolicies": "Users cannot add content. There is an editorial team with strict control of publish ability."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
