@@ -1,7 +1,8 @@
 {
   "name": "Lexsitus",
   "aliases": [
-    "Lexsitus, CILRAP-Lexsitus, the Lexsitus service"
+    "CILRAP-Lexsitus",
+    "The Lexsitus service"
   ],
   "description": "Lexsitus is the most comprehensive online legal-information platform for international criminal law, supporting retrieval, analysis and learning work-processes.",
   "website": "https://cilrap-lexsitus.org/",
@@ -22,7 +23,12 @@
   "type": [
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://cilrap-lexsitus.org/"
+    }
+  ],
   "organizations": [
     {
       "name": "Centre for International Law Research and Policy (CILRAP)",
