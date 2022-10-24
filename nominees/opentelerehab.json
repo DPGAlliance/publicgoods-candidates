@@ -14,17 +14,28 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "OpenTeleRehab connects rehabilitation professionals with service users to improve access to rehabilitation services and contribute to universal health coverage by facilitating discharge, transition of care and follow-up"
+      "evidenceText": "OpenTeleRehab connects rehabilitation professionals with service users to improve access to rehabilitation services and contribute to universal health coverage by facilitating discharge, transition of care and follow-up",
+      "evidenceURL": "https://www.usaid.gov/vietnam/program-updates/oct-2021-usaid-supports-development-software-program-increase-patient-access-therapists"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "All",
-      "url": "https://github.com/OpenTeleRehab?tab=repositories"
+      "name": "Patient app",
+      "url": "https://github.com/OpenTeleRehab/patient-app"
+    },
+    {
+      "name": "Therapist web app",
+      "url": "https://github.com/OpenTeleRehab/therapist-web-app"
+    },
+    {
+      "name": "Patient service",
+      "url": "https://github.com/OpenTeleRehab/patient-service"
     }
   ],
   "organizations": [
