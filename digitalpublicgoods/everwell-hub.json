@@ -5,7 +5,7 @@
     "copyrightURL": "https://gitlab.com/everwell/hub-foss/-/blob/master/LICENSE"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
@@ -45,7 +45,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "https://drive.google.com/drive/folders/1fgk-oxUeHuGY1jxfNPh5VojY95jzHy3P"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
