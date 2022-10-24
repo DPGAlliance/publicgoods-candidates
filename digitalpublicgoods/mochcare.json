@@ -30,9 +30,9 @@
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "ISO 13131"
     ],
     "evidenceStandardSupport": [
       ""
