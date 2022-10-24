@@ -1,0 +1,56 @@
+{
+  "name": "UNIDO Industrial Analytics Platform",
+  "aliases": [
+    "IAP"
+  ],
+  "description": "UNIDO's IAP is a data-driven knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.",
+  "website": "https://iap.unido.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://iap.unido.org/index.php/about"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "The UNIDO IAP can be used for both outreach and capacity-building workshops in how to strive for evidence-based policymaking.",
+      "evidenceURL": "https://iap.unido.org"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The SDG-9 Industry Index can be used to identify the dimensions that have an impact on the performance of Indonesia towards achieving the SDG-9 industry-related targets. It comprises the following dimensions: manufacturing value added, manufacturing employment, technological sophistication of manufacturing production and the manufacturing sector’s environmental performance. The Index tracks the performance of a country over time and in relation to other economies.",
+      "evidenceURL": "https://iap.unido.org/data/sdg-9-industry"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Through its blog articles, the UNIDO IAP facilitates partnerships between a variety of actors for the Common Agenda and the Agenda 2030.",
+      "evidenceURL": "https://iap.unido.org/articles"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "IAP SDG-9 Industry Index",
+      "url": "https://stat.unido.org/SDG"
+    },
+    {
+      "name": "IAP Competitive Industries & Global Value Chains",
+      "url": "http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "United Nations Industrial Development Organization",
+      "website": "https://www.unido.org",
+      "org_type": "owner",
+      "contact_name": "Adnan Seric",
+      "contact_email": "a.seric@unido.org"
+    }
+  ],
+  "stage": "nominee"
+}
