@@ -5,8 +5,8 @@
     "copyrightURL": "https://euipo.europa.eu/eSearch/#details/trademarks/018651877"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "No",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Atuomatic download of non-PII and PII patient information possible from the patient mobile app.\nManual download possible from the admin web portal\n"
+    "nonPIIAccessMechanism": "Automatic download of non-PII is possible from the patient mobile app.\nManual download possible from the admin web portal\n"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -26,22 +26,24 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab/pages/8718296/Data+Protection+Requirements / https://www.opentelerehab.com/privacypolicy / https://www.opentelerehab.com/termsandconditions"
+      "https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab/pages/8718296/Data+Protection+Requirements",
+      "https://www.opentelerehab.com/privacypolicy",
+      "https://www.opentelerehab.com/termsandconditions"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "WCAG and WCAG2",
-      "Apple best practices for inclusive design",
-      "Android accessibility overview"
+      "WCAG and WCAG2"
     ],
     "evidenceStandardSupport": [
-      "https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab/pages/8880423/WCAG"
+      "WCAG Compliance report - https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab/pages/8880361/WCAG+Compliance+Report"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development"
+      "Principles for Digital Development",
+      "Apple best practices for inclusive design",
+      "Android accessibility overview"
     ]
   },
   "doNoHarm": {
@@ -54,33 +56,37 @@
       "typesOfDataCollected": [
         "First name and last name",
         "Date of birth",
+        "Gender",
+        "Language",
+        "Location (country/region/state)",
         "Mobile phone number",
-        "Medical information"
+        "Text, image and video messages",
+        "Usage Data"
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://www.opentelerehab.com/privacypolicy"
+      "privacySecurityDescription": "Privacy policy - https://www.opentelerehab.com/privacypolicy"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Clinical library content (standard rehabilitation exercises, information and education material, questionnaires). See: https://library.opentelerehab.com/",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://www.opentelerehab.com/privacypolicy",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "Yes, public contributions to the library are subject for moderator approval.  Clinical content from the global library is controlled by owner. Only users properly given access can add content.  No: Custom therapist content is not monitored  Chat and calls are not monitored."
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "Yes and No: Access governed by healthcare provider privileges. Only the patients registered by their healthcare provider can access the service."
+        "Access is governed by healthcare provider privileges. Only the patients registered by their healthcare provider can access the service."
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "Yes: Healthcare providers must agree with the terms and conditions, mentionning \"If you are a healthcare provider, you accept and agree that you are responsible for compliance with all applicable privacy legislation as the healthcare provider to the patient and no acts or omissions by the Application shall relieve you of your obligations.  You are fully and exclusively responsible for ensuring compliance with these obligations; including taking regular back-ups of patient information in a form required by relevant legislation, rules and code of practice that apply to you as a healthcare provider.\" No: no abuse reporting mechanism available."
+        "Healthcare providers must agree with the terms and conditions, mentionning \"If you are a healthcare provider, you accept and agree that you are responsible for compliance with all applicable privacy legislation as the healthcare provider to the patient and no acts or omissions by the Application shall relieve you of your obligations.  You are fully and exclusively responsible for ensuring compliance with these obligations; including taking regular back-ups of patient information in a form required by relevant legislation, rules and code of practice that apply to you as a healthcare provider.\" No: no abuse reporting mechanism available."
       ]
     }
   },
