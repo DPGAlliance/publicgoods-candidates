@@ -2,7 +2,7 @@
   "name": "Tamanu",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/beyondessential/tamanu-open"
+    "copyrightURL": "https://www.beyondessential.com.au/products/tamanu/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
