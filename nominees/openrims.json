@@ -1,0 +1,40 @@
+{
+  "name": "OpenRIMS",
+  "aliases": [
+    "Pharmadex"
+  ],
+  "description": "Digital Suite for Regulatory Authorities",
+  "website": "https://openrims.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.en.html"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://openrims.org"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MSH/Pharmadex2"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Management Sciences for Health",
+      "website": "https://www.msh.org",
+      "org_type": "owner",
+      "contact_name": "Kim Hoppenworth",
+      "contact_email": "khoppenworth@msh.org"
+    }
+  ],
+  "stage": "nominee"
+}
