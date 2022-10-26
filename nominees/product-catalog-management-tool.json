@@ -14,11 +14,13 @@
   "SDGs": [
     {
       "SDGNumber": 3,
-      "evidenceText": "PCMT is aimed at improving product catalog data governance, so that public health systems are more effecient and serve their people better with available supply.",
+      "evidenceText": "PCMT is aimed at improving product catalog data governance, so that public health systems are more efficient and serve their people better with available supply.",
       "evidenceURL": "http://productcatalog.io"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
