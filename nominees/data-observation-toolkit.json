@@ -18,7 +18,9 @@
       "evidenceURL": "https://www.datakind.org/blog/empowering-health-workers-and-community-health-systems"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
@@ -34,7 +36,7 @@
       "website": "https://datakind.org/",
       "org_type": "owner",
       "contact_name": "Caitlin Augustin",
-      "contact_email": "caitlin@datakind.org "
+      "contact_email": "caitlin@datakind.org"
     }
   ],
   "stage": "nominee"
