@@ -1,0 +1,37 @@
+{
+  "name": "OKULAB",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Unknown"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Unknown"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Unknown"
+  },
+  "NonPII": {
+    "collectsNonPII": "No"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Unknown"
+  },
+  "standards": {
+    "supportStandards": "Unknown",
+    "implementBestPractices": "Unknown"
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Unknown"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {}
+}
