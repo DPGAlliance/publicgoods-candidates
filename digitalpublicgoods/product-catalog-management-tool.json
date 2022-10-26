@@ -12,14 +12,13 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "http://help.akeneo.com",
       "https://gitlab.com/pcmt/pcmt/-/wikis/home"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Imports and exports in CSV or excel formats"
+    "nonPIIAccessMechanism": "Imports and exports into CSV or excel formats"
   },
   "privacy": {
     "isPrivacyCompliant": "Unknown",
