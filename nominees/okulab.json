@@ -1,0 +1,36 @@
+{
+  "name": "OKULAB",
+  "aliases": [
+    "https://okulab.kz/"
+  ],
+  "description": "Platform for the ",
+  "website": "https://okulab.kz/",
+  "license": [
+    {
+      "spdx": "OSL-1.0",
+      "licenseURL": "https://okulab.kz/course/1"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "This web platform gives opportunity for the inclusive education",
+      "evidenceURL": "https://okulab.kz/course/1"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "International InformationTechnology University",
+      "website": "https://iitu.edu.kz/en/",
+      "org_type": "implementer",
+      "contact_name": "Daineko Yevgeniya Alexandrovna",
+      "contact_email": "y.daineko@edu.iitu.kz"
+    }
+  ],
+  "stage": "nominee"
+}
