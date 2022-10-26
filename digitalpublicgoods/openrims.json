@@ -1,0 +1,73 @@
+{
+  "name": "OpenRIMS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.openrims.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/MSH/Pharmadex2"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The system uses REST API."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Servers located in the United States and is subject to the applicable state and federal laws of the United States."
+    ],
+    "adherenceSteps": [
+      "https://openrims.org"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "implementBestPractices": "Yes",
+    "standardsList": [
+      "ATC, INN"
+    ],
+    "evidenceStandardSupport": [
+      "https://pharmadex2.msh.org"
+    ],
+    "bestPracticesList": [
+      "Be Collaborative, Reuse and Improve, Design for scale, Understand the Existing Ecosystem, Build for Sustainability, Use Open Standards, Open Data, Open Source, and Open Innovation, Design with the user, Be Data Driven"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "For enhanced security we apply SSL, conduct penetration testing. Additional steps are detailed in the Policy and Terms of Use: https://github.com/MSH/Pharmadex2/tree/main/privacyandterms."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Pharmaceutical Company basic information like location; User profile information"
+      ],
+      "thirdPartyDataSharing": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mozambique"
+    ],
+    "deploymentCountries": [
+      "Bangladesh",
+      "Mozambique",
+      "Nepal",
+      "Madagascar"
+    ]
+  }
+}
