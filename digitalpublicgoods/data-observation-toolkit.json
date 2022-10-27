@@ -60,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "https://www.datakind.org/privacy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
