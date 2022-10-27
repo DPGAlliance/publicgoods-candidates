@@ -21,12 +21,15 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Electronic Communications Act, 2008 (Act 775)",
+      "Electronic Communications Regulations, 2011 (L.I. 1991)",
+      "Public Health Act, 2012 (Act 851)",
+      "Children's Act, 1998 (Act 560)"
     ],
     "adherenceSteps": [
-      ""
+      "Privacy policy - https://mochcare.com/privacy-policy/"
     ]
   },
   "standards": {
@@ -35,7 +38,7 @@
       "ISO 13131"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -56,12 +59,12 @@
         "Telephone Number",
         "Location"
       ],
-      "thirdPartyDataSharing": "No",
+      "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "All data/information required by the user are that which are only required by the Ghana Health Service and for health purposes only. \n All Data collected and stored are only made available to the Health Facility where the data is stored and the client (pregnant women/children)."
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "All data/information required by the user are that which are only required by the Ghana Health Service and for health purposes only. \n All Data collected and stored are only made available to the Health Facility where the data is stored and the client (pregnant women/children)."
+      "privacySecurityDescription": "https://mochcare.com/privacy-policy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
