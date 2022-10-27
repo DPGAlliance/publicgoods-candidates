@@ -3,7 +3,7 @@
   "aliases": [
     "PCMT"
   ],
-  "description": "The Project Catalog Management Tool aims to connect product catalogs in order to show a clear journey from manufacturer to patient. It establishes master data that includes GS1 identifiers, global categories, and mappings to local identifiers. This enables end-to-end visibility, allows shipments to flow between systems, and helps supply chains perform.",
+  "description": "The Product Catalog Management Tool aims to connect product catalogs in order to show a clear journey from manufacturer to patient. It establishes master data that includes GS1 identifiers, global categories, and mappings to local identifiers. This enables end-to-end visibility, allows shipments to flow between systems, and helps supply chains perform.",
   "website": "http://productcatalog.io",
   "license": [
     {
