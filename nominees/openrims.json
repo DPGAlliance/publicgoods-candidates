@@ -3,7 +3,7 @@
   "aliases": [
     "Pharmadex"
   ],
-  "description": "Digital Suite for Regulatory Authorities",
+  "description": "OpenRIMS is a web-based tool that helps streamline and track medicines registration for a national drug regulatory authority",
   "website": "https://openrims.org",
   "license": [
     {
