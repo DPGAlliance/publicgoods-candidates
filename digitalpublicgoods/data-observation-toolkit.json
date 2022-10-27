@@ -2,7 +2,7 @@
   "name": "Data Observation Toolkit",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/datakind/Data-Observation-Toolkit/blob/main/README.md"
+    "copyrightURL": "https://github.com/datakind/Data-Observation-Toolkit/blob/main/LICENSE.md"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
