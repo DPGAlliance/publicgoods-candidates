@@ -17,8 +17,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "we have a RESTful API which is included in our open repo and we also allow export to XLS and JSON formats. Through the front-end, users are able to access raw data (with relevant permissions) via export to XLS (and in some cases to PDF)"
   },
   "privacy": {
     "isPrivacyCompliant": "Unknown",
