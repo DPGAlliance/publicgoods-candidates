@@ -5,7 +5,9 @@
     "copyrightURL": "https://www.openrims.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -16,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "The system uses REST API."
+    "nonPIIAccessMechanism": "The system uses REST API"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -29,13 +31,13 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "ATC, INN"
     ],
     "evidenceStandardSupport": [
       "https://pharmadex2.msh.org"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Be Collaborative, Reuse and Improve, Design for scale, Understand the Existing Ecosystem, Build for Sustainability, Use Open Standards, Open Data, Open Source, and Open Innovation, Design with the user, Be Data Driven"
     ]
@@ -50,13 +52,31 @@
       "typesOfDataCollected": [
         "Pharmaceutical Company basic information like location; User profile information"
       ],
-      "thirdPartyDataSharing": "No"
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
