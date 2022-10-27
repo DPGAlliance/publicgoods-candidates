@@ -26,7 +26,7 @@
       "Tupaia is compliant with the Australian Privacy Act (incorporating the Australian Privacy Principles) and whilst we are not obliged to comply with GDPR (and have not been formally audited on GDPR) we believe we are fully compliant including measures such as the right to be forgotten (which we enable easily with a 'delete my account' function through the front-end) and minimising data collection and access (e.g. for users, we collect only minimum required data for account verification and for data access, we support highly granular permissions limiting user access to only the data they need)"
     ],
     "adherenceSteps": [
-      ""
+      "Tupaia is compliant with the Australian Privacy Act (incorporating the Australian Privacy Principles)"
     ]
   },
   "standards": {
@@ -38,7 +38,12 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Our software development pipeline has been built around an agile methodology and includes all principles in the software development lifecycle and architectural design principles. Every software team has a full-time tester (our ratio is 3 devs to 1 tester) and we have a full-time data team comprised of 4 people responsible for data cleaning and quality. We also have test automation to help ensure data integrity with each new version release. We support CI/CD, every single PR is reviewed, we regularly undertake code refactoring and our entire repo is available open-source, along with version release notes which are published immediately. We use a microservices architecture and adhere to open principles, including for our APIs. We have also engaged external security audits and incorporated their recommendations into the system."
+      "Our software development pipeline has been built around an agile methodology and includes all principles in the software development lifecycle and architectural design principles. Every software team has a full-time tester (our ratio is 3 devs to 1 tester) and we have a full-time data team comprised of 4 people responsible for data cleaning and quality",
+      "We also have test automation to help ensure data integrity with each new version release",
+      "We support CI/CD, every single PR is reviewed, we regularly undertake code refactoring and our entire repo is available open-source, along with version release notes which are published immediately",
+      "We use a microservices architecture and adhere to open principles, including for our APIs",
+      "We have also engaged external security audits and incorporated their recommendations into the system.",
+      "We employ a full-time UX/UI architect and try to ensure we meet design principles around usability, consistency and inclusiveness - to this end, DFAT also provide access to GEDSI advisors to provide feedback on our front-end design and data collection and management."
     ]
   },
   "doNoHarm": {
@@ -56,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "We take extensive steps to ensure privacy and security. For users we have a highly granular permissions model in 4 dimensions (who, what, where and when) which allows access to be limited to minimum required datasets. Users can have also different levels of access across multiple projects, with system-wide SSO. We have automated email verification for all new users and all access permission requests are then manually reviewed and approved by project administrators; passwords are non reversibly encrypted and data collected by users is encrypted in transit using SSL certificates. Our central database is hosted on AWS and we have worked with AWS to improve security - we require MFA for all AWS users, we do not allow SSH access to the server (you have to use to use the AWS interface) and we do not use the root account. Finally, we also keep an auditable log of all API requests which allows us to forensically track any changes to data."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
