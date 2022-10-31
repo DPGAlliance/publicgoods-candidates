@@ -1,0 +1,90 @@
+{
+  "name": "Yallakhedmeh",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    ],
+    "adherenceSteps": [
+      "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    ],
+    "evidenceStandardSupport": [
+      "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+    ],
+    "implementBestPractices": "Unknown",
+    "bestPracticesList": [
+      ""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Unknown",
+      "additionalInfoMechanismProcessesPolicies": ""
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Jordan"
+    ],
+    "deploymentCountries": [
+      "Jordan"
+    ]
+  }
+}
