@@ -1,8 +1,8 @@
 {
   "name": "Pharmacovigilance Electronic Reporting Tool",
   "clearOwnership": {
-    "isOwnershipExplicit": "No",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://pv.pharmacyboardkenya.org/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
