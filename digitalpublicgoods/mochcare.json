@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/"
+      "https://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/",
+      "https://github.com/MochCare-Gh/service-provider-portal"
     ]
   },
   "NonPII": {
@@ -38,8 +39,7 @@
       "ISO 13131"
     ],
     "evidenceStandardSupport": [
-      "https://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/",
-      "https://github.com/MochCare-Gh/service-provider-portal"
+      "https://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
