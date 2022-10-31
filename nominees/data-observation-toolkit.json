@@ -1,7 +1,7 @@
 {
   "name": "Data Observation Toolkit",
   "aliases": [
-    "DOT"
+    ""
   ],
   "description": "DOT is a toolkit that can be used to monitor data as it's collected and enters a database to flag problems with data integrity, data quality, protocols, outliers and other scenarios that might need attention",
   "website": "https://github.com/datakind/Data-Observation-Toolkit",
