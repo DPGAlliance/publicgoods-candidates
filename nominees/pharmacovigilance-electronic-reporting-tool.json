@@ -4,7 +4,7 @@
     "PvERS II"
   ],
   "description": "PvERS II is a web and mobile based solution which provides reporting and surveillance functionalities of  individual case study reports (ICSR) and consumer reporting in pharmacovigilance.",
-  "website": "https://web.pharmacyboardkenya.org/pharmacovigilance/",
+  "website": "https://pv.pharmacyboardkenya.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -15,7 +15,7 @@
     {
       "SDGNumber": 3,
       "evidenceText": "The solution is focused in supporting the development and research of safe vaccines/drugs by providing a way for all consumers to report on adverse effects they may experience in the use of medical products.  This provides a way for regulators to act promptly to vaccines and drugs that may be causing harm to the public. It also provides a more accurate data pool on the side effects experienced which can be used to improve a vaccine or drug. ",
-      "evidenceURL": "https://pv.pharmacyboardkenya.org/"
+      "evidenceURL": "https://web.pharmacyboardkenya.org/pharmacovigilance/"
     }
   ],
   "sectors": [],
