@@ -35,7 +35,10 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "We use open standards."
+      "Data Exchange formats - JSON, XML",
+      "Internationalization (i18n)- All Input/output is managed by the Python standard library, which defaults to UTF-8",
+      "Authentication & Authorization: Oauth2 (supported), AES-256 Encryption, SSL",
+      "Web standards: HTML, CSS"
     ],
     "evidenceStandardSupport": [
       "https://github.com/datakind/Data-Observation-Toolkit#code-quality"
@@ -71,14 +74,14 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Unknown",
-      "addressSafetySecurityUnderageUsers": "",
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "The target audience for this community is skilled users of the DHIS2 software (expected age 20+), and discussion is limited to topics relating to software development as indicated on the issue tracker - https://github.com/datakind/Data-Observation-Toolkit/issues"
       ],
-      "griefAbuseHarassmentProtection": "",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "Code of conduct - https://github.com/datakind/Data-Observation-Toolkit/blob/main/CODE_OF_CONDUCT.md"
       ]
     }
   },
