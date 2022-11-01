@@ -1,0 +1,43 @@
+{
+  "name": "OpenClinic GA",
+  "aliases": [
+    "OPC GA"
+  ],
+  "description": "OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.",
+  "website": "https://sourceforge.net/projects/open-clinic/",
+  "license": [
+    {
+      "spdx": "LGPL-2.1",
+      "licenseURL": "https://sourceforge.net/projects/open-clinic/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.",
+      "evidenceURL": "https://sourceforge.net/projects/open-clinic/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://sourceforge.net/p/open-clinic/code/ci/master/tree/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "ICT4D - Post-Factum",
+      "website": "http://www.post-factum.be/",
+      "org_type": "funder",
+      "contact_name": "FRANK VERBEKE",
+      "contact_email": "frank@ict4d.be"
+    }
+  ],
+  "stage": "nominee"
+}
