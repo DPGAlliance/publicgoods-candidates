@@ -1,0 +1,92 @@
+{
+  "name": "Productive Forests",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Bioverse-Labs/deep-learning"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Our repository provides software tool for image processing and for deep learning-based image classification. Abundance Maps can be created to serve via the Forest Map Mobile App"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives."
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.bioverse.io/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Image-processing: TIFF, TIF files (either input and outputs)",
+      "deep-learning: TIFF, TIF inputs; TIFF, TIF, PNG, JSON, CSV as outputs"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Bioverse-Labs/deep-learning"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "This project was guided by the Principals for Digital Development such as: Design with the user, design for scale, build for sustainability while using of open standards.",
+      "The projects also leverages continous integration for testing code as well as Github as a public code repository"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our deep learning training solution is designed to allow users to process satellite imagery for forest mapping initiatives. No harm is anticipated from the use of our software because it isn't linked to any data sources, it doesn't collect any data from users, and it is entirely up to the user discretion to apply the SW resource to a data source of their choice. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Brazil"
+    ],
+    "deploymentCountries": [
+      "Brazil"
+    ]
+  }
+}
