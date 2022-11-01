@@ -1,0 +1,43 @@
+{
+  "name": "Everwell Hub",
+  "aliases": [
+    ""
+  ],
+  "description": "The Everwell Hub is a best in-class patient management platform designed for high-burden public healthcare programs globally.  The Everwell Hub supports the entire digital cascade of care from diagnosis through treatment support and completion, including fully integrated modules for diagnostics (both lab generated results and AI diagnostic solutions), digital adherence technologies, virtual care and patient engagement, and digital payments. ",
+  "website": "https://www.everwell.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://gitlab.com/everwell/hub-foss/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Everwell Hub is a scalable user-centric technology product that can positively impact health with the vision of creating a world where every person is empowered to lead a healthy life. We ensure that all personas in any healthcare setting, be it a health care professional, patient or individual caregiver are kept engaged and enthusiastic about their association with the domain. The product is designed and developed to enable deployments that are easy to use, localized, contextual, configurable, interoperable, secure and is a low-cost digital health solution for both providers as well as care seekers.",
+      "evidenceURL": "https://www.everwell.org/about-us"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Everwell Hub FOSS",
+      "url": "https://gitlab.com/everwell/hub-foss"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Everwell Health Solutions Pvt. Ltd.",
+      "website": "https://www.everwell.org/",
+      "org_type": "owner",
+      "contact_name": "Nakull Gupta",
+      "contact_email": "nakull@everwell.org"
+    }
+  ],
+  "stage": "nominee"
+}
