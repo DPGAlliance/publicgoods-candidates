@@ -12,13 +12,14 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "Installation guide - https://github.com/IntelliSOFT-Consulting/pvers/blob/master/README.md",
       "https://docs.google.com/document/d/1LjkPOKrK-4O_PBb4GRfx61I2_0zfesD_5X1y9aw34dQ/edit#heading=h.6nlwssopwwv3"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data is extracted via PDF/PNG/CSV for individual indicators (e.g gender)"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
