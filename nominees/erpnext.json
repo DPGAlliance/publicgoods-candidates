@@ -1,0 +1,41 @@
+{
+  "name": "ERPNext",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source ERP system for financial accounting, inventory management etc.",
+  "website": "https://erpnext.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/frappe/erpnext/blob/develop/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "ERPNext provides a high quality and low cost software solution that encourages the formalization and growth of micro-, small- and medium-sized enterprises through access to essential resource management services and tools. This aligns with target 8.2: Diversify, innovate and upgrade for economic productivity, where we support technological upgrading and digitalization in diverse sectors for economic growth.",
+      "evidenceURL": "https://erpnext.com/blog/customer-success-stories/digitizing-rangsutra-using-erpnext-and-frappe-cloud"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "ERPNext",
+      "url": "https://github.com/frappe/erpnext"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Frappe",
+      "website": "https://frappe.io",
+      "org_type": "owner",
+      "contact_name": "Rushabh Mehta",
+      "contact_email": "rushabh@frappe.io"
+    }
+  ],
+  "stage": "nominee"
+}
