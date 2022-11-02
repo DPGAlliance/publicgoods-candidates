@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies."
     ],
     "adherenceSteps": [
-      ""
+      "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies."
     ]
   },
   "standards": {
@@ -50,7 +50,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The SDK incorporates specific features like on-device encryption of data and recommends best practices - https://github.com/google/android-fhir/wiki/FEL%3A-Privacy-%26-security"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -62,7 +62,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies.\nThe project specifically provides guidance around privacy and security for developers - https://github.com/google/android-fhir/wiki/FEL%3A-Privacy-%26-security"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
