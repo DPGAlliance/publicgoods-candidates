@@ -31,13 +31,11 @@
     {
       "SDGNumber": 3,
       "evidenceText": "This platform promotes efficient and optimized management of patients clinical data within a public health facility"
-    },
-    {
-      "SDGNumber": 9,
-      "evidenceText": "The DHP promotes the use of innovative technologies towards establishing an efficient platform for the management of patient data which includes access to health information"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
