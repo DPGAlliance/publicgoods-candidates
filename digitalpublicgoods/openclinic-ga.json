@@ -1,8 +1,8 @@
 {
   "name": "OpenClinic GA",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://sourceforge.net/projects/open-clinic/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
