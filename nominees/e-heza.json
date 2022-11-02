@@ -1,0 +1,44 @@
+{
+  "name": "E-Heza",
+  "aliases": [
+    "E-Heza Digital Data Solutions"
+  ],
+  "description": "E-Heza Data Solutions is a digital app designed by and for the frontline health worker that can be used on a smartphone or tablet.",
+  "website": "https://tip-global-health.github.io/eheza-documentation/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/TIP-Global-Health/eheza-app/blob/main/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "E-Heza is used to support community-based nutrition programs and to screen patients for signs of malnutrition in order to suggest early intervention and referral to nutrition programs as necessary. Data collected in E-Heza supports reporting on all SDG 2.2 indicators. Additionally, E-Heza will be used to monitor the impact of Rwanda’s national nutrition and childhood development program.  In the health centers that have implemented E-Heza, there has been a 27% drop in severe malnutrition after three visits. "
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "E-Heza supports the good health and well being goal by providing healthcare workers with an efficient interface for providing maternal and child healthcare according to protocols and international standards, and to pass patient data, including diagnosis and treatments, across levels of care.    Among the hundreds of healthcare workers using E-Heza, quality of care has been shown to have increased by 120% and have documented 150 minutes saved per patient interaction. E-Heza supports comprehensive primary care across the entire spectrum of maternal and child health, as well as non-communicable diseases of hypertension and type 2 diabetes. Data collected can easily provide reports on most SDG indicators, particularly for SDG 3.1 (Decrease global maternal mortality), SDG 3.2 (End preventable deaths of newborns and children under 5), SDG 3.3 (Fight communicable diseases), SDG 3.4 (Reduce mortality from non-communicable diseases and promote mental health), and SDG 3.8 (Achieve Universal Health Coverage- RMNCH branch)."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "E-Heza App",
+      "url": "https://github.com/TIP-Global-Health/eheza-app"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "TIP Global Health",
+      "website": "https://tipglobalhealth.org/",
+      "org_type": "maintainer",
+      "contact_name": "Dr. Wendy Leonard",
+      "contact_email": "wendy@tipglobalhealth.org"
+    }
+  ],
+  "stage": "nominee"
+}
