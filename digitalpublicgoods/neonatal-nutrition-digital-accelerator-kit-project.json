@@ -32,7 +32,8 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "HL7 FHIR, WHO SMART GUIDELINES"
+      "HL7 FHIR",
+      "WHO SMART GUIDELINES - https://www.who.int/teams/digital-health-and-innovation/smart-guidelines"
     ],
     "evidenceStandardSupport": [
       "https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md"
@@ -45,7 +46,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "NNDAK is anchored on the WHO treatment guidelines "
+      "additionalInfoMechanismProcessesPolicies": "NNDAK is anchored on the WHO treatment guidelines"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -60,11 +61,11 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Antenatal Care Guidelines",
-      "contentFilter": "Unknown",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "Unknown",
+      "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
