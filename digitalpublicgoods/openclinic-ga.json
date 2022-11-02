@@ -23,8 +23,7 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR",
-      "FHIR"
+      "GDPR"
     ],
     "adherenceSteps": [
       "FINAL"
