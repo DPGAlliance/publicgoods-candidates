@@ -22,7 +22,12 @@
   "type": [
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "syllabus",
+      "url": "https://syllabus.codeyourfuture.io/"
+    }
+  ],
   "organizations": [
     {
       "name": "Code Your Future",
