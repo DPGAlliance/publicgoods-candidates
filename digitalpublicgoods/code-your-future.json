@@ -12,11 +12,14 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "https://docs.codeyourfuture.io/",
       "https://module-template.codeyourfuture.io/"
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No"
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -30,7 +33,7 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "This doesn't quite fit our use case. We align to SFIA mappings for graduation https://sfia-online.org/en."
+      "We align to SFIA mappings for graduation https://sfia-online.org/en."
     ],
     "evidenceStandardSupport": [
       "https://docs.google.com/document/d/1jMxqI0L7IKFENCQ8Lw-D1lhnj3c3RZI_WK808wG4YJM/edit?usp=sharing"
@@ -48,14 +51,14 @@
     "dataPrivacySecurity": {
       "collectsPII": "No",
       "typesOfDataCollected": [
-        "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). technical error reports from devices (using Sentry.io). usage analytics to understand how users are interacting with the app (using Matomo, self-hosted)"
+        ""
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Privacy policy - https://codeyourfuture.io/privacy-policy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
@@ -67,13 +70,13 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "No",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "Safeguarding - https://codeyourfuture.io/about/safeguarding/"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "For the syllabus, no, because it's just a website with no interactions. For our course, we have a code of conduct, a safeguarding lead, safeguarding training, and a personal coach for targeted support sessions for people with social impairments."
+        "For the syllabus, no, because it's just a website with no interactions. For our course, we have a code of conduct (https://codeyourfuture.io/about/code-of-conduct/), a safeguarding lead, safeguarding training, and a personal coach for targeted support sessions for people with social impairments."
       ]
     }
   },
