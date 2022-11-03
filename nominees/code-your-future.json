@@ -3,7 +3,7 @@
   "aliases": [
     "CYF"
   ],
-  "description": "During the course you will learn a technology stack that helps you build anything from a simple website to a powerful database-driven web application.",
+  "description": "A free collaboratively developed open source 8 month web development programme.",
   "website": "https://syllabus.codeyourfuture.io/",
   "license": [
     {
@@ -14,7 +14,7 @@
   "SDGs": [
     {
       "SDGNumber": 4,
-      "evidenceText": "A free collaboratively developed open source 8 month web development programme",
+      "evidenceText": "During the course you will learn a technology stack that helps you build anything from a simple website to a powerful database-driven web application.",
       "evidenceURL": "https://github.com/CodeYourFuture/syllabus"
     }
   ],
