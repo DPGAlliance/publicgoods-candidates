@@ -3,7 +3,7 @@
   "aliases": [
     "NNDAK"
   ],
-  "description": "This project streamlines data collection for newborn nutrition to aid in decision-making. ",
+  "description": "The Newborn Nutrition Digital Adaptation Kit (NNDAK) system is intelligently designed using Human-Centered Design to support healthcare delivery through actively tracking, measuring and troubleshooting the feeding of vulnerable babies. The NNDAK features data collection and visualization and a major innovation that entails the babies growth chart, leveraging on the publicly available data on INTERGROWTH-21ST fetal weight Charts. The NNDAK is envisioned to streamline data collection for newborn nutrition to aid in decision-making. The data will equip mothers and health care providers with information and real-time feedback to adapt practices to optimize the provision of lifesaving milk to newborns. Guided by the WHO Standards-Based, Machine-readable, Adaptive, Requirements-based and Testable (SMART) guideline in conjunction with the Principles for Digital Development, to ensure better success in its design, development, deployment, use, support and maintenance in a sustainable manner, the NNDAK is built on Google’s Android Fast Healthcare Interoperability Resources Software Development Kit. ",
   "website": "https://play.google.com/store/apps/details?id=com.intellisoft.nndak&hl=en",
   "license": [
     {
