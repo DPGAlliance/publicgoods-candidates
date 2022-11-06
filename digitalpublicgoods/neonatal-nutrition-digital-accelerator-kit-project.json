@@ -12,13 +12,16 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md"
+      "Installation manual - https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md",
+      "User manual - https://docs.google.com/document/d/1dBImVDN82pDT-Z4Nb2h4iCu34Itz0TpbcE9Q1U25oAs/edit",
+      "Admin manual - https://docs.google.com/document/d/155XLs7bFn1VMM-3ix-ZjfbZ3Rih51wo43s-0NMLJkvM/edit",
+      "Software Requirements Specification - https://docs.google.com/document/d/15lryinyblKPD3E6L-jTbdepox230qaBWR6phHM-AnT0/edit?pli=1"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "Unknown",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be extracted via a web portal export functionality which provides the data in JSON and PDFs formats."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -46,7 +49,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "NNDAK is anchored on the WHO treatment guidelines"
+      "additionalInfoMechanismProcessesPolicies": "Deliberate design is built into this project ensuring a Human centered design approach that engaged the anticipated system users from Pumwani Maternity Hospital and the use of appropriate design principles that safeguard the needs of the relevant users. \n1. The application is guided by WHO guidelines and fully embracing the Principles for Digital Development. \n2. The application is developed on top of Google’s Android Fast Healthcare Interoperability Resources Software Development Kit, an open source application intelligently designed to support healthcare delivery."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -58,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Data at rest within the mobile application is encrypted using the encryption featured provided by  android, this alongside the collection of non-sensitive data provides for a guaranteed user data privacy. Once this data is collected, it is only used within the scope and none is shared with any third party."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
