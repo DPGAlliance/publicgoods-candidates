@@ -5,7 +5,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
+      "licenseURL": "https://github.com/mojaloop/central-ledger/blob/master/LICENSE.md"
     }
   ],
   "SDGs": [
@@ -40,14 +40,16 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/mojaloop"
+      "url": "https://github.com/mojaloop/central-ledger"
     }
   ],
   "organizations": [
     {
       "name": "MojaLoop",
       "website": "https://mojaloop.io/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Steve Haley",
+      "contact_email": "shaley@mojaloop.io"
     },
     {
       "name": "Bill & Melinda Gates Foundation",
