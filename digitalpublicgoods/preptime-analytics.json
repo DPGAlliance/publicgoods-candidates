@@ -12,13 +12,13 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/Scribble-Works/scribbleworks_loopback_nuxt_cms"
+      "https://github.com/Scribble-Works/preptime-analytics"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "This project collects Personally Identifiable data to analyse the test scores of students that are provided by teachers. After analysis is run on the test scores, the teachers can request for the data to be removed from the platform by sending an email to us. Functionality to automatically remove data themselves is currently being developed."
+    "nonPIIAccessMechanism": "The application allows users to upload their questions and responses data files in csv or excel format. Template files for questions and responses are provided in csv and excel to guide the user in preparing their data files."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -32,14 +32,18 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Yes.http://es6-features.org/#Constants"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSON",
+      "REST"
     ],
     "evidenceStandardSupport": [
-      "http://es6-features.org/#Constants"
+      "https://github.com/Scribble-Works/preptime-analytics"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "http://es6-features.org/#Constants"
+      "Separation of concerns - HTML, CSS, JavaScript"
     ]
   },
   "doNoHarm": {
