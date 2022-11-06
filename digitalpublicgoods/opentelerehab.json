@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Automatic download of non-PII is possible from the patient mobile app.\nManual download possible from the admin web portal\n"
+    "nonPIIAccessMechanism": "Automatic download of non-PII is possible from the patient mobile app (patients can download PDF file containing the following User profile [Name, Surname, Gender, Date of birth, Mobile Number, language], treatment plan, chat history)."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -42,7 +42,7 @@
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development",
-      "Apple best practices for inclusive design",
+      "Apple best practices for inclusive design - https://developer.apple.com/design/human-interface-guidelines/foundations/inclusion/ (Demonstration of adherence : availability of patient mobile app in Apple Store)",
       "Android accessibility overview"
     ]
   },
@@ -65,10 +65,10 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "Privacy policy - https://www.opentelerehab.com/privacypolicy"
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Privacy policy - https://www.opentelerehab.com/privacypolicy"
+      "privacySecurityDescription": "Data protection requirements : https://hidsi.atlassian.net/wiki/spaces/OpenTeleRehab/pages/8718296/Data+Protection+Requirements"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
