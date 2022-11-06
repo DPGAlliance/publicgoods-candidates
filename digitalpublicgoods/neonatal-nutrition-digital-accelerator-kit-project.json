@@ -1,8 +1,8 @@
 {
   "name": "NEONATAL NUTRITION DIGITAL ACCELERATOR KIT PROJECT",
   "clearOwnership": {
-    "isOwnershipExplicit": "No",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.digitalhealthatlas.org/en/-/projects/5111/published"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
