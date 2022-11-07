@@ -1,0 +1,42 @@
+{
+  "name": "Lexsitus",
+  "aliases": [
+    "CILRAP-Lexsitus",
+    "The Lexsitus service"
+  ],
+  "description": "Lexsitus is the most comprehensive online legal-information platform for international criminal law, supporting retrieval, analysis and learning work-processes.",
+  "website": "https://cilrap-lexsitus.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://cilrap-lexsitus.org/copyright"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "The main purpose of Lexsitus is (1) to provide free and immediate online self-help to domestic actors who work with international criminal law to enhance their capacity, and by that (2) to contribute to (a) the strengthening of domestic ability to analyse, investigate, prosecute and adjudicate core international crimes, and (b) for civil society actors to advocate for such accountability more effectively.",
+      "evidenceURL": "https://www.casematrixnetwork.org/cmn-knowledge-hub/lexsitus-e-learning/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://cilrap-lexsitus.org/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Centre for International Law Research and Policy (CILRAP)",
+      "website": "https://www.cilrap.org/",
+      "org_type": "owner",
+      "contact_name": "Morten Bergsmo, Director",
+      "contact_email": "bergsmo@cilrap.org, info@cilrap.org"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Reveal",
+  "aliases": [
+    ""
+  ],
+  "description": "Reveal is a Digital Global Good that uses spatial intelligence to drive delivery of life-saving interventions.",
+  "website": "https://revealprecision.com/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/akrosinc/reveal-server/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Reveal supports microplanning and mobilization of resources, including basic social services, financial aid, or food aid. ",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Support the planning and delivery of food aid and nutrition resources to last mile communities.",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Support the planning and delivery of health intervention campaigns including malaria, vaccination (childhood and COVAX), and neglected tropical diseases.",
+      "evidenceURL": "https://storymaps.arcgis.com/stories/6edfe59250e24fcaa923d614f6110fe7?fbclid=IwAR2XakalK7tHS8jTPxKX3-roM0l1QqqEgyMguNmO0kKbaI-YrtjBLpydnd8"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "Provide support for water quality monitoring and water point availability.",
+      "evidenceURL": "https://revealprecision.com/use-cases/"
+    }
+  ],
+  "sectors": [
+    "Health",
+    "Water and Sanitation"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Reveal server",
+      "url": "https://github.com/akrosinc/reveal-server"
+    },
+    {
+      "name": "Reveal web",
+      "url": "https://github.com/akrosinc/reveal-web"
+    },
+    {
+      "name": "Reveal client",
+      "url": "https://github.com/akrosinc/reveal-client"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Akros",
+      "website": "https://akros.com/",
+      "org_type": "owner",
+      "contact_name": "Anna Winters",
+      "contact_email": "awinters@akros.com"
+    }
+  ],
+  "stage": "DPG"
+}
