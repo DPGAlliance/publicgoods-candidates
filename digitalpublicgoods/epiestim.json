@@ -60,12 +60,12 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Incidences of disease outbreaks and transmissions from person to person",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
