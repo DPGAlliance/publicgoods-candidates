@@ -48,7 +48,7 @@
       "additionalInfoMechanismProcessesPolicies": ""
     },
     "dataPrivacySecurity": {
-      "collectsPII": "Unknown",
+      "collectsPII": "No",
       "typesOfDataCollected": [
         ""
       ],
@@ -57,7 +57,7 @@
         "Limited access is granted to instructors for the purpose of instructing the course"
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Follows GDPR"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
