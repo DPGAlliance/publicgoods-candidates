@@ -45,7 +45,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "Limited access is granted to instructors for the purpose of instructing the course"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -54,7 +54,7 @@
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
-        "Limited access is granted to instructors for the purpose of instructing the course"
+        ""
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "Follows GDPR"
