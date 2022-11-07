@@ -56,7 +56,7 @@
       ],
       "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "By default, the application does not share any information with third parties, but it is possible to elect to share some of the information with relevant parties, such as ministries, government agencies, or financial service providers"
       ],
       "ensurePrivacySecurity": "Yes",
       "privacySecurityDescription": "By default, the application does not share any information with third parties, but it is possible to elect to share some of the information with relevant parties, such as ministries, government agencies, or financial service providers. A dedicated module allows to create separate data sharing agreements."
