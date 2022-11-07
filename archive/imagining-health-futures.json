@@ -1,0 +1,35 @@
+{
+  "name": "Imagining Health Futures",
+  "aliases": [
+    ""
+  ],
+  "description": "Imagining Health Futures leverages foresight, storytelling, and youth imagination in a collection of fictional short stories that reveal young peoples’ collective hopes, fears, challenges, wants, needs, and imagined solutions for health futures in a digital world.",
+  "website": "https://www.governinghealthfutures2030.org/imagining-health-futures/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://www.governinghealthfutures2030.org/imagining-health-futures/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Imagining Health Futures, a joint initiative of the Governing health futures 2030 Commission Secretariat and UNICEF, encourages young people to share their visions of health and well-being, and how they are shaped by technology. Inspired by the experiences of young people, Imagining Health Futures is a collection of speculative fiction short stories about the future of health. Youth voices inspired genuine, insightful narratives revealing young peoples’ collective hopes, fears, challenges, wants, needs and imagined solutions for the future.    Imagining Health Futures offers a unique vehicle for informing and amplifying the work of the Commission, academics, and health and human rights stakeholders. Importantly, this is a strategy to make the Commission's research more accessible and reach a wider audience, starting with young people.    ABOUT THE ORGANISERS.  The Lancet & Financial Times Commission:  Commissioners from a wide range of sectors, expertise and backgrounds are contributing their guidance, intellectual input and ideas to a report on Governing health futures 2030: Growing up in a digital world. This report will be published in The Lancet in 2021 and explore the convergence of digital health, artificial intelligence (AI), and other frontier technologies with universal health coverage (UHC) to support attainment of the third Sustainable Development Goal (SDG). The Commission is cooperating with partners to support inclusive dialogues with the private sector, youth organisations, and other key stakeholders.  The United Nations Children’s Fund (UNICEF):  UNICEF is the world’s leading organization for children, working in over 190 countries and territories to protect the rights of every child. UNICEF has spent 70 years working to improve the lives of children and their families. UNICEF approaches young people from an assets-based perspective, convinced of their promise, and focusing on their strengths. Evidence shows that when adolescent girls and boys are supported and encouraged, along with policies and service responsive to their needs and capabilities, they have the potential to break longstanding cycles of inequality, poverty, discrimination, and violence. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [],
+  "organizations": [
+    {
+      "name": "The Lancet & Financial Times Commission on Governing Health Futures 2030",
+      "website": "http://www.governinghealthfutures2030.org/",
+      "org_type": "funder",
+      "contact_name": "Louise Holly",
+      "contact_email": "louise.holly@graduateinstitute.ch"
+    }
+  ],
+  "stage": "nominee"
+}
