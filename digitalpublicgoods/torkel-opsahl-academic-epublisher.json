@@ -5,14 +5,20 @@
     "copyrightURL": "https://toaep.org/about/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No"
+    "isDocumentationAvailable": "No",
+    "documentationURL": [
+      ""
+    ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No"
+    "checkNonPIIAccessMechanism": "No",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -25,13 +31,13 @@
   },
   "standards": {
     "supportStandards": "Yes",
-    "implementBestPractices": "Yes",
     "standardsList": [
       "All Principles for Digital Development have been followed in the conceptualisation, development and continued operation of TOAEP. In addition, TOAEP will not, in any manner whatsoever, harm the fundamental human rights of anyone as defined under the International Covenant on Civil and Political Rights. Moreover, TOAEP will fully observe the principle of equality and non-discrimination and not in any way discriminate on the basis of grounds such as religion, race, ethnicity, nationality or sexual orientation. Furthermore, TOAEP will not in any way contribute to harm to our shared natural environment."
     ],
     "evidenceStandardSupport": [
       "https://toaep.org/about/"
     ],
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
       "Principles for Digital Development."
     ]
@@ -42,18 +48,35 @@
       "additionalInfoMechanismProcessesPolicies": "All TOAEP content is added by the TOAEP Editorial Team, with final control by the Editor-in-Chief. All members of the Editorial Team are lawyers. It is not technically possible for anyone else to add TOAEP content. Editorial review is done on multiple levels, always involving a minimum of two editors. "
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "TOAEP publishes literature on international law and related policy questions. By 1 November 2022, TOAEP had published more than 1,000 publications (including book chapters) by more than 730 authors since it was founded in 2010.",
       "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://toaep.org/about/privacy/",
       "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "No TOAEP content can be added unless explicitly approved by the TOAEP Editorial Team and its Editor-in-Chief (https://toaep.org/editors/). All manuscripts are subjected to review on multiple levels, involving a minimum of two editors. All members of the Editorial Team are lawyers. The TOAEP policy is zero tolerance of any illegal or inappropriate content as commonly understood, and to maintain TOAEP in such a way that it continues to be impossible for such content to be added to TOAEP. TOAEP is guided by applicable international human rights law standards.",
-      "policyGuidelinesDocumentationLink": "https://toaep.org/about/privacy/"
+      "illegalContentDetectionMechanism": "No TOAEP content can be added unless explicitly approved by the TOAEP Editorial Team and its Editor-in-Chief (https://toaep.org/editors/). All manuscripts are subjected to review on multiple levels, involving a minimum of two editors. All members of the Editorial Team are lawyers. The TOAEP policy is zero tolerance of any illegal or inappropriate content as commonly understood, and to maintain TOAEP in such a way that it continues to be impossible for such content to be added to TOAEP. TOAEP is guided by applicable international human rights law standards."
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
