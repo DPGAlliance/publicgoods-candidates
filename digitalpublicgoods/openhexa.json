@@ -47,7 +47,7 @@
     "bestPracticesList": [
       "Test-driven development",
       "Agile development",
-      "Most of the principles highlighted in Principles for Digital Development"
+      "Principles for Digital Development"
     ]
   },
   "doNoHarm": {
@@ -65,7 +65,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
