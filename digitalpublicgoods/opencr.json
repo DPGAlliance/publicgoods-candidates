@@ -5,7 +5,9 @@
     "copyrightURL": "https://www.openclientregistry.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -23,7 +25,7 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "General Data Protection Regulation (GDPR) "
+      "General Data Protection Regulation (GDPR)"
     ],
     "adherenceSteps": [
       "Local laws about data storage are reviewed determine how and where data is stored. Data sharing agreements can be established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc.",
@@ -36,7 +38,7 @@
     "standardsList": [
       "SNOMED",
       "IHE PIXm",
-      " IHE PDQm",
+      "IHE PDQm",
       "HL7 FHIR"
     ],
     "evidenceStandardSupport": [
@@ -45,9 +47,9 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "OpenHIE, https://ohie.org/",
-      "Principles for Digital Development, https://digitalprinciples.org/endorse/endorsers/",
-      "Health Data Governance Principles , https://healthdataprinciples.org/endorse"
+      "OpenHIE - https://ohie.org/",
+      "Principles for Digital Development - https://digitalprinciples.org/endorse/endorsers/",
+      "Health Data Governance Principles - https://healthdataprinciples.org/endorse"
     ]
   },
   "doNoHarm": {
@@ -61,13 +63,30 @@
         "OpenCR stores non-clinical patient data in order to create record linkages. OpenCR creates unique identifiers (CRUIDs) which provide the key for record linkage. There is non-permanent linkage between the source record and the CRUID."
       ],
       "thirdPartyDataSharing": "No",
-      "ensurePrivacySecurity": "Yes"
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
