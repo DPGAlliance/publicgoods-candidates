@@ -2,7 +2,7 @@
   "name": "Iaso",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/BLSQ/iaso"
+    "copyrightURL": "https://www.bluesquarehub.com/iaso/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
