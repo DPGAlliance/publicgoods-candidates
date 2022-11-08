@@ -27,7 +27,12 @@
   "type": [
     "content"
   ],
-  "repositories": [],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://www.legal-tools.org/"
+    }
+  ],
   "organizations": [
     {
       "name": "Centre for International Law Research and Policy (CILRAP)",
