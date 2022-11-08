@@ -32,14 +32,14 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "All Principles for Digital Development have been followed in the conceptualisation, development and continued operation of TOAEP. In addition, TOAEP will not, in any manner whatsoever, harm the fundamental human rights of anyone as defined under the International Covenant on Civil and Political Rights. Moreover, TOAEP will fully observe the principle of equality and non-discrimination and not in any way discriminate on the basis of grounds such as religion, race, ethnicity, nationality or sexual orientation. Furthermore, TOAEP will not in any way contribute to harm to our shared natural environment."
+      "PDF"
     ],
     "evidenceStandardSupport": [
-      "https://toaep.org/about/"
+      "https://toaep.org/ps/"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development"
+      "All Principles for Digital Development have been followed in the conceptualisation, development and continued operation of TOAEP. In addition, TOAEP will not, in any manner whatsoever, harm the fundamental human rights of anyone as defined under the International Covenant on Civil and Political Rights. Moreover, TOAEP will fully observe the principle of equality and non-discrimination and not in any way discriminate on the basis of grounds such as religion, race, ethnicity, nationality or sexual orientation. Furthermore, TOAEP will not in any way contribute to harm to our shared natural environment."
     ]
   },
   "doNoHarm": {
