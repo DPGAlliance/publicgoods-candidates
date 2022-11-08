@@ -17,8 +17,8 @@
   },
   "NonPII": {
     "collectsNonPII": "Yes",
-    "checkNonPIIAccessMechanism": "No",
-    "nonPIIAccessMechanism": ""
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Content is available in PDF format in case there is need for downloading"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
