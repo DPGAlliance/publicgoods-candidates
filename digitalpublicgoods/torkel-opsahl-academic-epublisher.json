@@ -2,7 +2,7 @@
   "name": "Torkel Opsahl Academic EPublisher",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://toaep.org/about/"
+    "copyrightURL": "https://toaep.org/copyright/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
