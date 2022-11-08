@@ -5,14 +5,14 @@
     "copyrightURL": "https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-289.611.695&lang=en"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "No",
     "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/socialincome-san/public/blob/main/LICENSE"
+      "https://github.com/socialincome-san/public"
     ]
   },
   "NonPII": {
