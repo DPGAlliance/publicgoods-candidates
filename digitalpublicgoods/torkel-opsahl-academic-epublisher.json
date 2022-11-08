@@ -39,7 +39,7 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development."
+      "Principles for Digital Development"
     ]
   },
   "doNoHarm": {
@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "https://toaep.org/about/privacy/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
