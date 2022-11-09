@@ -1,0 +1,96 @@
+	{
+    "id": "10152",
+    "name": "Purple HATS",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Purple HATS is a customisable, automated accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs) access to digital services.",
+    "website": "https://github.com/GovTechSG/purple-hats",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/GovTechSG/purple-hats"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "According to the World Health Organisation (WHO), around 15 per cent of the world\u2019s population, or an estimated one billion people are persons with disabilities. According to the 2018 Disability & Development Report from the UN, 'persons with disabilities are at a disadvantage regarding most Sustainable Development Goals', and 'concrete action is needed to include the world's one billion persons with disabilities, as both agents and beneficiaries of development'. Barriers to inclusion and participation are exacerbated by the lack of access to affordable, relevant assistive technology. According to existing research, only one in 10 people have access to the assistive technology they need to live independent and autonomous lives. Furthermore, inclusive digital design is uncommon for online spaces and technologies, which has resulted in people with disabilities engaging less in the digital economy. Some 62% of adults with a disability say they own a desktop or laptop computer, compared with 81% of those without a disability. Digital accessibility is recognised as a key priority in several global commitments, including the Convention on the Rights of Persons with Disabilities (CRPD), SDG 10: Reduced Inequalities, and the UN Disability Inclusion Strategy, with the core aim to ensure 'no one is left behind' in our increasingly digital world. Purple HATS offers a solution that significantly contributes to the improvement of digital accessibility. The customisable, automated accessibility testing tool allows software development teams to find and fix accessibility problems to improve persons with disabilities' access to digital services."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/GovTechSG/purple-hats/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Government Technology Agency, Singapore",
+            "clearOwnershipURL": "https://github.com/GovTechSG/purple-hats/blob/master/LICENSE"
+        }
+    ],
+    "documentation": "https://github.com/GovTechSG/purple-hats",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "JSON",
+        " HTM",
+        " XML"
+    ],
+    "bestPractices": [
+        "Automated Accessibility Testing",
+        " Automated Testing",
+        " Quality Engineering"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Singapore"
+        ],
+        "deploymentCountries": [
+            "Singapore"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Purple HATS",
+            "website": "https://github.com/GovTechSG/purple-hats",
+            "org_type": "owner",
+            "contact_name": " Zui Young Lim  ",
+            "contact_email": "accessibility@tech.gov.sg"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "As a statutory board in Singapore, GovTech\u2019s management of data is governed by the Public Sector (Governance) Act (PSGA) and the Government Instruction Manual on Infocomm Technology & Smart Systems Management (\u201cIM on ICT&SS Management\u201d). The IM on ICT&SS Management sets out how the Government manages and protects data (including personal data) in its possession or control. The PSGA was enacted in 2018 to further strengthen public sector data governance by imposing criminal penalties on public officers who (a) knowingly or recklessly disclose data without authorisation; (b) misuse data that results in personal gain for the public officer or another person, or harm or loss to another person; and (c) knowingly or recklessly re-identify anonymised information without authorisation.",
+            "privacyComplianceURL": "Additional Information on Data: \\nPurple HATS uses third-party open-source tools that may be downloaded over the Internet during the installation process of Purple HATS. Users should be aware of the libraries used by examining package.json. \\n Purple HATS may send information to the website or URL where the user chooses to initiate a Purple HATS scan. By default, data collected by Purple HATS is processed and stored locally on the machine where the tool is run. \\n Reference: https://github.com/GovTechSG/purple-hats/blob/master/README.md#additional-information-on-data"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
