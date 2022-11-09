@@ -1,0 +1,92 @@
+	{
+    "id": "10146",
+    "name": "Antura and the Letters",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Content"
+    ],
+    "description": " ",
+    "website": " ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": " "
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": " "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "0BSD",
+            "openLicenseEvidenceURLs": " "
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": " ",
+            "clearOwnershipURL": " "
+        }
+    ],
+    "documentation": " ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        " "
+    ],
+    "bestPractices": [
+        " "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Afghanistan"
+        ],
+        "deploymentCountries": [
+            "Afghanistan"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Antura and the Letters",
+            "website": " ",
+            "org_type": "owner",
+            "contact_name": " Francesco Cavallari  ",
+            "contact_email": "TOBEUPDATED@G.COM"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": " ",
+            "privacyComplianceURL": " "
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
