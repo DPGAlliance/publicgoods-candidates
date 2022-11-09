@@ -1,0 +1,116 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/kiva/protocol-common/blob/master/LICENSE"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "For a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General\u2019s Special Advocate for Inclusive Finance for Development (UNSGSA) \u2013 Her Majesty Queen Ma\u0301xima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion\r\n\r\nFor a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General\u2019s Special Advocate for Inclusive Finance for Development (UNSGSA) \u2013 Her Majesty Queen Ma\u0301xima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion\r\n\r\nFrom our experience lending with partners across 94 countries, we know verifiable identity is an atomic unit for scaling access to the formal financial sector. This poses distinct challenges for women gaining greater financial access. Women are less likely to have ID documents and often face cultural constraints in how they use them.  Kiva Protocol offers an alternative approach to digital identity management that can provide real benefits to women.  An open-source authentication platform, Kiva Protocol enables individuals to store a version of their identity documents in a digital wallet that they control, providing them with a highly secure and portable digital record. The individual doesn\u2019t have to rely on a physical credential, increasing agency and privacy over how and when to share her information."
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "For a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General\u2019s Special Advocate for Inclusive Finance for Development (UNSGSA) \u2013 Her Majesty Queen Ma\u0301xima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion\r\n\r\nFor a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General\u2019s Special Advocate for Inclusive Finance for Development (UNSGSA) \u2013 Her Majesty Queen Ma\u0301xima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion\r\n\r\nFrom our experience lending with partners across 94 countries, we know verifiable identity is an atomic unit for scaling access to the formal financial sector. This poses distinct challenges for women gaining greater financial access. Women are less likely to have ID documents and often face cultural constraints in how they use them.  Kiva Protocol offers an alternative approach to digital identity management that can provide real benefits to women.  An open-source authentication platform, Kiva Protocol enables individuals to store a version of their identity documents in a digital wallet that they control, providing them with a highly secure and portable digital record. The individual doesn\u2019t have to rely on a physical credential, increasing agency and privacy over how and when to share her information."
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "For a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General\u2019s Special Advocate for Inclusive Finance for Development (UNSGSA) \u2013 Her Majesty Queen Ma\u0301xima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion\r\n\r\nFor a detailed analysis of how financial inclusion can drive progress on these SDGs, CGAP has published an report specifically on this topic, Achieving the Sustainable Development Goals: The Role of Financial Inclusion, as well as a joint paper by Office of the United Nations Secretary-General\u2019s Special Advocate for Inclusive Finance for Development (UNSGSA) \u2013 Her Majesty Queen Ma\u0301xima of the Netherlands, the Better Than Cash Alliance which is hosted by the United Nations Capital Development (UNCDF), and the World Bank, Igniting SDG Progress Through Digital Financial Inclusion\r\n\r\nFrom our experience lending with partners across 94 countries, we know verifiable identity is an atomic unit for scaling access to the formal financial sector. This poses distinct challenges for women gaining greater financial access. Women are less likely to have ID documents and often face cultural constraints in how they use them.  Kiva Protocol offers an alternative approach to digital identity management that can provide real benefits to women.  An open-source authentication platform, Kiva Protocol enables individuals to store a version of their identity documents in a digital wallet that they control, providing them with a highly secure and portable digital record. The individual doesn\u2019t have to rely on a physical credential, increasing agency and privacy over how and when to share her information."
+        }
+    ],
+    "id": "10151",
+    "name": "Kiva Protocol",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Kiva Protocol is a modular, open-source technology platform that drives financial inclusion by connecting existing systems with modern digital authentication and transactional capabilities",
+    "website": "https://kiva.global/protocol",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/kiva/protocol-common"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Kiva",
+            "clearOwnershipURL": "https://github.com/kiva/aries-guardianship-agency/blob/master/LICENSE"
+        }
+    ],
+    "documentation": "https://protocol-docs.web.app",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Developers for this project have been active in the development of the W3C Verifiable Credentials specification",
+        " the W3C Decentralized Identifier specification",
+        " the DIDComms specification incubated at the Decentralized Identity Foundation",
+        " and other identity communications specification work hosted in the Aries RFC repository. Test support work is ongoing",
+        " as many of these specifications are still in incubation and evolving."
+    ],
+    "bestPractices": [
+        "Kiva Protocol has been awarded the ID2020 Certification Mark",
+        " and won the World Bank ID4D\u2019s Mission Billion Challenge Global Prize. Its design and operational model embodies best practices around privacy",
+        " agency",
+        " and open and standards-based technologies",
+        " and specifically adheres to the ID4D Principles of Identification.  Though it isn\u2019t formally measured",
+        " the community also actively seeks to support Privacy by Design and principles of data minimization and non-correlation so that users can have confidence sharing data between issuers. The Core Infrastructure Initiative badge is a part of certifying the components of the system that are part of Hyperledger and project results can be found here https://bestpractices.coreinfrastructure.org/en/projects/4088."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "Identity data previously collected and stored by government identity agencies (e.g.",
+            " civil registries",
+            " birth registries",
+            " voter registries",
+            " etc.)",
+            " Financial transaction data provided to individual data subjects by their financial service providers."
+        ],
+        "dataPrivacySecurity": "The personal information held in Kiva Protocol is only shared with third-parties with the express consent of the individual data subject. Even then, the individual has the ability to selectively disclose only those attributes which are necessary for the particular use case, including the ability to use zero-knowledge proofs to disclose a simple 'yes/no' or 'positive/negative' response instead of the actual data itself (e.g., 'Yes' to a query of 'Is over 18?' instead of the actual date of birth).\r\n\r\nKiva Protocol currently allows individual data subjects to: \\n1) share identity credentials with a financial institution or government agency, \\n 2) share credit history or other financial transaction records with a financial institution or government agency, \\n 3) share data with other individuals in a peer-to-peer manner. No data is shared with third-parties without the express consent of the individual data subject.\r\n\r\nKiva Protocol stores identity data previously collected and stored by government identity agencies (e.g., civil registries, birth registries, voter registries, etc.). It also stores financial transaction data provided to individual data subjects by their financial service providers. Holding these data in Kiva Protocol\u2019s cloud-based digital wallet infrastructure typically provides higher levels of privacy and security than the on-prem or hybrid databases maintained by identity agencies in Kiva partner jurisdictions. Each data subject wallet is encrypted with its own key. A defense in depth approach is used throughout the architecture to ensure that no one failure can compromise the entire system. This includes, but is not limited to, a Web Application Firewall, separation of duties, regular dependency patching, and security monitoring. In addition, we run regular security audits to find and address vulnerabilities in our configuration, software and architecture. The last audit used ioActive."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Sierra Leone"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Kiva Protocol",
+            "website": "https://kiva.global/protocol",
+            "org_type": "owner",
+            "contact_name": " Bryan Pon  ",
+            "contact_email": "bryanp@kiva.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "National Civil Registration Authority Act (Sierra Leone)",
+            "privacyComplianceURL": "As described previously, Kiva Protocol follows 'privacy by design' principles, including data minimization, non-correlation, and user control/ selective disclosure. And of course, no PII is ever written to the ledger. However, for any given implementation it remains up to our government partners to define their own governance policies and determine their compliance with all relevant laws.  Therefore all terms of service, privacy policies, etc. are defined on a project basis. \\nInter-agency data sharing between the National Civil Registration Authority and the Bank of Sierra Leone is permitted under the National Civil Registration Authority Act.  Additional regulations governing the use of the eKYC platform to facilitate new account onboarding and customer due diligence are being developed by the Bank of Sierra Leone. A broader initiative to develop a consumer protection regime in Sierra Leone - which may include privacy and consumer financial protection - is being conducted by UNCDF with support from Innovations for Poverty Action (IPA)"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
