@@ -1,0 +1,126 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "European Commission",
+            "clearOwnershipURL": "https://ghsl.jrc.ec.europa.eu/about.php"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "id": "10153",
+    "name": "Global Human Settlement Layer",
+    "aliases": [
+        "GHSL"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "GHSL provides analysis ready, global, geospatial data reporting about the presence of population and human settlements",
+    "website": "https://ghsl.jrc.ec.europa.eu",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://ghsl.jrc.ec.europa.eu/download.php"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG6: Clean Water and Sanitation",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG7: Affordable and Clean Energy",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "There are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 1.1.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 2.4.1 The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 3.3.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nThere are a number of SDG indicators that require an urban-rural disaggregation, for example SDG 4.5.1. The GHSL data were used to develop the Degree of Urbanisation method to delineate cities, urban and rural areas. The UN Statistical Commission endorsed thin in 2020 for international comparison including the SDGs\r\n\r\nIn this article, the GHSL population data were used to assess the number of people with access to water. https://ucl.scienceopen.com/hosted-document?doi=10.14324/111.444/ucloe.000026\r\n\r\nThe GHSL data on population and settlements can be used to assess the number of people with access to electricity disaggregated by urban and rural share. https://doi.org/10.1016/j.rser.2021.111282\r\n\r\nThe GHSL data on population and settlements can measure the rural population with access to an all weather road. https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721\r\n\r\nGHSL data allow calculating directly the SDG 11.3.1 (land use efficiency). The data are also used for generating information on SDG 11.6.2 (air quality in cities) and SDG 11.7.1 (urban green). http://dx.doi.org/10.3390/su11205674"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "https://ec.europa.eu/info/legal-notice_en"
+        }
+    ],
+    "documentation": "https://ghsl.jrc.ec.europa.eu/documents/GHSL_Data_Package_2019.pdf?t=1478q532234372\r\n\r\nhttps://ghsl.jrc.ec.europa.eu/atlas2020Overview.php",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "TIFF for raster data or SHP for vector data and CSV for spreadsheet data. https://ghsl.jrc.ec.europa.eu/about.php"
+    ],
+    "bestPractices": [
+        "The GHSL data are following the FAIR data principles:\r\n\r\n- They are findable",
+        " each of the data sets is linked to a DOI and comes with a standardised data set description in the JRC data catalogue (see GHSL data collection in the catalogue: https://data.jrc.ec.europa.eu/collection/ghsl)\r\n\r\n- They are accessible",
+        " because not registration whatsoever is needed to access the data.\r\n\r\n- They are interoperable",
+        " because they use open data exchange formats like TIFF for raster data or SHP for vector data and CSV for spreadsheet data.\r\n\r\n- They are reusable",
+        " because the licensing allows for wide reusability"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "Italy"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Global Human Settlement Layer",
+            "website": "https://ghsl.jrc.ec.europa.eu",
+            "org_type": "owner",
+            "contact_name": " Thomas Kemper  ",
+            "contact_email": "jrc-ghsl@ec.europa.eu"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR) in the European Union",
+            "privacyComplianceURL": "https://ec.europa.eu/info/privacy-policy_en"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
