@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "ajv-cli": "^3.1.0",
+    "ajv-cli": "^5.0.0",
     "btoa": "^1.2.1",
     "colors": "^1.4.0",
     "csvtojson": "^2.0.10",
