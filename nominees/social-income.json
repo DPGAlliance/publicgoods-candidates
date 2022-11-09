@@ -3,7 +3,7 @@
   "aliases": [
     ""
   ],
-  "description": "A open source initiative to fight SDG 1 with direct cash transfers for people in need",
+  "description": "Social Income provides an end-to-end solution to manage direct-cash transfer projects or universal basic income pilots. This includes funding grassroots fundraising, contributor management, selection management with third-party NGOs and payment management (not the actual payment, this can be done with any local mobile money provider).",
   "website": "https://socialincome.org",
   "license": [
     {
