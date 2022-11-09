@@ -10,9 +10,14 @@
     "pltIndependenceDesc": ""
   },
   "documentation": {
-    "isDocumentationAvailable": "No",
+    "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "The complete library of TOAEP publications is freely and immediately available on the TOAEP web site (https://toaep.org/about/). The information required to access the publications is available on the web site. The electronic version of all publications is available as a PDF-file that can be freely accessed, printed or downloaded. No software is required beyond a web browser and PDF-reader. There is no need to register as a user. The TOAEP publications can be accessed by author name (https://toaep.org/authors/) or by five publication series into which they are organised:",
+      "1. The Publication Series (https://toaep.org/ps/), TOAEP's oldest series, which publishes books (monographs and anthologies);",
+      "2. The Policy Brief Series (https://toaep.org/pbs/) which publishes shorter texts of approximately 4,000 words in a fixed 4-page layout;",
+      "3. The Occasional Paper Series (https://toaep.org/ops/) which publishes longer texts of a scholarly nature that do not have the volume to be separate books;",
+      "4. The Nuremberg Academy Series (https://toaep.org/nas/) which publishes books linked to the activities of the International Nuremberg Principles Academy; and",
+      "5. The Law of the Future Series (https://toaep.org/lotfs/) which publishes books linked to the activities of The Hague Institute for Innovation of Law."
     ]
   },
   "NonPII": {
@@ -35,6 +40,7 @@
       "PDF"
     ],
     "evidenceStandardSupport": [
+      "The electronic version of all TOAEP publications are available on the TOAEP web site (https://toaep.org/about/) as PDF-files, on the web pages indicated above. Users can freely and immediately access the publications provided they have a web browser and PDF-reader. Pursuant to TOAEP's user commitment since its establishment in 2010, there are no other requirements, and no technical or registration requirements will be introduced in the future.",
       "https://toaep.org/ps/"
     ],
     "implementBestPractices": "Yes",
