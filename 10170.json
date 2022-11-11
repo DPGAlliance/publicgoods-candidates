@@ -1,0 +1,133 @@
+	{
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services. ,\r\n \r\n5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.,\r\n \r\n9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.,\r\n \r\n17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT"
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services. ,\r\n \r\n5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.,\r\n \r\n9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.,\r\n \r\n17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services. ,\r\n \r\n5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.,\r\n \r\n9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.,\r\n \r\n17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services. ,\r\n \r\n5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.,\r\n \r\n9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.,\r\n \r\n17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "1.4 Equal rights to economic resources and basic services, appropriate new technology and financial services. ,\r\n \r\n5.B Enhance the use of enabling technology, in particular ICT to promote the empowerment of women.,\r\n \r\n9.C Significantly increase access to ICT and strive to provide universal and affordable access to the Internet.,\r\n \r\n17.8 Innovation capacity-building and enhanced use of enabling technology, in particular ICT"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-SA-3.0",
+            "openLicenseEvidenceURLs": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "FAO",
+            "clearOwnershipURL": "http://www.fao.org/digital-agriculture/digital-portfolio/en/"
+        }
+    ],
+    "documentation": "https://digital.apps.fao.org/agrimarket",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "id": "10170",
+    "name": "FAO Digital Services Portfolio - AgriMarketplace",
+    "aliases": [
+        "AgriMarketplace"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "This service gives farmers the opportunity to know the approximate prices of each product in the surrounding markets, as well as the routes to reach them.",
+    "website": "https://digital.apps.fao.org/agrimarket",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "n/a"
+        }
+    ],
+    "openStandards": [
+        "REST API",
+        "JSON",
+        "HTTPS  Principles For Digital Development",
+        "Human Centered Design Principles",
+        "Progressive Web App (PWA)"
+    ],
+    "bestPractices": [
+        "Principles For Digital Development",
+        " Continous Integration & Continous Deployment (CI/CD)",
+        " Universal Access & Open APIs",
+        " Human Centered Design Principles",
+        " Material design",
+        " FAIR Data Principles"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Jordan",
+            "Niger",
+            "Rwanda",
+            "Senegal",
+            "Tanzania"
+        ],
+        "deploymentCountries": [
+            "Jordan",
+            "Niger",
+            "Rwanda",
+            "Senegal",
+            "Tanzania"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        "International Telecommunication Union",
+        "World Meteorological Organization"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministry of Agriculture"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "FAO Digital Services Portfolio - AgriMarketplace",
+            "website": "https://digital.apps.fao.org/agrimarket",
+            "org_type": "owner",
+            "contact_name": " Henry van Burgsteden  ",
+            "contact_email": "henry.burgsteden@fao.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "PRIVACY POLICY FOR USE OF FAO APPLICATIONS: http://www.fao.org/contact-us/privacy-policy/en/ http://www.fao.org/contact-us/terms/en/",
+            "privacyComplianceURL": "PRIVACY POLICY FOR USE OF FAO APPLICATIONS: http://www.fao.org/contact-us/privacy-policy/en/ http://www.fao.org/contact-us/terms/en/"
+        }
+    ],
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
