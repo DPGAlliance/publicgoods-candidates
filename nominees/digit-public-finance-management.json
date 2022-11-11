@@ -1,0 +1,41 @@
+{
+  "name": "DIGIT Public Finance Management ",
+  "aliases": [
+    "DIGIT iFix"
+  ],
+  "description": "DIGIT – iFIX enables government agencies (national, sub-national, local governments, development institutions etc…) to exchange standardised fiscal events. Example: budget estimate, plan, demand, receipt, bill and payments related data. This accelerates flow of fiscal information across agencies which in turn accelerates flow of funds. ",
+  "website": "https://ifix.digit.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/egovernments/iFix-Dev/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16,
+      "evidenceText": "DIGIT – iFIX enables government agencies (national, sub-national, local governments, development institutions etc…) to exchange standardised fiscal events. Example: budget estimate, plan, demand, receipt, bill and payments related data. This accelerates flow of fiscal information across agencies which in turn accelerates flow of funds. ",
+      "evidenceURL": "https://ifix.digit.org/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "iFix",
+      "url": "https://github.com/egovernments/iFix-Dev"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "eGov Foundation",
+      "website": "https://egov.org.in/",
+      "org_type": "owner",
+      "contact_name": "eGov Foundation",
+      "contact_email": "contact@egovernments.org"
+    }
+  ],
+  "stage": "nominee"
+}
