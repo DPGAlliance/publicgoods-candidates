@@ -1,0 +1,70 @@
+{
+  "name": "DIGIT Public Finance Management ",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://ifix.digit.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://ifix.digit.org/platform/strategy-and-approach/functional-specifications",
+      "https://ifix.digit.org/platform/strategy-and-approach/technical-specification"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Dashboards and data dump downloads from dashboards in XLS format."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgment)"
+    ],
+    "adherenceSteps": [
+      "Steps taken for adherence are in compliance with the Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgment) Steps are -: Purposeful collection, Legitimate interest in data collection &  Data minimization."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Open API Specifications, JSON, REST"
+    ],
+    "evidenceStandardSupport": [
+      "https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/egovernments/iFix-Dev/develop/domain-services/ifix-master-data-service/ifix-master-data-service-1.0.0.yaml",
+      "https://github.com/egovernments/iFix-Dev/blob/master/domain-services/fiscal-event-service/fiscal-event-service-1.0.0.yaml",
+      "https://github.com/egovernments/iFix-Dev/blob/master/domain-services/fiscal-event-post-processor/fiscal-event-post-processor-1.0.0.yaml",
+      "https://github.com/egovernments/iFix-Dev/blob/master/domain-services/ifix-department-entity-service/ifix-department-entity-service-1.0.0.yaml"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Interoperable, Standards based, Minimalism, Open Source, Unbundled, Secure & Reliable, Scalable, Ease of use, Inclusive"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "DIGIT-iFix is built with data privacy and security features. We follow best practices during development and deployment to ensure security. It does no harm. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No"
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
