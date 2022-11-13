@@ -1,0 +1,121 @@
+	{
+    "id": "10177",
+    "name": "GlobaLeaks",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform",
+    "website": "https://www.globaleaks.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/globaleaks/GlobaLeaks"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "GlobaLeaks is a free and open-source whistleblowing software enabling everyone to report safely and anonymously about wrongdoings encountered during their own life and work experience. The technology has already enabled worldwide more than 4000 organizations to create projects focused on anti-corruption, gender based violence, environmental crimes, war crimes. Please see the attached link that list some of the most valuable use cases and please reach out to get to know more."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/globaleaks/GlobaLeaks/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "GlobaLeaks",
+            "clearOwnershipURL": "https://www.globaleaks.org/"
+        }
+    ],
+    "documentation": "https://docs.globaleaks.org/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Supports a REST API for data access"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "- Code of Conduct: https://github.com/globaleaks/GlobaLeaks/blob/main/CODE_OF_CONDUCT.md\r\n- Contributing Guidelines: https://github.com/globaleaks/GlobaLeaks/blob/main/CONTRIBUTING.md\r\n- Governance Model compliant with best open source guidelines: https://github.com/globaleaks/GlobaLeaks/blob/main/GOVERNANCE.md\r\n- Best Practices adopted by the project: https://bestpractices.coreinfrastructure.org/en/projects/3816\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "Bulgaria",
+            "Central African Republic",
+            "Czechia (Czech Republic)",
+            "Ecuador",
+            "France",
+            "Germany",
+            "Hungary",
+            "Italy",
+            "Lithuania",
+            "Luxembourg",
+            "Madagascar",
+            "Netherlands",
+            "Peru",
+            "Portugal",
+            "South Africa",
+            "Spain",
+            "Thailand",
+            "Tunisia",
+            "Ukraine",
+            "United Arab Emirates",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "International Criminal Court\r\nAnti-corruption Authority of Madagascar\r\nAnti-corruption Authority of Italy\r\nAnti-corruption Authority of Valencia\r\nGovernment of Mexico\r\nGovernment of Maldives\r\nMinistry of Defense of Italy\r\nMinistry of Justice of Italy\r\nMinistry of Culture of Italy\r\nMinistry of University and Research of Italy\r\nMinistry of Agricultural",
+        " Food and Forestry Policies of Italy\r\nInternational Criminal Court"
+    ],
+    "otherDeploymentOrganisations": [
+        "Transparency International\r\nChamber of Commerce of Finland\r\nMunicipality of Barcelona\r\nMunicipality of Milan\r\n\r\n"
+    ],
+    "openStandards": [
+        "The software is build in compliance with with ISO 37002",
+        " specific whistleblowing standard defined in 2021. It as well implement whistleblowing procedures in relation to many national and international laws and in particular in relation to the Directive (EU) 2019/1937.\r\n\r\nWithin its implementation it uses only standard protocols defined by the IETF",
+        " ISO 27001",
+        " ISO 27017",
+        " ISO 27018."
+    ],
+    "bestPractices": [
+        "Full documentation about the principles and best practices used within the project development: https://bestpractices.coreinfrastructure.org/en/projects/3816"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "GlobaLeaks",
+            "website": "https://www.globaleaks.org",
+            "org_type": "owner",
+            "contact_name": " Giovanni Pellerano  ",
+            "contact_email": "giovanni.pellerano@globaleaks.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR Privacy policy",
+            "privacyComplianceURL": "https://www.globaleaks.org/privacy-policy/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
