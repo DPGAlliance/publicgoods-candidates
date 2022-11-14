@@ -18,10 +18,13 @@ This document lays out the policies that govern the review process of DPG applic
 ### Spam Policy
 * Any application that is deemed nonsensical, malicious, irrelevant or in violation of our Code of Conduct will not be reviewed and will be removed immediately.
 
+### Issue Resolution Policy
+* Progress and status of review of an application is transparently visible on their public URL (app.digitalpublicgoods.net/a/[ID]) and via the applicant’s dashboard.
+* To engage in the public discourse on a submitted application, please interact with us by commenting the relevant PR on this public GitHub repo.
+* To raise disagreements with a review decision or any other issues related to reviews, please write to us at support@digitalpublicgoods.net
 
-### Nominee review policy:  
-Anyone can nominate a digital solution to the registry using the public form at digitalpublicgoods.net/nominate/
-In order to appear on the DPG Registry as a Nominee - solutions must demonstrate relevance to the Sustainable Development Goals and use of an approved open license as indicated by indicators 1 & 2 of the DPG Standard. 
+
+
 
 ### DPG Review Policy: 
 Solutions will be assessed against the 9 indicators of the latest version of the DPG Standard at time of nomination. 
