@@ -4,13 +4,13 @@ This document lays out the policies that govern the review process of DPG applic
 
 ### Nomination Policy
 * Owners of digital solutions who wish to get their solution recognized as a Digital Public Good (DPG) must nominate their solution by submitting a DPG application (application).
-* Application can be created and submitted through the DPGA webapp at app.digitalpublicgoods.net
-* The set of questions that are asked as part of the application are transparently available here.
+* Application can be created and submitted through the DPGA webapp at [app.digitalpublicgoods.net](app.digitalpublicgoods.net) 
+* The set of questions that are asked as part of the application are transparently available [here](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard-questions.md).
 * Applications can only be submitted by an authorised representative of the digital solution (the applicant).
 * We collect the name & email of the applicant. Email verification is required in order to submit an application.
 * Each application is assigned a unique application ID.
 * Content of each submitted application is made publicly available & licensed as such via Unilicence.
-* The submitted applications can be accessed via their public URLs (URL format: app.digitalpublicgoods.net/a/[ID]) as well as via a PR on this GitHub repo.
+* The submitted applications can be accessed via their public URLs (URL format: app.digitalpublicgoods.net/a/[ID]) as well as via a PR on [this GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls).
 
 ### Application Review Policy
 * Each application is assessed against the latest version of the DPG Standard at time of creating the application.
