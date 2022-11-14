@@ -9,7 +9,7 @@ This document lays out the policies that govern the review process of DPG applic
 * Applications can only be submitted by an authorised representative of the digital solution (the applicant).
 * We collect the name & email of the applicant. Email verification is required in order to submit an application.
 * Each application is assigned a unique application ID.
-* Content of each submitted application is made publicly available & licensed as such via Unilicence.
+* Content of each submitted application is made publicly available & licensed as such via Unlicense.
 * The submitted applications can be accessed via their public URLs (URL format: app.digitalpublicgoods.net/a/[ID]) as well as via a PR on [this GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls).
 
 ### Application Review Policy
