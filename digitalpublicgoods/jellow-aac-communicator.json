@@ -1,0 +1,107 @@
+{
+  "name": "Jellow AAC Communicator",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/jellow-aac/jellow-communicator-android/blob/master/LICENSE.txt"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Jellow AAC Communicator uses a Google TTS engine, a closed source component due to the superior and satisfactory performance it offers especially with the Indian language and voices. One of the open source TTS engines available for the Indian language is Hear2read (https://hear2read.org/) which we've tried recently. \n The core app function is to provide speech therapy, and speech training to children with disabilities using intuitive icons. There are also a few secondary services (especially Google dependencies) that maybe inside the app or used for internal developer analysis . None of these services are part of the core app features. The secondary services include: \n- Analytics: This dependency collects user non-PII app usages such as mostly used screen and most used category icons. These analytics data are not mandatory to the app's core function. \n- Database: The Firebase real-time DB service stores the non-PII user's first language selection, registration date, app version code, user feedback, and screen usage time only. These data points are again not mandatory to the app's core function. \n-Auth: To make the above-mentioned data write protect the auth service is incorporated. If the database part is not considered mandatory then this auth service is eliminated automatically. \n-Notification: The notification service to date is only configured to notify users about new version availability. This too does not relate to the core function of the app. \n- Storage: The storage service stores language content for the app. This language content can be moved to other storage spaces like Github or another storage hosting with little changes."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://jellow.org/jellow-basic.php"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The data can be shared in CSV format. Also, in some special cases, we'll provide read-only access to the dashboard."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679",
+      "The Children’s Online Privacy Protection Act (COPPA) - https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://www.jellow.org/privacy_policy.php",
+      "Code of conduct - https://github.com/jellow-aac/Jellow-Communicator/blob/master/CODE_OF_CONDUCT.md"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The app requires a large number of icons, text, audio data for its basic usage. All the icons are designed and created in-house and exported in PNG format to make them compatible across different platforms.",
+      "Also, to store/retrieve the text data, JSON notation is used.",
+      "The audio used in the Jellow App has a .mp3 extension.",
+      "Apart from this, the web version is built on top of HTML, CSS technologies.",
+      "Also, uses SSL, UTF-8 at the back end and website.",
+      "On all the platforms, the application has added accessibility support as it is mainly designed for special children. As per my understanding, it closely follows https://www.w3.org/WAI/standards-guidelines/wcag/ and Android, iOS platforms accessibility guidelines."
+    ],
+    "evidenceStandardSupport": [
+      "The icons in Jellow are designed using open format and are free to download from weblink https://www.dsource.in/tool/trinetra/home.php"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Coding Styles - Google Java Style Guide",
+      "Architectural pattern - Model-View-Pattern (MVP)",
+      "Continous Integration",
+      "Test driven development - https://github.com/jellow-aac/jellow-communicator-android/tree/jellow-test-cases-module-part-three/app/src/androidTest/java/com/dsource/idc/jellowintl"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The Jellow team very strongly considers privacy concerns henceforth the app design is in such a way it does not require the user's PII. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The Jellow team very strongly considers privacy concerns henceforth the app design is in such a way it does not require the user's PII. The Application does not push any PII to the backend server during its usage. All user's PII data stays on their device only"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "Bangladesh",
+      "Sri Lanka",
+      "Nepal",
+      "Bhutan",
+      "United States of America",
+      "United Kingdom",
+      "Canada",
+      "Singapore"
+    ]
+  }
+}
