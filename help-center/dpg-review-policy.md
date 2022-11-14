@@ -43,11 +43,11 @@ This document lays out the policies that govern the review process of DPG applic
 * Upon a re-review, if the solution is found to be in compliance with the latest DPG Standard, they will be stay listed on the DPG Registry.
 
 ### Spam Policy
-* Any application that is deemed nonsensical, malicious, irrelevant or in violation of our Code of Conduct will not be reviewed and will be removed immediately.
+* Any application that is deemed nonsensical, malicious, irrelevant or in violation of our [Code of Conduct](https://github.com/DPGAlliance/DPG-Standard/blob/main/CODE_OF_CONDUCT.md) will not be reviewed and will be removed immediately.
 
 ### Issue Resolution Policy
 * Progress and status of review of an application is transparently visible on their public URL (app.digitalpublicgoods.net/a/[ID]) and via the applicant’s dashboard.
-* To engage in the public discourse on a submitted application, please interact with us by commenting the relevant PR on this public GitHub repo.
+* To engage in the public discourse on a submitted application, please interact with us by commenting the relevant PR on [this public GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls).
 * To raise disagreements with a review decision or any other issues related to reviews, please write to us at support@digitalpublicgoods.net
 
 
