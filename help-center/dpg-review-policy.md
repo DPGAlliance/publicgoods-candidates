@@ -12,17 +12,19 @@ This document lays out the policies that govern the review process of DPG applic
 * Content of each submitted application is made publicly available & licensed as such via Unilicence.
 * The submitted applications can be accessed via their public URLs (URL format: app.digitalpublicgoods.net/a/[ID]) as well as via a PR on this GitHub repo.
 
-
-### Summary: 
-
-| Stages of application | Nominated | Reviewed | Full DPG  | Inactive |
-|---------------------------|-----------|----------|-----------|----------|
-| What happens at this stage? | Solution is screened for open source & SDG relevance | Solutions are screened against the full DPG standard | Solutions appear as DPGs on the registry | Solutions are in the database but not on registry |
-| Requirements to enter this stage | First 3 indicators | Has completed a nomination form & there is a project contact | Addressed all of the DPG Standard | No response for 30 days | How does a solution enter this stage? | Submission form
-| Nomination form & passing the nomination stage | Completing the review process | Manually moved to inactive - PR open | 
-| How long does this stage last? | T+7 days | T+21 days  | 1 year | Infinitely
-| What happens if the requirements aren’t met | Project moves to excluded pipeline | It fails the indicator and applicant is informed | Returns to “new application stage” | Reactivate the application - returns to “new”
-| Visible on the registry? | Yes | Yes | Yes | No
+### Application Review Policy
+* Each application is assessed against the latest version of the DPG Standard at time of creating the application.
+* Each application is thoroughly reviewed by at least two people from the DPGA review team.
+* Application must meet all the requirements of the DPG Standard to become a DPG. If the application fails to meet one or more requirements, they will be declared as "ineligible to be recognized as a DPG at this time."
+* Every review results in a binary decision : DPG or Ineligible.
+* Final determination on whether a solution adheres to the DPG Standard will be made by the DPGA Secretariat’s Technical Coordinator.
+* A digital solution recognized as a DPG will be listed on the public DPG Registry and their listing will also made be available to other databases via an API.
+* If required, the reviewers may consult the Community Manager, the Product Manager and domain experts on a case to case basis.
+* A reviewer may reach out to the applicant to seek clarifications and/or gather additional information in order to complete their review.
+* The applicant will be intimated about the request for clarification via email and the DPGA webapp.
+* The applicant must submit clarifications within the time allotted to them by the reviewer.
+* If the applicant fails to respond with all requested clarifications within the time allotted to them, then the application will be automatically declared Ineligible.
+* During the time for which clarifications are requested and a final review decision is taken, the solutions will be listed on the registry as a "nominee".
 
 ### DPG Registry Moderation Policy
 * The public DPG registry displays all digital solutions that are recognized as DPGs and Nominees.
