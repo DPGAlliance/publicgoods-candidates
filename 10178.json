@@ -1,0 +1,119 @@
+	{
+    "id": "10178",
+    "name": "EduNOSS",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "NOSS"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "A Linux OS with lots of educational applications to support teaching and learning of ICT and STEM in pre-tertiary educational institutions.",
+    "website": "https://www.noss.com.gh",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://repos.nos.aiti-kace.com.gh/noss/pool/"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "This project seek to make available a computing platform with required educational applications, STEM Simulation tools and office productivity applications to enable pre-tertiary students learn and study ICT, Digital Skills and cultivate the habit of innovating for national development."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-2.0",
+            "openLicenseEvidenceURLs": "https://repos.nos.aiti-kace.com.gh/gpl2.html"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE)",
+            "clearOwnershipURL": "https://noss.com.gh/guide/"
+        }
+    ],
+    "documentation": "General description of Nyansapo OS: https://noss.com.gh/guide, General description of EduNOSS:https://noss.com.gh/guide, Downloading of the EduNOSS ISO: https://noss.com.gh/download, License information: https://noss.com.gh/license",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Unified Extensible Firmware Interface (UEFI) specification",
+        "The Linux Standard Base (LSB)",
+        "Filesystem Hierarchy Standard (FHS)",
+        "GNU Coding Standards",
+        "Portable Operating System Interface (POSIX) Its our strong believe that once the standards and principles are made known to the general public we will be enjoined to adhere them. Principles for Digital Development",
+        "Principle of Transparency. With respect the EduNOSS project we are ready to share all the information used in the developement of the Operating system. We believe that when we all have access to the information and materials necessary for doing our best work. And when these materials are accessible",
+        " we can build upon each other's ideas and discoveries. We can make more effective decisions and understand how improve EduNOSS for the benefit of humanity.",
+        "Principle of Collaboration. When everyone is free to participate",
+        " we can enhance each other's work in unanticipated ways. When we can modify what others have shared",
+        " we unlock new possibilities. By initiating new projects together",
+        " we can solve problems that no one can solve alone. And when we implement open standards",
+        " we enable others to contribute in the future.",
+        "Principle of Early Release and Often. Rapid prototypes can lead to rapid discoveries. An iterative approach leads to better solutions faster. The EduNOSS team believe that when you are free to experiment",
+        " you can look at problems in new ways and seek answers in new places. You can learn by doing.",
+        "Inclusive Principle of Meritocracy. The EduNOSS project believes good ideas can come from anywhere",
+        " and the best ideas should win. Only by including diverse perspectives in our conversations can we be certain we have identified the best ideas",
+        " and decision-makers continually seek those perspectives. We may not operate by consensus",
+        " but successful work determines which projects gather support and effort from the community.",
+        "Community. Communities form when different people unite around a common purpose. Shared values guide decision making",
+        " and community goals supersede individual interests and agendas."
+    ],
+    "bestPractices": [
+        "N/A"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "All protection from harassment issues will be handled by both the Project Management Team and The Ministry of Education, Ghana since the product is intended to be used in schools. All protection from harassment issues will be handled by both the Project Management Team and The Ministry of Education, Ghana since the product is intended to be used in schools."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Ghana"
+        ],
+        "deploymentCountries": [
+            "Ghana"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "We are working on signing an MoU with the Ministry of Education- Ghana for the product to be deployed in government pre-tertiary educational institutions in Ghana."
+    ],
+    "otherDeploymentOrganisations": [
+        "Some pre-tertiary educational institutions."
+    ],
+    "awardsReceived": [
+        "N/A"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "EduNOSS",
+            "website": "https://www.noss.com.gh",
+            "org_type": "owner",
+            "contact_name": " Frederick Yeboah  ",
+            "contact_email": "fredericky@aiti-kace.com.gh"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Ghana\u2019s 1992 Constitution,EduNOSS Privacy Policy 1992 Constitution: the product and use is completely free for all Ghanaians for their well-being without any limitations. We have also mandated the use of user passwords to ensure privacy of individual data protection.,EduNOSS Privacy Policy. The EduNOSS Project is a volunteer association of individuals who have made a common cause to create a free operating system, referred to as EduNOSS. There is no requirement for anyone who wishes to use EduNOSS to provide the project with any personal information; it is freely downloadable without registration or other form of identification from official mirror run by the project.,Various other aspects of interacting with the EduNOSS Project will, however, involve the collection of personal information. This is primarily in the form of names and email addresses in emails received by the project; all EduNOSS mailing lists will be publicly archived, as are all interactions with the bugtracking system. We do not perform further processing on any of the information we hold, but there are instances where it the project bug tracking team.,Questions about these services are best directed in the first instance to the service owner. If it's unclear who that is then you can contact the Data Protection team at noss@aiti-kace.com.gh, who will attempt to direct your enquiry to the right team.",
+            "privacyComplianceURL": "N/A"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
