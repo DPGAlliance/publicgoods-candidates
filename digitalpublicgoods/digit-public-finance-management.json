@@ -1,11 +1,13 @@
 {
-  "name": "DIGIT Public Finance Management ",
+  "name": "DIGIT Public Finance Management",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://ifix.digit.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -31,7 +33,9 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Open API Specifications, JSON, REST"
+      "Open API Specifications",
+      "JSON",
+      "REST"
     ],
     "evidenceStandardSupport": [
       "https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/egovernments/iFix-Dev/develop/domain-services/ifix-master-data-service/ifix-master-data-service-1.0.0.yaml",
@@ -50,13 +54,35 @@
       "additionalInfoMechanismProcessesPolicies": "DIGIT-iFix is built with data privacy and security features. We follow best practices during development and deployment to ensure security. It does no harm. "
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No"
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "No"
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
     }
   },
   "locations": {
