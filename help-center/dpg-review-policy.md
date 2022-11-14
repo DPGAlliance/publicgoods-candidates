@@ -1,5 +1,7 @@
 # DPG Review Policy
-## This document lays out the policies that govern the DPG Registry and vetting process. 
+
+This document lays out the policies that govern the review process of DPG applications.
+
 
 ### Summary: 
 
@@ -13,8 +15,8 @@
 | Visible on the registry? | Yes | Yes | Yes | No
 
 
-### Spam Policy: 
-Any nominations that are deemed nonsensical, malicious, irrelevant or in violation of our Code of Conduct will not be reviewed and will be deleted from the GitHub & Registry. 
+### Spam Policy
+* Any application that is deemed nonsensical, malicious, irrelevant or in violation of our Code of Conduct will not be reviewed and will be removed immediately.
 
 
 ### Nominee review policy:  
