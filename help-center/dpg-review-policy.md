@@ -27,7 +27,7 @@ This document lays out the policies that govern the review process of DPG applic
 * During the time for which clarifications are requested and a final review decision is taken, the solutions will be listed on the registry as a "nominee".
 
 ### DPG Registry Moderation Policy
-* The public DPG registry displays all digital solutions that are recognized as DPGs and Nominees.
+* The public [DPG registry](https://digitalpublicgoods.net/registry/) displays all digital solutions that are recognized as DPGs and Nominees.
 * Solutions that appear on the registry as DPGs will be notified and invited to use the DPG term, the DPGA icon and the DPG badge to describe the digital solution and to promote their solution and to link to the DPG Registry.
 * All of the information available on the DPG Registry is openly licensed and made accessible to any other entity wishing to display it via an API - as such information on the DPG registry may be mirrored or used by any number of other entities.
 * On an ongoing basis, DPGs must always be able to demonstrate relevance to the Sustainable Development Goals and use of an approved open license.
