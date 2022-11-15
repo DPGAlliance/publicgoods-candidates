@@ -1,0 +1,118 @@
+	{
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "SDG 3: The solution enables access to healthcare service for children with cancer, providing them with timely support in case they are taking refuge from the war in Ukraine. The solution is agnostic of geography and can be redeployed for any need of case management for the chronically ill who need to request assistance. The solution can be adapted with custom forms and the content on the public interface can be easily changed with no need for technical support. This type of digital solution is essential in the case of displaced populations as it allows them to request aid fast and easy for their medical needs and first responders can get a clear view of what availability exists to support them and provide them with. The platform is multilingual and allows for multiple interfaces for as many languages as needed with no need for extra development. A standard deployment in any emergency case would take under 24 hours. "
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/commitglobal/pediatric-oncology-frontend#license\r\nhttps://github.com/commitglobal/pediatric-oncology-backend#license"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Commit Global",
+            "clearOwnershipURL": "Each of the solutions developed by Commit Global (or any of its local branches such as Code for Romania) are open source under the MPL 2.0 license. The About section of the Ukraine Child Cancer Help deployment currently active can be read here https://ukrainechildcancerhelp.ro/en/about-us"
+        }
+    ],
+    "documentation": "The deployment documentation is available in the Github repositories: \r\n-https://github.com/commitglobal/pediatric-oncology-frontend#license\r\n- https://github.com/commitglobal/pediatric-oncology-backend#license\r\n\r\nThere are several documents that describe the specific fields and input types for the deployment currently active in Romania, however the application allows for custom forms and specific rule definition depending on the use case. ",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The solution allows for data export from the admin dashboard in a csv format. "
+    },
+    "openStandards": [
+        "Accessibility\r\nWCAG 2.0/2.1 (Web Content Accessibility Guidelines)\r\nSecurity\r\nHTTPS\r\nSSL\r\nAES\r\nInternationalization (i18n)\r\nUTF-8\r\nWeb standards\r\nHTML\r\nCSS\r\nECMAScript / ES2019\r\nSoftware Architectural Styles\r\nREST (Representational State Transfer)\r\nData Exchange formats\r\nCSV\r\nXLSX\r\nMultimedia\r\nSVG (Scalable Vector Graphics)\r\nPNG (Portable Network Graphics)\r\nJPEG (Joint Photographic Experts Group)"
+    ],
+    "bestPractices": [
+        "The development of the solution has followed a set of best practices such as documentation of the process",
+        " user diagrams",
+        " user stories",
+        " data dictionary",
+        " code review",
+        " change management",
+        " continuous integration & continuous deployment",
+        " code refactoring and rapid application development. We have followed UX design rules and principles",
+        " the solution is modular and maintainable",
+        " it is very reusable and has been built on the scaffolding of a previous open-source solution",
+        " manages security and consented access thoroughly. The solution also respects our internal standards for open-source development that stipulate best practices in terms of data management",
+        " security practices",
+        " password storage",
+        " access control rights",
+        " data encryption",
+        " back-ups",
+        " accessibility and more."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "The platform collects name",
+            " email and health data about people requesting support. "
+        ],
+        "dataPrivacySecurity": "The security measures set in place are: \r\n- strong password rules \r\n- permission-based access \r\n- dedicated infrastructure, isolated form other apps \r\n- encrypted data storage \r\n- encrypted backups"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Romania"
+        ],
+        "deploymentCountries": [
+            "Romania"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Romanian Society of Pediatric Oncology and Hematology"
+    ],
+    "otherDeploymentOrganisations": [
+        "Daruieste Aripi CSO",
+        " Romanian focal point for managing pediatric oncology cases in Romania in the case of the Ukrainian conflict. "
+    ],
+    "awardsReceived": [
+        "Yes. The entire ecosystem for humanitarian assistance this platform is part of had been selected as one of the 10 projects of the year at a global level at the Paris Peace Forum 2022 and several other recognitions on a local level in Romania."
+    ],
+    "id": "10185",
+    "name": "HIV Support",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "HIV Support is a case manager dedicated to support CSOs who receive help requests from refugees with HIV who seek help to continue treatment and to access other services relevant for their condition. ",
+    "website": "https://consilierehiv.ro/en",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/commitglobal/hiv-support"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "HIV Support",
+            "website": "https://consilierehiv.ro/en",
+            "org_type": "owner",
+            "contact_name": " Olivia Vereha  ",
+            "contact_email": "olivia.vereha@commitglobal.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The platform is compliant with the General Data Protection Regulation. ",
+            "privacyComplianceURL": "Terms and conditions  https://ukrainechildcancerhelp.ro/en/termeni-si-conditii\r\nPrivacy policy https://ukrainechildcancerhelp.ro/en/cookie-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
