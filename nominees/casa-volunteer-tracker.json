@@ -7,7 +7,7 @@
   "website": "https://www.casavolunteertracking.org/",
   "license": [
     {
-      "spdx": "Apache-2.0",
+      "spdx": "MIT",
       "licenseURL": "https://github.com/rubyforgood/casa/blob/main/LICENSE.md"
     }
   ],
