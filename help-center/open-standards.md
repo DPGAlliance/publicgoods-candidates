@@ -34,22 +34,6 @@ Open standards establish protocols and building blocks that can help make digita
 * ECMAScript (ES 5/6/7)
 * Latex
 
-#### Software Architectural Styles
-* Multitier architecture
-* Model–view–controller
-* Representational state transfer (REST)
-* Publish-subscribe
-* Client-server (multitier architecture exhibits this style)
-* Monolithic application
-* Service-oriented
-* Component-based
-* Peer-to-peer
-* Asynchronous messaging
-* Event-driven
-* Database-centric
-* Sensor-controller-actuator
-* Cloud computing patterns
-
 #### Application Programming Interfaces (APIs)
 * OpenAPI
 * [GraphQL](https://graphql.org/)
