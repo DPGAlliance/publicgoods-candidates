@@ -27,16 +27,16 @@
       "url": "https://github.com/decentralised-dataexchange/data-exchange-agreements"
     },
     {
-      "url": "https://github.com/decentralised-dataexchange/dexa-protocol",
-      "name": "dexa-protocol"
+      "name": "dexa-protocol",
+      "url": "https://github.com/decentralised-dataexchange/dexa-protocol"
     },
     {
-      "url": "https://github.com/decentralised-dataexchange/dexa-sdk",
-      "name": "dexa-sdk"
+      "name": "dexa-sdk",
+      "url": "https://github.com/decentralised-dataexchange/dexa-sdk"
     },
     {
-      "url": "https://github.com/decentralised-dataexchange/dexa-smartcontracts",
-      "name": "dexa-smartcontracts"
+      "name": "dexa-smartcontracts",
+      "url": "https://github.com/decentralised-dataexchange/dexa-smartcontracts"
     }
   ],
   "organizations": [
