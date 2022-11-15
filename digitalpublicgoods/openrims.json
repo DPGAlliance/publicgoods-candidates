@@ -33,7 +33,7 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "ATC, INN"
+      "Anatomical, Therapeutical and Chemical index, International Non-proprietary Name"
     ],
     "evidenceStandardSupport": [
       "https://pharmadex2.msh.org"
