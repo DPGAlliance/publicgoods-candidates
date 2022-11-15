@@ -1,0 +1,43 @@
+{
+  "name": "OpenTeleRehab",
+  "aliases": [
+    ""
+  ],
+  "description": "Open Source, Multidisciplinary Telerehabilitation Software",
+  "website": "https://www.opentelerehab.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/OpenTeleRehab/admin-web-app/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Improve access to rehabilitation services and contribute to universal health coverage",
+      "evidenceURL": "https://www.usaid.gov/vietnam/program-updates/oct-2021-usaid-supports-development-software-program-increase-patient-access-therapists"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenTeleRehab/admin-web-app/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Humanity & Inclusion",
+      "website": "https://www.hi.org",
+      "org_type": "owner",
+      "contact_name": "Martin Jacobs",
+      "contact_email": "m.jacobs@hi.org"
+    }
+  ],
+  "stage": "nominee"
+}
