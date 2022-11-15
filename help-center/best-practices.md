@@ -7,14 +7,17 @@ Below are some of the common best practices and principles implemented by severa
 * [Principles For Digital Development](https://digitalprinciples.org/)
 * [The Best Practices in the Use of ICTs in Development](https://www.ictworks.org/the-best-practices-in-the-use-of-icts-in-development-are/#.YTc0Y_wzZH5)
 
-#### Software Development 
+#### Software Development Life Cycle (SDLC)
+* User stories
+* Change management using version control
+* Test driven development using automated tests
+* Continous Integration & Continous Deployment (CI/CD)
+* Code review
+* Code refactoring
+* Rapid application development
 * [Agile development](https://www.ntaskmanager.com/blog/agile-best-practices/)
 * [12 Principles Behind Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 * [The Twelve Factor App](https://12factor.net/)
-* Test driven development
-* Continous Integration & Continous Deployment (CI/CD)
-* Rapid application development
-* Code Review
 
 #### Architectural Design
 * [Architectural Principles](https://docs.altinn.studio/teknologi/altinnstudio/architecture/principles/#web-standards)
@@ -25,6 +28,22 @@ Below are some of the common best practices and principles implemented by severa
 * Universal Access & Open APIs
 * Microservices architecture
 * [SOLID principles of object oriented programming](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+
+#### Software Architectural Styles
+* Multitier architecture
+* Model–view–controller
+* Representational state transfer (REST)
+* Publish-subscribe
+* Client-server (multitier architecture exhibits this style)
+* Monolithic application
+* Service-oriented
+* Component-based
+* Peer-to-peer
+* Asynchronous messaging
+* Event-driven
+* Database-centric
+* Sensor-controller-actuator
+* Cloud computing patterns
 
 #### Cloud Computing
 * [AWS Best Practices For Cloud Environments](https://aws.amazon.com/blogs/publicsector/aws-well-architected-framework-best-practices-for-building-and-deploying-an-optimized-cloud-environment/)
