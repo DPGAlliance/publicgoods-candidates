@@ -41,8 +41,7 @@
       "https://www.openchainproject.org/"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/Aam-Digital/ndb-core/tree/master/src/locale",
-      "https://user-roles.aam-digital.com/db/api/"
+      ""
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
