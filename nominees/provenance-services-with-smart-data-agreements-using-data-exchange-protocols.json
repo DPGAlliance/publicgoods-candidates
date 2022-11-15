@@ -1,7 +1,8 @@
 {
   "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
   "aliases": [
-    "DEXA, PS-SDA"
+    "DEXA",
+    "PS-SDA"
   ],
   "description": "DEXA protocol is a key component for developing and deploying trustworthy, human-centric decentralised data applications (dApps) across domains. ",
   "website": "https://ontochain.ngi.eu/content/ps-sda",
