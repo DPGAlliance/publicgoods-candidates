@@ -59,7 +59,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Technical and organisational measures taken to ensure the security of all data incl. but not limited to (i) data encrypted in transit and at rest, (ii) pseudonomization of personal data (iii) robust access control"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
