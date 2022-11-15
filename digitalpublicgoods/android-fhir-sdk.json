@@ -1,0 +1,98 @@
+{
+  "name": "Android FHIR SDK",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/google/android-fhir/wiki"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/google/android-fhir/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies."
+    ],
+    "adherenceSteps": [
+      "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/google/android-fhir"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Understand the ecosystem",
+      "Design for scale",
+      "Use Open Standards, Open Data, Open Source, and Open Innovation",
+      "Address privacy and security",
+      "Be collaborative",
+      "Design with the user"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The SDK incorporates specific features like on-device encryption of data and recommends best practices - https://github.com/google/android-fhir/wiki/FEL%3A-Privacy-%26-security"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies.\nThe project specifically provides guidance around privacy and security for developers - https://github.com/google/android-fhir/wiki/FEL%3A-Privacy-%26-security"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom",
+      "India",
+      "Kenya",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
