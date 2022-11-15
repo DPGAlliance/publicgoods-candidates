@@ -1,0 +1,141 @@
+	{
+    "id": "10183",
+    "name": "One Roof",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "One roof is a housing application that can be used to support refugees or displaced populations in case of an emergency situation such as earthquakes or other natural disasters. The platform allows for host registration, host validation, request intake, housing allocation and management of availability of spaces dedicated to accommodate people according to specific criteria such as space accesibility for disabled people, allowance of pets and much more. ",
+    "website": "https://unacoperis.ro/en",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/commitglobal/housing-platform"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "SDG 3: A proper environment especially for the disabled population or the chronically ill is essential in crisis situations and contributes to their chances of survival and getting appropriate care. Having a system that allows caregivers, first responders, authorities, and CSO to find safe accommodations for people with special needs is vital in crisis situations. \r\n\r\nSDG 10: In all major emergency situations we have witnessed in the past decades, we have seen many issues rising with access to proper living conditions for the displaced populations following an earthquake, a major conflict or a different natural disaster. Being able to provide for one of the most basic needs for proper shelter in a record time reduces the pressure on camp management, on first responders and allows for the refugees or migrants to become independent faster. \r\n\r\nSDG 17: This flexible open-source software can be deployed either as part of a bigger ecosystem of support for humanitarian intervention or used by local municipalities or CSOs to support vulnerable populations with access to safe housing. This ensures that people in difficult situations may gain access to affordable support allowing them to focus on recovery and gaining independence. "
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "SDG 3: A proper environment especially for the disabled population or the chronically ill is essential in crisis situations and contributes to their chances of survival and getting appropriate care. Having a system that allows caregivers, first responders, authorities, and CSO to find safe accommodations for people with special needs is vital in crisis situations. \r\n\r\nSDG 10: In all major emergency situations we have witnessed in the past decades, we have seen many issues rising with access to proper living conditions for the displaced populations following an earthquake, a major conflict or a different natural disaster. Being able to provide for one of the most basic needs for proper shelter in a record time reduces the pressure on camp management, on first responders and allows for the refugees or migrants to become independent faster. \r\n\r\nSDG 17: This flexible open-source software can be deployed either as part of a bigger ecosystem of support for humanitarian intervention or used by local municipalities or CSOs to support vulnerable populations with access to safe housing. This ensures that people in difficult situations may gain access to affordable support allowing them to focus on recovery and gaining independence. "
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "SDG 3: A proper environment especially for the disabled population or the chronically ill is essential in crisis situations and contributes to their chances of survival and getting appropriate care. Having a system that allows caregivers, first responders, authorities, and CSO to find safe accommodations for people with special needs is vital in crisis situations. \r\n\r\nSDG 10: In all major emergency situations we have witnessed in the past decades, we have seen many issues rising with access to proper living conditions for the displaced populations following an earthquake, a major conflict or a different natural disaster. Being able to provide for one of the most basic needs for proper shelter in a record time reduces the pressure on camp management, on first responders and allows for the refugees or migrants to become independent faster. \r\n\r\nSDG 17: This flexible open-source software can be deployed either as part of a bigger ecosystem of support for humanitarian intervention or used by local municipalities or CSOs to support vulnerable populations with access to safe housing. This ensures that people in difficult situations may gain access to affordable support allowing them to focus on recovery and gaining independence. "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/commitglobal/housing-platform#license"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Commit Global",
+            "clearOwnershipURL": "Each of the solutions developed by Commit Global (or any of its local branches such as Code for Romania) are open source under the MPL 2.0 license. The About section of the One Roof deployment currently active can be read here https://unacoperis.ro/en/a-roof\r\n"
+        }
+    ],
+    "documentation": "The solution is documented in \r\n- the dedicated repository: https://github.com/commitglobal/housing-platform#deployment\r\n- user flows: https://www.figma.com/proto/yxJgmSGcAon2LbzGiHA1sG/Un-acoperis?node-id=2288%3A3990&scaling=min-zoom&page-id=2288%3A3990\r\n- high fidelity mock screens and dev indications https://www.figma.com/proto/yxJgmSGcAon2LbzGiHA1sG/Un-acoperis?node-id=1106%3A0&scaling=min-zoom&page-id=1106%3A0&starting-point-node-id=1106%3A2654\r\n\r\nThe tool has a user demo currently available in Romanian for the active deployment, but videos in English and other languages can be provided upon request. ",
+    "openStandards": [
+        "Accessibility\r\nWCAG 2.0/2.1 (Web Content Accessibility Guidelines)\r\n\r\nSecurity\r\nHTTPS\r\nSSL\r\nAES\r\nInternationalization (i18n)\r\nUTF-8\r\n\r\nWeb standards\r\nHTML\r\nCSS\r\nECMAScript / ES2019\r\n\r\nSoftware Architectural Styles\r\nREST (Representational State Transfer)\r\nData Exchange formats\r\nCSV\r\nXLSX\r\n\r\nMultimedia\r\nSVG (Scalable Vector Graphics)\r\nPNG (Portable Network Graphics)\r\nJPEG (Joint Photographic Experts Group)"
+    ],
+    "bestPractices": [
+        "The platform is fully responsive and compatible with assistive technologies to the best of our knowledge. \r\nThe development of the solution has followed a set of best practices such as documentation of the process",
+        " user flows",
+        " user diagrams",
+        " user stories",
+        " code review",
+        " change management",
+        " continuous integration & continuous deployment",
+        " code refactoring",
+        " and rapid application development. We have followed UX design rules and principles",
+        " the solution is modular and maintainable",
+        " it is very reusable and has been built on the scaffolding of a previous open-source solution",
+        " manages security",
+        " and consented access thoroughly. Developed with the support of a dedicated AWS team and has been extensively tested by third parties to secure it properly as the data stored is extremely sensitive and the application is prone to malicious attacks. The solution also respects our internal standards for open-source development that stipulate best practices in terms of data management",
+        " security practices",
+        " password storage",
+        " access control rights",
+        " data encryption",
+        " back-ups",
+        " accessibility",
+        " and more."
+    ],
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "The solution may collect extra information that the users can provide in order for the administrators to be able to provide them with the best possible accommodation for their needs. The information is collected via the request form and is displayed in the admin dashboard only to the administrator. If a request is allocated to available housing",
+            " the host will receive some of this information in order to be able to properly receive the refugee. "
+        ],
+        "contentManagementPolicy": "The submitted content is available only to administrators and can be edited or deleted as necessary. The form has extensive terms and conditions to be accepted by every uiser before submitting any kind of information. "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "The platform collects names",
+            " emails",
+            " phone numbers",
+            " physical addresses",
+            " disabilities",
+            " data about other members of a group or family. "
+        ],
+        "dataPrivacySecurity": "The security measures set in place are: \r\n- two-factor authentication\r\n- strong password rules\r\n- permission-based access\r\n- dedicated infrastructure, isolated form other apps\r\n- encrypted data storage\r\n- encrypted backups"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Romania"
+        ],
+        "deploymentCountries": [
+            "Romania"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Human Rights Council (UNHRC)"
+    ],
+    "deploymentCountriesDepartments": [
+        "The Romanian Government",
+        " the Department for Emergency Situations",
+        " the Ministry of Internal Affairs",
+        " the International Organisation for Migration",
+        " the National Council for Refugees."
+    ],
+    "otherDeploymentOrganisations": [
+        "The solution is used by other trusted CSOs (eg: ICRC) that are granted access only by the administrator of the platform - Department for Emergency Situations or the Romanian Government. "
+    ],
+    "awardsReceived": [
+        "Yes. The entire ecosystem for humanitarian assistance this platform is part of had been selected as one of the 10 projects of the year at a global level at the Paris Peace Forum 2022 and several other recognitions on a local level in Romania. "
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "One Roof",
+            "website": "https://unacoperis.ro/en",
+            "org_type": "owner",
+            "contact_name": " Olivia Vereha  ",
+            "contact_email": "olivia.vereha@commitglobal.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The applicable laws in the case of this application is the General Data Protection Regulation. ",
+            "privacyComplianceURL": "Aside from all the security measures taken by the technical development team, the platform has extensive Terms and conditions for both using the platform as well as accessing the services made available through it. \r\nThey can be found here:\r\n- general terms and conditions for the platform: https://unacoperis.ro/en/terms-and-conditions\r\n- cookie policy: https://unacoperis.ro/en/gdpr\r\n- service terms and conditions: https://unacoperis.ro/en/offer-help and https://unacoperis.ro/en/request-help\r\n\r\nThe admin dashboard allows for two factor authentication setup and the data provided by users is only accesible to designated administrators such as the governmental body responsible for housing allocation as well as trusted CSO that work formally with the government such as teh UN agencies or local CSOs such as the Red Cross or others. "
+        }
+    ],
+    "aliases": ""
+}
