@@ -60,12 +60,12 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "volunteer time tracking",
-      "contentFilter": "Yes",
-      "policyGuidelinesDocumentationLink": "https://github.com/rubyforgood/casa/wiki",
-      "illegalContentDetection": "Yes",
-      "illegalContentDetectionMechanism": "the admin of each CASA organization is responsible for overseeing their volunteers"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "No",
