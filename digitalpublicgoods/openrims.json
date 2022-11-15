@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/MSH/Pharmadex2"
+      "https://github.com/MSH/Pharmadex2",
+      "Deployment guide - https://raw.githubusercontent.com/MSH/Pharmadex2/main/documentation/MTaPS%20Pharmadex%202%20-%20Deployment%20Guide.pdf"
     ]
   },
   "NonPII": {
