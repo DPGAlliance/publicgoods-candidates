@@ -39,6 +39,7 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Application Programming Interfaces (APIs)
 * OpenAPI
+* [GraphQL](https://graphql.org/)
 
 #### Data Exchange/ Configuration formats 
 * [JSON](https://www.json.org/json-en.html)
