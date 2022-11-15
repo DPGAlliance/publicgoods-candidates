@@ -5,8 +5,8 @@
     "copyrightURL": "https://neotree.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "No",
     "pltIndependenceDesc": ""
   },
   "documentation": {
