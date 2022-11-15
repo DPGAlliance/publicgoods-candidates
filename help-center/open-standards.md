@@ -35,7 +35,20 @@ Open standards establish protocols and building blocks that can help make digita
 * Latex
 
 #### Software Architectural Styles
-* REST (Representational State Transfer)
+* Multitier architecture
+* Model–view–controller
+* Representational state transfer (REST)
+* Publish-subscribe
+* Client-server (multitier architecture exhibits this style)
+* Monolithic application
+* Service-oriented
+* Component-based
+* Peer-to-peer
+* Asynchronous messaging
+* Event-driven
+* Database-centric
+* Sensor-controller-actuator
+* Cloud computing patterns
 
 #### Application Programming Interfaces (APIs)
 * OpenAPI
