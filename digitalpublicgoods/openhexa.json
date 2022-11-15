@@ -1,0 +1,108 @@
+{
+  "name": "OpenHexa",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.bluesquarehub.com/openhexa/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/BLSQ/openhexa/blob/main/README.md",
+      "https://www.bluesquarehub.com/openhexa/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The data collected by the platform is stored in a PostgreSQL database and can easily be exported in CSV format"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "GraphQL",
+      "Geotif",
+      "Geo(JSON)",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/BLSQ/openhexa-app"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Test-driven development",
+      "Agile development",
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Moderation and respect of code of conducts are handled in-person trough regular meetings with our partners that use the platform."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Users typically bring their own data to the platform, which may include PII."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Belgium",
+      "Senegal"
+    ],
+    "deploymentCountries": [
+      "Togo",
+      "Senegal",
+      "Rwanda",
+      "Niger",
+      "Morocco",
+      "Mali",
+      "Democratic Republic of the Congo",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Cameroon"
+    ]
+  }
+}
