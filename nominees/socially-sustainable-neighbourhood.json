@@ -1,0 +1,42 @@
+{
+  "name": "Socially Sustainable Neighbourhood",
+  "aliases": [
+    "tripSender"
+  ],
+  "description": "A python project to evaluate who is most affected by neighbourhood planning decisions.",
+  "website": "https://tripsender.readthedocs.io/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/snjsomnath/PhDThesisRepo/blob/main/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11,
+      "evidenceText": "To support the planning of socially sustainable neighbourhoods",
+      "evidenceURL": "https://www.tandfonline.com/doi/abs/10.1080/13549839.2021.1923002"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data",
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/snjsomnath/PhDThesisRepo"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Sustainable Building Research Group - Chalmers University of Technology",
+      "website": "https://www.sb.chalmers.se/",
+      "org_type": "owner",
+      "contact_name": "Sanjay Somanath",
+      "contact_email": "sanjay.somanath@chalmers.se"
+    }
+  ],
+  "stage": "nominee"
+}
