@@ -40,10 +40,11 @@ Open standards establish protocols and building blocks that can help make digita
 #### Application Programming Interfaces (APIs)
 * OpenAPI
 
-#### Data Exchange formats 
+#### Data Exchange/ Configuration formats 
 * [JSON](https://www.json.org/json-en.html)
 * [YAML](https://yaml.org/)
 * [XML](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
+* [TOML](https://toml.io/en/)
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
 * [TIFF](https://en.wikipedia.org/wiki/TIFF)
 * [GeoTIFF](https://www.ogc.org/standards/geotiff)
