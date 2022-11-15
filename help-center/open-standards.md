@@ -84,3 +84,7 @@ Open standards establish protocols and building blocks that can help make digita
 #### Virtual Reality/ Augmented Reality (VR /AR)
 * [WebXR](https://www.w3.org/TR/webxr/)
 * [IEEE Digital Reality standards](https://digitalreality.ieee.org/standards)
+
+#### Computer Communications Protocols
+* [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
