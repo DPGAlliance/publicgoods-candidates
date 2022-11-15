@@ -13,7 +13,8 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://github.com/boxwise/dropapp#readme",
-      "https://github.com/boxwise/boxtribute#readme"
+      "https://github.com/boxwise/boxtribute#readme",
+      "System diagram - https://raw.githubusercontent.com/boxwise/boxtribute-landing/416927af5ae2f47aeb1b4103d0bb8f3ef229bcc0/assets/DPGA%20Boxtribute%20System%20Landscape%20C4%20Model.png"
     ]
   },
   "NonPII": {
