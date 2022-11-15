@@ -39,6 +39,9 @@
       "RESTful API",
       "JSON data serialization"
     ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       ""
