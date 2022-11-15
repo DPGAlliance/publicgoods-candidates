@@ -2,7 +2,7 @@
   "name": "CASA Volunteer Tracker",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://rubyforgood.org/"
+    "copyrightURL": "https://github.com/rubyforgood/casa/blob/main/LICENSE.md"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
