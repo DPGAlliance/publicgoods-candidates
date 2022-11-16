@@ -1,0 +1,112 @@
+	{
+    "id": "10184",
+    "name": "Women Center ",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Women Center is an information and access to reproductive health services platform dedicated to women coming from vulnerable situations (domestic violence, displaced populations such as refugees, migrants, environmental migrants etc). The platform provides easy-to-understand information about identifying situations of abuse, spotting signs of human trafficking, info about mother and child healthcare, access to reproductive health services and more. ",
+    "website": "womencenter.info",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/commitglobal/website-factory"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "SDG 3: The solution provides information and enables access to reproductive health services for women, as well as access to services dedicated to GBV victims. The solution is a web application with a very robust CMS behind it allowing for multiple types of content both text and multimedia to be displayed, form building, and many other useful features. The platform is multilingual and allows for multiple interfaces for as many languages as needed with no need for extra development. The forms can be designed to redirect requests straight to the CSO who can best provide support to each person. In cases of displaced populations, this can be a central point of information for women refugees to help them get help in the country they arrive to and to help them understand the risks of trafficking or domestic violence. "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "This solution is built based on a preexisting open source tool: \r\nhttps://github.com/commitglobal/website-factory#license"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Commit Global",
+            "clearOwnershipURL": "Each of the solutions developed by Commit Global (or any of its local branches such as Code for Romania) are open source under the MPL 2.0 license. The About section of the Women Center deployment currently active can be read here https://womencenter.info/en/despre-proiect"
+        }
+    ],
+    "documentation": "The Women Center is a custom redeployment of another owned solution of Commit Global, under the name Website Factory. \r\n\r\nhttps://github.com/commitglobal/website-factory",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The solution allows for the export of forms submitted through the platform in a csv or xls format."
+    },
+    "openStandards": [
+        "Accessibility\r\nWCAG 2.0/2.1 (Web Content Accessibility Guidelines)\r\nSecurity\r\nHTTPS\r\nSSL\r\nAES\r\nInternationalization (i18n)\r\nUTF-8\r\nWeb standards\r\nHTML\r\nCSS\r\nECMAScript / ES2019\r\nSoftware Architectural Styles\r\nREST (Representational State Transfer)\r\nData Exchange formats\r\nCSV\r\nXLSX\r\nMultimedia\r\nSVG (Scalable Vector Graphics)\r\nPNG (Portable Network Graphics)\r\nJPEG (Joint Photographic Experts Group)"
+    ],
+    "bestPractices": [
+        "The development of the solution has followed a set of best practices such as documentation of the process",
+        " user flows",
+        " content architecture",
+        " internationalisation. We have followed UX design rules and principles",
+        " the solution is modular and maintainable",
+        " it is very reusable and has been built on the scaffolding of a previous open-source solution",
+        " manages security and consented access thoroughly. The solution also respects our internal standards for open-source development that stipulate best practices in terms of data management",
+        " security practices",
+        " password storage",
+        " access control rights",
+        " data encryption",
+        " back-ups",
+        " accessibility and more."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name and email"
+        ],
+        "dataPrivacySecurity": "The data submitted is available solely to the platform administrators to be able to provide support and it is not distributed in any way to third parties. "
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Romania"
+        ],
+        "deploymentCountries": [
+            "Moldova",
+            "Romania"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "The solution is being used especially by CSOs working against domestic violence",
+        " who provide mother and childcare services and who are active in providing support for women coming in from vulnerable situations. "
+    ],
+    "awardsReceived": [
+        "Yes. The entire ecosystem for humanitarian assistance this platform is part of had been selected as one of the 10 projects of the year at a global level at the Paris Peace Forum 2022 and several other recognitions on a local level in Romania."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Women Center ",
+            "website": "womencenter.info",
+            "org_type": "owner",
+            "contact_name": " Olivia Vereha  ",
+            "contact_email": "olivia.vereha@commitglobal.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The solution complies with the General Data Protection Regulation. ",
+            "privacyComplianceURL": "https://womencenter.info/en/terms-and-conditions\r\nhttps://womencenter.info/en/cookie-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": ""
+}
