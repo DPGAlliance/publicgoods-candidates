@@ -12,6 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "https://github.com/akvo/unep-gpml",
       "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
     ]
   },
@@ -57,13 +58,13 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "The GPML Digital Platform captures three main types of data: Open Data, Personal Data and  Web Traffic Data.  - Open Data is shared on the Digital Platform;  - Personal Data is captured during Stakeholders registration; and  Web Traffic Data is captured anonymously for purposes of monitoring the sites usage and  obtain statistics on such usage.",
-      "contentFilter": "Unknown",
-      "policyGuidelinesDocumentationLink": "Unknown",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
     },
