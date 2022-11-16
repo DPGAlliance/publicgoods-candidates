@@ -1,0 +1,95 @@
+{
+  "name": "OpenSPP",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/openspp-project/openspp-program/blob/15.0/COPYRIGHT"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.openspp.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "OpenSPP follows a role-based access control approach. If a user has the access rights to use the import/export feature and to view the data, the system offers the option to import/export it. Three formats are currently implemented: CSV, XML, and JSON."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "OpenSPP is based on Odoo which is a GDPR-compliant ERP. More details at: https://www.odoo.com/gdpr"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "W3C international web standards: XHTML5.0, CSS, and JSON.",
+      "Authentication standards: JSON Web Token, OAuth / OpenID Connect, and SSL."
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/openspp-project/openspp-program"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development: https://digitalprinciples.org/principles/",
+      "Sourcebook on the Foundations of Social Protection Delivery Systems: https://openknowledge.worldbank.org/handle/10986/34044"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "OpenSPP encourages its users to follow the Principles for Digital Development, and more specifically the core tenets listed at: https://digitalprinciples.org/principle/address-privacy-security/"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Beneficiary information, identity documents, and targeting criteria, as required by a given program."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "By default, the application does not share any information with third parties, but it is possible to elect to share some of the information with relevant parties, such as ministries, government agencies, or financial service providers"
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "By default, the application does not share any information with third parties, but it is possible to elect to share some of the information with relevant parties, such as ministries, government agencies, or financial service providers. A dedicated module allows to create separate data sharing agreements."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Thailand",
+      "Philippines",
+      "Vietnam",
+      "Laos"
+    ],
+    "deploymentCountries": [
+      "Iraq"
+    ]
+  }
+}
