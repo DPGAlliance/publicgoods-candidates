@@ -74,7 +74,7 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
+      "userInteraction": "No",
       "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         ""
