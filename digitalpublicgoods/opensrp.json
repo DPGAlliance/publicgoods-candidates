@@ -43,7 +43,8 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "We develop with an agile methodology.  We also try to provide test coverage for all aspects of the app.  We also work to ensure that all aspects of the technology do not rely on technologies that can not be run locally in country. "
+      "We develop with an agile methodology.  We also try to provide test coverage for all aspects of the app.  We also work to ensure that all aspects of the technology do not rely on technologies that can not be run locally in country. ",
+      "OpenSRP developer's guide & coding best practices - https://smartregister.atlassian.net/wiki/spaces/Documentation/pages/6619193/OpenSRP+Developer+s+Guide"
     ]
   },
   "doNoHarm": {
