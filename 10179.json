@@ -1,0 +1,125 @@
+	{
+    "sectors": [],
+    "stage": "DPG",
+    "openStandards": [
+        "Accessibility\r\nWCAG 2.0/2.1 (Web Content Accessibility Guidelines)\r\nSecurityHTTPS\r\nSSL\r\nAES\r\nInternationalization (i18n)\r\nUTF-8\r\nWeb standards\r\nHTML\r\nCSSECMAScript / ES2019\r\nSoftware Architectural Styles\r\nREST (RepresentationalState Transfer)\r\nData Exchange formats\r\nCSV\r\nXLSX\r\nMultimedia\r\nSVG (ScalableVector Graphics)\r\nPNG (Portable Network Graphics)\r\nJPEG (Joint PhotographicExperts Group)"
+    ],
+    "bestPractices": [
+        "The platform is fully responsive and compatible with assistive technologies to the best of our knowledge. The development of the solution has followed a set of best practices such as documentation of the process",
+        " user flows",
+        " user diagrams",
+        " user stories",
+        " code review",
+        " change management",
+        " continuous integration & continuous deployment",
+        " code refactoring",
+        " and rapid application development. We have followed UX design rules and principles",
+        " the solution is modular and maintainable",
+        " it is very reusable",
+        " manages security and consented access thoroughly. The solution also respects our internal standards for open-source development that stipulate best practices in terms of data management",
+        " security practices",
+        " password storage",
+        " access control rights",
+        " data encryption",
+        " back-ups",
+        " accessibility",
+        " and more."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "The Website Factory may collect PII data",
+            " depending on whether the CSO using it will build a form to collect information from visitors for example. The data is stored and made available in the admin dashboard or can be sent directly towards an email address of the CSOs choice. The solution as is does not collect any data unless each CSO admin decided to use it as such. "
+        ],
+        "dataPrivacySecurity": "The security measures set in place are: \r\n- strong password rules\r\n- permission-based access\r\n- dedicated infrastructure, isolated form other apps\r\n- encrypted data storage\r\n- encrypted backups"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Romania"
+        ],
+        "deploymentCountries": [
+            "Moldova",
+            "Romania"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "The Agency for Romanian Digitization",
+        " the Social and Economic Council",
+        " several local municipalities."
+    ],
+    "otherDeploymentOrganisations": [
+        "Over 160 civil society organisations are currently building their websites with this solution",
+        " Code for Romania has 17 active deployments of the solution as well. "
+    ],
+    "id": "10179",
+    "name": "Website Factory",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Website Factory is a custom website builder designed specifically for non-profit organisations, fully responsive, accessible and user-friendly, integrated with payment processors and other tools dedicated to CSOs. ",
+    "website": "https://www.commitglobal.org/en/civil-society-support-solutions",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/commitglobal/website-factory"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/commitglobal/website-factory#license"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Commit Global",
+            "clearOwnershipURL": "Each of the solutions developed by Commit Global (or any of its local branches such as Code for Romania) are open source under the MPL 2.0 license. \r\nThe solution is listed on the local Code for Romania website https://code4.ro/en/website-factory-ong\r\nIt is mentioned on Commit Global website as Website Builder here https://www.commitglobal.org/en/civil-society-support-solutions \r\n\r\n\r\n"
+        }
+    ],
+    "documentation": "The technical documentation is available here: https://github.com/commitglobal/website-factory\r\nThe user guide is embedded within the solution and consists of extensive tutorials in text and video. ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "sdgs": [
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "SDG 9. Providing access to the most relevant of digital tools for CSOs, a website builder designed specifically for them, taking into account their challenges and their level of digital literacy contributes to increasing access to tech solutions to a large portion of CSOs helping them adopt technology as means to achieve their goals. We are bringing an innovative approach to shared resources among CSOs, streamlining maintenance and diversifying means of fundraising among organizations. \r\n\r\nSDG 11. Through this solution we are building capacity in civil society, offering them support in fundraising, communications, and community building and we help them become digitally independent in their journey to adopting technology in their work. As we provide centralized maintenance and support in the long run we make sure the CSOs benefit from a robust solution, adequate to their needs, easy to use, and reduces the pressure of attracting technical experts that are in 90% of the cases unaffordable for them. Last but not least, the solution is designed to help every CSO be as inclusive as possible, making sure that regardless of the aesthetics designed by each CSO for their digital interface the platform remains accessible for people with dissabilities and allows for multilingual support for minorities and other specific groups. "
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "SDG 9. Providing access to the most relevant of digital tools for CSOs, a website builder designed specifically for them, taking into account their challenges and their level of digital literacy contributes to increasing access to tech solutions to a large portion of CSOs helping them adopt technology as means to achieve their goals. We are bringing an innovative approach to shared resources among CSOs, streamlining maintenance and diversifying means of fundraising among organizations. \r\n\r\nSDG 11. Through this solution we are building capacity in civil society, offering them support in fundraising, communications, and community building and we help them become digitally independent in their journey to adopting technology in their work. As we provide centralized maintenance and support in the long run we make sure the CSOs benefit from a robust solution, adequate to their needs, easy to use, and reduces the pressure of attracting technical experts that are in 90% of the cases unaffordable for them. Last but not least, the solution is designed to help every CSO be as inclusive as possible, making sure that regardless of the aesthetics designed by each CSO for their digital interface the platform remains accessible for people with dissabilities and allows for multilingual support for minorities and other specific groups. "
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Website Factory",
+            "website": "https://www.commitglobal.org/en/civil-society-support-solutions",
+            "org_type": "owner",
+            "contact_name": " Olivia Vereha  ",
+            "contact_email": "olivia.vereha@commitglobal.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The solution is compliant with the General Data Protection Regulation. ",
+            "privacyComplianceURL": "Each instance of Website Factory we provide to NGOs comes with prebuilt templates for Terms& Conditions and Privacy Policy. For example, on this instance of Website Factory you may access the two pages: \r\nhttps://womencenter.info/en/terms-and-conditions\r\nhttps://womencenter.info/en/cookie-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
