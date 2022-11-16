@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://tip-global-health.github.io/eheza-documentation/"
+      "https://tip-global-health.github.io/eheza-documentation/",
+      "https://github.com/TIP-Global-Health/eheza-app"
     ]
   },
   "NonPII": {
