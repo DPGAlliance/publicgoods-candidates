@@ -23,34 +23,15 @@
       "evidenceURL": "https://arxiv.org/abs/2203.05174"
     },
     {
-      "SDGNumber": 9,
-      "evidenceText": "We are a 501(c)(3) nonprofit foundation in the United States whose goal is to build Apache 2.0 licensed open source infrastructure for low- and middle-income countries around the world to sustain their public health initatives through open, transparent infrastructure",
-      "evidenceURL": "https://www.dropbox.com/s/kzb7zj24u6gewkk/07.26.22%20IRS%20Determination%20Letter_%20One%20Fact%20Foundation%5B73%5D.pdf?dl=0"
-    },
-    {
       "SDGNumber": 10,
       "evidenceText": "The aim of our nonprofit foundation is to reduce inequality through open source AI -- see this keynote I gave at an NIH conference called aim-ahead.net last month.",
       "evidenceURL": "https://bit.ly/onefact-keynote"
-    },
-    {
-      "SDGNumber": 11,
-      "evidenceText": "We are building open source AI to help countries and cities develop critical health infrastructure in-house"
-    },
-    {
-      "SDGNumber": 16,
-      "evidenceText": "The aim of our nonprofit foundation is to reduce inequality through open source AI -- see this keynote I gave at an NIH conference called aim-ahead.net last month.",
-      "evidenceURL": "https://bit.ly/onefact-keynote"
-    },
-    {
-      "SDGNumber": 17,
-      "evidenceText": "We are building open source AI to help countries and cities develop critical health infrastructure in-house"
     }
   ],
   "sectors": [],
   "type": [
     "software",
-    "aimodel",
-    "standard"
+    "aimodel"
   ],
   "repositories": [
     {
