@@ -66,9 +66,9 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Each package produces different content. For example, outbreak compiles a series of publicly available disease outbreak data; incidence2 functions and classes to compute, handle and visualise incidence from dated events for a defined time interval",
-      "contentFilter": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
       "illegalContentDetectionMechanism": ""
