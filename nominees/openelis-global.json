@@ -1,0 +1,42 @@
+{
+  "name": "OpenELIS Global",
+  "aliases": [
+    ""
+  ],
+  "description": "The OpenELIS Global software is an open enterprise-level laboratory information system built on open-source web-based technologies that has been tailored for low-and-middle income country public health laboratories.",
+  "website": "http://openelis-global.org/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/I-TECH-UW/OpenELIS-Global-2/blob/develop/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "By providing accurate, real time lab information to lab staff, clinicians, and MOH decision makers, OpenELIS global supports many aspects of the SDG 3, particularly 3.3 and 3.D. It is being used to control HIV, TB and Covid-19 in Cote d'Ivoire, Haiti and Mauritus as well as being used in all aspects of clinical lab workflows."
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Core Software",
+      "url": "https://github.com/I-TECH-UW/OpenELIS-Global-2"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Digital Initiatives Group at ITECH,  University of Washington",
+      "website": "https://www.go2itech.org/digital-initiatives-group-at-i-tech/about-digi/",
+      "org_type": "maintainer",
+      "contact_name": "Jan Flowers",
+      "contact_email": "digit@uw.edu"
+    }
+  ],
+  "stage": "DPG"
+}
