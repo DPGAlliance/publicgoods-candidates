@@ -8,7 +8,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://www.reconverse.org/grates/LICENSE-text.html"
+      "licenseURL": "https://github.com/reconverse/grates/blob/main/LICENSE.md"
     }
   ],
   "SDGs": [
@@ -18,14 +18,40 @@
       "evidenceURL": "https://www.reconverse.org/posts/2021-03-09-welcome-to-the-reconverse/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
   "repositories": [
     {
-      "name": "Github",
-      "url": "https://www.reconverse.org/packages.html"
+      "name": "grates",
+      "url": "https://github.com/reconverse/grates"
+    },
+    {
+      "name": "incidence2",
+      "url": "https://github.com/reconverse/incidence2/"
+    },
+    {
+      "name": "i2extras",
+      "url": "https://github.com/reconverse/i2extras/"
+    },
+    {
+      "name": "outbreaks",
+      "url": "https://github.com/reconverse/outbreaks/"
+    },
+    {
+      "name": "reportfactory",
+      "url": "https://github.com/reconverse/reportfactory/"
+    },
+    {
+      "name": "trending",
+      "url": "https://github.com/reconverse/trending/"
+    },
+    {
+      "name": "trendeval",
+      "url": "https://github.com/reconverse/trendeval/"
     }
   ],
   "organizations": [
