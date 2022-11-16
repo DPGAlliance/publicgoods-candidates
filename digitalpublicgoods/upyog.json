@@ -45,7 +45,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "There is no harmful data on this project, only the user transaction data is collected and master data is secure as per the best security standards"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -60,7 +60,7 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Unknown",
+      "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
@@ -68,12 +68,12 @@
       "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
-      "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Yes",
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "There is no harmful data on this project, only the user transaction data is collected and master data is secure as per the best security standards"
+        ""
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "",
       "harassmentProtectionSteps": [
         ""
       ]
