@@ -1,0 +1,43 @@
+{
+  "name": "Product Catalog Management Tool",
+  "aliases": [
+    "PCMT"
+  ],
+  "description": "The Product Catalog Management Tool aims to connect product catalogs in order to show a clear journey from manufacturer to patient. It establishes master data that includes GS1 identifiers, global categories, and mappings to local identifiers. This enables end-to-end visibility, allows shipments to flow between systems, and helps supply chains perform.",
+  "website": "http://productcatalog.io",
+  "license": [
+    {
+      "spdx": "NPOSL-3.0",
+      "licenseURL": "https://gitlab.com/pcmt/pcmt/-/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "PCMT is aimed at improving product catalog data governance, so that public health systems are more efficient and serve their people better with available supply.",
+      "evidenceURL": "http://productcatalog.io"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "PCMT",
+      "url": "https://gitlab.com/pcmt/pcmt"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "VillageReach",
+      "website": "http://villagereach.org",
+      "org_type": "owner",
+      "contact_name": "Josh Zamor",
+      "contact_email": "josh.zamor@villagereach.org"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -87,9 +87,9 @@
       "stepsAddressRiskPreventSafetyUnderageUsers": [
         "The software is not intended for underage users and is expected to be used by professionals in clinical settings."
       ],
-      "griefAbuseHarassmentProtection": "No",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "The product does not indicate any harmful intentions in its vanilla state and hence does not restrict the users from accessing."
+        "The product does not indicate any harmful intentions in its vanilla state and hence does not restrict the users from accessing. For contributors there is a Code of Conduct: https://bahmni.atlassian.net/wiki/spaces/BAH/pages/1769406490/Community+Code+of+Conduct"
       ]
     }
   },
