@@ -1,0 +1,33 @@
+{
+  "name": "COVID-19 Incarceration Model",
+  "description": "An interactive model to allow criminal justice leaders and their staff to project the likely impact of COVID-19 within facilities.",
+  "website": "https://www.recidiviz.org/covid",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ60fTTBlezKwvppNT8_wy8r4zWnx8-u6pkrwwloZ1hQwwFbobEZz7O1mOKSa2ph7YOlvMMT9oWDzAc/pub#"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ60fTTBlezKwvppNT8_wy8r4zWnx8-u6pkrwwloZ1hQwwFbobEZz7O1mOKSa2ph7YOlvMMT9oWDzAc/pub#"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Recidiviz",
+      "org_type": "owner",
+      "contact_email": "covid@recidiviz.org"
+    }
+  ],
+  "stage": "nominee"
+}

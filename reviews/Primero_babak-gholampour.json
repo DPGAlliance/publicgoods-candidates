@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "Actually the link is incorrect and does not refer to a report .",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The link does not refer to a pdf file or report",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "The GitHub account of the project owner is accurate, the user guide for CPIMS+ is very complete. but I could not find GBVIMS+ documentation at the link. ",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "babak-gholampour",
+  "timestamp": 1608712130
+}

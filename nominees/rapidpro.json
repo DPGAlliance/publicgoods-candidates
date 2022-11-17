@@ -10,31 +10,46 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "Mobile Health Pilot Boosting Immunization in Urban Java",
+      "evidenceURL": "https://community.rapidpro.io/stories/mobile-health-pilot-boosting-immunization-urban-java/"
     },
     {
-      "SDGNumber": 10
+      "SDGNumber": 10,
+      "evidenceText": "Using RapidPro to support the dissemination of information on the Service Availability and Readiness Assignment (SARA) census",
+      "evidenceURL": "https://community.rapidpro.io/stories/using-rapidpro-support-dissemination-information-service-availability-and-readiness-assignment-sara-census/"
     },
     {
-      "SDGNumber": 16
+      "SDGNumber": 16,
+      "evidenceText": "Launch of U-Report Burkina Faso",
+      "evidenceURL": "https://community.rapidpro.io/stories/launch-u-report-burkina-faso/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rapidpro/rapidpro",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rapidpro/rapidpro"
+    }
+  ],
   "organizations": [
+    {
+      "name": "United Nations Children's Fund (UNICEF)",
+      "website": "https://unicef.org",
+      "org_type": "funder",
+      "contact_name": "Matthew Mcnaughton",
+      "contact_email": "mmcnaughton@unicef.org"
+    },
     {
       "name": "RapidPro",
       "website": "https://rapidpro.io",
       "org_type": "owner"
-    },
-    {
-      "name": "United Nations Children’s Fund (UNICEF)",
-      "website": "https://unicef.org",
-      "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "No tested on Ubuntu 20",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "victespinoza",
+  "timestamp": 1608489102
+}

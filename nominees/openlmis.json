@@ -12,7 +12,7 @@
     {
       "SDGNumber": 3,
       "evidenceText": "OpenLMIS reduces the occurrence of product stockouts and improves national supply chain management practices. OpenLMIS strengthens national health systems in a sustainable way by increasing visibility of logistics data across the supply chain and promoting informed decision-making.",
-      "evidenceURL": "https://openlmis.org/impact/"
+      "evidenceURL": "https://www.ictworks.org/openlmis-open-source-software/#.YQf9-HX7RNg"
     },
     {
       "SDGNumber": 9,
@@ -24,13 +24,20 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/OpenLMIS/openlmis-ref-distro",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenLMIS/openlmis-ref-distro"
+    }
+  ],
   "organizations": [
     {
       "name": "VillageReach",
       "website": "https://www.villagereach.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Pranil Singh",
+      "contact_email": "pranil.singh@openlmis.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "1"
+  },
+  "user": "Rolikasi",
+  "timestamp": 1617375939
+}

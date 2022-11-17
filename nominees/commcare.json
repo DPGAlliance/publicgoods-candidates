@@ -1,6 +1,6 @@
 {
   "name": "CommCare",
-  "description": "CommCare is an easily customizable, open source mobile platform that supports frontline workers in low-resource settings. By replacing paper-based forms, frontline workers can use CommCare to track and support their clients with registration forms, checklists, SMS reminders, and multimedia.",
+  "description": "CommCare is a digital health platform that allows users to rapidly configure and deploy offline first, custom data collection and service delivery support applications which feature case management for frontline workers without any tech or coding expertise.",
   "website": "https://www.dimagi.com/commcare",
   "license": [
     {
@@ -10,29 +10,52 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
     },
     {
-      "SDGNumber": 6
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.dimagi.com/blog/usaid-advancing-nutrition-2020/"
     },
     {
-      "SDGNumber": 10
+      "SDGNumber": 3,
+      "evidenceText": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things.",
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     },
     {
-      "SDGNumber": 16
+      "SDGNumber": 4,
+      "evidenceURL": "https://www.dimagi.com/blog/mobile-data-collection-nutrition/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things.",
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceURL": "https://www.dimagi.com/toolkits/commcare-evidence-base/"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dimagi/commcare-hq",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dimagi/commcare-hq"
+    }
+  ],
   "organizations": [
     {
       "name": "Dimagi",
       "website": "https://dimagi.com",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Jonathan Jackson",
+      "contact_email": "jjackson@dimagi.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

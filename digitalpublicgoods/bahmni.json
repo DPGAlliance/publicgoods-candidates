@@ -1,0 +1,134 @@
+{
+  "name": "Bahmni",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "1. Bahmni IP is owned by OpenMRS, which also acts as its Fiscal sponsor. All Bahmni trademarks are owned by OpenMRS.  Policies around “Bahmni” trademark are governed by similar policies as adopted by OpenMRS (https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy) \n 2. Bahmni is an OpenMRS distribution and a product initiative supported by Bahmni coalition which manages its evolution. https://www.bahmni.org/bahmni-coalition"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://bahmni.atlassian.net/wiki/spaces/BAH/overview"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be extracted in the form of reports (PDF, Excel, HTML, CSV) from Bahmni by writing custom SQL or Bahmni Mart can be integrated with BI tools like Metabase, R, PowerBI which enables us to filter content or restrict access to PII info. \n Data can also be extracted by calling authenticated REST APIs."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR",
+      "HIPAA",
+      "<b>N.B:</b> BAHMNI is implemented across the globe in different usage contexts, where the implementation organization evaluates the required privacy regulations applicable in their country or usage context for the product and takes the decision on compliance and conformity."
+    ],
+    "adherenceSteps": [
+      "- Bahmni has features like Audit Log to protect and record who has accessed, recorded or modified what health records and also authentication/authorisation features to only allow approved users to access patient data. The Bahmni development team does not have any access to real production data/systems, and those are owned by the organisation that deploys/supports Bahmni, as Bahmni is an on-site deployed product. More documentation on this topic here: https://bahmni.atlassian.net/wiki/spaces/BAH/pages/41713684/Security+Roles+and+Privileges",
+      "- Typically Hospital/Center that use Bahmni are deemed as data controllers, with the implementer may not have access to data, unless for authorised access functions like support or maintenance. In hosted models, the agency hosting would be required to fulfil compliance requirements and adopt data protection strategy so applicable in a country.",
+      "- Since Bahmni is built on other FOSS products like OpenMRS and Odoo, the related GDPR/Privacy centric steps are provided by them. Reference: https://www.odoo.com/gdpr, and https://talk.openmrs.org/t/gdpr-and-openmrs/18205",
+      "- We continue to evaluate features and development practices to adhere to GDPR, HIPAA and Data Protection/Privacy laws to protect citizen data."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Technical & Interoperability Standards Supported: Http/Https, CSS, JSON, REST, ATOM, HL7/FHIR, DICOM",
+      "Medical Standards Supported: SNOMED, LOINC, ICD-10, CIEL",
+      "Standards - HTML/CSS/JS based frontends talk over RESTful APIs. In addition Bahmni also provides HL7 FHIR R4 APIs.  Communication/Notifications use W3 ATOM syndication standard."
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for digital development",
+      "Open source principles, that is, peer production with products such as source code, blueprints, and documentation freely available to the public.",
+      "AGPL guidelines",
+      "Standard Application Security Best Practices."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The use cases in which this product is implemented has not indicated any harmful intentions thus far."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Address",
+        "Date of birth",
+        "Contact details",
+        "Other unique identifiers."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "Integration of product with 3rd party is optional and configurable; which provides users of the product to define what they wish to share."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Bahmni has features like Audit Log to protect and record who has accessed, recorded or modified what health records and also authentication/authorisation features to only allow approved users to access patient data. The Bahmni development team does not have any access to real production data/systems, and those are owned by the organisation that deploys/supports Bahmni, as Bahmni is an on-site deployed product. More documentation on this topic here: https://bahmni.atlassian.net/wiki/spaces/BAH/pages/41713684/Security+Roles+and+Privileges"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The software is not intended for underage users and is expected to be used by professionals in clinical settings."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The product does not indicate any harmful intentions in its vanilla state and hence does not restrict the users from accessing. For contributors there is a Code of Conduct: https://bahmni.atlassian.net/wiki/spaces/BAH/pages/1769406490/Community+Code+of+Conduct"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Lesotho",
+      "Cambodia",
+      "Nepal",
+      "Bangladesh",
+      "Bhutan",
+      "Sierra Leone",
+      "Uganda",
+      "Pakistan",
+      "Indonesia",
+      "South Africa",
+      "Kenya",
+      "Ethiopia",
+      "Philippines",
+      "Haiti",
+      "Zambia",
+      "Papua New Guinea",
+      "Jordan",
+      "Congo (Congo-Brazzaville)",
+      "Iraq",
+      "Malawi",
+      "Belarus",
+      "Myanmar",
+      "Mozambique",
+      "Eswatini (fmr. 'Swaziland')",
+      "Armenia",
+      "Georgia",
+      "Kyrgyzstan",
+      "Ukraine",
+      "Zimbabwe"
+    ]
+  }
+}

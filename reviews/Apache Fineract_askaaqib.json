@@ -1,0 +1,34 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "askaaqib",
+  "timestamp": 1609317047
+}

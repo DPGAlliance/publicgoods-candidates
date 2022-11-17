@@ -1,0 +1,59 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "It directs to the text of a license, not a PDF file of the licence. ",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "If X-Road facilitates \"universal and affordable access to digital services for the population\", then it would definitely be relevant to advance some of the specific targets of Goal 1, Specifically, it would advance target 1.4 (see text below). \n \nA complementary initiative that would advance \"access to digital services\" in areas with no internet and/or no electricity, would be providing connectivity to such areas. \n\n\"1.4 By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance\"",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "3"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "3"
+  },
+  "user": "vgweiner",
+  "timestamp": 1609295953
+}

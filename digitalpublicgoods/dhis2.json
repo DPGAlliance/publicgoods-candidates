@@ -1,0 +1,185 @@
+{
+  "name": "DHIS2",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.dhis2.org/2.35/en/index.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Non-PII data can be extracted and/or imported using the DHIS2 Web API as described here: https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-235/web-api.html and via the Import-Export App within DHIS2"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "All activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation.",
+      "For countries using the DHIS2 software in other regions are responsible for complying with local legislation"
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "SNOMED GPS",
+      "LOINC",
+      "CVX",
+      "ADX",
+      "ICD-10",
+      "ICD-11",
+      "mCSD",
+      "SVCM"
+    ],
+    "evidenceStandardSupport": [
+      "Some information is available here:",
+      "https://www.dhis2.org/integration",
+      "https://docs.dhis2.org/en/implement/implementing-dhis2/integration-concepts.html"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "DHIS2 software is developed in line with the Principles for Digital Development, relying on close input from the global DHIS2 community and findings from health information research.",
+      "The DHIS 2 development process follows agile development process, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "As previously described in this survey, the DHIS2 software is provided with tools and guidelines to mitigate security and privacy risks. Proper adherence to these is the responsibility of each individual organization that implements the DHIS2 software, since each instance of the software is locally owned and maintained, and the DHIS2 core team does not have access to individual country databases. To the extent that the University of Oslo is involved in implementation of the software in-country -- either directly or via our HISP network -- we strive to adhere to best practices for data security and privacy, in accordance with local laws."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "The DHIS2 core team provides general guidance on configuring the system for collection of personal data that include references for navigating legal privacy frameworks: https://docs.dhis2.org/en/implement/tracker-implementation/is-my-project-ready-for-tracker.html#legislation-and-policies. PII collected varies per country, based on program needs and privacy regulations. Some examples include:",
+        "name",
+        "date of birth",
+        "address",
+        "contact information",
+        "national ID number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "DHIS2 features configurable access control levels that restrict access to specific kinds of information to particular user roles, groups, and organization units. Additionally, metadata can be defined as either public or private. The DHIS2 database itself can be encrypted. A discussion of some privacy controls can be found here: https://community.dhis2.org/t/how-does-dhis2-protect-personal-information-the-tech-details/5335/2 \n https://docs.dhis2.org/en/implement/android-implementation/data-security-and-privacy.html"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Interactions between users / contributors on this project are managed through an online forum, the DHIS2 Community of Practice: https://developers.dhis2.org/community",
+        "The target audience for this community is skilled users of the DHIS2 software (expected age 20+), and discussion is limited to topics relating to software implementation and use.",
+        "The age limit for participation on the forum is set at 13 or older. At this point, we have no reason to believe that any underage users are participating in our forum.",
+        "In regards to the DHIS2 software itself, access controls are established by the countries or organizations implementing the software, which is targeted at professional users."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The DHIS2 discussion forum:",
+        "- is governed by clearly stated community guidelines: https://community.dhis2.org/faq",
+        "- is actively moderated by members of the DHIS2 core team, who can flag and remove content or comments as needed."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Norway",
+      "South Africa"
+    ],
+    "deploymentCountries": [
+      "Afghanistan",
+      "Algeria",
+      "Angola",
+      "Bangladesh",
+      "Benin",
+      "Bhutan",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodia",
+      "Cameroon",
+      "Cabo Verde",
+      "Central African Republic",
+      "Chad",
+      "Colombia",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Timor-Leste",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Grenada",
+      "Guinea",
+      "Guinea-Bissau",
+      "Haiti",
+      "Honduras",
+      "India",
+      "Indonesia",
+      "Côte d'Ivoire",
+      "Kenya",
+      "Laos",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Malawi",
+      "Maldives",
+      "Mali",
+      "Mauritania",
+      "Mongolia",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Nepal",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Palestine State",
+      "Congo (Congo-Brazzaville)",
+      "Rwanda",
+      "Sao Tome and Principe",
+      "Senegal",
+      "Sierra Leone",
+      "Solomon Islands",
+      "Somalia",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Sri Lanka",
+      "Sudan",
+      "Tajikistan",
+      "Tanzania",
+      "Gambia",
+      "Togo",
+      "Tonga",
+      "Uganda",
+      "Vanuatu",
+      "Vietnam",
+      "Yemen",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

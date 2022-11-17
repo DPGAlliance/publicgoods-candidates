@@ -1,0 +1,29 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "It's unclear to me how much access to financial services would reduce poverty among the target population",
+    "confidence": "1"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "Several pages in the docs are empty. I couldn't find API docs or references to their codebase.",
+    "confidence": "2"
+  },
+  "user": "javipus",
+  "timestamp": 1610108913
+}

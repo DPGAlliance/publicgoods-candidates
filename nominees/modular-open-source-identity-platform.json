@@ -1,0 +1,92 @@
+{
+  "name": "Modular Open Source Identity Platform",
+  "aliases": [
+    "MOSIP"
+  ],
+  "description": "The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way.",
+  "website": "https://mosip.io/",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/mosip/commons/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceURL": "https://mosip.io/news-events/technology-contributors-coalition"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://mosip.io/news-events/mosip-presents-during-un-general-assembly-2019"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceURL": "https://mosip.io/news-events/iiit-b-ministry-of-peace-federal-democratic-republic-of-ethiopia-sign-mou-on-mosip"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceURL": "https://mosip.io/news-events/global-virtual-summit-on-digital-identity-for-refugees-mosip-presentation"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://mosip.io/news-events/global-virtual-summit-on-digital-identity-for-refugees-mosip-presentation"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "standard"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mosip/commons"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "MOSIP",
+      "website": "https://mosip.io/",
+      "org_type": "owner",
+      "contact_name": "Arun Gurumurthy",
+      "contact_email": "arun@mosip.io"
+    },
+    {
+      "name": "International Institute of Information Technology, Bangalore (IIIT-B)",
+      "website": "https://www.iiitb.ac.in/",
+      "org_type": "owner"
+    },
+    {
+      "name": "Bill & Melinda Gates Foundation",
+      "website": "https://www.gatesfoundation.org",
+      "org_type": "funder"
+    },
+    {
+      "name": "Omydiar Network",
+      "website": "https://www.omidyar.com",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

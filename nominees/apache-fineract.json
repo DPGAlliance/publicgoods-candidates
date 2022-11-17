@@ -10,31 +10,41 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1
+      "SDGNumber": 1,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
     },
     {
-      "SDGNumber": 16
+      "SDGNumber": 16,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 17,
+      "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/apache/fineract",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/apache/fineract"
+    }
+  ],
   "organizations": [
+    {
+      "name": "Mifos",
+      "website": "https://mifos.org",
+      "org_type": "owner",
+      "contact_name": "Edward Cable",
+      "contact_email": "edcable@mifos.org"
+    },
     {
       "name": "The Apache Software Foundation",
       "website": "https://apache.org",
       "org_type": "owner"
-    },
-    {
-      "name": "Mifos",
-      "website": "https://mifos.org",
-      "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

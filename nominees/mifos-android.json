@@ -10,20 +10,32 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 1
+      "SDGNumber": 1,
+      "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openMF/android-client",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openMF/android-client"
+    }
+  ],
   "organizations": [
     {
       "name": "Mifos",
       "website": "https://mifos.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Edward Cable",
+      "contact_email": "edcable@mifos.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

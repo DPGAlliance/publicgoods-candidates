@@ -1,0 +1,44 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Yes it contributes to these specific targets:\n\n1.1 By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day\n\n1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions\n\nAnd contributes to SDG 5: gender equality, too",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "Yes if infrastructure and innovation == innovative payment infrastructure. No if it is meant in traditional sense as roads and bridges, etc",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Yes in the sense that the 'unbanked' can access payment services with Mojaloop, and are more equal to people who already have that access",
+    "confidence": "2"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "Perhaps very indirect, but not clearly",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "Yes, Mojaloop needs partnerships with international donors, and also on continental and national level with other providers for payment integrations",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "It's a complex problem Mojaloop is trying to solve. Their 'how it works' offers a complicated flow chart. This is the main product repo: https://github.com/mojaloop/central-ledger\n\nAnd here how to install and test it: https://github.com/mojaloop/central-ledger/blob/master/Onboarding.md\n\nHave not tested it, and do not see any screenshots of the product, so can't tell 100% (yet) whether it's legit.",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "No, you definitely need technical knowhow and have a dev setup to get this running.\n\nAlso can't find an example of a Digital Financial Services Providers that they have already integrated.",
+    "confidence": "4"
+  },
+  "user": "Barukimang",
+  "timestamp": 1610030073
+}

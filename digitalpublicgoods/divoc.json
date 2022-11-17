@@ -1,0 +1,95 @@
+{
+  "name": "DIVOC",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/egovernments/DIVOC/blob/main/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://divoc.egov.org.in/tech-docs",
+      "https://github.com/egovernments/DIVOC",
+      "https://github.com/egovernments/DIVOC/discussions"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "A masked format can be provided including the usage details and general stats about treatment "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR & HIPAA for personalised medicines",
+      "21 CFR part 11"
+    ],
+    "adherenceSteps": [
+      "https://divoc.digit.org/community/about-project-team/privacy-policy-detailed"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "GS1",
+      "GTIN",
+      "EPCIS",
+      "ISO/IEC 12207"
+    ],
+    "evidenceStandardSupport": [
+      "System architecture designs and white-paper.The link https://divoc.egov.org.in/tech-docs has our Implementation and end-user guides, API documentation, Deployment instructions, Setup configuration. Additionally, the link https://divoc.egov.org.in/understand-divoc#divoc-presentations-1 also has a country-adoption guide, for implementation instructions for adopters (e.g. country authorities)."
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We comply with and the EUs Falsified Medicines Directive (FMD) and the USAs Drug Supply Chain Security Act (DSCSA) to track serialised packs of medicines"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All CfA’s media partners, who are the primary platform for the public to access the tools, are governed by their local press/media ombuds oversight mechanisms. This allows for users to lodge complaints that are independently adjudicated and ruled on. There have been no transgressions since the project launched in 2013."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "DIVOC is meant for last-mile vaccination administration and credentialing (with the architecture based on data minimalism, well-designed privacy & security).  But as highlighted in earlier responses, these measures need to be addressed in the individual privacy policies adopted by the various implementers. The tools are embedded in partner media websites, which are governed by privacy policies and terms of service that comply with local media freedom laws."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Sri Lanka"
+    ]
+  }
+}

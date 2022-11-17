@@ -1,16 +1,25 @@
 {
   "name": "Bahmni",
-  "description": "Open Source Hospital Management System built on top of OpenMRS, OpenELIS and OpenERP.",
+  "description": "Open Source Comprehensive Electronic Medical Record System built on top of OpenMRS, OpenELIS and OpenERP",
   "website": "https://www.bahmni.org",
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/Bahmni/bahmni-core/LICENSE"
+      "licenseURL": "https://www.bahmni.org/license"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
     }
   ],
   "sectors": [
@@ -19,13 +28,20 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Bahmni/bahmni-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Bahmni/bahmni-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Bahmni",
       "website": "https://bahmni.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Vinod Sankaranarayanan",
+      "contact_email": "vinod.sankaranarayanan@thoughtworks.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

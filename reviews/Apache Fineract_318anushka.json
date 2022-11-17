@@ -1,0 +1,34 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Fineract enables financial services for billions of unbanked and underbanked individuals worldwide.",
+    "confidence": "5"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "Apache Fineract can be deployed in any environment, whether Cloud or on-premise, on- or offline, on mobile or PC. It is extensible enough to support any organizational type or delivery channel, and flexible enough to support any product, service, or methodology.",
+    "confidence": "5"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "I find https://cwiki.apache.org/confluence/display/FINERACT/FINERACT to be more relevant. It contains all specifications, features, reports and contribution guide.",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "318anushka",
+  "timestamp": 1618416122
+}

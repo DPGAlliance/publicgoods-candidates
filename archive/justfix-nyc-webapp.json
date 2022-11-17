@@ -1,0 +1,34 @@
+{
+  "name": "JustFix NYC WebApp",
+  "description": "JustFix.nyc is a tool to document, organize, and take action in getting repairs made on your apartment.",
+  "website": "https://beta.justfix.nyc",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/JustFixNYC/tenants/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/JustFixNYC/tenants"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "JustFix",
+      "website": "https://justfix.nyc",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

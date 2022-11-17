@@ -1,0 +1,101 @@
+{
+  "name": "Avyantra Health Technologies",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "In India, we currently do not have any legislation on Privacy Law but we are adhering to the standards followed for data privacy across the globe.",
+      "We are currently complying with collection of non-personal data as per global security norms such as Global data protection regulation (GDPR)."
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Avyantra is implemented using open-source standards and tools. It follows ISO/IEC/IEEE 12207 Systems and software engineering – as international standard for Software life cycle processes. We follow Software life cycle processes and methodologies such as iterative and agile methodology. Some of the key processes being followed are: Task planning, Project assessment and control, Decision management, Risk management, Configuration management, Information management, Measurement and Quality assurance"
+    ],
+    "evidenceStandardSupport": [
+      "Code base of our project is available on Github - https://github.com/kvklrao/Avyantra_Presco_Project"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Avyantra is being built and developed with implementation of best practices and principles such as Principles For Digital development. Below are more details to support the claim:",
+      "1. User Centric design:  Application interface and design was undertaken after detailed discussion with the prospective users such as doctors and healthcare workers and their feedback were taken into consideration while framing the functional requirements.",
+      "2. Understanding the ecosystem:  Application was designed after doing research on the diagnostic principles and protocols used in the medical field for neonates. Several specialists and doctors were consulted during the algorithm as well as application development.",
+      "3. Design for Scale:  Our platform was designed for scalability both in terms of volume of users as well as extending usage for diagnosis of other critical medical conditions in neonates and for infants & children. ",
+      "4. Sustainability: The project is being undertaken with an objective of making diagnosis accurate, reliable, affordable, and sustainable with a well-defined business model.",
+      "5. Data Driven:  We have built the application with medical data collected directly from hospitals. The platform also enables the users to get key insights from the data to make right decisions for treatment and management.",
+      "6. Open-Source Technology:  Our application was built using open-source tools and technologies. The same have been made publicly available in GITHUB platform with the GNU license option. https://github.com/kvklrao/Avyantra_Presco_Project.",
+      "7. Address privacy and security:  We are following strict data privacy protocols during collection, processing and storage of data. Anonymous data of patients has been collected to ensure privacy. The platform has been built with multi-tier security protocols to prevent unauthorized access to patient data.",
+      "8. Collaborative: The platform has been built with open source standards and the code base was made publicly available in GITHUB for collaboration with the global community of developers and users for improving features as well as adoption of the globally."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Avyantra takes the following steps to anticipate, prevent and do harm: \n 1. Multiple authentications to ensure genuine users are granted permission to use the application. Stringent testing & validation is being done to ensure the output of the application is accurate. \n 2. Minimal data on patient or user personal profile is gathered by the application. Security protocols are implemented on our cloud platform to prevent unauthorized access to the application."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "We are collecting date and place of birth of a baby/infant and no other information that can be linked or identified to the person."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We are collecting anonymized data (clinical data of patients) with prior approvals and clearances from hospitals."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "This project does not collect, store or distribute content"
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Avyantra is used by doctors, healthcare workers, neonatal specialists etc. They are all above the age of 18 years. Users who login are authenticated with their mobile phone or email Id as well. Age profile of Users is therefore not a concern.",
+        "Avyantra has a two-factor authentication of users. In the first step, the user profile is screened, and approval is granted by us. In the second step, a One-Time Password (OTP) is sent to the user’s mobile for accessing the application.  With these two steps, we are ensuring that we provide access to the right user and not to underage or wrong users."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "We have strict data access security guidelines and protocols to ensure privacy of user data as well as the patient data. First, we have so far not collected any personal data of patients that would help in tracing back their identity. Second, data of users is not shared with any external agent, or any cross-user interaction allowed.",
+        "Our application has a multi-layer security protocol to prevent hacking."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}

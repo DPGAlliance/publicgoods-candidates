@@ -1,0 +1,46 @@
+{
+  "name": "OSCAR",
+  "aliases": [
+    "Observing Systems Capability Analysis and Review Tool"
+  ],
+  "description": "OSCAR is a resource developed by the World Meteorological Organization (WMO) in support of Earth Observation applications, studies and global coordination. It contains quantitative user-defined requirements for observation of physical variables in application areas of WMO (i.e. related to weather, water and climate). OSCAR also provides detailed information on all earth observation satellites and instruments, and expert analyses of space-based capabilities. OSCAR/Surface is the World Meteorological Organization's official repository of WMO Integrated Global Observing Systems (WIGOS) metadata for all surface-based observing stations and platforms.",
+  "website": "https://space.oscar.wmo.int/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://oscardepl.wmo.int/surface/#/faq/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceURL": "https://www.ecmwf.int/en/about/media-centre/news/2020/wmo-and-ecmwf-launch-new-web-tool-monitor-quality-observations"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceURL": "https://www.ecmwf.int/en/about/media-centre/news/2020/wmo-and-ecmwf-launch-new-web-tool-monitor-quality-observations"
+    }
+  ],
+  "sectors": [
+    "Climate"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "World Meteorological Organization",
+      "website": "https://public.wmo.int/en",
+      "org_type": "owner",
+      "contact_name": "Timo Pröscholdt",
+      "contact_email": "tproescholdt@wmo.int"
+    }
+  ],
+  "stage": "nominee"
+}

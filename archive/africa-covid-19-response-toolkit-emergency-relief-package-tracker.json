@@ -1,0 +1,35 @@
+{
+  "name": "Africa COVID-19 Response Toolkit: Emergency Relief Package Tracker",
+  "description": "This project is designed to help local organizations and government institutions help track distribution of emergency relief packages along with their contents to ensure essential supplies are evenly distributed.",
+  "website": "https://ethiocovid19rt.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://medium.com/africa-covid-19-response-toolkit/introducing-the-open-source-africa-covid-19-response-toolkit-6d4a571027a8"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ethiopia COVID-19 Response Team",
+      "website": "https://ethiocovid19rt.com/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

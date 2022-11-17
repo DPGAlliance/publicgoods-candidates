@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "The link provided is not to a single repository but to a GitHub profile. I can see that the  top few respositories with the \"openg2p\" prefix are GPL-3.0 licensed, but there are many other constituent repositories that do not specify a license at all.",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "OpenG2P aims to advance at least these specific targets for goal 1:\n\n1.4 By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance\n\n1.A Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "It is difficult to see how any of the Goal 2 targets are directly advanced; however, at least one of the targets is perhaps indirectly advanced:\n\n2.A Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.",
+    "confidence": "2"
+  },
+  "SDG[2]": {
+    "answer": true,
+    "comment": "May indirectly support the following Goal 3 target:\n\n3.C Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States.",
+    "confidence": "2"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "OpenG2P arguably would contribute directly to the following Goal 4 target:\n\n4.B By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": true,
+    "comment": "5.A Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws",
+    "confidence": "5"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "It is not easy to see how this project would directly or indirectly advance any of the Goal 6 targets.",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "It is not easy to see how this project would directly or indirectly advance any of the Goal 7 targets.",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "8.10 Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": true,
+    "comment": "10.6 Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": true,
+    "comment": "17.1 Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection\n\n17.2 Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of ODA/GNI to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries\n\n17.3 Mobilize additional financial resources for developing countries from multiple sources",
+    "confidence": "5"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "Not all of the documentation is complete. It is not clear whether the portions of the docs that are marked \"@TODO\" are the result of incomplete documentation or incomplete feature implementation.",
+    "confidence": "1"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "user": "dgparks",
+  "timestamp": 1610334825
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Tensorflow",
+  "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.",
+  "website": "https://www.tensorflow.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/tensorflow/tensorflow/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/tensorflow/tensorflow",
+  "organizations": [
+    {
+      "name": "Google Brain",
+      "website": "https://research.google/teams/brain/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

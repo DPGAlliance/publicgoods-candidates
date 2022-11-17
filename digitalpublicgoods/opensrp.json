@@ -1,0 +1,120 @@
+{
+  "name": "OpenSRP",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://smartregister.atlassian.net/wiki/spaces/Documentation/pages/2528903175/OpenSRP+Governance+and+Trademark"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://smartregister.atlassian.net/wiki/spaces/Documentation/overview"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Beam is a unified model for defining both batch (data at rest) and streaming (data in motion) data-parallel processing pipelines. \n Why Beam? \n1. Unified - Use a single model for both batch and streaming use cases, can handle batch and streaming data with no need to write different logics separately. \n 2. Portable - Able to execute pipelines on multiple execution environments, clear separation on the programming layer with the runtime layer. This means code can be migrated to any supported execution engine (runner). 3. Extensible - Ability to write and share new SDK’s IO connectors and any transformation libraries. \n Ona’s Preference for Beam: \n Our newly built Beam ETL Tool is the tool of choice for performing data ingestion in our all systems, this stems from the above-mentioned features of Beam, its simple deployment feature that is fully managed and auto-configured; we just need to deploy the pipeline (no-ops service). Additionally, Beam ETL offers horizontal scaling that happens automatically based on a set step by step process and a configurable durability. We are moving our ETL tools that were previously built on Apache NiFi to our newly implemented BEAM ETL Tool, this has been necessitated by some challenges (save for the positive features) experienced with NiFi as itemized below; \n- Challenging stateful ETL in NiFi - it has no generic mechanisms for remembering where it stopped hence makes it hard for tracking complex ETL processes. -Poor performance in NiFi - breaking up a data transformation into multiple serialized steps is expensive, and limits NiFi’s ETL rate pretty severely when compared to a coded multi-step solution. \n - Poor queueing behavior, NiFi cannot buffer large numbers of flow files without major performance problems"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "We have measures to support GDPR compliance in place but none of the privacy laws listed affect our implementations yet.  We typically host or applications in country to comply with local privacy and data sovereignty laws."
+    ],
+    "adherenceSteps": [
+      "https://company.ona.io/ona-news/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR.  We are also building a next generation version of OpenSRP that will be FHIR native."
+    ],
+    "evidenceStandardSupport": [
+      "1. FHIR Core repo  - https://github.com/opensrp/fhircore",
+      "2. Android FHIR SDK  - https://github.com/google/android-fhir",
+      "3. HAPI FHIR Server - https://fhir.labs.smartregister.org/home",
+      "4. FHIR Admin backend https://fhir-web.opensrp-stage.smartregister.org/",
+      "5. FHIR app demo  https://www.loom.com/share/9beb0ec92745489a805dabbd1e0b5c40?t=0"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We develop with an agile methodology.  We also try to provide test coverage for all aspects of the app.  We also work to ensure that all aspects of the technology do not rely on technologies that can not be run locally in country. ",
+      "OpenSRP developer's guide & coding best practices - https://smartregister.atlassian.net/wiki/spaces/Documentation/pages/6619193/OpenSRP+Developer+s+Guide"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "We try to ensure our health apps always follow WHO approved health guidelines. We work with our implementing partners to help ensure this."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Health information on people"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "We encrypt and follow best security practices to secure the database where the PII is stored.  When doing analytics we endeavor to extract any PII data before it is stored in the data warehouse for analysis."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Kenya",
+      "Bangladesh",
+      "Indonesia",
+      "India",
+      "Tanzania",
+      "Zambia",
+      "Pakistan",
+      "Tanzania",
+      "Malawi",
+      "Singapore",
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      "Angola",
+      "Bangladesh",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Eswatini (fmr. 'Swaziland')",
+      "Guinea",
+      "Indonesia",
+      "Kenya",
+      "Liberia",
+      "Malawi",
+      "Madagascar",
+      "Mauritania",
+      "Nigeria",
+      "Tanzania",
+      "Tunisia",
+      "Togo",
+      "Zambia"
+    ]
+  }
+}

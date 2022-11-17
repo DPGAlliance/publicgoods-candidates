@@ -28,15 +28,15 @@
     },
     "description": {
       "type": "string",
-      "description": "Concise 1-line description of Global Digital Public Good"
+      "description": "Concise 1-line description of Digital Public Good."
     },
     "website": {
       "type": "string",
-      "description": "Public website for the Global Digital Public Good."
+      "description": "Public website for the Digital Public Good."
     },
     "license": {
       "type": "array",
-      "description": "License(s) under which the Global Digital Pubic Good is released.",
+      "description": "Digital Public Goodss must use an open license. Please identify which of these approved open licenses this project uses:",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -74,22 +74,26 @@
               "CC-BY-2.5",
               "CC-BY-3.0",
               "CC-BY-3.0-AT",
+              "CC-BY-3.0-US",
               "CC-BY-4.0",
               "CC-BY-NC-1.0",
               "CC-BY-NC-2.0",
               "CC-BY-NC-2.5",
               "CC-BY-NC-3.0",
+              "CC-BY-NC-3.0-US",
               "CC-BY-NC-4.0",
               "CC-BY-NC-SA-1.0",
               "CC-BY-NC-SA-2.0",
               "CC-BY-NC-SA-2.5",
               "CC-BY-NC-SA-3.0",
+              "CC-BY-NC-SA-3.0-US",
               "CC-BY-NC-SA-4.0",
               "CC-BY-SA-1.0",
               "CC-BY-SA-2.0",
               "CC-BY-SA-2.5",
               "CC-BY-SA-3.0",
               "CC-BY-SA-3.0-AT",
+              "CC-BY-SA-3.0-US",
               "CC-BY-SA-4.0",
               "CC0-1.0",
               "CDDL-1.0",
@@ -138,16 +142,16 @@
               "Naumen",
               "NCSA",
               "NGPL",
-              "NLOD-1.0",
               "Nokia",
               "NPOSL-3.0",
               "NTP",
               "OCLC-2.0",
               "ODbL-1.0",
-              "ODC-By-1.0 ",
+              "ODC-By-1.0",
               "OFL-1.1",
               "OFL-1.1-no-RFN",
               "OFL-1.1-RFN",
+              "OGL-UK-3.0",
               "OGTSL",
               "OLDAP-2.8",
               "OSET-PL-2.1",
@@ -183,14 +187,14 @@
           },
           "licenseURL": {
             "type": "string",
-            "description": "Link to the license under which the Global Digital Pubic Good is released."
+            "description": "Please link to where the license is indicated for this project:"
           }
         }
       }
     },
     "SDGs": {
       "type": "array",
-      "description": "List of Sustainable Development Goals that this Global Digital Public Good addresses.",
+      "description": "Please identify which of the Sustainable Development Goals this project is relevant to:",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -224,11 +228,11 @@
           },
           "evidenceText": {
             "type": "string",
-            "description": "Evidence of SDG relevance in text form."
+            "description": "Please supply information to support this relevance."
           },
           "evidenceURL": {
             "type": "string",
-            "description": "Evidence of SDG relevance in the form of a link."
+            "description": "Please supply links to support this relevance."
           }
         }
       }
@@ -317,7 +321,7 @@
     },
     "type": {
       "type": "array",
-      "description": "List of categories under which this Global Digital Public Good falls into: software, data, standards.",
+      "description": "What category best describes this project?",
       "minItems": 1,
       "uniqueItems": true,
       "items": {
@@ -326,13 +330,29 @@
           "software",
           "data",
           "content",
-          "standard"
+          "standard",
+          "aimodel"
         ]
       }
     },
-    "repositoryURL": {
-      "type": "string",
-      "description": "Link to Github (or other) repository"
+    "repositories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the Github (or other) repository"
+          },
+          "url": {
+            "type": "string",
+            "description": "Website of the repository"
+          }
+        }
+      }
     },
     "organizations": {
       "type": "array",
@@ -349,6 +369,7 @@
           },
           "org_type": {
             "type": "string",
+            "description": "Type of organization",
             "enum": [
               "owner",
               "maintainer",
@@ -369,10 +390,11 @@
     },
     "stage": {
       "type": "string",
+      "description": "Review stage of Digital Public Good",
       "enum": [
         "nominee",
-        "candidate",
-        "DPG"
+        "DPG",
+        "archive"
       ]
     }
   }

@@ -1,0 +1,49 @@
+{
+  "name": "Project AEDES",
+  "aliases": [
+    "Advanced Early Dengue Prediction and Exploration Service"
+  ],
+  "description": "Project AEDES, by CirroLytix is a tool that correlates dengue cases and deaths with real-time data from climate, google searches, and remote sensing, to predict potential dengue hotspot locations.",
+  "website": "https://aedesproject.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "In 2019, the Philippine government declared a national epidemic as the country struggled to contain its worst dengue outbreak since 2012. Total reported dengue cases reached 420,453 and deaths at 1,565 - a 78% increase in infections (235,994) and 33% increase in deaths (1,181) from 2018. With manual reporting, release of dengue data is delayed which hampers the health sector’s ability to effectively deal with the threat. There was a need to move the emphasis from treatment to prevention. Project AEDES was then developed to improve public health response and address the challenge of getting real-time on the ground information on dengue. The application is envisioned to guide and help the general public, government officials, policymakers, and health workers understand the spread of dengue in their communities, locate at-risk areas for outbreaks and probable habitats of mosquitoes, and implement interventions.",
+      "evidenceURL": "https://www.aljazeera.com/news/2019/9/17/philippines-worst-dengue-outbreak-in-years-kills-over-a-thousand \nhttp://iris.wpro.who.int/handle/10665.1/14461 \nhttps://aedesproject.org/#ourWork"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "data",
+    "content",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Cirrolytix/aedes_dpg"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Cirrolytix Research Services",
+      "website": "https://aedesproject.org",
+      "org_type": "owner",
+      "contact_name": "Rache Melendres",
+      "contact_email": "rache.melendres@cirrolytix.com"
+    }
+  ],
+  "stage": "DPG"
+}

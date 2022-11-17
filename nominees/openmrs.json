@@ -5,25 +5,40 @@
   "license": [
     {
       "spdx": "MPL-2.0",
-      "licenseURL": "https://openmrs.org/license/"
+      "licenseURL": "https://wiki.openmrs.org/display/RES/OpenMRS+License"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
+      "SDGNumber": 3,
+      "evidenceText": "As a result of better healthcare information technology, countries where OpenMRS is predominantly used have seen a reduction in AIDS infection rates as well as deaths of both AIDS and malaria. Countries such as Kenya, Nigeria, Mozambique, Haiti, Rwanda, and Uganda have widely adopted OpenMRS as their premier EMR platform or have declared it to be their official EMR. OpenMRS, as an open-source project, provides a unique solution which puts local providers and patients at the center of their health information ecosystem. It allows for low-resource settings, in particular, to benefit from the contributions of others while being able to customize and 'own' their own technologies. This is a foundational transformation that allows for local innovation and the development of new solutions to difficult health-related problems. The OpenMRS community accompanies this work with a model that supports community development, capacity building and local ownership.",
+      "evidenceURL": "https://europepmc.org/article/PMC/5583502"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Health"
+  ],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openmrs/openmrs-core",
-  "organizations": [
+  "repositories": [
     {
-      "name": "OpenMRS",
-      "website": "https://openmrs.org",
-      "org_type": "owner"
+      "name": "main",
+      "url": "https://github.com/openmrs/openmrs-core"
+    },
+    {
+      "name": "OpenMRS Android Client",
+      "url": "https://github.com/openmrs/openmrs-contrib-android-client"
     }
   ],
-  "stage": "nominee"
+  "organizations": [
+    {
+      "name": "OpenMRS, Inc.",
+      "website": "https://openmrs.org",
+      "org_type": "owner",
+      "contact_name": "Jennifer Antilla",
+      "contact_email": "jennifer@openmrs.org"
+    }
+  ],
+  "stage": "DPG"
 }

@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "i am fully confident that Bahmi has link that point to license(AGPL-3.0 license)",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "yes i am confident to say Bahmni policies regarding the people health issues are very close to SDG 3 target listing,as it  track and monitor patient health and records in developing countries and Bahmni  also supported to run endTB project which is also part of SDG targets to  Support the research and development of vaccines and medicines for the communicable and noncommunicable diseases that primarily affect developing countries",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "No i do not think so that Bahmni qualify for SDG 10 targets.Bahmni only support people in health aread and SDG 10 focused on  Reducing inequalities and ensuring no one is left behind are integral to achieving the Sustainable Development Goals.",
+    "confidence": "1"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "Not all confident Bahmni can be subset of SDG 17.\nSDG 17 is based on  strong global partnerships and cooperation which is totly changed from Bahmni policies",
+    "confidence": "1"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "yes it support the claim that Bahmni Electronic Medical Record System built on top of OpenMRS  because Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "i am pretty sure that documentation provided is enough to know everyting about Bahmni software,data,content\n",
+    "confidence": "5"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "yes it is enough to prove that data can be imported or exported in a non-proprietary format?",
+    "confidence": "5"
+  },
+  "user": "zubedauk",
+  "timestamp": 1617941647
+}

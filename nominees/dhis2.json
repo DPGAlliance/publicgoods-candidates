@@ -1,0 +1,57 @@
+{
+  "name": "DHIS2",
+  "aliases": [
+    "District Health Information System 2"
+  ],
+  "description": "DHIS2 is a free, open-source, fully customizable platform for collecting, analyzing, visualizing, and sharing aggregate and individual-data for district-level, national, regional, and international system and program management in health, education, and other domains.",
+  "website": "https://www.dhis2.org/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "DHIS2 is the world's largest Health Management Information System platform, and is currently in use in more than 73 low- and middle-income countries, 60 are deployed at national scale. DHIS2 is also used by national health authorities and international health programs and organizations (such as WHO, Pepfar, The Global Fund, Gavi) for management of health programs related to specific diseases, such as HIV, TB, Malaria, and others. In addition, during the COVID-19 pandemic, at least 36 countries rapidly deployed DHIS2 for national pandemic response.",
+      "evidenceURL": "Additional information:\nAbout DHIS2: https://www.dhis2.org/about\nOverview of DHIS2 deployments: https://www.dhis2.org/in-action\nDHIS2 for COVID-19 surveillance: https://www.dhis2.org/covid-19"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "DHIS2 is also now being deployed as an Education Management Information System (EMIS) in several countries, which facilitates more effective triangulation of data between health and education programs (for example, vaccination campaigns targeting school-aged children), as well as supporting purely education-related goals.",
+      "evidenceURL": "DHIS2 for Education: https://www.dhis2.org/education"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "The HISP mission statement: https://www.mn.uio.no/ifi/english/research/networks/hisp/\nSelection of HISP research related to DHIS2: https://dhis2.org/research/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dhis2/dhis2-core"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Health Information Systems Programme (HISP), University of Oslo",
+      "website": "https://www.mn.uio.no/ifi/english/research/networks/hisp/",
+      "org_type": "owner",
+      "contact_name": "Max Krafft",
+      "contact_email": "max@dhis2.org"
+    },
+    {
+      "name": "Norad",
+      "website": "https://norad.no",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

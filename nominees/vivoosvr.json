@@ -1,0 +1,51 @@
+{
+  "name": "VivoosVR",
+  "description": "Virtual Reality based software tool to aid mental health professionals in treatment of psychological disorders.  ",
+  "website": "https://www.vivoosvr.com/vivoosvr-en",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/Ideasis/VivoosVR/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "There are approximately 700 million people suffering from mental health issues in general, most of them suffer from anxiety related disorders including phobias, depression and similar conditions where in many cases comorbidity of two or more conditions is present. Especially people living in conflict areas and/or developing or underdeveloped areas are more likely to experience severe mental disorders. Lack of availability of quality mental health care is another problem for above mentioned regions. Globally, 75% of people with mental health conditions remain untreated. \nPandemic related anxiety is another rapidly rising problem. The impact of the COVID-19 pandemic is drastically changing the way of life. Workplaces, schools, universities have closed. Socializing with friends and family is highly discouraged. These circumstances have a significant negative effect on our social, physical and mental wellbeing. As, Dr Brock Chisholm, the first Director-General of the World Health Organization (WHO), stated ?without mental health there can be no true physical health.\n Our solution targets to: \n?\tImprove mental health care, provide a quicker, safer and more cost effective way to deal with anxiety.\n?\tHelp reduce the global suicide rate, providing that depression is one of the major causes of suicide, which is in comorbidity with anxiety disorders.\n?\tDecrease the burden on the social security systems, by reducing therapy costs and time while contributing to the effectiveness of the treatments.\n?\tProvide an opportunity for low income and displaced individuals to receive mental health treatment, due to the ease of use with reduced cost and time, more people can get treatment during the same time / cost provided.\n\nIndirect impacts\nSDG 1: No Poverty\nSDG 2: Zero Hunger\nSDG 4: Quality Education\nSDG 8: Decent Work and Economic Growth\nResearch has shown that people with anxiety have higher unemployment rates and are more likely to settle for lower incomes.\nFive of the 10 leading causes of disability worldwide are mental problems (major depression, schizophrenia, bipolar disorders, alcohol use and obsessive-compulsive disorders). These disorders ? together with anxiety, depression and stress ? have a definitive impact on any working population and should be addressed within that context. They may also develop into long-term disorders with accompanying forms of disability\nLiterature consistently demonstrates that social anxiety disorder has substantial impacts on occupational functioning. Work-related impairments for persons with social anxiety disorder include reduced productivity and job performance, lowered educational attainment, unemployment, financial dependence, and reduced income. Approximately 20% of persons with social anxiety disorder reported declining a job offer or promotion due to social fears and primary care patients with social anxiety disorder reported significantly greater absenteeism and reduced productivity compared to patients without psychiatric problems.\n\n\n",
+      "evidenceURL": "\n\nBelow is an academic article published on the methodology and findings of our pilot.\nhttps://www.researchgate.net/publication/331980236_Developing_An_Auxiliary_Tool_for_Treatment_of_Specific_Phobias_via_Virtual_Reality_Technology_Applications_An_Effectiveness_Study"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "There are approximately 700 million people suffering from mental health issues in general, most of them suffer from anxiety related disorders including phobias, depression and similar conditions where in many cases comorbidity of two or more conditions is present. Especially people living in conflict areas and/or developing or underdeveloped areas are more likely to experience severe mental disorders. Lack of availability of quality mental health care is another problem for above mentioned regions. Globally, 75% of people with mental health conditions remain untreated. \nPandemic related anxiety is another rapidly rising problem. The impact of the COVID-19 pandemic is drastically changing the way of life. Workplaces, schools, universities have closed. Socializing with friends and family is highly discouraged. These circumstances have a significant negative effect on our social, physical and mental wellbeing. As, Dr Brock Chisholm, the first Director-General of the World Health Organization (WHO), stated ?without mental health there can be no true physical health.\n Our solution targets to: \n?\tImprove mental health care, provide a quicker, safer and more cost effective way to deal with anxiety.\n?\tHelp reduce the global suicide rate, providing that depression is one of the major causes of suicide, which is in comorbidity with anxiety disorders.\n?\tDecrease the burden on the social security systems, by reducing therapy costs and time while contributing to the effectiveness of the treatments.\n?\tProvide an opportunity for low income and displaced individuals to receive mental health treatment, due to the ease of use with reduced cost and time, more people can get treatment during the same time / cost provided.\n\nIndirect impacts\nSDG 1: No Poverty\nSDG 2: Zero Hunger\nSDG 4: Quality Education\nSDG 8: Decent Work and Economic Growth\nResearch has shown that people with anxiety have higher unemployment rates and are more likely to settle for lower incomes.\nFive of the 10 leading causes of disability worldwide are mental problems (major depression, schizophrenia, bipolar disorders, alcohol use and obsessive-compulsive disorders). These disorders ? together with anxiety, depression and stress ? have a definitive impact on any working population and should be addressed within that context. They may also develop into long-term disorders with accompanying forms of disability\nLiterature consistently demonstrates that social anxiety disorder has substantial impacts on occupational functioning. Work-related impairments for persons with social anxiety disorder include reduced productivity and job performance, lowered educational attainment, unemployment, financial dependence, and reduced income. Approximately 20% of persons with social anxiety disorder reported declining a job offer or promotion due to social fears and primary care patients with social anxiety disorder reported significantly greater absenteeism and reduced productivity compared to patients without psychiatric problems.\n\n\n",
+      "evidenceURL": "\n\nBelow is an academic article published on the methodology and findings of our pilot.\nhttps://www.researchgate.net/publication/331980236_Developing_An_Auxiliary_Tool_for_Treatment_of_Specific_Phobias_via_Virtual_Reality_Technology_Applications_An_Effectiveness_Study"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Ideasis/VivoosVR"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ideasis / Turkey",
+      "website": "https://ideasis.com.tr/",
+      "org_type": "owner",
+      "contact_name": "Oguzhan Koksal",
+      "contact_email": "oguzhank@ideasis.com.tr"
+    },
+    {
+      "name": "UNICEF Ventures Fund",
+      "website": "https://unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}

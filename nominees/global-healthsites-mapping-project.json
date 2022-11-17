@@ -1,0 +1,45 @@
+{
+  "name": "Global Healthsites Mapping Project",
+  "description": "Healthsites is an innovative Global initiative improving Global baseline health facility data by using OpenStreetMap as the data store.",
+  "website": "https://healthsites.io/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/healthsites/healthsites/blob/master/LICENSE-CODE.txt"
+    },
+    {
+      "spdx": "ODbL-1.0",
+      "licenseURL": "https://github.com/healthsites/healthsites/wiki/Data"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "In a time of crisis, such as the COVID-19 disease outbreak, there is a rush to establish accurate health care location data that can be used to support people on the ground. This has been demonstrated by events such as the Haiti earthquake and the Ebola epidemic in West Africa. As a result valuable time is wasted establishing accurate and accessible baseline data. Healthsites.io establishes this data and the tools necessary to upload, manage and make the data easily accessible",
+      "evidenceURL": "https://covid19innovationhub.org/innovation/the-global-healthsites-mapping-project, \nhttps://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project, \nhttps://www.data4sdgs.org/partner/global-healthsites-mapping-project"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/healthsites/healthsites"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "OPEN HEALTHSITE CONSULTING LTD",
+      "website": "https://healthsites.io",
+      "org_type": "owner",
+      "contact_name": "Mark Herringer",
+      "contact_email": "mark@healthsites.io"
+    }
+  ],
+  "stage": "DPG"
+}

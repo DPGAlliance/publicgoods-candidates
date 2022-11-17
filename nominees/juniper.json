@@ -1,0 +1,36 @@
+{
+  "name": "Juniper",
+  "description": "Juniper is a set of tools built with and for public sector organisations looking to receive, hold and send crypto-denominated assets.",
+  "website": "https://cryptofund.unicef.io/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/unicef/juniper-portfolio/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Juniper is a tool that enables applications like the UNICEF CryptoFund",
+      "evidenceURL": "https://www.unicef.org/press-releases/unicef-launches-cryptocurrency-fund"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/juniper-portfolio"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://unicef.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Gibbon",
+  "aliases": [
+    "GibbonEdu"
+  ],
+  "description": "The flexible, open source school platform built by teachers. Created by teachers, Gibbon is the school platform which solves real problems encountered by educators every day. Being free, open source and flexible Gibbon can morph to meet the needs of a huge range of schools.",
+  "website": "https://gibbonedu.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/GibbonEdu/core/blob/v24.0.00/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Gibbon allows all schools, no matter their budget, to benefit from world class solutions to common educational problems."
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Core",
+      "url": "https://github.com/GibbonEdu/core"
+    },
+    {
+      "name": "Free Learning",
+      "url": "https://github.com/GibbonEdu/module-freeLearning"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Gibbon Foundation",
+      "website": "https://gibbonedu.org/",
+      "org_type": "owner",
+      "contact_name": "Ross Parker",
+      "contact_email": "support@gibbonedu.org"
+    }
+  ],
+  "stage": "nominee"
+}

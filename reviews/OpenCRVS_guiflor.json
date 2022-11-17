@@ -1,0 +1,34 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "ownership": {
+    "answer": false,
+    "comment": "",
+    "confidence": "2"
+  },
+  "documentation": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "",
+    "confidence": "2"
+  },
+  "user": "guiflor",
+  "timestamp": 1608713334
+}

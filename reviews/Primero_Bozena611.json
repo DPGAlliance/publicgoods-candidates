@@ -1,0 +1,39 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "This program is free software: you can redistribute it and/or modify\nit under the terms of the GNU Affero General Public License as\npublished by the Free Software Foundation, either version 3 of the\nLicense, or (at your option) any later version.",
+    "confidence": "5"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "The project advances Goal 5 however the link to the document is broken, possible correct link: https://www.unicef.org/evaluation/media/946/file/Primero.pdf",
+    "confidence": "4"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "The project advances Goal 8 however the link to the document is broken, possible correct link: https://www.unicef.org/evaluation/media/946/file/Primero.pdf",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The project advances Goal 16 however the link to the document is broken, possible correct link: https://www.unicef.org/evaluation/media/946/file/Primero.pdf",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "According to https://www.unicef.org/evaluation/media/946/file/Primero.pdf\n\"Ownership of Primero remains fluid based on\nthe humanitarian context and stability of the\ngovernment. Given the United Nations\nmandate to ensure the protection of the rights\nof children, in situations when governments are\nnot able or willing to ensure this, the ownership\nof Primero has often come under UNICEF.\"",
+    "confidence": "3"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "",
+    "confidence": "4"
+  },
+  "user": "Bozena611",
+  "timestamp": 1617813313
+}

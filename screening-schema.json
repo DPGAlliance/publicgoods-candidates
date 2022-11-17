@@ -6,8 +6,8 @@
   "title": "Digital Public Good",
   "required": [
     "name",
-    "ownership",
-    "dependencies",
+    "clearOwnership",
+    "platformIndependence",
     "documentation",
     "NonPII",
     "locations",
@@ -20,7 +20,7 @@
       "type": "string",
       "description": "The name of the Digital Public Good."
     },
-    "ownership": {
+    "clearOwnership": {
       "type": "object",
       "description": "3. Is ownership clearly defined?",
       "required": [
@@ -29,7 +29,7 @@
       "properties": {
         "isOwnershipExplicit": {
           "type": "string",
-          "description": "Is the ownership of the project and everything that the project produces clearly defined and documented i.e. This can be through copyright, trademark, or other publicly available information.",
+          "description": "Is the ownership of the project and everything that the project produces clearly defined and documented?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -39,20 +39,20 @@
         },
         "copyrightURL": {
           "type": "string",
-          "description": "Link to copyright & trademarks"
+          "description": "If yes - please link to the relevant copyright, trademarks, or ownership documentation for the project."
         }
       }
     },
-    "dependencies": {
+    "platformIndependence": {
       "type": "object",
-      "description": "4. Does the license of libraries/dependencies undermind the openess of the project?",
+      "description": "4. Does the license of libraries/dependencies undermine the openess of the project?",
       "required": [
         "mandatoryDepsCreateMoreRestrictions"
       ],
       "properties": {
         "mandatoryDepsCreateMoreRestrictions": {
           "type": "string",
-          "description": "Does this open project have mandatory dependencies (i.e. hardware) that create more restrictions than the original license?",
+          "description": "Does this open project have mandatory dependencies (i.e. libraries, hardware) that create more restrictions than the original license?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -62,7 +62,7 @@
         },
         "isSoftwarePltIndependent": {
           "type": "string",
-          "description": "Are the open source components able to demonstrate independence from the closed component and/or are there functional, open alternatives?",
+          "description": "If yes - are the open source components able to demonstrate independence from the closed component(s) and/or are there functional, open alternatives?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -73,7 +73,7 @@
         },
         "pltIndependenceDesc": {
           "type": "string",
-          "description": "Describe how the open source components are independent and/or list the open alternatives for the closed component"
+          "description": "If yes - please describe how the open source components are independent and/or list the open alternatives for the closed component:"
         }
       }
     },
@@ -86,7 +86,7 @@
       "properties": {
         "isDocumentationAvailable": {
           "type": "string",
-          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements for this project",
+          "description": "Does some documentation exist of the source code, use cases, and/or functional requirements.\n For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For datasets and data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content collections, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -96,7 +96,7 @@
         },
         "documentationURL": {
           "type": "array",
-          "description": "relevant documentation links",
+          "description": "If yes - please link to the relevant documentation:",
           "items": {
             "anyOf": [
               {
@@ -109,14 +109,14 @@
     },
     "NonPII": {
       "type": "object",
-      "description": "6. Is non PII data accessible?",
+      "description": "6. Is non PII data and/or content accessible?",
       "required": [
         "collectsNonPII"
       ],
       "properties": {
         "collectsNonPII": {
           "type": "string",
-          "description": "Does this project collect or use non-personally identifiable information (PII) data?",
+          "description": "Does this project collect or use non-personally identifiable information (non-PII) data and/or content?",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -124,9 +124,20 @@
             "Unknown"
           ]
         },
+        "checkNonPIIAccessMechanism": {
+          "type": "string",
+          "description": "If yes - is there a mechanism for extracting or importing non-personally identifiable information (non-PII) from the system in a non-proprietary format?",
+          "uniqueItems": true,
+          "enum": [
+            "Yes",
+            "No",
+            "Unknown",
+            ""
+          ]
+        },
         "nonPIIAccessMechanism": {
           "type": "string",
-          "description": "Is there a mechanism for extracting or importing non personally identifiable data from the system in a non-proprietary format?"
+          "description": "If yes - describe the mechanism for extracting or importing non-personally identifiable information from the system in a non-proprietary format:"
         }
       }
     },
@@ -134,13 +145,12 @@
       "type": "object",
       "description": "7. Does the project adhere to privacy and other applicable international and domestic laws?",
       "required": [
-        "isPrivacyCompliant",
-        "isLocIntlAdherent"
+        "isPrivacyCompliant"
       ],
       "properties": {
         "isPrivacyCompliant": {
           "type": "string",
-          "description": "Does this project comply with all relevant privacy laws?",
+          "description": "Has this project taken steps to ensure adherence with relevant privacy, domestic, and international laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS) (yes/no)",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -150,7 +160,7 @@
         },
         "privacyComplianceList": {
           "type": "array",
-          "description": "List of relevant privacy laws project complies with",
+          "description": "If yes, please list some of relevant laws that the project complies with:",
           "items": {
             "anyOf": [
               {
@@ -159,19 +169,9 @@
             ]
           }
         },
-        "isLocIntlAdherent": {
-          "type": "string",
-          "description": "To the best of your knowledge does this project comply with all applicable international and domestic laws?",
-          "uniqueItems": true,
-          "enum": [
-            "Yes",
-            "No",
-            "Unknown"
-          ]
-        },
-        "locIntlComplianceList": {
+        "adherenceSteps": {
           "type": "array",
-          "description": "List of applicable international & domestic laws project complies with",
+          "description": "If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):",
           "items": {
             "anyOf": [
               {
@@ -192,7 +192,7 @@
       "properties": {
         "supportStandards": {
           "type": "string",
-          "description": "Does this project support standards i.e. w3c?",
+          "description": "Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)",
           "uniqueItems": true,
           "enum": [
             "Yes",
@@ -202,7 +202,7 @@
         },
         "standardsList": {
           "type": "array",
-          "description": "List of standards project supports",
+          "description": "Which standards does this project support (please list)",
           "items": {
             "anyOf": [
               {
@@ -213,7 +213,7 @@
         },
         "evidenceStandardSupport": {
           "type": "array",
-          "description": "Links to provide evidence of supporting standards",
+          "description": "Can you point to evidence of your support? (i.e. please link to your validator, open test suite, etc.)",
           "items": {
             "anyOf": [
               {
@@ -224,11 +224,11 @@
         },
         "implementBestPractices": {
           "type": "string",
-          "description": "Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles?"
+          "description": "Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles? i.e. the Principles for Digital Development?"
         },
         "bestPracticesList": {
           "type": "array",
-          "description": "List of principles and best practices this project supports",
+          "description": "Which principles and best practices does this project support (please list)",
           "items": {
             "anyOf": [
               {
@@ -241,10 +241,9 @@
     },
     "doNoHarm": {
       "type": "object",
-      "description": "9. Does the project do no harm?",
+      "description": "9. Does the project do no harm by design?",
       "required": [
         "preventHarm",
-        "privacyFreedom",
         "dataPrivacySecurity",
         "inappropriateIllegalContent",
         "protectionFromHarassment"
@@ -252,14 +251,14 @@
       "properties": {
         "preventHarm": {
           "type": "object",
-          "description": "Has this project taken steps to anticipate, prevent and do no harm?",
+          "description": "Has this project taken steps to anticipate, prevent and do no harm by design?",
           "required": [
             "stepsToPreventHarm"
           ],
           "properties": {
             "stepsToPreventHarm": {
               "type": "string",
-              "description": "On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm?",
+              "description": "On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm by design?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -269,59 +268,20 @@
             },
             "additionalInfoMechanismProcessesPolicies": {
               "type": "string",
-              "description": "Is there any additional information you would like to share about the mechanisms, processes or policies that this project uses to avoid doing harm?"
-            },
-            "additionalMitigationSteps": {
-              "type": "array",
-              "description": "Please describe any additional risks and mitigation steps that this project uses to prevent harm.",
-              "items": {
-                "anyOf": [
-                  {
-                    "type": "string"
-                  }
-                ]
-              }
-            }
-          }
-        },
-        "privacyFreedom": {
-          "type": "object",
-          "description": "Privacy and Freedom",
-          "required": [
-            "freedomOfExpressionRiskStrategy"
-          ],
-          "properties": {
-            "freedomOfExpressionRiskStrategy": {
-              "type": "string",
-              "description": "Does this project have strategies in place to anticipate, respond to and minimize adverse impacts on privacy and freedom of expression where governments or bad actors are believed to be using this projects’s products or services for illegitimate or political purposes",
-              "uniqueItems": true,
-              "enum": [
-                "Yes",
-                "No",
-                "Unknown"
-              ]
-            },
-            "freedomOfExpressionRiskStrategyDescrition": {
-              "type": "string",
-              "description": "Please describe"
+              "description": "Is there any additional information you would like to share about the mechanisms, processes or policies that this project uses to avoid doing harm by design?"
             }
           }
         },
         "dataPrivacySecurity": {
           "type": "object",
-          "description": "Data Privacy & Security",
+          "description": "9.a. Data Privacy & Security",
           "required": [
-            "collectsPII",
-            "typesOfDataCollected",
-            "thirdPartyDataSharing",
-            "dataSharingCircumstances",
-            "ensurePrivacySecurity",
-            "privacySecurityDescription"
+            "collectsPII"
           ],
           "properties": {
             "collectsPII": {
               "type": "string",
-              "description": "Does this project collect or store personally identifiable data?",
+              "description": "Does this project collect or store personally identifiable information (PII) data and/or content?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -331,7 +291,7 @@
             },
             "typesOfDataCollected": {
               "type": "array",
-              "description": "If yes - Please list the types of data collected and/or stored by the project",
+              "description": "If yes - please list the types of data and/or content collected and/or stored by the project:",
               "items": {
                 "anyOf": [
                   {
@@ -342,7 +302,7 @@
             },
             "thirdPartyDataSharing": {
               "type": "string",
-              "description": "If yes - Does this project share this data with third parties?",
+              "description": "If yes - does this project share this data and/or content with third parties?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -352,7 +312,7 @@
             },
             "dataSharingCircumstances": {
               "type": "array",
-              "description": "Please describe the circumstances with which this project shares data with third parties. Please add links as relevant",
+              "description": "Please describe the circumstances with which this project shares data and/or content with third parties. Please add links as relevant.",
               "items": {
                 "anyOf": [
                   {
@@ -363,7 +323,7 @@
             },
             "ensurePrivacySecurity": {
               "type": "string",
-              "description": "If yes - Does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from it's collection, storage and distribution",
+              "description": "If yes - does the project ensure the privacy, security and integrity of this data and/or content collection and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -373,13 +333,13 @@
             },
             "privacySecurityDescription": {
               "type": "string",
-              "description": "Please describe"
+              "description": "If yes - please describe the steps, and include a link to the privacy policy and/or terms of service:"
             }
           }
         },
         "inappropriateIllegalContent": {
           "type": "object",
-          "description": "Inappropriate/Illegal Content",
+          "description": "9.b. Inappropriate & Illegal Content",
           "required": [
             "collectStoreDistribute"
           ],
@@ -396,11 +356,11 @@
             },
             "type": {
               "contentType": "string",
-              "description": "If yes - please describe the nature of the content (i.e. childrens books)"
+              "description": "If yes - what kinds of content does this project, collect, store or distribute? (i.e. childrens books)"
             },
             "contentFilter": {
               "type": "string",
-              "description": "If yes - does this project have policies that describes what is considered innappropriate content i.e. child sexual abuse materials?",
+              "description": "If yes - does this project have policies that describe what is considered innappropriate content? (i.e. child sexual abuse materials)",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -411,11 +371,11 @@
             },
             "policyGuidelinesDocumentationLink": {
               "type": "string",
-              "description": "Please link to the relevant policy/guidelines/documentation."
+              "description": "If yes - please link to the relevant policy/guidelines/documentation."
             },
             "illegalContentDetection": {
               "type": "string",
-              "description": "If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?",
+              "description": "If yes - does this project have policies and processes for detecting and moderating innappropriate/illegal content?",
               "uniqueItems": true,
               "enum": [
                 "Yes",
@@ -426,13 +386,13 @@
             },
             "illegalContentDetectionMechanism": {
               "type": "string",
-              "description": "If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (include average response time if known)?"
+              "description": "If yes - please describe the policies and processes for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):"
             }
           }
         },
         "protectionFromHarassment": {
           "type": "object",
-          "description": "Protection from harassment",
+          "description": "9.c. Protection from harassment",
           "required": [
             "userInteraction"
           ],
@@ -460,7 +420,7 @@
             },
             "stepsAddressRiskPreventSafetyUnderageUsers": {
               "type": "array",
-              "description": "If yes - please describe the steps this project takes to address risk or prevent access by underage users.",
+              "description": "If yes - please describe the steps this project takes to address risk or prevent access by underage users:",
               "items": {
                 "anyOf": [
                   {
@@ -482,7 +442,7 @@
             },
             "harassmentProtectionSteps": {
               "type": "array",
-              "description": "If yes - please describe the steps taken to help users protect users and contributors.",
+              "description": "If yes - please describe the steps taken to help users protect themselves.",
               "items": {
                 "anyOf": [
                   {
@@ -499,11 +459,11 @@
       "type": "object",
       "description": "Development & deployment countries",
       "required": [
-        "developmentCounties",
+        "developmentCountries",
         "deploymentCountries"
       ],
       "properties": {
-        "developmentCounties": {
+        "developmentCountries": {
           "type": "array",
           "description": "List of countries this project was developed in.",
           "items": {

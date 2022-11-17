@@ -30,13 +30,20 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/primeroIMS/primero",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/primeroIMS/primero"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",
       "website": "https://unicef.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Robert MacTavish",
+      "contact_email": "rmactavish@unicef.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

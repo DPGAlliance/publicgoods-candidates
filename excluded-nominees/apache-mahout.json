@@ -1,0 +1,29 @@
+{
+  "name": "Apache Mahout",
+  "description": "Apache Mahout is used to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra.",
+  "website": "https://mahout.apache.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/apache/mahout/blob/trunk/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceURL": "https://www.opensourceforu.com/2018/09/why-the-apache-mahout-framework-is-so-popular/"
+    }
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/apache/mahout",
+  "organizations": [
+    {
+      "name": "The Apache Software Foundation",
+      "website": "https://www.apache.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -3,7 +3,7 @@
   "aliases": [
     "SORMAS"
   ],
-  "description": "An open source eHealth system - consisting of separate web and mobile apps - that is geared towards optimizing the processes used in monitoring the spread of infectious diseases and responding to outbreak situations.",
+  "description": "SORMAS is an open source mobile and web-based eHealth software for organizing and facilitating disease control, outbreak management procedures, disease surveillance, and epidemiological analysis for all administrative levels of the public health system. SORMAS aims to improve prevention, early detection and control of communicable diseases. SORMAS adheres to the highest data protection standards, good scientific practice, and open access policy.",
   "website": "https://www.sormas.org",
   "license": [
     {
@@ -13,13 +13,9 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 3
-    },
-    {
-      "SDGNumber": 16
-    },
-    {
-      "SDGNumber": 17
+      "SDGNumber": 3,
+      "evidenceText": "Digital health is a dynamic field that has been generating a large number of tools; many of these tools do not have the level of maturity required to function in a sustainable model. It is in this context that the concept of global goods maturity is gaining importance. Digital Square developed a global good maturity model (GGMM) for digital health tools, which engages the digital health community to identify areas of investment for global goods. The Surveillance Outbreak Response Management and Analysis System (SORMAS) is an open-source mobile and web application software that we developed to enable health workers to notify health departments about new cases of epidemic-prone diseases, detect outbreaks, and simultaneously manage outbreak response.",
+      "evidenceURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7221633/"
     }
   ],
   "sectors": [
@@ -28,13 +24,20 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hzi-braunschweig/SORMAS-Project",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hzi-braunschweig/SORMAS-Project"
+    }
+  ],
   "organizations": [
     {
       "name": "Helmholtz Centre for Infection Research",
       "website": "https://www.helmholtz-hzi.de/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Dörrbecker, Juliane",
+      "contact_email": "juliane.doerrbecker@helmholtz-hzi.de"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

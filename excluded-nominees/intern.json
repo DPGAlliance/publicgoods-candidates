@@ -1,0 +1,41 @@
+{
+  "name": "Intern",
+  "aliases": [
+    ""
+  ],
+  "description": "Intern is a complete test system for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications. It can be used to test any JavaScript code.",
+  "website": "https://theintern.io/",
+  "license": [
+    {
+      "spdx": "BSD-3-Clause",
+      "licenseURL": "https://github.com/theintern/intern/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "Comprehensive testing is a mainstay in effective development organizations. Ten years ago, fragmented testing processes were causing painful inefficiencies at SitePen and in the greater developer community.",
+      "evidenceURL": "https://www.sitepen.com/open-source/intern"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "You bet! No matter what library or framework your application uses, client–side and server–side, you can test it with Intern! Check out our example projects to see how simple it is to get Intern up and running with many popular JavaScript libraries.",
+      "evidenceURL": "https://theintern.io/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/theintern/intern",
+  "organizations": [
+    {
+      "name": "Sitepen",
+      "website": "https://www.sitepen.com/",
+      "org_type": "owner",
+      "contact_name": "Nick Nisi",
+      "contact_email": "nick@nisi.org"
+    }
+  ],
+  "stage": "nominee"
+}

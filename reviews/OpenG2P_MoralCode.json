@@ -1,0 +1,74 @@
+{
+  "license": {
+    "answer": false,
+    "comment": "Link points to github org containing many repos with various licenses. Mostly GPL3, some AGPL3, and some with no license",
+    "confidence": "2"
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "Project is related to making financial transactions but doesnt seem to directly help  those in poverty improve their wealth",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": false,
+    "comment": "support for this goal seems very indirect. description doesnt even mention food",
+    "confidence": "4"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "support for this goal seems very indirect. description doesnt even mention health and seems to just focus on providing the means of transferring money and related financial goals",
+    "confidence": "4"
+  },
+  "SDG[3]": {
+    "answer": false,
+    "comment": "support for this goal seems very indirect. description mentions education but only in a list of examples of where this might be used",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "support for this goal seems very indirect. description mentions \"for women\" but only in a list of examples of where their financial tech may be used",
+    "confidence": "4"
+  },
+  "SDG[5]": {
+    "answer": false,
+    "comment": "support for this goal seems very indirect. description doesnt mention clean water at all",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": false,
+    "comment": "support for this goal seems very indirect. description doesnt mention energy at all",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": false,
+    "comment": "Project is related to finance but seems to be merely a means of transferring money and doesnt work towards workers rights, equal pay, or improving an economy as a whole",
+    "confidence": "4"
+  },
+  "SDG[8]": {
+    "answer": false,
+    "comment": "Project is merely a means of transferring money and doesnt seem to specify any measures taken to ensure equality ",
+    "confidence": "4"
+  },
+  "SDG[9]": {
+    "answer": false,
+    "comment": "no mention of partnerships in description",
+    "confidence": "4"
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "contains instructions for running the project, have not personally followed the instructions",
+    "confidence": "4"
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "description describes CSV export",
+    "confidence": "4"
+  },
+  "user": "MoralCode",
+  "timestamp": 1614784591
+}

@@ -1,39 +1,51 @@
 {
   "name": "VIPS",
-  "description": "Open platform for automatic pest prediction created by NIBIO, Norway",
-  "website": "https://nibio.no/vips",
+  "description": "Open platform for automatic pest prediction in agriculture created by NIBIO, Norway",
+  "website": "https://nibio.no/en/services/vips",
   "license": [
     {
       "spdx": "AGPL-3.0",
-      "licenseURL": "https://nibio.no/licenses"
-    },
-    {
-      "spdx": "NLOD-1.0",
-      "licenseURL": "https://nibio.no/licenses"
+      "licenseURL": "https://nibio.no/en/about-eng/software-licenses-and-agreements"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 2
+      "SDGNumber": 2,
+      "evidenceText": "The aim of the software is to reduce the use of pesticides in agriculture without reducing agricultural yield. This provides a better economy for the farmer, less pesticides in the environment and less exposure to pesticides for the consumers. Since many of the algorithms are weather based, it also helps adaptation of agricultural practices in a changing climate.",
+      "evidenceURL": "https://nibio.no/en/news/nibio-innovation-alerts-farmers-of-agriculture-pests-in-africa-india-and-china"
     },
     {
-      "SDGNumber": 13
+      "SDGNumber": 13,
+      "evidenceText": "The aim of the software is to reduce the use of pesticides in agriculture without reducing agricultural yield. This provides a better economy for the farmer, less pesticides in the environment and less exposure to pesticides for the consumers. Since many of the algorithms are weather based, it also helps adaptation of agricultural practices in a changing climate.",
+      "evidenceURL": "https://nibio.no/en/news/nibio-innovation-alerts-farmers-of-agriculture-pests-in-africa-india-and-china"
     },
     {
-      "SDGNumber": 15
+      "SDGNumber": 15,
+      "evidenceText": "The aim of the software is to reduce the use of pesticides in agriculture without reducing agricultural yield. This provides a better economy for the farmer, less pesticides in the environment and less exposure to pesticides for the consumers. Since many of the algorithms are weather based, it also helps adaptation of agricultural practices in a changing climate.",
+      "evidenceURL": "https://nibio.no/en/news/nibio-innovation-alerts-farmers-of-agriculture-pests-in-africa-india-and-china"
     }
   ],
-  "sectors": [],
+  "sectors": [
+    "Agriculture",
+    "Climate"
+  ],
   "type": [
-    "software",
-    "data"
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://gitlab.nibio.no/VIPS"
+    }
   ],
   "organizations": [
     {
-      "name": "Ushaidi",
-      "website": "https://www.ushahidi.com/",
-      "org_type": "owner"
+      "name": "NIBIO",
+      "website": "https://nibio.no",
+      "org_type": "owner",
+      "contact_name": "Tor-Einar Skog",
+      "contact_email": "tor-einar.skog@nibio.no"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

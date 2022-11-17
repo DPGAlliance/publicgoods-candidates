@@ -1,0 +1,106 @@
+{
+  "name": "EduNOSS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.aiti-kace.com.gh/noss"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "General description of Nyansapo OS: https://www.aiti-kace.com.gh/noss",
+      "General description of EduNOSS: https://www.aiti-kace.com.gh/edunos",
+      "Downloading of the EduNOSS ISO: https://repos.nos.aiti-kace.com.gh/EduNOSS-2.0-amd64-DVD-1.iso",
+      "License information: https://repos.nos.aiti-kace.com.gh/gpl2.html"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Ghana’s 1992 Constitution",
+      "EduNOSS Privacy Policy"
+    ],
+    "adherenceSteps": [
+      "1992 Constitution: the product and use is completely free for all Ghanaians for their well-being without any limitations. We have also mandated the use of user passwords to ensure privacy of individual data protection.",
+      "EduNOSS Privacy Policy. The EduNOSS Project is a volunteer association of individuals who have made common cause to create a free operating system, referred to as EduNOSS. There is no requirement for anyone who wishes to use EduNOSS to provide the project with any personal information; it is freely downloadable without registration or other form of identification from official mirror run by the project.",
+      "Various other aspects of interacting with the EduNOSS Project will, however, involve the collection of personal information. This is primarily in the form of names and email addresses in emails received by the project; all EduNOSS mailing lists will be publicly archived, as are all interactions with the bugtracking system. We do not perform further processing on any of the information we hold, but there are instances where it the project bug tracking team.",
+      "Questions about these services are best directed in the first instance to the service owner. If it's unclear who that is then you can contact the Data Protection team at noss@aiti-kace.com.gh, who will attempt to direct your enquiry to the right team."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Unified Extensible Firmware Interface (UEFI) specification",
+      "The Linux Standard Base (LSB)",
+      "Filesystem Hierarchy Standard (FHS)",
+      "GNU Coding Standards",
+      "Portable Operating System Interface (POSIX)"
+    ],
+    "evidenceStandardSupport": [
+      "Its our strong believe that once the standards and principles are made known to the general public we will be enjoined to adhere them."
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "Principle of Transparency. With respect the EduNOSS project we are ready to share all the information used in the developement of the Operating system. We believe that when we all have access to the information and materials necessary for doing our best work. And when these materials are accessible, we can build upon each other's ideas and discoveries. We can make more effective decisions and understand how improve EduNOSS for the benefit of humanity.",
+      "Principle of Collaboration. When everyone is free to participate, we can enhance each other's work in unanticipated ways. When we can modify what others have shared, we unlock new possibilities. By initiating new projects together, we can solve problems that no one can solve alone. And when we implement open standards, we enable others to contribute in the future.",
+      "Principle of Early Release and Often. Rapid prototypes can lead to rapid discoveries. An iterative approach leads to better solutions faster. The EduNOSS team believe that when you are free to experiment, you can look at problems in new ways and seek answers in new places. You can learn by doing.",
+      "Inclusive Principle of Meritocracy. The EduNOSS project believes good ideas can come from anywhere, and the best ideas should win. Only by including diverse perspectives in our conversations can we be certain we have identified the best ideas, and decision-makers continually seek those perspectives. We may not operate by consensus, but successful work determines which projects gather support and effort from the community.",
+      "Community. Communities form when different people unite around a common purpose. Shared values guide decision making, and community goals supersede individual interests and agendas."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The EduNOSS project do not anticipate any harm the product intend to cause users. However, in the event something unexpected happens in the use of the product, the user is expected to report immediately to the project team through noss@aiti-kace.com.gh for possible redress."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "EduNOSS is built on the linux kernel and hence offers some of the the security features out of the box: user accounts, file permissions, data verification, encrypted storage, system recovery, monitoring and audit facilities, the system firewall"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "No",
+      "illegalContentDetectionMechanism": "The project is not intended to collect data from people. However, all software products and contents if any, will be cleared by both the Project Management Team and the Ministry of Education, Ghana since the product is intended to be used in schools."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "All protection from harassment issues will be handled by both Project Management Team and The Ministry of Education, Ghana since the product is intended to be used in schools."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "All protection from harassment issues will be handled by both Project Management Team and The Ministry of Education, Ghana since the product is intended to be used in schools."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Open COVID-19 Dataset",
+  "description": "A location for summaries and analyses of data related to n-CoV 2019. Referenced in a White House press briefing as the \"Chris Murray Model.\"",
+  "website": "https://covid19.healthdata.org/united-states-of-america",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/beoutbreakprepared/nCoV2019/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    }
+  ],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/beoutbreakprepared/nCoV2019"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Institute for Health Metrics and Evaluation, University of Washington",
+      "org_type": "owner",
+      "contact_email": "pigottdm@uw.edu"
+    }
+  ],
+  "stage": "nominee"
+}

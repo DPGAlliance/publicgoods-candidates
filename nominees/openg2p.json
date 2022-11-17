@@ -1,0 +1,73 @@
+{
+  "name": "OpenG2P",
+  "description": "OpenG2P stands for open government to person payments, and provides the tools needed to digitize large scale cash transfers with open source building blocks.",
+  "website": "https://openg2p.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openg2p"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/OpenG2P/openg2p-erp"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Government of Sierra Leone",
+      "website": "https://www.dsti.gov.sl",
+      "org_type": "owner",
+      "contact_name": "Salton Massally",
+      "contact_email": "salton.massally@gmail.com"
+    }
+  ],
+  "stage": "DPG"
+}

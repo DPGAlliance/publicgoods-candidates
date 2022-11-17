@@ -1,0 +1,53 @@
+{
+  "name": "Oky",
+  "description": "Oky is the world's first mobile phone period tracker app designed for and with adolescent girls.",
+  "website": "https://okyapp.info/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/alextyers/period-tracker-app-whitelabelled/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://docs.google.com/document/d/15OngEE5xjxSF5hWezCPHTssApHhG4DFZ2EcMadl0EPA/edit"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.unicef.org/innovation/stories/oky-co-created-girls-girls"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceURL": "https://www.unicef.org/innovation/stories/oky-co-created-girls-girls \n https://unicef.libsyn.com/unicef-gbvie-podcast-episode-13-introducing-unicefs-oky-periodd-tracker-app-for-girls-by-girls"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://www.ft.com/content/a7a79e1e-f630-11e9-bbe1-4db3476c5ff0 \n https://www.forbes.com/sites/unicefusa/2020/02/13/unicef-and-duke-to-accelerate-6-solutions-for-better-menstrual-hygiene/#3e63d09f4f5e"
+    }
+  ],
+  "sectors": [
+    "Gender and Minority Groups",
+    "Water and Sanitation"
+  ],
+  "type": [
+    "software",
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/alextyers/period-tracker-app-whitelabelled"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://www.unicef.org/",
+      "org_type": "owner",
+      "contact_name": "Gerda Binder",
+      "contact_email": "gbinder@unicef.org"
+    }
+  ],
+  "stage": "DPG"
+}

@@ -1,6 +1,6 @@
 {
   "name": "X-Road",
-  "description": "A free and open-source data exchange layer solution that enables organizations to exchange information securely over the Internet.",
+  "description": "X-Road is open-source software and ecosystem solution that provides unified and secure data exchange between organisations.",
   "website": "https://x-road.global/",
   "license": [
     {
@@ -10,23 +10,64 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 16
+      "SDGNumber": 1,
+      "evidenceText": "In order to ensure more universal and affordable access to digital services for the population of developing countries, X-Road has been introduced in multiple projects around the world. X-Road is open-source software and it provides developing countries with a national data exchange infrastructure without licensing fees. By implementing X-Road, countries avoid a vendor lock-in situation and get multiple channels for support, including a global community of users.",
+      "evidenceURL": "https://x-road.global/sustainability"
     },
     {
-      "SDGNumber": 17
+      "SDGNumber": 3,
+      "evidenceText": "Different healthcare platforms can be connected securely with X-Road which enables data exchange between private and public service providers. All the evidence regarding the data exchange is stored locally by the data exchange parties, and no third parties have access to the data. Steps are being taken to introduce X-Road on a global basis, to allow either the World Health Organization (WHO) or its member states to set up various cross-border services to help the global community emerge faster from the COVID-19 health and economic crisis.",
+      "evidenceURL": "https://x-road.global/sustainability"
+    },
+    {
+      "SDGNumber": 7,
+      "evidenceText": "Energy efficiency, renewables and consumer centricity figure among the lines of action to boost the transition towards cleaner energy systems – ways of producing, delivering and consuming energy in a more sustainable way. The deployment of information technology has a significant impact on the feasibility of contemporary policy actions. X-Road is helping electricity grid operators by harmonising access to energy data. By simplifying access to data lets them focus on the solutions to achieve energy and climate goals.",
+      "evidenceURL": "https://x-road.global/sustainability"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "X-Road enables reduction of administrative burdens by the implementation of the Once-Only Principle (TOOP). Streamlined administrative processes support economic growth and enable providing better services for the citizens. For example, in Estonia, X-Road saved 1,134 working years during the previous calendar year. X-Road helps a country to become a hassle-free environment for business and entrepreneurship, which also attracts foreign investments.",
+      "evidenceURL": "https://x-road.global/sustainability"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "X-Road provides national core digital infrastructure for data exchange between organizations across administration sectors and business domains. Typically, the ecosystem is open for all kinds of organizations – both public and private sector organizations. Besides, X-Road can be used to implement cross-border data exchange with other countries. X-Road enables allocating resources for building digital services and fostering innovation, instead of integrating services point-to-point.",
+      "evidenceURL": "https://x-road.global/sustainability"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "The use of digital services reduces the need to travel between different locations which reduces traffic in the cities. When travelling is needed, digital services provide information about different transportation and route alternatives and may prioritise the most environmentally friendly alternatives. X-Road is a crucial enabler that’s needed to make numerous information systems to communicate with each other. By establishing or joining an X-Road environment, cities and municipalities can request up-to-date information from relevant public registers and increase their effectiveness.",
+      "evidenceURL": "https://x-road.global/sustainability"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The Nordic Institute for Interoperability Solutions (NIIS) aims to develop X-Road the most sustainable data exchange solution in the world. NIIS is starting a project to improve the environmental footprint of the organisation, its procurements and development processes. In the end, the project should produce recommendations for improving the sustainability of X-Road as a product and advancing the sustainable use of X-Road when it comes to the energy consumption of an X-Road environment and the physical hardware components required to operate that.",
+      "evidenceURL": "https://x-road.global/sustainability"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "X-Road is a solution to fight against corruption and helps in building trust towards institutions. X-Road provides log records of each message sent between X-Road ecosystem member organisations. The log records provide undeniable evidence of a transaction, and they could be used in process automation to reduce manual work, increase the level of automation in various processes and make things easier for both users of different information systems and citizens. X-Road also provides many features that are required from MyData platform technology.",
+      "evidenceURL": "https://x-road.global/sustainability"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/nordic-institute/X-Road",
-  "organizations": [
+  "repositories": [
     {
-      "name": "Nordic Institute for Interoperability Solutions",
-      "website": "https://www.niis.org/",
-      "org_type": "owner"
+      "name": "main",
+      "url": "https://github.com/nordic-institute/X-Road"
     }
   ],
-  "stage": "nominee"
+  "organizations": [
+    {
+      "name": "Nordic Institute for Interoperability Solutions (NIIS)",
+      "website": "https://www.niis.org/",
+      "org_type": "owner",
+      "contact_name": "Ville Sirviö",
+      "contact_email": "ville.sirvio@niis.org"
+    }
+  ],
+  "stage": "DPG"
 }

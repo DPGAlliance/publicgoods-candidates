@@ -1,0 +1,103 @@
+{
+  "name": "RapidPro",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/rapidpro/rapidpro#license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Technical documentation: https://rapidpro.github.io/rapidpro/docs/",
+      "API Explorer: https://rapidpro.io/api/v2/explorer/",
+      "FAQs: https://community.rapidpro.io/faqs-1/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "RapidPro has an extensive API and raw data export (via CSV, JSON) that enables an authorized user or service to extract/access data stored within the platform."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "UNICEF RapidPro is aligned to the the General Data Protection Regulation (GDPR). RapidPro is designed to be interoperable with external systems and deployed in any hosted environment. This allows governments and organisations to either deploy RapidPro locally so that data is kept internal, or integrating RapidPro with a preferred system for storing information."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST",
+      "JSON",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://rapidpro.github.io/rapidpro/docs/components/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "UNICEF recommends the cloud hosting option, this is the most cost effective, reliable, and secure option. Technically, the global LTA vendor and hosting provider could access the data, but they are contractually bound by the Data Protection Provision to refrain from viewing or copying any CO data without consent. \n https://docs.google.com/document/d/1kmFgABHgksd8cSbZ743M7_wFA0cWahbJ2glp1kMeLF8/edit#heading=h.nj3bw1n0zk2q"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Data collected by RapidPro may or may not include PII depending on the use case being deployed. \nThe only data required to operate the platform is a unique identifier specific to the communication channel being used (e.g SMS, WhatsApp, Telegram). However, these unique identifiers are not necessarily PII."
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "Data collected by RapidPro may or may not include PII depending on the use case being deployed. \n\nThe only data required to operate the platform is a unique identifier specific to the communication channel being used (e.g SMS, WhatsApp, Telegram). However, these unique identifiers are not necessarily PII."
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "User information will never be publicly available and the option exists to hide contact information on RapidPro. Unfortunately, there is no such thing as true data protection, even when data is locally stored and hosted in a country. However, UNICEF RapidPro has worked hard to ensure that the cloud hosting is very secure, and one of the benefits of cloud hosting is automatic data and security upgrades and patches."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Rwanda",
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Bangladesh",
+      "India",
+      "Jordan",
+      "Malawi",
+      "Nepal",
+      "Pakistan",
+      "Palestine State",
+      "Sudan",
+      "Eswatini (fmr. 'Swaziland')",
+      "Uganda",
+      "Zimbabwe"
+    ]
+  }
+}
