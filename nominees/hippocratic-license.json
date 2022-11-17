@@ -1,5 +1,8 @@
 {
   "name": "Hippocratic License",
+  "aliases": [
+    ""
+  ],
   "description": "An open source license designed to prevent human rights abuses.",
   "website": "https://firstdonoharm.dev",
   "license": [
@@ -31,7 +34,6 @@
     "software",
     "content"
   ],
-  "repositoryURL": "https://github.com/EthicalSource/hippocratic-license",
   "organizations": [
     {
       "name": "Ethical Source Movement",
