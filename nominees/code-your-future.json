@@ -4,7 +4,7 @@
     ""
   ],
   "description": "A free collaboratively developed open source 8 month web development programme.",
-  "website": "https://codeyourfuture.io/",
+  "website": "https://syllabus.codeyourfuture.io/",
   "license": [
     {
       "spdx": "CC-BY-SA-4.0",
@@ -24,8 +24,12 @@
   ],
   "repositories": [
     {
-      "name": "syllabus",
-      "url": "https://syllabus.codeyourfuture.io/"
+      "name": "Main content",
+      "url": "https://syllabus.codeyourfuture.io/Overview"
+    },
+    {
+      "name": "Code + content repo",
+      "url": "https://github.com/CodeYourFuture/syllabus"
     }
   ],
   "organizations": [
