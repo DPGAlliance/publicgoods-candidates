@@ -12,8 +12,9 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://github.com/MSH/Pharmadex2",
-      "Deployment guide - https://raw.githubusercontent.com/MSH/Pharmadex2/main/documentation/MTaPS%20Pharmadex%202%20-%20Deployment%20Guide.pdf"
+      "https://github.com/MSH/OpenRIMS",
+      "https://wiki.openrims.org/index.php/Main_Page",
+      "Deployment guide - https://raw.githubusercontent.com/MSH/OpenRIMS/main/documentation/MTaPS%20Pharmadex%202%20-%20Deployment%20Guide.pdf"
     ]
   },
   "NonPII": {
@@ -27,8 +28,8 @@
       "We comply with eHealth policies in the deployment countries too"
     ],
     "adherenceSteps": [
-      "Privacy policy - https://github.com/MSH/Pharmadex2/blob/main/privacyandterms/privacypolicy.pdf",
-      "Terms of Use - https://github.com/MSH/Pharmadex2/blob/main/privacyandterms/termsofuse.pdf"
+      "Privacy policy - https://github.com/MSH/OpenRIMS/blob/main/privacyandterms/privacypolicy.pdf",
+      "Terms of Use - https://github.com/MSH/OpenRIMS/blob/main/privacyandterms/termsofuse.pdf"
     ]
   },
   "standards": {
@@ -37,7 +38,7 @@
       "Anatomical, Therapeutical and Chemical index, International Non-proprietary Name"
     ],
     "evidenceStandardSupport": [
-      "https://pharmadex2.msh.org"
+      "https://openrims.msh.org/landing"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -59,7 +60,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://github.com/MSH/Pharmadex2/blob/main/privacyandterms/privacypolicy.pdf"
+      "privacySecurityDescription": "https://github.com/MSH/OpenRIMS/blob/main/privacyandterms/privacypolicy.pdf"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
