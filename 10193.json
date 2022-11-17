@@ -1,0 +1,138 @@
+	{
+    "id": "10193",
+    "name": "Digital Public Good",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "DPG"
+    ],
+    "categories": [
+        "Open AI Model",
+        "Open Content",
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "Digital public goods are open-source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable laws and best practices, do no harm by design, and help attain the Sustainable Development Goals (SDGs). ",
+    "website": "https://digitalpublicgoods.net/digital-public-goods/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://digitalpublicgoods.net/digital-public-goods/"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "Digital public goods are open-source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable laws and best practices, do no harm by design, and help attain the Sustainable Development Goals (SDGs)."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://digitalpublicgoods.net/digital-public-goods/"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Digital Public Goods Alliance",
+            "clearOwnershipURL": "The Digital Public Goods Alliance (DPGA) is a multi-stakeholder initiative that brings together a diverse set of stakeholders that unite around a common vision, strategic objectives, definition, and standard for DPGs.\r\n\r\nThe DPGA is not a legal entity, but an initiative jointly supported by the current co-hosting entities, the Norwegian Agency for Development Cooperation (Norad), UNDP, and UNICEF, who ensure that the DPGA is adequately staffed and resourced. On this page you can find information about roles and responsibilities and other governing layers of the DPGA. "
+        }
+    ],
+    "documentation": "The DPG Standard establishes a baseline that must be met in order to earn recognition as a digital public good by the Digital Public Goods Alliance (DPGA) and the broader community. The DPG Standard is an open project and therefore open to contribution. The DPGA supports the 5 Core Principles of OpenStand in the development of the DPG Standard. We invite anyone who uses and benefits from the DPG Standard to join our growing list of endorsers.\r\n\r\n- https://github.com/DPGAlliance/DPG-Standard\r\n- https://digitalpublicgoods.net/standard/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software",
+        " open data",
+        " open AI models",
+        " open standards",
+        " and open content that adhere to privacy and other applicable best practices",
+        " do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n"
+    ],
+    "bestPractices": [
+        "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software",
+        " open data",
+        " open AI models",
+        " open standards",
+        " and open content that adhere to privacy and other applicable best practices",
+        " do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "India",
+            "Mexico",
+            "Norway",
+            "Uganda"
+        ],
+        "deploymentCountries": [
+            "Austria",
+            "Germany",
+            "United Kingdom"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children",
+        "United Nations Development Programme",
+        "United Nations Headquarters (New York City)"
+    ],
+    "deploymentCountriesDepartments": [
+        "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software",
+        " open data",
+        " open AI models",
+        " open standards",
+        " and open content that adhere to privacy and other applicable best practices",
+        " do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software",
+        " open data",
+        " open AI models",
+        " open standards",
+        " and open content that adhere to privacy and other applicable best practices",
+        " do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n"
+    ],
+    "awardsReceived": [
+        "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software",
+        " open data",
+        " open AI models",
+        " open standards",
+        " and open content that adhere to privacy and other applicable best practices",
+        " do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Digital Public Good",
+            "website": "https://digitalpublicgoods.net/digital-public-goods/",
+            "org_type": "owner",
+            "contact_name": " Ricardo Miron  ",
+            "contact_email": "ricardomirontorres@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable best practices, do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n",
+            "privacyComplianceURL": "The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good: open-source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable best practices, do no harm by design and are of high relevance for attainment of the United Nations 2030 Sustainable Development Goals (SDGs). This definition stems from the UN Secretary-General\u2019s Roadmap for Digital Cooperation.\r\n\r\n"
+        }
+    ]
+}
