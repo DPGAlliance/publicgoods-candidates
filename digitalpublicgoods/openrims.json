@@ -1,0 +1,95 @@
+{
+  "name": "OpenRIMS",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.openrims.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/MSH/Pharmadex2",
+      "Deployment guide - https://raw.githubusercontent.com/MSH/Pharmadex2/main/documentation/MTaPS%20Pharmadex%202%20-%20Deployment%20Guide.pdf"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The system uses REST API"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "We comply with eHealth policies in the deployment countries too"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://github.com/MSH/Pharmadex2/blob/main/privacyandterms/privacypolicy.pdf",
+      "Terms of Use - https://github.com/MSH/Pharmadex2/blob/main/privacyandterms/termsofuse.pdf"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Anatomical, Therapeutical and Chemical index, International Non-proprietary Name"
+    ],
+    "evidenceStandardSupport": [
+      "https://pharmadex2.msh.org"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Be Collaborative, Reuse and Improve, Design for scale, Understand the Existing Ecosystem, Build for Sustainability, Use Open Standards, Open Data, Open Source, and Open Innovation, Design with the user, Be Data Driven"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "For enhanced security we apply SSL, conduct penetration testing. Additional steps are detailed in the Policy and Terms of Use: https://github.com/MSH/Pharmadex2/tree/main/privacyandterms."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Pharmaceutical Company basic information like location; User profile information"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://github.com/MSH/Pharmadex2/blob/main/privacyandterms/privacypolicy.pdf"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Mozambique"
+    ],
+    "deploymentCountries": [
+      "Bangladesh",
+      "Mozambique",
+      "Nepal",
+      "Madagascar"
+    ]
+  }
+}
