@@ -78,7 +78,7 @@ Below are some of the common best practices and principles implemented by severa
 * [Google Open Source](https://opensource.google/docs/)
 * [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/)
 
-#### Best practices to help secure your IT resources:
+#### Best practices to help secure your IT resources
 * Create strong passwords for username/ password authentication
 * Enable Multi-factor authentication (MFA)
 * Enable resource access authorization i.e. access control rights/ permissions
@@ -86,5 +86,5 @@ Below are some of the common best practices and principles implemented by severa
 * Protect data at rest (data encryption, using a firewall, antivirus protection, schedule backups)
 * Protect data in transit (encrypt data in transit using TLS/SSL, authenticate data integrity using TLS/SSL, use X.509 certificates to authenticate the remote end)
 
-#### Data Principles:
+#### Data Principles
 * [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
