@@ -1,0 +1,99 @@
+{
+  "name": "FarmStack",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.farmstack.co/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/digitalgreenorg/farmstack-open"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Because it is used in different jurisdictions, for example the US, India, Ethiopia and Kenya, it is necessary to set standards based on the geography. In India, the software provides the consent manager containerised application (under development) which can be configured for each project as per the need. This is built using open techno-legal standard Data empowerment and Protection Architecture (DEPA). The software also complies with the draft personal data protection bill, 2018. The software complies with GDPR wherever applicable for data exchange, most importantly it provides a means to enforce purpose limitation, time limitation and to an extent storage limitation (on consumer side). The software also complies with ECOWAS."
+    ],
+    "adherenceSteps": [
+      ""
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Semantic web: RDF/ OWL, SPARQL, SHACL, JSON LD",
+      "Security: OAuth2.0 Authorization server Metadata (RFC8414), JWT Bearer token type (RFC7521), X.509 (ITU standard), TLS (RFC 8446)",
+      "Web applications: HTTP, REST, XMLHTTPRequest, HTML, CSS",
+      "WOFF"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/digitalgreenorg/farmstack-open",
+      "https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Components/IdentityProvider/DAPS/README.md",
+      "https://international-data-spaces-association.github.io/InformationModel/docs/index.html",
+      "https://github.com/International-Data-Spaces-Association/IDS-G"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Using open standards (ISDA) and building open source"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Data sharing networks are orchestrated by stewards who set policies in their respective jurisdictions. The steward will typically be a gov't org. The steward sets the policies, certifies connectors, and has the ability to audit and decertify connectors if the owner violates the established policies or agreements."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Data is not collected and stored by our solution."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "India"
+    ],
+    "deploymentCountries": [
+      "India",
+      "Ethiopia",
+      "United States of America"
+    ]
+  }
+}

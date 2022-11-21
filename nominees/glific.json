@@ -43,7 +43,9 @@
     {
       "name": "Project Tech4Dev",
       "website": "https://tech4dev.com/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Donald Lobo",
+      "contact_email": "lobo@chintugudiya.org"
     }
   ],
   "stage": "DPG"
