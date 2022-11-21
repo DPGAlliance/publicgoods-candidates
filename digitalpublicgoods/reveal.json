@@ -1,0 +1,113 @@
+{
+  "name": "Reveal",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://drive.google.com/file/d/1LnZHUjZwcL3Uo6gGI2p12ZRqNDI_AA9v/view?usp=sharing"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://drive.google.com/file/d/1LYG0iCbEFLaXTFvbO-0jHx3ZlQhA6NL9/view",
+      "https://drive.google.com/file/d/17Upr2SehHAWwsxX-Adn5fbzmLgPu90Hu/view",
+      "https://drive.google.com/file/d/1zdcIJWJa1NTloMZuAEuS6TYsuR16uF0s/view",
+      "https://drive.google.com/file/d/14Fs_BxS-y-KaH_1wzSpQL2u_Lg44S_E9/view",
+      "https://drive.google.com/file/d/18fjHtFysSsdm_O-9Gra9Udrb9MNl-6Rq/view",
+      "https://drive.google.com/file/d/12Qz9UCctR2fe4-aFM0JqAkDsO31W1JAC/view",
+      "https://drive.google.com/file/d/1HKOkQiiylNtyXOXNZI_GsB4uErE5jhIR/view",
+      "https://drive.google.com/file/d/1U06wsT5dVt4lsValxtWp7YxkpOWF-O2i/view?usp=sharing"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Health Insurance Portability and Accountability Act of 1996 (HIPAA)",
+      "Data Protection Act 1998",
+      "Privacy and Electronic Communications (EC Directive) Regulations 2003"
+    ],
+    "adherenceSteps": [
+      "https://docs.google.com/document/d/1S-dPe07W1xd0gJ9ucsw8V6YVI2ldBrHsty20HAB20Qc/edit?usp=sharing",
+      "https://www.cdc.gov/phlp/publications/topic/hipaa.html#:~:text=The%20Health%20Insurance%20Portability%20and,the%20patient's%20consent%20or%20knowledge."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "AES256-SIV-CMAC encryption standard",
+      "PKI"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.google.com/spreadsheets/d/1Dl9nGPDD2fzEI80ed7jKI6GT-hFNRBFvfTL6UEAIxpM/edit?usp=sharing",
+      "https://docs.google.com/document/d/1noQM0B5cGr2tq344zPrB-Yz-c5j0DyPDEGzIzhQ9VRA/edit?usp=sharing",
+      "Access to monitoring services that ingest service logs is restricted to technical support staff and is protected by Public Key Infrastructure (PKI) authentication"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "Role-Based Access Control (RBAC)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "- The Reveal platform security strategy is underpinned by a Role-Based Access Control (RBAC) methodology. Role-Based Access Control (RBAC) is a global standard security framework built on a role-based permissions management model that manages access at both the broad and granular levels by aligning the assigned permissions role with the organizational role of the user. RBAC prevents access leaks and, thereby, reduces the risk of data and information security breaches. \n- Access to production data is password protected and user rights and permissions are defined during system configuration. Access to monitoring services that ingest service logs is restricted to technical support staff and is protected by Public Key Infrastructure (PKI) authentication. PKI governs the issuance of digital certificates to protect sensitive data, provide unique digital identities for users, devices, and applications, and secure end-to-end communications. \n- Reveals’ infrastructure ís protected and encapsulated within a demilitarized zone (DMZ). Access to these components is governed via a Virtual Private Network (VPN), implementing the OpenVPN protocol. OpenVPN is an open-source VPN that is commonly used for creating Point-to-Point and Site-to-Site connections. It uses a traditional security protocol based on the  Transport Layer Security (TLS) protocol. \n - Data transmission between Reveal Android client and Reveal Server is protected by the TLS encryption protocol. The Transport Layer Security  (TLS) generates an encrypted connection where the Android client acts as the client and user access is prohibited to specific applications instead of the entire network. \n - Data at rest on the Reveal Android client is encrypted using the AES256-SIV-CMAC encryption standard. \n Reference: https://docs.google.com/document/d/1noQM0B5cGr2tq344zPrB-Yz-c5j0DyPDEGzIzhQ9VRA/edit"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Firstname",
+        "Lastname",
+        "Age",
+        "Geographic Location"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Server security and encryption - The Reveal servers uphold all security standards for storage of PII including appropriate encryption processes and access restrictions."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Zambia",
+      "South Africa"
+    ],
+    "deploymentCountries": [
+      "Zambia",
+      "Kenya",
+      "Senegal",
+      "Nigeria",
+      "Mali"
+    ]
+  }
+}
