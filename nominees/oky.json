@@ -44,7 +44,9 @@
     {
       "name": "UNICEF",
       "website": "https://www.unicef.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Gerda Binder",
+      "contact_email": "gbinder@unicef.org"
     }
   ],
   "stage": "DPG"
