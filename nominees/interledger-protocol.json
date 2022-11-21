@@ -22,7 +22,12 @@
   "type": [
     "standard"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/interledger/rfcs"
+    }
+  ],
   "organizations": [
     {
       "name": "Interledger Foundation",
