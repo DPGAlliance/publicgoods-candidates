@@ -1,0 +1,34 @@
+{
+  "name": "Freedom of Information Portal",
+  "description": "Freedom Of Information Portal",
+  "website": "",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/okfde/froide/blob/master/LICENSE.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 16
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/okfde/froide"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Knowledge Foundation Germany",
+      "website": "https://okfn.de/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

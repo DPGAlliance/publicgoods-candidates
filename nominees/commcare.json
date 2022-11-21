@@ -42,12 +42,19 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dimagi/commcare-hq",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dimagi/commcare-hq"
+    }
+  ],
   "organizations": [
     {
       "name": "Dimagi",
       "website": "https://dimagi.com",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Jonathan Jackson",
+      "contact_email": "jjackson@dimagi.com"
     }
   ],
   "stage": "DPG"

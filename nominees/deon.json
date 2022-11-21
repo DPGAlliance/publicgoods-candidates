@@ -10,14 +10,24 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 17
+      "SDGNumber": 10,
+      "evidenceURL": "https://deon.drivendata.org/examples/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://deon.drivendata.org/#background-and-perspective"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/drivendataorg/deon",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/drivendataorg/deon"
+    }
+  ],
   "organizations": [
     {
       "name": "DrivenData",

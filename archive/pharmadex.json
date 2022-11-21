@@ -1,0 +1,42 @@
+{
+  "name": "Pharmadex",
+  "description": "Pharmadex is a web-based tool that helps streamline and track medicines registration for a national drug regulatory authority.",
+  "website": "https://github.com/MSH/Pharmadex",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/MSH/Pharmadex/blob/devel/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3
+    },
+    {
+      "SDGNumber": 16
+    },
+    {
+      "SDGNumber": 17
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MSH/Pharmadex"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Management Sciences for Health",
+      "website": "https://www.msh.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

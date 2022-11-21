@@ -2,7 +2,7 @@
   "name": "Mojaloop",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://docs.mojaloop.io/documentation/mojaloop-background/ \n https://mojaloop.io/terms-of-use/"
+    "copyrightURL": "https://mojaloop.io/terms-of-use/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -89,8 +89,8 @@
   },
   "locations": {
     "developmentCountries": [
-      "United States",
-      "London",
+      "United States of America",
+      "United Kingdom",
       "Kenya",
       "South Africa",
       "India",

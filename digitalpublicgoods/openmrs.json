@@ -2,7 +2,7 @@
   "name": "OpenMRS",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy \nhttps: //wiki.openmrs.org/display/RES/OpenMRS+Copyright+and+DMCA+Policy"
+    "copyrightURL": "https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -26,7 +26,7 @@
       "OpenMRS can be HIPAA compliant in its present form, provided implementers building on our platform have the right monitoring/logging/security business policies in place."
     ],
     "adherenceSteps": [
-      "OpenMRS supports implementers to periodically review (https://www.measureevaluation.org/resources/publications/tr-20-413.html) and collaboratively respond to any security issues related to privacy laws. This process is documented on our wiki (https://www.measureevaluation.org/resources/publications/tr-20-413.html)"
+      "OpenMRS supports implementers to periodically review (https://www.measureevaluation.org/resources/publications/tr-20-413.html) and collaboratively respond to any security issues related to privacy laws. This process is documented on our wiki (https://wiki.openmrs.org/display/RES/OpenMRS+Privacy+Policy)"
     ]
   },
   "standards": {
@@ -96,14 +96,14 @@
       "Cambodia",
       "Cameroon",
       "Chile",
-      "Cote d’Ivoire",
+      "Côte d'Ivoire",
       "Ethiopia",
       "Guatemala",
       "Haiti",
       "Hungary",
       "India",
       "Indonesia",
-      "Kazahkstan",
+      "Kazakhstan",
       "Kenya",
       "Lesotho",
       "Liberia",
@@ -129,14 +129,14 @@
       "Cambodia",
       "Cameroon",
       "Chile",
-      "Cote d’Ivoire",
+      "Côte d'Ivoire",
       "Ethiopia",
       "Guatemala",
       "Haiti",
       "Hungary",
       "India",
       "Indonesia",
-      "Kazahkstan",
+      "Kazakhstan",
       "Kenya",
       "Lesotho",
       "Liberia",

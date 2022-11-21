@@ -1,0 +1,37 @@
+{
+  "name": "OffGrid Market Opportunities",
+  "description": "The Offgrid Market Opportunities tool developed by IFC and the World Bank to analyze open data and close the energy access gap.",
+  "website": "https://offgrid.energydata.info",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/energy-data/market-opportunities/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7
+    },
+    {
+      "SDGNumber": 13
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/energy-data/market-opportunities"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Energy Data",
+      "website": "https://energydata.info/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

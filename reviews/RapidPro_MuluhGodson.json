@@ -1,0 +1,40 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "The evidence given isn't much to work with, however a google search indicates many \"U-reports\" so it's confusing to know which this project refers to.",
+    "confidence": 2
+  },
+  "clearOwnership": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "The project documentation, especially the API documentation is quite easy to understand with clear descriptions.",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": true,
+    "comment": "CSV and JSON are well known standards for organizing information. ",
+    "confidence": 4
+  },
+  "user": "MuluhGodson",
+  "timestamp": 1633960322,
+  "timeTaken": 506
+}

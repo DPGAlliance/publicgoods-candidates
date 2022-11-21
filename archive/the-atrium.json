@@ -1,0 +1,36 @@
+{
+  "name": "The Atrium",
+  "description": "An inter-agency platform that allows any UN entity to learn about blockchain, share project details and engage on a community forum; The Atrium runs a private Ethereum blockchain that allows users to earn badges and launch their own blockchain applications easily.",
+  "website": "https://atrium.network/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/unicef/atrium/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The Atrium is a blockchain-based collaboration tool where the UN community can plant and grow ideas",
+      "evidenceURL": "https://www.unicef.org/innovation/stories/meet-atrium"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/unicef/atrium"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "UNICEF",
+      "website": "https://unicef.org",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

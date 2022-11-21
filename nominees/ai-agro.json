@@ -31,12 +31,19 @@
     "software",
     "aimodel"
   ],
-  "repositoryURL": "https://github.com/RentadroneCL/Precision_Agriculture",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/RentadroneCL/Precision_Agriculture"
+    }
+  ],
   "organizations": [
     {
       "name": "Rentadrone.cl",
       "website": "https://rentadrone.cl/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Julio Rejón",
+      "contact_email": "julio.rejon@rentadrone.cl"
     }
   ],
   "stage": "DPG"

@@ -1,0 +1,46 @@
+{
+  "name": "Kotani Pay",
+  "aliases": [
+    ""
+  ],
+  "description": "Kotani Pay is a stablecoin to fiat off-ramp and off-ramp service. The service is offered as an end to end API (Application Programming Interface) to enable other businesses to integrate and also as a USSD (Unstructured Supplementary Service Data) application for end-users to convert stablecoins to local fiat. A technology stack that connects blockchain protocols, dApps, and blockchain fintechs to local payment channels in Africa",
+  "website": "https://kotanipay.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/kotanipay/Kotani-Pay-API/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Kotani Pay  enables the underprivileged such as refugees to receive Universal Basic Income Payments of at least $1 a day in collaboration with other humanitarian organizations ",
+      "evidenceURL": "https://basicincome.org/news/2021/09/the-long-march-to-basic-income-begins-with-a-single-step-the-unusual-story-of-kowiti-a/"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Kotani Pay improves financial inclusion by offering youth to perform microtasks and microwork and to earn from their work",
+      "evidenceURL": "https://techcrunch.com/2022/02/23/cryptocurrency-payments-key-to-lowering-cross-border-remittance-charges-and-boosting-microwork-uptake-in-africa-study-shows/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Kotani Pay API",
+      "url": "https://github.com/kotanipay/Kotani-Pay-API"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Kotani Pay",
+      "website": "https://kotanipay.com",
+      "org_type": "owner",
+      "contact_name": "Keith Mandela",
+      "contact_email": "keith@kotanipay.com"
+    }
+  ],
+  "stage": "DPG"
+}

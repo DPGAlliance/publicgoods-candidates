@@ -1,7 +1,10 @@
 {
   "name": "Uwazi",
-  "description": "Uwazi is a web-based, open-source solution for building and sharing document collections for human rights defenders",
-  "website": "https://www.uwazi.io",
+  "aliases": [
+    ""
+  ],
+  "description": "Uwazi is a web-based database application designed for human rights defenders to manage collections of information, including documents, evidence, cases and complaints. ",
+  "website": "https://huridocs.org/technology/uwazi/",
   "license": [
     {
       "spdx": "MIT",
@@ -10,20 +13,29 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 16
+      "SDGNumber": 16,
+      "evidenceText": "We collaborate with local activist groups, national human rights institutions, large international NGOs and many organisations in between. Some of our partners specialise in specific issues such as arbitrary arrest, freedom of expression, historical memory, and transitional justice, while others focus on human rights-related mechanisms such as the United Nations Human Rights Treaty System. Beyond their shared commitment to dignity and freedom, our partners have an important thing in common: they achieve greater impact when the information they need is easy to access, navigate and understand.",
+      "evidenceURL": "https://huridocs.org/initiatives/developing-uwazi-a-human-rights-database-tool/"
     }
   ],
   "sectors": [],
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/huridocs/uwazi",
-  "organizations": [
+  "repositories": [
     {
-      "name": "Huridocs",
-      "website": "https://www.huridocs.org/",
-      "org_type": "owner"
+      "name": "Main",
+      "url": "https://github.com/huridocs/uwazi"
     }
   ],
-  "stage": "nominee"
+  "organizations": [
+    {
+      "name": "HURIDOCS",
+      "website": "https://www.huridocs.org",
+      "org_type": "owner",
+      "contact_name": "Friedhelm Weinberg (Executive Director)",
+      "contact_email": "friedhelm@huridocs.org"
+    }
+  ],
+  "stage": "DPG"
 }

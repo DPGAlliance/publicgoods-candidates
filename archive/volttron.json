@@ -1,0 +1,34 @@
+{
+  "name": "Volttron",
+  "description": "An open source platform for distributed sensing and control. The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.",
+  "website": "https://volttron.org",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://github.com/VOLTTRON/volttron/blob/master/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/VOLTTRON/volttron"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Pacific Northwest National Laboratory",
+      "website": "https://www.pnnl.gov/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

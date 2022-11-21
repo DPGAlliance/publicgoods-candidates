@@ -1,0 +1,47 @@
+{
+  "name": "VictimsOfIntolerance",
+  "aliases": [
+    "Vítimas da Intolerância",
+    "VítimasDaIntolerância"
+  ],
+  "description": "Hate crimes monitor for political motivated assaults in Brazil.",
+  "website": "https://www.vitimasdaintolerancia.org",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/okfn-brasil/vitimas-da-intolerancia/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 10,
+      "evidenceText": "This project is an effort to reunite reported cases of victims of political violence, motivated by political intolerance. There is a crescent number of attacks being reported in the electoral context,  so mapping this cases is a form to show the advance of intolerance in the country.",
+      "evidenceURL": "https://www.vitimasdaintolerancia.org/about.html"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "This project is an effort to reunite reported cases of victims of political violence, motivated by political intolerance. There is a crescent number of attacks being reported in the electoral context,  so mapping this cases is a form to show the advance of intolerance in the country.",
+      "evidenceURL": "https://www.vitimasdaintolerancia.org/about.html"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/okfn-brasil/vitimas-da-intolerancia"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Knowledge Brasil",
+      "website": "https://ok.org.br",
+      "org_type": "maintainer",
+      "contact_name": "Open Knowledge Brasil",
+      "contact_email": "contato@ok.org.br"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Non-PII data can be extracted and/or imported using the DHIS2 Web API as described here: https://docs.dhis2.org/2.35/en/dhis2_developer_manual/web-api.html and via the Import-Export App within DHIS2"
+    "nonPIIAccessMechanism": "Non-PII data can be extracted and/or imported using the DHIS2 Web API as described here: https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-235/web-api.html and via the Import-Export App within DHIS2"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -46,7 +46,7 @@
     "evidenceStandardSupport": [
       "Some information is available here:",
       "https://www.dhis2.org/integration",
-      "https://docs.dhis2.org/2.35/en/dhis2_implementation_guide/integration-concepts.html"
+      "https://docs.dhis2.org/en/implement/implementing-dhis2/integration-concepts.html"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -62,7 +62,7 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "The DHIS2 core team provides general guidance on configuring the system for collection of personal data that include references for navigating legal privacy frameworks: https://docs.dhis2.org/2.35/en/dhis2_tracker_implementation_guide/is-my-project-ready-for-tracker.html#legislation-and-policies. PII collected varies per country, based on program needs and privacy regulations. Some examples include:",
+        "The DHIS2 core team provides general guidance on configuring the system for collection of personal data that include references for navigating legal privacy frameworks: https://docs.dhis2.org/en/implement/tracker-implementation/is-my-project-ready-for-tracker.html#legislation-and-policies. PII collected varies per country, based on program needs and privacy regulations. Some examples include:",
         "name",
         "date of birth",
         "address",
@@ -74,23 +74,23 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "DHIS2 features configurable access control levels that restrict access to specific kinds of information to particular user roles, groups, and organization units. Additionally, metadata can be defined as either public or private. The DHIS2 database itself can be encrypted. A discussion of some privacy controls can be found here: https://community.dhis2.org/t/how-does-dhis2-protect-personal-information-the-tech-details/5335/2"
+      "privacySecurityDescription": "DHIS2 features configurable access control levels that restrict access to specific kinds of information to particular user roles, groups, and organization units. Additionally, metadata can be defined as either public or private. The DHIS2 database itself can be encrypted. A discussion of some privacy controls can be found here: https://community.dhis2.org/t/how-does-dhis2-protect-personal-information-the-tech-details/5335/2 \n https://docs.dhis2.org/en/implement/android-implementation/data-security-and-privacy.html"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
       "type": "",
       "contentFilter": "",
-      "policyGuidelinesDocumentationLink": "https://docs.dhis2.org/2.34/en/dhis2_android_implementation_guideline/data-security-and-privacy.html \n https://www.dhis2.org/security",
+      "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "",
-      "illegalContentDetectionMechanism": "As stated above, the platform is not intended for collecting, storing, or distributing content"
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        "Interactions between users / contributors on this project are managed through an online forum, the DHIS2 Community of Practice.",
+        "Interactions between users / contributors on this project are managed through an online forum, the DHIS2 Community of Practice: https://developers.dhis2.org/community",
         "The target audience for this community is skilled users of the DHIS2 software (expected age 20+), and discussion is limited to topics relating to software implementation and use.",
-        "The age limit for participation on the forum is set at 13 or older: https://community.dhis2.org/t/terms-of-service/4 -- At this point, we have no reason to believe that any underage users are participating in our forum.",
+        "The age limit for participation on the forum is set at 13 or older. At this point, we have no reason to believe that any underage users are participating in our forum.",
         "In regards to the DHIS2 software itself, access controls are established by the countries or organizations implementing the software, which is targeted at professional users."
       ],
       "griefAbuseHarassmentProtection": "Yes",
@@ -118,25 +118,25 @@
       "Burundi",
       "Cambodia",
       "Cameroon",
-      "Cape Verde",
-      "Central African Rep.",
+      "Cabo Verde",
+      "Central African Republic",
       "Chad",
       "Colombia",
       "Comoros",
-      "Dem. Rep. Congo",
+      "Democratic Republic of the Congo",
       "Djibouti",
-      "East Timor",
+      "Timor-Leste",
       "Eritrea",
       "Ethiopia",
       "Ghana",
       "Grenada",
       "Guinea",
-      "Guinea Bissau",
+      "Guinea-Bissau",
       "Haiti",
       "Honduras",
       "India",
       "Indonesia",
-      "Ivory Coast",
+      "Côte d'Ivoire",
       "Kenya",
       "Laos",
       "Lebanon",
@@ -156,22 +156,22 @@
       "Niger",
       "Nigeria",
       "Pakistan",
-      "Palestine",
-      "Republic of the Congo",
+      "Palestine State",
+      "Congo (Congo-Brazzaville)",
       "Rwanda",
-      "Sao Tome",
+      "Sao Tome and Principe",
       "Senegal",
       "Sierra Leone",
       "Solomon Islands",
       "Somalia",
-      "Somaliland",
+      "Somalia",
       "South Africa",
       "South Sudan",
       "Sri Lanka",
       "Sudan",
       "Tajikistan",
       "Tanzania",
-      "The Gambia",
+      "Gambia",
       "Togo",
       "Tonga",
       "Uganda",
@@ -179,7 +179,6 @@
       "Vietnam",
       "Yemen",
       "Zambia",
-      "Zanzibar",
       "Zimbabwe"
     ]
   }

@@ -1,0 +1,59 @@
+{
+  "name": "Liquid Prep",
+  "description": "Liquid Prep offers an end-to-end solution for farmers looking to optimize their water usage; especially during times of drought.",
+  "website": "https://www.liquidprep.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/Call-for-Code/Liquid-Prep/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 6,
+      "evidenceURL": "https://www.linuxfoundation.org/en/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Participation is welcomed from software developers, designers, testers, agronomists/agri experts/soil experts, IoT engineers, researchers, students, farmers, and others that can help improve the quality and value of the solution for small farmers around the world",
+      "evidenceURL": "https://www.linuxfoundation.org/en/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/"
+    },
+    {
+      "SDGNumber": 12,
+      "evidenceText": "The goal of the project is to help farmers globally farm their crops with the least amount of water by taking advantage of real-time information that can help improve sustainability and build resiliency to climate change.",
+      "evidenceURL": "https://www.linuxfoundation.org/en/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "The goal of the project is to help farmers globally farm their crops with the least amount of water by taking advantage of real-time information that can help improve sustainability and build resiliency to climate change.",
+      "evidenceURL": "https://www.linuxfoundation.org/en/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Liquid Prep has a developed a great working relationship with partners SmartCone Technologies, Inc., and Central New Mexico Community College. Students in the Deep Dive Coding Internet of Things (IoT) Bootcamp at CNM are designing, developing, and producing a robust IoT sensor and housing it in the shape of a stick that can be inserted into the soil and transfer the soil moisture data to the Liquid Prep mobile app via Bluetooth. The collaboration gives students important real-world experience before they enter the workforce. “SmartCone is honored to be part of this project.  This is a perfect example of technology teams working together to help make the world a better place, “ said Jason Lee, Founder & CEO, SmartCone Technologies Inc.Additionally, Liquid Prep will work together with J&H Nixon Farms, who largely grow soybeans and corn crops on about 2800 acres of agricultural land in Ottawa, Canada. They have offered Liquid Prep the opportunity to pilot test the prototype on several plots of land that have different soil conditions, which in turn can expand the breadth of recommendation options to a larger number of potential users.",
+      "evidenceURL": "https://www.linuxfoundation.org/en/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/"
+    }
+  ],
+  "sectors": [
+    "Agriculture",
+    "Climate",
+    "Water and Sanitation"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Call-for-Code/Liquid-Prep"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Call-for-Code",
+      "website": "https://callforcode.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

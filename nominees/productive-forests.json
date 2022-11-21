@@ -3,40 +3,60 @@
   "aliases": [
     ""
   ],
-  "description": "Bioverse creates forest inventory to support the sustainable use of non-timber related forest products",
+  "description": "Satellite Imagery Processing for Machine Learning Based Image Classification. Produtive Forests creates a forest inventory to support the sustainable use of non-timber related forest products",
   "website": "https://www.bioverse.io/",
   "license": [
     {
       "spdx": "MIT",
+      "licenseURL": "https://github.com/Bioverse-Labs/image-processing/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
       "licenseURL": "https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE"
+    },
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Bioverse-Labs/forest-map-app/blob/master/LICENSE"
     }
   ],
   "SDGs": [
     {
-      "SDGNumber": 12,
-      "evidenceText": "Productive forests secure economic incentives to maintain ecosystems standing while contributing to food security and nutrition. ",
-      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-bioverse"
+      "SDGNumber": 8,
+      "evidenceText": "BIOVERSE was able to identify 5 -20 X more trees than initially known by the Indigenous Community of Kayapo and the Quilombola Community of Cachoeira Porteira. The economic impact of mapping the location of non-timber-related trees and serving the data to the community in the form of abundance maps makes a big difference in the harvesters' earnings potential. Productive Forests initiative directly impacts harvesting logistics and yields and, therefore, improves the lives of non-timber-related forest harvesters."
     },
     {
-      "SDGNumber": 13,
-      "evidenceText": "While productive forests generate income to traditional communities, its protection secure ecosystem services to humanity",
-      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-bioverse"
+      "SDGNumber": 12,
+      "evidenceText": "Forest communities have very few options for generating income. Most employment and revenue-generating opportunities are linked to cattle ranching, deforestation, logging, mining, illegal wildlife hunting, and animal trafficking. The Productive Forests initiative seeks to strengthen income generation from sustainable practices such as the harvest of non-timber-related trees species that produce fruits, nuts, sap, and extracts and secures perennial crop harvesting while maintaining the forest standing for subsequent generations."
     }
   ],
-  "sectors": [],
-  "type": [
-    "software",
-    "aimodel"
+  "sectors": [
+    "Sustainability"
   ],
-  "repositoryURL": "https://github.com/Bioverse-Labs/deep-learning",
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Image Processing",
+      "url": "https://github.com/Bioverse-Labs/image-processing"
+    },
+    {
+      "name": "Deep learning",
+      "url": "https://github.com/Bioverse-Labs/deep-learning"
+    },
+    {
+      "name": "Forest Map Mobile App",
+      "url": "https://github.com/Bioverse-Labs/forest-map-app"
+    }
+  ],
   "organizations": [
     {
       "name": "Bioverse Labs",
-      "website": "https://www.bioverse.io",
+      "website": "https://www.bioverse.io/",
       "org_type": "owner",
-      "contact_name": "Francisco@bioverselabs.com",
-      "contact_email": "Francisco D'Elia"
+      "contact_name": "Francisco D'Elia",
+      "contact_email": "Francisco@bioverselabs.com"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }

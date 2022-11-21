@@ -1,0 +1,42 @@
+{
+  "name": "OpenRIMS",
+  "aliases": [
+    ""
+  ],
+  "description": "OpenRIMS is a web-based tool that helps NMRAs streamline and track medicines registration to ensure that they have the most updated medicines available and approved for prescribing and use. With OpenRIMS, NMRAs can: record and organize information on suppliers and products, track product applications in the registration process, analyze and compare suppliers and products and track critical information for decision making, such as cost, usage, and safety. OpenRIMS is a Java-based application that can run on a desktop or an Android tablet/smart phone",
+  "website": "https://openrims.org",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/MSH/OpenRIMS/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "https://www.mtapsprogram.org/our-resources/pharmadex/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/MSH/Pharmadex2"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Management Sciences for Health",
+      "website": "https://www.msh.org",
+      "org_type": "owner",
+      "contact_name": "Kim Hoppenworth",
+      "contact_email": "khoppenworth@msh.org"
+    }
+  ],
+  "stage": "DPG"
+}

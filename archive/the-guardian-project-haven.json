@@ -1,0 +1,34 @@
+{
+  "name": "The Guardian Project - Haven",
+  "description": "Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.",
+  "website": "",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/guardianproject/haven/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 11
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/guardianproject/haven"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The Guardian Project",
+      "website": "https://guardianproject.info/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "nominee"
+}

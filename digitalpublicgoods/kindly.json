@@ -1,0 +1,96 @@
+{
+  "name": "Kindly",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://unicef.github.io/kindly/acknowledgements"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://unicef.github.io/kindly"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Kindly collects non-PII data (the training data for kindly). Since our open data set is hosted on a public repository, the mechanism for data extraction involves simply browsing the part of that repository where data is stored, namely https://github.com/unicef/kindly/tree/main/modeling/dataset"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "UNICEF’s Policy on Conduct Promoting the Protection and Safeguarding of Children",
+      "UNICEF’s Policy On Personal DATA PROTECTION",
+      "General Data Protection Regulation (GDPR): Kindly does not capture any personally identifiable data from or about users and no data at all, unless provided voluntarily. Thus, to comply with GDPR, we clearly notify users of this on the landing page and the contribute page. The Kindly website uses Google Analytics to track high-level metrics such as site visits. While these are not used to identify an individual/individual machine, users will be notified of such tracking through an informational banner at the bottom of the site."
+    ],
+    "adherenceSteps": [
+      "https://kindly.unicef.io/contribute"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST",
+      "JSON"
+    ],
+    "evidenceStandardSupport": [
+      "Kindly is an API which is provided using these standards. The evidence of these standards can be found here: https://unicef.github.io/kindly/api"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Child Safeguarding Principles according to UNICEF including: \n 1) The wellbeing of the child is the most important consideration - Kindly’s vision is to improve children’s wellbeing by combating cyberbullying; \n2) All children have the same right to be protected, regardless of their gender, culture, ethnicity, age, religion or abilities - Kindly is available to be integrated onto any platform; \n3) Information is managed as confidential - Kindly doesn’t collect any data unless the user wishes to contribute to the training data set in which the data is reviewed and anonymized such that no confidential data is stored permanently or shared. ",
+      "\nThe product’s vision and development also follow the Principles for Digital Development including 1) User-centred design - the perspective of children were taken into account and articulated in the vision through Gitanjali Rao’s involvement and primary user understanding; 2) Design for scale - Kindly’s development involves multiple UNICEF stakeholders and outreach with potential partner organizations so that the solution can be scaled technically and globally; 3) Uses open standards, data, open-source and open innovation - Kindly is developed in the open and uses an open data set from an open source Natural Language processing model, hosted on Huggingface.com called the Twitter-roBERTa-base for Offensive Language Identification; 4) Reuse and improve - As an open-source solution, Kindly’s data set and model can be leveraged by to be included in other solutions. Kindly can also be improved through community contributions to the code and/or datasets; 5) Collaborative - The development of Kindly involves multiple stakeholders throughout the product development process including young innovator, Gitanjali Rao, UNICEF’s Information and Communication Technology Division (ICTD), Division of Communication (DOC), Office of Innovation (OOI), and Child Protection Unit, and external partners including End Violence Against Children (EVAC). (https://digitalprinciples.org/)",
+      "\n Other technology best practices include leveraging continuos integration and PEP8 coding style"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Even though we do not collect any PII, a user may provide this information by accident while contributing to the training data set. In order to mitigate this risk and avoid any harm to that information, only authorized UNICEF employees will have access to the raw version of the training data. If a user provides any PII by accident, then the authorized team member will safely remove and permanently destroy/delete it prior to including the submission in the public-facing data set."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Through Kindly’s Contribute page, a user can add data to the training data set. A process is in place to ensure that: (1) all the data added by users is reviewed by authorized UNICEF staff; (2) if the user adds data that is personally identifiable, that data is anonymized; (3) this data is initially stored on a secure and encrypted platform that only authorized staff have access to; (4) only after being reviewed, anonymized, and cleaned, the data is made public"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Ghana",
+      "Canada"
+    ],
+    "deploymentCountries": [
+      "United States of America"
+    ]
+  }
+}
