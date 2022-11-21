@@ -1,0 +1,51 @@
+{
+  "name": "TruBudget",
+  "aliases": [
+    ""
+  ],
+  "description": "A blockchain-based workflow tool for an efficient and transparent project management",
+  "website": "https://trubudget.net/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/openkfw/TruBudget/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "TruBudget can significantly lower high transaction costs that arise from cumbersome coordination and control efforts. As a result, official development assistance (ODA) becomes more targeted and measures are taken more effectively. By reducing transaction costs, more funds are ultimately available for the implementation of development-relevant measures, contributing to SDG1 (and other SDGs which rely on the use of funds for their progress) indirectly.",
+      "evidenceURL": "https://www.dandc.eu/en/article/new-digital-platform-designed-kfw-facilitates-transparent-and-secure-implementation-oda"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "Evidence: By employing an innovative IT technology (distributed ledger/blockchain technology) this solution contributes to innovation in partner countries, by creating experience in the application and design of this open software based blockchain solution (especially linked to targets 9.b - Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities , 9.5 Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending)",
+      "evidenceURL": "https://www.dandc.eu/en/article/new-digital-platform-designed-kfw-facilitates-transparent-and-secure-implementation-oda"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "According to the OECD, more than 500 different donor organisations offer assistance worldwide. In Burkina Faso for instance, 81 bi- and multilateral agencies are active. Each one has its own requirements, defines its own conditions and pursues its own goals. Burkina Faso must cope with all of the related demands. As a result, its ministries host over 300 different project teams. Acting on the initiative of the donors, these teams sometimes work at cross purposes in the same regions and sectors. TruBudget allows for the establishment of shared platforms that significantly expand donors' scope for using a partner country's systems. If funds are no longer channeled past the partner country's government structures but out of government structures in the partner country, this strengthens the partner country's capacities and its ownership. Donor contributions from different donors can be used in a coordinated manner in line with the respective national development policy priorities. This can drastically reduce the major coordination and administrative workload for the partner countries. (This is specifically (however not exclusively) geared toward the following targets: 17.01 Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection, 17.14 Enhance policy coherence for sustainable development, 17.15 Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development Multi-stakeholder partnerships, 17.16 Enhance the global partnership for sustainable development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the sustainable development goals in all countries, in particular developing countries, 17.17 Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships Data, monitoring and accountability)",
+      "evidenceURL": "https://www.dandc.eu/en/article/field-aid-effectiveness-there-still-much-do"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openkfw/TruBudget"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "KfW",
+      "website": "https://www.kfw.de/kfw.de-2.html",
+      "org_type": "funder",
+      "contact_name": "Dr Ronald Steyer",
+      "contact_email": "ronald.steyer@kfw.de"
+    }
+  ],
+  "stage": "DPG"
+}
