@@ -5,9 +5,10 @@ git clone https://github.com/DPGAlliance/publicgoods-website.git ../publicgoods-
         npm install && \
         ./scripts/static.bash && \
         pushd packages/automation && \
-            node generate_dpgs.js && \
-            node index.js && \
-            node generate_nominees.js && \
+        node consolidate_data.js && \
+        popd && \
+        pushd packages/automation && \
+        node index.js && \
         popd && \
         pushd packages/registry && \
             npm run build && \
