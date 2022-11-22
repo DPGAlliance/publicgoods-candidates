@@ -33,10 +33,12 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "ISO27560"
+      "Security -  HTTPS, SSL, SSH, RS256, ED2556, AnonCreds",
+      "Supported Authentication & Authorization - OAuth 2, OIDC and JWT (JSON Web Tokens)",
+      "Data exchange supported formats - JSON"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/decentralised-dataexchange/data-exchange-agreements/tree/main"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
