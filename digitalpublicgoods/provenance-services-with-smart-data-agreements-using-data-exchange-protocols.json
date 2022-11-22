@@ -1,8 +1,8 @@
 {
   "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown",
-    "copyrightURL": ""
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -26,7 +26,8 @@
       "GDPR"
     ],
     "adherenceSteps": [
-      "Uses Data Protection Impact Assessment as the basis for creation of any Data Agreement"
+      "Uses Data Protection Impact Assessment (DPIA) as the basis for creation of any Data Agreement. DPIA is owned by organisations that are part of the ecosystem. This is an open-source code for anyone to use and be part of a data exchange ecosystem.",
+      "https://igrant.io/privacy.html#privacy"
     ]
   },
   "standards": {
@@ -44,8 +45,8 @@
   },
   "doNoHarm": {
     "preventHarm": {
-      "stepsToPreventHarm": "Unknown",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Uses Data Protection Impact Assessment as the basis for creation of any Data Agreement"
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -57,7 +58,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "https://igrant.io/privacy.html#privacy"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
