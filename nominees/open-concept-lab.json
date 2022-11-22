@@ -1,0 +1,52 @@
+{
+  "name": "Open Concept Lab",
+  "aliases": [
+    "OCL"
+  ],
+  "description": "Open Concept Lab is an open-source terminology management system for the global community",
+  "website": "https://openconceptlab.org",
+  "license": [
+    {
+      "spdx": "MPL-2.0",
+      "licenseURL": "https://openconceptlab.org/license/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The OCL tools and community support global efforts in the fight against infectious diseases, including the US President’s Emergency Plan for AIDS Relief (PEPFAR) and OpenMRS, the leading open-source medical record system. These communities rely on standards and terminologies to implement systems and to enable health systems research and large-scale biomedical research that helps to make healthcare affordable, safe, effective, and equitable."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "OCL Terminology Server (oclapi2)",
+      "url": "https://github.com/OpenConceptLab/oclapi2"
+    },
+    {
+      "name": "OCL TermBrowser",
+      "url": "https://github.com/OpenConceptLab/oclweb2"
+    },
+    {
+      "name": "OCL tickets",
+      "url": "https://github.com/OpenConceptLab/ocl_issues"
+    },
+    {
+      "name": "OCL Docs",
+      "url": "https://github.com/OpenConceptLab/ocl-docs"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Open Concept Lab LLC",
+      "website": "https://openconceptlab.org",
+      "org_type": "owner",
+      "contact_name": "Jonathan Payne",
+      "contact_email": "jon@openconceptlab.org"
+    }
+  ],
+  "stage": "nominee"
+}
