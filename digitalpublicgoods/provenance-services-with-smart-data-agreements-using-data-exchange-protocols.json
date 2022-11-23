@@ -38,7 +38,7 @@
       "Data exchange supported formats - JSON"
     ],
     "evidenceStandardSupport": [
-      "https://github.com/decentralised-dataexchange/data-exchange-agreements/tree/main"
+      "https://github.com/decentralised-dataexchange/dexa-protocol"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
