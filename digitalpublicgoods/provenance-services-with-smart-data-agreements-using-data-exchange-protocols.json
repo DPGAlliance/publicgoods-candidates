@@ -2,7 +2,7 @@
   "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/LICENSE"
+    "copyrightURL": "https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
