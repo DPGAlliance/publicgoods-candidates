@@ -1,0 +1,46 @@
+{
+  "name": "Code Your Future",
+  "aliases": [
+    ""
+  ],
+  "description": "A free collaboratively developed open source 8 month web development programme.",
+  "website": "https://syllabus.codeyourfuture.io/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://syllabus.codeyourfuture.io/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Code Your Future is a free code school for refugees and other people excluded from education. All our classes are free and our teachers are volunteers. Our free and open source syllabus is developed and published directly on Github. We collaborate with other free code schools, both within the MigraCode network (https://migracode.eu/) and ad-hoc in the UK, South Africa, Gaza, Roma, Medellin, etc. \nWe are committed to free and open source education and curriculum development and all our materials are published and shared freely.  We do our work in public. As well as our in-person classes, people can, and do, use our syllabus by themselves, or in a code group, or within another code school. For example, MigraCode Barcelona are doing our React module right now! :) That being said, I have included some metrics and data from our in-person Software Development Course. \nOur work largely falls on these targets in SDG 4: \n- Target 4.3: Equal access to affordable technical, vocational and higher education \n- Target 4.4: Increase the number of people with relevant skills for financial success \n- Target 4.5: Eliminate all discrimination in education"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "Main content",
+      "url": "https://syllabus.codeyourfuture.io/Overview"
+    },
+    {
+      "name": "Code + content repo",
+      "url": "https://github.com/CodeYourFuture/syllabus"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Code Your Future",
+      "website": "https://codeyourfuture.io/",
+      "org_type": "owner",
+      "contact_name": "Sally McGrath",
+      "contact_email": "sally@codeyourfuture.io"
+    }
+  ],
+  "stage": "nominee"
+}
