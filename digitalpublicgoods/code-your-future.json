@@ -63,10 +63,10 @@
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "Yes",
       "type": "Full stack web development training",
-      "contentFilter": "No",
-      "policyGuidelinesDocumentationLink": "",
-      "illegalContentDetection": "No",
-      "illegalContentDetectionMechanism": ""
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://syllabus.codeyourfuture.io/contributing/overview",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Content is mainly hosted in a public repo on GitHub and then deployed through our website. This provides a mechanism for accepting/ rejecting changes to the content through use of Github pull requests and issues."
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
