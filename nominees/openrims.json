@@ -1,14 +1,14 @@
 {
   "name": "OpenRIMS",
   "aliases": [
-    "Pharmadex"
+    ""
   ],
-  "description": "OpenRIMS is a web-based tool that helps NMRAs streamline and track medicines registration to ensure that they have the most updated medicines available and approved for prescribing and use. With Pharmadex, NMRAs can: record and organize information on suppliers and products, track product applications in the registration process, analyze and compare suppliers and products and track critical information for decision making, such as cost, usage, and safety. Pharmadex is a Java-based application that can run on a desktop or an Android tablet/smart phone",
+  "description": "OpenRIMS is a web-based tool that helps NMRAs streamline and track medicines registration to ensure that they have the most updated medicines available and approved for prescribing and use. With OpenRIMS, NMRAs can: record and organize information on suppliers and products, track product applications in the registration process, analyze and compare suppliers and products and track critical information for decision making, such as cost, usage, and safety. OpenRIMS is a Java-based application that can run on a desktop or an Android tablet/smart phone",
   "website": "https://openrims.org",
   "license": [
     {
       "spdx": "GPL-3.0",
-      "licenseURL": "https://github.com/MSH/Pharmadex2/blob/main/LICENSE"
+      "licenseURL": "https://github.com/MSH/OpenRIMS/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -38,5 +38,5 @@
       "contact_email": "khoppenworth@msh.org"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
