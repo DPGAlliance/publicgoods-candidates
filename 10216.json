@@ -1,0 +1,115 @@
+	{
+    "id": "10216",
+    "name": "Torkel Opsahl Academic EPublisher",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "TOAEP"
+    ],
+    "description": "TOAEP is the first open access academic international law publisher.",
+    "website": "https://toaep.org/",
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-SA-4.0",
+            "openLicenseEvidenceURLs": "SDG4: Quality Education,SDG16: Peace&#184; Justice and Strong Institutions"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "TOAEP has been built to indefinitely provide free and immediate access to quality publications on international law to anyone with access to the Internet, regardless of their geographical location. TOAEP will remain non-profit and open access. As such, TOAEP is aligned with Goal 4 of the Sustainable Development Goals (\u2018SDGs\u2019) (that is, it will \u201censure inclusive and equitable quality education and promote lifelong learning opportunities for all\u201d).,&#013; &#010;TOAEP is directly aimed at Goal 16 of the SDGs (that is, to \u201cpromote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels\u201d). By publishing open access international law information, including on international criminal law, TOAEP aims to equip individuals with the knowledge required to ensure that there is accountability for core international crimes in their societies, organisations and countries."
+        },
+        {
+            "sdg": "SDG16: Peace&#184; Justice and Strong Institutions",
+            "relevance": "TOAEP has been built to indefinitely provide free and immediate access to quality publications on international law to anyone with access to the Internet, regardless of their geographical location. TOAEP will remain non-profit and open access. As such, TOAEP is aligned with Goal 4 of the Sustainable Development Goals (\u2018SDGs\u2019) (that is, it will \u201censure inclusive and equitable quality education and promote lifelong learning opportunities for all\u201d).,&#013; &#010;TOAEP is directly aimed at Goal 16 of the SDGs (that is, to \u201cpromote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels\u201d). By publishing open access international law information, including on international criminal law, TOAEP aims to equip individuals with the knowledge required to ensure that there is accountability for core international crimes in their societies, organisations and countries."
+        }
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://toaep.org/about/"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Centre for International Law Research and Policy (CILRAP)",
+            "clearOwnershipURL": "https://toaep.org/copyright/"
+        }
+    ],
+    "documentation": "The complete library of TOAEP publications is freely and immediately available on the TOAEP web site (https://toaep.org/about/). The information required to access the publications is available on the web site. The electronic version of all publications is available as a PDF-file that can be freely accessed, printed or downloaded. No software is required beyond a web browser and PDF-reader. There is no need to register as a user. The TOAEP publications can be accessed by author name (https://toaep.org/authors/) or by five publication series into which they are organised:,1. The Publication Series (https://toaep.org/ps/), TOAEP's oldest series, which publishes books (monographs and anthologies);,2. The Policy Brief Series (https://toaep.org/pbs/) which publishes shorter texts of approximately 4,000 words in a fixed 4-page layout;,3. The Occasional Paper Series (https://toaep.org/ops/) which publishes longer texts of a scholarly nature that do not have the volume to be separate books;,4. The Nuremberg Academy Series (https://toaep.org/nas/) which publishes books linked to the activities of the International Nuremberg Principles Academy; and,5. The Law of the Future Series (https://toaep.org/lotfs/) which publishes books linked to the activities of The Hague Institute for Innovation of Law.",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Content is available in PDF format in case there is need for downloading"
+    },
+    "openStandards": [
+        "PDF The electronic version of all TOAEP publications are available on the TOAEP web site (https://toaep.org/about/) as PDF-files",
+        " on the web pages indicated above. Users can freely and immediately access the publications provided they have a web browser and PDF-reader. Pursuant to TOAEP's user commitment since its establishment in 2010",
+        " there are no other requirements",
+        " and no technical or registration requirements will be introduced in the future.",
+        "https://toaep.org/ps/ All Principles for Digital Development have been followed in the conceptualisation",
+        " development and continued operation of TOAEP. In addition",
+        " TOAEP will not",
+        " in any manner whatsoever",
+        " harm the fundamental human rights of anyone as defined under the International Covenant on Civil and Political Rights. Moreover",
+        " TOAEP will fully observe the principle of equality and non-discrimination and not in any way discriminate on the basis of grounds such as religion",
+        " race",
+        " ethnicity",
+        " nationality or sexual orientation. Furthermore",
+        " TOAEP will not in any way contribute to harm to our shared natural environment."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "TOAEP publishes literature on international law and related policy questions. By 1 November 2022",
+            " TOAEP had published more than 1",
+            "000 publications (including book chapters) by more than 730 authors since it was founded in 2010."
+        ],
+        "contentManagementPolicy": "https://toaep.org/about/privacy/ No TOAEP content can be added unless explicitly approved by the TOAEP Editorial Team and its Editor-in-Chief (https://toaep.org/editors/). All manuscripts are subjected to review on multiple levels, involving a minimum of two editors. All members of the Editorial Team are lawyers. The TOAEP policy is zero tolerance of any illegal or inappropriate content as commonly understood, and to maintain TOAEP in such a way that it continues to be impossible for such content to be added to TOAEP. TOAEP is guided by applicable international human rights law standards."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Germany",
+            "Norway",
+            "India"
+        ],
+        "deploymentCountries": [
+            "Germany",
+            "Norway",
+            "India"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Torkel Opsahl Academic EPublisher",
+            "website": "https://toaep.org/",
+            "org_type": "owner",
+            "contact_name": " Morten Bergsmo, Director  ",
+            "contact_email": "bergsmo@cilrap.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR). https://toaep.org/about/privacy/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
