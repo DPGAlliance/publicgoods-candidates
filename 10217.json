@@ -1,0 +1,101 @@
+	{
+    "id": "10217",
+    "name": "Android FHIR SDK",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7\u00ae FHIR\u00ae standard on Android.",
+    "website": "https://github.com/google/android-fhir",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Through this toolkit we make it easier for developers to build mobile health applications specifically designed to meet the needs of LMICs. Through our collaboration with the WHO we also enable the deployment of digitised clinical guidelines for improving quality of care"
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/google/android-fhir"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Google",
+            "clearOwnershipURL": "https://github.com/google/android-fhir/wiki"
+        }
+    ],
+    "documentation": "https://github.com/google/android-fhir/wiki",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HL7 FHIR https://github.com/google/android-fhir Understand the ecosystem",
+        "Design for scale",
+        "Use Open Standards",
+        " Open Data",
+        " Open Source",
+        " and Open Innovation",
+        "Address privacy and security",
+        "Be collaborative",
+        "Design with the user"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United Kingdom",
+            "India",
+            "Kenya",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            ""
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Android FHIR SDK",
+            "website": "https://github.com/google/android-fhir",
+            "org_type": "owner",
+            "contact_name": " Fred Hersch  ",
+            "contact_email": "fredhersch@google.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies. This is a Software Development Kit and it does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
