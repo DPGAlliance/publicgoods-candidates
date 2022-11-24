@@ -13,13 +13,15 @@
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
       "https://georegistry-api-docs.geoprism.net",
-      "https://geoprismregistry.com/"
+      "https://geoprismregistry.com/",
+      "Developer documentation - https://github.com/terraframe/geoprism-registry/wiki",
+      "Installation guide (without docker) - https://github.com/terraframe/geoprism-registry/wiki/Install-on-Linux-or-Mac"
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
+    "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": ""
+    "nonPIIAccessMechanism": "Here is the documentation for importing data using non-proprietary formats - https://docs.geoprismregistry.com/readme/current/geoprism-registry-tutorial/6.5-content-management/6.5.1-lists-and-spatial-data/6.5.1.1-import \nHere is the documentation for exporting data using non-proprietary formats - https://docs.geoprismregistry.com/readme/current/geoprism-registry-tutorial/6.5-content-management/6.5.1-lists-and-spatial-data/6.5.1.7-export \nHere is the API documentation for getting data in JSON format - https://api.geoprismregistry.com/#tag/List/operation/data \nThat site also documents how to import data in GeoJSON format."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
