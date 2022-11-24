@@ -1,0 +1,95 @@
+{
+  "name": "PrepTime Analytics",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://preptimeanalytics.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Scribble-Works/preptime-analytics"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The application allows users to upload their questions and responses data files in csv or excel format. Template files for questions and responses are provided in csv and excel to guide the user in preparing their data files."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The site is GDPR compliant. Any data submitted by the user to be analysed can be requested by the same user to be removed by sending an email to us."
+    ],
+    "adherenceSteps": [
+      "https://preptimeanalytics.com/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSON",
+      "REST"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Scribble-Works/preptime-analytics"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Separation of concerns - HTML, CSS, JavaScript"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All processing data is run in-memory. Persisted data can also be deleted at the user's request. Functionality to do this automatically is in development."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Personal data - email, firstname, lastname, phone, address",
+        "cookies and usage data. See more details here - https://preptimeanalytics.com/privacy"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All information is transferred securely using HTTPS and raw data provided by the user for analysis can be deleted at the user's request."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
