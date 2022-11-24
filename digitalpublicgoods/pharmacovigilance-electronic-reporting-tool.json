@@ -56,16 +56,20 @@
       "additionalInfoMechanismProcessesPolicies": "It has inbuilt flags to identify serious cases for rapid response. It also provides a communication platform that allows for clarification on reported cases. There are also reminders sent to reporters for any unsubmitted reports."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No",
+      "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "The solution collects PII information for the person reporting an adverse event and/or the patient experiencing an adverse event. Some of the PII data collected include:",
+        "Name of Person Reporting",
+        "Email address of person reporting",
+        "Mobile number of person reporting",
+        "Patient's name"
       ],
-      "thirdPartyDataSharing": "No",
+      "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "n the event a reported safety report has an extreme outcome such as fatal, then the respective department in the Ministry of Health would be involved and the data shared with them to launch a follow-up investigation in collaboration with the Pharmacy and Poisons Board. The MOH also shares data with WHO’s Uppsala Monitoring Center (UMC). "
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Privacy Policy - https://web.pharmacyboardkenya.org/terms-and-conditions/"
+      "privacySecurityDescription": "Data collected is transmitted via a secure HTTP channel and is therefore encrypted on transit to prevent possible interception and interference. \n    Data extracted from the system is stripped off the PII data before sharing. \nAll provisions of the DPA 2016 (and other local legal and regulatory requirements) are fully implemented. \nPrivacy Policy - https://web.pharmacyboardkenya.org/terms-and-conditions/"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
