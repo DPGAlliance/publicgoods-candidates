@@ -1,0 +1,98 @@
+{
+  "name": "Data Observation Toolkit",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/datakind/Data-Observation-Toolkit/blob/main/LICENSE.md"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/datakind/Data-Observation-Toolkit",
+      "https://www.datakind.org/blog/empowering-health-workers-and-community-health-systems",
+      "https://anchor.fm/medxtekafrica/episodes/Ep19---Harnessing-the-power-of-data-science-in-healthcare-e1iijkm",
+      "https://medic.org/stories/on-the-road-to-precision-community-health/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "All data is in the DOT DB, so there are many ways to import/export. The demo is populated in this way. Additionally, appsmith uses an API "
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "DataKind is GDPR compliant and measures in place to support GDPR compliance. Adherence left to implementers. "
+    ],
+    "adherenceSteps": [
+      "https://www.datakind.org/privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Data Exchange formats - JSON, XML",
+      "Internationalization (i18n)- All Input/output is managed by the Python standard library, which defaults to UTF-8",
+      "Authentication & Authorization: Oauth2 (supported), AES-256 Encryption, SSL",
+      "Web standards: HTML, CSS"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/datakind/Data-Observation-Toolkit#code-quality"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://github.com/datakind/Data-Observation-Toolkit#code-quality"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "DOT does not capture PII to work. A user may configure DOT to monitor data in a source database. It does capture their user and date for entity configuration which can support an audit. We also have a Code of Conduct in place: https://github.com/datakind/Data-Observation-Toolkit/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://www.datakind.org/privacy"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The target audience for this community is skilled users of the DHIS2 software (expected age 20+), and discussion is limited to topics relating to software development as indicated on the issue tracker - https://github.com/datakind/Data-Observation-Toolkit/issues"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Code of conduct - https://github.com/datakind/Data-Observation-Toolkit/blob/main/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Uganda",
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Uganda"
+    ]
+  }
+}
