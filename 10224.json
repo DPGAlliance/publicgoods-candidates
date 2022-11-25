@@ -1,0 +1,105 @@
+	{
+    "id": "10224",
+    "name": "Code Your Future",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "A free collaboratively developed open source 8 month web development programme.",
+    "website": "https://syllabus.codeyourfuture.io/",
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "SDG4: Quality Education"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "Code Your Future is a free code school for refugees and other people excluded from education. All our classes are free and our teachers are volunteers. Our free and open source syllabus is developed and published directly on Github. We collaborate with other free code schools, both within the MigraCode network (https://migracode.eu/) and ad-hoc in the UK, South Africa, Gaza, Roma, Medellin, etc. \nWe are committed to free and open source education and curriculum development and all our materials are published and shared freely.  We do our work in public. As well as our in-person classes, people can, and do, use our syllabus by themselves, or in a code group, or within another code school. For example, MigraCode Barcelona are doing our React module right now! :) That being said, I have included some metrics and data from our in-person Software Development Course. \nOur work largely falls on these targets in SDG 4: \n- Target 4.3: Equal access to affordable technical, vocational and higher education \n- Target 4.4: Increase the number of people with relevant skills for financial success \n- Target 4.5: Eliminate all discrimination in education"
+        }
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://syllabus.codeyourfuture.io/Overview,https://github.com/CodeYourFuture/syllabus"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Code Your Future",
+            "clearOwnershipURL": "https://codeyourfuture.io/governance/"
+        }
+    ],
+    "documentation": "https://docs.codeyourfuture.io/,https://module-template.codeyourfuture.io/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "We align to SFIA mappings for graduation https://sfia-online.org/en. https://docs.google.com/document/d/1jMxqI0L7IKFENCQ8Lw-D1lhnj3c3RZI_WK808wG4YJM/edit?usp=sharing https://teachtogether.tech/en/index.html"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Full stack web development training"
+        ],
+        "contentManagementPolicy": "https://syllabus.codeyourfuture.io/contributing/overview Content is mainly hosted in a public repo on GitHub and then deployed through our website. This provides a mechanism for accepting/ rejecting changes to the content through use of Github pull requests and issues."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Safeguarding - https://codeyourfuture.io/about/safeguarding/ For the syllabus, no, because it's just a website with no interactions. For our course, we have a code of conduct (https://codeyourfuture.io/about/code-of-conduct/), a safeguarding lead, safeguarding training, and a personal coach for targeted support sessions for people with social impairments."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil",
+            "United Kingdom",
+            "South Africa",
+            "Colombia",
+            "Belgium",
+            "Eritrea",
+            "France",
+            "Netherlands",
+            "Portugal",
+            "Spain",
+            "Pakistan",
+            "India",
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "United Kingdom",
+            "South Africa"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Code Your Future",
+            "website": "https://syllabus.codeyourfuture.io/",
+            "org_type": "owner",
+            "contact_name": " Sally McGrath  ",
+            "contact_email": "sally@codeyourfuture.io"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The syllabus can be accessed without an account so no PII is collected unless people join our in person classes. We are a registered charity and regulated in the UK by the Charity Commission and Ofsted. https://codeyourfuture.io/governance/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
