@@ -1,0 +1,107 @@
+	{
+    "id": "10225",
+    "name": "OpenRIMS",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "OpenRIMS is a web-based tool that helps NMRAs streamline and track medicines registration to ensure that they have the most updated medicines available and approved for prescribing and use. With OpenRIMS, NMRAs can: record and organize information on suppliers and products, track product applications in the registration process, analyze and compare suppliers and products and track critical information for decision making, such as cost, usage, and safety. OpenRIMS is a Java-based application that can run on a desktop or an Android tablet/smart phone",
+    "website": "https://openrims.org",
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": ""
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/MSH/Pharmadex2"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Management Sciences for Health",
+            "clearOwnershipURL": "https://www.openrims.org/"
+        }
+    ],
+    "documentation": "https://github.com/MSH/OpenRIMS,https://wiki.openrims.org/index.php/Main_Page,Deployment guide - https://raw.githubusercontent.com/MSH/OpenRIMS/main/documentation/MTaPS%20Pharmadex%202%20-%20Deployment%20Guide.pdf",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The system uses REST API"
+    },
+    "openStandards": [
+        "Anatomical",
+        " Therapeutical and Chemical index",
+        " International Non-proprietary Name https://openrims.msh.org/landing Be Collaborative",
+        " Reuse and Improve",
+        " Design for scale",
+        " Understand the Existing Ecosystem",
+        " Build for Sustainability",
+        " Use Open Standards",
+        " Open Data",
+        " Open Source",
+        " and Open Innovation",
+        " Design with the user",
+        " Be Data Driven"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Pharmaceutical Company basic information like location; User profile information"
+        ],
+        "dataPrivacySecurity": " For enhanced security we apply SSL, conduct penetration testing. Additional steps are detailed in the Policy and Terms of Use: https://github.com/MSH/OpenRIMS/tree/main/privacyandterms https://github.com/MSH/OpenRIMS/blob/main/privacyandterms/privacypolicy.pdf"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Mozambique"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "Mozambique",
+            "Nepal",
+            "Madagascar"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenRIMS",
+            "website": "https://openrims.org",
+            "org_type": "owner",
+            "contact_name": " Kim Hoppenworth  ",
+            "contact_email": "khoppenworth@msh.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "We comply with eHealth policies in the deployment countries too Privacy policy - https://github.com/MSH/OpenRIMS/blob/main/privacyandterms/privacypolicy.pdf,Terms of Use - https://github.com/MSH/OpenRIMS/blob/main/privacyandterms/termsofuse.pdf"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
