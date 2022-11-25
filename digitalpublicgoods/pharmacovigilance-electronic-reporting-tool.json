@@ -1,0 +1,103 @@
+{
+  "name": "Pharmacovigilance Electronic Reporting Tool",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://pv.pharmacyboardkenya.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Installation guide - https://github.com/IntelliSOFT-Consulting/pvers/blob/master/README.md",
+      "https://docs.google.com/document/d/1LjkPOKrK-4O_PBb4GRfx61I2_0zfesD_5X1y9aw34dQ/edit#heading=h.6nlwssopwwv3"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data is extracted via PDF/PNG/CSV for individual indicators (e.g gender)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Kenya Standards and Guidelines for E-Health Systems Interoperability: https://pdf.usaid.gov/pdf_docs/PA00TB28.pdf",
+      "The Kenya Data Protection Act 2019: https://www.odpc.go.ke/dpa-act/",
+      "General Data Protection Regulation"
+    ],
+    "adherenceSteps": [
+      "Privacy Policy:https://web.pharmacyboardkenya.org/terms-and-conditions/",
+      "Cookie's consent: https://web.pharmacyboardkenya.org/pharmacovigilance/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "File exchange formats as ICH E2B CIOMS",
+      "Medical terminologies such MedDRA"
+    ],
+    "evidenceStandardSupport": [
+      "https://web.pharmacyboardkenya.org/pharmacovigilance/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design for scale",
+      "Be data driven ",
+      "Reuse and improve",
+      "Be collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "It has inbuilt flags to identify serious cases for rapid response. It also provides a communication platform that allows for clarification on reported cases. There are also reminders sent to reporters for any unsubmitted reports."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "The solution collects PII information for the person reporting an adverse event and/or the patient experiencing an adverse event. Some of the PII data collected include:",
+        "Name of Person Reporting",
+        "Email address of person reporting",
+        "Mobile number of person reporting",
+        "Patient's name"
+      ],
+      "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        "n the event a reported safety report has an extreme outcome such as fatal, then the respective department in the Ministry of Health would be involved and the data shared with them to launch a follow-up investigation in collaboration with the Pharmacy and Poisons Board. The MOH also shares data with WHO’s Uppsala Monitoring Center (UMC). "
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Data collected is transmitted via a secure HTTP channel and is therefore encrypted on transit to prevent possible interception and interference. \n    Data extracted from the system is stripped off the PII data before sharing. \nAll provisions of the DPA 2016 (and other local legal and regulatory requirements) are fully implemented. \nPrivacy Policy - https://web.pharmacyboardkenya.org/terms-and-conditions/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Kenya",
+      "Zimbabwe"
+    ]
+  }
+}
