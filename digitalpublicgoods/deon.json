@@ -12,7 +12,8 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://deon.drivendata.org/#using-this-tool"
+      "https://deon.drivendata.org/#using-this-tool",
+      "https://github.com/drivendataorg/deon"
     ]
   },
   "NonPII": {
