@@ -5,7 +5,9 @@
     "copyrightURL": "https://acervomarcas.impi.gob.mx:8181/marcanet/vistas/common/busquedas/detalleExpedienteParcial.pgi"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No"
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -14,13 +16,27 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown"
+    "collectsNonPII": "Unknown",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown"
+    "isPrivacyCompliant": "Unknown",
+    "privacyComplianceList": [
+      ""
+    ],
+    "adherenceSteps": [
+      ""
+    ]
   },
   "standards": {
     "supportStandards": "Unknown",
+    "standardsList": [
+      ""
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
       "https://digitalprinciples.org/"
@@ -37,18 +53,28 @@
         "Email and alias"
       ],
       "thirdPartyDataSharing": "Yes",
+      "dataSharingCircumstances": [
+        ""
+      ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://supabase.com/docs/company/privacy"
+      "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "No"
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
       "addressSafetySecurityUnderageUsers": "Unknown",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        "https://github.com/Bloinx/bloinx-v1/blob/main/CODE_OF_CONDUCT.md",
         "https://github.com/Bloinx/bloinx-v1/blob/main/CODE_OF_CONDUCT.md"
       ]
     }
