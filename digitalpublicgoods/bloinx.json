@@ -12,7 +12,9 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://docs.bloinx.io/"
+      "https://docs.bloinx.io/",
+      "https://github.com/Bloinx/bloinx-contracts",
+      "https://github.com/Bloinx/bloinx-v1"
     ]
   },
   "NonPII": {
