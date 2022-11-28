@@ -71,9 +71,9 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "Unknown",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "https://github.com/Bloinx/bloinx-v1/blob/main/CODE_OF_CONDUCT.md"
       ],
       "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
