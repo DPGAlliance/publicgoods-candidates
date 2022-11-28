@@ -1,0 +1,107 @@
+	{
+    "id": "10171",
+    "name": "Open Drone Suite",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "This project develops and maintains aerial platforms capable of heavy payload delivery for roles including aerial seed bombing for re-forestation, desert locust management including fumigation, and vaccine heavy payload delivery.",
+    "website": "https://as-research.org/open-drone-project/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/team-asr"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "SDG 13: The call to climate action requires we identify threats to endangered ecosystems and hasten rehabilitation of the same. Our innovation offers an open software, open data and open hardware platform to quickly build an aerial tool to be able to identify threats quickly to ecosystems, as well as to rapidly deploy a resolution including fumigation, seed bombing to replant/regrow biomass in degraded areas. Identifying effects of climate change goes a long way in rehabilitation and early warning, to ensure further degradation of ecosystems stops: Such as monitoring carbon sequestration, illegal logging, desert locust swarms, to mention but a few.\r\n\r\nSDG 11: Urban areas are fast threatening ecosystems, and need to be planned with regeneration in mind, and aerial surveys are the best tools for ensuring that human habitats coexist with natural ecosystems including forests, wildlife reserves, to mention but a few. "
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "SDG 13: The call to climate action requires we identify threats to endangered ecosystems and hasten rehabilitation of the same. Our innovation offers an open software, open data and open hardware platform to quickly build an aerial tool to be able to identify threats quickly to ecosystems, as well as to rapidly deploy a resolution including fumigation, seed bombing to replant/regrow biomass in degraded areas. Identifying effects of climate change goes a long way in rehabilitation and early warning, to ensure further degradation of ecosystems stops: Such as monitoring carbon sequestration, illegal logging, desert locust swarms, to mention but a few.\r\n\r\nSDG 11: Urban areas are fast threatening ecosystems, and need to be planned with regeneration in mind, and aerial surveys are the best tools for ensuring that human habitats coexist with natural ecosystems including forests, wildlife reserves, to mention but a few. "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/team-asr/od-CAD/blob/master/LICENSE,https://github.com/team-asr/od-Data/blob/master/license-data"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/team-asr/od-CAD/blob/master/LICENSE,https://github.com/team-asr/od-Data/blob/master/license-data"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Autonomous Systems Research Ltd",
+            "clearOwnershipURL": "Below is the project page:\r\nhttps://as-research.org/open-drone-project/\r\n\r\nBelow is an entry by UNICEF Innovation regarding the project with mention of ASR:\r\nhttps://www.unicef.org/innovation/stories/unicef-innovation-fund-graduate-asr\r\n"
+        }
+    ],
+    "documentation": "https://github.com/team-asr/open-drone/blob/main/README.md",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "JPEG & TIFF https://github.com/team-asr/od-Data/ OGC Best Practices for improving access to geospatial systems (https://as-research.org/standards/)"
+    ],
+    "bestPractices": [
+        "https://as-research.org/standards/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kenya"
+        ],
+        "deploymentCountries": [
+            "Kenya"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "We are currently in the process of assisting Githunguri Constituency",
+        " part of the National Government of Kenya",
+        " to roll out the Open Drone Suit for renewable energy for powering agriculture project. The project link is here:\r\nhttps://as-research.org/powering-agriculture/\r\nThe first phase of the project",
+        " a pilot phase",
+        " will commence in February 2023."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Drone Suite",
+            "website": "https://as-research.org/open-drone-project/",
+            "org_type": "owner",
+            "contact_name": " Moses gichangA  ",
+            "contact_email": "gichanga@as-research.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "International drone laws set out in the jurisdictions of operation as per the international and domestic laws below:,The Kenya Civil Aviation Authority Rules on Remotely Piloted Aerial Systems,The Federal Aviation Administration rules on Unmanned Aerial Systems The Kenya Civil Aviation Authority Rules on Remotely Piloted Aerial Systems: https://www.kcaa.or.ke/safety-%26-security-oversight/unmanned-aircraft-systems,The Federal Aviation Administration rules on Unmanned Aerial Systems: https://www.faa.gov/uas/commercial_operators/",
+            "privacyComplianceURL": "https://as-research.org/data-and-privacy/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
