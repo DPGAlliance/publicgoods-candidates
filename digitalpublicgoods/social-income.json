@@ -32,14 +32,14 @@
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "Open Source Standards (see Code of Conduct)"
+      ""
     ],
     "evidenceStandardSupport": [
-      "https://github.com/socialincome-san/public/blob/main/CODE_OF_CONDUCT.md"
+      ""
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Good Governance for Associations"
+      ""
     ]
   },
   "doNoHarm": {
