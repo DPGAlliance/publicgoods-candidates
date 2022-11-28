@@ -2,10 +2,10 @@
   "name": "Deon",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://github.com/drivendataorg/deon"
+    "copyrightURL": "https://deon.drivendata.org/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Unknown",
+    "mandatoryDepsCreateMoreRestrictions": "No",
     "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
