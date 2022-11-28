@@ -1,10 +1,9 @@
 {
-  "name": "Public Lab",
+  "name": "PLOTS",
   "aliases": [
-    "The Public Laboratory for Open Technology and Science",
-    "PLOTS"
+    "The Public Laboratory for Open Technology and Science"
   ],
-  "description": "Public Lab is a worldwide community that develops and applies open-source tools for environmental exploration and investigation. Public Lab works to build a healthier and more equitable world through community science, open technology, and environmental justice. Public Lab supports local environmental problem owners to draw upon expertise from a distributed global community when crafting research questions, through designing and implementing accessible monitoring techniques, to developing advocacy pathways.",
+  "description": "A collaborative knowledge-exchange platform in Rails.",
   "website": "https://publiclab.org/",
   "license": [
     {
@@ -50,18 +49,6 @@
     {
       "name": "main",
       "url": "https://github.com/publiclab/plots2"
-    },
-    {
-      "name": "MapKnitter",
-      "url": "https://github.com/publiclab/mapknitter"
-    },
-    {
-      "name": "Spectral Workbench",
-      "url": "https://github.com/publiclab/spectral-workbench.js"
-    },
-    {
-      "name": "Image Sequencer",
-      "url": "https://github.com/publiclab/image-sequencer"
     }
   ],
   "organizations": [
