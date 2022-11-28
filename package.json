@@ -24,7 +24,7 @@
     "del": "^6.0.0",
     "diff": "^5.0.0",
     "fuzzball": "^2.0.2",
-    "husky": "^4.2.3",
+    "husky": "^4.3.8",
     "isomorphic-git": "^1.8.2",
     "jsonlint": "^1.6.3",
     "request": "^2.88.2"

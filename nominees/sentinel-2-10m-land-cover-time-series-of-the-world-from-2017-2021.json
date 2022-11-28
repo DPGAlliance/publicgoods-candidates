@@ -1,0 +1,56 @@
+{
+  "name": "Sentinel-2 10m Land Cover Time Series of the World from 2017-2021",
+  "aliases": [
+    ""
+  ],
+  "description": "Sentinel-2 10m Land Cover Time Series provides public access to global land use and land cover data of the world from 2017-2021 with 10 meter resolution.",
+  "website": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Mapping global agricultural lands, and related land conversion, directly supports work to increase food security. Esri 2020 Land Cover 10m (IO) layer displays a global map of land use/land cover (LULC). The map is derived from ESA Sentinel-2 imagery at 10m resolution. It is a composite of LULC predictions for 10 classes throughout the year in order to generate a representative snapshot of 2020. It includes classifications for crops and flooded vegetation."
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Mapped urban areas and trends in urban development can be seen on the LULC map. At 10m scale we can also identify large green spaces in urban areas and agricultural peripheries. "
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Land cover conversion plays a major role in CO2 emissions (e.g. deforestation and conversion of other natural habitats) as well as climate resilience (mapping forests, mangroves, etc, for nature-based climate solutions).  The LULC map, in combination with climate and carbon models, helps users identify important areas for natural carbon.  "
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "The LULC map is directly tied to how we live on land and can map land cover conversion over time."
+    }
+  ],
+  "sectors": [
+    "Agriculture",
+    "Climate",
+    "Sustainable Cities"
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Impact Observatory",
+      "website": "https://www.impactobservatory.com/",
+      "org_type": "maintainer",
+      "contact_name": "Katy Densmore",
+      "contact_email": "katy@impactobservatory.com"
+    }
+  ],
+  "stage": "DPG"
+}
