@@ -48,7 +48,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "For enhanced security we apply SSL, conduct penetration testing. Additional steps are detailed in the Policy and Terms of Use: https://github.com/MSH/Pharmadex2/tree/main/privacyandterms."
+      "additionalInfoMechanismProcessesPolicies": "For enhanced security we apply SSL, conduct penetration testing. Additional steps are detailed in the Policy and Terms of Use: https://github.com/MSH/OpenRIMS/tree/main/privacyandterms"
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
