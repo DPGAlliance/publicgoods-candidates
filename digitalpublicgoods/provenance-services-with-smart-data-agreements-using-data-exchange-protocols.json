@@ -1,0 +1,95 @@
+{
+  "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/decentralised-dataexchange/dexa-protocol"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Uses Data Protection Impact Assessment (DPIA) as the basis for creation of any Data Agreement. DPIA is owned by organisations that are part of the ecosystem. This is an open-source code for anyone to use and be part of a data exchange ecosystem.",
+      "https://igrant.io/privacy.html#privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Security -  HTTPS, SSL, SSH, RS256, ED2556, AnonCreds",
+      "Supported Authentication & Authorization - OAuth 2, OIDC and JWT (JSON Web Tokens)",
+      "Data exchange supported formats - JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/decentralised-dataexchange/dexa-protocol"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Uses Data Protection Impact Assessment as the basis for creation of any Data Agreement"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://igrant.io/privacy.html#privacy"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "It follows code of conduct relevant for open source project and community driven knowledge sharing. "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Based on code or conduct as stated at: https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/CODE-OF-CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden",
+      "India"
+    ],
+    "deploymentCountries": [
+      "Sweden",
+      "India"
+    ]
+  }
+}

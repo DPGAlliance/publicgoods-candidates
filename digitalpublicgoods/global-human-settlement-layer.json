@@ -1,0 +1,95 @@
+{
+  "name": "Global Human Settlement Layer",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://ghsl.jrc.ec.europa.eu/about.php"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://ghsl.jrc.ec.europa.eu/documents/GHSL_Data_Package_2019.pdf?t=1478q532234372",
+      "https://ghsl.jrc.ec.europa.eu/atlas2020Overview.php"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR) in the European Union"
+    ],
+    "adherenceSteps": [
+      "https://ec.europa.eu/info/privacy-policy_en"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "TIFF for raster data or SHP for vector data and CSV for spreadsheet data"
+    ],
+    "evidenceStandardSupport": [
+      "https://ghsl.jrc.ec.europa.eu/about.php"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      " The GHSL data are following the FAIR data principles:",
+      "- They are findable, each of the data sets is linked to a DOI and comes with a standardised data set description in the JRC data catalogue (see GHSL data collection in the catalogue: https://data.jrc.ec.europa.eu/collection/ghsl)",
+      "- They are accessible, because not registration whatsoever is needed to access the data.",
+      "- They are interoperable, because they use open data exchange formats like TIFF for raster data or SHP for vector data and CSV for spreadsheet data.",
+      "- They are reusable, because the licensing allows for wide reusability"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The GHSL data come with a detailed data description (see latest data package description: https://ghsl.jrc.ec.europa.eu/documents/GHSL_Data_Package_2022.pdf?t=1655995832). "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://ec.europa.eu/info/privacy-policy_en"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Italy"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
