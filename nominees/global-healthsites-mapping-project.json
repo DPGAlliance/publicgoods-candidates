@@ -36,7 +36,9 @@
     {
       "name": "OPEN HEALTHSITE CONSULTING LTD",
       "website": "https://healthsites.io",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Mark Herringer",
+      "contact_email": "mark@healthsites.io"
     }
   ],
   "stage": "DPG"
