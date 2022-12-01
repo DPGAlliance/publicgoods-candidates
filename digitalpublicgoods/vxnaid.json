@@ -5,9 +5,9 @@
     "copyrightURL": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "No",
-    "isSoftwarePltIndependent": "",
-    "pltIndependenceDesc": ""
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Vxnaid platform offers other identification modalities that are not dependent upon VeriEye. The system offers other possibilities to identify a person: \n- Based on the reading of a QR or barcode (this can come from a national ID card, a vaccination invitation, a study card…) \n- Based on the manual data entry of any unique ID pin the campaign wishes to use \n - Based on a combination of the above with a mobile phone number being captured. \nOur source code is modular and the use of biometrics (making use of VeriEye) is not obliged in the identification module as these other options are offered in our code."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
