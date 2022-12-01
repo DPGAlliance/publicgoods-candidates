@@ -1,0 +1,101 @@
+	{
+    "id": "10243",
+    "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "DEXA",
+        "PS-SDA"
+    ],
+    "description": "DEXA protocol is a key component for developing and deploying trustworthy, human-centric decentralised data applications (dApps) across domains. ",
+    "website": "https://ontochain.ngi.eu/content/ps-sda",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "SDG9: Industry&#184; Innovation and Infrastructure"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG9: Industry&#184; Innovation and Infrastructure",
+            "relevance": "The DEXA protocol facilitates sustainable personal exchange for organisations, ensuring that all data transactions are lawful, scalable and verifiable. An organisation can be a Data Source or a Data Using Service. The DEXA protocol brings in the requisite trust and governance to establish a ubiquitous data exchange marketplace while empowering individuals to be in control of their data. All organisations need to ensure that they are on the right side of the law (e.g. the GDPR) when consuming personal data (risk management) and to establish the digital trust needed for individuals to say yes to sharing their data. "
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/decentralised-dataexchange/data-exchange-agreements,https://github.com/decentralised-dataexchange/dexa-protocol,https://github.com/decentralised-dataexchange/dexa-sdk,https://github.com/decentralised-dataexchange/dexa-smartcontracts"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "LCubed AB, Sweden (iGrant.io)",
+            "clearOwnershipURL": "https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE"
+        }
+    ],
+    "documentation": "https://github.com/decentralised-dataexchange/dexa-protocol",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Security -  HTTPS",
+        " SSL",
+        " SSH",
+        " RS256",
+        " ED2556",
+        " AnonCreds",
+        "Supported Authentication & Authorization - OAuth 2",
+        " OIDC and JWT (JSON Web Tokens)",
+        "Data exchange supported formats - JSON https://github.com/decentralised-dataexchange/dexa-protocol https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "It follows code of conduct relevant for open source project and community driven knowledge sharing.  Based on code or conduct as stated at: https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/CODE-OF-CONDUCT.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Sweden",
+            "India"
+        ],
+        "deploymentCountries": [
+            "Sweden",
+            "India"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
+            "website": "https://ontochain.ngi.eu/content/ps-sda",
+            "org_type": "owner",
+            "contact_name": " Lal Chandran  ",
+            "contact_email": "lal@igrant.io"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR Uses Data Protection Impact Assessment (DPIA) as the basis for creation of any Data Agreement. DPIA is owned by organisations that are part of the ecosystem. This is an open-source code for anyone to use and be part of a data exchange ecosystem.,https://igrant.io/privacy.html#privacy"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
