@@ -1,0 +1,59 @@
+{
+  "name": "ClinicalBERT",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source natural language processing for clinical decision support, electronic health records, public health design, implementation, delivery, quality assurance, at national scales. ",
+  "website": "https://onefact.org",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/onefact/ClinicalBERT/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Good Health and Wellbeing: ClinicalBERT is used by 300+ researchers, dozens of major academic medical centers around the world for advancing medical research, supporting clinical decision-making and public policy.",
+      "evidenceURL": "https://arxiv.org/abs/1904.05342"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "We have used these tools to analyze hundreds of millions of health records for evidence of gender and health disparity. We are working with the Linux Foundation to develop ClinicalBERT conformance tests based on previous work assessing gender equality in health: https://arxiv.org/abs/2203.05174. For example, in helping doctors make decisions, this approach ensures that the accuracy of predictions that this AI model makes has equity with respect to different genders.",
+      "evidenceURL": "https://arxiv.org/abs/2203.05174"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "Reduced Inequalities. As in SDG #9 above, there is great geopolitical inequality in the distribution of AI software. So in open sourcing ClinicalBERT and helping the Foundation deploy this software around the world, with a focus on LMICs in the Global South and non-English languages, we are able to reduce inequality in measurable ways"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Sustainable Cities and Communities. We work with community health clinics to deploy ClinicalBERT and reduce the amount of time it takes community health centers to locate and help clients. Further, because ClinicalBERT is open source, this avoids vendor lock-in to closed source software."
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Peace, Justice, and Strong Institutions. Health systems that are not single-payer mean that certain entities such as payors are incentivized to maximize profit. This means that hospitals have to fight with insurers to bill for more procedures, for more patients. Vice versa, insurers then seek to adjudicate medical fraud and accuse hospitals of billing for procedures that are not medically justified. Similarly, single-payer health systems must make the same calculus to maximize value in deciding which procedures and conditions to cover, in order to best care for the health of the population they are designed to support. By releasing ClinicalBERT as an open source tool and working with countries such as Estonia (at the University of Tartu, which works with the national health system to develop value-based care at national scale), we are able to support strong institutions internationally."
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "aimodel"
+  ],
+  "repositories": [
+    {
+      "name": "ClinicalBERT",
+      "url": "https://github.com/onefact/clinicalbert"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "One Fact Foundation",
+      "website": "https://onefact.org",
+      "org_type": "owner",
+      "contact_name": "Dr. Jaan Altosaar",
+      "contact_email": "jaan@onefact.org"
+    }
+  ],
+  "stage": "nominee"
+}
