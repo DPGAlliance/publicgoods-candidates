@@ -2,7 +2,7 @@
   "name": "E-Heza",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://www.apache.org/licenses/LICENSE-2.0"
+    "copyrightURL": "https://github.com/TIP-Global-Health/eheza-app/blob/main/LICENSE.txt"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
