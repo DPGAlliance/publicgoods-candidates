@@ -1,0 +1,126 @@
+	{
+    "id": "10253",
+    "name": "Cboard",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Cboard is an AAC web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech. ",
+    "website": "https://www.cboard.io/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/cboard-org/cboard"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Impact in Serbia, Croatia, and Montenegro"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "Impact in Serbia, Croatia, and Montenegro"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "Impact in Serbia, Croatia, and Montenegro"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/cboard-org/cboard/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "CIREHA",
+            "clearOwnershipURL": "https://www.cboard.io/cboard/unicef/ottaa%20project/2021/11/25/cboard-and-ottaa-project/"
+        }
+    ],
+    "documentation": "https://github.com/cboard-org/cboard/blob/master/README.md",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "User logs can be shared or exported in Open Board Logging Format (.obl)"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "name",
+            "email address",
+            "birthday"
+        ],
+        "dataPrivacySecurity": " We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers. \r\n We use regular Malware Scanning. \r\n Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. \r\n We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers. encrypted password, protected database"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "communication boards with images and audio"
+        ],
+        "contentManagementPolicy": " Cboard contains a feature to report public boards in case that any user considers that this board includes sexual, violent, hateful, or abusive content."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Board edition is blocked by default, users can see just public boards from others  Contributor Covenant Code of Conduct - https://github.com/cboard-org/cboard/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Argentina",
+            "Israel"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Belgium",
+            "Bulgaria",
+            "Canada",
+            "Croatia",
+            "Israel",
+            "Montenegro",
+            "North Macedonia",
+            "Serbia",
+            "United States of America"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children"
+    ],
+    "deploymentCountriesDepartments": [
+        "Uruguay "
+    ],
+    "otherDeploymentOrganisations": [
+        "Ceibal "
+    ],
+    "openStandards": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Open Board Logging Format (.obl) https://www.openboardformat.org/",
+        "https://www.w3.org/TR/WCAG21/ Material design: https://material.io/design/guidelines-overview"
+    ],
+    "bestPractices": [
+        "https://github.com/cboard-org/cboard-webdriverio"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Cboard",
+            "website": "https://www.cboard.io/",
+            "org_type": "owner",
+            "contact_name": " Martin Bedouret  ",
+            "contact_email": "martinbedouret@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "California Online Privacy Protection Act (CalOPPA),Children Online Privacy Protection Act (COPPA) Privacy policy: https://www.cboard.io/privacy/,Terms of Service: https://www.cboard.io/terms-of-use/",
+            "privacyComplianceURL": "https://www.cboard.io/privacy/"
+        }
+    ],
+    "aliases": "",
+    "awardsReceived": ""
+}
