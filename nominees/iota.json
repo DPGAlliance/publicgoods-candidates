@@ -1,0 +1,56 @@
+{
+  "name": "IOTA",
+  "aliases": [
+    ""
+  ],
+  "description": "IOTA is a distributed ledger based on the Tangle. It allows for feeless value transfers and data integrity proofs.",
+  "website": "https://www.iota.org/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/iotaledger/hornet/blob/develop/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 7,
+      "evidenceText": "There is increasing, and appropriate, scrutiny of the energy footprint related to cryptocurrency networks. The IOTA Foundation places emphasis on low energy requirements and green use cases.",
+      "evidenceURL": "https://blog.iota.org/internal-energy-benchmarks-for-iota/"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The Tangle, IOTA's underlying data infrastructure, enables that details, trade certificates, events and specifications of manufactured products and food supply chains can be trusted and shared along the value chain. ",
+      "evidenceURL": "https://www.trademarkea.com/news/iota-announces-partnership-with-trademark-east-africa-to-bring-supply-chain-transparency-to-trade-infrastructure/"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "IOTA's technology enables energy meters to communicate automatically and exchange important information. The energy can be requested and offered decentrally. All processes are handled via the Tangle, so the marketplace works completely decentralized without any middlemen.",
+      "evidenceURL": "https://cordis.europa.eu/article/id/422088-positive-energy-solutions-for-smart-cities-of-the-future"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Collecting, measuring and analysing emission data - and most importantly turning these benefits into trusted metrics for international accountability - is complex, time consuming and costly. Enabled by IOTA Streams technology, data inputs are directly secured near or at the source. ",
+      "evidenceURL": "https://blog.iota.org/climatecheck-and-the-iota-foundation-strengthen-their-collaboration-to-increase-trust-in-esg-data/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/iotaledger/iota.js"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "IOTA Foundation",
+      "website": "https://www.iota.org/",
+      "org_type": "maintainer",
+      "contact_name": "Holger Köther",
+      "contact_email": "holger@iota.org"
+    }
+  ],
+  "stage": "nominee"
+}

@@ -6,6 +6,7 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Security
 * [ISO/IEC 27001 (Information Security Management)](https://www.iso.org/isoiec-27001-information-security.html)
+* [ISO/IEC 27018:2019 (Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors)](https://www.iso.org/standard/76559.html)
 * PKI
 * HTTPS
 * SSL
@@ -85,4 +86,7 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Computer Communications Protocols
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
+#### Whistleblowing management systems
+* [ISO 37002:2021 (Whistleblowing management systems — Guidelines)](https://www.iso.org/standard/65035.html)
 
