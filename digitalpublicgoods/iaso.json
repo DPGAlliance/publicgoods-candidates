@@ -17,36 +17,45 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "No",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The project is amongst other things a data collection system allowing to collect any type of data. All data, including non PII data, can be exported to csv and xlsx format, or through an API in json format. \nOn top of that, the system allows the collection of geographical information (about, for example, health facilities location) and can import data either directly from DHIS2 api, in csv, or in the standard geopackage format (https://www.geopackage.org/). Exporting is possible in all these formats too."
   },
   "privacy": {
-    "isPrivacyCompliant": "No",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "Iaso can totally be used in a GDPR compliant fashion. Users can be kept anonymous, data collections can be designed either to not collect any PII, or  to ask for consent for each data collection. In terms of security, it supports having data securely saved, transfer of data over secure connections, passwords stored in hashed format. A lot of these features are inherited from the Django development framework on which Iaso is built."
     ],
     "adherenceSteps": [
-      ""
+      "That said, as would be the case for, e.g., database software, nothing can ensure that the software users will not use the software in a non GDPR compliant way. Ultimately, it is the responsibility of the implementer / project manager to ensure compliance with GDPR."
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      "The XLSForm standard (https://xlsform.org/en/) "
+      "Security - HTTPS, SSL",
+      "Authentication & Authorization - JWT (JSON Web Tokens)",
+      "Internationalization (i18n) - UTF-8",
+      "Web standards - HTML, CSS, ECMAScript",
+      "Application Programming Interfaces (APIs)",
+      "JSON",
+      "XML",
+      "CSV",
+      "XLSForm",
+      "Geopackage"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/BLSQ/iaso/blob/main/README.md"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Principles for Digital Development"
+      "We can account with the following principles for digital development: \nDesign with User - Our software is designed in perpetual feedback loop with users, where most features tend to be mocked up and shown to end users before being implemented to allow to spot hard to understand concept, security and access issues and such. \nUnderstand the Existing Ecosystem - Iaso integrates with the existing ecosystem. In particular, it allows to reuse forms in the common xlsform format and to import and export data to DHIS2, which is probably the most installed health information management system. In terms of data collection, Iaso differentiate itself from other data collection tools by being offline-first, ensuring that data collection can happen even when no internet connectivity is available. \nDesign for Scale - Performance is at the center of our work as, for cost effectiveness,  we try to host multiple customers on the same servers, while still providing a quality experience to each customer individually. This leads us to constantly monitor performance. Outside of the performance issue, Iaso is also designed to split the work of various teams in sub teams, or to limit access by geographical scope, which allows sometimes thousands of people to collaborate on the same data collection effort without conflicting results. \n Build for Sustainability - We rely on open source software components and are building a solution that organizations can install and manage locally.  \nReuse and Improve - We have reused lots of various products, and amongst them, the ODK project, which is a digital public good"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The project has a strong focus on security of the data stored, on restricting access to data to only the authorized users, based on their geographical and managerial features, in the goal of avoiding doing harm to end users by letting their data be communicated outside of the scope they intended it for. \n The project also features lots of traceability features, allowing to understand where changes to data are coming from and detect potential abuse. \nFinally, by focussing on open formats, the project aims at keeping the collected data usable outside of Iaso, so that efforts invested in the software are not lost if in the future the development is discontinued."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -58,7 +67,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "All data collection efforts are benefiting from password protection, and no PII is transferred from the central server to the mobile devices. Data access is segmented and access to the data collection interfaces does not mean access to all the data collected in underlying efforts. Data sharing agreements have use Passwords and are encrypted and all traffic to non secure http are redirected to https. \nThe software is hostable locally, which allows it to observe local data storage laws for patient/beneficiary data. "
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
