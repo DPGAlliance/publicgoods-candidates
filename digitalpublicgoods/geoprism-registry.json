@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://georegistry-api-docs.geoprism.net",
+      "https://api.geoprismregistry.com/",
       "https://geoprismregistry.com/",
       "Developer documentation - https://github.com/terraframe/geoprism-registry/wiki",
       "Installation guide (without docker) - https://github.com/terraframe/geoprism-registry/wiki/Install-on-Linux-or-Mac"
