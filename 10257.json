@@ -1,0 +1,114 @@
+	{
+    "id": "10257",
+    "name": "Vxnaid",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Vaccination Monitoring Platform"
+    ],
+    "description": "Vxnaid is a digital platform that supports correct vaccine administration & efficient vaccination campaigns. Enable broad adoption of Vxnaid especially in RLS countries to ensure correct administration of vaccines, identification of vaccinees, follow-up/recall of vaccinated persons and understanding of vaccination campaign effectiveness.",
+    "website": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "This project is selected by J&J as part of their contribution to the Health for Humanity SDGs for 2025. It enables more effective vaccine administration and monitoring of vaccination campaign efficiency."
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/johnsonandjohnson/vxnaid"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Johnson & Johnson Global Public Health",
+            "clearOwnershipURL": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf"
+        }
+    ],
+    "documentation": "https://github.com/johnsonandjohnson/vxnaid/wiki",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "For exporting, CSV and access-controlled REST API can be used. \nOur ETL module (see https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/ETL-Lite-Module) can be used for data import of any standard."
+    },
+    "openStandards": [
+        "The standards used are made available through the Open Concept Lab (OCL) module for OpenMRS. This is referenced on our wiki page:https://github.com/johnsonandjohnson/vxnaid/wiki/Install-Backend-OpenMRS-System#startup-process",
+        "OCL supports CIEL",
+        " LOINC",
+        " SNOMED-GPS",
+        " SNOMED-TEST and ICD-10.  J&J SDLC standard with agile methodology (scrum) is followed",
+        " which includes compliance analysis",
+        " user stories in Jira",
+        " SIT",
+        " UAT and automation testing in Jira",
+        " change management",
+        " traceability matrix",
+        " Continuous Integration & Continuous Deployment pipelines. "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Vaccinee number and limited demographics",
+            "Vaccination status"
+        ],
+        "dataPrivacySecurity": " Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual\u2019s health information. Application has role-based access control and segregation of duties. Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual\u2019s health information. Application has role-based access control and segregation of duties."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium"
+        ],
+        "deploymentCountries": [
+            "Rwanda",
+            "Sierra Leone",
+            "Democratic Republic of the Congo",
+            "Mali",
+            "Philippines",
+            "Colombia",
+            "Tanzania"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Vxnaid platform offers other identification modalities that are not dependent upon VeriEye. The system offers other possibilities to identify a person: \n- Based on the reading of a QR or barcode (this can come from a national ID card",
+            " a vaccination invitation",
+            " a study card\u2026) \n- Based on the manual data entry of any unique ID pin the campaign wishes to use \n - Based on a combination of the above with a mobile phone number being captured. \nOur source code is modular and the use of biometrics (making use of VeriEye) is not obliged in the identification module as these other options are offered in our code."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Vxnaid",
+            "website": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf",
+            "org_type": "owner",
+            "contact_name": " Paula Mc Kenna  ",
+            "contact_email": "pmckenna@its.jnj.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "AU Treaty and EU GDPR Formal data privacy assessment of relevant legal requirements by an independent agency with a view to potential deployment of platform in RLS countries"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
