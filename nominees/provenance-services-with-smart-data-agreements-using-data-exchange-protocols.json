@@ -9,7 +9,7 @@
   "license": [
     {
       "spdx": "Apache-2.0",
-      "licenseURL": "https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/LICENSE"
+      "licenseURL": "https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE"
     }
   ],
   "SDGs": [
@@ -42,12 +42,12 @@
   ],
   "organizations": [
     {
-      "name": "LCubed AB (iGrant.io)",
+      "name": "LCubed AB, Sweden (iGrant.io)",
       "website": "https://igrant.io/",
       "org_type": "maintainer",
       "contact_name": "Lal Chandran",
       "contact_email": "lal@igrant.io"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
