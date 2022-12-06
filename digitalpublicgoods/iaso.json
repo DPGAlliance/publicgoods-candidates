@@ -5,8 +5,8 @@
     "copyrightURL": "https://www.bluesquarehub.com/iaso/"
   },
   "platformIndependence": {
-    "mandatoryDepsCreateMoreRestrictions": "Yes",
-    "isSoftwarePltIndependent": "No",
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
     "pltIndependenceDesc": ""
   },
   "documentation": {
