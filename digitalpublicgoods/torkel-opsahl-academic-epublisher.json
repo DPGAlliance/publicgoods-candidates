@@ -1,0 +1,100 @@
+{
+  "name": "Torkel Opsahl Academic EPublisher",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://toaep.org/copyright/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "The complete library of TOAEP publications is freely and immediately available on the TOAEP web site (https://toaep.org/about/). The information required to access the publications is available on the web site. The electronic version of all publications is available as a PDF-file that can be freely accessed, printed or downloaded. No software is required beyond a web browser and PDF-reader. There is no need to register as a user. The TOAEP publications can be accessed by author name (https://toaep.org/authors/) or by five publication series into which they are organised:",
+      "1. The Publication Series (https://toaep.org/ps/), TOAEP's oldest series, which publishes books (monographs and anthologies);",
+      "2. The Policy Brief Series (https://toaep.org/pbs/) which publishes shorter texts of approximately 4,000 words in a fixed 4-page layout;",
+      "3. The Occasional Paper Series (https://toaep.org/ops/) which publishes longer texts of a scholarly nature that do not have the volume to be separate books;",
+      "4. The Nuremberg Academy Series (https://toaep.org/nas/) which publishes books linked to the activities of the International Nuremberg Principles Academy; and",
+      "5. The Law of the Future Series (https://toaep.org/lotfs/) which publishes books linked to the activities of The Hague Institute for Innovation of Law."
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Content is available in PDF format in case there is need for downloading"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)."
+    ],
+    "adherenceSteps": [
+      "https://toaep.org/about/privacy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "PDF"
+    ],
+    "evidenceStandardSupport": [
+      "The electronic version of all TOAEP publications are available on the TOAEP web site (https://toaep.org/about/) as PDF-files, on the web pages indicated above. Users can freely and immediately access the publications provided they have a web browser and PDF-reader. Pursuant to TOAEP's user commitment since its establishment in 2010, there are no other requirements, and no technical or registration requirements will be introduced in the future.",
+      "https://toaep.org/ps/"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "All Principles for Digital Development have been followed in the conceptualisation, development and continued operation of TOAEP. In addition, TOAEP will not, in any manner whatsoever, harm the fundamental human rights of anyone as defined under the International Covenant on Civil and Political Rights. Moreover, TOAEP will fully observe the principle of equality and non-discrimination and not in any way discriminate on the basis of grounds such as religion, race, ethnicity, nationality or sexual orientation. Furthermore, TOAEP will not in any way contribute to harm to our shared natural environment."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All TOAEP content is added by the TOAEP Editorial Team, with final control by the Editor-in-Chief. All members of the Editorial Team are lawyers. It is not technically possible for anyone else to add TOAEP content. Editorial review is done on multiple levels, always involving a minimum of two editors. "
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://toaep.org/about/privacy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "TOAEP publishes literature on international law and related policy questions. By 1 November 2022, TOAEP had published more than 1,000 publications (including book chapters) by more than 730 authors since it was founded in 2010.",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://toaep.org/about/privacy/",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "No TOAEP content can be added unless explicitly approved by the TOAEP Editorial Team and its Editor-in-Chief (https://toaep.org/editors/). All manuscripts are subjected to review on multiple levels, involving a minimum of two editors. All members of the Editorial Team are lawyers. The TOAEP policy is zero tolerance of any illegal or inappropriate content as commonly understood, and to maintain TOAEP in such a way that it continues to be impossible for such content to be added to TOAEP. TOAEP is guided by applicable international human rights law standards."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Germany",
+      "Norway",
+      "India"
+    ],
+    "deploymentCountries": [
+      "Germany",
+      "Norway",
+      "India"
+    ]
+  }
+}
