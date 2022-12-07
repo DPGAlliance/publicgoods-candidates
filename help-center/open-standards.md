@@ -6,6 +6,7 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Security
 * [ISO/IEC 27001 (Information Security Management)](https://www.iso.org/isoiec-27001-information-security.html)
+* [ISO/IEC 27018:2019 (Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors)](https://www.iso.org/standard/76559.html)
 * PKI
 * HTTPS
 * SSL
@@ -35,7 +36,7 @@ Open standards establish protocols and building blocks that can help make digita
 * Latex
 
 #### Application Programming Interfaces (APIs)
-* OpenAPI
+* [OpenAPI](https://www.openapis.org/)
 * [GraphQL](https://graphql.org/)
 
 #### Data Exchange/ Configuration formats 
@@ -45,13 +46,12 @@ Open standards establish protocols and building blocks that can help make digita
 * [TOML](https://toml.io/en/)
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
 * [TIFF](https://en.wikipedia.org/wiki/TIFF)
-* [GeoTIFF](https://www.ogc.org/standards/geotiff)
 * [HDF5](https://www.ogc.org/standards/HDF5)
 * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
-#### Software Quality Assurance
-* IEEE
-* ISO/IEC
+#### Geographic Information System (GIS)
+* [GeoPackage](https://www.geopackage.org/)
+* [GeoTIFF](https://www.ogc.org/standards/geotiff)
 
 #### Software Testing 
 * IEEE829
@@ -85,4 +85,7 @@ Open standards establish protocols and building blocks that can help make digita
 
 #### Computer Communications Protocols
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
+#### Whistleblowing management systems
+* [ISO 37002:2021 (Whistleblowing management systems — Guidelines)](https://www.iso.org/standard/65035.html)
 
