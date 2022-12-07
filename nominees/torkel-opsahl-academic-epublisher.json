@@ -1,0 +1,46 @@
+{
+  "name": "Torkel Opsahl Academic EPublisher",
+  "aliases": [
+    "TOAEP"
+  ],
+  "description": "TOAEP is the first open access academic international law publisher.",
+  "website": "https://toaep.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://toaep.org/copyright/"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "TOAEP has been built to indefinitely provide free and immediate access to quality publications on international law to anyone with access to the Internet, regardless of their geographical location. TOAEP will remain non-profit and open access. As such, TOAEP is aligned with Goal 4 of the Sustainable Development Goals (‘SDGs’) (that is, it will “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all”).",
+      "evidenceURL": "https://toaep.org/about/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "TOAEP is directly aimed at Goal 16 of the SDGs (that is, to “promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels”). By publishing open access international law information, including on international criminal law, TOAEP aims to equip individuals with the knowledge required to ensure that there is accountability for core international crimes in their societies, organisations and countries.",
+      "evidenceURL": "https://toaep.org/about/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://toaep.org/about/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Centre for International Law Research and Policy (CILRAP)",
+      "website": "https://www.cilrap.org/",
+      "org_type": "owner",
+      "contact_name": "Morten Bergsmo, Director",
+      "contact_email": "bergsmo@cilrap.org"
+    }
+  ],
+  "stage": "DPG"
+}
