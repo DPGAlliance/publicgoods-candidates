@@ -1,0 +1,110 @@
+{
+  "name": "E-Heza",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/TIP-Global-Health/eheza-app/blob/main/LICENSE.txt"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://tip-global-health.github.io/eheza-documentation/",
+      "https://github.com/TIP-Global-Health/eheza-app"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Non-PII data can be extracted using the export function within the E-Heza backend application. Data can be extracted in the form of reports (CSV formatted) from preconfigured backend queries that restrict access to personally identifiable information and provide only non-PII data needed for reporting. These reports are restricted based on roles to administrators and data managers."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Rwandan Data Protection Law"
+    ],
+    "adherenceSteps": [
+      "For countries using the E-Heza software in other regions are responsible for complying with local legislation.",
+      "E-Heza uses the following template agreements and policies in work with implementation teams and systems to ensure adherence to all relevant domestic and international privacy laws:",
+      "- Data Protection Policy: https://tip-global-health.github.io/eheza-documentation/policy_docs/data-protection-policy/ ",
+      "- Protected Health Information Confidentiality Agreement: https://tip-global-health.github.io/eheza-documentation/policy_docs/confidentiality-policy/",
+      "- Business Agreement Template: https://tip-global-health.github.io/eheza-documentation/policy_docs/business-agreement-template/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR",
+      "ICD-11",
+      "WCAG 2.1"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/TIP-Global-Health/eheza-app"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "E-Heza is developed in line with the Principles for Digital Development.",
+      "E-Heza development follows an agile development process, with frequent releases, development in close collaboration with end users, early delivery of working software and emphasis on simplicity."
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "E-Heza adheres to all 'Do No Harm' policies established by our parent organization, TIP Global Health. This policy is available here - https://tip-global-health.github.io/eheza-documentation/policy_docs/do-no-harm/.  E-Heza's 'Do No Harm' approach focuses on patient and caregiver safety by: \n1. Preventing Errors:\n - \nE-Heza's decision logic model and all aspects of clinical care are governed by a clinical review process that includes physicians, healthcare workers, and digital health specialists. This work is reviewed by the E-Heza Executive committee. \n- Development work is open source and follows a peer review process in which all code is first reviewed by another developer before it is submitted to the QA process. \n- E-Heza adheres to best practices  privacy and data security standards to ensure the protection of private patient information. \n2. Learning from mistakes: \n- TIP Global Health's Model is based on gathering feedback and acting on it. There is a regular process of understanding challenges and potential errors which may cause harm. (https://tipglobalhealth.org/our-model/) \n- The feedback process is governed by the E-Heza Executive committee and overseen by the TIP Global Health Steering Committee. \n3. Promoting a culture of safety through safe practices and safe systems. \n - E-Heza’s training model is built to encourage co-design and encourages the foundational feedback mechanisms in order to understand both errors of omission and errors of commission."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Date of Birth",
+        "Address",
+        "Contact Information",
+        "National ID number"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "TIP  Global Health takes the following steps to ensure the privacy and security of data collected: \n- Healthcare workers sign and commit to a “Protected Health Information Confidentiality Agreement” and receive initial and ongoing training regarding privacy and security. \n - Access to E-Heza’s backend (where private data is held) is secured with role-based permission access and only site administrators with proper need are given access to private data. \n- Transfer of data between E-Heza’s front-end client and backend storage is through SSL-encrypted channels only and performed only with authenticated devices. \n- E-Heza maintains an access log which tracks all access and both to backend accounts and front end data collection. Weekly audits are performed on the access logs, and the  logs are maintained for one year (and then archived through the prescribed backup retention plan). \n- E-Heza’s development operation prohibits the use of non-anonymized data in the development process. No developer may hold personal information on their local system to transfer any personal information from a non-production environment outside the course of the normal backup procedure. \n - E-Heza engages in third-party security audits in order to procure recommendations for further privacy and security procedures."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "E-Heza is designed to be used only by healthcare workers and implementing organizations are responsible for screening healthcare workers for age. Each device is prescribed a unique pairing PIN which can only be set by an administrator and access is provided to healthcare workers with a unique PIN which identifies them on the device"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "E-Heza discussion and development is guided by: https://tip-global-health.github.io/eheza-documentation/community_docs/contribute-eheza/#code-of-conduct",
+        "E-Heza is actively moderated by the E-Heza project lead, who can flag and remove content or comments as needed."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Rwanda",
+      "United States of America",
+      "Canada",
+      "Israel",
+      "Hungary",
+      "Argentina",
+      "Spain",
+      "Russia"
+    ],
+    "deploymentCountries": [
+      "Rwanda"
+    ]
+  }
+}
