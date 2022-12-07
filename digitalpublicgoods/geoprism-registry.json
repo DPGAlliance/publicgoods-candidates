@@ -1,0 +1,106 @@
+{
+  "name": "GeoPrism Registry",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.terraframe.com/products"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://api.geoprismregistry.com/",
+      "https://geoprismregistry.com/",
+      "Developer documentation - https://github.com/terraframe/geoprism-registry/wiki",
+      "Installation guide (without docker) - https://github.com/terraframe/geoprism-registry/wiki/Install-on-Linux-or-Mac"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Here is the documentation for importing data using non-proprietary formats - https://docs.geoprismregistry.com/readme/current/geoprism-registry-tutorial/6.5-content-management/6.5.1-lists-and-spatial-data/6.5.1.1-import \nHere is the documentation for exporting data using non-proprietary formats - https://docs.geoprismregistry.com/readme/current/geoprism-registry-tutorial/6.5-content-management/6.5.1-lists-and-spatial-data/6.5.1.7-export \nHere is the API documentation for getting data in JSON format - https://api.geoprismregistry.com/#tag/List/operation/data \nThat site also documents how to import data in GeoJSON format."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GeoPrism Registry does not manage personal data, but rather lists, hierarchies and geospatial data curated by the ministries with the authoritative mandate. This includes administrative divisions, villages, infrastructure, and other relevant physical and virtual features."
+    ],
+    "adherenceSteps": [
+      "Documentation on the user roles to ensure only the organizations with the authoritative mandate can make data public: https://terraframe.atlassian.net/wiki/spaces/GGR/pages/931004419/User+Management"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "OAuth 2",
+      "SAML",
+      "UTF-8",
+      "HTML",
+      "CSS",
+      "ECMAScript",
+      "REST",
+      "OpenAPI",
+      "JSON",
+      "GeoJSON",
+      "XML",
+      "VectorTiles"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/terraframe/geoprism-registry/tree/master/georegistry-test"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Understand the Existing Ecosystem, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Standards, Open Source and Open Innovation, Reuse and Improve, Address Privacy & Security, Be Collaborative"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "A multi-tenant architecture and role-based access controls ensure that only the organizations with the authoritative mandate can share and make public geospatial data. Changes to data are supervised through change request management workflow to ensure sensitive data are not made public."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "GeoPrism Registry does not manage personal data, but rather lists, hierarchies and geospatial data curated by the ministries with the authoritative mandate. This includes administrative divisions, villages, infrastructure, and other relevant physical and virtual features."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      "Laos",
+      "Mozambique",
+      "United States of America"
+    ]
+  }
+}
