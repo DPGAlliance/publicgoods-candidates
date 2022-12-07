@@ -29,6 +29,22 @@ Below are some of the common best practices and principles implemented by severa
 * Microservices architecture
 * [SOLID principles of object oriented programming](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
+#### Software Architectural Styles
+* Multitier architecture
+* Model–view–controller
+* Representational state transfer (REST)
+* Publish-subscribe
+* Client-server (multitier architecture exhibits this style)
+* Monolithic application
+* Service-oriented
+* Component-based
+* Peer-to-peer
+* Asynchronous messaging
+* Event-driven
+* Database-centric
+* Sensor-controller-actuator
+* Cloud computing patterns
+
 #### Cloud Computing
 * [AWS Best Practices For Cloud Environments](https://aws.amazon.com/blogs/publicsector/aws-well-architected-framework-best-practices-for-building-and-deploying-an-optimized-cloud-environment/)
 * [Google Best Practices For Enterprise Organizations Leveraging Cloud](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)
@@ -59,6 +75,7 @@ Below are some of the common best practices and principles implemented by severa
 
 #### Open Source 
 * [Best practices For Open Source Maintainers](https://opensource.guide/best-practices/)
+* [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
 * [Google Open Source](https://opensource.google/docs/)
 * [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/)
 

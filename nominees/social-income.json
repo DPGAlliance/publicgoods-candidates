@@ -1,0 +1,46 @@
+{
+  "name": "Social Income",
+  "aliases": [
+    ""
+  ],
+  "description": "Social Income provides an end-to-end solution to manage direct-cash transfer projects or universal basic income pilots. This includes funding grassroots fundraising, contributor management, selection management with third-party NGOs and payment management (not the actual payment, this can be done with any local mobile money provider).",
+  "website": "https://socialincome.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/socialincome-san/public/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "It fights poverty by giving people in poverty the means to escape the poverty trap",
+      "evidenceURL": "https://socialincome.org/evidence"
+    },
+    {
+      "SDGNumber": 10,
+      "evidenceText": "We carry out a direct redistribution of wealth based on solidarity and enabled by technology.",
+      "evidenceURL": "https://socialincome.org/evidence"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Social Income Public Repo (mono repo for all tools)",
+      "url": "https://github.com/socialincome-san/public"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Social Income",
+      "website": "https://socialincome.org",
+      "org_type": "funder",
+      "contact_name": "Sandino Scheidegger",
+      "contact_email": "sandino@socialincome.org"
+    }
+  ],
+  "stage": "nominee"
+}
