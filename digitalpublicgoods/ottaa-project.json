@@ -22,7 +22,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Data can be transfered using JSON format. Reference : https://ottaa-project.github.io/PictogramsPredictionsLibrary/docs/howtouse"
+    "nonPIIAccessMechanism": "Data can be transfered using JSON format. Reference : https://ottaa-project.github.io/docs/techno"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
