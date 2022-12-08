@@ -1,7 +1,8 @@
 {
   "name": "Open Concept Lab",
   "clearOwnership": {
-    "isOwnershipExplicit": "Unknown"
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://openconceptlab.org/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -11,7 +12,9 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      "https://docs.openconceptlab.org/"
+      "https://docs.openconceptlab.org/",
+      "https://github.com/OpenConceptLab/oclapi2",
+      "https://github.com/OpenConceptLab/oclweb2"
     ]
   },
   "NonPII": {
@@ -65,9 +68,9 @@
       "privacySecurityDescription": ""
     },
     "inappropriateIllegalContent": {
-      "collectStoreDistribute": "Yes",
-      "type": "Terminology and metadata definitions and relationships/mappings between metadata definitions",
-      "contentFilter": "No",
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
       "policyGuidelinesDocumentationLink": "",
       "illegalContentDetection": "No",
       "illegalContentDetectionMechanism": ""
