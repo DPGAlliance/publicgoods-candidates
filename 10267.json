@@ -1,0 +1,347 @@
+	{
+    "id": "10267",
+    "name": "KoboToolbox",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Kobo"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "KoboToolbox is a suite of free and open-source tools for field data collection in challenging environments.",
+    "website": "https://www.kobotoolbox.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/kobotoolbox/kpi,https://github.com/kobotoolbox/kobocat,https://github.com/kobotoolbox/kobo-install"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/kobotoolbox/kpi/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Kobo, Inc",
+            "clearOwnershipURL": "https://www.kobotoolbox.org/kobo"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Users are able to access and export their data in a variety of formats, including JSON, CSV, XLS, geoJSON, XML."
+    },
+    "documentation": "https://support.kobotoolbox.org/,\r\nhttps://github.com/kobotoolbox/kobo-docker,\r\nhttps://github.com/kobotoolbox/kpi/blob/master/CONTRIBUTING.md,\r\nhttps://github.com/kobotoolbox/kobo-install",
+    "openStandards": [
+        "Support for W3 accessibility standards is being applied progressively."
+    ],
+    "bestPractices": [
+        "User interface design principles."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "User's email addresses are mandatory when creating accounts. Users may voluntarily provide other details. Users further use KoboToolbox to collect any data that they require for their own purposes",
+            " which may include PII; only users have access to this data."
+        ],
+        "dataPrivacySecurity": "We try to educate users about the proper way to collect data, to protect their accounts, and we take steps to disable accounts when informed of any issues such as account passwords having been shared. We have also implemented multi-factor authentication to enhance account security and users are able to encrypt their collected data.\r\n\r\nRegular monitoring of dependencies, secure access to server resources, education of users about encryption-at-rest options, etc. More details available if needed. \r\n\r\nPrivacy policy: https://www.kobotoolbox.org/privacy"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Users may collect text data",
+            " audio files",
+            " images",
+            " or video files as required by their projects. None are available for public distribution",
+            " so the following questions do not apply."
+        ],
+        "contentManagementPolicy": " "
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "Central African Republic",
+            "Chile",
+            "Democratic Republic of the Congo",
+            "France",
+            "Liberia",
+            "Poland",
+            "South Africa",
+            "Uganda",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Albania",
+            "Algeria",
+            "Andorra",
+            "Angola",
+            "Antigua and Barbuda",
+            "Argentina",
+            "Armenia",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Benin",
+            "Bhutan",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Botswana",
+            "Brazil",
+            "Brunei",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile",
+            "China",
+            "Colombia",
+            "Comoros",
+            "Congo (Congo-Brazzaville)",
+            "Costa Rica",
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czechia (Czech Republic)",
+            "Democratic Republic of the Congo",
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt",
+            "El Salvador",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Estonia",
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "France",
+            "Gabon",
+            "Gambia",
+            "Georgia",
+            "Germany",
+            "Ghana",
+            "Greece",
+            "Grenada",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana",
+            "Haiti",
+            "Honduras",
+            "Hungary",
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kenya",
+            "Kiribati",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Latvia",
+            "Lebanon",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Madagascar",
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Marshall Islands",
+            "Mauritania",
+            "Mauritius",
+            "Mexico",
+            "Micronesia",
+            "Moldova",
+            "Monaco",
+            "Mongolia",
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Nauru",
+            "Nepal",
+            "Netherlands",
+            "New Zealand",
+            "Nicaragua",
+            "Niger",
+            "Nigeria",
+            "North Macedonia",
+            "Norway",
+            "Oman",
+            "Pakistan",
+            "Palau",
+            "Palestine State",
+            "Panama",
+            "Papua New Guinea",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Qatar",
+            "Romania",
+            "Russia",
+            "Rwanda",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Samoa",
+            "San Marino",
+            "Sao Tome and Principe",
+            "Saudi Arabia",
+            "Senegal",
+            "Serbia",
+            "Seychelles",
+            "Sierra Leone",
+            "Singapore",
+            "Slovakia",
+            "Slovenia",
+            "Solomon Islands",
+            "Somalia",
+            "South Africa",
+            "South Korea",
+            "South Sudan",
+            "Spain",
+            "Sri Lanka",
+            "Sudan",
+            "Suriname",
+            "Sweden",
+            "Switzerland",
+            "Syria",
+            "Tajikistan",
+            "Tanzania",
+            "Thailand",
+            "Timor-Leste",
+            "Togo",
+            "Tonga",
+            "Trinidad and Tobago",
+            "Tunisia",
+            "Turkey",
+            "Turkmenistan",
+            "Tuvalu",
+            "Uganda",
+            "Ukraine",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States of America",
+            "Uruguay",
+            "Uzbekistan",
+            "Vanuatu",
+            "Venezuela",
+            "Vietnam",
+            "Yemen",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        "International Labour Organization",
+        "International Telecommunication Union",
+        "Joint United Nations Programme on HIV/AIDS",
+        "United Nations Capital Development Fund",
+        "United Nations Human Rights Council (UNHRC)",
+        "United Nations Development Programme",
+        "United Nations Educational",
+        " Scientific and Cultural Organization (UNESCO)",
+        "United Nations Environment Programme",
+        "United Nations Human Settlements Programme",
+        "United Nations Industrial Development Organization",
+        "United Nations Office for Disaster Risk Reduction (UNISDR)",
+        "World Health Organization (WHO)",
+        "World Food Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "KoboToolbox is used by more than 350 government institutions and many international development banks."
+    ],
+    "otherDeploymentOrganisations": [
+        "More than 14",
+        "000 non-governmental and international organisations use our tools to create data-driven social impact across the world. KoboToolbox is also actively used by virtually all United Nations agencies and the International Red Cross and Red Crescent Movement."
+    ],
+    "awardsReceived": [
+        "Anthem Awards Gold Winner: Product",
+        " Innovation",
+        " Or Service Categories (Nonprofit): https://www.anthemawards.com/winners/list/#humanitarian-action-services/product-innovation-or-service-categories-not-for-profit/1976/25391"
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "In Ukraine, the IFRC and national Red Cross societies are using KoboToolbox to provide critical support to people affected by the conflict, both inside and outside the country.\r\n\r\nA World Bank Air Quality Management technical assistance program, aimed at reducing air pollution in the Indo-Gangetic Plain (IGP) states, worked with The Energy and Resources Institute (TERI) to use KoboToolbox for a survey to underpin a Clean Cookstove Pilot in Bihar that established 25 women-led energy enterprises in the area.\r\n\r\nKoboToolbox partnered with Education Above All (EAA) and UNESCO to build TRACE - the Track Attacks on Education Data Portal.org. TRACE is an online portal that generates reliable, timely data on attacks on education. The goal of this portal is to inform advocates, policy makers, and journalists. We also built it to make it easier to share this crucial data with humanitarian and development workers, as well as the communities whose schools are most affected by conflicts and violence.\r\n\r\nIn the Philippines, the Department of Agrarian Reform uses KoboToolbox to gather crucial geo-tagged data for the Support to Parcelization of Lands for Individual Titling project.\r\n\r\nKoboToolbox has been used to streamline data collection and disaster relief efforts for 5,000 households in Cartagena in the aftermath of Hurricane Iota in late 2020.\r\n\r\nIn Uganda, KoboToolbox has been used to monitor deworming activities that are crucial to the health of school children.\r\n \r\nIn South Sudan, KoboToolbox has been used to map remote health facilities and track available services and medicine.\r\n \r\nIn Niger, KoboToolbox is used to plan and supervise infrastructure investments for refugees.\r\n \r\nKoboToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic.\r\n\r\nMore stories about how KoboToobox is being used around the world can be found at our blog: https://www.kobotoolbox.org/blog/"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "In Ukraine, the IFRC and national Red Cross societies are using KoboToolbox to provide critical support to people affected by the conflict, both inside and outside the country.\r\n\r\nA World Bank Air Quality Management technical assistance program, aimed at reducing air pollution in the Indo-Gangetic Plain (IGP) states, worked with The Energy and Resources Institute (TERI) to use KoboToolbox for a survey to underpin a Clean Cookstove Pilot in Bihar that established 25 women-led energy enterprises in the area.\r\n\r\nKoboToolbox partnered with Education Above All (EAA) and UNESCO to build TRACE - the Track Attacks on Education Data Portal.org. TRACE is an online portal that generates reliable, timely data on attacks on education. The goal of this portal is to inform advocates, policy makers, and journalists. We also built it to make it easier to share this crucial data with humanitarian and development workers, as well as the communities whose schools are most affected by conflicts and violence.\r\n\r\nIn the Philippines, the Department of Agrarian Reform uses KoboToolbox to gather crucial geo-tagged data for the Support to Parcelization of Lands for Individual Titling project.\r\n\r\nKoboToolbox has been used to streamline data collection and disaster relief efforts for 5,000 households in Cartagena in the aftermath of Hurricane Iota in late 2020.\r\n\r\nIn Uganda, KoboToolbox has been used to monitor deworming activities that are crucial to the health of school children.\r\n \r\nIn South Sudan, KoboToolbox has been used to map remote health facilities and track available services and medicine.\r\n \r\nIn Niger, KoboToolbox is used to plan and supervise infrastructure investments for refugees.\r\n \r\nKoboToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic.\r\n\r\nMore stories about how KoboToobox is being used around the world can be found at our blog: https://www.kobotoolbox.org/blog/"
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "In Ukraine, the IFRC and national Red Cross societies are using KoboToolbox to provide critical support to people affected by the conflict, both inside and outside the country.\r\n\r\nA World Bank Air Quality Management technical assistance program, aimed at reducing air pollution in the Indo-Gangetic Plain (IGP) states, worked with The Energy and Resources Institute (TERI) to use KoboToolbox for a survey to underpin a Clean Cookstove Pilot in Bihar that established 25 women-led energy enterprises in the area.\r\n\r\nKoboToolbox partnered with Education Above All (EAA) and UNESCO to build TRACE - the Track Attacks on Education Data Portal.org. TRACE is an online portal that generates reliable, timely data on attacks on education. The goal of this portal is to inform advocates, policy makers, and journalists. We also built it to make it easier to share this crucial data with humanitarian and development workers, as well as the communities whose schools are most affected by conflicts and violence.\r\n\r\nIn the Philippines, the Department of Agrarian Reform uses KoboToolbox to gather crucial geo-tagged data for the Support to Parcelization of Lands for Individual Titling project.\r\n\r\nKoboToolbox has been used to streamline data collection and disaster relief efforts for 5,000 households in Cartagena in the aftermath of Hurricane Iota in late 2020.\r\n\r\nIn Uganda, KoboToolbox has been used to monitor deworming activities that are crucial to the health of school children.\r\n \r\nIn South Sudan, KoboToolbox has been used to map remote health facilities and track available services and medicine.\r\n \r\nIn Niger, KoboToolbox is used to plan and supervise infrastructure investments for refugees.\r\n \r\nKoboToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic.\r\n\r\nMore stories about how KoboToobox is being used around the world can be found at our blog: https://www.kobotoolbox.org/blog/"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "In Ukraine, the IFRC and national Red Cross societies are using KoboToolbox to provide critical support to people affected by the conflict, both inside and outside the country.\r\n\r\nA World Bank Air Quality Management technical assistance program, aimed at reducing air pollution in the Indo-Gangetic Plain (IGP) states, worked with The Energy and Resources Institute (TERI) to use KoboToolbox for a survey to underpin a Clean Cookstove Pilot in Bihar that established 25 women-led energy enterprises in the area.\r\n\r\nKoboToolbox partnered with Education Above All (EAA) and UNESCO to build TRACE - the Track Attacks on Education Data Portal.org. TRACE is an online portal that generates reliable, timely data on attacks on education. The goal of this portal is to inform advocates, policy makers, and journalists. We also built it to make it easier to share this crucial data with humanitarian and development workers, as well as the communities whose schools are most affected by conflicts and violence.\r\n\r\nIn the Philippines, the Department of Agrarian Reform uses KoboToolbox to gather crucial geo-tagged data for the Support to Parcelization of Lands for Individual Titling project.\r\n\r\nKoboToolbox has been used to streamline data collection and disaster relief efforts for 5,000 households in Cartagena in the aftermath of Hurricane Iota in late 2020.\r\n\r\nIn Uganda, KoboToolbox has been used to monitor deworming activities that are crucial to the health of school children.\r\n \r\nIn South Sudan, KoboToolbox has been used to map remote health facilities and track available services and medicine.\r\n \r\nIn Niger, KoboToolbox is used to plan and supervise infrastructure investments for refugees.\r\n \r\nKoboToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic.\r\n\r\nMore stories about how KoboToobox is being used around the world can be found at our blog: https://www.kobotoolbox.org/blog/"
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "In Ukraine, the IFRC and national Red Cross societies are using KoboToolbox to provide critical support to people affected by the conflict, both inside and outside the country.\r\n\r\nA World Bank Air Quality Management technical assistance program, aimed at reducing air pollution in the Indo-Gangetic Plain (IGP) states, worked with The Energy and Resources Institute (TERI) to use KoboToolbox for a survey to underpin a Clean Cookstove Pilot in Bihar that established 25 women-led energy enterprises in the area.\r\n\r\nKoboToolbox partnered with Education Above All (EAA) and UNESCO to build TRACE - the Track Attacks on Education Data Portal.org. TRACE is an online portal that generates reliable, timely data on attacks on education. The goal of this portal is to inform advocates, policy makers, and journalists. We also built it to make it easier to share this crucial data with humanitarian and development workers, as well as the communities whose schools are most affected by conflicts and violence.\r\n\r\nIn the Philippines, the Department of Agrarian Reform uses KoboToolbox to gather crucial geo-tagged data for the Support to Parcelization of Lands for Individual Titling project.\r\n\r\nKoboToolbox has been used to streamline data collection and disaster relief efforts for 5,000 households in Cartagena in the aftermath of Hurricane Iota in late 2020.\r\n\r\nIn Uganda, KoboToolbox has been used to monitor deworming activities that are crucial to the health of school children.\r\n \r\nIn South Sudan, KoboToolbox has been used to map remote health facilities and track available services and medicine.\r\n \r\nIn Niger, KoboToolbox is used to plan and supervise infrastructure investments for refugees.\r\n \r\nKoboToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic.\r\n\r\nMore stories about how KoboToobox is being used around the world can be found at our blog: https://www.kobotoolbox.org/blog/"
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "In Ukraine, the IFRC and national Red Cross societies are using KoboToolbox to provide critical support to people affected by the conflict, both inside and outside the country.\r\n\r\nA World Bank Air Quality Management technical assistance program, aimed at reducing air pollution in the Indo-Gangetic Plain (IGP) states, worked with The Energy and Resources Institute (TERI) to use KoboToolbox for a survey to underpin a Clean Cookstove Pilot in Bihar that established 25 women-led energy enterprises in the area.\r\n\r\nKoboToolbox partnered with Education Above All (EAA) and UNESCO to build TRACE - the Track Attacks on Education Data Portal.org. TRACE is an online portal that generates reliable, timely data on attacks on education. The goal of this portal is to inform advocates, policy makers, and journalists. We also built it to make it easier to share this crucial data with humanitarian and development workers, as well as the communities whose schools are most affected by conflicts and violence.\r\n\r\nIn the Philippines, the Department of Agrarian Reform uses KoboToolbox to gather crucial geo-tagged data for the Support to Parcelization of Lands for Individual Titling project.\r\n\r\nKoboToolbox has been used to streamline data collection and disaster relief efforts for 5,000 households in Cartagena in the aftermath of Hurricane Iota in late 2020.\r\n\r\nIn Uganda, KoboToolbox has been used to monitor deworming activities that are crucial to the health of school children.\r\n \r\nIn South Sudan, KoboToolbox has been used to map remote health facilities and track available services and medicine.\r\n \r\nIn Niger, KoboToolbox is used to plan and supervise infrastructure investments for refugees.\r\n \r\nKoboToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic.\r\n\r\nMore stories about how KoboToobox is being used around the world can be found at our blog: https://www.kobotoolbox.org/blog/"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "KoboToolbox",
+            "website": "https://www.kobotoolbox.org",
+            "org_type": "owner",
+            "contact_name": " Tino Kreutzer  ",
+            "contact_email": "tino.kreutzer@kobotoolbox.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR \r\n",
+            "privacyComplianceURL": "- Consultations with specialists and lawyers,\r\n- Terms of service: https://www.kobotoolbox.org/terms/,\r\n- Privacy policy: https://www.kobotoolbox.org/privacy/"
+        }
+    ]
+}
