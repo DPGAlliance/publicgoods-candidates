@@ -21,31 +21,31 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The project adheres to GDPR and for organizations that opt in to using SMS (text messaging)"
     ],
     "adherenceSteps": [
-      ""
+      "Terms and conditions: https://casa-qa.herokuapp.com/sms-terms-conditions.html"
     ]
   },
   "standards": {
-    "supportStandards": "No",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Standards - HTTPS, SSL, SSH, OAuth 2, JWT, UTF-8, HTML, CSS, ES7, REST, JSON, CSV, PDF, PNG"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/rubyforgood/casa"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "agile development"
+      "Best Practices - Agile Development, 12 Factor, TDD, CI/CD, Code Reviews, DRY, Azure Hosted, StandardRB styleguide"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "Our code of conduct: https://github.com/rubyforgood/casa/blob/main/code-of-conduct.md additionally the team meets weekly with the folks who are working on the project and has an additional meeting with the CASAs who use to software to ensure they we are building it in the best possible way."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "We collect names and organizations of the organizations using the software on an opt-in basis. This is because we build reports for them to the national network they are all members of and we need this to save them time in generating the reports."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
