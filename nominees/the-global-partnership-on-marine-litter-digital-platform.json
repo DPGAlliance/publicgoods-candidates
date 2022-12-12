@@ -9,6 +9,10 @@
     {
       "spdx": "AGPL-3.0",
       "licenseURL": "https://github.com/akvo/unep-gpml/blob/main/LICENSE"
+    },
+    {
+      "spdx": "CC0-1.0",
+      "licenseURL": "https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf"
     }
   ],
   "SDGs": [
