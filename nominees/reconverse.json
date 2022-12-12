@@ -1,0 +1,67 @@
+{
+  "name": "Reconverse",
+  "aliases": [
+    "RECON"
+  ],
+  "description": "Reconverse aims to provide a coherent and composable suite of analytics tools for informing the response to disease outbreaks, health emergencies and humanitarian crises, using the R software environment.",
+  "website": "https://www.reconverse.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/reconverse/grates/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Recoverse is a package of open-source software analytics to help field experts, epidemiologists, researchers, and others make informed responses to disease outbreaks, health emergencies and humanitarian crises",
+      "evidenceURL": "https://www.reconverse.org/posts/2021-03-09-welcome-to-the-reconverse/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "grates",
+      "url": "https://github.com/reconverse/grates"
+    },
+    {
+      "name": "incidence2",
+      "url": "https://github.com/reconverse/incidence2/"
+    },
+    {
+      "name": "i2extras",
+      "url": "https://github.com/reconverse/i2extras/"
+    },
+    {
+      "name": "outbreaks",
+      "url": "https://github.com/reconverse/outbreaks/"
+    },
+    {
+      "name": "reportfactory",
+      "url": "https://github.com/reconverse/reportfactory/"
+    },
+    {
+      "name": "trending",
+      "url": "https://github.com/reconverse/trending/"
+    },
+    {
+      "name": "trendeval",
+      "url": "https://github.com/reconverse/trendeval/"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Epiverse, data.org",
+      "website": "https://data.org/",
+      "org_type": "owner",
+      "contact_name": "Thibaut Jombart",
+      "contact_email": "thibautjombart@gmail.com"
+    }
+  ],
+  "stage": "nominee"
+}
