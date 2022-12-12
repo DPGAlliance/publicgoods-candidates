@@ -2,12 +2,12 @@
   "name": "The Global Partnership on Marine Litter Digital Platform",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://www.unep.org/explore-topics/oceans-seas/what-we-do/addressing-land-based-pollution/global-partnership-marine#:~:text=The%20GPML%20is%20a%20multi,to%20this%20pressing%20global%20issue."
+    "copyrightURL": "https://digital.gpmarinelitter.org/"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "Some of the software used in developing the functionalities of the platform are not open source. For example ESRI ArcGIS online has been used in the implementation of the data hub component."
+    "pltIndependenceDesc": "Some of the software used in developing the functionalities of the platform are not open source. For example ESRI ArcGIS online has been used in the implementation of the data hub component. Data Hub is dependent on ESRI ArcGIS. Major frontend components cannot be overhaul without re-writing the code base. Data displayed in the Data Hub is hosted and served from ESRI ArcGIS. As an alternative, the backend can be moved into local servers and serve with third party software such as GeoServer."
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
@@ -17,36 +17,39 @@
     ]
   },
   "NonPII": {
-    "collectsNonPII": "Unknown",
-    "checkNonPIIAccessMechanism": "",
-    "nonPIIAccessMechanism": ""
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The GPML Digital Platform provides access to stakeholder profiles, and metadata to different resources and datasets. Data captured in the platform includes Open Data, Personal Data and Web Traffic Data.Open Data; is captured through the add resources and add data forms. Personal Data is mainly captured during stakeholder registration and contains PII; and - Web Traffic Data is captured anonymously through google analytics for purposes of monitoring the sites usage.During registration GPML Digital Platform users are required to create a profile including their name,email, affiliation, interests, expertise and geographical coverage. The stakeholder profile is only visible to registered users of the digital platform. Users have the option to decide whether their email should be displayed as part of their profile. The information will also be used in developing recommendation functionalities in the platform aimed at strengthening stakeholder engagement.Registered stakeholders can contribute knowledge to the digital platform by completing the add resource and add data forms to submit their resources and datasets. All the metadata submitted is openly accessible to all users of the digital platform. Submitted resources and datasets are attributed to relevant Stakeholder(s) that own the resources and is not a representation of UNEP’s views, beliefs, or opinions. \nAdditional information on data captured and use is available in the terms of use/ privacy policy - https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "The GPML  Digital Platform Privacy  Policy, Personal Data Protection and Terms of Use is framed within the UN Personal  Data Protection and Privacy Principles, the UNEP Access-to-Information Policy and relevant  UN administrative issuances."
+      "The GPML Digital Platform Privacy  Policy, Personal Data Protection and Terms of Use is framed within the UN Personal  Data Protection and Privacy Principles, the UNEP Access-to-Information Policy and relevant  UN administrative issuances."
     ],
     "adherenceSteps": [
       "https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Security: HTTPS",
+      "Authentication: OPenID, 0Auth2",
+      "Web standards: HTML, CSS",
+      "Data, Multimedia and Content: PDF, OpenAPI, JSON, CSV, TIFF, GeoTIFF, PNG, JPEG, XML."
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/akvo/unep-gpml"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "User Centered Design"
+      "UNEP is continuously engaging with a wide range of entities involved in plastic pollution and marine litter to help advise on, and guide the development of, key aspects of the Digital Platform. User consultations are continuously conducted with key user groups to ensure their inputs drive the development of the platform. Communities of Practices were also established to foster stakeholder engagement and consensus from the scientific community."
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The GPML Digital Platform seeks to provide access to curated content on plastic pollution and marine litter. To achieve this, resources, data and stakeholders are validated before being made available on the platform. The purpose of the validation is to ensure that data and information submitted to the GPML Digital platform is complete, correct, accurate, comprehensive, usable and in line with UNEP's vision regarding plastic pollution and marine litter. The GPML Digital Platform Validation Process is a two-step process, beginning with an internal check by the GPML Team for content to be published and ending with an in-depth external check through the community of practices. User consultations on possible improvements to the process are underway. Additionally, security safeguards designed to protect Stakeholders data, such as HTTPS, have been implemented and systems are regularly monitored for possible vulnerabilities and attacks."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -58,7 +61,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "https://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
+      "privacySecurityDescription": "Security safeguards designed to protect Stakeholders data, such as HTTPS, have been implemented and systems are regularly monitored for possible vulnerabilities and attacks.However, UNEP cannot warrant the security of any information that is received. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of UNEP's physical, technical, or managerial safeguards. \nhttps://digital.gpmarinelitter.org/privacy-policy-and-terms-of-use.pdf"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
