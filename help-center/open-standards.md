@@ -5,6 +5,8 @@ Open standards establish protocols and building blocks that can help make digita
 * [WCAG 2.0/2.1 (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 #### Security
+* [ISO/IEC 27001 (Information Security Management)](https://www.iso.org/isoiec-27001-information-security.html)
+* [ISO/IEC 27018:2019 (Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors)](https://www.iso.org/standard/76559.html)
 * PKI
 * HTTPS
 * SSL
@@ -33,25 +35,23 @@ Open standards establish protocols and building blocks that can help make digita
 * ECMAScript (ES 5/6/7)
 * Latex
 
-#### Software Architectural Styles
-* REST (Representational State Transfer)
-
 #### Application Programming Interfaces (APIs)
-* OpenAPI
+* [OpenAPI](https://www.openapis.org/)
+* [GraphQL](https://graphql.org/)
 
-#### Data Exchange formats 
+#### Data Exchange/ Configuration formats 
 * [JSON](https://www.json.org/json-en.html)
 * [YAML](https://yaml.org/)
 * [XML](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
+* [TOML](https://toml.io/en/)
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
 * [TIFF](https://en.wikipedia.org/wiki/TIFF)
-* [GeoTIFF](https://www.ogc.org/standards/geotiff)
 * [HDF5](https://www.ogc.org/standards/HDF5)
 * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
-#### Software Quality Assurance
-* IEEE
-* ISO/IEC
+#### Geographic Information System (GIS)
+* [GeoPackage](https://www.geopackage.org/)
+* [GeoTIFF](https://www.ogc.org/standards/geotiff)
 
 #### Software Testing 
 * IEEE829
@@ -82,3 +82,10 @@ Open standards establish protocols and building blocks that can help make digita
 #### Virtual Reality/ Augmented Reality (VR /AR)
 * [WebXR](https://www.w3.org/TR/webxr/)
 * [IEEE Digital Reality standards](https://digitalreality.ieee.org/standards)
+
+#### Computer Communications Protocols
+* [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
+#### Whistleblowing management systems
+* [ISO 37002:2021 (Whistleblowing management systems — Guidelines)](https://www.iso.org/standard/65035.html)
+
