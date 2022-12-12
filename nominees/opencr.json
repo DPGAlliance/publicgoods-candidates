@@ -1,0 +1,43 @@
+{
+  "name": "OpenCR",
+  "aliases": [
+    "Open Client Registry "
+  ],
+  "description": "Open Client Registry (OpenCR) is an open source and standards-based client registry. Client registries use sophisticated record linkage processes to uniquely identify patients across multiple health information systems in facilities, pharmacies, lab systems, and elsewhere. As a critical component of an interoperable health information exchange (HIE), it allows patients to be tracked across facilities and decreases instances of duplicate and incomplete records, as well as interruptions in treatment. It is a necessary tool in public health to help manage patient safety and care coordination, monitoring, reporting, surveillance, and medical research.",
+  "website": "https://www.openclientregistry.org/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/intrahealth/client-registry/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "OpenCR addresses the problem of patient data spread across different systems which are unlinked and duplicated. This makes it difficult to use clinical data for care coordination, reporting, monitoring, surveillance, and research. OpenCR uses sophisticated matching methods using demographic identifiers to identify and link patients across systems.",
+      "evidenceURL": "https://www.openclientregistry.org/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/client-registry"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "IntraHealth International",
+      "website": "https://www.intrahealth.org/",
+      "org_type": "owner",
+      "contact_name": "Margarite Nathe",
+      "contact_email": "intrahealth@intrahealth.org"
+    }
+  ],
+  "stage": "nominee"
+}
