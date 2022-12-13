@@ -1,5 +1,5 @@
 {
-  "name": "NEONATAL NUTRITION DIGITAL ACCELERATOR KIT PROJECT",
+  "name": "Newborn Nutrition Reference App",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
     "copyrightURL": "https://www.digitalhealthatlas.org/en/-/projects/5111/published"
@@ -29,7 +29,9 @@
       "The Kenya Data Protection Act 2019"
     ],
     "adherenceSteps": [
-      "Privacy policy - https://docs.google.com/document/d/14Fpd95JgZJPC2H6HFjeOZppGjJg6Z_SU/edit"
+      "Privacy policy - https://github.com/IntelliSOFT-Consulting/Newborn-Nutrition-Reference-App/blob/main/privacy-policy.pdf",
+      "Regular updates - staying up to date with all the laws and regulations which include the GDPR, the Kenya Data Protection Act 2019, the Kenya National eHealth Policy 2016-2030, etc",
+      "Specialist and Subject Matter Expert involvement - sought insights from healthcare professionals including practitioners and eHealth policy specialists hence received the relevant advice as far as being compliant is concerned."
     ]
   },
   "standards": {
@@ -54,14 +56,14 @@
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
       "typesOfDataCollected": [
-        "Health data of mothers and children"
+        "Health data of mothers and children - Mother's and baby's name, Mother's IP Number, Health care provider email address"
       ],
       "thirdPartyDataSharing": "No",
       "dataSharingCircumstances": [
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "Data at rest within the mobile application is encrypted using the encryption featured provided by  android, this alongside the collection of non-sensitive data provides for a guaranteed user data privacy. Once this data is collected, it is only used within the scope and none is shared with any third party."
+      "privacySecurityDescription": "- Encryption-Data at rest within the mobile application is encrypted using the encryption feature provided by android, this alongside the collection of non-sensitive data provides for guaranteed user data privacy. \n - Data availability- Role-based access has been implemented to ensure only authorized users can access the data at a given time and for the right purpose while using the application. \n - Backups- Data collected is backup up periodically to ensure availability incase of data loss."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
