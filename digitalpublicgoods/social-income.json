@@ -18,7 +18,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "The open source tools work with data emulators to make sure there is no non-personally identifiable information."
+    "nonPIIAccessMechanism": "The open source tools work with data emulators to make sure there is no non-personally identifiable information. We use the open source admin tool FireCMS which lets us export specific or all data into a CSV file. Furthermore with Firefoo, we can export directly from the database."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -26,16 +26,18 @@
       "Federal Act on Data Protection (Switzerland)"
     ],
     "adherenceSteps": [
-      "Privacy Policy"
+      "Privacy Policy - https://socialincome.org/privacy",
+      "Terms of Use - https://socialincome.org/terms-use",
+      "Terms for Contributions - https://socialincome.org/terms-contributions"
     ]
   },
   "standards": {
     "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "We use predefined schema for the data which can all be exported in CSV. We have of course a valid certificate for our HTTPS. We use all the standard tools and formats that make our open source tools reusable by other organisations, from SSL, UTF-8, HTML, JSON, CSV,, SVG, PNG, JPG, MP4 etc (no proprietary formats)."
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://github.com/socialincome-san/public"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -45,7 +47,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "We reach out to every recipient of a Social Income individually and also provide them a direct number if there is any urgency. We have two field officers who conduct impact measurements on site to measure the impact and avoid any harm."
     },
     "dataPrivacySecurity": {
       "collectsPII": "Yes",
@@ -57,7 +59,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Our database access is highly restricted and we follow the need-to-know principle, which says users shall only have access to the information that their job function requires. For examples partner NGO only see data from their own proposed recipients and not from other NGOs). This is regularly reviewed."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
