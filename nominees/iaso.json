@@ -1,0 +1,51 @@
+{
+  "name": "Iaso",
+  "aliases": [
+    ""
+  ],
+  "description": "Iaso is a geospatial data management platform (a georegistry) developed by Bluesquare to support the continuous management of geographical information. It's a platform for data collection, georegistry, activity planning and monitoring. The tool supports data management based on master lists of generic geographical objects often called organizational units (“org. units”, which are for example health areas, schools, provinces, health districts, or wells).",
+  "website": "https://www.bluesquarehub.com/iaso/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/BLSQ/iaso/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Iaso has been selected as the next software platform to support the World Food Programme track its CODA scheme",
+      "evidenceURL": "https://innovation.wfp.org/project/scope-coda"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Iaso is used to produce health maps, to build a Polio outbreaks tracking platform and also to collect data in the context of Performance Based Financing",
+      "evidenceURL": "https://www.bluesquarehub.com/iaso/"
+    },
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Iaso has been used to improve the quality of information about schools in DRC",
+      "evidenceURL": "https://www.cordaid.org/en/news/better-data-better-schools-better-education/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Iaso ",
+      "url": "https://github.com/BLSQ/iaso"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bluesquare",
+      "website": "https://www.bluesquarehub.com/",
+      "org_type": "owner",
+      "contact_name": "Martin De Wulf",
+      "contact_email": "mdewulf@bluesquarehub.com"
+    }
+  ],
+  "stage": "DPG"
+}

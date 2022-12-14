@@ -1,0 +1,80 @@
+{
+  "name": "UN Biodiversity Lab",
+  "aliases": [
+    "UNBL"
+  ],
+  "description": "The UN Biodiversity Lab (UNBL) provides access to global data and analytics on people and planet in new ways to empower governments and stakeholders to take action to achieve their commitments to the Convention on Biological Diversity and 2030 Agenda for Sustainable Development. ",
+  "website": "https://unbiodiversitylab.org/",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://map.unbiodiversitylab.org/earth"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Mapping global agricultural lands, and related land conversion directly supports work to increase food security. UNBL contains several relevant layers associated with the SDG.  Example: The Esri 2020 Land Cover 10m (IO) layer displays a global map of land use/land cover (LULC). The map is derived from ESA Sentinel-2 imagery at 10m resolution. It is a composite of LULC predictions for 10 classes throughout the year in order to generate a representative snapshot of 2020. It includes classifications for crops and flooded vegetation. Example: The Marine Priority Areas for Food Security layer identifies priority areas that can contribute substantially to achieving these three objectives of biodiversity protection, food provision and carbon storage.  Paper: https://www.nature.com/articles/s41586-021-03371-z  Example: the Crop Suitability Change layer shows general agricultural suitability considering rain-fed conditions and irrigation on currently irrigated areas.The dataset covers two time periods (2011-2040, 2071-2100), as well as changes in agricultural suitability over two periods (1981-2100, 2011-2100). Example layer in link below.",
+      "evidenceURL": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=20,0,2&layers=crop-suitability-2011-to-2100_100"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "UNBL provides a number of layers related to water provision and essential watersheds.  Example: The Nature Map Realised Clean Water Provision layer consists of a globally normalized map (from 0 to 1) of pixels ranked for their relative importance in delivering clean water to downstream beneficiaries. Example: The City Water Map layer contains information on the water sources for 534 cities internationally. The watershed layer shown here includes information about the catchment area of the watershed that supplies these cities.  Example layer in link below.",
+      "evidenceURL": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=20,0,2&layers=naturemap-realised-clean-water-provision_100"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Mapping urban areas, and trends in urban development is relevant here. At 10m scale users can also start to identify large green spaces in urban areas and agricultural peripheries. UNBL provides a number of layers related to this.  Example: The Global Grid of Probabilities of Urban Expansion to 2030 layer presents spatially explicit probabilistic forecasts of global urban land cover change from 2000 to 2030 at a 2.5 arc-minute resolution. Citation: https://doi.org/10.1073/pnas.1211658109  Example: The Esri 2020 Land Cover 10m (IO) layer displays a global map of land use/land cover (LULC). The map is derived from ESA Sentinel-2 imagery at 10m resolution. It is a composite of LULC predictions for 10 classes throughout the year in order to generate a representative snapshot of 2020. It includes classifications for Built Areas. Example in link below.",
+      "evidenceURL": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=20,0,2&layers=esri-2020-land-cover-10m-io_100"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "UNBL provides a number of layers that relate to carbon sequestration and climate change scenarios. Example: The Esri 2020 Land Cover 10m (IO) layer displays a global map of land use/land cover (LULC). Land cover conversion plays a major role in CO2 emissions (e.g. deforestation and conversion of other natural habitats) as well as climate resilience (mapping forests, mangroves, etc, for nature-based climate solutions) Example: The Aboveground and Belowground Biomass Carbon layer provides temporally consistent and harmonized global maps of aboveground and belowground biomass carbon density for the year 2010 at a 300m spatial resolution. Example: The Global Soil Organic Carbon Organic Carbon Map (GSOC map) allows the estimation of SOC stock from 0 to 30cm. It also represents a key contribution to SDG indicator 15.3.1 which defines the area of degraded land.  Example: the UNBL Data Collection on Nature-based Solutions for Climate Change offers further data layers that can be used to answer key policy questions related to nature-based solutions for climate change.  Example layer included in link below.",
+      "evidenceURL": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=20,0,2&layers=biomass-carbon-density-2010_100"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "UNBL is most clearly connected to SDG15 with its wealth of biodiversity data.  Example: The Biodiversity Intactness Index shows the modeled average abundance of originally-present species in a grid cell, as a percentage, relative to their abundance in an intact ecosystem. It can be seen as a measure of how much humans have impacted terrestrial biodiversity, or as a measure of how degraded biodiversity in an area is. Example: The Forest Structural Integrity Index (FSII) layer identifies structurally complex forests with low human pressure that are likely to be most valuable for biodiversity and ecosystem services.  Example: The Key Biodiversity Areas (KBAs) layer identifies sites that contribute significantly to the global persistence of biodiversity in terrestrial, freshwater and marine ecosystems.  Example: The Threatened Species Richness layer represents the number of species of threatened amphibians, birds, mammals, reptiles and plant taxa whose distribution overlaps in each 10km cell. Example: The World Database on Protected Areas (WDPA) layer is largest database of protected areas on the planet. The data are the legally defined protected area (PA) borders as reported by governments, for both marine and terrestrial areas. UNBL draws protected area data directly from the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC).  Example: the UNBL Data Collection on Protected Areas offers further data layers that can be used to answer key policy questions related to Protected Areas.  Example link included below.",
+      "evidenceURL": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=20,0,2&layers=biodiversity-intactness-index_100"
+    }
+  ],
+  "sectors": [
+    "Climate",
+    "Sustainable Cities",
+    "Water and Sanitation"
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "UNBL map",
+      "url": "https://map.unbiodiversitylab.org/earth"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "United Nations Development Programme (UNDP)",
+      "website": "https://www.undp.org/",
+      "org_type": "owner",
+      "contact_name": "Anne Virnig",
+      "contact_email": "anne.virnig@undp.org"
+    },
+    {
+      "name": "United Nations Environment Programme (UNEP)",
+      "website": "https://www.unep.org/",
+      "org_type": "owner"
+    },
+    {
+      "name": "United Nations Environment Programme World Conservation Monitoring Center (UNEP-WCMC)",
+      "website": "https://www.unep-wcmc.org/en",
+      "org_type": "funder"
+    },
+    {
+      "name": "Secretariat of the Convention on Biological Diversity (CBD)",
+      "website": "https://www.cbd.int/secretariat/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG"
+}
