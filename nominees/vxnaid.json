@@ -1,0 +1,42 @@
+{
+  "name": "Vxnaid",
+  "aliases": [
+    "Vaccination Monitoring Platform"
+  ],
+  "description": "Vxnaid is a digital platform that supports correct vaccine administration & efficient vaccination campaigns. Enable broad adoption of Vxnaid especially in RLS countries to ensure correct administration of vaccines, identification of vaccinees, follow-up/recall of vaccinated persons and understanding of vaccination campaign effectiveness.",
+  "website": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/johnsonandjohnson/vxnaid/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "This project is selected by J&J as part of their contribution to the Health for Humanity SDGs for 2025. It enables more effective vaccine administration and monitoring of vaccination campaign efficiency."
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/johnsonandjohnson/vxnaid"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Johnson & Johnson Global Public Health",
+      "website": "https://www.jnj.com",
+      "org_type": "owner",
+      "contact_name": "Paula Mc Kenna",
+      "contact_email": "pmckenna@its.jnj.com"
+    }
+  ],
+  "stage": "DPG"
+}

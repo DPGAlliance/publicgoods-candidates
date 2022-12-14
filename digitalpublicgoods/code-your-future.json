@@ -1,0 +1,104 @@
+{
+  "name": "Code Your Future",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://codeyourfuture.io/governance/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.codeyourfuture.io/",
+      "https://module-template.codeyourfuture.io/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The syllabus can be accessed without an account so no PII is collected unless people join our in person classes. We are a registered charity and regulated in the UK by the Charity Commission and Ofsted."
+    ],
+    "adherenceSteps": [
+      "https://codeyourfuture.io/governance/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "We align to SFIA mappings for graduation https://sfia-online.org/en."
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.google.com/document/d/1jMxqI0L7IKFENCQ8Lw-D1lhnj3c3RZI_WK808wG4YJM/edit?usp=sharing"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://teachtogether.tech/en/index.html"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Code Your Future is a place where total life transformation happens, and we understand that transformational change may be challenging but should not be harmful. Our course is designed to recognise this and create spaces of psychological safety where change is possible.To this end we build small 'home' teams called Buddy Groups, where a PD (personal development) mentor and a technical mentor work with 2-3 trainees over a period of 3-9 months. \nTech Buddy role https://docs.codeyourfuture.io/volunteers/teams-1/tech-education/education-roles/education-buddy \nPD Buddy role https://docs.codeyourfuture.io/volunteers/teams-1/personal-development/mentor-guide \nMore governance details connected to harm reduction: \n 1. We are all, volunteers, staff, and trainees, bound by our Code of Conduct https://codeyourfuture.io/about/code-of-conduct/  \n2. We have a named Safeguarding lead. Staff We now also require buddies to undergo Safeguarding training. All volunteers must sign our volunteer agreement before accessing our Slack workspace. As a registered charity in the UK we are regulated by the Charity Commission and our governance is here https://codeyourfuture.io/governance/ \n3. We also contract a learning coach to work 1:1 with trainees with significant challenges, which as we are all engineers are mainly autism and ADHD."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Privacy policy - https://codeyourfuture.io/privacy-policy/"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "Yes",
+      "type": "Full stack web development training",
+      "contentFilter": "Yes",
+      "policyGuidelinesDocumentationLink": "https://syllabus.codeyourfuture.io/contributing/overview",
+      "illegalContentDetection": "Yes",
+      "illegalContentDetectionMechanism": "Content is mainly hosted in a public repo on GitHub and then deployed through our website. This provides a mechanism for accepting/ rejecting changes to the content through use of Github pull requests and issues."
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Safeguarding - https://codeyourfuture.io/about/safeguarding/"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "For the syllabus, no, because it's just a website with no interactions. For our course, we have a code of conduct (https://codeyourfuture.io/about/code-of-conduct/), a safeguarding lead, safeguarding training, and a personal coach for targeted support sessions for people with social impairments."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Brazil",
+      "United Kingdom",
+      "South Africa",
+      "Colombia",
+      "Belgium",
+      "Eritrea",
+      "France",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Pakistan",
+      "India",
+      "Italy"
+    ],
+    "deploymentCountries": [
+      "United Kingdom",
+      "South Africa"
+    ]
+  }
+}

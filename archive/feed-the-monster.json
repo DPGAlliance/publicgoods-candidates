@@ -1,0 +1,43 @@
+{
+  "name": "Feed the Monster",
+  "aliases": [
+    ""
+  ],
+  "description": "Feed the Monster is a mobile game that teaches children the fundamentals of reading, based on years of research and experience in the science of literacy.",
+  "website": "https://www.feedthemonsterapp.com/",
+  "license": [
+    {
+      "spdx": "BSD-2-Clause",
+      "licenseURL": "https://github.com/curiouslearning/FeedTheMonster/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Research has shown that as little as 22 hours of usage can result in the equivalent of 2 months of literacy learning in a well-resourced school. The game is based on years of research and experience in the science of literacy. It incorporates key skills for literacy, including Phonological Awareness, Letter Recognition, Phonics, Vocabulary, and Sight Word Reading so kids can develop a strong foundation for reading. Feed the Monster has been localized to 50+ languages.",
+      "evidenceURL": "https://docs.google.com/document/d/1oOx4dSmH_OAdjRaettF0pVUVTLpcl41tG51C4pd_qHs/edit?usp=sharing"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/curiouslearning/FeedTheMonster"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Curious Learning",
+      "website": "https://www.curiouslearning.org/",
+      "org_type": "maintainer",
+      "contact_name": "Creesen Naicker",
+      "contact_email": "creesen@curiouslearning.org"
+    }
+  ],
+  "stage": "nominee"
+}
