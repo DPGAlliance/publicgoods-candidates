@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": "We collect names and organizations of the organizations using the software on an opt-in basis. This is because we build reports for them to the national network they are all members of and we need this to save them time in generating the reports."
+      "privacySecurityDescription": "We collect names and organizations of the organizations using the software on an opt-in basis. This is because we build reports for them to the national network they are all members of and we need this to save them time in generating the reports. Data is protected in the database using encryption. Specifically it uses the Ruby and Rails built in database encryption functionality: https://guides.rubyonrails.org/active_record_encryption.html"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
