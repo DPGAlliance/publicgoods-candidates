@@ -9,8 +9,8 @@
   "website": "https://ottaaproject.com/",
   "license": [
     {
-      "spdx": "AGPL-3.0",
-      "licenseURL": "https://github.com/OTTAA-Project/OTTAAProject/blob/master/License.txt"
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/OTTAA-Project/ottaa_project_flutter/blob/master/license.txt"
     }
   ],
   "SDGs": [
@@ -43,7 +43,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/OTTAA-Project/OTTAAProject"
+      "url": "https://github.com/OTTAA-Project/ottaa_project_flutter"
     }
   ],
   "organizations": [
@@ -60,5 +60,5 @@
       "org_type": "funder"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
