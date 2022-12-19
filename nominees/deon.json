@@ -10,7 +10,12 @@
   ],
   "SDGs": [
     {
-      "SDGNumber": 17
+      "SDGNumber": 10,
+      "evidenceURL": "https://deon.drivendata.org/examples/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceURL": "https://deon.drivendata.org/#background-and-perspective"
     }
   ],
   "sectors": [],
