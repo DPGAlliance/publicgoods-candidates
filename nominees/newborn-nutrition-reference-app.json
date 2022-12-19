@@ -1,0 +1,42 @@
+{
+  "name": "Newborn Nutrition Reference App",
+  "aliases": [
+    ""
+  ],
+  "description": "An android reference application that leverages Google's FHIR Android SDK and WHO's Neo-natal Digital Adaptation Kit (NNDAK) to build a standard's based mobile solution to link Newborn Units and Human Milk Banks.",
+  "website": "https://www.digitalhealthatlas.org/en/-/projects/5111/published",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/IntelliSOFT-Consulting/Newborn-Nutrition-Reference-App/blob/main/LICENSE.md"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "The main aim of this project is to streamline data collection for newborn nutrition to aid in decision-making. The data will equip mothers and health care providers with information and real-time feedback to adapt practices to optimize the provision of lifesaving milk to newborns. This system will primarily support infant feeding through the mother’s own milk or donor human milk.  "
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/IntelliSOFT-Consulting/Newborn-Nutrition-Reference-App"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "IntelliSOFT Consulting Limited",
+      "website": "https://www.intellisoftkenya.com/",
+      "org_type": "maintainer",
+      "contact_name": "Susan Gathu",
+      "contact_email": "sgathu@intellisoftkeny.com"
+    }
+  ],
+  "stage": "DPG"
+}
