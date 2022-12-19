@@ -1,0 +1,95 @@
+	{
+    "id": "10287",
+    "name": "Newborn Nutrition Reference App",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "An android reference application that leverages Google's FHIR Android SDK and WHO's Neo-natal Digital Adaptation Kit (NNDAK) to build a standard's based mobile solution to link Newborn Units and Human Milk Banks.",
+    "website": "https://www.digitalhealthatlas.org/en/-/projects/5111/published",
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "The main aim of this project is to streamline data collection for newborn nutrition to aid in decision-making. The data will equip mothers and health care providers with information and real-time feedback to adapt practices to optimize the provision of lifesaving milk to newborns. This system will primarily support infant feeding through the mother\u2019s own milk or donor human milk.  "
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/IntelliSOFT-Consulting/Newborn-Nutrition-Reference-App"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "IntelliSOFT Consulting Limited",
+            "clearOwnershipURL": "https://www.digitalhealthatlas.org/en/-/projects/5111/published"
+        }
+    ],
+    "documentation": "Installation manual - https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md,User manual - https://docs.google.com/document/d/1dBImVDN82pDT-Z4Nb2h4iCu34Itz0TpbcE9Q1U25oAs/edit,Admin manual - https://docs.google.com/document/d/155XLs7bFn1VMM-3ix-ZjfbZ3Rih51wo43s-0NMLJkvM/edit,Software Requirements Specification - https://docs.google.com/document/d/15lryinyblKPD3E6L-jTbdepox230qaBWR6phHM-AnT0/edit?pli=1",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Data can be extracted via a web portal export functionality which provides the data in JSON and PDFs formats."
+    },
+    "openStandards": [
+        "HL7 FHIR",
+        "WHO SMART GUIDELINES - https://www.who.int/teams/digital-health-and-innovation/smart-guidelines https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md We develop with an agile methodology and engage the intended users throughout the development phase. This embodies the principle of \"designing with the user.\""
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Health data of mothers and children - Mother's and baby's name",
+            " Mother's IP Number",
+            " Health care provider email address"
+        ],
+        "dataPrivacySecurity": " Deliberate design is built into this project ensuring a Human centered design approach that engaged the anticipated system users from Pumwani Maternity Hospital and the use of appropriate design principles that safeguard the needs of the relevant users. \n1. The application is guided by WHO guidelines and fully embracing the Principles for Digital Development. \n2. The application is developed on top of Google\u2019s Android Fast Healthcare Interoperability Resources Software Development Kit, an open source application intelligently designed to support healthcare delivery. - Encryption-Data at rest within the mobile application is encrypted using the encryption feature provided by\u00a0android, this alongside the collection of non-sensitive data provides for guaranteed user data privacy.\u00a0\n - Data availability- Role-based access has been implemented to ensure only authorized users can access the data at a given time and for the right purpose while using the application. \n - Backups- Data collected is backup up periodically to ensure availability incase of data loss."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kenya"
+        ],
+        "deploymentCountries": [
+            "Kenya"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Newborn Nutrition Reference App",
+            "website": "https://www.digitalhealthatlas.org/en/-/projects/5111/published",
+            "org_type": "owner",
+            "contact_name": " Susan Gathu  ",
+            "contact_email": "sgathu@intellisoftkeny.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Kenya Data Protection Act 2019 Privacy policy - https://github.com/IntelliSOFT-Consulting/Newborn-Nutrition-Reference-App/blob/main/privacy-policy.pdf,Regular updates - staying up to date with all the laws and regulations which include the GDPR, the Kenya Data Protection Act 2019, the Kenya National eHealth Policy 2016-2030, etc,Specialist and Subject Matter Expert involvement - sought insights from healthcare professionals including practitioners and eHealth policy specialists hence\u00a0received the relevant advice as far as being compliant is concerned."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
