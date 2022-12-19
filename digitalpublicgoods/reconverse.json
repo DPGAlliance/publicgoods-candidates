@@ -1,0 +1,99 @@
+{
+  "name": "Reconverse",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.reconverse.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.reconverse.org/grates/",
+      "https://www.reconverse.org/incidence2/",
+      "https://www.reconverse.org/i2extras/",
+      "https://www.reconverse.org/outbreaks/",
+      "https://www.reconverse.org/reportfactory/",
+      "https://www.reconverse.org/trending/",
+      "https://www.reconverse.org/trendeval/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "any dataset imported into the R software, which supports a very wide list of open formats (csv, txt, json, xml, ...) and some proprietary ones (xls, xlsx, ...)"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The project does not store personal information or PII. "
+    ],
+    "adherenceSteps": [
+      "The project does not store personal information or PII. "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Open data exchange formats - csv, txt, json, xml"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/reconverse/grates"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "RECONverse follows best practices for open software development for R packages laid out by the R Epidemics Consortium, which were adapted from similar guidelines from rOpenSci (https://github.com/ropensci/software-review):",
+      "- Guidelines for software development (http://www.repidemicsconsortium.org/resources/guidelines/). Best practices for code development include: version control (GIT) hosted on public repositories (github), extensive use of unit testing and coverage statistics, code reviews, comprehensive, open documentation, continuous integration (github actions) , and the use of a clear lifecycle for software development.",
+      "- Guidelines for code reviews (http://www.repidemicsconsortium.org/resources/review/)",
+      "- It also complies with the CRAN guidelines for writing R extensions (https://cran.r-project.org/doc/manuals/R-exts.html)"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "In the context of reconverse, 'harm' would lie in packages losing functionality or containing bugs which could lead to erroneous analytics results. The following measures have been put in place to avoid such situations: \n- the main/master branches are kept functional at all time and protected \n- new code contributions are made via pull requests (PR) \n- code reviews are required for new code contributions to be accepted \n- continuous integration is used to ensure that new contributions pass all installation checks and unit tests on multiple platforms, and that the documentation is adequate \n- continuous integration is used to ensure that PRs do not decrease test coverage\n - we aim for complete (near 100%) test coverage for all our packages"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Reconverse does not collect data."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United Kingdom"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
