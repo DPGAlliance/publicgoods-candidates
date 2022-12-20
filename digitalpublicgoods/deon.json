@@ -22,31 +22,38 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise)."
     ],
     "adherenceSteps": [
-      ""
+      "The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise)."
     ]
   },
   "standards": {
-    "supportStandards": "Unknown",
+    "supportStandards": "Yes",
     "standardsList": [
-      ""
+      "Input in in a standard YML format and output is simple markdown or HTML"
     ],
     "evidenceStandardSupport": [
-      ""
+      "https://deon.drivendata.org/#custom-checklists"
     ],
-    "implementBestPractices": "Unknown",
+    "implementBestPractices": "Yes",
     "bestPracticesList": [
-      ""
+      "Pep 8",
+      "CI/CD",
+      "Code review",
+      "Code refactoring",
+      "Version control",
+      "Modularity",
+      "Extensibility",
+      "Contributing guidelines"
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "The digital solution is an ehtics checklist designed with the express purpose of preventing harms."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -58,7 +65,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": ">     The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise). "
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
