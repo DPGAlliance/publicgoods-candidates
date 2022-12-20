@@ -2,7 +2,7 @@
   "name": "ClinicalBERT",
   "clearOwnership": {
     "isOwnershipExplicit": "Yes",
-    "copyrightURL": "https://www.dropbox.com/s/kzb7zj24u6gewkk/07.26.22%20IRS%20Determination%20Letter_%20One%20Fact%20Foundation%5B73%5D.pdf?dl=0"
+    "copyrightURL": "https://github.com/onefact/ClinicalBERT/blob/main/README.md"
   },
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "No",
@@ -12,7 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
-      ""
+      "https://github.com/onefact/ClinicalBERT/blob/main/README.md"
     ]
   },
   "NonPII": {
@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": ""
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "The project complies with GDPR, as it does not store personal information."
     ],
     "adherenceSteps": [
-      ""
+      "Specifically, this project is used in health systems and hospitals around the world to help doctors and other medical professionals make decisions."
     ]
   },
   "standards": {
@@ -35,7 +35,7 @@
       "OMOP"
     ],
     "evidenceStandardSupport": [
-      ""
+      "We work with the OMOP clinical data model working group to ensure that as we deploy this model at our clinical partners in Estonia, Harvard Medical School, Yale Medicine, and Columbia University Medical Center, it adheres to best practices and the CDM can evolve according to our needs. As an example, the OMOP CDM team created a branch of the Common Data Model specifically for ClinicalBERT (https://github.com/OHDSI/CommonDataModel/tree/payless_health - the branch is called Payless Health for the Foundation's payless.health search engine, which is powered by ClinicalBERT; the CDM team agreed to help revise the CDM according to how usage of ClinicalBERT evolves)."
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
@@ -45,7 +45,7 @@
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": ""
+      "additionalInfoMechanismProcessesPolicies": "This digital solution is open source, and the model predictions can be inspected by clinicians (https://arxiv.org/abs/1904.05342 has a diagram of this, to illustrate how clinicians can access the model's reasoning as to the link between the clinical notes in a patient's medical record and a prediction of a diagnosis, prognosis, etc). Similarly, we have assessed such models for fairness using frameworks developed during the referenced postdoc (e.g. https://arxiv.org/abs/2203.05174). To be able to claim to use the ClinicalBERT standard in practice, a health system or hospital must conform to the API conformance tests such as these algorithmic fairness metrics."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -57,7 +57,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Data is not collected, stored, or distributed."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
