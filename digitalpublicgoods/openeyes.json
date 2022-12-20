@@ -55,16 +55,16 @@
       "additionalInfoMechanismProcessesPolicies": "DCB0129 / DCB0160 Clinical Assurance through the Custodian model. Technical assurance through the technical custodian, appointed via the Custodian to review security and other technical input to the project."
     },
     "dataPrivacySecurity": {
-      "collectsPII": "No",
+      "collectsPII": "Yes",
       "typesOfDataCollected": [
-        ""
+        "OpenEyes is an electronic health record and therefore collects a full range of an individual's ophthalmic medical attributes"
       ],
-      "thirdPartyDataSharing": "No",
+      "thirdPartyDataSharing": "Yes",
       "dataSharingCircumstances": [
-        ""
+        "Only if permitted by the data controller"
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "Implementations adhere to the local information governance and security standards"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
