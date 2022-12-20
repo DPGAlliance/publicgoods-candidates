@@ -1,0 +1,64 @@
+{
+  "name": "PLOTS",
+  "aliases": [
+    "The Public Laboratory for Open Technology and Science"
+  ],
+  "description": "A collaborative knowledge-exchange platform in Rails.",
+  "website": "https://publiclab.org/",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/publiclab/plots2/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "We work together in public to make environmental health research accessible to all",
+      "evidenceURL": "https://publiclab.org/wiki/start-enviro-monitor-study"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "We research issues with stormwater and wastewater for both DIY, community-led, and governmental accountability solutions",
+      "evidenceURL": "https://publiclab.org/tag/stormwater"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Environmental injustice contributes to climate change. Many \"EJ\" communities already live in a reality where government isn't going to prepare them, isn't going to rescue them, and definitely won't rebuild them from increasing climate impacts. For these reasons our community invests in ",
+      "evidenceURL": "https://publiclab.org/tag/disaster-response"
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "Use a kite, balloon, or pole to take an aerial photo and tell your own visual story of a place. https://publiclab.org/tag/land-use ",
+      "evidenceURL": "https://mapknitter.org/"
+    },
+    {
+      "SDGNumber": 16,
+      "evidenceText": "Community-collected data has the power to prompt local, state, or federal action by alerting government agencies to an issue. Failures and gaps at the regulatory level are often what leads communities to do their own environmental monitoring and advocacy work.",
+      "evidenceURL": "https://publiclab.org/wiki/law-and-policy"
+    }
+  ],
+  "sectors": [
+    "Health",
+    "Climate"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/publiclab/plots2"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Public Lab",
+      "website": "https://publiclab.org/",
+      "org_type": "owner",
+      "contact_name": "Liz Barry",
+      "contact_email": "liz@publiclab.org"
+    }
+  ],
+  "stage": "nominee"
+}
