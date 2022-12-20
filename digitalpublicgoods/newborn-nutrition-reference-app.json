@@ -1,0 +1,96 @@
+{
+  "name": "Newborn Nutrition Reference App",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.digitalhealthatlas.org/en/-/projects/5111/published"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "Installation manual - https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md",
+      "User manual - https://docs.google.com/document/d/1dBImVDN82pDT-Z4Nb2h4iCu34Itz0TpbcE9Q1U25oAs/edit",
+      "Admin manual - https://docs.google.com/document/d/155XLs7bFn1VMM-3ix-ZjfbZ3Rih51wo43s-0NMLJkvM/edit",
+      "Software Requirements Specification - https://docs.google.com/document/d/15lryinyblKPD3E6L-jTbdepox230qaBWR6phHM-AnT0/edit?pli=1"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be extracted via a web portal export functionality which provides the data in JSON and PDFs formats."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Kenya Data Protection Act 2019"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://github.com/IntelliSOFT-Consulting/Newborn-Nutrition-Reference-App/blob/main/privacy-policy.pdf",
+      "Regular updates - staying up to date with all the laws and regulations which include the GDPR, the Kenya Data Protection Act 2019, the Kenya National eHealth Policy 2016-2030, etc",
+      "Specialist and Subject Matter Expert involvement - sought insights from healthcare professionals including practitioners and eHealth policy specialists hence received the relevant advice as far as being compliant is concerned."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR",
+      "WHO SMART GUIDELINES - https://www.who.int/teams/digital-health-and-innovation/smart-guidelines"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/IntelliSOFT-Consulting/human-milk-bank/blob/main/README.md"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We develop with an agile methodology and engage the intended users throughout the development phase. This embodies the principle of \"designing with the user.\""
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Deliberate design is built into this project ensuring a Human centered design approach that engaged the anticipated system users from Pumwani Maternity Hospital and the use of appropriate design principles that safeguard the needs of the relevant users. \n1. The application is guided by WHO guidelines and fully embracing the Principles for Digital Development. \n2. The application is developed on top of Google’s Android Fast Healthcare Interoperability Resources Software Development Kit, an open source application intelligently designed to support healthcare delivery."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Health data of mothers and children - Mother's and baby's name, Mother's IP Number, Health care provider email address"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "- Encryption-Data at rest within the mobile application is encrypted using the encryption feature provided by android, this alongside the collection of non-sensitive data provides for guaranteed user data privacy. \n - Data availability- Role-based access has been implemented to ensure only authorized users can access the data at a given time and for the right purpose while using the application. \n - Backups- Data collected is backup up periodically to ensure availability incase of data loss."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Kenya"
+    ],
+    "deploymentCountries": [
+      "Kenya"
+    ]
+  }
+}
