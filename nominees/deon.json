@@ -1,5 +1,8 @@
 {
   "name": "Deon",
+  "aliases": [
+    ""
+  ],
   "description": "Deon is a command line tool that allows you to easily add an ethics checklist to your data science projects. We support creating a new, standalone checklist file or appending a checklist to an existing analysis in many common formats.",
   "website": "https://deon.drivendata.org/",
   "license": [
@@ -35,5 +38,5 @@
       "org_type": "owner"
     }
   ],
-  "stage": "nominee"
+  "stage": "DPG"
 }
