@@ -7,7 +7,7 @@
   "platformIndependence": {
     "mandatoryDepsCreateMoreRestrictions": "Yes",
     "isSoftwarePltIndependent": "Yes",
-    "pltIndependenceDesc": "Some of the software used in developing the functionalities of the platform are not open source. For example ESRI ArcGIS online has been used in the implementation of the data hub component. Data Hub is dependent on ESRI ArcGIS. Major frontend components cannot be overhaul without re-writing the code base. Data displayed in the Data Hub is hosted and served from ESRI ArcGIS. As an alternative, the backend can be moved into local servers and serve with third party software such as GeoServer."
+    "pltIndependenceDesc": "Some of the software used in developing the functionalities of the platform are not open source. For example ESRI ArcGIS online has been used in the implementation of the data hub component. Data Hub is dependent on ESRI ArcGIS. Major frontend components cannot be overhaul without re-writing the code base. Data displayed in the Data Hub is hosted and served from ESRI ArcGIS. As an alternative, the backend can be moved into local servers and serve with third party software such as GeoServer. GPML Digital Platform can use some open source component like TerriaJS for the Data Hub section"
   },
   "documentation": {
     "isDocumentationAvailable": "Yes",
