@@ -1,0 +1,98 @@
+{
+  "name": "Deon",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://deon.drivendata.org/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://deon.drivendata.org/#using-this-tool",
+      "https://github.com/drivendataorg/deon"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise)."
+    ],
+    "adherenceSteps": [
+      "The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise)."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Input in in a standard YML format and output is simple markdown or HTML"
+    ],
+    "evidenceStandardSupport": [
+      "https://deon.drivendata.org/#custom-checklists"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Pep 8",
+      "CI/CD",
+      "Code review",
+      "Code refactoring",
+      "Version control",
+      "Modularity",
+      "Extensibility",
+      "Contributing guidelines"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The digital solution is an ehtics checklist designed with the express purpose of preventing harms."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": ">     The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise). "
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
