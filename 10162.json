@@ -1,0 +1,126 @@
+	{
+    "id": "10162",
+    "name": "Avyantra Health Technologies Pvt Ltd",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "PreSco"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Helping the diagnosis of infants affected by neonatal sepsis using machine learning",
+    "website": "https://www.avyantra.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/kvklrao/Avyantra_Presco_Project"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "https://www.unicef.org/press-releases/unicef-cryptocurrency-fund-announces-its-largest-investment-startups-developing-and\r\n\r\nhttps://eu-admin.eventscloud.com/file_uploads/ad4eae4841428da5dd956b6b70c8018a_AI-200826-007.pdf\r\n\r\nhttps://twitter.com/nf_tech4good/with_replies"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/kvklrao/Avyantra_Presco_Project/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Avyantra Health Technologies",
+            "clearOwnershipURL": "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing"
+        }
+    ],
+    "documentation": "https://drive.google.com/drive/folders/1bDbvRkc_kQatSCfLVX9LiczPzj7sI2Yn?usp=sharing",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Avyantra is implemented using open-source standards and tools. It follows ISO/IEC/IEEE 12207 Systems and software engineering \u2013 as international standard for Software life cycle processes. We follow Software life cycle processes and methodologies such as iterative and agile methodology. Some of the key processes being followed are: Task planning",
+        " Project assessment and control",
+        " Decision management",
+        " Risk management",
+        " Configuration management",
+        " Information management",
+        " Measurement and Quality assurance Code base of our project is available on Github - https://github.com/kvklrao/Avyantra_Presco_Project Avyantra is being built and developed with implementation of best practices and principles such as Principles For Digital development. Below are more details to support the claim:",
+        "1. User Centric design:  Application interface and design was undertaken after detailed discussion with the prospective users such as doctors and healthcare workers and their feedback were taken into consideration while framing the functional requirements.",
+        "2. Understanding the ecosystem:  Application was designed after doing research on the diagnostic principles and protocols used in the medical field for neonates. Several specialists and doctors were consulted during the algorithm as well as application development.",
+        "3. Design for Scale:  Our platform was designed for scalability both in terms of volume of users as well as extending usage for diagnosis of other critical medical conditions in neonates and for infants & children. ",
+        "4. Sustainability: The project is being undertaken with an objective of making diagnosis accurate",
+        " reliable",
+        " affordable",
+        " and sustainable with a well-defined business model.",
+        "5. Data Driven:  We have built the application with medical data collected directly from hospitals. The platform also enables the users to get key insights from the data to make right decisions for treatment and management.",
+        "6. Open-Source Technology:  Our application was built using open-source tools and technologies. The same have been made publicly available in GITHUB platform with the GNU license option. https://github.com/kvklrao/Avyantra_Presco_Project.",
+        "7. Address privacy and security:  We are following strict data privacy protocols during collection",
+        " processing and storage of data. Anonymous data of patients has been collected to ensure privacy. The platform has been built with multi-tier security protocols to prevent unauthorized access to patient data.",
+        "8. Collaborative: The platform has been built with open source standards and the code base was made publicly available in GITHUB for collaboration with the global community of developers and users for improving features as well as adoption of the globally."
+    ],
+    "bestPractices": [
+        "https://github.com/kvklrao/Avyantra_Presco_Project "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "We are collecting date and place of birth of a baby/infant."
+        ],
+        "dataPrivacySecurity": " Avyantra takes the following steps to anticipate, prevent and do harm: \r\n 1. Multiple authentications to ensure genuine users are granted permission to use the application. Stringent testing & validation is being done to ensure the output of the application is accurate. \r\n 2. Minimal data on patient or user personal profile is gathered by the application. Security protocols are implemented on our cloud platform to prevent unauthorized access to the application. We are collecting clinical data with prior approvals and clearances from hospitals."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Avyantra is used by doctors, healthcare workers, neonatal specialists etc. They are all above the age of 18 years. Users who login are authenticated with their mobile phone or email Id as well. Age profile of Users is therefore not a concern. Avyantra has a two-factor authentication of users. In the first step, the user profile is screened, and approval is granted by us. In the second step, a One-Time Password (OTP) is sent to the user\u2019s mobile for accessing the application.  With these two steps, we are ensuring that we provide access to the right user and not to underage or wrong users. We have strict data access security guidelines and protocols to ensure privacy of user data as well as the patient data. First, we have so far not collected any personal data of patients that would help in tracing back their identity. Second, data of users is not shared with any external agent, or any cross-user interaction allowed. Our application has a multi-layer security protocol to prevent hacking."
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "We are currently validating our solution in one of the large government neonatal hospital based in India. \r\nIndia - Nilofer Hospital",
+        " Hyderabad",
+        " Telangana State",
+        " India"
+    ],
+    "otherDeploymentOrganisations": [
+        "We are currently validating our solution in one of the large government neonatal hospital based in India. \r\nIndia - Nilofer Hospital",
+        " Hyderabad",
+        " Telangana State",
+        " India"
+    ],
+    "awardsReceived": [
+        "Avyantra has been selected for the latest cohort of Telangana AI Mission 2022. We are sharing their twitter link below - \r\n\r\nhttps://twitter.com/AiTelangana/status/1602305855130853378"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Avyantra Health Technologies Pvt Ltd",
+            "website": "https://www.avyantra.com",
+            "org_type": "owner",
+            "contact_name": " Hyma Goparaju  ",
+            "contact_email": "avyantra@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "In India, we currently do not have any legislation on Privacy Law but we are adhering to the standards followed for data privacy across the globe. We are currently complying with collection of non-personal data as per global security norms such as Global data protection regulation (GDPR). ",
+            "privacyComplianceURL": "We have indicated the terms of service in our Open source license \r\nhttps://github.com/kvklrao/Avyantra_Presco_Project/blob/main/LICENSE\r\nPrivacy policy is being implemented in our Mobile application and web application."
+        }
+    ],
+    "deploymentOrganisations": ""
+}
