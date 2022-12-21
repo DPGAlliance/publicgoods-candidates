@@ -41,7 +41,8 @@
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "We did build up the entire stack "people-centered“, specifically with the recipients in mind (vulnerable group). This includes collecting the least possible amount of data, that is, trackers are off by default. \nWe separated the different tools within the monorepo, but used the same schema (therefore less inconsistencies, less security issues) and document code. We have clear policies in place against any hateful interaction. "
+      "We did build up the entire stack 'people-centered', specifically with the recipients in mind (vulnerable group). This includes collecting the least possible amount of data, that is, trackers are off by default.",
+      "We separated the different tools within the monorepo, but used the same schema (therefore less inconsistencies, less security issues) and document code. We have clear policies in place against any hateful interaction. "
     ]
   },
   "doNoHarm": {
