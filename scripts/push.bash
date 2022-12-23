@@ -16,9 +16,9 @@ git clone https://github.com/DPGAlliance/publicgoods-website.git ../publicgoods-
         pushd packages/eligibility && \
             npm run build && \
         popd && \
-        pushd packages/map && \
-            npm run build && \
-        popd && \
+        #pushd packages/map && \
+        #    npm run build && \
+        #popd && \
         pushd packages/roadmap && \
             npm run build && \
         popd && \
