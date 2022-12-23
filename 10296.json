@@ -1,0 +1,101 @@
+	{
+    "id": "10296",
+    "name": "Deon",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "Deon is a command line tool that allows you to easily add an ethics checklist to your data science projects. We support creating a new, standalone checklist file or appending a checklist to an existing analysis in many common formats.",
+    "website": "https://deon.drivendata.org/",
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "SDG10: Reduced Inequalities,SDG17: Partnerships for the Goals"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": ""
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": ""
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/drivendataorg/deon"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "DrivenData",
+            "clearOwnershipURL": "https://deon.drivendata.org/"
+        }
+    ],
+    "documentation": "https://deon.drivendata.org/#using-this-tool,https://github.com/drivendataorg/deon",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Input in in a standard YML format and output is simple markdown or HTML https://deon.drivendata.org/#custom-checklists Pep 8",
+        "CI/CD",
+        "Code review",
+        "Code refactoring",
+        "Version control",
+        "Modularity",
+        "Extensibility",
+        "Contributing guidelines"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            ""
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Deon",
+            "website": "https://deon.drivendata.org/",
+            "org_type": "owner",
+            "contact_name": " Peter Bull  ",
+            "contact_email": "peter@drivendata.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise). The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise)."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
