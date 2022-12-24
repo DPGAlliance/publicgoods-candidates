@@ -1,0 +1,228 @@
+	{
+    "id": "10176",
+    "name": "OpenFn",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "OpenFn",
+        " OpenFn Lightning",
+        " OpenFn Integration Toolkit"
+    ],
+    "categories": [
+        "Open Content",
+        "Open Software"
+    ],
+    "description": "OpenFn is a workflow automation platform that's used to automate & integrate critical business processes and systems. From last-mile services to national-level reporting, it boosts efficiency & effectiveness while enabling secure, stable, scalable interoperability at all levels.  ",
+    "website": "https://www.openfn.org/, https://docs.openfn.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/OpenFn"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "OpenFn is currently in use in over 20 low and middle income countries across the world--primarily by health and humanitarian organizations. Examples include the Cambodia Ministry of Social Affairs, Veterans, and Youth Rehabilitation, the Thailand Ministry of Public Health, UNICEF, UNHCR, MiracleFeet, IRC, and SwissTPH. These organizations use OpenFn to better facilitate program needs.\r\nAbout Cambodia: https://docs.openfn.org/blog/2021/02/09/interoperability_for_case_referrals\r\nAbout Thailand: https://youtu.be/mo4IfBy8wfU\r\nAbout UNICEF + Primero - See pg 40: https://digitalpublicgoods.net/DPG-Ecosystem-2022.pdf\r\nhttps://medium.com/@taylordowns2000/healthcare-systems-integration-boosts-treatment-quality-outcomes-2e2f088b2205\r\n \r\nOpenFn has been implemented by multiple education NGOs to automate data exchange workflows. Most recently in 2022, Itau Social Foundation, the largest NGO supporting public education in Brazil, has implemented OpenFn to automate data exchange workflows between learning management online platforms and M&E systems to enable program and student enrollment monitoring and program decision-making (case study to be available on OpenFn's blog next month). In 2021, OpenFn also partnered with Dimagi and USAID to integrate the Honduras Ministry of Education's Moodle learning management system with a USAID program application running on CommCare. For other education-related projects, see the OpenFn blog:\r\nhttps://docs.openfn.org/blog/2020/07/01/african-school-of-excellence-case-study/\r\nhttps://docs.openfn.org/blog/2020/07/27/nalibali-case-study/#did-you-know-that-south-africas-education-system-ranks-as-one-of-the-worst-in-the-world\r\n\r\n \r\nWildlife Conservation Society and the ConSoSci partnership work on conservation action in 30+ countries and use OpenFn to connect their data sources for faster analysis, enhanced research, and more effective conservation and social response. \r\nhttps://docs.openfn.org/blog/2022/06/28/Data-Integration-to-better-safeguard-the-world%E2%80%99s-wildlife"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "OpenFn is currently in use in over 20 low and middle income countries across the world--primarily by health and humanitarian organizations. Examples include the Cambodia Ministry of Social Affairs, Veterans, and Youth Rehabilitation, the Thailand Ministry of Public Health, UNICEF, UNHCR, MiracleFeet, IRC, and SwissTPH. These organizations use OpenFn to better facilitate program needs.\r\nAbout Cambodia: https://docs.openfn.org/blog/2021/02/09/interoperability_for_case_referrals\r\nAbout Thailand: https://youtu.be/mo4IfBy8wfU\r\nAbout UNICEF + Primero - See pg 40: https://digitalpublicgoods.net/DPG-Ecosystem-2022.pdf\r\nhttps://medium.com/@taylordowns2000/healthcare-systems-integration-boosts-treatment-quality-outcomes-2e2f088b2205\r\n \r\nOpenFn has been implemented by multiple education NGOs to automate data exchange workflows. Most recently in 2022, Itau Social Foundation, the largest NGO supporting public education in Brazil, has implemented OpenFn to automate data exchange workflows between learning management online platforms and M&E systems to enable program and student enrollment monitoring and program decision-making (case study to be available on OpenFn's blog next month). In 2021, OpenFn also partnered with Dimagi and USAID to integrate the Honduras Ministry of Education's Moodle learning management system with a USAID program application running on CommCare. For other education-related projects, see the OpenFn blog:\r\nhttps://docs.openfn.org/blog/2020/07/01/african-school-of-excellence-case-study/\r\nhttps://docs.openfn.org/blog/2020/07/27/nalibali-case-study/#did-you-know-that-south-africas-education-system-ranks-as-one-of-the-worst-in-the-world\r\n\r\n \r\nWildlife Conservation Society and the ConSoSci partnership work on conservation action in 30+ countries and use OpenFn to connect their data sources for faster analysis, enhanced research, and more effective conservation and social response. \r\nhttps://docs.openfn.org/blog/2022/06/28/Data-Integration-to-better-safeguard-the-world%E2%80%99s-wildlife"
+        },
+        {
+            "sdg": "SDG15: Life on Land",
+            "relevance": "OpenFn is currently in use in over 20 low and middle income countries across the world--primarily by health and humanitarian organizations. Examples include the Cambodia Ministry of Social Affairs, Veterans, and Youth Rehabilitation, the Thailand Ministry of Public Health, UNICEF, UNHCR, MiracleFeet, IRC, and SwissTPH. These organizations use OpenFn to better facilitate program needs.\r\nAbout Cambodia: https://docs.openfn.org/blog/2021/02/09/interoperability_for_case_referrals\r\nAbout Thailand: https://youtu.be/mo4IfBy8wfU\r\nAbout UNICEF + Primero - See pg 40: https://digitalpublicgoods.net/DPG-Ecosystem-2022.pdf\r\nhttps://medium.com/@taylordowns2000/healthcare-systems-integration-boosts-treatment-quality-outcomes-2e2f088b2205\r\n \r\nOpenFn has been implemented by multiple education NGOs to automate data exchange workflows. Most recently in 2022, Itau Social Foundation, the largest NGO supporting public education in Brazil, has implemented OpenFn to automate data exchange workflows between learning management online platforms and M&E systems to enable program and student enrollment monitoring and program decision-making (case study to be available on OpenFn's blog next month). In 2021, OpenFn also partnered with Dimagi and USAID to integrate the Honduras Ministry of Education's Moodle learning management system with a USAID program application running on CommCare. For other education-related projects, see the OpenFn blog:\r\nhttps://docs.openfn.org/blog/2020/07/01/african-school-of-excellence-case-study/\r\nhttps://docs.openfn.org/blog/2020/07/27/nalibali-case-study/#did-you-know-that-south-africas-education-system-ranks-as-one-of-the-worst-in-the-world\r\n\r\n \r\nWildlife Conservation Society and the ConSoSci partnership work on conservation action in 30+ countries and use OpenFn to connect their data sources for faster analysis, enhanced research, and more effective conservation and social response. \r\nhttps://docs.openfn.org/blog/2022/06/28/Data-Integration-to-better-safeguard-the-world%E2%80%99s-wildlife"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/OpenFn/core/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Open Function Group is the primary steward of the digital global good and its staff make up the OpenFn core team. OpenFn's development and roadmap are governed by the OpenFn Open Source Steering Committee and the OpenFn Community and users. See the \"Governance\" repository linked below for more information on the structure. ",
+            "clearOwnershipURL": "https://github.com/OpenFn/governance/#governance-overview"
+        }
+    ],
+    "documentation": "OpenFn documentation includes a suite of content, templates, and implementation examples for its community, and it is primarily found at https://www.docs.openfn.org. \r\nThis includes content to guide implementers on how to design and build workflow automation and data integration solutions using OpenFn, as well as resources to generally support business analysts and developers who are implementing workflow automation and data integration solutions (no matter if they are using OpenFn or other software). This includes documentation on 60+ open-source OpenFn adaptors (or system \"\"connectors\"\"), template implementation and code examples, design templates and checklists, and link to related Github repositories. We have documentation available in English and key pages in French. \r\n\r\nOpenFn also maintains a public community forum at https://www.community.openfn.org where users can post questions and follow for product updates. \r\n\r\nThe full OpenFn Toolkit can be found via our Github organization at https://github.com/OpenFn, where users can browse the suite of open source integration tools and documentation for the 60+ individual repositories maintained by the OpenFn core team. \"",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "\"For organizations that are using OpenFn through our DPG offering (Lightning, Microservice, and custom OpenFn-core-based applications) the recommended export method is via direct DB queries for both bulk imports and exports.\r\n\r\nFor organizations that are using OpenFn through the proprietary \"\"v1 platform\"\" extension to the DPG, the recommended export method is from the following interfaces:\r\n\r\nSee here for exporting OpenFn project configuration: https://docs.openfn.org/documentation/portability\r\n\r\nSee here for how workflow \"\"runs\"\" (transaction history) can be exported:  https://docs.openfn.org/documentation/manage/platform-mgmt/#export-runs-to-csv\r\n\r\nSee here for how messages can be exported if users' projects are configured to temporarily store receipts from external applications for onward processing or transaction re-tries: https://docs.openfn.org/documentation/manage/platform-mgmt/#export-messages-to-csv"
+    },
+    "openStandards": [
+        "REST",
+        " JSON",
+        " Open API",
+        " FHIR\r\nBy adhering to modern REST and JSON data exchange standards and providing interfaces for data transformation we help other digital global goods (like DHIS2",
+        " CommCare",
+        " Open Data Kit",
+        " OpenMRS",
+        " etc.) adhere to standards like FHIR",
+        " OpenAPI",
+        " and more. \r\n\r\nFor design specifications our core team uses BPMN and encourages implementers to do the same. See our Docs page for guidance and examples: https://docs.openfn.org/documentation/design/design-quickstart/#use-bpmn-for-standardized-documentation\r\n\r\nYou can see how FHIR standards are enforced via the recent OpenFn OpenHIE module\u2014the tests here show how data submitted by various form capture tools (Kobo/CommCare) are coerced into a FHIR standard and loaded into HapiFHIR.\r\n- https://docs.openfn.org/documentation/instant-openhie/\r\n- https://github.com/OpenFn/instant-demo/blob/main/test.js\r\n\r\n"
+    ],
+    "bestPractices": [
+        "While we attempt to follow all of the digital principles",
+        " \u201cUnderstanding the Existing Ecosystem\u201d",
+        " \u201cAddressing Privacy and Security\u201d",
+        " and \u201cDesigning for Scale\u201d are three that are most fundamental to OpenFn\u2019s approach. \r\n\r\nAs a systems integrator",
+        " a platform that enables workflow automation and interoperability between highly sensitive systems being used by governments at scale",
+        " we would be nothing without those three particular principles.\r\n\r\nBeyond this",
+        " we follow the OWASP ASVS during our annual security reviews",
+        " have been through a security audit by the UNICC",
+        " and hold monthly security meetings to ensure that all continued development of the DPG is done with security as a \"top of mind\" concern.\r\nFor more on OpenFn security and design see our Documentation site: \r\n- https://docs.openfn.org/documentation/getting-started/security\r\n- https://openfn.org/trust "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "For OpenFn user accounts",
+            " we collect First Name",
+            " Last Name",
+            " and Email. \r\n\r\nAlso note that users may implement OpenFn to automate data exchange workflows between their information systems. In such scenarios",
+            " OpenFn is the \"\"data processor\"\" and not a data storage service",
+            " and the implementing user is the \"\"data controller\"\". Leveraging OpenFn's flexibile configuration options and security settings",
+            " the user maintains total of the records OpenFn processes",
+            " how OpenFn is configured to transfer data",
+            " and whether Openfn serves as a zero-retention data pipeline or if it is used for temporary data storage to allow for transaction re-tries in the event of a failure."
+        ],
+        "dataPrivacySecurity": "OpenFn is a middleware provider rather than a data storage system, and is trusted by governments and iNGOs worldwide. We move information from system A to system B, and offer flexible configuration options so that integrations can be setup to be compliant with their data security & protection policies and data standards. When organizations choose to use our hosted OpenFn platform at OpenFn.org, no data processed by OpenFn is stored locally and our platform runs on the Google Cloud Platform (GCP). \r\nOpenFn.org runs on the Google Cloud Platform, an infrastructure protected by more than 500 top experts in information, application, and network security. For organizations with specific compliance and data governance requirements, OpenFn can also be deployed on designated local- or cloud-infrastructure. OpenFn prioritizes security, stability, and scalability (what we call S\u00b3) above all else, and many of our users implement OpenFn to comply with GDPR, HIPAA, and other policies. Read more on our Trust, Compliance, and Privacy pages.\r\nhttps://www.openfn.org/privacy\r\nhttps://www.openfn.org/trust\r\nhttps://www.openfn.org/compliance"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "OpenFn has a FAQs section, code of conduct, and Terms of Services section on the community forum (https://www.community.openfn.org). When registering for the community, users must agree to these terms, which include clauses on grief, abuse, and harassment. \r\nWe also have designated admins and moderators to oversee the contributions from the community. \r\nThe minimum age requirement for participation on the forum is set at 13 as stated in the Terms of Service (https://openfn.org/terms)."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Chile",
+            "Ethiopia",
+            "Kenya",
+            "Latvia",
+            "Senegal",
+            "South Africa",
+            "Switzerland",
+            "Tanzania",
+            "United Kingdom",
+            "United States of America",
+            "Zambia"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Bangladesh",
+            "Bolivia",
+            "Brazil",
+            "Cambodia",
+            "Chad",
+            "Chile",
+            "Democratic Republic of the Congo",
+            "Ecuador",
+            "Ethiopia",
+            "Finland",
+            "Gambia",
+            "Ghana",
+            "Guatemala",
+            "Guinea",
+            "Haiti",
+            "Honduras",
+            "India",
+            "Indonesia",
+            "Kenya",
+            "Liberia",
+            "Madagascar",
+            "Mali",
+            "Myanmar (formerly Burma)",
+            "Nepal",
+            "Nicaragua",
+            "Nigeria",
+            "Norway",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Senegal",
+            "South Africa",
+            "Sri Lanka",
+            "Switzerland",
+            "Tanzania",
+            "Thailand",
+            "Uganda",
+            "United States of America",
+            "Vietnam",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Human Rights Council (UNHRC)"
+    ],
+    "deploymentCountriesDepartments": [
+        "Cambodia Ministry of Social Affairs",
+        " Veterans",
+        " and Youth Rehabilitation\r\nThailand Ministry of Public Health\r\nGhana Health Service"
+    ],
+    "otherDeploymentOrganisations": [
+        "myAgro",
+        " Lwala Community Alliance",
+        " MiracleFeet",
+        " Ita\u00fa Social Foundation",
+        " Grassroot Soccer",
+        " Wildlife Conservation Society",
+        " Action Against Stunting Hub (research consortium led by LSHTM and UKRI)",
+        " SwissTPH",
+        " Women for Women International",
+        " Caris Foundation",
+        " Finn Church Aid",
+        " Radar",
+        " Keteka",
+        " Sinapis",
+        " Logical Outcomes",
+        " PSI",
+        " NRC",
+        " x-Runner",
+        " iKapaData",
+        " Nal`iBali",
+        " The Population Council",
+        " Vera Solutions",
+        " Dimagi",
+        " MOTG Solutions",
+        " Koe Koe Tech",
+        " International Rescue Committee",
+        " Last Mile Health",
+        " Medic Mobile",
+        " Technoserve",
+        " Caroline for Kibera",
+        " Livelyhoods",
+        " Building Tomorrow",
+        " Lutheran World Relief",
+        " VPUU",
+        " African School for Excellence",
+        " Segal Family Foundation",
+        " SAEP"
+    ],
+    "awardsReceived": [
+        "WFP Digital Health Innovation Accelerator Award: https://wfpinnovation.medium.com/building-the-future-of-pandemic-preparedness-through-open-source-solutions-cd8b78f6367c\r\n\r\nDigital Square Global Good: https://digitalsquare.org/global-goods-map\r\nhttps://wiki.digitalsquare.io/index.php/Global_Goods_Community#December_2.2C_2022_.7C_Global_Goods_Open_Mic_Series:_Planning_for_security_and_scale_for_integrated_systems.2C_a_case_study_of_OpenFn_implementation_by_the_Ministry_of_Public_Health.2C_Thailand"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenFn",
+            "website": "https://www.openfn.org/, https://docs.openfn.org/",
+            "org_type": "owner",
+            "contact_name": " Taylor Downs  ",
+            "contact_email": "support@openfn.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "OpenFn is GDPR- and HIPAA- compliant and provides flexible configuration options so that implementers can modify OpenFn configuration to adhere to their country's or organization's specific compliance requirements. ",
+            "privacyComplianceURL": "https://openfn.org/compliance \r\nhttps://openfn.org/privacy \r\nhttps://openfn.org/terms"
+        }
+    ]
+}
