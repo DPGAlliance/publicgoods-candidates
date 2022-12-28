@@ -12,6 +12,7 @@
   "documentation": {
     "isDocumentationAvailable": "Yes",
     "documentationURL": [
+      "Installation guide - https://core.digit.org/guides/installation-guide",
       "https://ifix.digit.org/platform/strategy-and-approach/functional-specifications",
       "https://ifix.digit.org/platform/strategy-and-approach/technical-specification"
     ]
@@ -19,7 +20,7 @@
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Dashboards and data dump downloads from dashboards in XLS format."
+    "nonPIIAccessMechanism": "Since iFix uses PostgreSQL as the datastore and it is open source, there are standard tools and processes available to extract data from the database in non-proprietary formats - JSON, CSV etc."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
@@ -27,7 +28,8 @@
       "Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgment)"
     ],
     "adherenceSteps": [
-      "Steps taken for adherence are in compliance with the Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgment) Steps are -: Purposeful collection, Legitimate interest in data collection &  Data minimization."
+      "Steps taken for adherence are in compliance with the Information Technology Act, 2000 (as interpreted by the Supreme Court of India in the Puttaswamy - 1 judgment) Steps are -: Purposeful collection, Legitimate interest in data collection &  Data minimization.",
+      "iFIX deals with fiscal information. The fiscal information formats have been designed to not have PII data, hence eliminating any privacy risk. Also, encryption mechanisms have been provided for scenarios where users would want to exchange PII and sensitive data."
     ]
   },
   "standards": {
@@ -38,20 +40,22 @@
       "REST"
     ],
     "evidenceStandardSupport": [
-      "https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/egovernments/iFix-Dev/develop/domain-services/ifix-master-data-service/ifix-master-data-service-1.0.0.yaml",
-      "https://github.com/egovernments/iFix-Dev/blob/master/domain-services/fiscal-event-service/fiscal-event-service-1.0.0.yaml",
-      "https://github.com/egovernments/iFix-Dev/blob/master/domain-services/fiscal-event-post-processor/fiscal-event-post-processor-1.0.0.yaml",
-      "https://github.com/egovernments/iFix-Dev/blob/master/domain-services/ifix-department-entity-service/ifix-department-entity-service-1.0.0.yaml"
+      "https://core.digit.org/platform/core-services",
+      "https://core.digit.org/platform/technology/open-source-tools"
     ],
     "implementBestPractices": "Yes",
     "bestPracticesList": [
-      "Interoperable, Standards based, Minimalism, Open Source, Unbundled, Secure & Reliable, Scalable, Ease of use, Inclusive"
+      "iFix uses open source technologies throughout the tech stack. For more details about the tech stack, please see this link - https://core.digit.org/platform/technology/open-source-tools",
+      "iFIX leverages JSON for data exchange via APIs. APIs are defined using Open API specifications. All services are documented here - https://core.digit.org/platform/core-services",
+      "iFix is built using microservices architecture. All services are 'unbundled' -independent, minimal and can be used across contexts.",
+      "Since iFix is built on microservices, each component can be evolved and independently scaled which makes the platform as a whole scalable. iFix can be implemented across commercial and private clouds irrespective of the provider.",
+      "All the APIs are well documented and in the open for everyone to consume. Extensive documentation ensures that the platform is easy to use."
     ]
   },
   "doNoHarm": {
     "preventHarm": {
       "stepsToPreventHarm": "Yes",
-      "additionalInfoMechanismProcessesPolicies": "DIGIT-iFix is built with data privacy and security features. We follow best practices during development and deployment to ensure security. It does no harm. "
+      "additionalInfoMechanismProcessesPolicies": "DIGIT-iFix is built with data privacy and security features. We follow best practices during development and deployment to ensure security:\n- Authentication: Can be done using username password or one time passwords that are sent to the mobile numbers of users. \n - Password and Session Expiration Policy -periodic password updation and session logins to ensure user authentication. Password expiration is work in progress. \n- Encryption - Sensitive Data can be encrypted before being stored. \n - Role Based Authorisation - Roles can be configured which limits the features and functionality available to the user. \nData Isolation - Users are bound to the tenant and the user is isolated to access data available only for that tenant. Tenants can be a department or geography etc. Tenants can be hierarchical. \nNon Repudiation - To ensure non-repudiation, a signed audit log is maintained for all the changes."
     },
     "dataPrivacySecurity": {
       "collectsPII": "No",
@@ -63,7 +67,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "iFix does not capture any PII data"
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
