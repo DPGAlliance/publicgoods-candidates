@@ -21,12 +21,12 @@
     "nonPIIAccessMechanism": "Imports and exports into CSV or excel formats"
   },
   "privacy": {
-    "isPrivacyCompliant": "Unknown",
+    "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      ""
+      "PCMT is a set of extensions to the larger Open Source project Akeneo PIM Community Edition (CE).  From our understanding of the EU’s GDPR and the EU cookie policy, PCMT and Akeneo CE comply with both.  First the open source projects are self-hosted, and when self-hosted, do not have any tracking or other communication back to either Akeneo nor VillageReach (stewards of PCMT).  This lack of tracking and data collection extends to the cookies that are used – the only cookies are essential for the authentication and authorization mechanism of the logged in user, and are not used to track the person or collect information outside the authorization envelope, and so no notice to the end user is required.  Further PCMT and Akeneo are back-end data management systems, not intended for general public use.  The extent of the personally identifiable information within the system is placed there by the system administrators when they create a user’s account, and includes their name, email, phone number and locality.  There is no sign-up or invitation process."
     ],
     "adherenceSteps": [
-      ""
+      "PCMT is a set of extensions to the larger Open Source project Akeneo PIM Community Edition.  At this time the Akeneo community does not have a privacy policy or terms of service when self-hosting the software.  The Akeneo website however does have this terms of service for use of their website:  https://www.akeneo.com/terms-of-service/ .  Likewise the PCMT extensions to Akeneo do not have a terms of service, rather the software is released for others to self-host it.  VillageReach does offer limited managed hosting options, and in those cases we lay out the terms in a contract that the data is not owned by VillageReach, and we lay no claim to use it outside of the intended purpose."
     ]
   },
   "standards": {
@@ -56,7 +56,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ""
+      "privacySecurityDescription": "PCMT is a set of extensions to the larger Open Source project Akeneo PIM Community Edition, which includes a set of standard deployment descriptors that make it easier to start Akeneo in a more secure manner.  Primarily this includes deployment descriptors that will by default obtain a certificate from Lets Encrypt, and renew it automatically.  All internet traffic is then encrypted using x509 certificates.  Internally the data is stored in an unencrypted relational database (though passwords are hashed using a one-way mechanism), however the default networking ensures that the database access is restricted outside of a local connection.  \nAll data in the system remains with the organization that deploys the system."
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
@@ -68,13 +68,13 @@
     },
     "protectionFromHarassment": {
       "userInteraction": "Yes",
-      "addressSafetySecurityUnderageUsers": "",
+      "addressSafetySecurityUnderageUsers": "Yes",
       "stepsAddressRiskPreventSafetyUnderageUsers": [
-        ""
+        "PCMT is a set of extensions to the larger Open Source Akeneo PIM Community Edition.  At present the Akeneo CE community has not adopted a code of conduct (https://www.contributor-covenant.org/version/1/4/code-of-conduct/), however the PCMT development group has adopted the Contributor Covenant v1.4.  This applies only to the PCMT extensions, though we'd support the Akeneo community adopting this, or a similar, code of conduct."
       ],
-      "griefAbuseHarassmentProtection": "",
+      "griefAbuseHarassmentProtection": "Yes",
       "harassmentProtectionSteps": [
-        ""
+        "PCMT is a set of extensions to the larger Open Source Akeneo PIM Community Edition.  At present the Akeneo CE community has not adopted a code of conduct (https://www.contributor-covenant.org/version/1/4/code-of-conduct/), however the PCMT development group has adopted the Contributor Covenant v1.4.  This applies only to the PCMT extensions, though we'd support the Akeneo community adopting this, or a similar, code of conduct."
       ]
     }
   },
