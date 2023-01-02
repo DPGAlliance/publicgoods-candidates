@@ -1,0 +1,161 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "User Name",
+            " Email",
+            " IP addresses",
+            " Data users last signed in",
+            " \r\n\r\nSometimes:\r\nPhone number (in some cases - verification with SMS)\r\n\r\nVerifying ID number and ID Document (only when census verification)\r\nGender census\r\nDate of Birth census\r\n"
+        ],
+        "dataPrivacySecurity": "Generic version of Consul does, information is not downloadable through the public pages.\r\nOnly public data is the user name\r\nAdministrator also can\r\nEncrypt password\r\nAvoiding SQL injection in every part of the application. \r\nForce SSL connections on every page\r\n"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "text",
+            " images",
+            " links",
+            " pdf "
+        ],
+        "contentManagementPolicy": "Policy:\r\nProcess: Flag and Moderation Section\r\nAverage response time: Manually"
+    },
+    "id": "10263",
+    "name": "Consul Democracy",
+    "aliases": [
+        "Consul",
+        " CONSUL"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Consul Democracy is the most complete citizen participation tool for an open, transparent and democratic government. This tool is free, secure, open-source and easy to use, reflecting public values at its core, so that all governments can take the first steps toward digital citizen participation. ",
+    "website": "consulproject.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "github.com/consul/consul"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "Consul Democracy is used by governments globally on local, regional and national level to involve citizens in decision-making, helping to both develop effective, accountable and transparent institutions as well as ensuring responsive, inclusive, participatory and representative decision-making at all levels. Transparency and accountability is further enhanced thanks to the open-source nature of Consul's development, which is community based. More on the goals, the way we work and participating institutions can be read on: https://consulfoundation.org/about and https://consulproject.org/\r\n\r\nMoreover, we support governments to work on all Sustainable Development Goals with their citizens. We have joined forces with The United Nations Development Programme and the cooperative Enreda to foster participation around the Agenda 2030 by incorporating a SDG module into the software, so that entities around the world can use it in their Sustainable Development Goals localization processes. "
+        }
+    ],
+    "documentation": "All our documentation can be accessed through our website consulproject.org and our online community\r\nIt includes: \r\nTechnical Documentation - https://docs.consulproject.org/docs/?q=\r\nUser and Administration Guides -  https://community.consulproject.org/t/consul-documentation-english-editable-format/504",
+    "openStandards": [
+        "Consul Democracy adheres to the most relevant standards and best practices such as the ones mentioned by The Digital Public Goods Alliance in the list of open standards resources https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md\r\n\r\nAccessibility as defined by the Web Content Accessibility Guidelines 2.1 by the WAI working group. \r\nE.g. https://wuerzburg-mitmachen.de/accessibility and https://stemvan.groningen.nl/accessibility and https://decide.madrid.es/accessibility\r\n\r\nSecurity. Using HTTPS",
+        " SSL",
+        " and SSH (see https://github.com/consul/installer)\r\n\r\nAuthentication. Possiblity of using OAuth or OAuth 2.0. (see https://docs.consulproject.org/docs/english-documentation/features/oauth)\r\nInternationalization (i18n). Internationalization (i18n). Using UTF-8 as character encoding and the Ruby I18n gem https://guides.rubyonrails.org/i18n.html \r\n\r\nWeb standards. HTML",
+        " CSS",
+        " and ECMAScript 5",
+        " encouraging the use of features supported by every web browser \r\nAPI. Architecture and API. Using REST for browser requests and GraphQL for interaction with other applications https://docs.consulproject.org/docs/english-documentation/features/graphql"
+    ],
+    "bestPractices": [
+        "Accessibility as defined by the Web Content Accessibility Guidelines 2.1 by the WAI working group. \r\nE.g. https://wuerzburg-mitmachen.de/accessibility and https://stemvan.groningen.nl/accessibility and https://decide.madrid.es/accessibility\r\n\r\nSecurity. Using HTTPS",
+        " SSL",
+        " and SSH (see https://github.com/consul/installer)\r\n\r\nAuthentication. Possiblity of using OAuth or OAuth 2.0. (see https://docs.consulproject.org/docs/english-documentation/features/oauth)\r\nInternationalization (i18n). Internationalization (i18n). Using UTF-8 as character encoding and the Ruby I18n gem https://guides.rubyonrails.org/i18n.html \r\n\r\nWeb standards. HTML",
+        " CSS",
+        " and ECMAScript 5",
+        " encouraging the use of features supported by every web browser \r\nAPI. Architecture and API. Using REST for browser requests and GraphQL for interaction with other applications https://docs.consulproject.org/docs/english-documentation/features/graphql"
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Consul Democracy includes a moderation interface that allows the public workers administrating the platform to ensure that the platform remains a safe space:\r\n\r\nThe administrators can hide or delete any content and block users\r\n\r\nAny user can flag any content of the platform (comments, proposals, debates, projects, etc) as inappropriate leading to an alert in the moderation system\r\n\r\nIn case the government wants to establish a more advanced moderation system, Consul allows creating users with the specific role of moderators, allowing trusted parties or specialists in the matter to carry out the task. \r\nAny actions performed by the moderators are also tracked in the administrators' interface to ensure that the process is done correctly and with all the guarantees.\r\n(see e.g. sections 1.9 and 2.0 of the administration guide https://consulproject.org/docs/consul_administration_guide_en.pdf)\r\n\r\nRegarding the age of the users, Consul allows connecting the platform to the verification system of the government to verify each user before using the platform and prevent access by underage users. (see e.g. https://docs.consulproject.org/docs/english-documentation/features/census_configuration and an example of Conditions of use of a city explaining that it is not allowed the use of the platform by underage users https://decide.madrid.es/conditions)"
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "The original author of the software is the Madrid City Council. The Consul Democracy Foundation is the owner and maintainer of the main international GitHub repository used by all cities using the software worldwide.",
+            "clearOwnershipURL": "https://github.com/consul/consul#readme\r\nhttps://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt\r\nconsulproject.org\r\nconsulfoundation.org"
+        }
+    ],
+    "locations": {
+        "developmentCountries": [
+            "Netherlands",
+            "Spain"
+        ],
+        "deploymentCountries": [
+            "Albania",
+            "Algeria",
+            "Argentina",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Brazil",
+            "Cabo Verde",
+            "Chile",
+            "Colombia",
+            "Costa Rica",
+            "Croatia",
+            "Cyprus",
+            "Denmark",
+            "Ecuador",
+            "El Salvador",
+            "France",
+            "Germany",
+            "Italy",
+            "Malta",
+            "Mexico",
+            "Netherlands",
+            "Norway",
+            "Palestine State",
+            "Paraguay",
+            "Peru",
+            "Poland",
+            "Romania",
+            "Serbia",
+            "Slovenia",
+            "Somalia",
+            "Spain",
+            "Sweden",
+            "Turkey",
+            "United Kingdom",
+            "Uruguay"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "Tirana\r\nBah\u00eda Blanca\r\nNational Government Argentina\r\nBuenos Aires\r\nCatamarca \r\nC\u00f3rdoba \r\nGodoy Cruz\r\nLuj\u00e1n de Cuyo\r\nMar Chiquita\r\nSan Antonio de Areco\r\nLa Paz\r\nSucre\r\nSarajevo\r\nPernambuco\r\nPorto Alegre\r\nSao Paolo\r\nKardjali\r\nTargovishte\r\nPraia\r\nRenca\r\nColombian National Government\r\nBogot\u00e1\r\nMedell\u00edn\r\nNari\u00f1o \r\nMontes de Oca\r\nKri\u017eevci\r\nCyprus\r\nAarhus\r\nQuito\r\nSan Salvador\r\nAude \r\nParis\r\nBad Belzig\r\nBamberg\r\nBernkastel - Wittlich\r\nCastrop-Rauxel\r\nDetmold\r\nFlensburg\r\nGarmisch-Partenkirchen\r\nHa\u00dffurt\r\nJena \r\nKirchheim\r\nKulmbach\r\nLandkreis Vorprommern-Greifswald (District)\r\nM\u00f6nchengladbach\r\nOsnabr\u00fcck \r\nPforzheim \r\nStutensee\r\nUnterschlei\u00dfheim\r\nWittelsbacher Land\r\nW\u00fcrzburg\r\nSekondi-Takoradi\r\nGuatemala\r\nBari\r\nTorino\r\nValetta\r\nCoatzacoalcos\r\nJalisco\r\nSan Pedro Garza Garc\u00eda\r\nAlmelo\r\nBadhoevedorp\r\nDantumadiel\r\nEmmen\r\nEnschede\r\nGroningen\r\nHet Hogeland\r\nMidden-Groningen\r\nNoardeast-Fryslan\r\nWeesp\r\nTrondheim\r\nAsunci\u00f3n\r\nLa Libertad\r\nLima\r\nGdynia\r\nWaver",
+        " Warsaw\r\n\u017boliborz",
+        " Warsaw\r\nBrasov\r\nKragujevac\r\nNis\r\nHrpelje-Kozina\r\nKoper\r\nKranjska Gora\r\nMaribor\r\nMedvode\r\nNova Gorica\r\nMogadishu\r\nA Coru\u00f1a Diputacion\r\nA Coru\u00f1a Ayuntamiento\r\nAlcal\u00e1 de Henares\r\nAlfafar\r\nAlginet\r\nAlicante\r\nAranjuez\r\nArcos de la Frontera\r\nArona\r\nArroyomolinos\r\nAspe\r\nAvil\u00e9s\r\nBadajoz\r\nBenalm\u00e1dena\r\nBullas\r\nBu\u00f1ol\r\nC\u00e1diz\r\nCalvi\u00e1\r\nCarre\u00f1o\r\nCartagena\r\nCastell\u00f3n de la plana\r\nCheste\r\nChiloeches\r\nCiempozuelos\r\nCieza\r\nCiudad Real\r\nC\u00f3rdoba\r\nEl Hierro\r\nEl Puerto de Santa Maria\r\nEl Rosario\r\nFaura\r\nGetafe\r\nGirona\r\nGolmayo\r\nGran Canaria\r\nHuesca\r\nLa Gomera\r\nLas Palmas de Gran Canaria\r\nLorca\r\nMadrid\r\nMadrid\r\nM\u00e1laga\r\nMallorca\r\nMarchamalo\r\nMelilla\r\nMijas\r\nMoixent\r\nMolina de Segura\r\nM\u00f3stoles\r\nOndara\r\nOviedo\r\nPalma de Mallorca\r\nPuerto Real\r\nRivas Vaciamadrid\r\nSan Sebasti\u00e1n de los Reyes\r\nSant Joan d'Alacant\r\nSanta Cruz de Tenerife\r\nSoria\r\nTalamaca del Jarama\r\nTarragona\r\nToledo\r\nTorremolinos\r\nTorre-Pacheco\r\nTorrevieja\r\nTudela de Duero\r\nValdemorillo\r\nValencia\r\nValencia\r\nVallada\r\nValladolid\r\nValladolid\r\nXirivella\r\nZamora\r\nNablus\r\nBiskopsg\u00e5rden\r\nGothenburg\r\nAv\u00e7ilar\r\nIstanbul\r\nAberdeenshire\r\nArgyll and Bute\r\nDumfries and Galloway\r\nDundee\r\nEdinburgh\r\nFife\r\nGlasgow\r\nInverclyde\r\nMidlothian\r\nMoray\r\nNorth Ayrshire\r\nNorth Lanarkshire\r\nRenfrewshire\r\nScottish Borders\r\nSouth Ayrshire\r\nStirling\r\nWest Dunbartonshire\r\nWest Lothian\r\nNew York City\r\nMontevideo \r\nUruguay National Government"
+    ],
+    "otherDeploymentOrganisations": [
+        "Political Party Splinter Netherlands\r\nColombian Multiparty Institute\r\nEastern European Multiparty Institute\r\nUniversity A Coru\u00f1a\r\nMehr Demokratie\r\nAixerrota High School\r\nZaragoza University"
+    ],
+    "awardsReceived": [
+        "The United Nations Public Service Award 2018 https://publicadministration.un.org/unpsa/database/Winners/2018-winners\r\nEuropean Commission\u2019s ISA award as the second open source software with the greatest impact on\r\ncitizenship in Europe\r\nhttps://joinup.ec.europa.eu/collection/sharing-and-reuse-it-solutions/sharing-reuse-awards-2019-results"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Consul Democracy",
+            "website": "consulproject.org",
+            "org_type": "owner",
+            "contact_name": " Esther Nass  ",
+            "contact_email": "esther@consulfoundation.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The whole Consul Democracy software is licensed through a AGPL-3.0 license https://www.gnu.org/licenses/agpl-3.0.en.html One of the most common open source license used worldwide.\r\n\r\nConsul is a standalone platform that does not need any personal data to be used. Each government using Consul Democracy defines in each case if they want to collect data from the users, and if that is the case which conditions apply to the collection and protection of the data. Consul allows the government to publish all the terms and conditions that apply to their use of the platform as well as to require the users' consent to such conditions and to any collection and treatment of data that the government decides to do with the platform. Consul Democracy is not offered as SaaS but as software that each government has to install and administer by themselves. Thus each government is responsible for the servers running Consul, the data stored in them, the security of them, and applying any law relevant to the service they will be providing.",
+            "privacyComplianceURL": "As an example of the terms and conditions and data management information published by governments using Consul Democracy see the following links:\r\nConsul Democracy in Madrid (Spain): https://decide.madrid.es/privacy and https://decide.madrid.es/conditions\r\nConsul Democracy in Groningen (Netherlands): https://stemvan.groningen.nl/privacy and https://stemvan.groningen.nl/conditions\r\nConsul Democracy in Wuerzburg (Germany): https://wuerzburg-mitmachen.de/privacy and https://wuerzburg-mitmachen.de/conditions\r\n"
+        }
+    ]
+}
