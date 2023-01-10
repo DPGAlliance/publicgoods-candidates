@@ -56,7 +56,6 @@ This document lays out the policies that govern the review process of DPG applic
   3. Convene a meeting with the stakeholder that has raised concerns to get more detailed explanation or additional information 
 * Please note that the final decision for DPG status validation does rest with the DPG review team 
 	The process for community members to engage with DPG review team: 
-
   ### The process for community members to engage with DPG review team: 
 * Status of review of an application is transparently visible on their public URL (app.digitalpublicgoods.net/a/[ID])
 * To engage in the public discourse on a submitted application, please interact with us by commenting the relevant PR on [this public GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls).
