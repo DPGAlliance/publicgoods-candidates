@@ -47,10 +47,22 @@ This document lays out the policies that govern the review process of DPG applic
 ### Spam Policy
 * Any application that is deemed nonsensical, malicious, irrelevant or in violation of our [Code of Conduct](https://github.com/DPGAlliance/DPG-Standard/blob/main/CODE_OF_CONDUCT.md) will not be reviewed and will be removed immediately.
 
-### Issue Resolution Policy
+### DPG Status Removal Policy 
+
+* DPGA invites the community members to scrutinize the documentation submitted by DPG owners in order to validate their status as a DPG
+* The review team will deliberate on the issues raised and do either of the following 3 things: 
+  1. Accept the reservations noted by community and reach out to the DPG owner over email to seek clarification 
+  2. Reject the reservations noted by community and stick to the decision on validation a DPG status 
+  3. Convene a meeting with the stakeholder that has raised concerns to get more detailed explanation or additional information 
+  
+* Please note that the final decision for DPG status validation does rest with the DPG review team 
+	The process for community members to engage with DPG review team: 
+
+  ### The process for community members to engage with DPG review team: 
 * Progress and status of review of an application is transparently visible on their public URL (app.digitalpublicgoods.net/a/[ID]) and via the applicant’s dashboard.
 * To engage in the public discourse on a submitted application, please interact with us by commenting the relevant PR on [this public GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls).
-* To raise disagreements with a review decision or any other issues related to reviews, please write to us at support@digitalpublicgoods.net
+* The comment should answer “ Why does a certain DPG doesn’t meet the DPG standard criteria?”
+* Alternately, to raise disagreements with a review decision or any other issues related to reviews, please write to us at support@digitalpublicgoods.net
 
 
 
