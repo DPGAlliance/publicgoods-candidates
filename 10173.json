@@ -1,0 +1,31 @@
+	{
+    "id": "10173",
+    "name": "African Storybook ",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "ASb"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "In response to the shortage of appropriate storybooks for young African children, ASb provides open access to picture storybooks in the languages of Africa, for children's literacy, enjoyment and imagination.",
+    "website": "www.africanstorybook.org",
+    "platformIndependence": [],
+    "organizations": [
+        {
+            "name": "African Storybook ",
+            "website": "www.africanstorybook.org",
+            "org_type": "owner",
+            "contact_name": " Dorcas Wepukhulu  ",
+            "contact_email": "dorcasw@saide.org.za"
+        }
+    ],
+    "privacy": [
+        []
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
