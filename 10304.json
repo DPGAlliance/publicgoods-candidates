@@ -1,0 +1,148 @@
+	{
+    "id": "10304",
+    "name": "OpenG2P",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "OpenG2P is an open source platform using which government-to-person (G2P)  solutions could be built. The platform offers processes such as onboarding into schemes, identity verification, and cash transfers to their bank  accounts. It also has government department facing features such as creation of registries, beneficiary lists, eligibility checks, scheme definition, payment disbursement and reconciliation.",
+    "website": "https://openg2p.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/openg2p"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG6: Clean Water and Sanitation",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG7: Affordable and Clean Energy",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services. OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design.\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/OpenG2P/openg2p-program/blob/15.0-develop/LICENSE"
+        }
+    ],
+    "documentation": "Overall documentation:\r\nhttps://docs.openg2p.org\r\n\r\nRepository specific documentation in READMEs inside repositories:\r\nhttps://github.com/openg2p",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "OpenG2P use depends on how government agencies store, share, and treat PII data. OpenG2P advocates for and brings an approach that confers additional privacy, security and consent in systems that have historically lacked such features. In terms of extracting non-personally identifiable data, the building blocks are designed to export data only relevant for a specific purpose. For example we provide an CSV export functionality as part of the data views, with field level controls available to hide specific details. In the context of OpenG2P, we consider 'stateless building blocks' as ones not storing beneficiary associated data beyond the life of a request-response cycle. Such components tend to be adapters with external systems. An example of a stateless brick is the OpenG2P Verification Engine which enables lookup against external identity and data sources and does not store data beyond the request-response cycle. An OpenG2P user will evaluate its data requirement and assess how critical it is to store beneficiary PII. Preference is not storing data and in making solutions stateless, however, if not a viable approach we advocate the following approaches, that prioritizes storing PII at a central location rather than having them fragmented across several projects. In theory, this reduces attack vectors: (a) Having projects store data to a central location, e.g. an existing database, and retrieving data needed to complete a request on-demand from that central locations. (b) Saving tokens and references to the beneficiary records stored at a central location with business data, rather than the entire PII of the beneficiary. Additionally, we advise that such a token should be project-specific, reducing its viability as a correlation handle. (c). If none of the above approaches can be taken, e.g as in the case of the OpenG2P search service which needs to maintain indexes, care, and data security measures should be instituted to protect against data breaches. OpenG2P creates a framework for components to work together. The systems required by governments to register, verify, enumerate beneficiaries, send funds, verify funds received, and so on are often lacking in one or more areas and OpenG2P provides a framework for bounded components to share necessary information via secure tokens. Protecting privacy and securing data are key themes in the design of OpenG2P."
+    },
+    "openStandards": [
+        "w3c verifiable credentials and others under explorations especially around handling of PII Work in progress especially around compliance to open standards around handling and security of PII\r\n"
+    ],
+    "bestPractices": [
+        "-OpenG2P must follow platform based approach so that all common features are abstracted as reusable components and frameworks into a common layer\r\n-OpenG2P must not use proprietary or commercial licence frameworks. Where deemed essential",
+        " such components must be encapsulated to enable their replacement if necessary (to avoid vendor lock-in)\r\n-OpenG2P must use open standards to expose its functionality (to avoid technology lock-in)\r\n-OpenG2P must use commodity computing hardware & software to build the platform\r\n-Data must be encrypted in-flight and at-rest. All requests must be authenticated and authorized. Privacy of Data is an absolute must in OpenG2P.\r\n-OpenG2P must follow the following manageability principles \u2013 Auditability & monitor ability of every event in the system",
+        " testability of every feature of the platform & easy upgrade ability of the platform\r\n-OpenG2P must allow deploying relevant components of the platform to build the solution as per the requirements of a country\r\n-OpenG2P must support i18n capability\r\n-All modules of OpenG2P should be resilient such that the solution as a whole is fault tolerant\r\n-The key sub-systems of OpenG2P should be designed for extensibility. For example",
+        " if an external payment system has to be integrated",
+        " it should be easy to do so.\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "This is information that when used alone or with other relevant information can identify an individual or family of individuals:",
+            "foundational or functional IDs",
+            " collection of information related to geographic location",
+            " race",
+            " gender",
+            " age",
+            " that allows for a person to be uniquely identified.",
+            "Sensitive Personally Identifiable Information - A subset of PII is data that is",
+            " by its nature or use",
+            " intended to be secret. This may vary with context and culture",
+            " but examples may include personal medical records",
+            " detailed financial records",
+            " and biometric and genomic data"
+        ],
+        "dataPrivacySecurity": "External Interactions - Relates to how OpenG2P building blocks consumes data from external sources using the information provided by the beneficiary and how those building blocks share beneficiary data with external parties. Examples include OpenG2P verifications service looking at demographic information from an external source using identity credentials supplied by beneficiaries and OpenG2P disbursement engine sharing beneficiary KYC information with account systems and payment providers. 1. Beneficiaries should be aware of and consent to how their data are used for a program\u2019s interaction with external systems. 2. Inbound and outbound data flow with external systems should be via secured authentication and transport mechanisms. Such secured authentication and data transport should follow best practices in keeping with international norms and standards. Where network latency creates challenges for encrypted channels, data encryption alone may suffice as long as vulnerabilities are limited on the endpoints. 3. OpenG2P components individually and collectively obfuscate (e.g. encrypt) the data such that if it is hacked or taken out it is as good as unusable. 4. An OpenG2P project should evaluate its data requirement and assess how critical it is to store beneficiary PII. Preference is not storing data, making solutions stateless, however, if not a viable approach we advocate the following approaches, that prioritizes storing PII at a central location rather than having them fragmented across several projects. In theory, this reduces attack vectors. 5. A project absolutely needing to store PII, e.g. Beneficiary Database should follow a minimum set of data-handling conventions and procedures. Limited Use - A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies. Data retention policies must be implemented that are aligned with such usage parameters."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "India",
+            "Sierra Leone"
+        ],
+        "deploymentCountries": [
+            "Iraq",
+            "Sierra Leone",
+            "Ukraine"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Ministry of Basic and Senior Secondary Education",
+        " Sierra Leone"
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "International Institute of Information Technology Bangalore",
+            "clearOwnershipURL": "Refer to https://openg2p.org"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenG2P",
+            "website": "https://openg2p.org",
+            "org_type": "owner",
+            "contact_name": " Puneet Joshi  ",
+            "contact_email": "puneet@openg2p.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "OpenG2P components are flexible to be used within country specific privacy laws.\r\n\r\nOpenG2P instances are deployed in various jurisdictions and as such have to comply with local laws.  OpenG2P enables relevant modifications to ensure such compliance. \r\n\r\nThe platform confers privacy, security, and consent as an inalienable right of every person regardless of their gender and economic situation. A key concept in our privacy approach is the requirement to only use information for the intended purpose and to prevent transmission of data to systems that are non-compliant with policies.\r\n\r\nThe OpenG2P framework is conceptualised as supportive of Government transfer systems, and the organisation of such transfer programs are at the behest of governmental agencies. We take approaches that are protective of security and privacy while remaining consistent with governmental policies. For users needing to store PII, e.g. Beneficiary Database follow a minimum set of data-handling conventions and procedures as per the Guiding Principles of OpenG2P:, \r\n(a) Data should be encrypted at rest, advisably with a regularly rotating key scheme and these keys kept safely off system.,\r\n(b). All-access should via strong authentication mechanism and permissioned; this also includes access to other OpenG2P projects.\r\n(c) Datastore should not be on a internet-facing network. \r\n(d) Tamper resistant logging of system access should be implemented across all potential routes of attacks,OpenG2P blocks by default not on externally-accessible networks. This default can be relaxed for the following situations:,(a) Needs to communicate with systems of external parties, in which case we advise the use of VPNs and other secure end-to-end/point-to-point secure communication strategies.,(b) Needs to be accessed by a wide variety of users, e.g. admin systems, in which case just interfaces should adopt industry-standard authentication strategies.,(c) User authentication, authorization, and roles; for interfaces that users log into, e.g. beneficiary administration system, we advocate the following the minimum.,(d) A system of authentication that factors, password strength, password expiration and rotation, and brute force protection. We also advocate for Two-factor authentication procedures where possible. (e) System of roles and authorization that provides the exact amount of rights a user needs to perform their tasks and nothing more. (f) Audited access with sessions and CRUD logs.\r\n",
+            "privacyComplianceURL": "OpenG2P instances are deployed in various jurisdictions and as such have to comply with local laws.  OpenG2P enables relevant modifications to ensure such compliance. "
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
