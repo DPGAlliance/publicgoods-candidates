@@ -14,13 +14,14 @@
     "documentationURL": [
       "https://github.com/iHRIS/iHRIS",
       "https://www.ihris.org/developers-guide",
-      "https://www.ihris.org/ihris"
+      "https://www.ihris.org/ihris",
+      "https://ihris.github.io/iHRIS/"
     ]
   },
   "NonPII": {
     "collectsNonPII": "Yes",
     "checkNonPIIAccessMechanism": "Yes",
-    "nonPIIAccessMechanism": "Some data collected would be non-personally identifiable such as facility data. Data can be imported through CSV, API, or through a FHIR server. "
+    "nonPIIAccessMechanism": "Some data collected would be non-personally identifiable such as facility data. Data can be imported through CSV, API, or through a FHIR server."
   },
   "privacy": {
     "isPrivacyCompliant": "Yes",
