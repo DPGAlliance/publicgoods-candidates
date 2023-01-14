@@ -1,0 +1,118 @@
+	{
+    "id": "10328",
+    "name": "iHRIS",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "iHRIS is a free and open-source software solution that has been used in over 30 countries to more easily collect, maintain, and analyze health workforce data and manage health workforce resources at a ministry of health (MOH), district health offices, and health care facilities. iHRIS helps countries around the world track and manage their health workforce data to improve access to services.",
+    "website": "https://www.ihris.org/",
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Countries use it to capture and maintain high-quality information for health workforce planning, management, regulation, and training for improved health outcomes."
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/iHRIS/iHRIS"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "IntraHealth",
+            "clearOwnershipURL": "https://github.com/iHRIS/iHRIS"
+        }
+    ],
+    "documentation": "https://github.com/iHRIS/iHRIS,https://www.ihris.org/developers-guide,https://www.ihris.org/ihris,https://ihris.github.io/iHRIS/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Some data collected would be non-personally identifiable such as facility data. Data can be imported through CSV, API, or through a FHIR server."
+    },
+    "openStandards": [
+        "FHIR",
+        "mCSD https://www.ihris.org/global-standards",
+        "https://github.com/iHRIS/iHRIS/tree/master/ihris-backend We adhere to the Principles of Digital Development and the Health Data Governance Principles and IntraHealth has endorsed both sets of principles and is listed under the endorsements for each. \n https://healthdataprinciples.org/endorse \n https://digitalprinciples.org/endorse/endorsers/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "iHRIS collects demographic data",
+            " education",
+            " training",
+            " and work history of health workers. that data is owned by the respective country MOH."
+        ],
+        "dataPrivacySecurity": " We ensure strong data privacy and security practices are in place in the software and hosting environments and where possible work with stakeholders to put local policies in place. iHRIS has secure access, using authorization and authentication, for only limited number of users, differing levels of access permissions and roles, and allows for customizations to adhere to local laws and procedures Authentication, authorization, and other privacy and security features are built into the application. The backend is secured and not exposed except through an API that requires secure tokens."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "iHRIS users are all government MOH employees, or employees of implementing partners, or other agencies suc as professional councils. the system is not available publicly.   iHRIS does not have a code of conduct for the core software, though these are sometimes put in place locally. Primary users are employees of the government Ministry or subnational Human Resource units. Any relevant terms of use and mechanisms/processes/policies are developed in each country in accordance with local laws and regulations, rather than being embedded in the core software package."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Uganda",
+            "Rwanda",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Botswana",
+            "Benin",
+            "Democratic Republic of the Congo",
+            "Ethiopia",
+            "Guinea",
+            "Laos",
+            "Kenya",
+            "Liberia",
+            "Malawi",
+            "Mali",
+            "Nepal",
+            "Nigeria",
+            "Senegal",
+            "Togo",
+            "Sierra Leone",
+            "Tanzania",
+            "Timor-Leste",
+            "Uganda",
+            "Zambia",
+            "Namibia"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "iHRIS",
+            "website": "https://www.ihris.org/",
+            "org_type": "owner",
+            "contact_name": "   ",
+            "contact_email": "intrahealth@intrahealth.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR) Only collect and retain data necessary, we have data security policies and procedures are the key, the system has data encryption, authentication, and authorization,Local laws about data storage are reviewed to determine how and where data is stored. Data sharing agreements are established so that the core software developers can access system to perform diagnosis of issues, fixes, updates, etc.: \n https://www.ihris.org/toolkit-new/pilot/presentation-creating-a-data-sharing-agreement/,Privacy policy - https://www.ihris.org/privacy,Terms of use - https://www.ihris.org/terms-use"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
