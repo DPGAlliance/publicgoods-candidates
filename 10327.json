@@ -1,0 +1,107 @@
+	{
+    "id": "10327",
+    "name": "Everwell Hub",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "The Everwell Hub is a best in-class patient management platform designed for high-burden public healthcare programs globally.  The Everwell Hub supports the entire digital cascade of care from diagnosis through treatment support and completion, including fully integrated modules for diagnostics (both lab generated results and AI diagnostic solutions), digital adherence technologies, virtual care and patient engagement, and digital payments. ",
+    "website": "https://www.everwell.org/",
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Everwell Hub is a scalable user-centric technology product that can positively impact health with the vision of creating a world where every person is empowered to lead a healthy life. We ensure that all personas in any healthcare setting, be it a health care professional, patient or individual caregiver are kept engaged and enthusiastic about their association with the domain. The product is designed and developed to enable deployments that are easy to use, localized, contextual, configurable, interoperable, secure and is a low-cost digital health solution for both providers as well as care seekers."
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://gitlab.com/everwell/hub-foss"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Everwell Health Solutions Pvt. Ltd.",
+            "clearOwnershipURL": "https://gitlab.com/everwell/hub-foss/-/blob/master/LICENSE"
+        }
+    ],
+    "documentation": "https://gitlab.com/everwell/hub-foss",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Some of our sub-projects (or deployments) choose to collect PII. Non-PII related information for these projects can be easily extracted or imported using sql queries or reporting data bases that do not contain PII details "
+    },
+    "openStandards": [
+        "ISO 27001 https://www.everwell.org/_files/ugd/4b9674_3fdf417f100745a5a79959ebb8917ae8.pdf We have commonly used best practices defined by azure architecture defined here - https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "As a default",
+            " this project does not collect of store PII data",
+            " but some partners and deployments would like the option to have the same; in which case we store the name",
+            " address and phone number of the consenting individual and clearly mention in our contracting terms that we do not own any of this data"
+        ],
+        "dataPrivacySecurity": " https://drive.google.com/drive/folders/1fgk-oxUeHuGY1jxfNPh5VojY95jzHy3P As a default, this project does not collect of store PII data, but some partners and deployments would like the option to have the same; in which case we store the name, address and phone number of the consenting individual and clearly mention in our contracting terms that we do not own any of this data"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "Burkina Faso",
+            "Democratic Republic of the Congo",
+            "India",
+            "Myanmar",
+            "Nigeria",
+            "Tanzania",
+            "Ukraine",
+            "Ethiopia",
+            "South Africa",
+            "Philippines"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            ""
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Everwell Hub",
+            "website": "https://www.everwell.org/",
+            "org_type": "owner",
+            "contact_name": " Nakull Gupta  ",
+            "contact_email": "nakull@everwell.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "ISO 27001 https://www.everwell.org/_files/ugd/4b9674_3fdf417f100745a5a79959ebb8917ae8.pdf"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
