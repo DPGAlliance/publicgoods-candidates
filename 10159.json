@@ -1,0 +1,141 @@
+	{
+    "id": "10159",
+    "name": "Open Foris Collect",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Open Foris Collect is the main entry point for data collected in field-based inventories. It provides a fast, easy, flexible way to set up a survey with a user-friendly interface. Collect handles multiple data types and complex validation rules, all in a multilanguage environment.",
+    "website": "https://openforis.org/collect",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/openforis/collect"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "FAO has a long history in supporting countries on national forest monitoring and has developed a suite of open source tools under the Open Foris initiative (http://www.openforis.org/). By January 2021, total of 25 countries have used OF Collect in their National Forest Inventory (NFI) for collecting field data. \r\nOF Collect has been used in Chad for woodfuel assessment in areas surrounding to the refugee camps, and OF Collect Mobile has been used to gather transaction data and thus to ensure food supply in rural Bangladesh.  In addition, OF tools are used for example for socio-economic inventory in Mongolia and dairy industry survey in Kazakhstan. \r\n Of the 50 countries that have submitted a FREL/FRL submission to the UNFCCC, 56% has used OF Collect to collect and manage data from their forest inventory."
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "FAO has a long history in supporting countries on national forest monitoring and has developed a suite of open source tools under the Open Foris initiative (http://www.openforis.org/). By January 2021, total of 25 countries have used OF Collect in their National Forest Inventory (NFI) for collecting field data. \r\nOF Collect has been used in Chad for woodfuel assessment in areas surrounding to the refugee camps, and OF Collect Mobile has been used to gather transaction data and thus to ensure food supply in rural Bangladesh.  In addition, OF tools are used for example for socio-economic inventory in Mongolia and dairy industry survey in Kazakhstan. \r\n Of the 50 countries that have submitted a FREL/FRL submission to the UNFCCC, 56% has used OF Collect to collect and manage data from their forest inventory."
+        },
+        {
+            "sdg": "SDG15: Life on Land",
+            "relevance": "FAO has a long history in supporting countries on national forest monitoring and has developed a suite of open source tools under the Open Foris initiative (http://www.openforis.org/). By January 2021, total of 25 countries have used OF Collect in their National Forest Inventory (NFI) for collecting field data. \r\nOF Collect has been used in Chad for woodfuel assessment in areas surrounding to the refugee camps, and OF Collect Mobile has been used to gather transaction data and thus to ensure food supply in rural Bangladesh.  In addition, OF tools are used for example for socio-economic inventory in Mongolia and dairy industry survey in Kazakhstan. \r\n Of the 50 countries that have submitted a FREL/FRL submission to the UNFCCC, 56% has used OF Collect to collect and manage data from their forest inventory."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/openforis/collect/blob/master/LICENSE.TXT"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Food and Agriculture Organization (FAO) of the United Nations",
+            "clearOwnershipURL": "https://github.com/openforis/collect/blob/master/LICENSE.TXT"
+        }
+    ],
+    "documentation": "Developer's guide - https://github.com/openforis/collect/blob/master/CONTRIBUTING.md,User's manual - https://www.openforis.org/fileadmin/docs/collect/OF_Collect_MANUAL_20210209.pdf,Metadata - https://drive.google.com/file/d/1GjVJXIKv1qIqkZtGyvyBV0-F2tZVCSK4/view",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Security - HTTPS (Ready/depends on environment where Collect is installed)",
+        "Internationalization (i18n) - UTF-8",
+        "Web standards - HTML",
+        " CSS",
+        " JavaScript (ECMAScript)",
+        "Software Architectural Styles - REST (Representational State Transfer)",
+        "Data Exchange formats - JSON (JavaScript Object Notation)",
+        " XML (Extensible Markup Language)",
+        " CSV (Comma Separated Values)",
+        "Multimedia - PNG (Portable Network Graphics)",
+        " JPEG (Joint Photographic Experts Group)",
+        " Ogg MP3 (Moving Picture Experts Group: Audio Layer III)",
+        " FLAC (Free Lossless Audio Codec)",
+        " H.264 (H.264/MPEG-4 AVC)",
+        " AAC (Advanced Audio Coding)",
+        " MP4 (MPEG-4 Part 14) https://github.com/openforis/collect Software Engineering - Agile development",
+        " Test driven development",
+        " Rapid application development",
+        "Architectural Design - Modularity and Maintainability",
+        " Reusability and Extensibility",
+        " Security & Consented Access",
+        " Universal Access & Open APIs",
+        "UI/UX - Material Design",
+        "Best practices to help secure your IT resources: Enable resource access authorization i.e. access control rights/ permissions; Protect data in transit (SSL used depending on the instance where Open Foris Collect is installed)"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Bangladesh",
+            "Belize",
+            "Bhutan",
+            "Cambodia",
+            "Chile",
+            "Costa Rica",
+            "Ecuador",
+            "Ethiopia",
+            "Finland",
+            "Indonesia",
+            "Kazakhstan",
+            "Mexico",
+            "Morocco",
+            "Norway",
+            "Peru",
+            "South Africa",
+            "Sudan",
+            "Switzerland",
+            "Tanzania",
+            "Turkey",
+            "United States of America",
+            "Uruguay"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Foris Collect",
+            "website": "https://openforis.org/collect",
+            "org_type": "owner",
+            "contact_name": " SanchezPausDiaz, Alfonso  ",
+            "contact_email": "alfonso.sanchezpausdiaz@fao.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The user is responsible to abide by the national rules where the software is installed. Open Foris is developed within FAO (a UN organization) so we are not covered by national laws. Open Foris is developed within FAO (a UN organization) so we are not covered by national laws."
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
