@@ -1,0 +1,98 @@
+	{
+    "id": "10295",
+    "name": "Hand-in-Hand Geospatial Platform",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Content"
+    ],
+    "description": "The Hand-in-Hand Geospatial Platform is a supporting tool for the Hand-in-Hand (HiH) Initiative, an evidence-based, country-led and country-owned initiative to accelerate the Sustainable Development Goals (SDGs), SDG1 and SDG 2, using the most sophisticated tools available, including advanced geo-spatial modeling and analytics to identify the biggest opportunities to raise the incomes and reduce the inequities and vulnerabilities of rural populations, who constitute the vast majority of the world's poor. The platform brings together over 20 technical units from multiple domains across FAO, from Animal Health to Trade and Markets, integrating data from across FAO on Soil, Land, Water, Climate, Fisheries, Livestock, Crops, Forestry, Trade, Social and Economics, among others.\r\n",
+    "website": "https://www.fao.org/hih-geospatial-platform/en/",
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "CC-BY-NC-SA-3.0"
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "CC-BY-NC-SA-3.0"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "CC-BY-NC-SA-3.0"
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "CC-BY-NC-SA-3.0"
+        },
+        {
+            "sdg": "SDG15: Life on Land",
+            "relevance": "CC-BY-NC-SA-3.0"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "CC-BY-NC-SA-3.0"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-SA-3.0",
+            "openLicenseEvidenceURLs": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "FAO",
+            "clearOwnershipURL": "https://www.fao.org/hih-geospatial-platform/en/"
+        }
+    ],
+    "documentation": "https://www.fao.org/hih-geospatial-platform/en/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HTTPS Principles For Digital Development\r\n"
+    ],
+    "bestPractices": [
+        "Human Centered Design Principles"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Hand-in-Hand Geospatial Platform",
+            "website": "https://www.fao.org/hih-geospatial-platform/en/",
+            "org_type": "owner",
+            "contact_name": " Zhongxin Chen  ",
+            "contact_email": "zhongxin.chen@fao.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "PRIVACY POLICY FOR USE OF FAO APPLICATIONS",
+            "privacyComplianceURL": "http://www.fao.org/contact-us/privacy-policy/en/ http://www.fao.org/contact-us/terms/en/\r\n"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
