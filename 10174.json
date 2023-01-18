@@ -1,0 +1,214 @@
+	{
+    "id": "10174",
+    "name": "CommCare",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "CommCare is a digital health platform that allows users to rapidly configure and deploy offline first, custom data collection and service delivery support applications which feature case management for frontline workers without any tech or coding expertise.",
+    "website": "https://www.dimagi.com/commcare",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/dimagi/commcare-hq"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things."
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things."
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things."
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things."
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things."
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "More studies have assessed CommCare's impact than any other mobile platform for frontline workers - they've demonstrated the tool can make health care service delivery more efficient and can help health institutions save money, among other things."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/dimagi/commcare-hq/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Dimagi",
+            "clearOwnershipURL": "CommCare is an ecosystem of open source components, fronted by CommCareHQ (Web) and CommCare Mobile. CommCare Web is sourced under the open source BSD license while CommCare Mobile is sourced under the Apache License. Everything we produce has clearly defined, both, functional: https://confluence.dimagi.com/display/commcarepublic/Home \n technical: https://github.com/dimagi/"
+        }
+    ],
+    "documentation": "Source code: https://github.com/dimagi/commcare-hq,Use cases: https://www.dimagi.com/sectors/,Functional: https://commcare-hq.readthedocs.io/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Data from CommCare can exported in using several data tools available as a part of the CommCare ecosystem. https://confluence.dimagi.com/display/commcarepublic/The+CommCare+Ecosystem"
+    },
+    "openStandards": [
+        "The CommCare application is built on OpenRosa standard tools and protocols",
+        " and leverages many different open-source technologies. ",
+        "Protocols are represented using XForms",
+        " a W3C backed standard approach to more advanced forms that support nested and repeatable elements",
+        " decision support",
+        " advanced validation",
+        " and extensive user interface controls.  Our design and style guide has the goal to ensure that our experiences meet the standards for accessibility required by WCAG AA",
+        " Section 508 and European Standards. Link: https://www.commcarehq.org/styleguide/atoms/"
+    ],
+    "bestPractices": [
+        ""
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "CommCare allows for flexible data collection and thus partners can dictate the data they store. In the context of routine immunization demographic and health data will be collected and stored"
+        ],
+        "dataPrivacySecurity": " https://www.dimagi.com/blog/mobile-data-collection-nhs-guidelines/, \nhttps://www.dimagi.com/terms/latest/privacy/ https://confluence.dimagi.com/display/commcarepublic/CommCare+Technical+Overview?preview=%2F12223445%2F56885462%2FData+Security+Overview.pdf"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "CommCare doesn't have any technical measures to address the safety and security of underage users. We require the organizations who use CommCare to comply with applicable laws about minimum age requirements of end users. "
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America",
+            "India",
+            "South Africa"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Algeria",
+            "Angola",
+            "Bangladesh",
+            "Burkina Faso",
+            "Belize",
+            "Guatemala",
+            "Honduras",
+            "Benin",
+            "Bolivia",
+            "Botswana",
+            "Brazil",
+            "Haiti",
+            "India",
+            "Chad",
+            "Niger",
+            "Kenya",
+            "Malawi",
+            "Peru",
+            "Thailand",
+            "Uganda",
+            "South Africa",
+            "Zimbabwe",
+            "Mali",
+            "Burundi",
+            "C\u00f4te d'Ivoire",
+            "Chile",
+            "Cambodia",
+            "Costa Rica",
+            "Indonesia",
+            "Nicaragua",
+            "Zambia",
+            "Cameroon",
+            "Canada",
+            "Colombia",
+            "Guinea",
+            "El Salvador",
+            "Ethiopia",
+            "Rwanda",
+            "Ghana",
+            "Greece",
+            "Grenada",
+            "Senegal",
+            "United States of America",
+            "Iraq",
+            "Jordan",
+            "Laos",
+            "Lebanon",
+            "Lesotho",
+            "Liberia",
+            "Madagascar",
+            "Malaysia",
+            "Mauritius",
+            "Mexico",
+            "Mozambique",
+            "Myanmar",
+            "Namibia",
+            "Nepal",
+            "Nigeria",
+            "Pakistan",
+            "Papua New Guinea",
+            "Philippines",
+            "Sierra Leone",
+            "South Korea",
+            "South Sudan",
+            "Spain",
+            "Sri Lanka",
+            "Sudan",
+            "Syria",
+            "Tanzania",
+            "Togo",
+            "Turkey",
+            "United Kingdom",
+            "Vanuatu",
+            "Vietnam",
+            "Ukraine",
+            "Guinea-Bissau",
+            "Lebanon",
+            "Gambia",
+            "Venezuela",
+            "Bosnia and Herzegovina",
+            "Malta"
+        ]
+    },
+    "deploymentOrganisations": [
+        ""
+    ],
+    "deploymentCountriesDepartments": [
+        ""
+    ],
+    "otherDeploymentOrganisations": [
+        ""
+    ],
+    "awardsReceived": [
+        ""
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "CommCare",
+            "website": "https://www.dimagi.com/commcare",
+            "org_type": "owner",
+            "contact_name": " Jonathan Jackson  ",
+            "contact_email": "jjackson@dimagi.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR,HIPPA 1. Terms of Service: https://www.dimagi.com/terms/latest/tos/,2. Privacy Policy: https://www.dimagi.com/terms/latest/privacy/,3. Business Agreement: https://www.dimagi.com/terms/latest/ba/,4. Acceptable Use Policy: https://www.dimagi.com/terms/latest/aup/",
+            "privacyComplianceURL": ""
+        }
+    ]
+}
