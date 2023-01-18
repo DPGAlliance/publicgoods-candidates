@@ -1,0 +1,94 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Serenity BDR",
+            "clearOwnershipURL": "https://github.com/BDR-Setenity/OpenDataBase"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "id": "10314",
+    "name": "#SRNT - AI Crisis Aide",
+    "aliases": [
+        "SRNT",
+        " #SRNT",
+        " PNX",
+        " Serenity",
+        " Point-X"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "Project Serenity - (#SRNT) is a platform to provide information about the nearest help for people in difficult life situations.\r\n\r\nWe collect, verify, systematize and provide open access to the data collected in the framework of the project.\r\n\r\nUsing artificial intelligence and machine learning technologies, we in the #SRNT project build predictive models for effective interaction with victims.\r\n\r\nProject #SRNT generates independent incident reports detailing where and when help is requested. Guided by SoftPower and OpenData, #SRNT publishes publicly available analytics and sends reports to government and public organizations interested in the information.\r\n\r\nThe #SRNT project is completely free!",
+    "website": "https://srnt.life",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/BDR-Setenity"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "SDG5 - Project #SRNT provides equal access to information about help in crisis situations. Since women, children and LGBTQ+ groups are particularly at risk, the project primarily targets these groups.\r\nSDG9 - Project #SRNT uses the latest developments in AI, ML, BigData. As supporters of OpenData we not only collect and work with information but also provide the public free access to it.\r\nSDG16 - Guided by the SoftPower principle, the #SRNT project publishes and sends the collected data to government and public organizations, thus gently influencing the work of relevant organizations and public opinion.\r\nThe problem of an individual person must be interpreted as a general problem of society.\r\n"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "SDG5 - Project #SRNT provides equal access to information about help in crisis situations. Since women, children and LGBTQ+ groups are particularly at risk, the project primarily targets these groups.\r\nSDG9 - Project #SRNT uses the latest developments in AI, ML, BigData. As supporters of OpenData we not only collect and work with information but also provide the public free access to it.\r\nSDG16 - Guided by the SoftPower principle, the #SRNT project publishes and sends the collected data to government and public organizations, thus gently influencing the work of relevant organizations and public opinion.\r\nThe problem of an individual person must be interpreted as a general problem of society.\r\n"
+        },
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "SDG5 - Project #SRNT provides equal access to information about help in crisis situations. Since women, children and LGBTQ+ groups are particularly at risk, the project primarily targets these groups.\r\nSDG9 - Project #SRNT uses the latest developments in AI, ML, BigData. As supporters of OpenData we not only collect and work with information but also provide the public free access to it.\r\nSDG16 - Guided by the SoftPower principle, the #SRNT project publishes and sends the collected data to government and public organizations, thus gently influencing the work of relevant organizations and public opinion.\r\nThe problem of an individual person must be interpreted as a general problem of society.\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-SA-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/BDR-Setenity/OpenDataBase"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "XML"
+    ],
+    "bestPractices": [
+        "FAIR Data Principles"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "platformIndependence": [],
+    "organizations": [
+        {
+            "name": "#SRNT - AI Crisis Aide",
+            "website": "https://srnt.life",
+            "org_type": "owner",
+            "contact_name": " Nadezhda  ",
+            "contact_email": "nadya@srnt.life"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996\r\nDirective 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases\r\nAttribution-NonCommercial-ShareAlike 4.0 International",
+            "privacyComplianceURL": "https://github.com/BDR-Setenity/OpenDataBase"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
