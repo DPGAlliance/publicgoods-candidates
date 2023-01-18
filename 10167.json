@@ -1,0 +1,112 @@
+	{
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "https://www.contributor-covenant.org/ https://www.contributor-covenant.org/"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Chile"
+        ],
+        "deploymentCountries": [
+            "Chile"
+        ]
+    },
+    "deploymentOrganisations": [
+        ""
+    ],
+    "deploymentCountriesDepartments": [
+        ""
+    ],
+    "otherDeploymentOrganisations": [
+        ""
+    ],
+    "awardsReceived": [
+        ""
+    ],
+    "id": "10167",
+    "name": "AI Agro",
+    "categories": [
+        "Open AI Model",
+        "Open Software"
+    ],
+    "description": "Open Source Precision Agriculture with Drones leverages a set of machine learning algorithms & computer vision developed with the goal of determining health states and relevant information for efficient management of resources of different types of crops using drone data (UAV)",
+    "website": "https://rentadrone.cl/developers/ai-agro/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/RentadroneCL/Precision_Agriculture"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "GPL-3.0"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "GPL-3.0"
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "GPL-3.0"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/RentadroneCL/Precision_Agriculture/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Rentadrone.cl",
+            "clearOwnershipURL": "http://rentadrone.cl/developers/ai-agro/ \r\nhttps://www.diariooficial.interior.gob.cl/publicaciones/2021/08/20/43033/06/1994207.pdf"
+        }
+    ],
+    "documentation": "https://rentadronecl.github.io/docs/precision_agriculture,https://github.com/RentadroneCL/AI-Agro",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "PSR-12 (https://www.php-fig.org/psr/psr-12)",
+        "PEP 8 (https://www.python.org/dev/peps/pep-0008)",
+        "Airbnb JavaScript Style Guide (https://github.com/airbnb/javascript) https://travis-ci.org/github/RentadroneCL https://blog.tensorflow.org/2019/02/effective-tensorflow-20-best-practices.html",
+        "https://cdnsciencepub.com/doi/full/10.1139/juvs-2018-0018"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "The users for this project have to collect multispectral data using the one following private mandatory hardware dependencies: \r\n - https: //www.dji.com/p4-multispectral \r\n - https: //micasense.com/es/rededge-mx/ \r\n - https: //micasense.com/es/altum/ \r\n - https: //sentera.com/6x-multispectral/ \r\n Optional Softwares for Photogrammetry: \r\n - https: //www.dji.com/dji-terra \r\n - https: //www.pix4d.com/ \r\n - https: //www.dronedeploy.com/ \r\n All the software and AI Models are developed using Open Source Programming libraries (Python",
+            " JavaScript",
+            " TensorFlow). And each component is independent of the hardware used to collect data and the software to make the photogrammetry \r\n Open Alternative Software for Photogrammetry: \r\n - https: //www.opendronemap.org/ \r\n There are not open-source alternatives for Multispectral UAV data collection."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "AI Agro",
+            "website": "https://rentadrone.cl/developers/ai-agro/",
+            "org_type": "owner",
+            "contact_name": " Julio Rej\u00f3n  ",
+            "contact_email": "julio.rejon@rentadrone.cl"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "LAW 19628: ON PROTECTION OF PRIVATE LIFE (CHILE) Application: 1.466.138.- PRODUCCIONES RG SPA, CHILE.- Denominative: AI Agro.- Brand of products and services: Updating and rental of software for data processing; rental of software; rental of application software; computer software rental; development of programs for data processing for others; research, inspection and testing in agriculture, livestock breeding and fishing, in class 42."
+        }
+    ],
+    "aliases": ""
+}
