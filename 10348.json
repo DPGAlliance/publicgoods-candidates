@@ -1,0 +1,106 @@
+	{
+    "id": "10348",
+    "name": "Wathik",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Wathik is a digital platform that streamlines the annual reporting process for local charities and CBOs in Jordan. Our platform simplifies the documentation process and increases the efficiency of these organizations.",
+    "website": "https://wathik.app",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/AbedRabaia/wathik"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "SDG9: Industry\u00b8 Innovation and Infrastructure\r\nOur solution provides solid technology infrastructure for Local charities and CBOs to help them organize their data, making it easy for users to share their documentation with donors and government agencies\r\n\r\nSDG17: Partnerships for the Goals\r\nOur solution makes it easier for Local charities and CBOs to generate a well-structured report about them that can help them build partnerships in an easier way"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "SDG9: Industry\u00b8 Innovation and Infrastructure\r\nOur solution provides solid technology infrastructure for Local charities and CBOs to help them organize their data, making it easy for users to share their documentation with donors and government agencies\r\n\r\nSDG17: Partnerships for the Goals\r\nOur solution makes it easier for Local charities and CBOs to generate a well-structured report about them that can help them build partnerships in an easier way"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/AbedRabaia/wathik/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "I Learn Jordan ",
+            "clearOwnershipURL": "https://wathik.app/ownership"
+        }
+    ],
+    "documentation": "https://wathik.app/documentation",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "- Security\r\nHTTPS\r\nSSL\r\n- Authentication & Authorization\r\nOAuth 2\r\n- Internationalization (i18n)\r\nUTF-8\r\nISO-8859-1\r\n- Web standards\r\nHTML\r\nCSS\r\n- Multimedia\r\nPNG\r\nJPEG\r\n"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC)\r\n- User stories\r\n- Code review\r\n- Agile development\r\nSoftware Architectural Styles\r\n- Model\u2013view\u2013controller\r\nCloud Computing\r\n- AWS Servers\r\nUser Interface/ User Experience (UI /UX)\r\n- Human Centered Design Principles\r\n- Material design"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name\r\nEmail\r\nMobile Number"
+        ],
+        "dataPrivacySecurity": "These data are stored in well secured database in a secured server "
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "We collect information about Local charities and CBOs and their projects "
+        ],
+        "contentManagementPolicy": "All the data are manually reviewed and moderated and we take action immediately when detecting inappropriate/illegal content, usually the average response time  is 24 hours but no data can be shared before review. "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Jordan"
+        ],
+        "deploymentCountries": [
+            "Jordan"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Ministry of Social Development"
+    ],
+    "otherDeploymentOrganisations": [
+        "Local charities and CBOs in Jordan"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Twilio Api's \r\nYou can either replace it with any WhatsApp API's you like to use or just stop the model since it's not a major feature to run the software   "
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Wathik",
+            "website": "https://wathik.app",
+            "org_type": "owner",
+            "contact_name": " Abed Al Rahman Rabaia  ",
+            "contact_email": "abed.rabai3a@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR\r\nCCPA",
+            "privacyComplianceURL": "https://wathik.app/privacyPolicy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
