@@ -1,0 +1,157 @@
+	{
+    "id": "10158",
+    "name": "Project AEDES",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Advanced Early Dengue Prediction and Exploration Service"
+    ],
+    "categories": [
+        "Open AI Model",
+        "Open Content",
+        "Open Data"
+    ],
+    "description": "Project AEDES, by CirroLytix is a tool that correlates dengue cases and deaths with real-time data from climate, google searches, and remote sensing, to predict potential dengue hotspot locations.",
+    "website": "https://aedesproject.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Cirrolytix/aedes_dpg"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "In 2019, the Philippine government declared a national epidemic as the country struggled to contain its worst dengue outbreak since 2012. Total reported dengue cases reached 420,453 and deaths at 1,565 - a 78% increase in infections (235,994) and 33% increase in deaths (1,181) from 2018. \r\n\r\nWith manual reporting, release of dengue data is delayed which hampers the health sector\u2019s ability to effectively deal with the threat. There was a need to move the emphasis from treatment to prevention. Project AEDES was then developed to improve public health response and address the challenge of getting real-time on the ground information on dengue. The application is envisioned to guide and help the general public, government officials, policymakers, and health workers understand the spread of dengue in their communities, locate at-risk areas for outbreaks and probable habitats of mosquitoes, and implement interventions.\r\n\r\nLinks to support relevance:\r\n\r\nDengue Epidemic in the Philippines: https://www.aljazeera.com/news/2019/9/17/philippines-worst-dengue-outbreak-in-years-kills-over-a-thousand\r\n\r\n\r\nWorld Health Organization Dengue Situation Update: http://iris.wpro.who.int/handle/10665.1/14461\r\n\r\nDengue cases rise 192%\r\nhttps://www.philstar.com/nation/2022/11/19/2224797/dengue-cases-rise-192 \r\n\r\nHow Project AEDES works and impact:\r\nhttps://aedesproject.org/#ourWork"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE, https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md"
+        },
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE, https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Cirrolytix Research Services",
+            "clearOwnershipURL": "https://github.com/Cirrolytix/aedes_dpg/blob/main/readme.md,\r\nhttps://www.aedesproject.org, https://www.earthobservations.org/geo_blog_obs.php?id=472"
+        }
+    ],
+    "documentation": "https://github.com/Cirrolytix/aedes_dpg, https://github.com/Cirrolytix/aedes_dpg/wiki",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HTML5",
+        " CSS3",
+        " Javascript - ES5/6",
+        " AJAX",
+        " JSON",
+        " PHP7",
+        " HTTPS\r\nGeoTIFF",
+        " SSL\r\n\r\nWe run the Lighthouse tool from Chrome DevTools to test web accessibility performance of Project AEDES website:  https://github.com/Cirrolytix/aedes_dpg/blob/main/Lighthouse%20Chrome/AEDES%20Web%20Accessibility.pdf",
+        "\r\nhttps://developers.google.com/web/tools/lighthouse/"
+    ],
+    "bestPractices": [
+        "We refer to the Principles for Digital Development and describe below how our work with AEDES have applied these principles:\r\n\r\n1. Design with the User\r\nWith the general public",
+        " LGUs",
+        " policymakers",
+        " and public health officials as intended target users of AEDES",
+        " we developed the application on a user-friendly web interface for ease of accessibility. We have presented this to WHO Philippines and we have gotten feedback from a healthcare professional on how and what to improve in the application\r\n\r\n2. Understand the Existing Ecosystem\r\nDengue is already an existing public health problem not only in the Philippines and but also in many Asian and Latin American countries. As the product needs to be improved further",
+        " we are working with other researchers and scoping for funding opportunities\r\n\r\n3. Design for Scale\r\nWe are now closely working with other researchers to further improve AEDES. We want to expand the functionalities of AEDES and incorporate a dengue risk index. We have used the MVC Framework (Model",
+        " View",
+        " Controller) which isolates application functionality into self-contained components. We also utilized the API from Sentinel Copernicus Satellites to get satellite images with vast date ranges.\r\n\r\n4.Build for Sustainability\r\nSince the data captured is from global and public remote sensing service",
+        " the application can continue gathering data. There is a plan to create a social enterprise around the dengue prediction service",
+        " by incorporating other risk frameworks",
+        " we can generalize the process and ensure that other indicators will also be integrated. The results and/or insights will be offered on a subscription basis.\r\n\r\n5. Be Data Driven\r\nData",
+        " as it moves along its value chain from creation to actionable insights",
+        " underpins the overall workflow of AEDES. Also",
+        " by leveraging the three main disciplines of analytics - Descriptive",
+        " Predictive",
+        " and Prescriptive",
+        " AEDES facilitates a holistic approach to dengue prevention and control and empowers its intended users to make informed decisions. \r\n\r\n6. Use Open Standards",
+        " Open Data",
+        " Open Source",
+        " and Open Innovation\r\nAEDES was built through an open innovation challenge by NASA",
+        " we also advocate the use of Open Source technologies such as Python",
+        " PHP for tools",
+        " QGIS for geospatial analysis",
+        " Sentinel  Copernicus Satellites for data",
+        " and government sources for weather and health-related data. AEDES prototype is also publicly hosted 24/7 for free. We welcome collaborators to improve and provide feedback to the AEDES implementation.\r\n\r\n7. Reuse and Improve\r\nAEDES at its core was developed by reusing prior work by other researchers. By combining three research papers related to using social listening",
+        " stagnant water detection",
+        " and dengue prediction we have developed the application. We are planning on using other research to integrate risk frameworks to improve the current workflow of AEDES.\r\n\r\n8. Address Privacy & Security\r\nWe don't collect",
+        " store",
+        " or transfer any personal information. AEDES website also uses HTTPS (Positive SSL) for website security. \r\n\r\n9. Be Collaborative\r\nThe team has expanded since winning the hackathon and have been closely working with dengue researchers and experts (Dr. Thaddeus Carvajal",
+        " Wilson Chua",
+        " and Dr. Michael Promentilla). We are also continuously exploring collaborative initiatives to work on improving the many aspects of the AEDES (i.e.",
+        " Prediction models",
+        " Data Sources",
+        " Remote Sensing methodologies)\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Datasets",
+            " and satellite images",
+            " charts of statistical models",
+            " hotspot maps."
+        ],
+        "contentManagementPolicy": "Project AEDES relevant links: \r\nPrivacy Policy and Terms of Use: https://aedesproject.org/privacy \r\nNo other content shall be posted on the website other than the data. No content may be posted other than the datasets in the AEDES data portal"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Philippines"
+        ],
+        "deploymentCountries": [
+            "Philippines"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "None yet but CirroLytix had an initial tripartite meeting with Bike Scouts and Philippine Pediatric Society Southwestern Mindanao Chapter to collaborate on pilot testing a Dengue warning system in Zamboanga Peninsula."
+    ],
+    "awardsReceived": [
+        "UNICEF Venture Fund AI/DS Cohort 2022 -2023:\r\nhttps://www.unicef.org/innovation/innovationfund/ai-ds-learning-health-2022\r\n\r\nDigital Public Good",
+        " Digital Public Goods Alliance",
+        " UNICEF Philippines 2021:\r\nhttps://digitalpublicgoods.net/blog/unicef-philippines-announces-its-first-digital-public-good-pathfinding-pilot/\r\n\r\nEO4SDG Award",
+        " Group on Earth Observations",
+        " 2020:\r\nhttps://www.earthobservations.org/geo_blog_obs.php?id=472S\r\n\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Historical dengue case data is required to perform modeling. This is sourced from government health services (e.g. Philippines Department of Health Epidemiology Bureau). There is no cost for this data but requires an Freedom of Information request. \r\n\r\nWe are already an independent source of this data for other researchers. We are an active contributor to the Humanitarian Data Exchange",
+            " and our dengue case data is uploaded here: \r\nhttps://data.humdata.org/organization/cirrolytix\r\n"
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Project AEDES",
+            "website": "https://aedesproject.org",
+            "org_type": "owner",
+            "contact_name": " Rache Melendres  ",
+            "contact_email": "rache.melendres@cirrolytix.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "In the Philippines, the Data Privacy Act of 2012 is enacted to ensure privacy and data protection. \r\nhttps://www.privacy.gov.ph/data-privacy-act/ \r\nThe law applies to practices or activities engaged in processing of personal data. AEDES does not collect, store or transfer PII data. ",
+            "privacyComplianceURL": "All dengue cases and deaths data used by AEDES had been collected from publicly released reports of the Department of Health, Philippines and does not contain any personal patient information. \r\nhttps://aedesproject.org/privacy"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": ""
+}
