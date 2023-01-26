@@ -1,0 +1,127 @@
+	{
+    "locations": {
+        "developmentCountries": [
+            "Jordan"
+        ],
+        "deploymentCountries": [
+            "Jordan"
+        ]
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "deploymentCountriesDepartments": [
+        "Currently",
+        " there are no government departments or ministries that have adopted our solution",
+        " however",
+        " we are actively working towards establishing partnerships and collaborations with government organizations to increase its usage and reach. "
+    ],
+    "otherDeploymentOrganisations": [
+        "\r\nWe have received interest from several companies and have been in contact with them regarding the implementation of our platform. We are actively working to establish partnerships and collaborations with these companies to effectively integrate our solution into their operations\r\n"
+    ],
+    "awardsReceived": [
+        "We are thrilled to announce that our platform has been awarded a grant from Jordan Start in the amount of $28",
+        "000 to support the development of our DPG products."
+    ],
+    "id": "10360",
+    "name": "STEAM lab",
+    "aliases": [
+        "STEAM hub"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "STEAM lab is an educational platform that uses STEAM (science, technology, engineering, ART and math) games to engage and educate students. It offers a variety of features, including a game-like story mode and a flexible lab mode for building innovations. The platform also includes creation tools that allow teachers and content creators to turn their lessons into educational game challenges and stories. The main functional component of STEAM lab is STEAM increments, which are designed to enhance the educational experience.",
+    "website": "http://www.steamhub.cloud/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/SteammHub/SteamHub"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "Engage students: By providing teachers with the tools to create interactive games and stories, the platform can help make learning more engaging and fun for students. This can lead to increased motivation and improved learning outcomes.\r\n\r\nEncourage creativity: The ability to create games and stories gives teachers the opportunity to design unique and creative learning experiences for their students. This can foster critical thinking and problem-solving skills that are essential for quality education.\r\n\r\nPromote collaboration: By allowing teachers to share their games and stories with other educators, the platform can facilitate cooperation and the sharing of best practices. This can lead to more effective and efficient teaching methods.\r\n\r\nDiversify content: this platform could allow teachers to create games and stories that reflect the diversity of their students, including different cultures, backgrounds, and abilities. This can help make education more inclusive and accessible to all students.\r\n\r\nMeasure and improve: With the platform, teachers can measure the students' engagement, understanding, and performance in games and stories, which helps them to improve the learning experience and to adapt it to the students' needs.\r\n\r\nIt's important to note that providing teachers with tools is not enough, but it's necessary to give them the training and support to use them effectively. Overall, this platform has the potential to make a significant impact on the quality of education for students, and it aligns well with the SDG's goal.\r\n\r\nTailored learning experiences: By providing teachers with the ability to create games and stories, this platform allows them to design learning experiences that are tailored to the specific needs and interests of their students. This can help increase student engagement and motivation, leading to better learning outcomes.\r\n\r\nAdapt to different learning styles: Different students have different learning styles, and games and stories can cater to a variety of different learning styles, such as visual, auditory, and kinesthetic learners. the platform can help teachers to create games and stories that can accommodate different learning styles and make education more inclusive.\r\n\r\nImproved assessment and feedback: Games and stories can also be used as a form of assessment, allowing teachers to evaluate student understanding and progress in a fun and interactive way. the platform could provide teachers with tools to create quizzes and questions that can be integrated into the games and stories, which could help the teachers to provide the students with immediate feedback and adjust the learning experience accordingly.\r\n\r\nSupport for language learning: support language learning by providing teachers with tools to create games and stories in multiple languages. This can help students to improve their language skills and also make education more inclusive for non-native speakers.\r\n\r\nGlobalization of education: With the platform, teachers could share their games and stories with other educators around the world, allowing for the exchange of ideas and best practices. This can help raise the standard of education globally, and it can also allow teachers to access a wide range of educational resources.\r\n\r\nTailored learning experiences: By providing teachers with the ability to create games and stories, this platform allows them to design learning experiences that are tailored to the specific needs and interests of their students. This can help increase student engagement and motivation, leading to better learning outcomes.\r\n\r\nAdapt to different learning styles: Different students have different learning styles, and games and stories can cater to a variety of different learning styles, such as visual, auditory, and kinesthetic learners. this platform can help teachers to create games and stories that can accommodate different learning styles and make education more inclusive.\r\n\r\nImproved assessment and feedback: Games and stories can also be used as a form of assessment, allowing teachers to evaluate student understanding and progress in a fun and interactive way. this platform could provide teachers with tools to create quizzes and questions that can be integrated into the games and stories, which could help the teachers to provide the students with immediate feedback and adjust the learning experience accordingly.\r\n\r\nSupport for language learning: this platform can also support language learning by providing teachers with tools to create games and stories in multiple languages. This can help students to improve their language skills and also make education more inclusive for non-native speakers.\r\n\r\nGlobalization of education: With the platform, teachers could share their games and stories with other educators around the world, allowing for the exchange of ideas and best practices. This can help raise the standard of education globally, and it can also allow teachers to access a wide range of educational resources.\r\n\r\nAccess to technology: this platform can provide teachers with the tools to create interactive and multimedia-rich games and stories that can help make learning more engaging and interactive. This can help bridge the digital divide by providing students in under-resourced schools with access to technology-rich learning experiences.\r\n\r\nBy providing teachers with the tools to create games and stories, STEAM hub platform can help to improve the quality of education by making learning more engaging, inclusive, and effective. Additionally, it can help to bridge the digital divide and provide access to technology-rich learning experiences, support lifelong learning and special needs, be cost-effective and support online learning.\r\nSupport for lifelong learning: this platform could also be used to create educational games and stories for adult learners, providing opportunities for lifelong learning, and helping to support the goal of lifelong learning for all.\r\n\r\nSupport for special needs: this platform could also provide teachers with tools to create games and stories that are specifically designed for students with special needs, such as those with disabilities or learning difficulties. This can help to make education more inclusive and accessible to all students.\r\n\r\nCost-effective: Games and stories can be an affordable way to provide students with high-quality educational experiences. this platform can provide teachers with the tools to create games and stories at little to no cost, making it a cost-effective solution for schools and educational institutions.\r\n\r\nOnline learning: this platform could also be used to create games and stories for online learning, providing students with an interactive and engaging learning experience, even when they are not in the classroom. This can be especially helpful during disruptions such as pandemics or natural disasters.\r\n\r\n\r\nAs the owner of this innovative educational platform, I am proud to offer a unique solution that helps teachers create engaging games and stories for their students. By providing teachers with the tools they need to design interactive and multimedia-rich learning experiences, our platform helps to make education more engaging, and inclusive.\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AFL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/SteammHub/SteamHub/blob/main/OSL3.0-comparison.pdf"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "this product is powered by STEAM center our team consist of (1. Hazem Hamdan   2. Farah Hourani   3. Mohannad Shatat)",
+            "clearOwnershipURL": "http://www.steamhub.cloud/About"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "At STEAMHub",
+        " we take the protection of our users' personal information very seriously. That's why we use industry-standard open standards to secure their data.\r\n\r\nFirst",
+        " all data is encrypted while being sent to and from our servers using HTTPS. This ensures that no one can snoop on the communication",
+        " and that the data stays safe and private.\r\n\r\nSecond",
+        " we use JSON Web Tokens (JWT) to authenticate and authorize access to our API. This means that only authorized users can access the data",
+        " and it helps to protect the data from unauthorized access.\r\n\r\nThird",
+        " we use the RS256 algorithm to sign JWT. This is a strong and secure way of making sure the JWT is authentic and can't be tampered with. It also allows us to verify the JWT using a public key.\r\n\r\nWe also take additional steps to ensure the security of our users' data",
+        " like regularly auditing and monitoring access to the data",
+        " and training our team on incident response. By taking these measures",
+        " we are confident that we are providing the highest level of data privacy and security for our users."
+    ],
+    "bestPractices": [
+        "1-Scrum methodology: This project adheres to the Scrum framework for project management",
+        " which includes practices such as sprints",
+        " daily stand-ups",
+        " and retrospectives to ensure the project stays on track and is delivered on time.\r\n\r\n2-Test-driven development (TDD): This project uses TDD",
+        " which is a software development approach in which unit tests are written before the implementation of new code to ensure that the code meets the requirements.\r\n\r\n3-Continuous Integration and Continuous Deployment (CI/CD): This project uses CI/CD to automate the build",
+        " test",
+        " and deployment process",
+        " ensuring that the project is continuously integrated and deployed in a timely manner.\r\n\r\n4-Code reviews: This project uses code reviews to ensure that the code is of high quality and adheres to best practices.\r\n\r\n5-User-centered design: This project focuses on user-centered design",
+        " which means that the design of the game education is based on user needs and feedback",
+        " making it more effective for its users.\r\n\r\n6-Accessibility: This project also follows accessibility principles to ensure that the game education can be accessed and used by people with disabilities\r\n\r\n7-Continuous learning: This project encourages continuous learning",
+        " by providing resources and opportunities for team members to improve their skills and knowledge.\r\n\r\n8-Agile development : This project follows agile principles and practices",
+        " which allow for flexibility and adaptability in the development process",
+        " and encourages constant communication and collaboration among team members."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "1-Name\r\n2-Email\r\n3-Phone Number\r\n4-Date of birth\r\n"
+        ],
+        "dataPrivacySecurity": "At STEAMhub, we understand the importance of protecting our users' personal information. We have taken various measures to ensure the security of the data. To start with, we use encryption to safeguard the data both during transmission and storage. This means that even if someone unauthorized gains access to the data, they won't be able to read it without the encryption keys.\r\n\r\nAdditionally, we have implemented a strong access control system. This system uses user accounts and roles to ensure that only authorized individuals can access the data. We also keep an eye on access logs and investigate any suspicious activity. We comply with all relevant laws and regulations related to data privacy and security, like GDPR for the EU and HIPAA for the healthcare sector. We also conduct regular security audits to identify any vulnerabilities in the system and have a dedicated team to manage and mitigate risks.\r\n\r\nLastly, we practice data minimization, which means that we only collect the necessary data and delete data that is no longer needed. By taking these steps, we can confidently say that we provide the highest level of data privacy and security for our users."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "documentation": "https://www.notion.so/jteamspacesordan/Steam-Hub-documentation-7051e0eec8364c51946566d23d0b22e1",
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "STEAM lab",
+            "website": "http://www.steamhub.cloud/",
+            "org_type": "owner",
+            "contact_name": " STEAM center  ",
+            "contact_email": "info@steamcenter.co"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT - (132)\r\n''Awareness-raising activities by supervisory authorities addressed to the public should include specific measures\r\ndirected at controllers and processors, including micro, small and medium-sized enterprises, as well as natural\r\npersons in particular in the educational context.''\r\n\r\nThe platform can support the law you mentioned in an educational way by providing teachers and educators with the tools and resources they need to raise awareness about data protection and privacy among their students. This could include educational games and stories that teach students about their rights and responsibilities when it comes to personal data, as well as quizzes and other interactive activities that help students understand and apply these concepts in real-world situations. Additionally, the platform could provide teachers with training and support on how to effectively educate their students on data protection and privacy, including specific measures directed at micro, small, and medium-sized enterprises, as well as natural persons in the educational context. By providing teachers and educators with these resources, the platform can help them to meet their obligations under data protection laws and regulations and to promote a culture\r\n",
+            "privacyComplianceURL": "https://www.privacy-regulation.eu/en/recital-132-GDPR.htm"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
