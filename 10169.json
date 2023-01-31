@@ -1,0 +1,132 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Cider is open-source software, owned and copyrighted by the Regents of the University of California.",
+            "clearOwnershipURL": "https://github.com/Global-Policy-Lab/cider/blob/master/LICENSE.txt"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "documentation": "Cider is documented here: https://global-policy-lab.github.io/cider-documentation/intro.html.\r\n\r\nThis documentation is under ongoing development alongside Cider itself; documentation source is https://github.com/Global-Policy-Lab/cider-documentation.",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "United States of America"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Food Programme",
+        " World Bank"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministry of Digital Innovation and Digital Economy",
+        " Togo\r\nMinistry of Economy",
+        " Planning and Regional Development",
+        " Cameroon (Forthcoming)\r\nUniversity of California",
+        " Berkeley\r\nUniversity of California",
+        " Davis\r\n\r\nWorld Bank DIME",
+        " Cote d'Ivoire (NGO)\r\nGiveDirectly (NGO)"
+    ],
+    "otherDeploymentOrganisations": [
+        "N/A"
+    ],
+    "awardsReceived": [
+        "SXSW Innovation Awards Special Recognition 2022: https://www.sxsw.com/apply-to-participate/innovation-awards/\r\n\r\nParis Peace Forum 2021: https://parispeaceforum.org/en/projects/transforming-aid-delivery-with-data-science/\r\n\r\nUNESCO Netexplo Award 2021: https://netexplo.com/n100/"
+    ],
+    "openStandards": [
+        "Cider is intended to be run locally by a user",
+        " uses local input data",
+        " and outputs results locally. This lack of connectivity means that many open standards are not applicable. Some applicable standards that Cider adhers to:\r\n\r\n* Config files are written in YAML format\r\n* Input data are expected in CSV format",
+        " and output is written in CSV format\r\n* Geographic shapefiles are expected in GeoJson format"
+    ],
+    "bestPractices": [
+        "A partial list",
+        " based on the Principles for Digital Development (each applicable principle is listed here; full list at https://digitalprinciples.org/principles/):\r\n\r\nDesign With the User\r\nWe (the Global Policy Lab at UC Berkeley) and the NGO GiveDirectly are the users to date",
+        " and we built Cider while using it. We continue to develop and maintain Cider as we use it in collaboration with aid program administrators andthe governments of beneficiary countries.\r\n\r\nUnderstand the Existing Ecosystem\r\nTo our knowledge",
+        " there are no other tools available built for predicting poverty levels based on mobile phone data. There is a package called Bandicoot which extracts features from CDR (call detail records)",
+        " a subset of the data we use; Cider gives users the option to delegate to Bandicoot for that step.\r\n\r\nDesign for Scale\r\nThere is no central bottleneck to more entities using Cider; each runs it locally. A primary goal of registering Cider as a digital public good is to encourage its greater adoption.\r\n\r\nBe Data Driven\r\nCider exists to make more data-driven decisions around aid targeting.\r\n\r\nUse Open Standards",
+        " Open Data",
+        " Open Source",
+        " and Open Innovation\r\nCider is open source",
+        " and so are all of its dependencies.\r\n\r\nReuse and Improve\r\nBerkeley and GD have iterated Cider together as we use it",
+        " building on our and each other's past work. Cider is also in part built on top of Bandicoot",
+        " an existing framework for building models using mobile phone data.\r\n\r\nAddress Privacy & Security\r\nCider is not centralized",
+        " and so Cider developers do not collect or manage any data. See section 7 of this application for more on privacy and security.\r\n\r\nBe Collaborative\r\nCider is open-source and we built it in collaboration with the NGO GiveDirectly. Cider is also used in collaboration with governments and mobile network operators. The hope is that these other organizations could use Cider themselves in the future",
+        " without the need for our or GiveDirectly's involvement.\r\n\r\n\r\n"
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "BSD-2-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/Global-Policy-Lab/cider/blob/master/LICENSE.txt"
+        }
+    ],
+    "id": "10169",
+    "name": "Cider",
+    "aliases": [
+        "None"
+    ],
+    "categories": [
+        "Open AI Model",
+        "Open Software"
+    ],
+    "description": "Cider is a set of software tools for estimating the poverty status of individuals and households using mobile phone data, for use in the targeting and deliverty of humanitarian aid.",
+    "website": "https://global-policy-lab.github.io/cider-documentation/intro.html",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Global-Policy-Lab/cider"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "Cider's purpose is to improve the targeting of humanitarian aid and thereby help alleviate poverty, especially the most extreme poverty. Well-targeted aid is an important tool for poverty reduction in pursuit of SDG 1. As an example, Cider informed the Novissi aid program in Togo, which was carried out jointly by the non-profit GiveDirectly, the Togolese government, and the Global Policy Lab at UC Berkeley. Researchers involved found that Cider's poverty predictions were more accurate than predictions we could have obtained using any viable alternative considered, given the time and resource constraints of the program. This increased accuracy enabled funds to be directed to poorer individuals and households. Details of the program, Cider's role in it, and evaluations of effectiveness can be found in Aiken et al (2022), https://www.nature.com/articles/s41586-022-04484-9."
+        }
+    ],
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected but NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Neither Cider nor Cider developers actually collect",
+            " store",
+            " or distribute any data",
+            " PII or otherwise. However",
+            " deployments of Cider will usually rely on the presence of mobile phone data and/or survey data in order to make their predictions",
+            " which may require users to collect or store such data. The details of this data will depend on the deployment. Cider supports data which has had all PII encrypted."
+        ],
+        "dataPrivacySecurity": "Again, neither we nor Cider actually collect, store, or distribute data, so it's not possible for us to ensure the responsible behavior of Cider's users. However, we have issued guidance as part of Cider's documentation: https://global-policy-lab.github.io/cider-documentation/introduction/privacy.html."
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Cider",
+            "website": "https://global-policy-lab.github.io/cider-documentation/intro.html",
+            "org_type": "owner",
+            "contact_name": " Leo Selker  ",
+            "contact_email": "selker@berkeley.edu"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The open source Cider package does not incorporate individual data. Specific deployments of Cider, however, will have to use data sources specific to the project and country. As such, each deployment of Cider will have to be evaluated for its compliance with domestic and international laws. In the case of the Togo deployment, Cider's creators and its implementing partner GiveDirectly worked with the Ministry of Digital Economy and the nation's two telecommunications companies to be compliant with two domestic laws: (1) Data protection (2) Cyber security. \r\n\r\nIn addition to being locally compliant, we have also sought peer review from OCHA's Centre for Humanitarian Data, which has publicly released its evaluation of the tool: https://data.humdata.org/dataset/2048a947-5714-4220-905b-e662cbcd14c8/resource/460e5b29-774a-4bf8-adb4-6c34f11f4987/download/model-report-ucb-cider-model.pdf.",
+            "privacyComplianceURL": "N/A"
+        }
+    ]
+}
