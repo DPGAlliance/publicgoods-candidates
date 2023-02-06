@@ -35,7 +35,9 @@
     {
       "name": "DrivenData",
       "website": "https://www.drivendata.org/",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Peter Bull",
+      "contact_email": "peter@drivendata.org"
     }
   ],
   "stage": "DPG"
