@@ -16,17 +16,54 @@ This document lays out the policies that govern the review process of DPG applic
 ![application_review_policy](https://user-images.githubusercontent.com/8824104/201636640-33eb8dde-b7d3-4bac-a0b5-fa0a72d0dd61.gif)
 
 * Each application is assessed against the latest version of the [DPG Standard](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard.md) at time of creating the application
-* Each application is thoroughly reviewed by at least two people from the DPGA review team
 * Application must meet all the requirements of the DPG Standard to become a DPG. If the application fails to meet one or more requirements, they will be declared as "ineligible to be recognized as a DPG at this time."
 * Every review results in a binary decision : DPG or Ineligible
 * Final determination on whether a solution adheres to the DPG Standard will be made by the DPGA Secretariat’s Technical Coordinator
 * A digital solution recognized as a DPG will be listed on the public [DPG Registry](https://digitalpublicgoods.net/registry/) and their listing will also made be available to other databases via an API
-* If required, the reviewers may consult the Community Manager, the Product Manager and domain experts on a case to case basis
-* A reviewer may reach out to the applicant to seek clarifications and/or gather additional information in order to complete their review
-* The applicant will be intimated about the request for clarification via email and the DPGA webapp
-* The applicant must submit clarifications within the time allotted to them by the reviewer
-* If the applicant fails to respond with all requested clarifications within the time allotted to them, then the application will be automatically declared Ineligible
-* During the time for which clarifications are requested and a final review decision is taken, the solutions will be listed on the registry as a "nominee"
+
+### Roles and Responsibilities: 
+
+### Internal Reviewers / L1 : 
+
+* They are part of the DPGA team 
+* They attend all reviewer meetings 
+* They coordinate ‘internally’ with experts and the external reviewer 
+* They are responsible for owning the decisions as to which applications become DPGs and which ones are marked as ineligible
+* They spend the entire week (regular full-time working hours) pushing applications through the pipeline  
+* They have full access to all applications 
+
+### External Reviewers / L2: 
+
+* They are part of the DPGA team
+* They attend all reviewer meetings  
+* They coordinate ‘externally’ with users to ask and receive clarifications on applications
+* They are responsible for owning the decisions as to which applications become DPGs and which ones are marked as ineligible after the clarifications are received 
+* They spend the entire week (regular full-time working hours) pushing applications through the pipeline  
+* They have full access to certain applications 
+
+### Expert Reviewers:
+
+* They work part time with the DPGA team 
+* They may or may not attend the weekly review meetings depending on their availability 
+* They are responsible for giving their expert advice on certain indicators where they specialise when asked for by an internal reviewer 
+* They usually have fixed days or hours where they contribute their time to pushing applications in their pipeline (for example, two full days or four half days) 
+* They have limited access to certain applications 
+
+### Expert Advisors: 
+
+* They are external to the DPGA team but may be part of the larger DPGA member association 
+* They do not attend any meetings with the rest of the DPGA review team 
+* They are responsible for answering a one-off question about a specific application from time to time
+* They do not have any fixed hours of contribution and usually take out a few minutes each month to assist the team where they are getting stuck 
+* They don’t access applications at all 
+
+### Community Reviewers
+
+* They are not part of the DPGA team or larger ecosystem. They are people informally interested in reviewing applications.
+* They are not invited to attend any meetings of the DPGA team 
+* They are not ‘responsible’ for any decisions or subsequent actions taken for or on applications 
+* They do not have any fixed timings or commitment. They can informally volunteer their services for as little as one hour a month for 6 months
+
 
 ### DPG Registry Moderation Policy
 * The public [DPG registry](https://digitalpublicgoods.net/registry/) displays all digital solutions that are recognized as DPGs and Nominees
