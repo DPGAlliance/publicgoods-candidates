@@ -1,0 +1,98 @@
+{
+  "name": "Vxnaid",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Vxnaid platform offers other identification modalities that are not dependent upon VeriEye. The system offers other possibilities to identify a person: \n- Based on the reading of a QR or barcode (this can come from a national ID card, a vaccination invitation, a study card…) \n- Based on the manual data entry of any unique ID pin the campaign wishes to use \n - Based on a combination of the above with a mobile phone number being captured. \nOur source code is modular and the use of biometrics (making use of VeriEye) is not obliged in the identification module as these other options are offered in our code."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/johnsonandjohnson/vxnaid/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "For exporting, CSV and access-controlled REST API can be used. \nOur ETL module (see https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/ETL-Lite-Module) can be used for data import of any standard."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "AU Treaty and EU GDPR"
+    ],
+    "adherenceSteps": [
+      "Formal data privacy assessment of relevant legal requirements by an independent agency with a view to potential deployment of platform in RLS countries"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The standards used are made available through the Open Concept Lab (OCL) module for OpenMRS. This is referenced on our wiki page:https://github.com/johnsonandjohnson/vxnaid/wiki/Install-Backend-OpenMRS-System#startup-process",
+      "OCL supports CIEL, LOINC, SNOMED-GPS, SNOMED-TEST and ICD-10."
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "J&J SDLC standard with agile methodology (scrum) is followed, which includes compliance analysis, user stories in Jira, SIT, UAT and automation testing in Jira, change management, traceability matrix, Continuous Integration & Continuous Deployment pipelines. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual’s health information. Application has role-based access control and segregation of duties."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Vaccinee number and limited demographics",
+        "Vaccination status"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual’s health information. Application has role-based access control and segregation of duties."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Belgium"
+    ],
+    "deploymentCountries": [
+      "Rwanda",
+      "Sierra Leone",
+      "Democratic Republic of the Congo",
+      "Mali",
+      "Philippines",
+      "Colombia",
+      "Tanzania"
+    ]
+  }
+}

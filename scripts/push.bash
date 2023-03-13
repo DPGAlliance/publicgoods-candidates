@@ -5,9 +5,10 @@ git clone https://github.com/DPGAlliance/publicgoods-website.git ../publicgoods-
         npm install && \
         ./scripts/static.bash && \
         pushd packages/automation && \
-            node generate_dpgs.js && \
-            node index.js && \
-            node generate_nominees.js && \
+        node consolidate_data.js && \
+        popd && \
+        pushd packages/automation && \
+        node index.js && \
         popd && \
         pushd packages/registry && \
             npm run build && \
@@ -15,9 +16,9 @@ git clone https://github.com/DPGAlliance/publicgoods-website.git ../publicgoods-
         pushd packages/eligibility && \
             npm run build && \
         popd && \
-        pushd packages/map && \
-            npm run build && \
-        popd && \
+        #pushd packages/map && \
+        #    npm run build && \
+        #popd && \
         pushd packages/roadmap && \
             npm run build && \
         popd && \
