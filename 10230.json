@@ -1,0 +1,110 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/curiouslearning/FeedTheMonsterJS/blob/main/LICENSE"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Curious Learning",
+            "clearOwnershipURL": "https://github.com/curiouslearning/FeedTheMonsterJS/blob/main/LICENSE"
+        }
+    ],
+    "id": "10230",
+    "name": "Feed the Monster (Web Version)",
+    "categories": [
+        "Open Content",
+        "Open Software"
+    ],
+    "description": "Feed the Monster is an interactive learning app that teaches children the fundamentals of reading. Collect monster eggs and feed them letters so they can grow into new friends! The game is based on years of research and experience in the science of literacy. It incorporates key skills for literacy, including Phonological Awareness, Letter Recognition, Phonics, Vocabulary, and Sight Word Reading so kids can develop a strong foundation for reading. \r\n\r\nFeed the Monster was funded by the Norwegian Ministry of Foreign Affairs as part of the EduApp4Syria-competition. Curious Learning then localized Feed the Monster to 50+ languages, and have subsequently built a web version of the game to meet DPG criteria.",
+    "website": "www.curiouslearning.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/curiouslearning/FeedTheMonsterJS"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "Early Literacy Learning App\r\nFeed the Monster is an interactive learning app that teaches children the fundamentals of reading. Collect monster eggs and feed them letters so they can grow into new friends! The game is based on years of research and experience in the science of literacy. It incorporates key skills for literacy, including Phonological Awareness, Letter Recognition, Phonics, Vocabulary, and Sight Word Reading so kids can develop a strong foundation for reading. \r\n\r\nMost importantly, the efficacy and cost-effectiveness of the overall approach has been validated by a World Bank DIME study in Northern Nigeria. Targeting some of the most vulnerable learners, results reported 0.46-0.63 standard deviations increase in literacy/numeracy for 6-9 year olds, making it one of the few educational interventions that rank highly for learning impacts, cost-effectiveness, and scalability.\r\nLinks to research reports below:\r\nhttps://allchildrenreading.org/wp-content/uploads/2019/07/Feed-the-Monster-Report-Final-Web.pdf\r\nhttps://drive.google.com/file/d/1URmBqeCsuaov8PK0_0Rofu4vqBfOctjY/view?usp=share_link"
+        }
+    ],
+    "documentation": "https://github.com/curiouslearning/FeedTheMonsterJS#readme",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The Feed The Monster app does NOT require data collection to run, non-PII data collection is currently run through Firebase and is independent of the app. If one were to choose to collect non-PII through an alternative, like Couchbase, new data collection functions would need to be written and the data extracted from database storage."
+    },
+    "openStandards": [
+        "HTTPS\r\nJSON\r\nHTML\r\nCSS\r\nPNG\r\n"
+    ],
+    "bestPractices": [
+        "Change management using version control\r\nCode review\r\nCode refactoring\r\nAgile development\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "India",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "India",
+            "Kenya",
+            "Nepal",
+            "South Africa",
+            "Tanzania"
+        ]
+    },
+    "deploymentOrganisations": [
+        " Scientific and Cultural Organization (UNESCO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "NORAD\r\nUNESCO\r\nWorld Bank (DIME)"
+    ],
+    "otherDeploymentOrganisations": [
+        "Distribution",
+        " primarily parents using content at home on smartphones\r\n\r\nWe have reached 227 countries and territories in the world\r\nUkrainian ~ 100 000 learners within 100 days of the invasion starting\r\nIndia ~ 100 000 learners over 2 years \r\nKenya ~ 25 000 learners over 2 months \r\n\r\n"
+    ],
+    "awardsReceived": [
+        "All Children Reading\r\nhttps://allchildrenreading.org/news/shifting-perspectives-on-using-communication-devices-as-learning-tools-can-increase-access-to-education-and-support-learning-in-low-resource-contexts/"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "We have written custom Google Firebase events for data collection. \r\nThese can be completely excluded without affecting the gameplay.\r\nor\r\nFirebase can be replaced with an open-source alternative such as Couchbase (see project README documentation).\r\n"
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Feed the Monster (Web Version)",
+            "website": "www.curiouslearning.org",
+            "org_type": "owner",
+            "contact_name": " Creesen Naicker  ",
+            "contact_email": "creesen@curiouslearning.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "https://www.curiouslearning.org/ftm-privacy-policy"
+        }
+    ],
+    "aliases": ""
+}
