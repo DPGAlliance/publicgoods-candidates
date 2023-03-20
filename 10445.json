@@ -1,0 +1,105 @@
+	{
+    "id": "10445",
+    "name": "Isisora near-realtime Crop and Weather Advisory generation.",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "GeoBIS",
+        " GPRE"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Isidora can be used to generate crop and weather advisories that are location, crop and farmer specific. It uses a model for crop phenological development combined with historic and forecasted weather to alert farmers on important management actions to be taken at certain crop stages and for adverse weather conditions that may damage the crop at specific stages.\r\n",
+    "website": "https://github.com/ajwdewit/isidora",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/ajwdewit/isidora"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "Yield gaps for many important crops are large, particularly in sub-Saharan Africa but also in other places in the World (see https://yieldgap.org). A lack of knowledge on good agricultural practices hampers increasing crop yields, reducing yield gaps and have a sustainable agricultural system. This applies in particular for smallholder farmers which are often difficult to reach through (limited) agricultural extension services. The Isidora solution can be used to target individual farmers through mobile systems, providing them with advisories tailored to their specific crop, location and sowing data thereby promoting good agricultural practices. \r\n\r\nMoreover, as a result of climate change, weather tends to become more variable and adverse weather such as drought, flooding and extreme temperatures occur more frequent. The Isidora solution can integrate a weather forecast based on open weather data sources that can be used to alert farmers on such adverse conditions and take measures that can reduce their impact.\r\n\r\nThe Isidora solution was tested in the GeoBIS project in Bangladesh, it is being used in Myanmar as part of the Crop Insights Portal (https://www.impactterra.com/) and was used in Ethiopia for capacity building purposes."
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "Yield gaps for many important crops are large, particularly in sub-Saharan Africa but also in other places in the World (see https://yieldgap.org). A lack of knowledge on good agricultural practices hampers increasing crop yields, reducing yield gaps and have a sustainable agricultural system. This applies in particular for smallholder farmers which are often difficult to reach through (limited) agricultural extension services. The Isidora solution can be used to target individual farmers through mobile systems, providing them with advisories tailored to their specific crop, location and sowing data thereby promoting good agricultural practices. \r\n\r\nMoreover, as a result of climate change, weather tends to become more variable and adverse weather such as drought, flooding and extreme temperatures occur more frequent. The Isidora solution can integrate a weather forecast based on open weather data sources that can be used to alert farmers on such adverse conditions and take measures that can reduce their impact.\r\n\r\nThe Isidora solution was tested in the GeoBIS project in Bangladesh, it is being used in Myanmar as part of the Crop Insights Portal (https://www.impactterra.com/) and was used in Ethiopia for capacity building purposes."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "EUPL-1.2",
+            "openLicenseEvidenceURLs": "https://github.com/ajwdewit/isidora/tree/develop"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Wageningen Environmental Research, Wageningen UR",
+            "clearOwnershipURL": "Headers in all source code and database files clearly point at Wageningen UR as the organization that owns the solution. Moreover, the solution builds on PCSE (https://pcse.readthedocs.io) which is also owned by Wageningen UR and is provided under the same license (EUPL)."
+        }
+    ],
+    "documentation": "the Isidora solution is fully documented. Current document resides on github as Sphinx source code available under: https://github.com/ajwdewit/isidora/tree/develop/doc \r\n\r\nThe documentation still requires restructuring, but after the first release of Isidora it will become available under https://isidora.readthedocs.io \r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "non-PII data resides in a relational database and can be export to various formats using standard database export tools or through a dedicated API provided by the Isidora solution."
+    },
+    "openStandards": [
+        "The Isidora solution makes use of standard web standards as HTTP",
+        " HTTPS and JSON. "
+    ],
+    "bestPractices": [
+        "The Isidora solution is based on the same principles and best practices that are used for development of PCSE (https://pcse.readthedocs.io). This includes adherence to standard coding styles and headers",
+        " documentation through Sphinx/readthedocs.io and the use of multi-factor authentication to safeguard repositories from tampering. "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Bangladesh",
+            "Ethiopia",
+            "Myanmar (formerly Burma)"
+        ],
+        "deploymentCountries": [
+            "Myanmar (formerly Burma)"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Many of the ideas and principles developed for Isidora have been implemented in:\r\n- the BAMIS portal of Bangladesh: https://www.bamis.gov.bd/en/\r\n- the Ethiopian Institute for Agricultural Research (EIAR) has develop an advisory service that integrates some of the ideas developed for Isidora: https://ethioagroclimate.net\r\n- The calculation engine for Isidora is integrated in the Crop Insights Portal for Myanmar: https://www.impactterra.com/"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Isisora near-realtime Crop and Weather Advisory generation.",
+            "website": "https://github.com/ajwdewit/isidora",
+            "org_type": "owner",
+            "contact_name": " Allard de Wit  ",
+            "contact_email": "allard.dewit@wur.nl"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Since Isidora does not collect any data that can be related to an individual it complies with the EU GDPR.",
+            "privacyComplianceURL": "Since Isidora is distributed under the EUPL v1.2 license it falls under the Jurisdiction of the European Union automatically making the GDPR compulsary for this product."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
