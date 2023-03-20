@@ -1,0 +1,110 @@
+	{
+    "id": "10275",
+    "name": "African Storybook",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "ASb"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "Provides open access to picture storybooks in the languages of Africa for children\u2019s literacy, enjoyment and imagination.",
+    "website": "https://www.africanstorybook.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": " https://github.com/global-asp/global-asp"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "0BSD",
+            "openLicenseEvidenceURLs": " https://github.com/global-asp/global-asp/commit/3ac87ac7ba57a80b6eed40a9402a4fced9dabba4\r\n\r\nThe CC-BY-4.0 licence is found on the ASb website, and on each storybook on the back page."
+        },
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": " https://github.com/global-asp/global-asp/commit/3ac87ac7ba57a80b6eed40a9402a4fced9dabba4\r\n\r\nThe CC-BY-4.0 licence is found on the ASb website, and on each storybook on the back page."
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": " Saide",
+            "clearOwnershipURL": "https://www.africanstorybook.org\r\nhttps://www.saide.org.za\r\nhttps://storybooksafricanlanguages.net\r\n"
+        }
+    ],
+    "documentation": "Software: https://github.com/global-asp/global-asp\r\nStandard LAMP implementation\r\nContent: at https://www.africanstorybook.org on the top right hand corner of the READ page there are \"how to\" guides for how to use the website, as well as in depth guides on \r\n- Developing and translating African Storybooks\r\n- Preparing to use and using storybooks with children\r\n- Translation\r\nThere is also an ASb YouTube channel with numerous guides (https://www.youtube.com/user/africanstorybookorg)\r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "SSL\r\nHTML\r\nPDF\r\nePUB\r\nSVG\r\nPNG\r\nOgg MP3"
+    ],
+    "bestPractices": [
+        "Database-Centric\r\nMaterial Design\r\nProtect data at rest"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected but NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name and email address"
+        ],
+        "dataPrivacySecurity": "POPIA (item 7)\r\nData are never distributed "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": " The African Storybook webpage itself (https://www.africanstorybook.org) demonstrates that the 3696 storybooks and the 7586 translations are relevant to the Quality Education SDG. \r\nThere are also reviews of ASb at:\r\nhttps://www.alllanguageresources.com/african-storybook/\r\nhttps://allafrica.com/stories/202202110011.html - this review stresses the importance of quality storybooks in indigenous languages which is one of the features of ASb\r\n\r\nA published research article on ASb can be found here: https://onlinelibrary.wiley.com/doi/10.1111/modl.12374\r\n\r\nThe Scale of Solution details indicate all of the educational organisations that ASb works with\r\n\r\nJudith Uchidiuno has also reviewed several of the books on her Facebook page: https://www.facebook.com/people/African-Storybook-Reviews-Judith-Uchidiuno/100055884440164/\r\n\r\n"
+        }
+    ],
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "South Africa"
+        ],
+        "deploymentCountries": [
+            "South Africa"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Educational"
+    ],
+    "deploymentCountriesDepartments": [
+        "South African Dept of Basic Education\r\nKenyan Institute of Curriculum Development \r\nRwanda Education Board has approved storybooks for use in Rwandan schools\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "British Council runs workshops with ASb\r\niMILANGO (Kenya and Nigeria)\r\nThe Centre for the Study of Learning and Performance (CSLP)",
+        " led by the Concordia University",
+        " has ASb storybooks in its program called READS.\r\nGlobal Digital Library\r\nWorld Reader\r\nStorybooks Canada\r\nLearning Equality's Kolibri"
+    ],
+    "awardsReceived": [
+        "Tech4Good Education Award Winner and Winner of Winners 2021 - https://www.tech4goodawards.com/finalist/african-storybook-maker/\r\nReimagine Education Bronze - https://www.reimagine-education.com Click on Awards>Winners>Winners 2022\r\nGoogle Impact Challenge 2018 - https://impactchallenge.withgoogle.com/southafrica2018/charities/saide-african-storybook-initiative"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "African Storybook",
+            "website": "https://www.africanstorybook.org/",
+            "org_type": "owner",
+            "contact_name": " Tony Lelliot  ",
+            "contact_email": "tonyl@saide.org.za"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "South African Protection of Personal Information Act (POPIA)",
+            "privacyComplianceURL": " https://www.africanstorybook.org - see Terms and Conditions of Use for details on the ASb Privacy Policy."
+        }
+    ]
+}
