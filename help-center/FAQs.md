@@ -109,7 +109,7 @@ Clarifications are required by the applicants
 
 The application has to be forwarded to an expert 
 
-There is a larger initiative such as the Nobel Peace Prize qualifications list, which has resulted in a mass influx of applications at the same time 
+There is a larger initiative such as the DPG status being a prerequisite for certain awards or grants which has resulted in a mass influx of applications at the same time 
 
 In rare cases, the standard is about to undergo a massive change so reviews have been temporarily paused
 
@@ -138,7 +138,7 @@ All decisions are taken after careful consideration and multiple rounds of evalu
 
 If your solution is not accepted, we would recommend updating your documentation or processes as suggested by the review team as then reapplying. 
 
-All decisions are final and non-negotiable. 
+All decisions are final. 
 
 However, if you still have queries or believe that your solution was erroneously judged, please reach out to us at DPG Review Team
 
