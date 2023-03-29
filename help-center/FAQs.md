@@ -12,7 +12,7 @@ This definition is operationalised through the <a href="https://digitalpublicgoo
 
 <h4> 🔶 What is the process of becoming a DPG? </h4>
 
-You can nominate your submission to become a DPG by filling out the application form found on the <a href="https://app.digitalpublicgoods.net/login">DPGA Webapp</a>. All applications are reviewed against the <a href="https://digitalpublicgoods.net/standard/">DPG Standard</a> - a set of 9 indicators that form the minimum requirements all solutions should meet in order to be called a digital public good. 
+You can nominate your submission to become a DPG by filling out the application form found on the <a href="https://app.digitalpublicgoods.net/login">Application Portal</a>. All applications are reviewed against the <a href="https://digitalpublicgoods.net/standard/">DPG Standard</a> - a set of 9 indicators that form the minimum requirements all solutions should meet in order to be called a digital public good. 
 
 Each application is reviewed by two individual reviewers. The application may also be sent to external experts for their inputs on particular indicators. In case further clarifications are required from the applicants side, the review team will get in touch with you through the Web app itself. 
 
@@ -53,7 +53,7 @@ If after going through all available resources, you have further questions or ne
 
 <h4> 🔷 I was asked for clarifications, how can I submit them? </h4>
 
-You can submit the clarifications asked for through the <a href="https://app.digitalpublicgoods.net/login">DPGA Webapp</a> itself. Please log into your account; on the dashboard you will see your application with a yellow box saying 'Clarifications Required'. Click on the 'View & Respond' button on the right; and your application will open up. 
+You can submit the clarifications asked for through the <a href="https://app.digitalpublicgoods.net/login">Application Portal</a> itself. Please log into your account; on the dashboard you will see your application with a yellow box saying 'Clarifications Required'. Click on the 'View & Respond' button on the right; and your application will open up. 
 
 <img width="666" alt="1" src="https://user-images.githubusercontent.com/86725474/228441688-e87933b4-9b00-4446-bb4c-09bdc39ae16f.png">
 
@@ -134,7 +134,7 @@ Don’t be disheartened: Once the suggested changes have been implemented into y
 
 <h4>🔶 What if I don’t agree with the decision? </h4>
 
-All decisions are taken after careful consideration and multiple rounds of evaluation. The decision making process is publicly documented and can be assessed through your dashboard on the <a href="https://app.digitalpublicgoods.net/login">DPGA Webapp</a>. 
+All decisions are taken after careful consideration and multiple rounds of evaluation. The decision making process is publicly documented and can be assessed through your dashboard on the <a href="https://app.digitalpublicgoods.net/login">Application Portal</a>. 
 
 If your solution is not accepted, we would recommend updating your documentation or processes as suggested by the review team as then reapplying. 
 
