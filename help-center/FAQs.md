@@ -50,12 +50,19 @@ The first guide you can refer to is the <a href="https://digitalpublicgoods.net/
 If after going through all available resources, you have further questions or need any assistance, please reach out to us at support@digitalpublicgoods.net
 
 
+
 <h4> 🔷 I was asked for clarifications, how can I submit them? </h4>
 
-You can submit the clarifications asked for through the <a href="https://app.digitalpublicgoods.net/login">DPGA Webapp</a> itself. Please log into your account and click on your application. The indicators where clarifications are asked for will be marked with a yellow dot on the side. You can click on those indicators, enter your clarifications in the text box, and then press submit. 
+You can submit the clarifications asked for through the <a href="https://app.digitalpublicgoods.net/login">DPGA Webapp</a> itself. Please log into your account; on the dashboard you will see your application with a yellow box saying 'Clarifications Required'. Click on the 'View & Respond' button on the right; and your application will open up. 
+
+<img width="666" alt="1" src="https://user-images.githubusercontent.com/86725474/228441688-e87933b4-9b00-4446-bb4c-09bdc39ae16f.png">
+
+The indicators where clarifications are asked for will be marked with a yellow dot on the side. You can click on those indicators, enter your clarifications in the text box, and then press save. Once you have responded to all clarifications, please press Submit.
+
+<img width="666" alt="2" src="https://user-images.githubusercontent.com/86725474/228441843-4e9463bc-e21c-4eec-92ba-40065fd92c1c.png">
+
 
 Please ensure that you provide all clarifications in a clear and concise manner - we depend on self-reporting by all applicants and discourage repeated rounds of clarifications with our review team to optimise on time. In case the clarifications submitted are not self-explanatory and complete, the digital solution will be marked as ‘Ineligible’. 
-
 
 <h4> 🔷 I submitted clarifications asked for; then I was asked for further clarifications. What should I do? </h4>
 
