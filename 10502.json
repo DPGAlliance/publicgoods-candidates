@@ -1,0 +1,119 @@
+	{
+    "id": "10502",
+    "name": "Somleng",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Low-cost interactive voice response system for communities with low literacy levels",
+    "website": "https://www.somleng.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/somleng"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "SDG3: Good Health and Well-Being\r\n\r\nSomleng is powering multiple mobile health initiatives including in Cambodia, Guatemala and Zambia. For example, in Guatemala, Somleng is powering UNICEF's program to promote behavior change for the prevention of childhood malnutrition with mobile phone technology. In this program, Somleng delivers voice messages relating to positive parenting practices to caregivers in 7 native Mayan languages. More info (https://www.somleng.org/case_studies.html#mhealth-unicef-guatemala)\r\n\r\nSDG8: Decent Work and Economic Growth\r\nIndividuals and small organizations can generate revenue by offering communications-platform-as-a-service (CPaaS) connectivity in their country/region via Somleng. For example, in Burkina Faso, Ticanalyse (http://www.ticanalyse.org) is using Somleng to provide CPaaS connectivity to local organizations and businesses. Ticanalyse can then directly generate new income streams by providing these services, creating jobs and creating economic growth in developing countries.\r\n\r\nSomleng also includes telco-as-a-service (TaaS) functionality out of the box. This is being used by telcos to provide their customers with CPaaS services. For example, in Mexico, Somleng is powering C3ntro Telecom's CPaaS (https://www.somleng.org/case_studies.html#powering-cpaas-mexico). This allows C3ntro to directly compete with global big-tech giants (e.g. Twilio), by offering a localized product. This in-turn keeps revenues in country, contributing to economic growth and decent work.\r\n\r\n\r\n\r\n"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "SDG3: Good Health and Well-Being\r\n\r\nSomleng is powering multiple mobile health initiatives including in Cambodia, Guatemala and Zambia. For example, in Guatemala, Somleng is powering UNICEF's program to promote behavior change for the prevention of childhood malnutrition with mobile phone technology. In this program, Somleng delivers voice messages relating to positive parenting practices to caregivers in 7 native Mayan languages. More info (https://www.somleng.org/case_studies.html#mhealth-unicef-guatemala)\r\n\r\nSDG8: Decent Work and Economic Growth\r\nIndividuals and small organizations can generate revenue by offering communications-platform-as-a-service (CPaaS) connectivity in their country/region via Somleng. For example, in Burkina Faso, Ticanalyse (http://www.ticanalyse.org) is using Somleng to provide CPaaS connectivity to local organizations and businesses. Ticanalyse can then directly generate new income streams by providing these services, creating jobs and creating economic growth in developing countries.\r\n\r\nSomleng also includes telco-as-a-service (TaaS) functionality out of the box. This is being used by telcos to provide their customers with CPaaS services. For example, in Mexico, Somleng is powering C3ntro Telecom's CPaaS (https://www.somleng.org/case_studies.html#powering-cpaas-mexico). This allows C3ntro to directly compete with global big-tech giants (e.g. Twilio), by offering a localized product. This in-turn keeps revenues in country, contributing to economic growth and decent work.\r\n\r\n\r\n\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/somleng/somleng/blob/develop/LICENSE.txt\r\nhttps://github.com/somleng/somleng-switch/blob/develop/LICENSE.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Chatterbox Solutions",
+            "clearOwnershipURL": "https://www.somleng.org/"
+        }
+    ],
+    "documentation": "https://www.somleng.org/docs.html",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The non-PII data can be accessed via an API"
+    },
+    "openStandards": [
+        "JSONAPI\r\nJWT (RFC 7519)\r\nTLS 1.3 (RFC 8446)\r\nTOTP (RFC6238)\r\n\r\nJSONAPI - https://www.somleng.org/docs/carrier_api/#create-an-account\r\nJWT (RFC 7519) - https://www.somleng.org/docs/carrier_api/#webhooks\r\nTLS 1.3 (RFC 8446) - https://www.ssllabs.com/ssltest/analyze.html?d=somleng.org\r\nTOTP (RFC6238) - https://github.com/somleng/somleng/blob/develop/spec/system/dashboard/authentication_spec.rb#L4\r\n\r\nJWT - Somleng's Carrier Webhooks are signed using JWT (RFC 7519). This provides a standard way for applications to verify webhooks."
+    ],
+    "bestPractices": [
+        "Design for Scale - Somleng is a tool which can be used across the globe. The technology can be applied to hundreds of different use-cases from mHealth projects to Early Warning Systems to Internet Banking OTP Authentication. Our vision is a world where communications is accessible to everyone. We aim to achieve this vision by giving local carriers and individuals the technology to provide their own cloud communication stacks across the globe.\r\n\r\nDesign With the User - Somleng is designed with feedback from our customers and partners. We add features in an incremental manner based on the feedback from our partners.\r\n\r\nUse Open Standards",
+        " Open Data",
+        " Open Source",
+        " and Open Innovation - Somleng's Carrier API is written according to the JSONAPI standard (https://jsonapi.org/). By using the JSON:API standard consumers of the API can use a pre-built client which avoids the need for us to provide helper libraries for various programming languages. In addition it serves as a set of conventions for us to follow",
+        " eliminating the need for us to make some decisions on how to design the API.\r\n\r\nReuse and Improve - Somleng contains a compatible open source implementation of Twilio's REST API. This API has become the the de-facto standard for Cloud Communications. By being compatible with this API",
+        " users of Twilio an easily migrate to Somleng by just updating the endpoint URL in the open source libraries. Somleng also contains an open source TwiML parser. TwiML is the de-facto markup language for controlling calls and SMS. By providing an open source TwiML parser the community can suggest or contribute support for more features and Verbs."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Phone Number",
+            "Email Address"
+        ],
+        "dataPrivacySecurity": "Somleng recommends the cloud hosting option, this is the most cost effective, reliable, and secure option. While using the cloud hosting option users are protected by our privacy policy (https://github.com/somleng/somleng-project/blob/master/Privacy.md) While using our service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to: phone, email, usage data"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Cambodia"
+        ],
+        "deploymentCountries": [
+            "Burkina Faso",
+            "Cambodia",
+            "Canada",
+            "Guatemala",
+            "Mexico",
+            "Nepal",
+            "Somalia",
+            "Zambia"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children"
+    ],
+    "deploymentCountriesDepartments": [
+        "Somleng is powering the Cambodian Government's National Early Warning System. The system is managed by the National Committee of Disaster Management (NCDM) (http://www.ncdm.gov.kh/) under the Ministry of Interior."
+    ],
+    "otherDeploymentOrganisations": [
+        "People in Need (NGO)"
+    ],
+    "awardsReceived": [
+        "AsiaStar 10\u00d710 \r\nhttps://kiripost.com/stories/cambodia-somleng"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Somleng",
+            "website": "https://www.somleng.org",
+            "org_type": "owner",
+            "contact_name": " David Cooper Wilkie  ",
+            "contact_email": "dwilkie@somleng.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "To the best of our knowledge, Somleng does not store any PII for the beneficiaries. The only potential PII that we collect and store is the beneficiary phone number. As such, as an open source project, we do not think GDPR applies to Somleng.",
+            "privacyComplianceURL": "Privacy policy - https://github.com/somleng/somleng-project/blob/master/Privacy.md\r\n\r\nNGOs might decide to collect PII information for their specific use-case. We strongly recommend that NGOs do not collect this information if not required."
+        }
+    ],
+    "aliases": ""
+}
