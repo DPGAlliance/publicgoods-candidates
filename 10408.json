@@ -1,0 +1,139 @@
+	{
+    "id": "10408",
+    "name": "GNU Health",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "MyGNUHealth",
+        "GNU Health Federation",
+        "Thalamus",
+        " HMIS"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine.",
+    "website": "https://www.gnuhealth.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://hg.savannah.gnu.org/hgweb/health/"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "The GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues. GNU Health ecosystem contains a Hospital management and information system (HMIS), a Personal Health Record (MyGNUHealth) and a federation server to interconnect user and health institutions. It comes with an interface to Orthanc, a free/libre PACS system.\r\n \r\nThe GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues"
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "The GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues. GNU Health ecosystem contains a Hospital management and information system (HMIS), a Personal Health Record (MyGNUHealth) and a federation server to interconnect user and health institutions. It comes with an interface to Orthanc, a free/libre PACS system.\r\n \r\nThe GNU Health Ecosystem supports individuals, health professionals, institutions and governments in managing all kinds of health-related issues"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://hg.savannah.gnu.org/hgweb/health/file/aa07cb2bcb15/COPYING\r\n\r\nGNU Health has adopted the REUSE program of the Free Software Foundation Europe (FSFE) to document licensing"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://hg.savannah.gnu.org/hgweb/health/file/aa07cb2bcb15/COPYING\r\n\r\nGNU Health has adopted the REUSE program of the Free Software Foundation Europe (FSFE) to document licensing"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "GNU Solidario",
+            "clearOwnershipURL": "https://www.gnusolidario.org/about-us.html"
+        }
+    ],
+    "documentation": "https://en.wikibooks.org/wiki/GNU_Health",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "GNU Health supports HL7/FHIR standard"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Personal Data",
+            " Medical records",
+            " medical history",
+            " examination results"
+        ],
+        "dataPrivacySecurity": " On the technical layer we can enable encryption for all kinds of data. We do not collect personal information on any GNU Solidario site, except 'my.gnusolidario.org', that holds our members. The GNU Solidario member site (My GNU Solidario) may collect the following information from our members: Name and job title, Contact information including email address, Demographic information such as postcode, preferences and interests and Other information relevant to customer surveys and/or offers."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The nature of the project - health care information systems - is a very special topic that requires experience and and expert knowledge. As such, it does not attract underage users, and we have not noticed any underage users. neither online nor in presene. The community is so small that we know each other in person Code of Conduct (https://en.wikibooks.org/wiki/GNU_Health/Code_of_Conduct),Moderated mailing lists"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Argentina",
+            "Belgium",
+            "Germany",
+            "Jamaica",
+            "Spain"
+        ],
+        "deploymentCountries": [
+            "Angola",
+            "Argentina",
+            "Bangladesh",
+            "Brazil",
+            "Cambodia",
+            "Cameroon",
+            "Congo (Congo-Brazzaville)",
+            "Gabon",
+            "Haiti",
+            "India",
+            "Jamaica",
+            "Kenya",
+            "Laos",
+            "Mali",
+            "Mexico",
+            "Nigeria",
+            "Philippines",
+            "Tanzania"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Cirurgia Solidaria",
+        " Spain\r\nFundacion Recover\r\nRed Cross Mexico\r\nMinistry of Health",
+        " jamaica\r\nUnited Nations University\r\nUniversity of Hannover (Germany)"
+    ],
+    "awardsReceived": [
+        "REUSE 3.0 Compliance Award"
+    ],
+    "openStandards": [
+        "HL7/FHIR https://hg.savannah.gnu.org/hgweb/health/file/aa07cb2bcb15/tryton/health/tests Object-orientation",
+        "Use of widely accepted standards (like gnuPG)\r\nPEP8 standard"
+    ],
+    "bestPractices": [
+        "Automated Tests per module",
+        " see https://hg.savannah.gnu.org/hgweb/health/file/fc4dfa7cc65f/tryton/health/tests for example\r\n3-tier client server model\r\nscalability (solution can run on a Raspberry Pi as well as on (DB) clusters)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "GNU Health",
+            "website": "https://www.gnuhealth.org/",
+            "org_type": "owner",
+            "contact_name": " Selene Cordara  ",
+            "contact_email": "axel.braun@gnuhealth.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR Privacy policy - https://www.gnusolidario.org/privacy-policy.html ",
+            "privacyComplianceURL": "https://www.gnusolidario.org/privacy-policy.html "
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": ""
+}
