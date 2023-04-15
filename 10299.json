@@ -1,0 +1,275 @@
+	{
+    "id": "10299",
+    "name": "TrueNAS",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "TrueNAS is the world's most deployed storage software, providing scalable unified and hyperconverged storage for valuable data while leveraging Open Source economics.",
+    "website": "https://truenas.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/truenas"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "SDG8: Free access to the TrueNAS community and open source technology provides industry connections and the ability to learn best practices in an established technology project. Through engagement, community members practice real skills that are relevant in the global job market.\r\n\r\nSDG9: TrueNAS data storage software enables organizations and community members to deliver tailored data storage solutions for their users\r\n[NOTE - Unable to save this as a selection using the webform]\r\n\r\nSDG12: TrueNAS software extends the usable life of server and storage hardware beyond 3-5 years, maximizing hardware investments and delaying the destruction or recycling of that infrastructure."
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "SDG8: Free access to the TrueNAS community and open source technology provides industry connections and the ability to learn best practices in an established technology project. Through engagement, community members practice real skills that are relevant in the global job market.\r\n\r\nSDG9: TrueNAS data storage software enables organizations and community members to deliver tailored data storage solutions for their users\r\n[NOTE - Unable to save this as a selection using the webform]\r\n\r\nSDG12: TrueNAS software extends the usable life of server and storage hardware beyond 3-5 years, maximizing hardware investments and delaying the destruction or recycling of that infrastructure."
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "SDG8: Free access to the TrueNAS community and open source technology provides industry connections and the ability to learn best practices in an established technology project. Through engagement, community members practice real skills that are relevant in the global job market.\r\n\r\nSDG9: TrueNAS data storage software enables organizations and community members to deliver tailored data storage solutions for their users\r\n[NOTE - Unable to save this as a selection using the webform]\r\n\r\nSDG12: TrueNAS software extends the usable life of server and storage hardware beyond 3-5 years, maximizing hardware investments and delaying the destruction or recycling of that infrastructure."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/truenas/py-bsd/blob/master/LICENSE\r\nhttps://github.com/truenas/linux/blob/truenas/linux-5.15/LICENSES/preferred/GPL-2.0"
+        },
+        {
+            "openLicense": "GPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/truenas/py-bsd/blob/master/LICENSE\r\nhttps://github.com/truenas/linux/blob/truenas/linux-5.15/LICENSES/preferred/GPL-2.0"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "iXsystems",
+            "clearOwnershipURL": "https://www.ixsystems.com/trademarks/"
+        }
+    ],
+    "documentation": "https://www.truenas.com/docs/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "TrueNAS collects basic non-PII system information such as software version and services enabled, hardware information, and chosen data protection configuration(s) for use in ongoing software design and testing. Non-PII data from TrueNAS systems is submitted to our usage collector agent daily vi HTTPS and is available via an internal-only webpage to iX Systems Engineering Staff, stored in a JSON format."
+    },
+    "openStandards": [
+        "x86-64 architecture\r\nARM-hfp architecture\r\nTCP/IP\r\nHTTPS\r\nSSL\r\nSSH\r\nSMB\r\nNFS"
+    ],
+    "bestPractices": [
+        "Open source software development\r\nUpstream-first policy\r\nRapid iteration and feedback\r\nUser stories\r\nChange management using version control\r\nContinuous Integration & Continuous Deployment (CI/CD)\r\nCode review\r\nAgile development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Forum rules described @ https://www.truenas.com/community/threads/forum-rules.45124/. Interaction on the forums requires account registration, where date of birth is a required field used to verify registrants are 13 years of age ore older.\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Albania",
+            "Algeria",
+            "Andorra",
+            "Angola",
+            "Antigua and Barbuda",
+            "Argentina",
+            "Armenia",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Botswana",
+            "Brazil",
+            "Brunei",
+            "Bulgaria",
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Chile",
+            "China",
+            "Colombia",
+            "Congo (Congo-Brazzaville)",
+            "Costa Rica",
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czechia (Czech Republic)",
+            "Democratic Republic of the Congo",
+            "Denmark",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt",
+            "El Salvador",
+            "Equatorial Guinea",
+            "\"Eswatini (fmr. \"\"Swaziland\"\")\"",
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "France",
+            "Gabon",
+            "Georgia",
+            "Germany",
+            "Ghana",
+            "Greece",
+            "Grenada",
+            "Guatemala",
+            "Guyana",
+            "Haiti",
+            "Honduras",
+            "Hungary",
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kenya",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Latvia",
+            "Lebanon",
+            "Libya",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Madagascar",
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Marshall Islands",
+            "Mauritania",
+            "Mauritius",
+            "Mexico",
+            "Micronesia",
+            "Monaco",
+            "Mongolia",
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Myanmar (formerly Burma)",
+            "Namibia",
+            "Nepal",
+            "Netherlands",
+            "New Zealand",
+            "Nicaragua",
+            "Niger",
+            "Nigeria",
+            "North Macedonia",
+            "Norway",
+            "Oman",
+            "Pakistan",
+            "Palestine State",
+            "Panama",
+            "Papua New Guinea",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Qatar",
+            "Romania",
+            "Russia",
+            "Rwanda",
+            "Saint Vincent and the Grenadines",
+            "San Marino",
+            "Saudi Arabia",
+            "Serbia",
+            "Sierra Leone",
+            "Singapore",
+            "Slovakia",
+            "Slovenia",
+            "Solomon Islands",
+            "Somalia",
+            "South Africa",
+            "South Korea",
+            "Spain",
+            "Sri Lanka",
+            "Sudan",
+            "Suriname",
+            "Sweden",
+            "Switzerland",
+            "Syria",
+            "Tajikistan",
+            "Tanzania",
+            "Thailand",
+            "Timor-Leste",
+            "Togo",
+            "Trinidad and Tobago",
+            "Tunisia",
+            "Turkey",
+            "Uganda",
+            "Ukraine",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States of America",
+            "Uruguay",
+            "Uzbekistan",
+            "Vanuatu",
+            "Venezuela",
+            "Vietnam",
+            "Yemen",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "TrueNAS is used by thousands of national",
+        " state / regional",
+        " and local government and public bodies to store data",
+        " including numerous universities and research labs."
+    ],
+    "otherDeploymentOrganisations": [
+        "TrueNAS is used by thousands of non-government",
+        " non-profit",
+        " and charitable organizations to store data."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "TrueNAS",
+            "website": "https://truenas.com",
+            "org_type": "owner",
+            "contact_name": " Mario Blandini  ",
+            "contact_email": "mblandini@ixsystems.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "California Consumer Privacy Act of 2018 (CCPA)\r\nEU General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "https://www.truenas.com/privacy-policy/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
