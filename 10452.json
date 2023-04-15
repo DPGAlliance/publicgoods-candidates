@@ -1,0 +1,108 @@
+	{
+    "id": "10452",
+    "name": "Tanushka - test ",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "T"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "Tanushka ",
+    "website": "tanushka.com ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "here"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "tanushka "
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "tanushka "
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "tanushka "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "tanushka "
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "tanushka ",
+            "clearOwnershipURL": "tanushka "
+        }
+    ],
+    "documentation": "tanushka ",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "tanushka "
+    },
+    "openStandards": [
+        "tanushka "
+    ],
+    "bestPractices": [
+        "tanushka "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "tanushka "
+        ],
+        "dataPrivacySecurity": "tanushka "
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "tanushka "
+        ],
+        "contentManagementPolicy": "tanushka "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "tanushka "
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "Scotland"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "tanushka "
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Tanushka - test ",
+            "website": "tanushka.com ",
+            "org_type": "owner",
+            "contact_name": " tanushka   ",
+            "contact_email": "tanushkapm21@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "tanushka ",
+            "privacyComplianceURL": "tanushka "
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
