@@ -1,0 +1,115 @@
+	{
+    "id": "10394",
+    "name": "Aid Management Platform",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "AMP"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "AMP helps governments and development partners gather, access, and monitor information on development activities, with the goal of increasing aid effectiveness. ",
+    "website": "https://devgateway.github.io/amp/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/devgateway/amp"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "The Aid Management Platform (AMP) aligns with SDG 16's specific target of \u2018develop[ing] effective, accountable and transparent institutions at all levels\u2019 by providing governments and development partners with a tool that allows for both parties to conduct better resource planning, identify gaps and duplications in foreign assistance, better align foreign assistance to national priorities, and to make information about aid flows more transparent to civil society, citizens, journalists, researchers, and other stakeholders."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/devgateway/amp/blob/develop/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Development Gateway, Inc",
+            "clearOwnershipURL": "https://developmentgateway.org/expertise/aid-management/"
+        }
+    ],
+    "documentation": "Technical documentation and demo:\r\nhttps://devgateway.github.io/amp/\r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The information is exportable in Word/Excel formats, CSV, XML, and JSON supported by a documented API.\r\n"
+    },
+    "openStandards": [
+        "IATI 1.x",
+        " IATI 2.x",
+        " JSON via API\r\n"
+    ],
+    "bestPractices": [
+        "Architecture principles: \r\nhttps://devgateway.github.io/amp/architecture/\r\n\r\nAgile with User-centered approach: \r\nhttps://developmentgateway.org/build/\r\n\r\nIATI import tool:\r\nhttps://github.com/devgateway/iatiimport\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Project and financial information related to development projects.\r\n"
+        ],
+        "contentManagementPolicy": "The platform does not distribute content."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Argentina",
+            "Armenia",
+            "Kenya",
+            "Moldova",
+            "Romania",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "C\u00f4te d",
+            "Chad",
+            "Democratic Republic of the Congo",
+            "Ethiopia",
+            "Haiti",
+            "Honduras",
+            "Moldova",
+            "Senegal",
+            "Togo",
+            "Uganda"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Haiti: Minist\u00e8re de la Planification et de la Coop\u00e9ration Externe (MPCE)\r\nEthiopia: Ministry of Finance\r\nTogo: Ministere de la planification",
+        " du d\u00e9velopment et de la coop\u00e9ration (Direction G\u00e9n\u00e9rale de la Coop\u00e9ration (DGCOOP))\r\nHonduras: Secretar\u00eda de Relaciones Exteriores y Cooperaci\u00f3n Internacional.\r\nDRC: Ministry of Finance \r\nBurkina Faso: Direction G\u00e9n\u00e9rale de la Coop\u00e9ration (DGCOOP)\r\nUganda: Ministry of Finance and Economic Development (MoFED)\r\nCIV: Technical Unit of the External Resources Mobilization Committee (COMOREX)\r\nSenegal: Ministere des Finanaces\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Aid Management Platform",
+            "website": "https://devgateway.github.io/amp/",
+            "org_type": "owner",
+            "contact_name": " Fernando Ferreyra  ",
+            "contact_email": "fferreyra@developmentgateway.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "We work with governments and implementing organizations to apply the local data protection laws. We have a Data Privacy policy publicly available.\r\n\r\n",
+            "privacyComplianceURL": "\r\nhttps://github.com/devgateway/ocportal/blob/develop/docs/PRIVACY.md"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
