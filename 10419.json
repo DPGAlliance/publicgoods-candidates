@@ -1,0 +1,170 @@
+	{
+    "id": "10419",
+    "name": "OpenClinic GA",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "OPC"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.",
+    "website": "https://sourceforge.net/projects/open-clinic/ ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://sourceforge.net/p/open-clinic/code/ci/master/tree/"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-2.0",
+            "openLicenseEvidenceURLs": "https://sourceforge.net/projects/open-clinic/ \r\nGNU Library or Lesser General Public License version 2.0 (LGPLv2)"
+        },
+        {
+            "openLicense": "LGPL-2.1",
+            "openLicenseEvidenceURLs": "https://sourceforge.net/projects/open-clinic/ \r\nGNU Library or Lesser General Public License version 2.0 (LGPLv2)"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "http://www.post-factum.be/ for commercial Edition and frank verbeke",
+            "clearOwnershipURL": "https://sourceforge.net/projects/open-clinic/ "
+        }
+    ],
+    "documentation": "Postfactum is a Belgian Medical Software company that has developed a suite of applications for the managemen of healthcare information. The company is led by a physician who is also a software engineer and has a permanent staff of 1 more physician with high-level IT skills, 4 software engineers and 1 research coordinator. Furthermore, the company has a team of 5 healthcare IT-consultants working on project basis and a local Rwandan team of 1 public health expert, a physician-expert in health statistics, 2 technicians and 2 administrative collaborators.\r\nPostfactum has specialized in tailor-made applications, which are built on basic generic technological platform, called the \"OpenIT architecture\". In this document an introduction is given to the OpenIT architecture and more specifically the Open Clinic Hospital Information Management System that has been developed on top.\r\nhttps://sourceforge.net/projects/open-clinic/files/Documentation/ ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "3BT clinical thesaurus with validated coding aid for ICD-10 and ICPC-2\r\nSnomed CT coding (diagnoses) starting from version 4.0\r\nFull lab order entry and results management (LOINC coding supported). HL7 based interface with lab analyzer middleware solutions (Abbott AlinIQ/AMS)\r\nIntegrates RxNorm based multi-lingual drug-drug interaction detection (interfaced to National Library of Medicine)\r\nEfficient database connection pooling with Primrose engine starting from version 4.0\r\nMobile web interface with bar-code recognition on Android devices\r\nIntegrated solution for archiving of scanned documents\r\nUnlimited free usage (unlimited users",
+        " patients",
+        " beds etc...)\r\nIntegration of DCM4CHE/Weasis based PACS and DICOM-viewer solution\r\nHL7/FHIR API for structured data exchange with external applications\r\nWebRTC based module for tele-consultation\r\nWebRTC/Websockets based integration of Iristick SmartGlasses"
+    ],
+    "bestPractices": [
+        "https://sourceforge.net/projects/open-clinic/files/Documentation/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "The OpenClinic patient identification functions include:\r\nMulti-criteria (names",
+            " date of birth",
+            " ID-numbers",
+            " archiving number",
+            " address",
+            " phone number",
+            " relative identification number...) patient retrieval engine",
+            " which can be configured according to site-specific needs\r\nPossibility of storing an electronic picture of the patient using standard web-cam equipment\r\nPossibility of linking health records to other health records based on family relationships (mother -child",
+            " spouses...)\r\nPossibility to attribute an unlimited number of person identifiers to a patient record (ID card",
+            "\r\nNational register ID",
+            " Passport ID etc...)\r\nA fingerprint id can be added in OpenClinic. This ID is a unique transformation of the patient's (or user's) fingerprint into a person identifier through the Digital Persona Software Development Kit. For each patient",
+            " a maximum of 10 fingerprint vectors can be stored (one for each finger)\r\nAutomatic attribution of a unique",
+            " permanent system wide medical record number by OpenClinic to each patient. This ID is the key that brings together all person-related information that is brought into the system. Every person-related document that is printed by OpenClinic can wear this unique ID.\r\nPossibility to print patient identification labels to put on paper documents",
+            " wrist bands etc... This printout also comprises bar coded tags",
+            " which can reduce patient identification time dramatically.\r\nCode 39 (3 of 9) is proposed as the default barcode technology. Code 39 is widely used in many industries and is the standard for many government barcode specifications.\r\n"
+        ],
+        "dataPrivacySecurity": "Strong login and password system, encryptions of all data if sharing needed. "
+    },
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "3.1 By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.\r\n3.2 By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births.\r\n3.3 By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.\r\n3.4 By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.\r\n3.8 Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.\r\n3.B Support the research and development of vaccines and medicines for the communicable and noncommunicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all.\r\n3.C Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States.\r\n3.D Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks."
+        }
+    ],
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Patient information and treatment "
+        ],
+        "contentManagementPolicy": "No illegal content collected "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium",
+            "Burundi",
+            "Democratic Republic of the Congo",
+            "Mali",
+            "Rwanda"
+        ],
+        "deploymentCountries": [
+            "Albania",
+            "Bangladesh",
+            "Belgium",
+            "Benin",
+            "Brazil",
+            "Burundi",
+            "C\u00f4te d",
+            "Cameroon",
+            "Congo (Congo-Brazzaville)",
+            "Democratic Republic of the Congo",
+            "Gabon",
+            "Kenya",
+            "Mali",
+            "Niger",
+            "Nigeria",
+            "Peru",
+            "Rwanda",
+            "Senegal",
+            "Sri Lanka",
+            "Tanzania",
+            "Uganda",
+            "Zambia"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme",
+        "World Health Organization (WHO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "Albania",
+        " Bangladesh",
+        " Belgium",
+        " Benin",
+        " Brazil",
+        " Burundi",
+        " Cameroon",
+        " Congo-Brazzaville",
+        " Democratic Republic of the Congo",
+        " Gabon",
+        " Ivory Coast",
+        " Kenya",
+        " Mali",
+        " Niger",
+        " Nigeria",
+        " Senegal",
+        " Rwanda",
+        " Uganda",
+        " Peru",
+        " Sri Lanka",
+        " Tanzania and Zambia"
+    ],
+    "otherDeploymentOrganisations": [
+        "ENABEL BELGIUM"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenClinic GA",
+            "website": "https://sourceforge.net/projects/open-clinic/ ",
+            "org_type": "owner",
+            "contact_name": " LY OUSMANE  ",
+            "contact_email": "oussouly@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR) ready",
+            "privacyComplianceURL": "https://sourceforge.net/projects/open-clinic/files/Documentation/EN/openclinic%20technical%20documentation.pdf/download"
+        }
+    ],
+    "awardsReceived": ""
+}
