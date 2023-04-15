@@ -1,0 +1,119 @@
+	{
+    "id": "10366",
+    "name": "Open Health Stack",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "OHS"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Open Health Stack provides building blocks for creating next-gen digital health apps. These open source components save time and make it easier to adopt modern healthcare standards, leading to secure, offline-capable, data-driven solutions for healthcare workers in low-resource settings.",
+    "website": "https://developers.google.com/open-health-stack",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/google/android-fhir, https://github.com/google/fhir-data-pipes, https://github.com/google/fhir-info-gateway"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Open Health Stack (OHS) is a suite of open source tools and developer resources designed to help accelerate development of interoperable digital health solutions with a focus on standards, security, and advanced analytics. \r\n\r\nBy using OHS components developers can spend less time solving common technical problems and more time building next-gen digital health solutions. OHS is designed to meet the specific needs of developers and implementers building and deploying FHIR based solutions for healthcare workers.\r\n\r\nRead more - "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/google/android-fhir/blob/master/LICENSE\r\nhttps://github.com/google/fhir-info-gateway/blob/master/LICENSE\r\nhttps://github.com/google/fhir-data-pipes/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Google",
+            "clearOwnershipURL": "The website for Open Health Stack is published under developers.google.com which explains each of the open source projects which themselves are published under the Google organization on Github - github.com/google/"
+        }
+    ],
+    "documentation": "We have published a developer site at developers.google.com/open-health-stack\r\n\r\nFrom here developers can learn about the components and associated resources and access more comprehensive developer documentation on the respective project repositories on GitHub\r\n\r\nIn addition the DevSite contains references to demo applications, sample codes and codelabs as well as Design Guidelines. These will be further added to over time",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Our solution is designed to help developers adopt the HL7 FHIR specification an open standard for promoting interoperability in healthcare\r\n\r\nAt the component level",
+        " we only implement open standards including:\r\n- 256-bit AES for encryption of data-at-rest\r\n- support for JWT and openID for auth(z) integration\r\n- JSON for data-exchange"
+    ],
+    "bestPractices": [
+        "Our solution has been designed in accordance with the Principles for Digital Development in particular:\r\n\r\n- Design with the user -> we take a human centered design led approach and work with partners in the ecosystem to learn",
+        " and iteratively validate. A good example is the development of our Design Guidelines where we have field tested these with end users\r\n \r\n- Understand the existing ecosystem -> we work closely with the WHO and developers in the ecosystem to understand the challenges and opportunities. \r\n\r\n- Design for scale --> this is central to how we think about enabling ecosystems. A good example is the FHIR Data Pipes that is specifically designed to be a horizontally scalable solution\r\n\r\n- Build for sustainability --> we believe that be providing this solution which is in effect digital public infrastructure we can promote greater sustainability for digital health solutions and promote innovation\r\n\r\n- Be data driven --> our solution is all about making it easier for developers to build data driven healthcare solutions that will lead to more effecitve decision making\r\n\r\n- Use open standards",
+        " open data",
+        " open source and open innovation --> our solution is built to help developers adopt the HL7 FHIR open standard for healthcare. It is open source and we are actively working with technical partners and other stakeholder in the ecosystem to promote open innovation\r\n\r\n- Reuse and improve --> our work is fundamentally about catalyzing shifts that are taking place in the digital health ecosystem (i.e towards patient centered solutions). Our components are designed to co-exist with existing systems and enable developers to reuse and improve through hybrid architectures.\r\n\r\n- Address privacy and security --> our solutions do not directly collect",
+        " process or use data. However we promote this best practice when it comes to developers building and deploying solutions using our tools. And we put in place enabling capabilities like encryption for data at rest or the FHIR Info Gateway which is designed to make it easier for developers to build solutions that preserve privacy of healthcare data. \r\n\r\n- Be collaborative --> the Open Health Stack developer site is designed to be the place where we are able to share best practices - such as our desgin guidelines - and over time we plan to co-develop impact case studies and share stories of how developers are using Open Health Stack components"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "India",
+            "Indonesia",
+            "Kenya",
+            "Pakistan",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Kenya",
+            "Liberia",
+            "Nigeria"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Health Organization (WHO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "Our solutions to date have been adopted by developers often working with Ministries of Health. \r\n\r\nFor example:\r\n\r\n- In Nigeria",
+        " IPRD Solutions and HACEY are working with the Oyo State MoH\r\n- In Kenya",
+        " IntelliSoft is working with the Kenya MoH on two projects leveraging our solution\r\n- In Liberia",
+        " Ona are working with Last Mile Health and the Liberian MoH on a community health information system platform\r\n\r\nThere are other projects that are at early stages that involve NGOs working with MoH such as in Uganda",
+        " Malawi",
+        " Zambia and Indonesia"
+    ],
+    "otherDeploymentOrganisations": [
+        "- CardinalKit (https://cardinalkit.org/) - part of the Stanford BioDesign program - has adopted the Android FHIR SDK as part their solution\r\n\r\n- The World Health Organization Emergencies team is working with Argusoft (technical partner) to build the Em Care solution using the Android FHIR SDK. This is in field testing in Iraq"
+    ],
+    "awardsReceived": [
+        "N/A"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Health Stack",
+            "website": "https://developers.google.com/open-health-stack",
+            "org_type": "owner",
+            "contact_name": " Fred Hersch  ",
+            "contact_email": "fredhersch@google.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Open Health Stack is a suite of building blocks (Software Development Kits) and does not collect, store or process any user data. It is up to the developers who use this in the products they build to ensure they adhere to relevant privacy policies.",
+            "privacyComplianceURL": "Not applicable"
+        }
+    ]
+}
