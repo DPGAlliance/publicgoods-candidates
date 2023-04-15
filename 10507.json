@@ -1,0 +1,108 @@
+	{
+    "id": "10507",
+    "name": "Synthea",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "SyntheticMass"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients and produces synthetic health data free from cost, privacy, and security restrictions.",
+    "website": "https://synthetichealth.github.io/synthea/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/synthetichealth/synthea,https://github.com/synthetichealth/synthea-international"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "The lack of data hinders understanding of the true impacts of disease. Synthea provides open-source software and freely available synthetic open data sets formatted to international standards. These resources lower the barrier of entry for innovators across the globe to build data-centric health solutions and digital health solutions. Using Synthea, health innovators can accelerate their work safely, securely, and publicly without accessing real data. Innovators also can leverage Synthea to strengthen their health information technology knowledge and skills for future jobs, research, and/or entrepreneurship opportunities to advance health and well-being."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/synthetichealth/synthea/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "The MITRE Corporation",
+            "clearOwnershipURL": "https://github.com/synthetichealth/synthea#license"
+        }
+    ],
+    "documentation": "https://github.com/synthetichealth/synthea/wiki",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "- HL7 FHIR\r\n  - Documentation https://github.com/synthetichealth/synthea/wiki/Records#fhir-record\r\n  - Test Suites\r\n    - https://github.com/synthetichealth/synthea/blob/master/src/test/java/org/mitre/synthea/export/FHIRR4ExporterTest.java\r\n    - https://github.com/synthetichealth/synthea/blob/master/src/test/java/org/mitre/synthea/export/FHIRSTU3ExporterTest.java\r\n    - https://github.com/synthetichealth/synthea/blob/master/src/test/java/org/mitre/synthea/export/FHIRDSTU2ExporterTest.java \r\n- HL7 C-CDA\r\n  - Documentation https://github.com/synthetichealth/synthea/wiki/Records#ccda-record\r\n  - Test Suite https://github.com/synthetichealth/synthea/blob/master/src/test/java/org/mitre/synthea/export/CCDAExporterTest.java \r\n- Terminologies\r\n  - LOINC\r\n  - SNOMED\r\n  - RxNorm\r\n  - Documentation https://github.com/synthetichealth/synthea/wiki/Generic-Module-Framework%3A-Basics#codes\r\n"
+    ],
+    "bestPractices": [
+        "This project adheres to the Principles of Digital Development https://digitalprinciples.org"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct.\r\n\r\n- Issues board: https://github.com/synthetichealth/synthea/issues\r\n- Discussion board: https://github.com/synthetichealth/synthea/discussions\r\n- Mailing list (to send mail to maintainers): synthea-list@groups.mitre.org \r\n- Code of Conduct: https://github.com/synthetichealth/synthea/blob/master/CODE_OF_CONDUCT.md \r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Australia",
+            "Canada",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Australia",
+            "Canada",
+            "India",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Yes",
+        " but it is up to those governments to disclose their use.\r\n\r\nGovernment agencies that have publicly identified themselves in the United States include Health and Human Services (HHS) Office of the National Coordinator for Heath IT (ONC)",
+        " Centers for Medicare and Medicaid Services (CMS)",
+        " and the Veterans Health Agency (VHA)."
+    ],
+    "otherDeploymentOrganisations": [
+        "The project is widely used in academia in health informatics education and research",
+        " including 233 citations to date (March 2023).  It is used for development and prototyping by commercial industry and government organizations from around the world -- but those organizations must disclose their own identities."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Synthea",
+            "website": "https://synthetichealth.github.io/synthea/",
+            "org_type": "owner",
+            "contact_name": " Jason Walonoski  ",
+            "contact_email": "jwalonoski@mitre.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations.",
+            "privacyComplianceURL": "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
