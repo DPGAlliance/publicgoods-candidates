@@ -1,0 +1,124 @@
+	{
+    "id": "10361",
+    "name": "Artemis",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "\"Artemis is a low-code solution revolutionizing IoT dev by streamlining process, promoting innovation, improving scalability & reliability, supporting latest Web3 standards. Create new devices faster & with more ease, resulting in faster time-to-market & efficient dev & maintenance. #IoT #Web3\"",
+    "website": "artemisaiot.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Artemisiot/ARTEMIS-"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Jordan"
+        ],
+        "deploymentCountries": [
+            "Jordan"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "Artemis is designed for developers who create and maintain IoT devices. It can be used by software developers",
+        " embedded engineers",
+        " and IoT developers who want to simplify the development process for IoT devices. It can also be used by organizations and companies that are involved in the development and production of IoT devices. Additionally",
+        " it can be used by researchers and academics who are working in the field of IoT.\r\n\r\nArtemis can be used by a wide range of professionals and organizations working in the IoT industry. This includes:\r\n\r\n- Software developers and engineers who are responsible for creating and maintaining the software that runs on IoT devices.\r\n- Embedded engineers and firmware developers who are responsible for designing and implementing the hardware and software that run on IoT devices.\r\n- IoT developers who are responsible for creating new IoT solutions and products.\r\n- Product managers and designers who are responsible for creating and launching new IoT products.\r\n- Researchers and academics who are working on new IoT technologies and solutions.\r\n- Organizations and companies that are involved in the development",
+        " production",
+        " and deployment of IoT devices.\r\n\r\nArtemis can be used by organizations of any size",
+        " from small startups to large enterprises",
+        " and in any industry where IoT is used.\r\n\r\nWe are currently collaborating with multiple companies to accelerate the acquisition of our first customers following the launch."
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "We are delighted to announce that Mohammad Al-Soub and Omar Abusalim are the proprietors of this platform, which was expertly crafted by the Artemis team located in Amman, Jordan.",
+            "clearOwnershipURL": "The ownership of the platform appears through the statement shown at the bottom of the official project website"
+        }
+    ],
+    "documentation": "https://jteamspacesordan.notion.site/ARTIMIS-Documentation-8c7cbb1ed0674bd585419ba3a753e4ee",
+    "openStandards": [
+        "Security\r\nWPA2\r\nHTTPS\r\n\r\nAuthentication & Authorization\r\nwe use a basic authentication mechanism using a username and password for the connection to the broker\r\n\r\nweb standards\r\nHTML \r\nCSS\r\n\r\nData Exchange/ Configuration formats\r\nMQTT subscribe/publish\r\nnormal HTTP format \r\njson\r\n"
+    ],
+    "bestPractices": [
+        "Open-source: Artemis is completely open-source and free to use",
+        " allowing for transparency and community-driven development.\r\n\r\nLow-code: Artemis simplifies the process of creating and maintaining IoT devices through its low-code solution",
+        " making it accessible to developers of all skill levels.\r\n\r\nScalability and reliability: Artemis improves the scalability and reliability of IoT systems",
+        " resulting in more robust and dependable infrastructure overall.\r\n\r\nCommunication protocols: Artemis uses open-source solutions such as Google Blocky and Arduino",
+        " HTTP",
+        " MQTT for communication to make IoT development easier.\r\n\r\nSupport for the latest web 3 standards: Artemis powers in the Web 3 standards",
+        " a peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable",
+        " resilient",
+        " and more open.\r\n\r\nSecurity: Artemis provides a more secure",
+        " resilient",
+        " and open web environment that will preserve and grow humanity's knowledge.\r\n\r\nEducation: Artemis uses educational methods to make real products and provides not only a powerful tool for developers to create advanced and innovative IoT devices quickly and easily",
+        " but also an infrastructure that supports the latest Web 3 standards\r\n\r\nFlexibility: Artemis is compatible with different platforms like WordPress",
+        " Elemntor and it is planned to support React JS and React Native in the future.\r\n\r\nAdherence to these best practices and principles can be demonstrated through our open-source codebase",
+        " user-friendly interface",
+        " and support for communication protocols. Additionally",
+        " our adherence to the latest web 3 standards is evident in the way our solution promotes scalability and reliability in IoT systems."
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "BSD-1-Clause",
+            "openLicenseEvidenceURLs": "we show this in our GitHub\r\nhttps://github.com/Artemisiot/ARTEMIS-"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "we show this in our GitHub\r\nhttps://github.com/Artemisiot/ARTEMIS-"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "Artemis, as a low-code solution for IoT developers, can potentially support Sustainable\r\nDevelopment Goals (SDGs) in several ways:\r\nSDG 9 (Industry, Innovation, and Infrastructure): By streamlining the development\r\nprocess for IoT devices, Artemis can help to accelerate innovation in the field of IoT\r\nand promote the development of more robust and reliable infrastructure :\r\nAccelerating Innovation: By providing a low-code solution for IoT developers, Artemis can\r\nmake it easier for developers to create new IoT solutions, allowing for more experimentation\r\nand innovation in the field of IoT. This can help to promote the growth of the IoT industry and\r\ncreate new opportunities for innovation.\r\nImproving Infrastructure: Artemis can help to improve the scalability and reliability of IoT\r\nsystems by making it easier to develop and maintain the software that runs on IoT devices.\r\nThis can lead to more robust and reliable IoT systems overall, which can support the\r\ndevelopment of more resilient and sustainable infrastructure.\r\nEnhancing Industry Efficiency: Artemis can support streamlining the development process\r\nfor IoT devices, leading to faster time-to-market, and more efficient development and\r\nmaintenance, which can help to increase the efficiency and competitiveness of the IoT\r\nindustry.\r\nFostering Entrepreneurship: Artemis can enable entrepreneurs and small businesses to\r\ncreate IoT solutions without needing to spend as much time on the software development\r\naspect, which can foster the growth of small and medium-sized enterprises, which can be\r\ncrucial for economic growth and job creation.\r\nSupporting Digitalization: By making it easier to develop IoT solutions, Artemis can support\r\nthe digitalization of various industries and sectors, leading to more efficient, productive and\r\nsustainable industries, which can be beneficial for global economic growth and development.\r\nSDG 11 (Sustainable Cities and Communities): Artemis can help to develop smart\r\ncities and communities by enabling the creation of IoT solutions that can improve the\r\nmanagement of resources and services, such as energy, water, and transportation.\r\ncan support the achievement of Sustainable Development Goal 11 (SDG 11) which aims to\r\n\"make cities and human settlements inclusive, safe, resilient and sustainable\" by enabling\r\nthe faster and more efficient development of IoT solutions that improve the lives of people in\r\nurban areas.\r\nOne way Artemis can support SDG 11 is by enabling the development of IoT solutions that\r\nimprove the energy efficiency of buildings. For example, by using IoT sensors and devices,\r\nbuildings can monitor and optimize their energy consumption, leading to reduced energy\r\nconsumption, and lower carbon emissions.\r\nAnother way Artemis can support SDG 11 is by enabling the development of IoT solutions\r\nthat improve public transportation. For example, by using IoT sensors and devices, public\r\ntransportation systems can be made more efficient and reliable, leading to reduced traffic\r\ncongestion and improved mobility for citizens.\r\nArtemis can also support SDG 11 by enabling the development of IoT solutions that improve\r\nthe safety and security of cities. For\r\nFurthermore, Artemis can support the development of smart city applications, such as smart\r\nlighting, smart parking, and smart waste management. With the help of these IoT solutions,\r\ncities can be more efficient, sustainable, and livable.\r\nIn conclusion, Artemis can support the achievement of SDG 11 by enabling the faster and\r\nmore efficient development of IoT solutions that improve the energy efficiency of buildings,\r\npublic transportation, safety and security, and smart city applications in urban areas.\r\nSDG 12 (Responsible Consumption and Production): Artemis can help to create IoT\r\nsolutions that can improve the efficiency and sustainability of production and\r\nconsumption, such as by reducing\r\nOne way Artemis can support SDG 12 is by enabling the development of IoT solutions that\r\nmonitor and optimize resource consumption in various industries such as manufacturing,\r\nagriculture, and mining. For example, by using IoT sensors and devices, these industries\r\ncan track and manage their resource consumption in real time, leading to more efficient and\r\nsustainable use of resources.\r\nAnother way Artemis can support SDG 12 is by enabling the development of IoT solutions\r\nthat improve recycling and waste management. For example, by using IoT sensors and\r\ndevices, cities and municipalities can improve their waste collection and recycling processes,\r\nleading to reduced waste and more efficient use of resources.\r\nArtemis can also support the development of IoT solutions that can monitor the\r\nenvironmental impact of consumer products, such as tracking the carbon footprint of\r\nproducts throughout their lifecycle, from production to disposal.\r\nFurthermore, Artemis can support the development of IoT solutions that can monitor the\r\nenvironmental impact of industrial activities such as monitoring the water and air quality, and\r\nwaste management in industrial sites.\r\nIn conclusion, Artemis can support the achievement of SDG 12 by enabling the faster and\r\nmore efficient development of IoT solutions that monitor and optimize resource consumption,\r\nreduce waste and improve recycling in various industries and cities, and also monitor the\r\nenvironmental impact of consumer products and industrial activities.\r\nOverall, Artemis can enable the development of IoT solutions that can contribute to the\r\nachievement of multiple SDGs, depending on the specific application and implementation\r\n.\r\nnote there is a pug in dbg website so the application not taken SDG 9 but we mention it here"
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "Artemis, as a low-code solution for IoT developers, can potentially support Sustainable\r\nDevelopment Goals (SDGs) in several ways:\r\nSDG 9 (Industry, Innovation, and Infrastructure): By streamlining the development\r\nprocess for IoT devices, Artemis can help to accelerate innovation in the field of IoT\r\nand promote the development of more robust and reliable infrastructure :\r\nAccelerating Innovation: By providing a low-code solution for IoT developers, Artemis can\r\nmake it easier for developers to create new IoT solutions, allowing for more experimentation\r\nand innovation in the field of IoT. This can help to promote the growth of the IoT industry and\r\ncreate new opportunities for innovation.\r\nImproving Infrastructure: Artemis can help to improve the scalability and reliability of IoT\r\nsystems by making it easier to develop and maintain the software that runs on IoT devices.\r\nThis can lead to more robust and reliable IoT systems overall, which can support the\r\ndevelopment of more resilient and sustainable infrastructure.\r\nEnhancing Industry Efficiency: Artemis can support streamlining the development process\r\nfor IoT devices, leading to faster time-to-market, and more efficient development and\r\nmaintenance, which can help to increase the efficiency and competitiveness of the IoT\r\nindustry.\r\nFostering Entrepreneurship: Artemis can enable entrepreneurs and small businesses to\r\ncreate IoT solutions without needing to spend as much time on the software development\r\naspect, which can foster the growth of small and medium-sized enterprises, which can be\r\ncrucial for economic growth and job creation.\r\nSupporting Digitalization: By making it easier to develop IoT solutions, Artemis can support\r\nthe digitalization of various industries and sectors, leading to more efficient, productive and\r\nsustainable industries, which can be beneficial for global economic growth and development.\r\nSDG 11 (Sustainable Cities and Communities): Artemis can help to develop smart\r\ncities and communities by enabling the creation of IoT solutions that can improve the\r\nmanagement of resources and services, such as energy, water, and transportation.\r\ncan support the achievement of Sustainable Development Goal 11 (SDG 11) which aims to\r\n\"make cities and human settlements inclusive, safe, resilient and sustainable\" by enabling\r\nthe faster and more efficient development of IoT solutions that improve the lives of people in\r\nurban areas.\r\nOne way Artemis can support SDG 11 is by enabling the development of IoT solutions that\r\nimprove the energy efficiency of buildings. For example, by using IoT sensors and devices,\r\nbuildings can monitor and optimize their energy consumption, leading to reduced energy\r\nconsumption, and lower carbon emissions.\r\nAnother way Artemis can support SDG 11 is by enabling the development of IoT solutions\r\nthat improve public transportation. For example, by using IoT sensors and devices, public\r\ntransportation systems can be made more efficient and reliable, leading to reduced traffic\r\ncongestion and improved mobility for citizens.\r\nArtemis can also support SDG 11 by enabling the development of IoT solutions that improve\r\nthe safety and security of cities. For\r\nFurthermore, Artemis can support the development of smart city applications, such as smart\r\nlighting, smart parking, and smart waste management. With the help of these IoT solutions,\r\ncities can be more efficient, sustainable, and livable.\r\nIn conclusion, Artemis can support the achievement of SDG 11 by enabling the faster and\r\nmore efficient development of IoT solutions that improve the energy efficiency of buildings,\r\npublic transportation, safety and security, and smart city applications in urban areas.\r\nSDG 12 (Responsible Consumption and Production): Artemis can help to create IoT\r\nsolutions that can improve the efficiency and sustainability of production and\r\nconsumption, such as by reducing\r\nOne way Artemis can support SDG 12 is by enabling the development of IoT solutions that\r\nmonitor and optimize resource consumption in various industries such as manufacturing,\r\nagriculture, and mining. For example, by using IoT sensors and devices, these industries\r\ncan track and manage their resource consumption in real time, leading to more efficient and\r\nsustainable use of resources.\r\nAnother way Artemis can support SDG 12 is by enabling the development of IoT solutions\r\nthat improve recycling and waste management. For example, by using IoT sensors and\r\ndevices, cities and municipalities can improve their waste collection and recycling processes,\r\nleading to reduced waste and more efficient use of resources.\r\nArtemis can also support the development of IoT solutions that can monitor the\r\nenvironmental impact of consumer products, such as tracking the carbon footprint of\r\nproducts throughout their lifecycle, from production to disposal.\r\nFurthermore, Artemis can support the development of IoT solutions that can monitor the\r\nenvironmental impact of industrial activities such as monitoring the water and air quality, and\r\nwaste management in industrial sites.\r\nIn conclusion, Artemis can support the achievement of SDG 12 by enabling the faster and\r\nmore efficient development of IoT solutions that monitor and optimize resource consumption,\r\nreduce waste and improve recycling in various industries and cities, and also monitor the\r\nenvironmental impact of consumer products and industrial activities.\r\nOverall, Artemis can enable the development of IoT solutions that can contribute to the\r\nachievement of multiple SDGs, depending on the specific application and implementation\r\n.\r\nnote there is a pug in dbg website so the application not taken SDG 9 but we mention it here"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Artemis",
+            "website": "artemisaiot.com",
+            "org_type": "owner",
+            "contact_name": " DPG#1#dpg  ",
+            "contact_email": "dpg@artemisaiot.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "All rules and laws in the GDPR are applied in Artemis project apply, as the project's policy and work mechanism have been reviewed and compared by the private project's lawyer.",
+            "privacyComplianceURL": "https://gdpr-info.eu/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
