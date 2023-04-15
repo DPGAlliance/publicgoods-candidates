@@ -1,0 +1,111 @@
+	{
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "It is most relevant to Goal 3 of the Sustainable Development Goals, Good Health and Well-Being (Ensure healthy lives and promote well-being for all at all ages). Created in 2014, if-me.org is a free, open source mental health communication platform to share experiences with loved ones. Through our platform and blog, we center marginalized communities that have little or no access to mental health education, resources, and services \u2014 including refugee and immigrant communities and communities of colour. Our app is translated to various languages, including Bahasa Indonesia, Chinese, Dutch, English, French, German, Hindi, Italian, Korean, Norwegian, Portuguese, Spanish, Swedish, and Vietnamese. Our contributor community is well-known for being inclusive with hundreds of developers, designers writers, and advocates from around the world, from non-traditional backgrounds in open source and technology. Our project\u2019s creator, Julia Nguyen has given keynote talks about it at Open Source Bridge, AnxietyTech, Write/Speak/Code, and the Mental Health Association of San Francisco. We were featured on the Code Newbies Podcast and the Huffington Post Blog. We\u2019ve mentored women developers through a paid internship program that Rails Girls Summer of Code has organized."
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "if-me.org",
+            "clearOwnershipURL": "https://www.if-me.org/about"
+        }
+    ],
+    "documentation": "Technical documentation - https://github.com/ifmeorg/ifme/wiki,Installation guide - https://github.com/ifmeorg/ifme/wiki/Installation",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name",
+            "Location (Optional)",
+            "Email address"
+        ],
+        "dataPrivacySecurity": " We enforce the Contributor Covenant Code of Conduct in our contributor community and web app. We also have a Slack Code of Conduct for our contributor community. In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content. Data is not given or made accessible to any third party. Deleting your account will remove all of your data."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "It collects and stores content related to someone's mental health experiences",
+            " self-care strategies",
+            " and medication. It does not distribute the content to third-party services."
+        ],
+        "contentManagementPolicy": "https://www.if-me.org/privacy In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "We enforce the Contributor Covenant Code of Conduct in our contributor community and web app. We also have a [Slack Code of Conduct](https://github.com/ifmeorg/ifme/wiki/Join-Our-Slack#slack-code-of-conduct) for our contributor community. In the web app, you can block and report users. Reported users will go through moderation and users can be permanently blocked. Users can only share content with their allies (other users who consent to sharing content with one another) and there are privacy settings for posts where users can restrict which allies can view content. Contributor Covenant Code of Conduct - https://www.contributor-covenant.org/,Slack Code of Conduct - https://github.com/ifmeorg/ifme/wiki/Join-Our-Slack#slack-code-of-conduct"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Canada",
+            "United States of America"
+        ]
+    },
+    "openStandards": [
+        "Web Content Accessibility Guidelines (WCAG) 2.1",
+        "HTML",
+        "CSS",
+        "ECMAScript https://github.com/ifmeorg/ifme",
+        "https://github.com/ifmeorg/ifme/wiki/Developers Agile development process",
+        "Continuous integration for production deployment - https://github.com/ifmeorg/ifme/wiki/Automated-Testing",
+        "Component-based design system",
+        "Ruby on Rails Coding Standards https://github.com/ifmeorg/ifme/wiki/Backend-Practices",
+        "JavaScript Coding Standards - https://github.com/ifmeorg/ifme/wiki/Frontend-Practices",
+        "React Coding Standards"
+    ],
+    "bestPractices": [
+        "Back-end tests: https://github.com/ifmeorg/ifme/tree/main/spec\r\nFront-end tests are throughout the component folders: https://github.com/ifmeorg/ifme/tree/main/client\r\nDesign System components: https://github.com/ifmeorg/ifme/tree/main/client/app/components\r\nReusable CSS styles and assets: https://github.com/ifmeorg/ifme/tree/main/app/assets/stylesheets"
+    ],
+    "id": "10442",
+    "name": "if me",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Free, open source mental health communication web app to share experiences with loved ones",
+    "website": "https://www.if-me.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/ifmeorg/ifme,https://github.com/ifmeorg/ifme-languagetools"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "if me",
+            "website": "https://www.if-me.org/",
+            "org_type": "owner",
+            "contact_name": " Julia Nguyen  ",
+            "contact_email": "join.ifme@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Personal Information Protection Electronic Documents Act (PIPEDA) in Canada,General Data Protection Regulation EU (GDPR EU) in the European Union,For countries using our software in other regions are responsible for complying with local legislation Privacy policy - https://www.if-me.org/privacy",
+            "privacyComplianceURL": "https://www.if-me.org/privacy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
