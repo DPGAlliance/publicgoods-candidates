@@ -13,7 +13,8 @@ This document lays out the policies that govern the review process of DPG applic
 * The submitted applications can be accessed via their public URLs (URL format: app.digitalpublicgoods.net/a/[ID]) as well as via a PR on [this GitHub repo](https://github.com/DPGAlliance/publicgoods-candidates/pulls)
 
 ### Application Review Policy
-![application_review_policy](https://user-images.githubusercontent.com/86725474/220541491-d6dbe488-c26a-4135-ab7c-d52039c23217.jpeg)
+![application_review_policy](https://user-images.githubusercontent.com/121093229/232466470-84265479-ea78-450f-bbd0-17b7f946637d.png)
+
 
 
 * Each application is assessed against the latest version of the [DPG Standard](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard.md) at time of creating the application
