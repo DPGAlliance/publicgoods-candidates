@@ -77,10 +77,8 @@ This document lays out the policies that govern the review process of DPG applic
 
 ### DPG Status Renewal Policy
 * DPG status is valid for one year from the date of completion of review
-* To ensure that a DPG continues to be in compliance with the latest DPG Standard, they must submit a Renewal application
-* Renewal applications can be created when 45 days or less are remaining before the expiry of DPG status. Renewal application can also be created after the DPG status has expired
-* Renewal applications must be created & submitted via the DPGA webapp
-* Upon a re-review, if the solution is found to be in compliance with the latest DPG Standard, they will be stay listed on the DPG Registry
+* To ensure that a DPG continues to be in compliance with the latest DPG Standard, the application is automatically put back in the pipeline to be re-reviewed after 50 weeks from the date of its last review. 
+* Upon a re-review, if the solution is found to be in compliance with the latest DPG Standard, they will be stay listed on the DPG Registry. Otherwise they will be marked as 'Ineligible'. 
 
 ### Spam Policy
 * Any application that is deemed nonsensical, malicious, irrelevant or in violation of our [Code of Conduct](https://github.com/DPGAlliance/DPG-Standard/blob/main/CODE_OF_CONDUCT.md) will not be reviewed and will be removed immediately
