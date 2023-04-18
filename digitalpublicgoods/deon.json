@@ -65,7 +65,7 @@
         ""
       ],
       "ensurePrivacySecurity": "Yes",
-      "privacySecurityDescription": ">     The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise). "
+      "privacySecurityDescription": ">     The digital solution is an open-source package. Other people may use this library in their own projects or to work with their own data. It does not collect/store any data (PII or otherwise). "
     },
     "inappropriateIllegalContent": {
       "collectStoreDistribute": "No",
