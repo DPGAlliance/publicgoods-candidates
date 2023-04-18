@@ -1,0 +1,127 @@
+	{
+    "id": "10233",
+    "name": "Standard for Public Code",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The Standard for Public Code provides guidance to public organizations building open source software on how to enable successful future reuse by other public organizations.",
+    "website": "https://standard.publiccode.net/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/publiccodenet/standard"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \r\n\r\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:"
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \r\n\r\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:"
+        },
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \r\n\r\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \r\n\r\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC0-1.0",
+            "openLicenseEvidenceURLs": "https://github.com/publiccodenet/standard/blob/master/LICENSE.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Foundation for Public Code",
+            "clearOwnershipURL": "https://standard.publiccode.net/GOVERNANCE.html"
+        }
+    ],
+    "documentation": "https://github.com/publiccodenet/standard",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The project does not identify, collect or store the age of the audience, nor enforce age limits. The target audience to use the Standard are civil servants (policy makers, managers), and developers and designers. Anyone is allowed to contribute to the Standard via the GitHub repository. Contributions must abide by our code of conduct. Our code of conduct is enforced as follows:,Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at directors@publiccode.net. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.,Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project\u2019s leadership."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Netherlands"
+        ],
+        "deploymentCountries": [
+            "Denmark",
+            "France",
+            "Germany",
+            "Netherlands"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Provincie Zuid-Holland",
+        " Gemeente Amsterdam"
+    ],
+    "otherDeploymentOrganisations": [
+        "VNG",
+        " Dimpact"
+    ],
+    "openStandards": [
+        "The Standard requires or strongly encourages users to meet or use:",
+        "Web Content Accessibility Guidelines 2.1 (https://www.w3.org/TR/WCAG21/) ",
+        "Public code (https://github.com/italia/publiccode.yml)",
+        "Business Process Model and Notation (BPMN)",
+        "Decision Model Notation (DMN)",
+        "Case Management Model Notation (CMMN)",
+        "Open Source Initiative Open Standard Requirements (https://opensource.org/osr)",
+        "Open Source Institute approved open source license (https://opensource.org/licenses/category)",
+        "RFC 2119 "
+    ],
+    "bestPractices": [
+        "WCAAG 2: https://standard.publiccode.net/criteria/understandable-english-first.html#requirements",
+        "publiccode.yml: https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html#requirements",
+        "BPMN",
+        " DMN or CMMN: https://standard.publiccode.net/criteria/bundle-policy-and-code.html#policy-makers:-what-you-need-to-do",
+        "Open standards: https://standard.publiccode.net/criteria/open-standards.html#requirements",
+        "Open source licence: https://standard.publiccode.net/criteria/open-licenses.html",
+        "RFC 2119: https://standard.publiccode.net/readers-guide.html"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Standard for Public Code",
+            "website": "https://standard.publiccode.net/",
+            "org_type": "owner",
+            "contact_name": " Jan Ainali  ",
+            "contact_email": "jan@publiccode.net"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR, The project encourages users to avoid sharing sensitive data on their own platforms. \r\n ",
+            "privacyComplianceURL": "Reference: https://standard.publiccode.net/criteria/code-in-the-open.html The Standard for Public Code is best practice guidance for developing open source software projects. Though public bodies implementing the Standard are subject to laws, the Standard itself is not. The Standard does not encourage illegal behavior."
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
