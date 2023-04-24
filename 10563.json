@@ -1,0 +1,108 @@
+	{
+    "id": "10563",
+    "name": "GeoWrangler",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "N/A"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "GeoWrangler is a pure python library made to shorten geodata transformation workflows with no out-of-the-box solutions. It\u2019s designed to help data scientists process data faster so they can focus on modeling and analytics.",
+    "website": "https://geowrangler.thinkingmachin.es/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/thinkingmachines/geowrangler"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "GeoWrangler is a data analysis tool that is usable across multiple SDGs or focus areas.\r\n\r\nWe think it best fits with SDG17 which covers operationalizing technology bank and science, and enhancing the use of enabling technology.\r\n\r\nSource: \r\nhttps://sdgs.un.org/goals/goal17\r\n\r\n\u201cFully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology\u201d\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/thinkingmachines/geowrangler/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Thinking Machines Data Science Inc.",
+            "clearOwnershipURL": "Thinking Machines owns the copyright and outlines the terms of service (MIT). Please refer to our license for more information.\r\n\r\nhttps://github.com/thinkingmachines/geowrangler/blob/master/LICENSE"
+        }
+    ],
+    "documentation": "https://geowrangler.thinkingmachin.es/\r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Test suite and Formatting/linting (via pre-commit: black",
+        " flake8",
+        " isort",
+        " nbqa)\r\n\r\nTest suite: https://github.com/thinkingmachines/geowrangler/tree/master/tests\r\n\r\nFormatting/linting: https://github.com/thinkingmachines/geowrangler/blob/master/.pre-commit-config.yaml"
+    ],
+    "bestPractices": [
+        "> Formatting/linting: black",
+        " flake8",
+        " isort\r\n> Unit tests/Code Coverage: pytest (sample result: https://github.com/thinkingmachines/geowrangler/actions/runs/3537297550/jobs/6061355880#step:7:141)\r\n> Automated CI checks: github actionsfor pytest",
+        " formatting/linting checks",
+        " automated documentation deployment; pre-commit hooks)\r\nhttps://github.com/thinkingmachines/geowrangler/tree/master/.github/workflows"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "We have in-house maintainers or community leaders who review posts and contributions made by other users and contributors.\r\n\r\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at geowrangler@thinkingmachin.es. \r\n\r\nAll complaints will be reviewed and investigated promptly and fairly.\r\n\r\nMore information can be found on our code of conduct: https://github.com/thinkingmachines/geowrangler/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Philippines"
+        ],
+        "deploymentCountries": [
+            "Philippines",
+            "Thailand"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "None"
+    ],
+    "otherDeploymentOrganisations": [
+        "UNICEF East Asia and Pacific Regional Office"
+    ],
+    "awardsReceived": [
+        "None"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "GeoWrangler",
+            "website": "https://geowrangler.thinkingmachin.es/",
+            "org_type": "owner",
+            "contact_name": " Thinking Machines Data Science  ",
+            "contact_email": "data-for-development@thinkingmachin.es"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GeoWrangler is hosted on pypi and github. It does not collect usage tracking information on its software.",
+            "privacyComplianceURL": "N/A"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
