@@ -1,0 +1,123 @@
+	{
+    "id": "10555",
+    "name": "EKSHOP MARKETPLACE",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "ekShop marketplace is a robust and adaptable eCommerce platform that is free and open-source. It is designed to cater to the needs of any potential entrepreneur who wants to set up an online store quickly and efficiently. With its customizable and configurable features, ekShop can be tailored to suit your specific requirements.",
+    "website": "https://dpg.ekshop.gov.bd",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/a2i-dpg/ekShop"
+        }
+    ],
+    "documentation": "Please follow the below link for all types of ekShop marketplace documentation\r\n\r\nhttps://github.com/a2i-dpg/ekShop-doc\r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/a2i-dpg/ekShop/blob/master/LICENSE"
+        }
+    ],
+    "openStandards": [
+        "Authentication & Authorization: OAuth 2\r\nInternationalization (i18n): UTF-8\r\nWeb standards: HTML",
+        "CSS",
+        " JavaScript ",
+        " PHP (Laravel) \r\nApplication Programming Interfaces (APIs): OpenAPI\r\nStandard Content formats: PDF",
+        " Excel",
+        " CSV\r\nMultimedia:\r\n    SVG (Scalable Vector Graphics)\r\n    PNG (Portable Network Graphics)\r\n    JPEG (Joint Photographic Experts Group)\r\n    MP4 (MPEG-4 Part 14)\r\n"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC): Agile development\r\nArchitectural Design: SOLID principles of object oriented programming\r\nUser Interface/ User Experience (UI /UX): Human Centered Design Principles\r\nOpen Source: Best practices For Open Source Maintainers\r\nData Principles: FAIR Data Principles"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "This is a e-commerce platform. In that case this app stores user name and address but this information is only used for the delivery location purpose and only stored after public user accepts the terms and condition . This information is not distributed anywhere else."
+        ],
+        "dataPrivacySecurity": "Encryption: The website can use encryption technologies such as SSL or TLS to secure communications and transactions between the website and its users.\r\n\r\nSecure Payment Gateway: The website should use a secure payment gateway that adheres to the Payment Card Industry Data Security Standard (PCI DSS) to ensure the safety of user's payment information.\r\n\r\nTwo-factor Authentication: The website can implement two-factor authentication to add an extra layer of security to the login process.\r\n\r\nPrivacy Policy: The website can have a clear and concise privacy policy that explains how user data is collected, stored, and used, and obtain users' consent before collecting any personal data.\r\n\r\nRegular Security Audits: Regular security audits can be conducted to identify vulnerabilities and ensure that the website is in compliance with industry standards and best practices.\r\n\r\nStaff Training: The website's staff should be trained to handle user data with care, including following the website's privacy and security policies, and identifying and reporting any potential security breaches."
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Aspire to Innovate (a2i) Programme ( A Multinational Digital Transformation Catalyst from the Government of Bangladesh) ",
+            "clearOwnershipURL": "Project Domain:  https://dpg.ekshop.gov.bd\r\nSource Code:      https://github.com/a2i-dpg/ekShop\r\nDocumentation:  https://github.com/a2i-dpg/ekShop-doc"
+        }
+    ],
+    "locations": {
+        "developmentCountries": [
+            "Bangladesh"
+        ],
+        "deploymentCountries": [
+            "Bangladesh"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Bangladesh Goverment ",
+        " Bangladesh ICT Ministry",
+        "  \r\na2i : A Multinational Digital Transformation Catalyst from the Government of Bangladesh"
+    ],
+    "otherDeploymentOrganisations": [
+        "n/a"
+    ],
+    "awardsReceived": [
+        "no"
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "SDG 1: No Poverty - Ecommerce solutions can provide access to markets and increase economic opportunities for people living in poverty.\r\nSDG 8: Decent Work and Economic Growth - Ecommerce solutions can create jobs, support entrepreneurship, and promote economic growth. (Target: 8.1, 8.2, 8.3, 8.6, 8.7, 8.8)\r\nSDG 9: Industry, Innovation and Infrastructure - Ecommerce solutions rely on digital infrastructure and can help to drive innovation in the technology sector.  (Target: 9.1, 9.2 ,9.3, 9.A ,9.B, 9.C)\r\nSDG 10: Reduced Inequalities - Ecommerce solutions can reduce barriers to entry for small businesses and support greater economic inclusion for marginalized communities. (Target:\r\n10.3 , 10.4) \r\nSDG 12: Responsible Consumption and Production - Ecommerce solutions can support sustainable consumption by providing information on product sourcing and sustainability, as well as facilitating responsible production practices.(Target: 12.2,12.A)"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "SDG 1: No Poverty - Ecommerce solutions can provide access to markets and increase economic opportunities for people living in poverty.\r\nSDG 8: Decent Work and Economic Growth - Ecommerce solutions can create jobs, support entrepreneurship, and promote economic growth. (Target: 8.1, 8.2, 8.3, 8.6, 8.7, 8.8)\r\nSDG 9: Industry, Innovation and Infrastructure - Ecommerce solutions rely on digital infrastructure and can help to drive innovation in the technology sector.  (Target: 9.1, 9.2 ,9.3, 9.A ,9.B, 9.C)\r\nSDG 10: Reduced Inequalities - Ecommerce solutions can reduce barriers to entry for small businesses and support greater economic inclusion for marginalized communities. (Target:\r\n10.3 , 10.4) \r\nSDG 12: Responsible Consumption and Production - Ecommerce solutions can support sustainable consumption by providing information on product sourcing and sustainability, as well as facilitating responsible production practices.(Target: 12.2,12.A)"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "SDG 1: No Poverty - Ecommerce solutions can provide access to markets and increase economic opportunities for people living in poverty.\r\nSDG 8: Decent Work and Economic Growth - Ecommerce solutions can create jobs, support entrepreneurship, and promote economic growth. (Target: 8.1, 8.2, 8.3, 8.6, 8.7, 8.8)\r\nSDG 9: Industry, Innovation and Infrastructure - Ecommerce solutions rely on digital infrastructure and can help to drive innovation in the technology sector.  (Target: 9.1, 9.2 ,9.3, 9.A ,9.B, 9.C)\r\nSDG 10: Reduced Inequalities - Ecommerce solutions can reduce barriers to entry for small businesses and support greater economic inclusion for marginalized communities. (Target:\r\n10.3 , 10.4) \r\nSDG 12: Responsible Consumption and Production - Ecommerce solutions can support sustainable consumption by providing information on product sourcing and sustainability, as well as facilitating responsible production practices.(Target: 12.2,12.A)"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "SDG 1: No Poverty - Ecommerce solutions can provide access to markets and increase economic opportunities for people living in poverty.\r\nSDG 8: Decent Work and Economic Growth - Ecommerce solutions can create jobs, support entrepreneurship, and promote economic growth. (Target: 8.1, 8.2, 8.3, 8.6, 8.7, 8.8)\r\nSDG 9: Industry, Innovation and Infrastructure - Ecommerce solutions rely on digital infrastructure and can help to drive innovation in the technology sector.  (Target: 9.1, 9.2 ,9.3, 9.A ,9.B, 9.C)\r\nSDG 10: Reduced Inequalities - Ecommerce solutions can reduce barriers to entry for small businesses and support greater economic inclusion for marginalized communities. (Target:\r\n10.3 , 10.4) \r\nSDG 12: Responsible Consumption and Production - Ecommerce solutions can support sustainable consumption by providing information on product sourcing and sustainability, as well as facilitating responsible production practices.(Target: 12.2,12.A)"
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "SDG 1: No Poverty - Ecommerce solutions can provide access to markets and increase economic opportunities for people living in poverty.\r\nSDG 8: Decent Work and Economic Growth - Ecommerce solutions can create jobs, support entrepreneurship, and promote economic growth. (Target: 8.1, 8.2, 8.3, 8.6, 8.7, 8.8)\r\nSDG 9: Industry, Innovation and Infrastructure - Ecommerce solutions rely on digital infrastructure and can help to drive innovation in the technology sector.  (Target: 9.1, 9.2 ,9.3, 9.A ,9.B, 9.C)\r\nSDG 10: Reduced Inequalities - Ecommerce solutions can reduce barriers to entry for small businesses and support greater economic inclusion for marginalized communities. (Target:\r\n10.3 , 10.4) \r\nSDG 12: Responsible Consumption and Production - Ecommerce solutions can support sustainable consumption by providing information on product sourcing and sustainability, as well as facilitating responsible production practices.(Target: 12.2,12.A)"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "EKSHOP MARKETPLACE",
+            "website": "https://dpg.ekshop.gov.bd",
+            "org_type": "owner",
+            "contact_name": " a2i  ",
+            "contact_email": "dpg@a2i.gov.bd"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Security Standards\r\nPrivacy Standards\r\nUser Experience (UX) Standards\r\nPerformance and Scalability Standards\r\nBest Practices for Customer Support\r\nEthical and Legal Standards",
+            "privacyComplianceURL": "\r\nSecurity Standards:This solution adhere to industry-standard security measures such as Secure Sockets Layer (SSL) encryption, Payment Card Industry Data Security Standard (PCI DSS) compliance, and two-factor authentication (2FA).\r\nTest: (https://www.ssllabs.com/ssltest/) \r\n\r\nPrivacy Standards: E-commerce platforms follows the privacy laws of the jurisdictions in which they operate. This may include GDPR, CCPA, and other relevant regulations that require the collection, storage, and processing of personal data in a specific manner.\r\nTest: (https://www.eff.org/privacybadger) \r\n\r\nUser Experience (UX) Standards: This solution have a seamless user experience that allows users to easily navigate and purchase products or services. This includes clear product descriptions, easy payment and checkout options, and clear return and refund policies.\r\nTest: (https://www.usertesting.com/) \r\n\r\nPerformance and Scalability Standards:This solution have robust performance and scalability to handle high traffic volumes during peak periods. This includes fast page loading times, minimal downtime, and the ability to handle high transaction volumes.\r\nTest: (https://www.webpagetest.org/) \r\n\r\nBest Practices for Customer Support: This solution have a robust customer support system that includes live chat, email support, and phone support. This is essential to address customer queries and ensure customer satisfaction.\r\nTest:  (https://www.zendesk.com/)\r\n\r\nEthical and Legal Standards: This solution adhere to ethical and legal standards, including fair business practices, intellectual property laws, and consumer protection laws.\r\n The Electronic Frontier Foundation's (EFF) Surveillance Self-Defense (SSD) guide (https://ssd.eff.org/) provides guidance on how to protect user privacy and comply with relevant laws and regulations.\r\n"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
