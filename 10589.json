@@ -1,0 +1,136 @@
+	{
+    "sdgs": [
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "Online violence against women is a pervasive problem. By creating a strong community moderation platform and strategy guides, we help make the internet a safer place for women,\r\n \r\nCommunity engagement is a core piece of digital infrastructure. Our platform empowers moderation and community management to empower online conversation,\r\n \r\nOur platform, built and designed by a diverse team, is designed to create more productive, welcoming online communities, with software and research designed to reduce online racism and abuse,\r\n \r\nBy designing safer community software for major media organizations, we empower both state broadcasters and local news startups to improve online dialog without the abuse and spam that plagues conversation"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "Online violence against women is a pervasive problem. By creating a strong community moderation platform and strategy guides, we help make the internet a safer place for women,\r\n \r\nCommunity engagement is a core piece of digital infrastructure. Our platform empowers moderation and community management to empower online conversation,\r\n \r\nOur platform, built and designed by a diverse team, is designed to create more productive, welcoming online communities, with software and research designed to reduce online racism and abuse,\r\n \r\nBy designing safer community software for major media organizations, we empower both state broadcasters and local news startups to improve online dialog without the abuse and spam that plagues conversation"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/coralproject/talk/blob/develop/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Vox Media",
+            "clearOwnershipURL": "https://coralproject.net/about-2/"
+        }
+    ],
+    "documentation": "https://docs.coralproject.net",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "You can use the API or a db dump. We don't get any access to any information whatsoever - we don't even know if you're running the software - but in order for it to work, people have to create accounts, and that information lives on your servers"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Email address",
+            "Username (which can contain PII)"
+        ],
+        "dataPrivacySecurity": " We always consider how any feature could be used by a hostile force, eg abuser, spammer, troll. We will not ship any feature that can be used also to troll without strong mitigation principles.  https://medium.com/the-coral-project/by-andrew-losowsky-head-of-coral-365c44152149  https://docs.coralproject.net/gdpr"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "UGC via comments"
+        ],
+        "contentManagementPolicy": "https://coralproject.net/acceptable-use-policy/ We have several mechanisms in place to prevent spam and abuse, including optional integration of AI (including free-to-use AI services), the ability to block/flag/remove users, domains, and language, and much more"
+    },
+    "openStandards": [
+        "JWT standards https://docs.coralproject.net/sso ",
+        "Structured object types via RESTful-like API through GraphQL https://docs.coralproject.net/api/schema https://app.circleci.com/pipelines/github/coralproject/talk https://digitalprinciples.org/",
+        "https://www.mozilla.org/en-US/about/manifesto/",
+        "CI linting https://github.com/coralproject/talk/blob/develop/CONTRIBUTING.md"
+    ],
+    "bestPractices": [
+        "User stories\r\nChange management using version control\r\nTest driven development using automated tests\r\nCode review\r\nCode refactoring\r\nRapid application development\r\nAgile development\r\nArchitectural Principles\r\nModularity and Maintainability\r\nReusability and Extensibility\r\nAccountability & Non-repudiability\r\nSecurity & Consented Access\r\nUniversal Access & Open APIs\r\nHuman Centered Design Principles\r\nEnables Multi-factor authentication (MFA)\r\nProtect data at rest (data encryption",
+        " using a firewall",
+        " antivirus protection",
+        " schedule backups)\r\nProtect data in transit (encrypt data in transit using TLS/SSL",
+        " authenticate data integrity using TLS/SSL",
+        " use X.509 certificates to authenticate the remote end)"
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": " The entire platform is built around best-in-class safety and moderation tools. Users can mute each other, flag/report abusive content, and moderators have dozens of dedicated tools to help spot, remove, and take action against grief, abuse, harassment "
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "Germany",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Australia",
+            "Austria",
+            "Belgium",
+            "Brazil",
+            "Canada",
+            "Chile",
+            "Denmark",
+            "Finland",
+            "France",
+            "Germany",
+            "Montenegro",
+            "Netherlands",
+            "New Zealand",
+            "Norway",
+            "Poland",
+            "Serbia",
+            "Spain",
+            "Switzerland",
+            "United Kingdom",
+            "United States of America",
+            "Uruguay"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "State broadcasters in France and Norway"
+    ],
+    "id": "10589",
+    "name": "Coral",
+    "aliases": [
+        "The Coral Project"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Open source commenting platform free from adtech and surveillance",
+    "website": "https://coral.voxmedia.com/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/coralproject/talk/"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Coral",
+            "website": "https://coral.voxmedia.com/",
+            "org_type": "owner",
+            "contact_name": " Andrew Losowsky  ",
+            "contact_email": "andrew.losowsky@voxmedia.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "We don't host any of your data (unless we have a separate paid relationship with you), so it is up to each individual host to ensure that they are compliant. However, we provide the infrastructure and tooling to make compliance easy for GDPR, PIPEDA, CCPA, etc. https://docs.coralproject.net/gdpr",
+            "privacyComplianceURL": " https://docs.coralproject.net/gdpr"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
