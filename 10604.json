@@ -1,0 +1,112 @@
+	{
+    "sdgs": [
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "This AI model could be relevant for:\r\n\r\n1. Analyzing gender representation in online discussions: It can help researchers and policymakers understand the representation and participation of different genders in online conversations around important topics. This can lead to more inclusive policies and strategies that address gender-based disparities in digital spaces.\r\n\r\n2. Identifying gender bias: it can help detect gender bias in language and content shared on social media platforms like Twitter. Organizations can develop initiatives to raise awareness and promote a more equitable online environment by analyzing the frequency and context of gendered language and stereotypes.\r\n\r\n3. Monitoring gender-based harassment: It can help identify and track instances of gender-based harassment and cyberbullying on social media. This information can be used to develop and implement policies that protect and support individuals who may be targeted due to their gender.\r\n\r\n4. Evaluating the impact of gender equality campaigns: It can be used to analyze the effectiveness of online campaigns that promote gender equality, by tracking changes in the volume and tone of gender-related discussions on social media platforms over time.\r\n\r\n5. Enhancing gender diversity in content recommendation:It can be used to ensure that content recommendation algorithms on social media platforms and other digital spaces provide users with a diverse range of perspectives and voices, including those from different genders."
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://www.citibeats.com/open-rail-m-license-for-citibeats"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "The Social Coin, SL.",
+            "clearOwnershipURL": "https://huggingface.co/CitibeatsAI/miniam2"
+        }
+    ],
+    "documentation": "https://huggingface.co/CitibeatsAI/miniam2",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Spain"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Canada",
+            "Colombia",
+            "Ecuador",
+            "El Salvador",
+            "France",
+            "Guatemala",
+            "Mexico",
+            "Nicaragua",
+            "Peru",
+            "United States of America"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme",
+        "World Health Organization (WHO)",
+        " World Bank"
+    ],
+    "otherDeploymentOrganisations": [
+        "Hp",
+        " Mercedes-Benz",
+        " WEF"
+    ],
+    "id": "10604",
+    "name": "Gender Detection AI Model",
+    "aliases": [
+        "Miniam2"
+    ],
+    "categories": [
+        "Open AI Model"
+    ],
+    "description": "multilingual model to detect the gender and organizational status of Twitter users based on their name, screen_name, and bio description, that is lighter and outperforms the state-of-the-art M3 model. ",
+    "website": "https://huggingface.co/CitibeatsAI/miniam2",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://huggingface.co/CitibeatsAI/miniam2"
+        }
+    ],
+    "openStandards": [
+        "UTF-8 "
+    ],
+    "bestPractices": [
+        "Citibeats adheres to the Open Responsible AI Model as explain in our license https://www.citibeats.com/open-rail-m-license-for-citibeats\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Gender Detection AI Model",
+            "website": "https://huggingface.co/CitibeatsAI/miniam2",
+            "org_type": "owner",
+            "contact_name": " Marcos Cuevas  ",
+            "contact_email": "mcuevas@citibeats.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Our solution is a trained AI model that is only applicable to Public Shared Data by Social Networks users so it's in full compliance with GDPR. ",
+            "privacyComplianceURL": "https://www.citibeats.com/open-rail-m-license-for-citibeats"
+        }
+    ],
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
