@@ -1,0 +1,145 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/ckan/ckan#copying-and-license\r\nhttps://github.com/ckan/ckan/blob/master/LICENSE.txt"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "CKAN is agnostic in terms of the data files and formats that can be published, but strongly promotes the use of generally used standards like CSV or JSON. Data can be published in bulk using the API, and it can be exported in several standard formats including CSV, XML and JSON, both from the user interface and using the API."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG4: Quality Education",
+            "SDG7: Affordable and Clean Energy",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG10: Reduced Inequalities",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG13: Climate Action",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "CKAN was originally developed to publish Open Data so it has a strong focus on helping publishing data that benefits communities and can be reused to build insights and deliver impact. It is used by UNHCR to centralize data about refugees and by UNOCHA to host humanitarian data, as well as by several other non-profit organizations working on tackling inequalities around the world (SDG1, SDG10). It is also trusted by many government institutions to publish data that is critical for transparency, accountability and that promotes economic growth (SDG11, SDG8, SDG16). Other organizations like Energinet in Denmark use CKAN to publish energy related data (SDG7)."
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "CKAN assets are held in trust by Open Knowledge Foundation, a non-profit organization, with best practice policies on governing openly and for use of the trademark.",
+            "clearOwnershipURL": "https://github.com/ckan/ckan/blob/master/LICENSE.txt\r\nhttps://ckan.org/faq/essential\r\nhttps://euipo.europa.eu/eSearch/#details/trademarks/011961158"
+        }
+    ],
+    "documentation": "The main technical documentation of the project can be found at https://docs.ckan.org. \r\n\r\nThis includes documentation on installation and upgrading, technical architecture, API reference, extending with plugins guide, configuration options etc.\r\n\r\nOther less structured materials are compiled in the public wiki of the project: https://github.com/ckan/ckan/wiki\r\n\r\nThese include migration guides (https://github.com/ckan/ckan/wiki/CKAN-2.9-to-2.10-migration-tips), internal mechanism descriptions (https://github.com/ckan/ckan/wiki/Login-and-Authentication-internals), etc.\r\n",
+    "openStandards": [
+        "CKAN uses open standards by design",
+        " promoting interoperability via an RPC style JSON based API (https://docs.ckan.org/en/2.10/api/index.html)",
+        " storing reusable configuration in JSON or YAML formats",
+        " exporting data as CSV",
+        " etc. Via extensions",
+        " site maintainers can adopt further standards like DCAT-based metadata",
+        " authentication via SAML2 or OAuth2",
+        " etc"
+    ],
+    "bestPractices": [
+        "The CKAN community embraces best practices at all levels",
+        " from the development stage using industry-standard open libraries and test driven development",
+        " code reviews and semantic versioning to the open source community management including community communication channels (https://gitter.im/ckan/chat) and the enforcing of a Code of Conduct (https://github.com/ckan/ckan/blob/master/CODE_OF_CONDUCT.md)"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "CKAN places no restriction on the data that can be hosted by it",
+            " so it is up to site maintainers to ensure that PII is properly handled and stored."
+        ],
+        "dataPrivacySecurity": "While CKAN does not limit the type of data stored, it allows site maintainers to put the necessary checks in place to ensure data is kept private and secure, with the ability to customize authorization, integrate with existing authentication systems, etc."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "CKAN places no restriction on the content that can be hosted by it",
+            " so it is up to site maintainers to ensure that inappropriate and illegal content is not published."
+        ],
+        "contentManagementPolicy": "CKAN provides mechanisms for administrators to permanently delete any inappropriate or illegal content via the user interface or API, as well as audit trails to capture the activity surrounding a particular asset."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "Germany",
+            "Spain",
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Canada",
+            "Finland",
+            "Germany",
+            "Ireland",
+            "North Macedonia",
+            "Spain",
+            "Ukraine"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        "United Nations Human Rights Council (UNHRC)",
+        "World Food Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "Several hundreds of CKAN instances exist around the world",
+        " including National Governments e.g. Canada (https://open.canada.ca/en/open-data)",
+        " USA (https://catalog.data.gov)",
+        " Finland (https://www.avoindata.fi/)",
+        " Argentina (https://www.datos.gob.ar/)",
+        " Japan (https://data.go.jp/)",
+        " Germany (https://www.govdata.de/) etc. and Sub-national and Local governments e.g. Montreal (https://donnees.montreal.ca/)",
+        " Barcelona (https://opendata-ajuntament.barcelona.cat/)",
+        " Buenos Aires (https://data.buenosaires.gob.ar/). A more comprehensive list may be found at https://datashades.info"
+    ],
+    "otherDeploymentOrganisations": [
+        "CKAN is used by many multilateral organizations like UNHCR",
+        " OCHA",
+        " WFP and FAO",
+        " as well as philanthropic organizations like the Bill and Melinda Gates Foundation. Additionally there are several instances managed by grass root community movements like Code For Africa (https://openafrica.org)",
+        " Civic Data Lab (https://justicehub.in) and Digital Fems (https://genderdatalab.org)."
+    ],
+    "id": "10593",
+    "name": "CKAN",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "CKAN is an Open Source Data Management System to build Data Portals. Trusted by hundreds of portals across the world and supported by an active community, it focuses on extensibility and integration with other tools.",
+    "website": "https://ckan.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/ckan/ckan"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "CKAN",
+            "website": "https://ckan.org",
+            "org_type": "owner",
+            "contact_name": " Adri\u00e0 Mercader  ",
+            "contact_email": "adria.mercader@okfn.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "CKAN is not a service tied to a particular jurisdiction, but it provides the necessary tools to help site maintainers comply with their local legislation, allowing the removal of user details and storing PII following secure industry standards.",
+            "privacyComplianceURL": "CKAN is not a service tied to a particular jurisdiction, but it provides the necessary tools to help site maintainers comply with their local legislation, allowing the removal of user details and storing PII following secure industry standards."
+        }
+    ],
+    "aliases": "",
+    "awardsReceived": ""
+}
