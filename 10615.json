@@ -1,0 +1,222 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education"
+        ],
+        "relevance": "Moodle is the world's most customisable and trusted eLearning solution that empowers educators to improve our world."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/moodle/moodle/blob/master/COPYING.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Moodle Pty Ltd",
+            "clearOwnershipURL": "https://docs.moodle.org/dev/License"
+        }
+    ],
+    "documentation": "Installation guide - https://docs.moodle.org/402/en/Installation_quick_guide,https://docs.moodle.org",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Backup, restores, different open data extraction formats or SQL queries against the DB. Reference - https://docs.moodle.org/402/en/Migration_from_Moodle"
+    },
+    "openStandards": [
+        "JWT",
+        "Oauth2",
+        "XSD",
+        "XAPI",
+        "XSLT",
+        "XML https://docs.moodle.org/402/en/LTI_and_Moodle",
+        "https://docs.moodle.org/402/en/Migration_from_Moodle",
+        "https://docs.moodle.org/dev/Experience_API_(xAPI)",
+        "https://moodle.com/security-privacy/",
+        "https://docs.moodle.org/dev/Privacy_API",
+        "https://www.imsglobal.org/activity/learning-tools-interoperability",
+        "https://www.imsglobal.org/question/index.html",
+        "https://xapi.com/overview/ Principles for Digital Development: Design with the user",
+        " Understand the existing ecosystem",
+        " Design for scale",
+        " Build for sustainability",
+        " Be data driven",
+        " Use open standard",
+        " open data",
+        " open source and open innovation",
+        " Reuse and improve",
+        " Address privacy and security",
+        " Be collaborative"
+    ],
+    "bestPractices": [
+        "Moodle is open source and integrates with other tools via its own API and also via standards like xAPI and LTI"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "Student personal information",
+            "Student results"
+        ],
+        "dataPrivacySecurity": "Moodle is a piece of open-source software, so we don't generally host the tool nor have access to student or content data. The hosting entity (typically the institution itself or a company providing this service) does have access to the content and student data. The tool is so built that privacy is at its core, plus a series of plugins are maintained to allow for extra functionality in this regard: \r\n - https://moodle.org/plugins/tool_dataprivacy (Moodle HQ) \r\n- https://moodle.org/plugins/local_gdpr_deleteuserdata (external contributor) \r\n - https://moodle.org/plugins/local_revoke_consent (external contributor)  \r\n - https://moodle.org/plugins/block_blurnames (external contributor) \r\n In general, Moodle is built on the principle that users must have sovereignty over their data, so disclosures to third-parties are not allowed. The institutions that typically deploy Moodle also value integrity and security as a reason to choose Moodle, for example government agencies or military branches, schools with data of minors or tech agencies working on behalf of the Ministries of Education, be them global or regional. https://moodle.com/security-privacy/ https://moodle.com/security-privacy/"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Learning materials - The project is neutral regarding content",
+            " and all moderation is left to the institution deploying the software."
+        ],
+        "contentManagementPolicy": " Learning materials - The project is neutral regarding content, and all moderation is left to the institution deploying the software."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "https://docs.moodle.org/402/en/Data_privacy"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Australia",
+            "Spain",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Albania",
+            "Algeria",
+            "Andorra",
+            "Argentina",
+            "Australia",
+            "Austria",
+            "Bangladesh",
+            "Belarus",
+            "Belgium",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Brazil",
+            "Bulgaria",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Chile",
+            "China",
+            "Colombia",
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czechia (Czech Republic)",
+            "Denmark",
+            "Ecuador",
+            "Egypt",
+            "Equatorial Guinea",
+            "Estonia",
+            "Ethiopia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Guatemala",
+            "Hungary",
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Latvia",
+            "Lithuania",
+            "Luxembourg",
+            "Malaysia",
+            "Mali",
+            "Malta",
+            "Mexico",
+            "Moldova",
+            "Monaco",
+            "Mongolia",
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Netherlands",
+            "New Zealand",
+            "Nicaragua",
+            "North Macedonia",
+            "Norway",
+            "Pakistan",
+            "Palestine State",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "Saudi Arabia",
+            "Senegal",
+            "Serbia",
+            "Singapore",
+            "Scotland",
+            "Slovakia",
+            "Slovenia",
+            "South Africa",
+            "South Korea",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Syria",
+            "Thailand",
+            "Timor-Leste",
+            "Tunisia",
+            "Turkey",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States of America",
+            "Uruguay",
+            "Venezuela",
+            "Vietnam",
+            "Yemen"
+        ]
+    },
+    "id": "10615",
+    "name": "Moodle LMS",
+    "aliases": [
+        "Moodle"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Moodle is the world's most customisable and trusted Learning Management System that empowers educators to improve our world.",
+    "website": "https://moodle.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/moodle/moodle"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Moodle LMS",
+            "website": "https://moodle.org",
+            "org_type": "owner",
+            "contact_name": " Carles Aguil\u00f3-Collado  ",
+            "contact_email": "technology-partners@moodle.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR Moodle's data protection pledge of commitment - https://docs.moodle.org/402/en/GDPR",
+            "privacyComplianceURL": "https://moodle.com/news/moodles-data-protection-pledge-commitment"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
