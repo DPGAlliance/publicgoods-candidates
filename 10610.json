@@ -1,0 +1,100 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere"
+        ],
+        "relevance": "test"
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "test"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "test",
+            "clearOwnershipURL": "test"
+        }
+    ],
+    "documentation": "test",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "test"
+    ],
+    "bestPractices": [
+        "test"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Afghanistan"
+        ],
+        "deploymentCountries": [
+            "Afghanistan"
+        ]
+    },
+    "deploymentOrganisations": [
+        "International Telecommunication Union"
+    ],
+    "deploymentCountriesDepartments": [
+        "test"
+    ],
+    "otherDeploymentOrganisations": [
+        "test"
+    ],
+    "id": "10610",
+    "name": "Webapp 2.0 Launch Test",
+    "aliases": [
+        "test"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "test",
+    "website": "www.google.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com "
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Webapp 2.0 Launch Test",
+            "website": "www.google.com",
+            "org_type": "owner",
+            "contact_name": " tanushka  ",
+            "contact_email": "tanushkavaid@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "test",
+            "privacyComplianceURL": "test"
+        }
+    ],
+    "awardsReceived": ""
+}
