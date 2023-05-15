@@ -1,0 +1,121 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG6: Clean Water and Sanitation",
+            "SDG12: Responsible Consumption and Production",
+            "SDG13: Climate Action"
+        ],
+        "relevance": "farmOS is used to track lab results that test food quality and compare against soil health practices.,\r\n \r\nA farmOS Produce Safety module was developed by the University of Vermont, which includes recordkeeping for on-farm water quality testing and worker hygience requirements.,\r\n \r\nfarmOS provides record keeping and planning tools for farmers to monitor their operations.,\r\n \r\nfarmOS can be used for traceability, tracking food production from seed to sale.,\r\n \r\nfarmOS is being used to measure on farm carbon capture."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "GPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/farmOS/farmOS/blob/2.x/LICENSE.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "farmOS",
+            "clearOwnershipURL": "https://farmos.org/community/trademark"
+        }
+    ],
+    "documentation": "https://farmos.org/hosting/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "farmOS provides an API (that adheres to JSON) that other applications/systems can use to read and write records via HTTP requests - https://farmos.org/development/api/"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Farm records and field geometries"
+        ],
+        "dataPrivacySecurity": " The farmOS community has adopted the Contributor's Covenant as its Code of Conduct - https://www.contributor-covenant.org/ farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The farmOS community has adopted the Contributor's Covenant as its Code of Conduct, which is used to enforce positive conduct in our community spaces such as the forum and issue queues. The software itself can be self-hosted and therefore the users of it are dictated by the person running the software. Contributor Covenant Code of Conduct - https://farmos.org/community/conduct/"
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Australia",
+            "Germany",
+            "India",
+            "Ireland",
+            "Malaysia",
+            "New Zealand",
+            "Norway",
+            "Spain",
+            "Sweden",
+            "Uganda",
+            "United Kingdom",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "United States Department of Agriculture - Natural Resources Conservation Service"
+    ],
+    "id": "10627",
+    "name": "farmOS",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "farmOS is a web-based application for farm management, planning, and record keeping.",
+    "website": "https://farmOS.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/farmOS"
+        }
+    ],
+    "openStandards": [
+        "HTTPS",
+        "SSL",
+        "OAuth2",
+        "OIDC",
+        "JWT",
+        "UTF-8",
+        "HTML",
+        "CSS",
+        "REST (Representational State Transfer)",
+        "OpenAPI",
+        "JSON https://farmos.org/development/environment/code/ Coding standards - farmOS follows Drupal coding standards (https://farmos.org/development/environment/code/)",
+        "Automated tests - https://farmos.org/development/environment/tests/"
+    ],
+    "bestPractices": [
+        "FAIR Principles (https://www.go-fair.org/fair-principles) - https://farmos.discourse.group/t/documenting-conventions/1263"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "farmOS",
+            "website": "https://farmOS.org",
+            "org_type": "owner",
+            "contact_name": " Michael Stenta  ",
+            "contact_email": "mike@farmier.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty. As such, laws such as GDPR do not apply, because a third-party is not involved in data storage. farmOS is an open source project that can be self-hosted by farmers, so that all of their data is directly under their control. There is no requirement for data to be stored in a central database of any company or organization. It is true data sovereignty. As such, laws such as GDPR do not apply, because a third-party is not involved in data storage.",
+            "privacyComplianceURL": "N/A"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
