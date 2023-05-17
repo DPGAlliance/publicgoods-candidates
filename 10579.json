@@ -1,0 +1,131 @@
+	{
+    "id": "10579",
+    "name": "FUSS - Free Upgrade for a digitally Sustainable School",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "FUSS"
+    ],
+    "categories": [
+        "Open Content",
+        "Open Software"
+    ],
+    "description": "FUSS is a complete GNU/Linux solution based on Debian and around 200 educational software packages for schools. It is in the meantime a digital sustainability project that since 2005 gives students and teachers the\r\nopportunity to use at home the same tools installed at school, freely and without any cost for families.",
+    "website": "https://fuss.bz.it",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://gitlab.fuss.bz.it/fuss - https://fuss-tech-guide.readthedocs.io - https://fuss-dev-guide.readthedocs.io - https://fuss-user-guide.readthedocs.io"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure"
+        ],
+        "relevance": "- SDG4 Quality Education: we want to ensure that there is no digital divide in education. Every student must have equal rights and be able to access digital learning tools without cost aggravations for families.\r\n\r\n- SDG9 Industry, Innovation and Infrastructure: It is recognized that using FOSS, open standards and open content is a very powerful means to foster innovation in industry leveraging the the expertise of IT companies that every country has. Using FOSS in schools allows us to cultivate future curious innovators and inventors and not just technology tourists."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "At the following link all sub-projects of FUSS: https://gitlab.fuss.bz.it/fuss"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "At the following link all sub-projects of FUSS: https://gitlab.fuss.bz.it/fuss"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Provincia Autonoma di Bolzano (public administration)",
+            "clearOwnershipURL": "https://www.provincia.bz.it/formazione-lingue/didattica-formazione-docenti/tecnologie-dell-informazione-e-della-comunicazione-fuss.asp"
+        }
+    ],
+    "documentation": "- FUSS Tech Guide: https://fuss-tech-guide.readthedocs.io (Guide for technicians who want to install the solution)\r\n- FUSS Dev Guide: https://fuss-dev-guide.readthedocs.io (Guide for developers who want to contribute to the project)\r\n- FUSS User Guide: https://fuss-user-guide.readthedocs.io (Guide for final users)\r\n\r\nAll of them are easily accessible from the project website: https://fuss.bz.it/page/doc/\r\nGuides can be translated into other languages automatically on-line.",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "openStandards": [
+        "As most of the GNU/Linux distributions",
+        " FUSS with its collection of educational applications uses a plethora of open formats",
+        " open protocols and open standards both at kernel/library and application level. Most of them are covered in this list: https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md\r\n\r\nAt application level I would add an important Open Standard which is the Open Document Format for Office Applications (ODF) which is used by LibreOffice and other office suites and applications in FUSS. In our local experience (South Tyrol",
+        " Italy) it is used by all schools in Italian language (74 schools",
+        " 1900 teachers",
+        " 16000 students) and by the local public administrations in order to have an office exchange format with citizens (including students/parents in public schools). Thi is the list of open formats foreseen by the Autonomous PRovincie of Bozen-Bolzano: https://data.civis.bz.it/it/formats"
+    ],
+    "bestPractices": [
+        "The FUSS project follows these main architectural principles:\r\n\r\n- It uses and develops Free and open-source software (https://gitlab.fuss.bz.it/fuss)\r\n- It uses Web Standards",
+        " in particular for the main configuration application called OctoNet (https://gitlab.fuss.bz.it/fuss/octonet) developed using the Django framework\r\n- Build with modern and popular frameworks: \r\n-- Django cited above",
+        " \r\n-- Hugo for the FUSS website (https://gitlab.fuss.bz.it/fuss/fuss-website)",
+        " \r\n-- GIT and GitLab for code/documentation versioning (https://gitlab.fuss.bz.it/fuss)",
+        " \r\n-- Sphinx and the RST-format for the project documentation (https://gitlab.fuss.bz.it/fuss/fuss-tech-guide",
+        " https://gitlab.fuss.bz.it/fuss/fuss-dev-guide",
+        " https://gitlab.fuss.bz.it/fuss/fuss-user-guide)\r\n-- Ansible and YAML for configuration management",
+        " software provisioning and application deployment both on server and client side (see fuss-server: https://gitlab.fuss.bz.it/fuss/fuss-server and fuss-client: https://gitlab.fuss.bz.it/fuss/fuss-client)\r\n\r\n- Modularity and Maintainability: the use of the Debian packaging system (apt) for both standard and custom (created by FUSS) packages along with the use of Ansible helps us comply with this architectural principle. \r\n\r\n- Furthermore whenever possible we apply the first item of the Unix philosophy: \"Make each program do one thing well.\""
+    ],
+    "locations": {
+        "developmentCountries": [
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "Italy"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "FUSS is not only used in schools and educational institutions. During the pandemic period and afterwards",
+        " several employees of the local public administration needed to reuse old PCs/notebooks for smart working from home. With a view to circular economy and digital sustainability",
+        " the FUSS system and applications required for smart working were installed on numerous used machines. See this article: https://fuss.bz.it/post/2020-04-17_fuss-in-amministrazione/"
+    ],
+    "otherDeploymentOrganisations": [
+        "FUSS is used not only in by public schools of the Province of Bolzano (Italy)",
+        " but also by other educational institutions:\r\n- Bolzano Kindergarten Circle (III Circolo Scuole dell'Infanzia)\r\n- Private High School \"G. Toniolo\";\r\n- Music School \"A. Vivaldi\"\r\n- \"Niccol\u00f2 Rodolico\" State High School in Florence;\r\n- Professional Institute \"E. Cornaro\" for Food and Wine Services and Hospitality in Jesolo",
+        " Venice\r\n\r\n(see https://it.wikipedia.org/wiki/FUSS)\r\n\r\nSince 2020",
+        " more than 600 families in our region (Autonomous Province of Bozen-Bolzano) have received a refurbished PC for free with FUSS on board. The initiative called SchoolSwap (https://schoolswap.bz.it) is carried out by several local associations (LUGBZ",
+        " ADA",
+        " Vinzenzgemeinschaft",
+        " Jugenddienst) and by the FUSS Project. PCs and notebooks were/are donated by companies",
+        " public institutions and citizens. A group of volunteers in several labs take care of the whole refurbishment cycle and final system installation."
+    ],
+    "awardsReceived": [
+        "The FUSS Project received the endorsement of many public institutions",
+        " associations",
+        " foundations",
+        " companies and citizens: https://fuss.bz.it/page/profuss/\r\n\r\nAwards and recognitions received in the latest years:\r\n\r\n- 10.2018: FUSS receives a nomination for the DINAcon Awards in Bern",
+        " Swizerland: https://news.provincia.bz.it/it/archivio-news/619105\r\n- 05.2019: FUSS receives the Award \"Sustainable Public Administration\" by ForumPA and ASviS (Italian Alliance for Sustainable Development) in Rome: https://news.provincia.bz.it/it/archivio-news/626763\r\n- 09.2019: FUSS ia ccepted as member of the initiative Digital Republic (Repubblica Digitale) by the Digital Transformation Team of the Italian Government: https://fuss.bz.it/post/2019-09-13_repubblica-digitale/  https://repubblicadigitale.innovazione.gov.it/iniziativa/progetto-fuss---direzione-istruzione-e-formazione-italiana---provincia-autonoma-di-bolzano_fuss-free-upgrade-for-a-digitally-sustainable-school---sostenibilita-digitale-nella-scuola/\r\n- 09.2019: FUSS is accepted as Affiliate Member of the Open Source Initiative https://fuss.bz.it/post/2019-09-21_fuss-osi-member/\r\n- 10.2019: FUSS is one of the three finalists as best practice project at the DINAcon Awards 2019 https://fuss.bz.it/post/2019-10-18_dinacon-awards-2019/\r\n- 11.2019: FUSS receives the endorsement by the council of the Faculty of Computer Science of the Free University of Bozen-Bolzano https://fuss.bz.it/post/2019-11-14_unibz-computer-science/\r\n- 04.2020: The initiative Repubblica Digitale (of which FUSS is part) joins the Digital Skills and Jobs Coalition of the European Commission https://fuss.bz.it/post/2020-04-27_fuss-repubblica-digitale/\r\n- 08.2020: FUSS joins the South Tyrol Sustainability Network https://fuss.bz.it/post/2020-08-25_suedtirol-netzwerk-nachhaltigkeit/\r\n\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "FUSS - Free Upgrade for a digitally Sustainable School",
+            "website": "https://fuss.bz.it",
+            "org_type": "owner",
+            "contact_name": " Paolo Dongilli  ",
+            "contact_email": "dongilli@fuss.bz.it"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "1) CAD - Codice dell'Amministrazione Digitale (DECRETO LEGISLATIVO 7 marzo 2005, n. 82), in particular articles 68 and 69 (acquisition and reuse of software by public administrations - see. guidelines https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa).\r\n\r\n2) General Data Protection Regulation (GDPR)\r\n",
+            "privacyComplianceURL": "1) The project respects the Italian Code for Digital Administration even before Articles 68 and 69 reached their current form (May 2023). \r\n- Specifically, Article 68 of the CAD requires that acquisition of open source software or reuse of existing software should always be considered before other solutions by public administrations. \r\n-- FUSS is based exclusively on FOSS software (https://gitlab.fuss.bz.it/fuss) and therefore complies with Article 68.\r\n\r\n- Article 69 of CAD requires that public administrations that own IT solutions are obliged to publish the source code in a public repository along with the documentation under an open license. In addition, the solutions are to be published on the platform of the Agency for Digital Italy (AgID). \r\n-- FUSS also fully complies with this article as all code and documentation are published under an open license at https://gitlab.fuss.bz.it/fuss . In addition, as requested, the project is published on the AgID Developers Italia platform: https://developers.italia.it/it/software/p_bz-fuss-fuss-metadata\r\n\r\n2) The FUSS operating system (server and client) maintains user data within the institution that installs it; these data (first name, last name, groups/permissions, personal folder) are accessible only to the user and the system administrator (typically the controller appointed by the owner). None of this data is transmitted outside the institution where FUSS is installed.\r\nThese are the basic foundations that FUSS adopts to comply with the principle of privacy by design in line with the minimum security measures for Italian public administrations.\r\n\r\nIt will then be up to each organization that installs FUSS to comply with the principles and adopt organizational and security procedures so that the risk on the data processed is low, verifying that the entire chain of controllers is also compliant, from the data controllers to the processors.\r\nThe data controller, its employees, and the data processors must be trained and informed about what the GDPR requires, what personal data are, what sensitive data are, what a Data Breach (or data breach) is and how to handle it, and what to do to protect personal data."
+        }
+    ],
+    "deploymentOrganisations": ""
+}
