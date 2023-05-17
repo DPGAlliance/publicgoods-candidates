@@ -1,0 +1,133 @@
+	{
+    "id": "10633",
+    "name": "Plantwise Factsheet Library app ",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Content"
+    ],
+    "description": "The Plantwise Factsheet Library app is used by agricultural service providers to access actionable pest management information in the field.",
+    "website": "https://play.google.com/store/apps/details?id=org.cabi.pfff&hl=en_GB&gl=US",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://api.cabi.org/FactsheetAdmin/pw/factsheets/KE, https://api.cabi.org/FactsheetAdmin/pw/factsheets/GH, etc with many other country codes (not just KE and GH). "
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG2: Zero Hunger"
+        ],
+        "relevance": "The actionable plant health information delivered through the Plantwise Factsheet Library app supports decision making by farmers and agricultural service providers. The safe and effective management of crop pests will reduce crop losses and ensure they are growing more and safer food. "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "A PDF version of one of the factsheets which is provided through the open API and delivered through the app - https://plantwiseplusknowledgebank.org/doi/epdf/10.1079/pwkb.20177800753 "
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "CAB International",
+            "clearOwnershipURL": "Content is owned by CABI as shown here - https://plantwiseplusknowledgebank.org/doi/epdf/10.1079/pwkb.20177800753 \r\nThe API is owned and hosted by CABI. \r\nThe app is also owned by CABI - https://play.google.com/store/apps/details?id=org.cabi.pfff&hl=en_GB&gl=US "
+        }
+    ],
+    "documentation": "Most Factsheet Library app information is here -  https://play.google.com/store/apps/details?id=org.cabi.pfff&hl=en_GB&gl=US \r\nAPI info is here - https://api.cabi.org/FactsheetAdmin/swagger/ui/index#/ \r\nInformation on the content itself (PFFFs and PMDGs) - https://plantwiseplusknowledgebank.org/using-the-pwkb ",
+    "openStandards": [
+        "The content",
+        " available through an API is creative commons. \r\nThe app is open access. "
+    ],
+    "bestPractices": [
+        "Principles For Digital Development \r\nAgile development \r\nUser Centred Design\r\nAzure\r\nFAIR Data Principles"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The use of the app generates analytics data which can be downloaded in CSV formats from Google analytics. "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Bangladesh",
+            "Barbados",
+            "Bolivia",
+            "Brazil",
+            "Burkina Faso",
+            "Burundi",
+            "Cambodia",
+            "China",
+            "Congo (Congo-Brazzaville)",
+            "Costa Rica",
+            "Democratic Republic of the Congo",
+            "Ethiopia",
+            "Ghana",
+            "Grenada",
+            "Honduras",
+            "India",
+            "Jamaica",
+            "Kenya",
+            "Malawi",
+            "Mozambique",
+            "Myanmar (formerly Burma)",
+            "Nepal",
+            "Nicaragua",
+            "Pakistan",
+            "Peru",
+            "Rwanda",
+            "Sierra Leone",
+            "Sri Lanka",
+            "Tanzania",
+            "Thailand",
+            "Trinidad and Tobago",
+            "Uganda",
+            "Zambia"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Many extension staff in Ministries of Agriculture in the above countries"
+    ],
+    "otherDeploymentOrganisations": [
+        "The app is used by agricultural service providers",
+        " including government extension and agro-input dealers",
+        " plus in some locations",
+        " the farmers themselves. "
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Plantwise Factsheet Library app ",
+            "website": "https://play.google.com/store/apps/details?id=org.cabi.pfff&hl=en_GB&gl=US",
+            "org_type": "owner",
+            "contact_name": " Claire Curry  ",
+            "contact_email": "c.curry@cabi.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR\r\ngoogle Play data safety - https://play.google.com/store/apps/datasafety?id=org.cabi.pfff&hl=en_GB&gl=US ",
+            "privacyComplianceURL": "https://www.plantwise.org/wp-content/uploads/sites/4/2019/05/PW-policy-personal-data.pdf "
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
