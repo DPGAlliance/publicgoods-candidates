@@ -1,0 +1,98 @@
+	{
+    "id": "10407",
+    "name": "Angaza Personalized Learning Recommendation Engine",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open AI Model"
+    ],
+    "description": "Our Personalized Learning Recommendation Engine is an innovative project that provides tailored educational content and resources to learners based on their unique needs and preferences. Using advanced technology and data analysis, our solution delivers individualized guidance and support to help learners achieve their learning goals.",
+    "website": "angaza-elimu.github.io",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Angaza-Elimu/learning_recommendation"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education"
+        ],
+        "relevance": "A Personalized Learning Recommendation Engine is highly relevant to SDG (Sustainable Development Goal) number 4, which aims to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. By providing tailored educational content and resources to learners, this technology-driven solution ensures that each learner can receive the individualized guidance and support they need to achieve their learning goals, regardless of their socioeconomic background, location, or access to educational resources. This can help to reduce educational inequalities and improve the quality and inclusivity of education systems, ultimately contributing to the achievement of SDG 4."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/Angaza-Elimu/learning_recommendation/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Angaza Elimu",
+            "clearOwnershipURL": "https://angaza-elimu.github.io/model/"
+        }
+    ],
+    "documentation": "Documentation is hosted on the website https://angaza-elimu.github.io/model/ and also included in jupyter notebooks within the github repository",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "We expose APIs which accept JSON format input on non-PII data and only stores data with the fields it needs and discards all the rest. No data that is personally identifiable is thus stored"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Student Notes\r\nQuizzes"
+        ],
+        "contentManagementPolicy": "We create the content therefore all the content is appropriate and vetted."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kenya"
+        ],
+        "deploymentCountries": [
+            "Kenya"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "The GIGA Project in Kenya"
+    ],
+    "otherDeploymentOrganisations": [
+        "Private Schools and individual students"
+    ],
+    "openStandards": [
+        "HTTPS\r\nSSL\r\nOAuth 2\r\nHTML\r\nCSS\r\nECMAScript (ES 5/6/7)\r\nJSON\r\n"
+    ],
+    "bestPractices": [
+        "Agile Development \r\nSolid Principles\r\nClient-server Multi-tier architecture\r\nMicro-services Architecture"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Angaza Personalized Learning Recommendation Engine",
+            "website": "angaza-elimu.github.io",
+            "org_type": "owner",
+            "contact_name": " Shawn Cliff  ",
+            "contact_email": "shawn.cliff@angazaelimu.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR",
+            "privacyComplianceURL": "https://elearning.angazaelimu.com/privacy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
