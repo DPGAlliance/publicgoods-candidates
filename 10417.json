@@ -1,0 +1,124 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "In general, educational health content customized per disease can be shared through the Connect For Life platform with the targeted patient population and this can impact the following SDG targets:\r\nSDG 3.3.1: Using the communication from Connect For Life, patients can be stimulated to adhere to their HIV medication intakes and in so doing reduce their risk of transmission to other non-infected individuals. Educational content can also be shared in a discrete fashion to ensure that risks of transmission are known. This educational content can be important for many HIV patient groups such as adolescents, MSM, HIV-infected pregnant women to help prevent transmission to sexual contacts and or to unborn babies.\r\nSDG 3.3.2: For TB patients adherence to medication for longer treatment periods is critical to achieve cure. Messages from Connect For Life can take the form of engaging, actionable instructions to help motivate individuals to adhere to therapy and thereby help them to reach care and preventing further transmission.\r\n"
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "Mozilla 2.0\r\n\r\nhttps://github.com/johnsonandjohnson/openmrs-distro-cfl/blob/main/LICENSE\r\n"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Janssen Pharmaceutica NV. (A company of Johnson & Johnson)",
+            "clearOwnershipURL": "www.connect-for-life.org\r\nhttps://github.com/johnsonandjohnson/openmrs-distro-cfl"
+        }
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "openStandards": [
+        "HTTPS: https://demo.jnj.connect-for-life.org/openmrs/login.htm\r\nPKI As part of TLS/SSL in HTTPS\r\nTLS\r\nSSH\r\nRS256\r\nSHA-512\r\nJWT (JSON Web Tokens)\r\nUTF-8\r\nHTML\r\nCSS \r\nECMAScript (ES 5/6/7) \r\nOpenAPI \r\nJSON\r\nYAML \r\nXML \r\nCSV \r\nPDF\r\nSVG (Scalable Vector Graphics)\r\nPNG (Portable Network Graphics)\r\nOgg MP3 (Moving Picture Experts Group: Audio Layer III)"
+    ],
+    "bestPractices": [
+        "SDLC\r\nAgile Scrum approaches\r\nUser stories\r\nChange management using version control\r\nCode review\r\nSecurity & Consented Access\r\nCreate strong passwords for username/ password authentication\r\nEnable resource access authorization i.e. access control rights/ permissions\r\nLeverage IT auditing\r\nProtect data at rest (data encryption",
+        " using a firewall",
+        " antivirus protection",
+        " schedule backups)\r\nProtect data in transit (encrypt data in transit using TLS/SSL",
+        " authenticate data integrity using TLS/SSL",
+        " use X.509 certificates to authenticate the remote end)\r\n\r\n"
+    ],
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Since the solution is built on OpenMRS, it has the capability to extract data via APIs in the JSON or XML format. Reports can also be extracted and created via CSV.\r\n\r\nFurthermore, the ETL Lite Module can also be used to extract data from relational databases, transform it using Velocity templates, and then load it into an OpenMRS system using the application provided Spring services:\r\nhttps://github.com/johnsonandjohnson/openmrs-module-etllite"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name (in some specific deployments)\r\nParticipant identifier\r\nYear of birth\r\nAddress location\r\nHealth information\r\nMobile phone number\r\nPassport-like picture"
+        ],
+        "dataPrivacySecurity": "Data in the system is being encrypted in transit (HTTPS TLS 1.3) as well as in rest, depending on the configuration (e.g. AES-256) Passwords are additionally encrypted following the OpenMRS standard via SHA-512. Access to the system is user based controlled with different roles and responsibilities that segregate administrators from the regular users.\r\n\r\nhttps://demo.jnj.connect-for-life.org/openmrs/login.htm \r\n\r\nOur source code has been scanned prior to release to identify any security issues.\r\n"
+    },
+    "documentation": "Access to an Administrator as well as a Developer set of documents is available on the wiki as per link shared: \r\nhttps://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki\r\nInstallation instructions as well as release notes are available in relation to the software version.\r\nDocumentation details:\r\n\u2022\tOverview / Business goal: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki\r\n\u2022\tArchitectural diagrams: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Developer-Architecture\r\n\u2022\tTechnology stack / Platform: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Developer-Release-Notes\r\n\u2022\tInstallation guide: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Developer-Installation-Guide\r\n\u2022\tUser Guide: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki (menu USER GUIDE - Modules)\r\n\u2022\tSource code reference: https://github.com/johnsonandjohnson (multiple modules)\r\n\u2022\tAPI reference: In swagger docs (only accessible for admin)\r\n\u2022\tRelease notes: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Developer-Release-Notes\r\n\u2022\tContributing guide: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/CfL_Governance_Board\r\n",
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Personal identifiers such as:\r\n\r\nParticipant ID\r\nMobile phone number\r\nA person's interactions with the platform (when required in context of research deployments)\r\n"
+        ],
+        "contentManagementPolicy": "Data entry fields have edit checks for certain data formats that prevent the entry of inappropriate and illegal content.\r\nAccess limitation to authorized persons only is also foreseen to prevent the entry of inappropriate and illegal content. Audit trail can highlight unauthorized attempts to enter the system.\r\nOversight of the platform is held by a system administrator who can filter out any inappropriate entries.\r\n\r\nThe terms of use of the software also clearly states that \"under no circumstance shall Implementor use, reproduce, make available, display, perform, distribute or exploit the Connect for Life\u2122 software in a manner or for a purpose that is intentionally dishonest, misleading, fraudulent or negligent, or which may cause harm, injury or damage to a third party\" - https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Software-Terms-Of-Use"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium"
+        ],
+        "deploymentCountries": [
+            "India",
+            "Philippines",
+            "Rwanda",
+            "Sierra Leone",
+            "Uganda"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Ministry of Health Uganda &\r\nInfectious Diseases Institute (IDI)",
+        " Makerere University",
+        " Kampala",
+        " Uganda: https://idi.mak.ac.ug/wp-content/uploads/2021/10/Annual-Report_2019-2020.pdf\r\n(see page 15)\r\nMoH & IDI: https://www.monitor.co.ug/uganda/news/national/how-ministry-will-track-covid-19-cases-1888194\r\n\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "India:\r\nClinton Health Access Initiative (CHAI) & TB Alert india\r\n\u201cDOST\u201d Model to Link and Support Drug Resistant TB Patients From Private Sector: An Experience From Delhi",
+        " India \r\nFront. Public Health",
+        " 11 May 2022\r\nSec. Infectious Diseases: Epidemiology and Prevention\r\nVolume 10 - 2022 | https://doi.org/10.3389/fpubh.2022.835055\r\n\r\nm-Maitri deployment with SAATHII\r\nhttps://web.archive.org/web/20201023084528/http://m-maitri.saathii.org/\r\n\r\nUganda:\r\nInfectious Diseases Institute-College of Health Sciences",
+        " Makerere University (IDI)",
+        " UGANDA\r\n\r\nIMPACT OF A MOBILE PHONE-BASED INTERACTIVE VOICE RESPONSE SOFTWARE ON TUBERCULOSIS TREATMENT OUTCOMES AT PUBLIC FACILITIES IN UGANDA\r\nThe Union World Conference on Lung Health November 8-11",
+        " 2022\r\nCombating Pandemics: Today and Tomorrow\r\nAbstract: EP-16-760\r\n\r\nA RANDOMIZED CONTROL TRIAL OF MHEALTH TOOL EFFECT ON HIV VIRAL SUPPRESSION IN YOUTHS\r\nConference on retroviruses and opportunistic Infections",
+        " February 12-16",
+        " 2022\r\n\r\nUsing Interactive Voice Response for PLHIV on Art: Patient Interaction with Mhealth\r\n12th Health Informatics in Africa Conference (HELINA 2019)\r\n\r\nAn Interactive Voice Response Software to Improve the Quality of Life of People Living With HIV in Uganda: Randomized Controlled Trial\r\nJMIR Mhealth Uhealth 2021 | vol. 9 | iss. 2 | e22229\r\ndoi:10.2196/22229\r\nhttps://mhealth.jmir.org/2021/2/e22229\r\n\r\nImpact of a mobile phone-based interactive voice response software on tuberculosis treatment outcomes in Uganda (CFL-TB): a protocol for a randomized controlled trial\r\nhttps://doi.org/10.1186/s13063-021-05352-z\r\n\r\nIMPACT OF A MOBILE PHONE-BASED INTERACTIVE VOICE RESPONSE SOFTWARE ON TUBERCULOSIS TREATMENT OUTCOMES AT PUBLIC FACILITIES IN UGANDA\r\nUNIONCONF2022: 271\r\n\r\nPhilippines\r\nSustained Health Initiatives of the Philippines (SHIP): https://www.ship.ph/connect-for-life/\r\nhttps://web.archive.org/web/20191020050453/http://www.ship.ph/connect-for-life/\r\nhttps://www.connect-for-life.org/pdf/IAS_2020_virtual.pdf\r\n\r\nSierra Leone - Clinical trial\r\nNCT03820739\r\nhttps://clinicaltrials.gov/ct2/show/record/NCT03820739?term=EBL3005&cond=Ebola+Virus+Disease&cntry=SL&draw=2&rank=1\r\n\r\nRwanda - Clinical trial\r\nNCT03713658\r\nhttps://clinicaltrials.gov/ct2/show/NCT03713658?cond=Schizophrenia&cntry=RW&draw=2&rank=1\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    ],
+    "awardsReceived": [
+        "No applications for awards has been made"
+    ],
+    "id": "10417",
+    "name": "Connect For Life",
+    "aliases": [
+        "Connect For Life",
+        " Call For Life"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Connect for Life\u2122  is a communication platform build on OpenMRS. The platform engages with patients remotely and provides continuity of care with proven implementation feasibility in HIV, TB, COVID-19 case surveillance and vaccination programs.",
+    "website": "www.connect-for-life.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/johnsonandjohnson/openmrs-distro-cfl"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Connect For Life",
+            "website": "www.connect-for-life.org",
+            "org_type": "owner",
+            "contact_name": " awillems@its.jnj.com  ",
+            "contact_email": "awillems@its.jnj.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Connect For Life has been developed under consideration of privacy relevant standards, including security and privacy by design (see more details on the webpage: https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Software-Terms-Of-Use) \r\n\r\nConnect for Life platform was part of an external review of our digital assets in light of GDPR and African Union (AU) equivalent regulations:\r\nGDPR\r\nAU Treaty",
+            "privacyComplianceURL": "As the platform code is being provided in open source, it is not possible for the developer (J&J) to provide evidence of how other organizations applying the open source code have implemented the system and whether they are compliant with their local regulations or international regulations pertaining to data privacy.\r\nOur terms of use are clear regarding to the responsibility of users of the software code to be compliant with local regulations guarding data privacy and data security:\r\nhttps://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Software-Terms-Of-Use\r\n"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
