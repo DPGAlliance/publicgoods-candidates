@@ -1,0 +1,140 @@
+	{
+    "id": "10612",
+    "name": "Rahat",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Rahat is a collection of open-source blockchain-based digital relief distribution management projects for humanitarian agencies to support marginalized communities.",
+    "website": "https://www.rahat.io/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/esatya/rahat,https://github.com/esatya/rahat-agency,https://github.com/esatya/rahat-mobilizer,https://github.com/esatya/rahat-vendor,https://github.com/esatya/rahat-vendor-app,https://github.com/esatya/rahat-contracts,https://github.com/esatya/rahat-otp,https://github.com/esatya/rahat-aid-connect, https://github.com/esatya/rahat-documentation "
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG2: Zero Hunger",
+            "SDG5: Gender Equity",
+            "SDG11: Sustainable Cities and Communities"
+        ],
+        "relevance": "Rahat has been supporting vulnerable communities affected by natural disasters (Target 1.5) through cash and voucher assistance programs, promoting financial resilience and empowering individuals to make their own recovery decisions.\r\n\r\nDuring the Covid-19 pandemic, Rahat efficiently distributed food supplies to vulnerable communities, prioritizing those with small children, single women, and the elderly. Working with Dhana Yoga Foundation, Rahat provided food packets to marginalized communities in Chitwan who lacked sufficient harvests. This initiative contributes to Target 2.1 of ending hunger and ensuring year-round access to nutritious food.\r\n\r\nRahat has been collaborating with local partners to support women's maternity needs by providing nutritious food packages in remote mountainous regions like Humla and Jumla. The ongoing efforts aim to reduce child mortality and promote child development (Target 2.2).\r\n\r\nThe active involvement of local female partners in Rahat's pilot projects enhances digital literacy and familiarity with mobile phone usage (Target 5.b).\r\n\r\nAs a cash and voucher assistance system, Rahat utilizes local traders and institutions to distribute relief packages during disaster recovery. This approach enables local businesses to continue supplying products and generating income, alleviating economic burdens on impoverished individuals and stimulating the local economy."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/esatya/rahat/blob/master/LICENSE,https://github.com/esatya/rahat-contracts/blob/main/LICENSE,https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE, https://github.com/esatya/rahat-documentation/blob/main/LICENSE"
+        },
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/esatya/rahat/blob/master/LICENSE,https://github.com/esatya/rahat-contracts/blob/main/LICENSE,https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE, https://github.com/esatya/rahat-documentation/blob/main/LICENSE"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/esatya/rahat/blob/master/LICENSE,https://github.com/esatya/rahat-contracts/blob/main/LICENSE,https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE, https://github.com/esatya/rahat-documentation/blob/main/LICENSE"
+        },
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/esatya/rahat/blob/master/LICENSE,https://github.com/esatya/rahat-contracts/blob/main/LICENSE,https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE, https://github.com/esatya/rahat-documentation/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Rumsan Associates Private Limited",
+            "clearOwnershipURL": "https://www.github.com/esatya"
+        }
+    ],
+    "documentation": "https://docs.rahat.io/docs/intro",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "All the non-PII data is accessible through the REST API (https://docs.rahat.io/api/)  in JSON format. Each Agency of Rahat has its own REST API and can choose to make it public or not."
+    },
+    "openStandards": [
+        "Rahat incorporates various security measures",
+        " including the use of Secure Sockets Layer (SSL)",
+        " to ensure secure communication. Additionally",
+        " the project adheres to the guidelines provided by the Open Web Application Security Project (OWASP) to enhance the security of its software and systems.\r\n\r\nThe REST API documentation for Rahat can be found at https://docs.rahat.io/api",
+        " providing information on how to access and utilize the API.\r\n\r\nRahat follows the Principles for Digital Development and has actively collaborated with humanitarian agencies and local users to develop transparent open-source software. The software development process is agile",
+        " allowing for quicker and cost-effective iterative development. The project also emphasizes best practices for open-source development",
+        " including contribution guidelines and comprehensive documentation.\r\n\r\nFor new version releases",
+        " Rahat adopts a Continuous Integration/Continuous Delivery (CI/CD) pipeline",
+        " ensuring reliable incremental development and delivery of updates.\r\n\r\nRahat follows the AirBNB Coding Standards",
+        " which serve as a coding style guide to promote consistency and readability in the codebase."
+    ],
+    "bestPractices": [
+        "- Principle for Digital Devlopment  \r\n- Change management using version control - https://github.com/esatya/rahat/releases\r\n - Multitier architecture with REST APIs\r\n - Test driven development using automated tests - https://github.com/esatya/rahat/actions\r\n - Code review and Code refactoring through reviews in PR\r\n- CI/CD pipeline\r\n - Protect data at rest (data encryption",
+        " using a firewall",
+        " schedule backups)\r\n - Airbnb's Javascript Style Guide - https://github.com/airbnb/javascript\r\n - Microservices Architecture - https://github.com/esatya/rahat/wiki/Rahat-Software-Requirements-Specifications"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Agency administrator  - Name",
+            " Email",
+            " Phone",
+            "Beneficiaries - Name",
+            " Phone Number",
+            " Address",
+            "Email Address",
+            " Age",
+            " Gender Image: Beneficiary\u2019s profile image and Government identification document",
+            "Vendors - Name",
+            " Phone Number",
+            " Email",
+            " Address Image: Vendor\u2019s profile image and Government identification document",
+            "Social mobilizers - Name",
+            " Phone Number",
+            " Email",
+            " Address  Image: social mobilizer\u2019s profile image and Government identification document"
+        ],
+        "dataPrivacySecurity": "Rahat software prioritizes security and privacy by providing comprehensive documentation and guidelines to mitigate potential risks. We strictly adhere to best practices for privacy and data security, aligning with Nepali laws and regulations regarding our relief distribution service.\r\n\r\nIt is important to note that each organization implementing the Rahat software is responsible for adhering to these best practices. As each instance of the software is locally owned and maintained, Rahat does not have access to individual organization databases. Personally identifiable information (PII) data is not publicly available and can only be accessed by authorized personnel with specific roles. For instance, vendors are restricted from accessing KYC information/documentation.\r\n\r\nUser access and privileges are carefully managed to restrict access to specific types of information and features based on individual roles. Rahat has implemented a privacy policy, which can be found at https://docs.rahat.io/privacy-policy, further ensuring the protection of user data and privacy."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Any underaged beneficiaries in the aid distribution program needs to be accompanied/consented by guardian(s) or parent(s) to receive relief materials and photos Rahat is governed by clearly stated community guidelines: https://docs.rahat.io/docs/contribution-guidelines, forums are actively moderated by members of the Rahat core team, who can flag and remove content or comments as needed."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Nepal"
+        ],
+        "deploymentCountries": [
+            "Nepal"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Rahat currently relies on the local SMS service provider in each region. When deploying Rahat in different instances",
+            " it is necessary to establish a connection with the local SMS service provider. Additionally",
+            " Rahat is compatible with Twilio APIs and can be integrated with open-source cloud communication platforms like somleng (https://www.somleng.org) for SMS services."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Rahat",
+            "website": "https://www.rahat.io/",
+            "org_type": "owner",
+            "contact_name": " Ruchin Singh  ",
+            "contact_email": "ruchin@rumsan.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Privacy Act, 2075 (2018) of Government of Nepal Rahat uses an Ethereum based private network and non-convertible tokens in a closed ecosystem because of the Central Bank of Nepal\u2019s crypto ban. For countries using the Rahat projects in other regions are responsible for complying with local legislation.",
+            "privacyComplianceURL": "Privacy policy of Rahat - https://docs.rahat.io/privacy-policy\r\nPrivacy policy of Rumsan - https://bit.ly/rumsan-privacy-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
