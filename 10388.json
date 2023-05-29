@@ -1,0 +1,167 @@
+	{
+    "id": "10388",
+    "name": "Rights Tracker",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Human Rights Measurement Initiative (HRMI) Rights Tracker"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "A freely available tool robustly tracking the human rights performance of countries.",
+    "website": "https://rightstracker.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://humanrightsmeasurement.org/download-the-dataset/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG2: Zero Hunger",
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG6: Clean Water and Sanitation",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG10: Reduced Inequalities",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "We produce country scores for five economic and social rights. These are the rights to education (SDG4), food (SDG2), health (SDG3), housing (SDG6) and work and social assistance (SDG1, SDG8). These scores tell us how well countries are using their available resources to make sure their people can enjoy each of these rights to the maximum extent possible given that country's level of income. Countries with well-functioning governments and effective public sectors perform better, and countries with high levels of corruption or inequality generally perform worse (hence SDG10). Many of the SDG indicators also feed into the Rights Tracker scores. However, unlike the SDGs, our scores are benchmarked according to each country's level of resources. This avoids the income bias problem that is inherent in the SDGs. (i.e. higher income countries generally perform better on most SDG indicators).  This is very important as it has been documented (e.g. by the World Bank) that ESG investment strategies that use the SDGs (and simliar) as indicators of development, skew investment away from lower income countries towards higher income countries. Our award-winning methodology avoids this problem. \r\n\r\nUsing a different methodology, we also produce country scores for eight civil and political rights. These relate closely to SDG16 and provide additional metrics not already captured by the SDG16 targets."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "Currently we are using CC-BY-4.0 - and this is noted in the footer of the Rights Tracker (https://rightstracker.org/en).  However, our intention is to switch to a CC-BY-NC-4.0 license in June 2023 when we release our next data update.\r\n\r\n\r\n"
+        },
+        {
+            "openLicense": "CC-BY-NC-4.0",
+            "openLicenseEvidenceURLs": "Currently we are using CC-BY-4.0 - and this is noted in the footer of the Rights Tracker (https://rightstracker.org/en).  However, our intention is to switch to a CC-BY-NC-4.0 license in June 2023 when we release our next data update.\r\n\r\n\r\n"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Human Rights Measurement Initiative Charitable Trust",
+            "clearOwnershipURL": "https://rightstracker.org/en/page/about\r\n"
+        }
+    ],
+    "documentation": "Please see:\r\nhttps://docs.google.com/document/d/1QBFWqrawZEec44H3UjGfnyQ819FA9BHw/edit",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The website allows access to the data via this link: https://humanrightsmeasurement.org/download-the-dataset/\r\nWhile this website invites users to submit PII data, it is not required to provide any PII data. \r\n"
+    },
+    "openStandards": [
+        "Accessibility - WCAG 2.0/2.1 \r\nSecurity - ISO/IEC 27001 (information security management)",
+        " HTTPS",
+        " SSL",
+        " SSH\r\nInternationalisation - ISO-8859-1",
+        " ASCII\r\nWeb standards - HTML",
+        " CSS",
+        " ECMAScript (ES 5)\r\nAPIs - OpenAPI\r\nData Exchange/ Configuration formats - JSON",
+        " CSV\r\nSoftware Testing - ISO/IEC/IEEE29119\r\nBusiness Process Modelling - BPMN 2.0\r\nStd Content formats - PDF\r\nMultimedia - SVG",
+        " PNG",
+        " JPEG\r\n"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC)\r\n\u2022\tFunctionalities are broken down into user stories and work is managed through tasks",
+        " subtasks and issues work items in JIRA \r\n\u2022\tStandard processes are followed for change management and git/gitlab for version control\r\n\u2022\tContinous Integration & Continous Deployment (CI/CD) is used to deploy language files and changes to them. \r\n\u2022\tPeer code reviews are carried out before merging to QA environment\r\n\r\nArchitectural Design   \r\n\u2022\tUses the monorepo architecture with Next.js and typescript. Uses ssl and vercel standard security features to ensure security. Uses AirTable via OpenAPI. Uses CI/CD to auto deploy language files. \r\n\u2022\tClient-server architecture\r\n\u2022\tLow code platform (airtable",
+        " firebase) based architecture\r\n\r\nCloud Computing\r\n\u2022\tVercel \r\n\r\nUser Interface/ User Experience (UI /UX)\r\n\u2022\tHuman Centered Design Principles\r\n\r\nCoding Styles & Standards\r\n\u2022\tOWASP\r\n\r\nBest practices to help secure IT resources:\r\n\u2022\tProtect data at rest (dairtable and github)\r\n\u2022\tProtect data in transit (encrypt data in transit using TLS/SSL",
+        " authenticate data integrity using TLS/SSL",
+        " WebAPI token based authentication)\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Qualitative information about which sub-population groups in each country are most at risk of each type of human rights violation. The information collected is general",
+            " and we explicitly ask survey respondents not to provide information on names of individuals."
+        ],
+        "contentManagementPolicy": "All content is vetted and moderated by staff members before being distributed (i.e. published). Nothing is made public without this moderation process. \r\n\r\nWe have so far never received illegal material. If such material was received it would be deleted immediately. \r\n\r\nInappropriate material, according to our guidelines, includes the names of individual people. These are always removed as part of moderation. \r\n\r\nOur policies and processes include the following:\r\n1.\tVetting of contributors (survey respondents), who must be human rights experts nominated by another human rights expert in their country\r\n2.\tDirections to contributors about what kind of material to provide\r\n3.\tRigorous training of moderation staff who handle incoming material in the first instance\r\n4.\tAll material we receive is summarised. No material is reproduced verbatim. \r\n5.\tMaterial is moderated within a month of receipt, and not published until moderated and edited\r\n6.\tSenior leaders at HRMI review and edit all the summaries before any material is distributed\r\n7.\tPermanent destruction of all raw material provided within two months of receipt\r\n"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "New Zealand",
+            "Sri Lanka",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Angola",
+            "Australia",
+            "Bangladesh",
+            "Brazil",
+            "China",
+            "Democratic Republic of the Congo",
+            "Fiji",
+            "India",
+            "Jordan",
+            "Kazakhstan",
+            "Kiribati",
+            "Kyrgyzstan",
+            "Liberia",
+            "Malaysia",
+            "Marshall Islands",
+            "Mexico",
+            "Micronesia",
+            "Mozambique",
+            "Nauru",
+            "Nepal",
+            "New Zealand",
+            "Palau",
+            "Papua New Guinea",
+            "Samoa",
+            "Saudi Arabia",
+            "Scotland",
+            "Solomon Islands",
+            "South Korea",
+            "Thailand",
+            "Tonga",
+            "United Kingdom",
+            "United States of America",
+            "Vanuatu",
+            "Venezuela",
+            "Vietnam"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Human Rights Council (UNHRC)",
+        "United Nations Office at Geneva",
+        " World Bank"
+    ],
+    "deploymentCountriesDepartments": [
+        "Some governments ministries that we know are using the Rights Tracker (because they have told us) include:\r\n- New Zealand Ministry of Foreign Affairs and Trade\r\n- Netherlands Ministry of Foreign Affairs\r\n- US State Department\r\nWe presume there are dozens more."
+    ],
+    "otherDeploymentOrganisations": [
+        "Many dozens (if not hundreds) of human rights NGOs located all over the world.\r\nA small but growing group of funds managers and institutional investors."
+    ],
+    "awardsReceived": [
+        "Not in the last one year."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Rights Tracker",
+            "website": "https://rightstracker.org",
+            "org_type": "owner",
+            "contact_name": " Anne-Marie Brook  ",
+            "contact_email": "anne-marie.brook@hrmi.ngo"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "We comply with the NZ Privacy Act 2020 and the GDPR. ",
+            "privacyComplianceURL": "https://humanrightsmeasurement.org/hrmi-privacy-policy/  (Please note that this privacy policy covers not only the Rights Tracker but also other HRMI applications)\r\n\r\nIt is also worth noting that the data on the Rights Tracker is anonymised data, where anonymised means there is no possible way to link the data with an identifiable indivdual. Our understanding is that the scope of privacy laws (inclduing the NZ Privacy Act 2020 and the EU GDPR) only applies to information about identifiable individuals - thus since the Rights Tracker data are anonymised, they are outside the scope of these privacy laws."
+        }
+    ]
+}
