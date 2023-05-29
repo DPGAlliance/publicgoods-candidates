@@ -1,0 +1,122 @@
+	{
+    "id": "10652",
+    "name": "Intelehealth",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Multichannel Telemedicine solutions for last mile population",
+    "website": "https://www.intelehealth.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Intelehealth/Intelehealth-WebApp,https://github.com/Intelehealth/Android-Mobile-Client,https://github.com/Intelehealth/intelehealth-openmrs-ui"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG5: Gender Equity",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "We as an organization align with three UN Sustainable Development Goals in our bid to provide holistic and integrated healthcare services through telemedicine to the last mile population where there is no doctor. "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/Intelehealth/Android-Mobile-Client/blob/master-2.0/License.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Intelehealth, Inc.",
+            "clearOwnershipURL": "https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview"
+        }
+    ],
+    "documentation": "Wiki :  https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/overview\r\nGitHub : https://github.com/Intelehealth/Android-Mobile-Client\r\nUser Manual : \r\nMobile APP  https://drive.google.com/file/d/1_ZG0M18C-geK0e09YO-KxVekDzPjQVak/view?usp=sharing\r\nWeb APP https://drive.google.com/file/d/1WXjk7ktwOpIyhYXo-5w3o9lG5paUxkDx/view?usp=sharing \r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HL7\r\nCCD / CDA Export \r\nhttps://wiki.openmrs.org/pages/viewpage.action?pageId=69075133 \r\nUser Center design\r\nOWASP top 10 standard\r\nAgile Methodologies\r\nS.O.L.I.D\r\nDon't Repeat Your self (DRY)"
+    ],
+    "bestPractices": [
+        "https://wiki.openmrs.org/pages/viewpage.action?pageId=69075133"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name",
+            "Gender",
+            "DOB",
+            "Mobile No",
+            "Address",
+            "Son / Daughter / Wife of",
+            "Occupation",
+            "Cast",
+            "Economics status",
+            "Education level",
+            "Health Vital / medical history",
+            "Past and family medical history"
+        ],
+        "dataPrivacySecurity": " Risk Assess and Risk Treatment Plan - https://docs.google.com/spreadsheets/d/1szWmJSUI9yZgJogTsxyQQAfAzIRVmqBi/edit#gid=391261868 All data transfer through HTTPS (SSL) & user level security is maintained through SHA-512 encryption with roles & privileges. Privacy policy - https://intelehealth.org/privacy-policy/"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Code of conduct - https://github.com/Intelehealth/Android-Mobile-Client/blob/master-2.0/CODE_OF_CONDUCT.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India",
+            "Kyrgyzstan",
+            "Syria"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Ministry of Health Kyrgyzstan "
+    ],
+    "otherDeploymentOrganisations": [
+        "NGOs: Jhpiego",
+        " MSF India",
+        " Ekal Foundation",
+        " Syriana",
+        " Global Wheels Foundation",
+        " "
+    ],
+    "awardsReceived": [
+        "1. Intelehealth won the \"Developing Innovative",
+        " Accessible & Affortable product/service to transform healthcare\" award at the Global Digital health Innovation Awards 2022 \r\n2. Intelehealth won the annual Goldman Sachs Analyst Impact Fund for leveraging open source technologyfor Government",
+        " NGOs and Hospital to seamlessly connect underserved populations with high quality primary healthcare"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Intelehealth",
+            "website": "https://www.intelehealth.org",
+            "org_type": "owner",
+            "contact_name": " Nishant Singh  ",
+            "contact_email": "nishant@intelehealth.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "DPA - Data Protection Act, Phillipines: https://docs.google.com/spreadsheets/d/1doSLgybdhUL42HR11kP4di3wVuUeZ30HLGjj7RfYBjc/edit#gid=0\r\nIT Act 2000, India \r\nTerms of service - https://intelehealth.org/terms-of-use/\r\nPrivacy policy - https://intelehealth.org/privacy-policy/",
+            "privacyComplianceURL": "https://intelehealth.org/terms-of-use/\r\nhttps://intelehealth.org/privacy-policy/\r\n"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
