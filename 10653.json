@@ -1,0 +1,106 @@
+	{
+    "id": "10653",
+    "name": "FHIR",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "HL7 FHIR"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "Global standard for Data exchange in Healthcare ",
+    "website": "http://hl7.org/fhir",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "http://hl7.org/fhir"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "The focus of FHIR and the FHIR community is to make data exchange in healthcare a commodity with the focus of enabling improved public and individual healthcare outcomes around the world"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC0-1.0",
+            "openLicenseEvidenceURLs": "http://hl7.org/fhir/license.html"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "HL7",
+            "clearOwnershipURL": "http://hl7.org/fhir/credits.html"
+        }
+    ],
+    "documentation": "http://hl7.org/fhir",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "We have a Community Code of Conduct that users have to agree to: https://www.hl7.org/legal/code-of-conduct.cfm. HL7 has active management enforcement of the code of conduct. HL7 does not collect private data including date of birth/age so we do not know whether users are underage or not but we have seen very few underage participants, nor any need for them to be treated differently where we have been aware (to this point)"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Australia"
+        ],
+        "deploymentCountries": [
+            "Australia"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Health Organization (WHO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "All around the world  - too many countries to list"
+    ],
+    "otherDeploymentOrganisations": [
+        "everyone? (feels that way!)"
+    ],
+    "openStandards": [
+        "FHIR should be listed on that page- that's why I'm filling this out. But FHIR makes extensive use of web standards (http",
+        " xml",
+        " json",
+        " etc) "
+    ],
+    "bestPractices": [
+        "FHIR has a strong process and requirements process managed by many committees",
+        " and ultimately HL7 under the authority of the ANSI",
+        " the American National Standards Institute. The documentation is too voluminious to refer to",
+        " but this is the master HL7 Governance and Operations Manual: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CDYQw7AJahcKEwjIqLCc46H_AhUAAAAAHQAAAAAQAw&url=https%3A%2F%2Fconfluence.hl7.org%2Fdownload%2Fattachments%2F48235240%2FWI1901003McKenzie.pdf%3Fversion%3D1%26modificationDate%3D1553787348380%26api%3Dv2&psig=AOvVaw3Qc6DicM3YdM6sT2UJWVSQ&ust=1685698713836173"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "FHIR",
+            "website": "http://hl7.org/fhir",
+            "org_type": "owner",
+            "contact_name": " Grahame Grieve  ",
+            "contact_email": "grahameg@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The FHIR standard itself does not comply with any standards or laws; it's a standard that helps implementations comply to laws. As part of our requirements analysis, we work with government and implementation communities around the world to do extensive requirements gathering and analysis ",
+            "privacyComplianceURL": "n/a"
+        }
+    ],
+    "awardsReceived": ""
+}
