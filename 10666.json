@@ -1,0 +1,110 @@
+	{
+    "id": "10666",
+    "name": "NMF.earth",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Understand and reduce your carbon footprint",
+    "website": "https://nmf.earth/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/NMF-earth/nmf-app/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG13: Climate Action"
+        ],
+        "relevance": "Help individuals to track and reduce their carbon footprint"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/NMF-earth/nmf-app/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "NMF.earth",
+            "clearOwnershipURL": "https://nmf.earth/"
+        }
+    ],
+    "documentation": "https://github.com/NMF-earth/nmf-app/blob/main/README.md",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil",
+            "Denmark",
+            "France",
+            "Germany",
+            "Sweden",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Brazil",
+            "China",
+            "Denmark",
+            "France",
+            "Germany",
+            "Italy",
+            "Malaysia",
+            "Portugal",
+            "Spain",
+            "Sweden",
+            "United Kingdom",
+            "United States of America"
+        ]
+    },
+    "openStandards": [
+        "JavaScript/React https://github.com/NMF-earth/nmf-app Follow best practices with more than 40 contributors",
+        " not tracking user",
+        " using a lot of reusable components and more than 80 percent test coverage (unit tests and visual regressions) and using user feedback for the roadmap"
+    ],
+    "bestPractices": [
+        "https://github.com/NMF-earth/nmf-app/blob/main/contributing.md"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "NMF.earth",
+            "website": "https://nmf.earth/",
+            "org_type": "owner",
+            "contact_name": " Pierre Bresson  ",
+            "contact_email": "contact@nmf.earth"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "No tracking in the app, except for the crashes/bugs that are anonymously reported via sentry No tracking in the app, except for the crashes/bugs that are anonymously reported via sentry",
+            "privacyComplianceURL": "https://github.com/NMF-earth/nmf-app/blob/main/LICENSE"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
