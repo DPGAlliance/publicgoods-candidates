@@ -1,0 +1,113 @@
+	{
+    "id": "10664",
+    "name": "Orthanc",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Orthanc is a free and open-source PACS server. It is designed to improve the DICOM workflows in hospitals, and to support research and education about medical imaging. The Orthanc ecosystem also features the Stone Web viewer as an effective teleradiology environment.",
+    "website": "https://www.orthanc-server.com/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://hg.orthanc-server.com/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure"
+        ],
+        "relevance": "SDG3: The Orthanc ecosystem supports individuals, health professionals, institutions, and governments in managing their medical images. Orthanc can notably be used as an efficient PACS (Picture Archiving and Communication System) for emerging economies. It is also widely used to exchange medical images between remote sites for continuity of care. Finally, thanks to its support of teleradiology, Orthanc provides an effective way to ask for remote expertise in areas with sparse medical expertise.\r\n\r\nSDG4: The mission of the Orthanc project is to share technological knowledge about medical imaging (in particular, about the worldwide DICOM standard), as well as about algorithms for the analysis of medical images (which includes deep learning). Faculties of medicine, schools of nursing, and schools of engineering can use the versatility of the Orthanc ecosystem to teach medical imaging.\r\n\r\nSDG9: Thanks to its focus on DICOM interoperability, Orthanc is used by many companies around the world as a vendor-neutral gateway between hospitals and industrial products. Orthanc can also be used by researchers and software engineers to turn their own computers as a mini-PACS that emulates a full hospital PACS environment, which facilitates development and fosters innovation. Infrastructures to exchange medical images between hospitals, radiology centers, schools, companies, and research centers can be deployed using Orthanc, including in cross-border contexts."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "The Orthanc core uses GPLv3+: \r\nhttps://hg.orthanc-server.com/orthanc/file/default/COPYING\r\n\r\nThe Stone Web viewer (teleradiology environment) uses AGPLv3+: \r\nhttps://hg.orthanc-server.com/orthanc-stone/file/default/COPYING\r\n\r\nThe Orthanc Book lists the various plugins for Orthanc and their associated free and open-source licenses (which is either GPLv3+ or AGPLv3+):\r\nhttps://book.orthanc-server.com/plugins.html#index-of-the-official-plugins"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "The Orthanc core uses GPLv3+: \r\nhttps://hg.orthanc-server.com/orthanc/file/default/COPYING\r\n\r\nThe Stone Web viewer (teleradiology environment) uses AGPLv3+: \r\nhttps://hg.orthanc-server.com/orthanc-stone/file/default/COPYING\r\n\r\nThe Orthanc Book lists the various plugins for Orthanc and their associated free and open-source licenses (which is either GPLv3+ or AGPLv3+):\r\nhttps://book.orthanc-server.com/plugins.html#index-of-the-official-plugins"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "University Hospital of Li\u00e8ge, Osimis S.A., and UCLouvain university",
+            "clearOwnershipURL": "https://www.orthanc-server.com/download.php"
+        }
+    ],
+    "documentation": "https://book.orthanc-server.com/\r\nhttps://api.orthanc-server.com/\r\nhttps://sdk.orthanc-server.com/\r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Orthanc fully embraces the DICOM and DICOMweb worldwide standards for medical imaging:\r\nhttps://en.wikipedia.org/wiki/DICOM\r\nhttps://en.wikipedia.org/wiki/DICOMweb\r\nhttps://book.orthanc-server.com/dicom-guide.html\r\n"
+    ],
+    "bestPractices": [
+        "- Change management using version control: https://hg.orthanc-server.com/\r\n- Test driven development using automated tests: https://hg.orthanc-server.com/orthanc-tests/\r\n- Continous Integration & Continous Deployment (CI/CD): https://buildbot.orthanc-server.com/\r\n- Representational state transfer (REST): https://api.orthanc-server.com/ and https://book.orthanc-server.com/users/rest.html\r\n- Coding style: https://book.orthanc-server.com/developers/coding-style.html\r\n- Microservices architecture: https://book.orthanc-server.com/users/docker-osimis.html\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The nature of the project - health care information systems - is a very special topic that requires experience and expert knowledge. As such we have not noticed any underage users, neither online nor in person. The community has a Code of Conduct (https://www.orthanc-server.com/static.php?page=conduct) and moderated mailing lists."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium"
+        ],
+        "deploymentCountries": [
+            "Belgium",
+            "France",
+            "Germany",
+            "India",
+            "Indonesia",
+            "Kenya",
+            "Malaysia",
+            "Netherlands",
+            "Spain",
+            "Thailand",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "As the GNU Health project uses Orthanc as its associated PACS server to store medical images",
+        " any government or organization using GNU Health also benefit from Orthanc:\r\nhttps://app.digitalpublicgoods.net/a/10408"
+    ],
+    "otherDeploymentOrganisations": [
+        "https://www.orthanc-server.com/static.php?page=references"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Orthanc",
+            "website": "https://www.orthanc-server.com/",
+            "org_type": "owner",
+            "contact_name": " S\u00e9bastien Jodogne  ",
+            "contact_email": "sebastien.jodogne@uclouvain.be"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "https://www.orthanc-server.com/static.php?page=privacy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
