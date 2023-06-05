@@ -78,6 +78,7 @@ Below are some of the common best practices and principles implemented by severa
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
 * [Google Open Source](https://opensource.google/docs/)
 * [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/)
+* [Standard for Public Code](https://standard.publiccode.net/) - Guidance for government open source collaboration
 
 #### Best practices to help secure your IT resources:
 * Create strong passwords for username/ password authentication
