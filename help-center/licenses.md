@@ -10,7 +10,7 @@ The full list of licenses is included below. If you use a license that is not cu
 
 ## Content
 
-Full Name | SPDX Identifier
+SPDX Identifier | Full Name
 --- | ---
 CC-BY-1.0 | Creative Commons Attribution 1.0 Generic
 CC-BY-2.0 | Creative Commons Attribution 2.0 Generic
@@ -46,7 +46,7 @@ CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 
 ## Data
 
-Full Name | SPDX Identifier
+SPDX Identifier | Full Name
 --- | ---
 CC-BY-4.0 | Creative Commons Attribution 4.0 International
 CC-BY-SA-4.0 | Creative Commons Attribution Share-Alike 4.0 International
@@ -59,7 +59,7 @@ CC-BY-SA-3.0-IGO | Creative Commons Attribution Share Alike 3.0 IGO
 
 ## Software
 
-Full Name | SPDX Identifier
+SPDX Identifier | Full Name
 -- | --
 0BSD|0-clause BSD License 
 AAL|Attribution Assurance License 
@@ -164,7 +164,7 @@ wxWindows|wxWindows Library License
 Zlib|zlib/libpng license 
 ZPL-2.0|Zope Public License 2.0 
 
-## Combined raw list, sorted alphabetically
+## Combined raw list of SPDX Identifiers, sorted alphabetically
 
 ```
 0BSD
