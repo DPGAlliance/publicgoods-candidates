@@ -1,0 +1,109 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/eco-index/ecoindex-stack/blob/main/LICENSE"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Eco-Index",
+            "clearOwnershipURL": "https://eco-index.nz/"
+        }
+    ],
+    "documentation": "https://github.com/eco-index/ecoindex-stack#readme",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The project stack has a built in API that allows extraction from the database without direct access to it.  If deployed in a public server (currently the main deployment is still within the University of Waikato server but it will be moved to Cloud), a prospective user can register for an account and once approved, retrieve data through the API. The API uses an injection proof filtered SQL query to bring back results from the database.  You are also able to currently retrieve all occurrence-based data held in the database in one go."
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "sdgs": {
+        "sdg": [
+            "SDG15: Life on Land"
+        ],
+        "relevance": "The digital tools that Eco-index creates help users to track and understand the health of terrestrial biodiversity over time. This is relevant to all terrestrial ecosystem types (forests, wetlands, etc.). The tool is also being designed for use by local and national governments that are looking to bring their own biodiversity targets--often in line with SDGs."
+    },
+    "openStandards": [
+        "Security - HTTPS",
+        " SSH",
+        "Authentication and Authorisation - OAuth 2",
+        " JWT",
+        "Internationalization - UTF-8",
+        "APIs - OpenAPI",
+        "Data Exchange formats - JSON",
+        " CSV https://github.com/eco-index/ecoindex-stack Developed in accordance with the Digital Development Principles.",
+        "PEP-8"
+    ],
+    "bestPractices": [
+        "https://digitalprinciples.org/"
+    ],
+    "id": "10671",
+    "name": "Eco-Index Biodiversity Dashboards",
+    "aliases": [
+        "N/A"
+    ],
+    "categories": [
+        "Open AI Model",
+        "Open Software"
+    ],
+    "description": "Digital dashboards and related tools help users to monitor and set goals around biodiversity levels.",
+    "website": "https://eco-index.nz/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/eco-index/ecoindex-stack"
+        }
+    ],
+    "locations": {
+        "developmentCountries": [
+            "New Zealand"
+        ],
+        "deploymentCountries": [
+            "New Zealand"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Various regional councils within New Zealand. \r\nCollaboration is underway with three different government ministries.\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "Many of the industry associations that represent significant percentages of land use across the country and a growing number of Iwi."
+    ],
+    "awardsReceived": [
+        "N/A"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Eco-Index Biodiversity Dashboards",
+            "website": "https://eco-index.nz/",
+            "org_type": "owner",
+            "contact_name": " Nathaniel Calhoun  ",
+            "contact_email": "Nathaniel@codeinnovation.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR,The Privacy Act 2020 (NZ) We largely comply with both laws by virtue of not holding any PII data.",
+            "privacyComplianceURL": "https://eco-index.nz/terms-of-use-privacy"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
