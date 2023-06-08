@@ -1,0 +1,122 @@
+	{
+    "id": "10676",
+    "name": "AccessMod",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "AccessMod is a free, open-source, standalone software to model physically accessibility to health services, to account for shortage of capacity in these services (human or equipment), to measure referral times and distances between health services, and to increase population coverage through scaling up analyses.",
+    "website": "https://www.accessmod.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/unige-geohealth/accessmod"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "AccessMod contributes to Universal Health Coverage (UHC) by ensuring that all people have a physical access to the health services they need where they need them. It has been used in more than 35 low- and middle-income countries, and also in support of national health authorities and international health programs and organizations (WHO, UNFPA, UNICEF, The Global Fund, The World Bank, IDB, FIND). "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/unige-geohealth/accessmod/blob/main/COPYING"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "University of Geneva, GeoHealth group",
+            "clearOwnershipURL": "http://www.accessmod.org"
+        }
+    ],
+    "documentation": "https://doc-accessmod.unepgrid.ch/display/EN/AccessMod+5+user+manual",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "openStandards": [
+        "UTF-8",
+        " HTML",
+        " REST",
+        " CSS",
+        " JSON",
+        " XML",
+        " CSV",
+        " TIFF",
+        " PNG.",
+        "For the geospatial data",
+        " we are using geoTIFF",
+        " shapefiles."
+    ],
+    "bestPractices": [
+        "Principle for digital development",
+        "Modularity",
+        " Maintainability",
+        " Reusability and Extensibility",
+        "Human Centered Design Principle"
+    ],
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Switzerland"
+        ],
+        "deploymentCountries": [
+            "Burundi",
+            "C\u00f4te d",
+            "Chad",
+            "Mali"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children",
+        "World Health Organization (WHO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "MInistries of Health of: Burundi",
+        " Cote d'Ivoire",
+        " Mali",
+        " Chad",
+        " Mozambique"
+    ],
+    "otherDeploymentOrganisations": [
+        "UNFPA",
+        " The Global Fund"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "AccessMod",
+            "website": "https://www.accessmod.org",
+            "org_type": "owner",
+            "contact_name": " Nicolas Ray  ",
+            "contact_email": "nicolas.ray@unige.ch"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "As AccessMod is not an online tool and is a single-user desktop application, we are not sharing/exchanging information externally. However, it seems we are complying with the seven key principles of GDPR (Lawfulness, fairness and transparency; Purpose limitation; Data minimisation; Accuracy; Storage limitation; Integrity and confidentiality (security); Accountability) in the way we have developed the software.",
+            "privacyComplianceURL": "https://github.com/unige-geohealth/accessmod/blob/main/TERMS_OF_USE.pdf"
+        }
+    ],
+    "aliases": "",
+    "awardsReceived": ""
+}
