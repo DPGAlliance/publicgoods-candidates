@@ -1,0 +1,106 @@
+	{
+    "id": "10680",
+    "name": "Credit Commons",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "A protocol for recursive mutual credit accounting. The Credit Commons Protocol supports independent entities to keep track of their exchange on a ledger which they control. Ledgers can be recursively nested, allowing trading blocs of all scales to exchange with each other without using money.",
+    "website": "http://creditcommons.net",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://gitlab.com/credit-commons/cc-node,https://gitlab.com/credit-commons/cc-server,https://gitlab.com/credit-commons/cc-php-lib"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG8: Decent Work and Economic Growth"
+        ],
+        "relevance": "Mutual credit accounting allows communities to create their own medium of exchange, thus boosting trade especially when money is short. The Credit Commons protocol is intended facilitate this kind of project by providing accounting software which also allows trade between groups. One developed world analogue of these systems is Business Barter networks, sometimes called 'Capacity Trade' because they help business trade towards their maximum capacity.  There are almost no cooperative or self-run business networks and no open source software to run them. The Credit Commons reference implementation does accounting - the most crucial function for such groups if they wanted to work cooperatively. Our first implementation is for this cooperative Swedish barter network. http://www.svenskbarter.se/"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "GPL-2.0",
+            "openLicenseEvidenceURLs": "https://gitlab.com/credit-commons/cc-node/-/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Credit Commons Society https://creditcommonssociety.org/",
+            "clearOwnershipURL": "https://creditcommons.net"
+        }
+    ],
+    "documentation": "Documentation - https://gitlab.com/credit-commons/credit-commons-documentation,API documentation - https://gitlab.com/credit-commons/cc-php-lib/-/blob/master/docs/credit-commons-openapi-3.0.yml,Installation - https://gitlab.com/credit-commons/cc-server",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "It's just a REST query to view the transaction data. Transaction data contains wallet ids but not PII."
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The whole thing is a network of trust. Everyone is known to their own group. Admins can trace transactions. Reputation is everything. The whole thing is a network of trust. Everyone is known to their own group. Admins can trace transactions. Reputation is everything.,Transaction fees can be added to any transactions making it costly to transact with users in certain groups.,Users need not broadcast their wallet ids."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "South Africa",
+            "Sweden",
+            "United States of America"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "The complementary currency networks CES and Community Forge are using it to trade between local groups. \r\nhttps://clearingcentral.net"
+    ],
+    "openStandards": [
+        "REST API with JSON",
+        "PSR1",
+        " PSR4",
+        " PSR7",
+        "\r\nOpen API documentation https://gitlab.com/credit-commons/credit-commons-documentation \r\n"
+    ],
+    "bestPractices": [
+        "The Twelve Factor App (https://12factor.net/)",
+        "\r\nPrinciples For Digital Development",
+        "\r\nCode versioning - Using a version control system",
+        "\r\nTest driven development - There are currently about 100 tests running against the OpenAPI spec",
+        "\r\nCode refactoring - The code has been refactored many times. \r\nExtensive use is made of class inheritance for separating out the code.",
+        "\r\nModularity - The linked package cc-node is just the core of the system. Part of the code base is a library of mostly objects and base objects which are strongly implied by the API",
+        " which would help a developer get started with a fresh implementation. Another package cc-server puts a REST wrapper around cc-node."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Credit Commons",
+            "website": "http://creditcommons.net",
+            "org_type": "owner",
+            "contact_name": " Matthew Slater  ",
+            "contact_email": "matslats@creditcommons.net"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "It is like money transmission but without money, so no laws apply. \r\nNo knowledge of the counterparty is needed to transact - only the wallet ID.\r\nComplies with GDPR by not holding PII - Each ledger host its own transaction data and member login credentials. Any other info about users (PII) should be stored outside this application.",
+            "privacyComplianceURL": "See 'node visibility and privacy' in https://gitlab.com/credit-commons/credit-commons-documentation"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
