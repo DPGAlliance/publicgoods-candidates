@@ -1,0 +1,158 @@
+	{
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "sdgs": {
+        "sdg": [
+            "SDG10: Reduced Inequalities",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "SDG10: Citizen participation mechanisms are traditionally held in person. Providing a digital channel for participation enables people who are home-bound, people who are busy at work when participatory events happen, or people who are otherwise unable to attend, to take part in participatory processes as well.\r\n\r\nSDG16: In order for participatory democracy processes to be legitimate, they need to be transparent and audited. Decidim provides transparency to each decision taken within a participatory process by making every vote, discussion, proposal and participation, open and published, so that a digital archive of the process remains for any needed audits. Decidim has also worked to implement traceability mechanisms against tampering which are reflected in Decidim's social contract: https://docs.decidim.org/en/develop/understand/social-contract#_transparency_traceability_and_integrity"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/decidim/decidim/blob/v0.27.3/LICENSE-AGPLv3.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "The Decidim Free Software Association",
+            "clearOwnershipURL": "The creation of the association was decided in a community assembly recorded on our own governance Decidim instance: https://meta.decidim.org/processes/decidim-gov/f/1017/\r\n\r\nThe decision was formalized in the statues of the association that can be consulted here (please note the language is Catalonian): https://metadecidim.s3.amazonaws.com/uploads/decidim/attachment/file/2096/ESTATUTS_ASS_DECIDIM__AMB_ESMENESV2_.pdf"
+        }
+    ],
+    "documentation": "Our documentation is community build and curated on an open repository. It can be viewed in this link: https://docs.decidim.org/ and is available on this repository: https://github.com/decidim/documentation",
+    "id": "10338",
+    "name": "Decidim",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Decidim is a digital platform for citizen participation",
+    "website": "https://decidim.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/decidim/decidim"
+        }
+    ],
+    "openStandards": [
+        "Using open standards is in our social contract: https://docs.decidim.org/en/develop/understand/social-contract.html#_free_software_and_open_content\r\n\r\n- WCAG 2.0/2.1 (Web Content Accessibility Guidelines) -> https://docs.decidim.org/en/develop/develop/guide_accessibility.html\r\n- SSL / HTTPS: https://docs.decidim.org/en/v0.27/configure/initializer.html#_force_ssl\r\n- AES-256: For several of its processes Decidim uses AES-256 encryption. Examples are Voting module https://docs.decidim.org/bulletin-board/admin/virtual-voting-booth.html#_ballot_encryption or encrypting personal identifieble information. It does so by using Ruby on Rail's ActiveSupport::MesageEncryptor https://api.rubyonrails.org/v5.2.3/classes/ActiveSupport/MessageEncryptor.html https://github.com/decidim/decidim/blob/v0.27.3/decidim-core/lib/decidim/attribute_encryptor.rb\r\n- OAuth/OpenID: Decidim is integrated with OAuth",
+        " both as a provider in itself",
+        " as a client. You can check more here https://docs.decidim.org/en/develop/customize/oauth.html\r\n- JWT are part of our architecture https://github.com/decidim/decidim/blob/v0.27.3/Gemfile.lock#L355\r\n- UTF-8 Decidim takes UTF-8 as its official",
+        " internal encoding. https://github.com/decidim/decidim/blob/2037eeb12a9cec666e74fe9b3dfb7c22c2f2597e/decidim-core/lib/decidim/io_encoder.rb#L9\r\n- Decidim's front-end is written in HTML",
+        " CSS and Javascript complying code\r\n- GraphQL: Decidim comes with a powerful API in read-only mode based in the GraphQL specification.\r\n https://docs.decidim.org/en/v0.27/develop/api.html\r\n- JSON: Decidim uses JSON extensibly in its code https://github.com/search?q=repo%3Adecidim%2Fdecidim+JSON&type=code"
+    ],
+    "bestPractices": [
+        "- Translations: Decidim has been translated by the open source community into 55 languages (https://github.com/decidim/decidim/tree/develop/decidim-core/config/locales) for this we use Crowdin",
+        " a service that allows anyone who has even a few minutes to spare",
+        " to volunteer translating snippets into their language. More information about our translation process here: https://docs.decidim.org/en/develop/contribute/translations.html\r\n- Governance: The software and the project Decidim is steered by its community. We do so in a democratic way by participating in a Decidim instance which help us make decisions. The instance is MetaDecidim and can be checked here: meta.decidim.org/ We also hold a list of principles which guide us into any decisions we take. These are here https://docs.decidim.org/en/develop/understand/social-contract you can understand more about our governance here https://meta.decidim.org/processes/Welcome\r\n- Testing: Every time a Pull request is opened",
+        " our Continuous Integration tools run several tests",
+        " among them is to check for test coverage. This means the code will not passed unless enough tests are written and passed. We use SimpleCov and CodeCov to check for test coverage. We have guides for testers here https://docs.decidim.org/en/develop/develop/testing and you can check results of our tests  here: https://app.codecov.io/github/decidim/decidim\r\n- CI/CD: Decidim receives a lot of contributions. According to Repotracker.com",
+        " we receive in average 3.2 Pull requests per day (source: https://repo-tracker.com/r/gh/decidim/decidim). As such",
+        " integration and deployment tools are very important to us. They do everything from check test coverage",
+        " integrate translations",
+        " check code linting",
+        " building docker images",
+        " etc. All of our CI/CD tools are open and available at https://github.com/decidim/decidim/tree/develop/.github/workflows\r\n- Contributions (code reviews",
+        " agile",
+        " etc): Decidim has an active pool of contributors located worldwide that are sending a number of contributions each day.  As such",
+        " code reviewing and feedback",
+        " as well as general discussion about technology decisions is very important. As with everything",
+        " all of these activities happen in the open. For this",
+        " we use the comment section on PRs (which incidentally also remains as a valuable resource for learning developers)",
+        " here is such an example: https://github.com/decidim/decidim/pull/10954 we also make extensive use of Github's discussion forums to make technical decisions open https://github.com/decidim/decidim/discussions and finally",
+        " we have an element channel open to everyone for shorter term questions at chat.decidim.org our organization mode uses agile to deliver in short spans of time. You can view our open project boards here: https://github.com/decidim/decidim/projects?type=classic additionally",
+        " we ensure we provide contributors with enough resources to start developing. Among others",
+        " we use Gitflow to name our branches https://docs.decidim.org/en/develop/develop/guide_conventions and provide extensive developer guides https://docs.decidim.org/en/develop/develop/ \r\n- 12 factor apps: Decidim follows 12 factor recommendations https://docs.decidim.org/en/develop/develop/guide#_good_to_know\r\n- Architectural design: Decidim was built as a ruby gem (a library). This was a very conscious decision that was made to enable any decidim instances in the wild to upgrade with little pain",
+        " no matter how old. We recommend you read this short post where we explain our decisions about the architecture we chose: https://docs.decidim.org/en/develop/develop/guide_example_apps.html as for other descriptors",
+        " Decidim uses the RoR Engines pattern",
+        " it is component based",
+        " which enables any admin to design their own processes",
+        " as a Rails app",
+        " it runs under the MVC paradigm.\r\n- UX/UI: Decidim has stayed with its UI design for the totality of its life. Although its interface can be easily overwritten",
+        " a redesign is much needed. As with everything the process has been open and collaborative. We have a participatory process on meta decidim where open calls happen",
+        " discussions are held and decisions taken. You can view some of it here: https://meta.decidim.org/processes/RedesignDecidim/f/1663/?locale=en the redesign process is also tracked using a scrum board here: https://github.com/decidim/decidim/projects/23\r\n- Standard for Public Code: We have followed the project of the Standard for Public Code since its inception",
+        " inviting them to our 2019 Decidim Fest edition and acting as invitees for their Let's talk about public code podcast https://www.youtube.com/watch?v=MFAb8QaDXFY&ab_channel=FoundationforPublicCode "
+    ],
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Information about processes set up by admins\r\nProposals and Initiatives created by users\r\nComments and discussions about participatory processes."
+        ],
+        "contentManagementPolicy": "We have a complete workflow to handle moderations which you can view here: https://docs.decidim.org/en/develop/admin/global_moderations\r\n\r\nIn essence: \r\n1. users report suspicious content\r\n2. an email is sent to users with the role of moderator or admin\r\n3. the moderator or admin logs in and reviews any reported content. In order to make an auditable decision they need to provide a reason for removal \r\n4. once a decision is made, the content is hidden\r\n"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Decidim instances (not decidim itself!) collect the data necessary to ensure people can participate. A base decidim installation will require a username",
+            " name",
+            " email and password. Decidim offers an authorizations module",
+            " which allows organizations to require more data to verify the users should they want to make a process that has eligibility rules for participation. A use case for this would be collecting the user's neighborhood for a process that's constricted to neighbors only. Here's more information about the Authorizations module https://docs.decidim.org/en/develop/customize/authorizations"
+        ],
+        "dataPrivacySecurity": "Decidim is designed so that only the minimum information to operate about the users is public. For actions that involve public discussion such as comments and proposals, a username, name and profile picture is included. User profiles only show these 3 data points (example: https://meta.decidim.org/profiles/txema/activity). Emails cannot be viewed by either other users or admins. Should an admin or user want to get in touch with another user, they would need to use the messaging feature. Any non-public fields, such as passwords and tokens are encrypted by default. In compliance with GDPR, Decidim offers a feature to download all your data and delete your account.\r\n\r\nIn accordance with our social contract, data integrity is very important to the legitimacy of participatory processes. Decidim is coded with a heavy reliance on action logging which ensure all changes done to participatory processes are traceable. For this we use the Papertrail library: https://github.com/paper-trail-gem/paper_trail the application also operates all actions under a permission system. You can find more information here: https://docs.decidim.org/en/develop/develop/permissions.html\r\n\r\nExperimental features in democratic data integrity: In the case of Elections, we are working on a module that encrypts votes in every step of the way. We also partnered with Vocdoni to build a blockchain-based voting module. More information here: https://www.prnewswire.com/news-releases/vocdoni-and-decidim-join-forces-to-boost-citizen-participation-with-secure-digital-voting-301757760.html\r\n\r\nTo be resilient against any security issue we have a security policy which you can check here: https://docs.decidim.org/en/develop/develop/maintainers/security.html"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "For contribuitors we hold a code of conduct which you can find here: https://github.com/decidim/decidim/blob/develop/CODE_OF_CONDUCT.md\r\n\r\nFor users, they can use the report content feature to report harassment. A moderator could then take the decision of revoking access to the offending user."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Spain"
+        ],
+        "deploymentCountries": [
+            "Andorra",
+            "Argentina",
+            "Austria",
+            "Belgium",
+            "Brazil",
+            "Cameroon",
+            "Canada",
+            "Finland",
+            "France",
+            "Germany",
+            "Italy",
+            "Japan",
+            "Mexico",
+            "Paraguay",
+            "Poland",
+            "Portugal",
+            "Spain",
+            "Switzerland",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Multilateral organizations: the European Union https://futureu.europa.eu/\r\nWe calculate decidim is being used by around 30 countries",
+        " in over 400 administrations and 50 NGOs. Some examples of governments or public bodies:\r\n\r\n- New York City: https://www.participate.nyc.gov/\r\n- Helsinki: https://omastadi.hel.fi/\r\n- Brazil national government: https://brasilparticipativo.presidencia.gov.br/\r\n- France's National Assembly: https://petitions.assemblee-nationale.fr/\r\n- The french senate: https://petitions.senat.fr/\r\n- Mexico City: http://plazapublica.cdmx.gob.mx/\r\n- Monterrey: http://decidimos.monterrey.gob.mx/\r\n- Rosario: https://participa.rosario.gob.ar/\r\n- Kakogawa: https://kakogawa.diycities.jp/\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "You can find more examples here: https://decidim.org/usedby/"
+    ],
+    "awardsReceived": [
+        "We were ranked #2 in people's powered Ratings for Digital Participation Platforms.  "
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Decidim",
+            "website": "https://decidim.org/",
+            "org_type": "owner",
+            "contact_name": " Ali Gonz\u00e1lez  ",
+            "contact_email": "ali@basicavisual.io"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "https://decidim.org/privacy-policy/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
