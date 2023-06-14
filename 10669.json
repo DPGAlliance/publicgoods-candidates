@@ -1,0 +1,132 @@
+	{
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG10: Reduced Inequalities"
+        ],
+        "relevance": "Quality Education: Improving education in schools is a critical issue in India, with far-reaching implications for the country's social and economic development. Access to quality education is a basic human right, and yet, many children are still denied this opportunity. By improving education, we can help to create a more equitable society and promote social and economic development in the long-run.\r\n\r\nURL:  \r\nhttps://www.evidyaloka.org/\r\nhttps://blogspot.siliconvillage.net/2021/03/blended-approach-could-pave-way-for.html\r\nhttps://www.deccanchronicle.com/nation/current-affairs/161017/classy-education-why-cant-rural-kids-have-it.html\r\n\r\nReduced Inequalities: Sunbird Serve provides flexible and accessible educational opportunities, particularly for students in underserved areas or those facing physical barriers to education. These platforms enable students to access educational resources, interactive lessons, and collaborative tools, fostering a more inclusive learning environment (learn via local languages, learn from community based tutors, learn at one's own pace and comfort etc). Also facilitates remote learning and eliminates geographical constraints. Students can engage in real-time interactive sessions and collaborate with teachers, regardless of their location. Serve supports equitable access to quality education, especially for those in remote or disadvantaged areas.\r\n\r\nhttps://blog.evidyaloka.org/\r\n"
+    },
+    "id": "10669",
+    "name": "Sunbird SERVE",
+    "aliases": [
+        "SERVE"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Sunbird SERVE building block can enable efficient volunteer interactions that add significant value to society and overall human development. It enables relevant actors to crowdsource volunteers for their needs and participate in interactions like nominate, approve, promote, acknowledge, recognition, toward the realisation of the value",
+    "website": "https://serve.evean.net/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Sunbird-Serve"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://sunbird.org/software-license"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": " eVean Foundation",
+            "clearOwnershipURL": "https://serve.evean.net/evean/\r\n\r\nSunbird SERVE is a opensource platform built by community contributors managed by eVean Foundation. eVean Foundation is active participant in Sunbird SERVE community enabling continuous development and adoption of the platform. "
+        }
+    ],
+    "documentation": "https://serve.sunbird.org/",
+    "openStandards": [
+        "Web Standards - HTML",
+        " CSS",
+        " JavaScript\r\nSecurity - HTTPS",
+        " SSL",
+        " SFTP",
+        " SHA-256",
+        " SALT\r\nNetworking - TCP/IP\r\nData exchange - CSV\r\nStandard Content Format such as PDF",
+        " MP4",
+        " PPT and Doc\r\n"
+    ],
+    "bestPractices": [
+        "https://sunbird.org/explore/articles/2-thinking-microservice-architecture\r\n\r\nDesign with the User: The technology solution is designed with the end user in mind",
+        " taking into account their needs",
+        " perspectives",
+        " and abilities.\r\n\r\nUnderstand the Ecosystem: The technology is developed in the context of the larger ecosystem in which it will be implemented.\r\n\r\nDesign for Scale: The technology solution is designed with the goal of scaling it up to reach as many people as possible",
+        " while still maintaining quality and effectiveness.\r\n\r\nBuild for Sustainability: The technology solution is developed with the aim of ensuring its sustainability",
+        " including its ability to be maintained",
+        " updated",
+        " and improved over time.\r\n\r\nData Driven: The technology solution is based on accurate and reliable data",
+        " and designed to collect",
+        " analyse",
+        " and use data to continuously improve its effectiveness.\r\n\r\nOpen Standards",
+        " Open Data",
+        " Open Source",
+        " and Open Innovation: The technology solution is built using open standards and open data",
+        " and developed through a process of open innovation and collaboration.\r\n\r\nReuse and Improve: The technology solution is built using existing resources and infrastructure whenever possible",
+        " and continuously improved based on feedback from users and stakeholders.\r\n\r\nAddress Privacy and Security: The technology solution is designed to protect the privacy and security of users and their data",
+        " and should be compliant with relevant laws and regulations.\r\n\r\nCollaborative: The technology solution is developed through a collaborative and inclusive process",
+        " involving all relevant stakeholders",
+        " including end users",
+        " government officials",
+        " and community members.\r\n\r\nFlexible and Adaptive: The technology solution is designed to be flexible and adaptable",
+        " in order to respond to changing circumstances and evolving user needs over time.\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Sunbird SERVE is an open-source software available under MIT License. SERVE itself doesn't collect PII data or store or distributed. Each adopter manages their own SERVE instances where PII data could be collected and stored securely to achieve intended outcome. SERVE architecture is designed to work in a network model, using common protocol like DSEP. This enables the sharing of non PII data between various SERVE instances in the network."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Sunbird SERVE will be having a feature for reporting and flagging\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "APSWREIS(Andhra Pradesh Social Welfare Residential Educational Institutions Society). It is an organization in the state of Andhra Pradesh",
+        " India",
+        " that manages and operates residential educational institutions for the socially and economically disadvantaged sections of the society.\r\nAPSWREIS has been using the platform from 2019 benefitting 185 schools ( spread across 26 districts in state of AP and 78355 rural students) supported by 450 volunteers spread across the world "
+    ],
+    "otherDeploymentOrganisations": [
+        "1. eVidyaloka Trust - have installed our setup solution software in their own instance.\r\n www.evidyaloka.org\r\n\r\n2. Lotus Petal Foundation - have installed our setup solution software in their own instance.\r\n https://vidyasahyog.lotuspetalfoundation.org/\r\n\r\n3. Youth For Seva "
+    ],
+    "awardsReceived": [
+        "No"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Sunbird SERVE",
+            "website": "https://serve.evean.net/",
+            "org_type": "owner",
+            "contact_name": " eVean Foundation  ",
+            "contact_email": "info@evean.net"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "India's Personal Data Protection Bill (2019)\r\nThe IT Act (2000) for its implementation in India.\r\n",
+            "privacyComplianceURL": "Privacy policy: https://www.sunbird.org/privacy-policy\r\nTerms & conditions: https://www.sunbird.org/terms-conditions\r\n"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
