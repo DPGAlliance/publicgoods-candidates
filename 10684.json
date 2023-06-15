@@ -1,0 +1,107 @@
+	{
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "CSV/XML/JSON"
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openStandards": [
+        "HTTPS"
+    ],
+    "bestPractices": [
+        "https://soft-justice.com.tn/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            " name\r\nAge\r\nID ( CIN OR FISCALE)\r\nContent of dispute \r\nThe parties \r\nCommittee decision \r\nEvents requested \r\nPayment details "
+        ],
+        "dataPrivacySecurity": "Criptage\r\nData is stored in DATAXION's datacenter, which is certified in Tunisia. https://www.dataxion.com/"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Minors no accepted"
+    },
+    "id": "10684",
+    "name": "Soft-Justice by SIMARL",
+    "aliases": [
+        "SFJSIMARL"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Soft-Justice by SIMARL is a SAAS platform that brings together mediators, arbitrators and legal auxiliaries with legal claimants who want to free themselves from state courts. ",
+    "website": "https://soft-justice.com.tn/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "http://www.dataxion.com/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "ODD9 SIMARL provides access to justice in any region, whether or not it is included in the judicial map. \r\nWith a simple click, litigants can resolve disputes online, from start to finish.  \r\n\r\n\r\nODD16 SIMARL guarantees equal access to justice for all \r\nSIMARL makes it possible to bring justice closer to everyone, without having to travel to and disgorge in state courts. \r\nSIMARL is contributing to the development of efficient, accountable and transparent institutions: alternative modes of governance.\r\n\r\n"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Unlicense",
+            "openLicenseEvidenceURLs": "https://soft-justice.com.tn/\r\nhttps://102.164.113.2/ \r\nVSPHERE CLIENT (HTML5)\r\n\r\nPlage R\u00e9seau\u00a0: 10.233.170.0/24\r\nMasque de sous r\u00e9seau\u00a0: 255.255.255.0\r\nGateway\u00a0: 10.233.170.254\r\nID VLAN en cas de besoin\u00a0: 170"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Koauthar SALMI et Abderrahman Masmoudi CROCODER",
+            "clearOwnershipURL": "https://drive.google.com/drive/folders/1BbDNOoKchxSyQ5pgkX42nQzJvqCMQjfT?usp=drive_link\r\nPlease find attached the link to the copyright certificate.\r\n\r\nThe site states that all rights are reserved for SIMARL and that the platform is designed by Crocoder (Abderrahman MASMOUDI) Technical Cofounder:\r\n We are in the process of having the security of the platform certified by an expert from EY. "
+        }
+    ],
+    "documentation": "https://drive.google.com/drive/folders/1hby_b8ZbFVdXqCFPRtKRmZdKXo-xulwy?usp=sharing\r\n\r\nhttps://soft-justice.com.tn/fonctionnalite-med\r\nhttps://soft-justice.com.tn/quest-ce-que-la-mediation",
+    "locations": {
+        "developmentCountries": [
+            "Tunisia"
+        ],
+        "deploymentCountries": [
+            "Tunisia"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Joint United Nations Programme on HIV/AIDS"
+    ],
+    "deploymentCountriesDepartments": [
+        " In progress "
+    ],
+    "otherDeploymentOrganisations": [
+        "Mediators & arbitrators ad hoc "
+    ],
+    "awardsReceived": [
+        "We were supported by HIIL",
+        " the gas pedal of the Institute for Inn ovation of Justice in Lahye.\r\nThis year we were selected by the SHIELD program (which supports B TOG startups) of the Westerwell Foundation.\r\nBy lATUGE in its Ad'Venture competition \r\nAnd by THE DOT Capm 3 program.\r\n\r\nhttps://drive.google.com/drive/folders/1OgGm0CbZ2zH7rYpnXm4U7Sq5YRj3TqSu?usp=sharing"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Soft-Justice by SIMARL",
+            "website": "https://soft-justice.com.tn/",
+            "org_type": "owner",
+            "contact_name": " kaouthar SALMI  ",
+            "contact_email": "salmi.kaouthar@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "\r\nhttps://www.inpdp.tn/\r\n\r\nWe comply with the Tunisian Personal Data Protection Act  and the European RGPD \r\n\r\n",
+            "privacyComplianceURL": "Act.https://drive.google.com/drive/folders/1GAq5rOTwlur3FO_4Q8S-A7-S3M_FXHd8?usp=sharing"
+        }
+    ]
+}
