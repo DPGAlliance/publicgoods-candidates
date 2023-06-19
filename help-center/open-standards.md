@@ -89,3 +89,10 @@ Open standards establish protocols and building blocks that can help make digita
 #### Whistleblowing management systems
 * [ISO 37002:2021 (Whistleblowing management systems — Guidelines)](https://www.iso.org/standard/65035.html)
 
+#### Sector-specific standards
+* [FHIR (Fast Healthcare Interoperability Resources)](http://fhir.org/) - Healthcare
+* [openEHR](https://www.openehr.org/) - Healthcare
+* [OCDS (Open Contracting Data Standard)](https://standard.open-contracting.org) - Open government
+* [Open Fiscal Data Package](https://fiscaltransparency.net/open-fiscal-data-package/) - Open government
+* [International Aid Transparency Initiative (IATI) Standard](https://iatistandard.org/en/iati-standard/202/) - Aid
+* [GTFS (General Transit Feed Specification)](https://gtfs.org/) - Mobility
