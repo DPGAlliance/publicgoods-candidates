@@ -1,0 +1,106 @@
+	{
+    "id": "10702",
+    "name": "OpenPV",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "PViMS"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "OpenPV is a web-based application used by clinicians, regulatory bodies, and implementing partners to actively monitor the safety of medicines. It is part of the OpenRIMS suite (openrims.org).",
+    "website": "https://openrims.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/MSH/OpenPV"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "Ensuring safe use of medicines (3.8 Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.)\r\n\r\n"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/MSH/OpenPV/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "MSH",
+            "clearOwnershipURL": "https://pv.openrims.org/security/landing\r\nClick the About button."
+        }
+    ],
+    "documentation": "https://wiki.openrims.org/",
+    "openStandards": [
+        "MySQL",
+        " OpenAPI",
+        " REST",
+        " JSON",
+        " JavaScript",
+        " MedDRA.\r\n"
+    ],
+    "bestPractices": [
+        "- Agile development.\r\n- WHO Digital Principles of Digital Development.\r\n- CI/CD on Azure DevOps.\r\n- GitHub actions.  "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Patient data incl DOB"
+        ],
+        "dataPrivacySecurity": "To ensure privacy and data protection we are applying the following privacy policy (https://github.com/MSH/PViMS-2/blob/master/policyandterms/privacypolicy.pdf). Inaddition to that we are applying encryption and obfuscation of PII at database level"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Philippines",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "Mozambique",
+            "Rwanda"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Bangladesh - DGDA\r\nMozambique - ANARME\r\nRwanda - RFDA"
+    ],
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "PViMS uses Swagger API to handle data.\r\nThis is both PULL and POST using .json or .xml.: https://pv-api.openrims.org/\""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenPV",
+            "website": "https://openrims.org",
+            "org_type": "owner",
+            "contact_name": " Kim Hoppenworth  ",
+            "contact_email": "khoppenworth@msh.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "https://www.openrims.org/index.php/privacy-policy/",
+            "privacyComplianceURL": "https://www.openrims.org/index.php/terms-of-use/\r\n"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
