@@ -1,0 +1,130 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education"
+        ],
+        "relevance": "SDG 3: OpenHIE's specification outlines the reusable architectural practices that constitute OpenHIE. However, the framework is intended to be constantly evolving as standards and implementer needs change over time. The adoption of OpenHIE by countries as part of their digital health strategies allow for standard practices and workflows for better exchange of health data resulting in \r\n\r\nSDG4: The OpenHIE Academy is a community-supported initiative to build capacity for better health information exchange architecture processes. The community offers FREE virtual self-paced courses to build foundational knowledge are health information exchange and the importance of standards towards HIE success. \r\n\r\n"
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "https://wiki.ohie.org\r\nhttps://academy.ohie.org\r\nhttps://guides.ohie.org/arch-spec\r\n"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "id": "10718",
+    "name": "OpenHIE",
+    "aliases": [
+        "OHIE"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "OpenHIE is a global mission-driven community of practice dedicated to improving the health of the underserved through open and collaborative development and support of country driven, large scale health information sharing architectures. The OpenHIE community supports interoperability by creating a reusable architectural framework that introduces a service-oriented approach which maximally leverages health information standards, enables flexible implementation by country partners, and supports interchangeability of individual components.",
+    "website": "https://ohie.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://guides.ohie.org/arch-spec, https://academy.ohie.org"
+        }
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "While the Regenstrief Institute acts as the secretariat for this initiative OpenHIE has been developed from the start as a multi-institutional collaborative. ",
+            "clearOwnershipURL": "https://ohie.org\r\nhttps://wiki.ohie.org/display/documents/OpenHIE+Contribution+Policy"
+        }
+    ],
+    "documentation": "The amount of content is substantial and can not be summarized, links provided below.\r\nhttps://wiki.ohie.org\r\nhttps://guides.ohie.org/arch-spec\r\nhttps://academy.ohie.org \r\nhttps://guides.ohie.org/getting-started\r\n",
+    "openStandards": [
+        "https://guides.ohie.org/arch-spec/architecture-specification/standards-and-profiles ",
+        " including FHIR"
+    ],
+    "bestPractices": [
+        "Principles of Digital Development - https://digitalprinciples.org \r\nHealth Data Governance Principles - http://healthdataprinciples.org"
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Our community has a code of conduct that lays out interaction styles and the penalties for violating these rules. https://wiki.ohie.org/display/documents/OpenHIE+Code+of+Conduct"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Rwanda"
+        ],
+        "deploymentCountries": [
+            "Belgium",
+            "Burundi",
+            "C\u00f4te d",
+            "Canada",
+            "Ethiopia",
+            "France",
+            "Germany",
+            "Ghana",
+            "India",
+            "Indonesia",
+            "Kenya",
+            "Malawi",
+            "Mozambique",
+            "Namibia",
+            "Nepal",
+            "Nigeria",
+            "Philippines",
+            "Rwanda",
+            "South Africa",
+            "Sri Lanka",
+            "Tanzania",
+            "Thailand",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Health Organization (WHO)",
+        " World Bank"
+    ],
+    "deploymentCountriesDepartments": [
+        "Country representatives from each of the countries listed above are engaged in our events",
+        " meeting and some are part of the communities Steering Committee. https://wiki.ohie.org/x/L4FBAw "
+    ],
+    "otherDeploymentOrganisations": [
+        "OpenHIE partner organizations which can be found listed on the community website homepage. https://ohie.org/"
+    ],
+    "awardsReceived": [
+        "Digital Square Global Public Good"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenHIE",
+            "website": "https://ohie.org/",
+            "org_type": "owner",
+            "contact_name": " Jamie Thomas  ",
+            "contact_email": "jamie@ohie.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Although what is disclosed on our wiki or community forum are public, we are all limited by copyright and patent law in how we may use contributions.  Therefore, OpenHIE only accepts voluntary contributions of content and documentation that are expressly licensed to OpenHIE under an approved creative commons license.",
+            "privacyComplianceURL": "https://wiki.ohie.org/display/documents/OpenHIE+Privacy+Policy"
+        }
+    ]
+}
