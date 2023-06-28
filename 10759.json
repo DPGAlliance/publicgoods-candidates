@@ -1,0 +1,109 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education"
+        ],
+        "relevance": "Distributed-ledger technologies are a decentralized, transactional database technology that facilitate validated and peer-to-peer transactions that are consistent across a large number of anonymous network participants - sometimes referred to as nodes. Given its decentralized and tamper-resistant nature, distributed-ledger technology comes with promises of tackling issues of information traceability, accountability, and integrity among a wide variety of individuals, organizations, and institutions across society while improving privacy, transparency, robustness, trustworthiness, and authenticity.   The applications of emerging technology have been proliferating in various sectors and, among them, the education field. Distributed-ledger technology can be harnessed to address challenges to issue and verification of educational data. OpenAttestation is an open-source framework that supports the issuance, storage, and verification of different types of academic information, and complies with applicable regulations, protecting the privacy of users' personal data, all these benefits align with and make contributions to SDG 4: Quality Education. "
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/Open-Attestation/open-attestation/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Government Technology Agency, Singapore",
+            "clearOwnershipURL": "https://www.openattestation.com/"
+        }
+    ],
+    "documentation": "Installation guide - https://github.com/Open-Attestation/open-attestation,\r\nDeveloper guide - https://www.openattestation.com/docs/docs-section/introduction,\r\nIntegrator docs - https://www.openattestation.com/docs/integrator-section/verifiable-document/overview",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "id": "10759",
+    "name": "OpenAttestation",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "OpenAttestation is an open-source framework that allows for trustworthy education data-sharing by facilitating the decentralised issuance, storage and verification of academic and training documents, in line with applicable data privacy regulations.",
+    "website": "https://www.openattestation.com/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Open-Attestation/open-attestation"
+        }
+    ],
+    "openStandards": [
+        "Accessibility - WCAG2.1",
+        "Security - HTTPS",
+        " SSL",
+        " SHA3",
+        "Internationalization (i18n) - UTF-8",
+        " ASCII",
+        "Data Exchange formats - JSON",
+        " YAML",
+        " XML",
+        "Standard Content formats - PDF",
+        "Multimedia - SVG",
+        " PNG",
+        " JPEG https://github.com/Open-Attestation/open-attestation Software Development - Agile development",
+        "Architectural Design - Modularity and Maintainability",
+        " Reusability and Extensibility"
+    ],
+    "bestPractices": [
+        "https://github.com/Open-Attestation/open-attestation"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Users of system remain anonymous, and at no time is PII retained in our systems. Collaboration is done via Github, which have policies in-place for account sign up by underage users.,Users of system remain anonymous, and at no time is PII retained in our systems."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Singapore"
+        ],
+        "deploymentCountries": [
+            "Singapore"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Accounting and Corporate Regulatory Authority of Singapore (ACRA) \r\nMinistry of Health of Singapore (MOH)\r\nSingapore Examinations and Assessment Board (SEAB)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenAttestation",
+            "website": "https://www.openattestation.com/",
+            "org_type": "owner",
+            "contact_name": " Barry Lim  ",
+            "contact_email": "OpenAttestation_Support@tech.gov.sg"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Personal Data Protection Act 2012 (PDPA) in Singapore Privacy policy - https://www.opencerts.io/privacy",
+            "privacyComplianceURL": "https://www.opencerts.io/privacy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
