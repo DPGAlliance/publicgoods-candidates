@@ -1,0 +1,117 @@
+	{
+    "id": "10762",
+    "name": "Daktilograf",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open AI Model",
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "Daktilograf-STT is a powerful speech-to-text engine built to convert spoken language into written text.\r\nDaktilograf-TTS is an innovative text-to-speech engine that enables the generation of natural-sounding human speech from written text.\r\nDa-Sub is an automated subtitle generation tool designed to simplify the process of creating subtitles for videos.\r\nThe Virtual Assistant project is an intelligent conversational agent that leverages Daktilograf's speech and text processing engines to understand user commands, respond to queries, and perform various tasks.",
+    "website": "daktilograf.om3ga.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-Project"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG10: Reduced Inequalities",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "Here's how Daktilograf-stt, Daktilograf-tts, D-assistant, DA-sub, DA-reader, and the virtual keyboard can contribute to the SDGs:\r\n\r\nNo Poverty: By providing offline speech-to-text and text-to-speech solutions, we are helping children with disabilities access educational resources. This can contribute to reducing poverty by improving their educational opportunities and increasing their potential for future economic empowerment.\r\n\r\nQuality Education: Our solutions aim to assist schools and children in the educational process, particularly those with disabilities. By providing tools like D-assistant, DA-sub, and DA-reader, we enable inclusive education, allowing children to access educational content and lectures effectively. This promotes equal learning opportunities and supports the goal of quality education for all.\r\n\r\nGender Equality: Our solutions have the potential to empower girls and women with disabilities by ensuring they have equal access to education. By addressing their specific needs, such as visual or hearing impairments, we contribute to reducing barriers and promoting gender equality in education.\r\n\r\nDecent Work and Economic Growth: By providing assistive technologies like the virtual keyboard for mobile phones, we enable individuals with vision or motor impairments to use digital devices effectively. This helps create opportunities for them to engage in the digital economy, access employment opportunities, and contribute to economic growth.\r\n\r\nReduced Inequalities: Our solutions directly address the needs of individuals with disabilities, reducing inequalities by providing them with tools that enable equal access to education and digital content. This promotes social inclusion, empowering marginalized individuals and reducing the gap between different social groups.\r\n\r\nPartnerships for the Goals: The involvement of UNICEF as an investor in our project demonstrates a collaboration between the private sector and a global organization to support the SDGs. Such partnerships are crucial for achieving sustainable development, as they bring together resources, expertise, and networks to drive positive change."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-SA-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-STT/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/blob/dev/LICENSE.txt\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/da-sub/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/toolbox/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/dAsistent/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/dataset/blob/main/LICENSE"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-STT/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/blob/dev/LICENSE.txt\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/da-sub/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/toolbox/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/dAsistent/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/dataset/blob/main/LICENSE"
+        },
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-STT/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/Daktilograf-TTS/blob/dev/LICENSE.txt\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/da-sub/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/toolbox/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/dAsistent/blob/main/LICENSE\r\nhttps://github.com/OM3GA-SOLUTIONS-d-o-o/dataset/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "OM3GA SOLUTIONS doo, South Central Ventures, ICT Hub Ventures, Amil \u010cengi\u0107 and Snje\u017eana Gomilanovi\u0107",
+            "clearOwnershipURL": "https://daktilograf.om3ga.org/\r\nhttps://sc-ventures.com/news/om3ga-solutions-raises-a-seed-round-for-their-speech-to-text-platform-daktilograf/"
+        }
+    ],
+    "documentation": "https://daktilograf3.readthedocs.io/sr/latest/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Montenegro",
+            "Serbia"
+        ],
+        "deploymentCountries": [
+            "Montenegro",
+            "Serbia"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministry of Police Administration of Montenegro"
+    ],
+    "otherDeploymentOrganisations": [
+        "We have lot of B2B clients in Balkan region"
+    ],
+    "awardsReceived": [
+        "https://www.unicefinnovationfund.org/broadcast/updates/daktilograf-deep-learning-speech-text-solution-slavic-languages\r\nhttps://beststartup.eu/54-top-machine-learning-startups-and-companies-in-the-balkans/"
+    ],
+    "openStandards": [
+        "UTF-8\r\nCSV"
+    ],
+    "bestPractices": [
+        "https://csvlint.io/validation/649cbc7897eaa50002000057"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Daktilograf",
+            "website": "daktilograf.om3ga.org",
+            "org_type": "owner",
+            "contact_name": " Amil Cengic  ",
+            "contact_email": "amil@om3ga.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR)\r\nCalifornia Consumer Privacy Act (CCPA)\r\nPersonal Information Protection and Electronic Documents Act (PIPEDA)\r\nChildren's Online Privacy Protection Act (COPPA)\r\nAccessibility Laws\r\n",
+            "privacyComplianceURL": "https://daktilograf.om3ga.org/politika-privatnosti/\r\nhttps://daktilograf.om3ga.org/coppa/\r\n"
+        }
+    ],
+    "aliases": ""
+}
