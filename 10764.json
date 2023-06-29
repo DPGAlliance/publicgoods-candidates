@@ -1,0 +1,138 @@
+	{
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "Ghana",
+            "Kenya",
+            "Sierra Leone",
+            "Tanzania",
+            "United States of America"
+        ]
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "deploymentCountriesDepartments": [
+        "Kenya Ministry of Health",
+        " Department of Non-communicable Diseases\r\nBangladesh Ministry of Health",
+        " Department of Non-communicable Disease (in partnership with BRAC)\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "Christian Health Associates of Ghana (CHAG)\r\nChristian Health Associates of Sierra Leonne (CHASL)\r\nChristian Health Associates of Tanzania (CSSC)\r\n"
+    ],
+    "awardsReceived": [
+        "Finalist in Fast Company's World Changing Ideas:\r\nhttps://www.medtroniclabs.org/insights/medtronic-labs-work-honored-as-world-changing-by-fast-company/"
+    ],
+    "id": "10764",
+    "name": "SPICE",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "SPICE is a community-based platform for data-driven population health. SPICE leverages clinical algorithms to screen, refer, and manage patients based on clinical risk, transforming care delivery from reactive to proactive while linking community-based work bi-directionally with health facilities and health systems",
+    "website": "https://www.medtroniclabs.org/technology-platform/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Medtronic-LABS"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG10: Reduced Inequalities",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "The SPICE platform has direct relevant to SDG 3: Good health and wellbeing - Ensure healthy lives and promote well-being for all at all ages. The platform has been primarily designed to address target 3.4 (By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being).  \r\n\r\nMedtronic LABS mission is to expand access to healthcare for underserved patients, families, and communities around the world. Through our open-source technology platform and recipe for health systems strengthening, we provide sustainable and localized healthcare solutions that deliver measurable patient outcomes. More information about Medtronic LABS can be found at https://www.medtroniclabs.org.  \r\n\r\nSPICE is the first open-source digital platform designed to support a new era of data-driven community healthcare delivery. We go beyond the commonly used data collection tools to ensure that all community-based activities are bi-directionally linked to the health system. Our technology is embedded directly within health systems and government digital ecosystems to transform the way healthcare is delivered. With SPICE, service delivery is driven by data for smarter resource allocation and better health outcomes. \r\n\r\nIn addition, the SPICE platform supports SDG 10 (Reduced inequalities) and SDG 17 (partnership for the goals) based on our approach to partnerships and health system strengthening and sustainability within each of our programs.  "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "Our project uses the BSD 3-Clause License.  \r\n\r\nLink to Licenses:\r\nAndroid: https://github.com/Medtronic-LABS/spice-android/blob/master/LICENSE   \r\nWeb Admin: https://github.com/Medtronic-LABS/spice-admin-web/blob/master/LICENSE\r\nServer: https://github.com/Medtronic-LABS/spice-server/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Medtronic LABS",
+            "clearOwnershipURL": "Medtronic LABS is the owner and primary developer of the SPICE platform. Our website clearly highlights our technology platform, SPICE, as the technology behind our programs (https://www.medtroniclabs.org/technology-platform/). \r\n\r\nWithin our license terms, we have provided a copyright that the software is Copyright of Medtronic LABS, 2023 (https://github.com/Medtronic-LABS).   "
+        }
+    ],
+    "documentation": "Our open-source documentation is available here: https://spice.docs.medtroniclabs.org.  Our documentation will continue to evolve, and we will continue adding to our open-source documentation as the project evolves and new releases and feature functionality is released.  \r\n\r\nBelow are links to all the relevant platform documentation: \r\n\r\nPlatform Overview: https://spice.docs.medtroniclabs.org/overview/what-is-spice \r\n\r\nArchitectural diagram: https://spice.docs.medtroniclabs.org/engineering/architecture   \r\n\r\nTechnology stack/platform review: https://spice.docs.medtroniclabs.org/engineering/technology-stack   \r\n\r\nInstallation guide: https://spice.docs.medtroniclabs.org/deploy/deployment-guide \r\nSpecific installation guides under this section for each piece of the platform (Android, server, web)  \r\n\r\nUser guide: https://spice.docs.medtroniclabs.org/overview/spice-app-features \r\n(This section of our documentation goes through each major feature and provides detailed steps for how a user engages with the application, a in-line demo video, and key data collected )\r\n\r\nSource code reference (in-line code comments): Our source code is hosted in GitHub, and the repositories can be found here: https://github.com/Medtronic-LABS  \r\nAndroid: https://github.com/Medtronic-LABS/spice-android  \r\nServer: https://github.com/Medtronic-LABS/spice-server  \r\nAdmin Web: https://github.com/Medtronic-LABS/spice-admin-web   \r\n\r\nAPI references: https://spice.docs.medtroniclabs.org/engineering/api-documentation  \r\n\r\nRelease notes: We are working on our next release and our release notes will be published here once available: https://github.com/Medtronic-LABS  ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "The SPICE platform has been developed to comply with open standards and designed with relevant best practices and principles in mind. Below is a list of the open standards that SPICE adheres to.  \r\n\r\nOpen Standards: \r\n\r\nAccessibility: WCAG 2.0 \r\n\r\nSecurity: HTTPS",
+        " SSL",
+        " AES",
+        " PKI \r\n\r\nAuthentication & Authorization: OAuth 2.0 \r\n\r\nWeb Standards: HTML",
+        " CSS \r\n\r\nSoftware Architectural Styles: REST \r\n\r\nData Exchange Formats: JSON",
+        " XML",
+        " CSS\r\n \r\nSoftware Quality Assurance: ISO/IEC \r\n\r\nStandard Content Formats: PDF "
+    ],
+    "bestPractices": [
+        "Best Practices: \r\n\r\nSoftware Development: User management",
+        " Change management using version control",
+        " Agile development ",
+        " Test driven development (automated testing in progress)",
+        " Continuous integration & continuous deployment (CI/CD)",
+        " Code Review \r\n\r\nArchitectural Design: Modularity and maintainability",
+        " Security & consented access",
+        " Reusability and extensibility",
+        " Microservices architecture \r\n\r\nSoftware Architectural Styles: Model-view-controller",
+        " Representational state transfer (REST) \r\n\r\nCloud Computing: AWS Best Practices for cloud environments \r\n\r\nUser Interface / User Experience (UI/UX): Human centered design principles",
+        " Material design \r\n\r\nCoding Styles & Standards: Open Source",
+        " Standard for Public code \r\n\r\nBest practices to help secure IT resources: Create strong passwords for username/password authentication ",
+        " Enable resource access authorization",
+        " Leverage IT auditing",
+        " Protect data at rest (data encryption",
+        " firewall",
+        " scheduled backups)",
+        " Protect data in transit (encrypt data in transit using TLS) "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "The SPICE solution collects",
+            " stores",
+            " and distributes PII data. The following are the types of data that the software collects",
+            " stores",
+            " and distributes: \r\n\r\nName (First Name",
+            " Last Name)  \r\nCity/Town name  \r\nTelephone number  \r\nEmail  \r\nDate of birth  \r\nAccount name  \r\nGeolocation information (screening location I.e.",
+            " latitude & longitude) \r\nHealth condition(s) and related health data  \r\nBiometric data "
+        ],
+        "dataPrivacySecurity": "The SPICE platform has implemented the following controls and safeguards to ensure the privacy, security, and integrity of the data collected: \r\n\r\nProcess, Policies, and Procedures:\r\nCompliance with international standards such as GDPR & HIPAA \r\nRegular data access audits completed \r\nSecurity governance, risk, and compliance processes in place for organization \r\n\r\nApplication Security: \r\nData is encrypted in transit \r\nData is encrypted at rest \r\nAuthorization required to access patient data with username and password \r\nAccount lock after 5 incorrect password attempts \r\nData access is restricted by role type \r\n\r\nData Privacy:\r\nAll data is de-identified prior to landing in data warehouse for anonymized reporting \r\nData is fully de-identified prior to sharing with program stakeholders \r\nPatient consent is required prior to data collection "
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "SPICE",
+            "website": "https://www.medtroniclabs.org/technology-platform/",
+            "org_type": "owner",
+            "contact_name": " Kelly Shelden  ",
+            "contact_email": "kelly.a.shelden@medtronic.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The SPICE platform enables the collection of PII data such as Name, Age, Location, and Health status information. \r\n\r\nThe SPICE platform has been developed to be compliant with both international and country-specific regulations. The SPICE application is compliant with the General Data Protection Regulation (GDPR) and the system is audited at each release to ensure compliance. The SPICE platform also complies with all country-specific regulations where it operates. For example, in Kenya, SPICE is compliant with the 2019 Kenya Data Protection Act.  \r\n\r\nThe full list of regulations that SPICE complies with is as follows: \r\nGeneral Data Protection Regulation (GDPR) \r\nKenya Data Protection Act, 2019 \r\nGhana Data Protection Act, 2012 \r\nTanzania Personal Data Protection Act, 2022 ",
+            "privacyComplianceURL": "The mobile application privacy policy can be found here: https://spice.docs.medtroniclabs.org/overview/data-privacy-and-security/privacy-policy. The privacy policy is included within the application side-menu for all users to have access to and can be customized by any software developer that would take and use the application for their own purposes.  \r\n\r\nWe can also provide our registration forms with the Kenyan & Ghanian Data Protection offices where Medtronic LABS is registered as a data processor. "
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
