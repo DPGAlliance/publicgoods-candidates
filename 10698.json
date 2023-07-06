@@ -1,0 +1,204 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG5: Gender Equity",
+            "SDG6: Clean Water and Sanitation",
+            "SDG13: Climate Action",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "SDG5: Harassmap. Born as a response to the persistent problem of sexual harassment on the streets of Egypt, to which society had become increasingly tolerant. It was the first independent initiative to work on this issue and was launched in December 2010 by a founding group of four women together with tech partners, advisers, and volunteers. It generated mass public dialogue, pushed the National Council for Women and several members of parliament to draft new laws, inspired a first successful court case, and encouraged women's NGOs who had previously been reluctant to take on this issue, to form an 18 member NGO Task Force on Sexual Harassment. In an independent review (https://www.ushahidi.com/in-action/towards-a-safer-city) of Harassmap.org, they concluded that the Ushahidi map is an effective tool for data collection for sensitive issues, encouraging more participation and sometimes more truthful reports than other typical data collection means. \r\n \r\nSDG6: Following the COVID pandemic, there was increased use of the Ushahidi platform globally by organizations and individuals self-organizing to provide mutual aid, document COVID-19 testing experiences, and create visibility on where to access essential resources for vulnerable communities. Ushahidi supported over 2000 deployments in over 140 countries. One such engagement was Humanitarian Open Street Maps (HOT) in Indonesia which set up a deployment to track and publicise handwashing stations across Indonesia to allow easier access for residents. The idea was inspired by early expert advice deeming handwashing as an effective way to prevent the spread of the virus. \r\n \r\nSDG13: Ushahidi was one of four organizations to win a Global Adaptation Index (GAIN) Prize in its inaugural year for its adaptation to urbanization, population growth, climate change and other global challenges (https://www.ushahidi.com/about/blog/ushahidi-wins-global-adaptation-index-prize). One such climate change deployment is the Hatfield Climate Resilience-MVP Plan which crowdsourced information about Hatfield and its climate resilience (https://mvp.ushahidi.io/views/map). A second example is the Tana River Climate Change & Livelihoods Restoration Project (https://tclirp.ushahidi.io/views/map) by World Vision Kenya that aimed to contribute to enabling environmental policy implementation, governance and environmental management through evidence generation using crowd geo-tagging. Case study report: https://www.gsma.com/mobilefordevelopment/resources/climate-change-adaptation-and-livelihood-restoration-in-tana-river-delta/?utm_source=LinkedIn&utm_medium=Social&utm_campaign=WVK\r\n \r\nSDG 16: On good governance, Ushahidi was born out of an electoral crisis in Kenya. Ushahidi in practice can be read in the published paper titled \u201cCrowdsourcing Accountability in a Nigerian Election\u201d in the Journal of Information Technology & Politics by Catie Snow Bailard & Steven Livingston, proving that the use of Ushahidi \u2013 ReclaimNaija (http://www.reclaimnaija.net/)- increased voter turnout in the 2011 Nigerian election by 8%). Additionally,  Ushahidi has been used to monitor elections in India, Zambia, Mozambique, Nigeria, the USA and many other countries over the past decade. Our strategy has evolved from primarily reactionary to proactively engaging with ordinary citizens and stakeholders to help foster transparency and accountability in elections.  \r\n\r\nThe United Nations (UN) has a long history of working to maintain peace and security around the world. It strives to improve relations among nations and protect human rights. A second use case of SDG 16 is The UN Department of Field Services which used the Ushahidi platform for its peacekeeping operations. Called SAGE\u2014Situational Awareness Geospatial Enterprise\u2014the UN used the Ushahidi platform to collect, process and disseminate information from their field staff so the mission HQ has a better understanding of what\u2019s happening on the ground, can triage accordingly, and can make better decisions."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/ushahidi/platform/blob/develop/LICENSE.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Ushahidi Inc.",
+            "clearOwnershipURL": "Terms of Service: https://www.ushahidi.com/terms-of-service/"
+        }
+    ],
+    "documentation": "https://docs.ushahidi.com/platform-developer-documentation/development-and-code/how-to-get-the-source-code",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Exporting Data from Ushahidi:\r\nUshahidi provides export functionality within the user interface using the platform APIs. This allows authorized users to export data from the platform and download the data as CSV file.\r\n\r\nImporting Data into Ushahidi:\r\nUshahidi provides import functionality within the user interface using the platform APIs. This allows authorized users to import data into the platform as a CSV file. During this process, users are prompted to select the specific survey they wish to import the data into and map the columns of the CSV file to the corresponding survey fields.\r\n\r\nhttps://docs.ushahidi.com/platform-developer-documentation/tech-stack/api-documentation#csv-exports-and-imports\r\n\r\n\r\n\r\n\r\n"
+    },
+    "openStandards": [
+        "Security & Authentication: HTTPS",
+        " SSL",
+        " OAuth 2.0\r\nWeb standards: HTML",
+        " CSS",
+        " JavaScript\r\nAPIs: RESTful APIs",
+        " OpenAPI\r\nData formats: JSON",
+        " CSV",
+        " GeoJSON\r\nOpen source components: OpenStreetMap (OSM)\r\n\r\nhttps://app.swaggerhub.com/apis-docs/Ushahidi-inc/ushahidi-swagger/3.0-oas3\r\nhttps://documenter.getpostman.com/view/24695099/2s8YszQWLi\r\n\r\n"
+    ],
+    "bestPractices": [
+        "PSR",
+        " TDD",
+        " CI/CD",
+        " CQRS",
+        " Rest",
+        " Open Source Tips\r\nhttps://docs.ushahidi.com/platform-developer-documentation/development-and-code/coding-standards\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Email address",
+            " Location",
+            " Telephone number"
+        ],
+        "dataPrivacySecurity": " The Ushahidi Platform offers settings to protect some of these information items, without completely hiding them, by making them fuzzier. This is important for data that is valuable to show aggregated (i.e. incidents in a geographic area), and thus is not desired to make completely private. How we protect data: \r\n- https://www.ushahidi.com/support/data-security \r\n-https://docs.ushahidi.com/platform-developer-documentation/untitled/security-as-a-user \r\n-A deployer's obligation to protect his audience  https://www.ushahidi.com/support/deployer-obligations-under-the-gdpr"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Text Reports: Users can submit text-based reports containing information about incidents",
+            " events",
+            " observations",
+            " or other relevant data.\r\n\r\nImages: Ushahidi supports the collection and storage of image files. Users can submit photos or images related to a specific incident or event.\r\n\r\nGeospatial Data: Location information is a fundamental aspect of the Ushahidi platform. Users can submit reports with associated geographic coordinates.\r\n\r\nSocial Media Data: Ushahidi can collect content from social media platforms like Twitter. Users can use hashtags or specific mentions to flag relevant posts",
+            " which are aggregated and integrated into the Ushahidi deployment.\r\n"
+        ],
+        "contentManagementPolicy": "The responsibility for moderating and managing content ultimately rests with the organization or community using Ushahidi, while the platform provides mechanisms to address and deal with these issues.\r\n\r\nUshahidi allows for content moderation, meaning designated administrators or moderators can review incoming reports and data before they are published or made public. This moderation process helps identify and filter out any inappropriate or illegal content that violates community guidelines or legal requirements.\r\n\r\nUshahidi provides user management functionalities, allowing administrators to control user accounts and permissions. This enables the organization to restrict or remove access for users who consistently contribute inappropriate or illegal content."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The Ushahidi Platform is age-agnostic. This means that persons of all age groups can access both the platform's frontend and backend features. Our community advocacy and technology privacy teams regularly review and monitor the new and existing deployments created on our servers for predatory threats such as bullying, grooming, abuse, and aggression. \r\n\r\nEvery two weeks, Ushahidi team members randomly spot-check deployments, and this enables us to further check the thematic areas and content of deployments that we host. We also partner with digital security organizations such as Tor in order to amplify safeguarding information, advice, and guidance for deployers and users of Ushahidi. \r\n\r\nEvery visitor or user of any hosted Ushahidi deployment has 24/7 access to our community support channel, which they can use to anonymously report any content that poses a risk to the safety and security of underage users. After receiving the report, our community advocacy and technology privacy teams will suspend the deployment and form a committee to investigate the claims quickly. Any deployments whose content is found in contravention shall be banned indefinitely. Over the last 15 years of our existence, Ushahidi has not discovered or received any complaint of a deployment that poses a risk to its underage users or visitors.  \r\n\r\nCode of conduct - https://docs.ushahidi.com/platform-developer-documentation/code-of-conduct"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kenya"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Australia",
+            "Austria",
+            "Bahamas",
+            "Belarus",
+            "Bolivia",
+            "Brazil",
+            "Cambodia",
+            "Canada",
+            "Chile",
+            "Colombia",
+            "Costa Rica",
+            "Croatia",
+            "Czechia (Czech Republic)",
+            "Ecuador",
+            "El Salvador",
+            "France",
+            "Gambia",
+            "Germany",
+            "Ghana",
+            "Greece",
+            "Guatemala",
+            "Guinea",
+            "Honduras",
+            "Hungary",
+            "India",
+            "Indonesia",
+            "Iraq",
+            "Ireland",
+            "Japan",
+            "Kenya",
+            "Lebanon",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mexico",
+            "Moldova",
+            "Morocco",
+            "Nepal",
+            "Netherlands",
+            "Nigeria",
+            "Norway",
+            "Oman",
+            "Pakistan",
+            "Panama",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Russia",
+            "Saudi Arabia",
+            "Senegal",
+            "Singapore",
+            "South Korea",
+            "Spain",
+            "Sri Lanka",
+            "Sweden",
+            "Switzerland",
+            "Tanzania",
+            "Thailand",
+            "Togo",
+            "Tunisia",
+            "Turkey",
+            "Uganda",
+            "Ukraine",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States of America",
+            "Venezuela",
+            "Vietnam",
+            "Zimbabwe"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "These are among the organisations that have used or as using our Ushahidi Platform:\r\n- World Vision Kenya\r\n- Connected Development\r\n- Hayata Destek\r\n- Aga Khan Foundations in Kenya",
+        " Uganda and Mozambique\r\n- GSMA\r\n- Code for Pakistan\r\n- HOT OSM\r\n- Urban Better\r\nNaming a few of the myriads of organizations globally that have used our platform over 200",
+        "000 times in over 160 countries. "
+    ],
+    "awardsReceived": [
+        "- Ushahidi was awarded as the Tech for Global Good Laureate by The Tech Interactive: https://www.thetech.org/core-programs/the-tech-for-global-good/2021-22-laureates/ \r\n\r\n- United Nations Development Programme (UNDP) and the Digital Public Goods Alliance (DPGA) launched a joint call for open-source innovations with the goal of discovering and highlighting innovative open-source solutions that can help promote information integrity. This initiative supported the Nobel Prize Summit",
+        " \u201cTruth",
+        " Trust and Hope\u201d. Ushahidi was one of the recipients of the prize: https://digitalpublicgoods.net/information-pollution/ "
+    ],
+    "id": "10698",
+    "name": "The Ushahidi Platform",
+    "aliases": [
+        "Ushahidi "
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Our flagship product is the Ushahidi Platform, an integrated data crowdsourcing and mapping tool that allows people to rapidly collect, manage and analyze crowdsourced information from their communities. Empowering people through citizen-generated data to develop solutions that strengthen their communities. ",
+    "website": "https://www.ushahidi.com/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/ushahidi/platform/, https://github.com/ushahidi/platform-client-mzima"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "An example is our SMS Sync product. We built it ground up",
+            " but some libraries have not been updated",
+            " and others have even been deprecated. However",
+            " it exists as a plug-in to the Ushahidi Platform",
+            " and Platform continues to operate normally without it. There also exists commercial + open-source alternatives such as Africa's Talking."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "The Ushahidi Platform",
+            "website": "https://www.ushahidi.com/",
+            "org_type": "owner",
+            "contact_name": " Rhoda Omenya  ",
+            "contact_email": "rhoda@ushahidi.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR) - https://www.ushahidi.com/support/how-ushahidi-prepared-for-gdpr, Kenya Data Protection Act (2019) Terms of Service: https://www.ushahidi.com/terms-of-service,",
+            "privacyComplianceURL": "Privacy Policy: https://www.ushahidi.com/privacy-policy\r\nTerms of service: https://www.ushahidi.com/terms-of-service/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": ""
+}
