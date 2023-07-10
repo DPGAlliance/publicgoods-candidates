@@ -1,0 +1,123 @@
+	{
+    "id": "10269",
+    "name": "OTTAA Project",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "OTTAA",
+        "OTTA Proyect",
+        "OTTA"
+    ],
+    "description": "First AI based, predictive AAC platform for people with speech impairment",
+    "website": "https://ottaaproject.com/",
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being,SDG4: Quality Education,SDG8: Decent Work and Economic Growth,SDG10: Reduced Inequalities"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.   Focusing on good health and well-being, OTTAA as a support communication device, empowers people with speech impairments to make their own decisions regarding their health and medical treatments, easing diagnostics by communicating directly and not relying on a caregiver's opinion is key to achieve an overall sense of well-being. OTTAA provides several pictograms and pre-set sentences to ease communication in a medical setting.,&#013; &#010;OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.   Focusing on good health and well-being, OTTAA as a support communication device, empowers people with speech impairments to make their own decisions regarding their health and medical treatments, easing diagnostics by communicating directly and not relying on a caregiver's opinion is key to achieve an overall sense of well-being. OTTAA provides several pictograms and pre-set sentences to ease communication in a medical setting.,&#013; &#010;OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.   Focusing on good health and well-being, OTTAA as a support communication device, empowers people with speech impairments to make their own decisions regarding their health and medical treatments, easing diagnostics by communicating directly and not relying on a caregiver's opinion is key to achieve an overall sense of well-being. OTTAA provides several pictograms and pre-set sentences to ease communication in a medical setting.,&#013; &#010;OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.   Focusing on good health and well-being, OTTAA as a support communication device, empowers people with speech impairments to make their own decisions regarding their health and medical treatments, easing diagnostics by communicating directly and not relying on a caregiver's opinion is key to achieve an overall sense of well-being. OTTAA provides several pictograms and pre-set sentences to ease communication in a medical setting.,&#013; &#010;OTTAA is fully aligned with the guidelines of #Envision2030, promoting and raising awareness of disability overall and how people with disabilities can reach SDG goals in general.  By giving someone a voice, allowing them to speak for themselves & to decide, is the most powerful thing that can happen to them, by using OTTAA they can express their political views, their needs and opinions allowing them to participate in their society."
+        }
+    ],
+    "categories": [
+        "Open Software",
+        "Open AI Model"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/OTTAA-Project/ottaa_project_flutter"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "OTTAA Project",
+            "clearOwnershipURL": "https://ottaa-project.github.io/"
+        }
+    ],
+    "documentation": "https://ottaa-project.github.io/docs/welcome,https://ottaa-project.github.io/docs/Readme,https://github.com/OTTAA-Project/ottaa_project_flutter,Technology standards - https://ottaa-project.github.io/docs/techno,Libraries used - https://ottaa-project.github.io/docs/Resources,Code of conduct - https://ottaa-project.github.io/docs/Code-of-Conduct",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Data can be transfered using JSON format. Reference : https://ottaa-project.github.io/docs/techno"
+    },
+    "openStandards": [
+        "HTTPS for secure communicate over networks",
+        "OAuth 2 for authentication and user authorization",
+        "UTF-8 for string localization and internalization",
+        "JSON for database structure and data transfer",
+        "PNG & Webp for images and pictograms",
+        "OGG for audio files https://ottaa-project.github.io/docs/techno Best Practices for Android Development",
+        "Object Oriented Programming",
+        "User centered design"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Email",
+            "Date of bith",
+            "Name"
+        ],
+        "dataPrivacySecurity": " We have requested a revision to ANMAT (FDA equivalent in Argentina) to certify this project does not harm and is safe to use. The revision was successfully approved.  The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. \n If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. \n When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Chile",
+            "Argentina"
+        ],
+        "deploymentCountries": [
+            "Chile",
+            "Argentina",
+            "Colombia",
+            "Mexico",
+            "Spain"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            ""
+        ]
+    },
+    "organizations": [
+        {
+            "name": "OTTAA Project",
+            "website": "https://ottaaproject.com/",
+            "org_type": "owner",
+            "contact_name": " Hector Costa  ",
+            "contact_email": "hcosta@ottaaproject.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR Privacy policy - https://ottaa-project.github.io/docs/privacypolicy"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
