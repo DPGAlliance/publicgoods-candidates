@@ -1,0 +1,108 @@
+	{
+    "id": "10711",
+    "name": "Sentinel-2 10m Land Cover Time Series of the World from 2017-2022",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Data"
+    ],
+    "description": "Sentinel-2 10m Land Cover Time Series provides public access to global land use and land cover data of the world from 2017-2022 with 10 meter resolution.",
+    "website": "https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG2: Zero Hunger",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG13: Climate Action",
+            "SDG15: Life on Land"
+        ],
+        "relevance": "Mapping global agricultural lands, and related land conversion, directly supports work to increase food security. The \"Sentinel-2 10m Land Cover Time Series of the World from 2017-2022\" layer displays a global annual map of land use/land cover (LULC). The map is derived from ESA Sentinel-2 imagery at 10m resolution. It is a composite of LULC predictions for 9 classes throughout the year in order to generate a representative snapshot of each year. It includes classifications for crops and flooded vegetation.\r\n \r\nMapped urban areas and trends in urban development can be seen on the LULC map. At 10m scale we can also identify large green spaces in urban areas and agricultural peripheries.\r\n \r\nLand cover conversion plays a major role in CO2 emissions (e.g. deforestation and conversion of other natural habitats) as well as climate resilience (mapping forests, mangroves, etc, for nature-based climate solutions).  The LULC map, in combination with climate and carbon models, helps users identify important areas for natural carbon.\r\n \r\nThe LULC map is directly tied to how we live on land and can map land cover conversion over time."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Impact Observatory",
+            "clearOwnershipURL": "https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d"
+        }
+    ],
+    "documentation": "https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d\r\nPlease note the format is GeoTIFF, hence you need to use a downloader to get individual tiles - https://env1.arcgis.com/arcgis/rest/services/Sentinel2_10m_LandCover/ImageServer",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "The map supports geospatial standards (GeoTIFF) https://www.ogc.org/standards/geotiff SpatioTemporal Asset Catalogs (STAC)",
+        " as described here: https://stacspec.org/",
+        "Cloud Optimized GeoTiff (COG)",
+        " as described here: https://www.cogeo.org/"
+    ],
+    "bestPractices": [
+        "The \"Sentinel-2 10m Land Cover Time Series of the World from 2017-2022\" is built on Azure",
+        " and has been featured on Microsoft's website for it's use of cloud resources: https://customers.microsoft.com/en-us/story/1459632165188903952-impact-observatory-professional-services-azure-hpc\r\n\r\nAzure Best Practices in Cloud Applications - https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "United States of America"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme",
+        "United Nations Environment Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "United States (EPA",
+        " NGA)"
+    ],
+    "otherDeploymentOrganisations": [
+        "Conservation organizations",
+        " GIS consultants"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Sentinel-2 10m Land Cover Time Series of the World from 2017-2022",
+            "website": "https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d",
+            "org_type": "owner",
+            "contact_name": " Katy Densmore  ",
+            "contact_email": "katy@impactobservatory.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "This map does not collect or use any personal information that would require compliance with laws such as the EU's General Data Protection Regulation (GDPR) or the California Consumer Privacy Act of 2018 (CCPA) Terms of Use listed at bottom of main webpage: https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d",
+            "privacyComplianceURL": "This map does not collect or use any personal information that would require compliance with laws such as the EU's General Data Protection Regulation (GDPR) or the California Consumer Privacy Act of 2018 (CCPA) Terms of Use listed at bottom of main webpage: https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d"
+        }
+    ],
+    "aliases": "",
+    "awardsReceived": ""
+}
