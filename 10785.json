@@ -1,0 +1,111 @@
+	{
+    "id": "10785",
+    "name": "Advocacy Training for Community Health Workers",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Content"
+    ],
+    "description": "A free digital training that equips CHWs with the skills to effectively share their personal stories and promote the health issues most important to their communities.",
+    "website": "https://digitalmedic.stanford.edu/our-work/free-advocacy-training/, https://joinchic.org/resources/chw-advocates/, https://www.chwadvocates.app/ ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "N/A (training videos are shared via a CC BY-NC-SA 4.0 license)"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG8: Decent Work and Economic Growth"
+        ],
+        "relevance": "SDG3: Good Health and Well-Being: CHWs are some of the most accessible and trusted frontline care providers in the world, especially in traditionally medically-underserved communities. By supporting these impactful workers, we support progress toward the Good Health and Well-Being targets by extending access to basic public health and primary care in vulnerable communities.\r\n\r\n\r\nSDG8: Decent Work and Economic Growth: Many CHWs are unpaid and do not receive adequate support and training. Our advocacy training equips CHWs with the skills to push for inclusion in decision-making conversations to advocate for their rights."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-SA-4.0",
+            "openLicenseEvidenceURLs": "https://digitalmedic.stanford.edu/our-work/free-advocacy-training/"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Community Health Impact Coalition and Digital Medic, an initiative of the Stanford Center for Health Education",
+            "clearOwnershipURL": "https://digitalmedic.stanford.edu/our-work/free-advocacy-training/"
+        }
+    ],
+    "documentation": "https://digitalmedic.stanford.edu/our-work/free-advocacy-training/; https://digitalmedic.stanford.edu/wp-content/uploads/2021/06/CHW-Advocacy-Course_-DM-App-Install-and-Set-up-Guide-for-iOS-and-Android.pdf; https://www.chwadvocates.app/; https://digitalmedic.stanford.edu/wp-content/uploads/2023/07/v1_STUDENT_CHW-Advocacy-Storytelling.pdf; https://digitalmedic.stanford.edu/wp-content/uploads/2023/07/v2_CHW-Advocacy-Storytelling-Training-Facilitator-Guide.pdf\r\n\r\nThe training is available via the Digital Medic mobile app and the progressive web application through CHIC: https://www.chwadvocates.app/. Content is the same, and so is the target audience of CHWs and CHW supervisors. There is also a documented student workbook as well as a facilitator guide to promote in-person and hybrid implementations.",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "We only collect data when learners take the course on the Digital Medic mobile app or through the CHIC web course, and this is only accessible to Digital Medic and CHIC."
+    },
+    "openStandards": [
+        "Standard content formats: PDF; Multimedia: MP4",
+        " PNG",
+        " JPEG"
+    ],
+    "bestPractices": [
+        "Principles for Digital Development: \r\n\u2022 Design with users: Created with a group of global CHW advisors\r\n\u2022 Understand the existing ecosystem: CHW advisors and advocates involved in design and development",
+        " with a strong knowledge of communities and working conditions\r\n\u2022 Design for scale: Created in an animated style for quick adaptation and translation to reach more communities\r\n\u2022 Build for sustainability: Digital training that can be updated if needed\r\n\u2022 Be data driven: Anonymous user data and surveys collected to inform distribution and effectiveness of training\r\n\u2022 Use open standards",
+        " etc.: Creative Commons Share Alike license ensures free access to training\r\n\u2022 Reuse and improve: Includes existing advocacy best practices and global goals",
+        " presented in a novel and engaging format\r\n\u2022 Address privacy and security: All learner data is secure and anonymous\r\n\u2022 Be collaborative: Designed as a collaborative training with the Community Health Impact Coalition",
+        " Digital Medic",
+        " and a group of global CHW advisors",
+        " collaboration has been engrained in this training since its inception and throughout its development and distribution"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "When users enroll in the course using the Digital Medic mobile app",
+            " the following information is collected: \r\nRegistration Date\r\nDevice Registration Sync Date\r\nName\r\nAge\r\nE-mail\r\nOrganization\r\nCity\r\nCountry\r\nGender\r\nOccupation\r\nUser ID\r\nUnique Device ID\r\nBrand\r\nCompletion Code\r\nModel\r\nSystem\r\nLocation\r\nIs Tablet\r\nPosition\r\nYears in Position\r\nGrade Level\r\nBlock Sector\r\nLanguage"
+        ],
+        "dataPrivacySecurity": "In the Digital Medic mobile app, there is a link in the \"About\" section to the terms (which include privacy terms) and a way to opt out - which will request that we delete any personal information: https://docs.google.com/document/d/192EaMIegrreA8MZBiq_Se8j2Xe2TNdPIdYsH5RslCWs/edit"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "South Africa",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Uganda"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Uganda Ministry of Health"
+    ],
+    "otherDeploymentOrganisations": [
+        "Nama Wellness Community Centre (Uganda); Community Health Impact Coalition (Global); CHW Central (Global); CUGH Capacity Strengthening Platform (Global); Resolve to Save Lives (Global); Learners on YouTube",
+        " Digital Medic mobile app",
+        " and CHIC web app (Global)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Advocacy Training for Community Health Workers",
+            "website": "https://digitalmedic.stanford.edu/our-work/free-advocacy-training/, https://joinchic.org/resources/chw-advocates/, https://www.chwadvocates.app/ ",
+            "org_type": "owner",
+            "contact_name": " Katherine Sziraczky  ",
+            "contact_email": "katsz@stanford.edu"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The digital content itself is downloadable, and no confidential or personal identification information is collected. For users who take the course on our platforms/app, we comply with GDPR, FERPA, FTC act, the California Consumer Privacy Act to protect the privacy of our learners.  ",
+            "privacyComplianceURL": "Included in our mobile app: https://docs.google.com/document/d/192EaMIegrreA8MZBiq_Se8j2Xe2TNdPIdYsH5RslCWs/edit"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
