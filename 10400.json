@@ -1,0 +1,112 @@
+	{
+    "id": "10400",
+    "name": "Okulab - educational platform",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Okulab"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Educational platform that is available for any person willing to learn more about inclusive education, online children safety topics. Platform is willing to expand with new courses related to different topics that will be helpful to anyone. \r\nAfter creating the account one can see his/her progress, make bookmarks and  so on. \r\nPlatform information is available in 3 languages and the sign language translation is also available. There are 2 modes for the convenience of the users: light mode and dark mode.",
+    "website": "https://okulab.kz/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://okulab.kz/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education"
+        ],
+        "relevance": "Educational platform that is available for any person willing to learn more about inclusive education, online children safety topics. Platform is willing to expand with new courses related to different topics that will be helpful to anyone. \r\nAfter creating the account one can see his/her progress, make bookmarks and  so on. \r\nPlatform information is available in 3 languages and the sign language translation  of courses are also available. There are 2 modes for the convenience of the users: light mode and dark mode.\r\n"
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "IITU, Bugin Soft",
+            "clearOwnershipURL": "https://okulab.kz/page/3"
+        }
+    ],
+    "documentation": "https://okulab.kz/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Online platform provide features to help protect users from harassment, such as moderator and administrator. Moderators are responsible for monitoring user-generated content, enforcing community guidelines, and taking appropriate actions against harassment or abusive behavior. Administrators, on the other hand, have higher-level access and can manage the platform's settings, users, and overall functionality.\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kazakhstan"
+        ],
+        "deploymentCountries": [
+            "Kazakhstan"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children"
+    ],
+    "deploymentCountriesDepartments": [
+        "Okulab platform is designed to become a hub for great courses and solutions accessible to anyone",
+        " it could have a significant impact on education and learning opportunities. Platforms that offer high-quality courses and solutions to a broad audience can democratize education and make it more accessible to learners from different backgrounds and locations. We hope that it will be recognaized with the Ministry of Education of the Republic of Kazakhstan."
+    ],
+    "otherDeploymentOrganisations": [
+        "No"
+    ],
+    "awardsReceived": [
+        "No"
+    ],
+    "openStandards": [
+        "Okulab follow best practices for open-source software development",
+        " open data principles",
+        " and open content licensing",
+        " such us:\r\n\r\n1. Open Source Software Standards: Platrom code is freely accessible",
+        " modifiable",
+        " and redistributable\r\n2. Open Content Licensing: Platrofm resourses",
+        " and other content allow free use and distribution with appropriate attribution.\r\n3. Interoperability: Okulab should strive for interoperability with other systems",
+        " and it is abdaptalbe with any device.\r\n4. Accessibility and Inclusivity: Okulab designed with accessibility in mind",
+        " ensuring it is usable by all individuals",
+        " including those with disabilities.\r\n5. Security and Privacy: All the requirments for security and privacy to protect users and their data are implemented.\r\n"
+    ],
+    "bestPractices": [
+        "https://docs.google.com/document/d/1WGEQvNhEEpW79a97A-RNWud1aEtESauu/edit?usp=sharing&ouid=101444646864479921775&rtpof=true&sd=true  "
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://docs.google.com/document/d/1WGEQvNhEEpW79a97A-RNWud1aEtESauu/edit?usp=sharing&ouid=101444646864479921775&rtpof=true&sd=true "
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Okulab - educational platform",
+            "website": "https://okulab.kz/",
+            "org_type": "owner",
+            "contact_name": " Dinara  ",
+            "contact_email": "d.kozhamzharova@iitu.edu.kz"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "1) Web Content Accessibility Guidelines (WCAG)\r\n2) ADA Standards\r\n3) General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "Websites meets the following three principles:\r\n\r\n-The content on the website is available to everyone;\r\n-The information provided by the website is comprehensible and easy to use for people with disabilities; and\r\n-It\u2019s easy to navigate from page to page without being disoriented by the layout or navigation elements.\r\n\r\n"
+        }
+    ]
+}
