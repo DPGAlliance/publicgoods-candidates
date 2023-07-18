@@ -1,0 +1,112 @@
+	{
+    "id": "10813",
+    "name": "Kotani Pay",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Kotani Pay is a technology stack that connects blockchain protocols, dApps, and blockchain fintechs to local payment channels in Africa. It is a stablecoin to fiat on-ramp and off-ramp service. The service is offered as an end to end API (Application Programming Interface) to enable other businesses to integrate and as a USSD (Unstructured Supplementary Service Data) application for end-users to convert stablecoins to local fiat. ",
+    "website": "https://kotanipay.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/kotanipay/Kotani-Pay-API"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG10: Reduced Inequalities"
+        ],
+        "relevance": "Kotani Pay enables the underprivileged such as refugees to receive Universal Basic Income Payments of at least $1 a day in collaboration with other humanitarian organizations\r\n \r\nKotani Pay improves financial inclusion by offering youth the opportunity to perform microtasks and microwork and to earn from their work"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/kotanipay/Kotani-Pay-API/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Kotani Pay",
+            "clearOwnershipURL": "https://github.com/kotanipay/Kotani-Pay-API/blob/main/LICENSE"
+        }
+    ],
+    "documentation": "https://docs.kotanipay.com,https://github.com/kotanipay/docs",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Because our API is exposed, data can be extracted in JSON format"
+    },
+    "openStandards": [
+        "Security (PKI",
+        " HTTPS",
+        " SSL)",
+        " Authentication (JWT)",
+        " Internationalization (UTF-8)",
+        " ECMAScript (ES 6)",
+        " Software Architecture (REST)",
+        " APIs (OpenAPI)",
+        " Data Exchange (JSON) https://github.com/kotanipay/Kotani-Pay-API Agile methodology",
+        " Continuous Integration & Continuous Deployment (CI/CD)",
+        " Universal Access & Open APIs"
+    ],
+    "bestPractices": [
+        "Agile methodology\r\nContinuous Integration & Continuous Deployment (CI/CD)\r\nUniversal Access & Open APIs\r\n\r\nLink - https://github.com/kotanipay/Kotani-Pay-API"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Personal Information including users' full names",
+            " government-issued identification number",
+            " date of birth",
+            " age",
+            " and gender."
+        ],
+        "dataPrivacySecurity": "Kotani Pay ensures that users are protected as they use the solution by adhering to cybersecurity policies and privacy and data protection policies \r\nKotani Pay Cybersecurity Policy - https://docs.kotanipay.com/docs/cybersecurity-policy\r\n\r\nWhen employees use their digital devices to access company emails or accounts, they introduce security risks to our data. We advise our employees to keep their personal and company-issued computers, tablets and cell phones secure. They do this by: \r\n- Keeping all devices and passwords protected. \r\n - Choosing and upgrading antivirus software. \r\n- Ensure they do not leave their devices exposed or unattended. \r\n - Install security updates of browsers and systems monthly or as soon as updates are available. \r\n - Log into company accounts and systems through secure and private networks only."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Kotani Pay does not serve underage users. For a user to access our service, they have to have a government-issued ID. We outline standards for user interaction in our contributor guidelines\r\n\r\nKotani Pay Contributor Guidelines - https://github.com/kotanipay/docs/blob/main/community/contribution-guidelines.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kenya"
+        ],
+        "deploymentCountries": [
+            "Ghana",
+            "Kenya"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Kotani Pay offers an API solution which is open-source. We have no features that are platform dependent."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Kotani Pay",
+            "website": "https://kotanipay.com",
+            "org_type": "owner",
+            "contact_name": " Keith Mandela  ",
+            "contact_email": "keith@kotanipay.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Data Protection Act of Kenya (https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=109333&p_count=3&p_classification=01) \r\n\r\nKotani Pay Privacy Policy - https://docs.kotanipay.com/docs/privacy-policy\r\n\r\nKotani Pay Terms and Conditions - https://docs.kotanipay.com/docs/terms-and-conditions",
+            "privacyComplianceURL": "Kotani Pay Privacy Policy - https://docs.kotanipay.com/docs/privacy-policy\r\n\r\nKotani Pay Terms and Conditions - https://docs.kotanipay.com/docs/terms-and-conditions"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
