@@ -1,0 +1,153 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Open Contracting Partnership",
+            "clearOwnershipURL": "The solution has a \u201cCopyright (c) Open Contracting Partnership\u201d statement on every page."
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "openStandards": [
+        "The solution is itself an open standard. The schema and codelists are expressed as JSON and CSV.\r\n\r\nThis continuous integration workflow ensures the schema and codelists adhere to JSON and CSV: https://github.com/open-contracting/standard/blob/HEAD/.github/workflows/lint.yml"
+    ],
+    "bestPractices": [
+        "Change management using version control: https://github.com/open-contracting/standard\r\nOpen Stand Principles: https://standard.open-contracting.org/latest/en/governance/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/open-contracting/standard/blob/HEAD/LICENSE"
+        }
+    ],
+    "documentation": "The solution is a data standard, expressed as HTML documentation, JSON Schema files and CSV codelist files at https://standard.open-contracting.org",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The solution is itself a non-proprietary format for expressing information about procurement procedures (\u201ccontracting processes\u201d)."
+    },
+    "id": "10588",
+    "name": "Open Contracting Data Standard",
+    "aliases": [
+        "OCDS"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "The Open Contracting Data Standard (OCDS), is a free, non-proprietary open data standard for public contracting, implemented by over 30 governments around the world. It is the only international open standard for the publication of information related to the planning, procurement, and implementation of public contracts and has been endorsed by the G20, the G7 and major international organizations.",
+    "website": "https://standard.open-contracting.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/open-contracting/standard"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG2: Zero Hunger",
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG10: Reduced Inequalities",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG13: Climate Action",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "OCDS data has been used in support of:\r\n- Increasing the number of patients receiving HIV and hepatitis treatment in Moldova (SDG 3)\r\n- Improving the quality and quantity of school meals for 700,000 school children in Bogota (SDGs 2, 3, 4)\r\n- Reducing the price of 60% of critical medicines in Chile, saving millions (SDG 3)\r\n- Improving the effectiveness of flood prevention infrastructure in Assam (SDGs 11, 13)\r\n- Helping cities go green, like in Mexico (SDGs 9, 11)\r\n- Building trust between government and citizens (SDG 16)\r\n- Empowering women-owned & other small businesses (SDGs 5, 8, 10)\r\n\r\nYou can see examples on our website at www.open-contracting.org/impact-stories"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Australia",
+            "Belgium",
+            "Canada",
+            "Germany",
+            "Mexico",
+            "Nepal",
+            "Nigeria",
+            "Paraguay",
+            "Spain",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Australia",
+            "Canada",
+            "Chile",
+            "Costa Rica",
+            "Croatia",
+            "Dominican Republic",
+            "Ecuador",
+            "France",
+            "Ghana",
+            "Honduras",
+            "India",
+            "Indonesia",
+            "Italy",
+            "Mexico",
+            "Moldova",
+            "Nepal",
+            "Netherlands",
+            "Nigeria",
+            "Pakistan",
+            "Panama",
+            "Paraguay",
+            "Peru",
+            "Slovenia",
+            "Spain",
+            "Uganda",
+            "United Kingdom",
+            "Uruguay",
+            "Zambia"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Anambra State (Nigeria)\r\nArgentina: Direcci\u00f3n Nacional de Vialidad\r\nAssam State: Finance Department (India)\r\nAustralia: Department of Finance\r\nBuenos Aires: Gobierno de la Ciudad de Buenos Aires (Argentina)\r\nChile: Chile Compra\r\nComisi\u00f3n Estatal para el Acceso a la Informaci\u00f3n P\u00fablica de Sinaloa (CEAIP) (Mexico)\r\nCosta Rica: Poder Judicial\r\nCroatia: Narodne Navine\r\nDhangadhi (Nepal)\r\nDominican Republic: Direcci\u00f3n General de Contrataciones P\u00fablicas (DGCP)\r\nEbonyi State (Nigeria)\r\nEcuador: Servicio Nacional de Contrataci\u00f3n P\u00fablica\r\nEkiti State (Nigeria)\r\nEnugu State (Nigeria) \r\nFrance\r\nGhana: Public Procurement Authority (PPA) (Ghana)\r\nGombe State (Nigeria)\r\nHonduras: Instituto de Acceso a la Informaci\u00f3n P\u00fablica (IAIP)\r\nHonduras: Oficina Normativa de Contrataci\u00f3n y Adquisiciones del Estado (ONCAE)\r\nHonduras: Secretar\u00eda de Finanzas (SEFIN)\r\nInstituto de Acceso a la Informaci\u00f3n P\u00fablica para el Estado de Guanajuato (IACIP) (Mexico)\r\nInstituto de Transparencia y Acceso a la Informaci\u00f3n P\u00fablica y Protecci\u00f3n de Datos Personales del Estado de M\u00e9xico y Municipios (INFOEM) (Mexico)\r\nInstituto de Transparencia",
+        " Acceso a la Informaci\u00f3n P\u00fablica",
+        " Protecci\u00f3n de Datos Personales y Rendici\u00f3n de Cuentas de la Ciudad de M\u00e9xico (INFOCDMX) (Mexico)\r\nInstituto Duranguense de Acceso a la Informaci\u00f3n P\u00fablica y de Protecci\u00f3n de Datos Personales (IDAIP) (Mexico)\r\nInstituto Estatal de Transparencia",
+        " Acceso a la Informaci\u00f3n P\u00fablica y Protecci\u00f3n de Datos Personales de Yucat\u00e1n (INAIP) (Mexico)\r\nInstituto Nacional de Transparencia",
+        " Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales (INAI) (Mexico)\r\nInstituto Veracruzano de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales (IVAI) (Mexico)\r\nInstituto Zacatecano de Transparencia",
+        " Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales (IZAI) (Mexico)\r\nItaly: Autorit\u00e0 Nazionale Anticorruzione (ANAC)\r\nKosovo: Public Procurement Regulatory Commission (PPRC)\r\nMexico: Secretaria de la Funci\u00f3n P\u00fablica (SFP)\r\nMexico: Secretar\u00eda de Hacienda y Cr\u00e9dito P\u00fablico (SHCP)\r\nMoldova: State Procurement Agency (SPA) (MTender)\r\nMontreal (Canada)\r\nNetherlands: Ministry of Economic Affairs and Climate Policy (TenderNed)\r\nNew South Wales (Australia)\r\nNuevo Le\u00f3n: Secretar\u00eda de Infraestructura (Mexico)\r\nOsun State (Nigeria)\r\nOyo State (Nigeria)\r\nPakistan: Public Procurement Regulatory Authority (PPRA)\r\nPanam\u00e1: Direcci\u00f3n General de Contrataciones P\u00fablicas\r\nParaguay: Direcci\u00f3n Nacional de Contrataciones P\u00fablicas (DNCP)\r\nPeru: Per\u00fa Compras\r\nPlateau State: Bureau of Public Procurement (Nigeria)\r\nQu\u00e9bec: Secr\u00e9tariat du Conseil du tr\u00e9sor (Canada)\r\nScotland: Scottish Procurement and Commercial Directorate (SPCD) (United Kingdom)\r\nSecretar\u00eda Ejecutiva del Sistema Estatal Anticorrupci\u00f3n de Aguascalientes (SESEA) (M\u00e9xico)\r\nSlovenia: Ministry of Public Administration\r\nUganda: Public Procurement and Disposal of Public Assets Authority (PPDA)\r\nUnited Kingdom: Crown Commercial Services\r\nUnited Kingdom: Find a Tender\r\nUruguay: Agencia de Compras y Contrataciones del Estado (ACCE)\r\nWales (United Kingdom)\r\nZambia: Public Procurement Authority (ZPPA)\r\nZaragoza (Spain)"
+    ],
+    "otherDeploymentOrganisations": [
+        "Various civil society and academic projects",
+        " including:\r\n\r\nDigiwhist\r\nIndonesia Corruption Watch (ICW)\r\nProject on Organization",
+        " Development",
+        " Education and Research (PODER)\r\nTheyBuyForYou"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Contracting Data Standard",
+            "website": "https://standard.open-contracting.org",
+            "org_type": "owner",
+            "contact_name": " James  ",
+            "contact_email": "jmckinney@open-contracting.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR), California Consumer Privacy Act of 2018 (CCPA)",
+            "privacyComplianceURL": "https://www.open-contracting.org/about/our-privacy-policy/ linked from the footer of the solution, via https://www.open-contracting.org/terms-of-use/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
