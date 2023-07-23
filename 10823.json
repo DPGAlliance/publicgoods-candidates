@@ -1,0 +1,124 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "Our vision is \"Our vision is a world where people are empowered to engage with their government to ensure responsive, inclusive, participatory and representative decision-making at all levels.\"  and our mission is \"We will enable a community powered directory where the online presence of every public organization is easily findable, queryable and trustworthy.\". Together, they are directly related to target 16.7 and 16.8."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "CC0-1.0",
+            "openLicenseEvidenceURLs": "https://github.com/govdirectory/website/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Govdirectory",
+            "clearOwnershipURL": "https://github.com/govdirectory/website/blob/main/README.md"
+        }
+    ],
+    "documentation": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Govdirectory",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "We use the open source tool Matomo to analyze web traffic, and it can export in various open formats."
+    },
+    "openStandards": [
+        "schema.org",
+        "XML sitemaps https://validator.schema.org/#url=https%3A%2F%2Fwww.govdirectory.org%2Fsweden%2FQ19978223%2F",
+        "https://www.xml-sitemaps.com/validate-xml-sitemap.html?op=validate-xml-sitemap&go=1&sitemapurl=https%3A%2F%2Fwww.govdirectory.org%2Fsitemap.xml&submit=Validate+Sitemap "
+    ],
+    "bestPractices": [
+        "The project has been developed in the open",
+        " following the criteria Code in the open",
+        " Maintain version control and Use open standards of the Standard for Public Code."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "In the content we collect who is in charge of a public agency. We store their name and when they start and end their office."
+        ],
+        "dataPrivacySecurity": "The project does not implement any new functionalities to contact government agencies, but merely points to those that exist. The data displayed is also already publicly available information, but in a user-friendly way. For some of the data, we filter for a separate verifiable source (that is, when the information is not self-explanatory). The information is already publicly available from other sources, we just package it in another way. Privacy policy: https://foundation.wikimedia.org/wiki/Privacy_policy Terms of use: https://foundation.wikimedia.org/wiki/Terms_of_Use"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "It stores information about government agencies that are already publicly available in other sources."
+        ],
+        "contentManagementPolicy": "https://foundation.wikimedia.org/wiki/Terms_of_Use The Wikimedia process consists of several layers of detecting, reporting and removing content. Since every edit is stored and is logged anyone can inspect the edits and undo them if they are inappropriate. https://www.wikidata.org/wiki/Special:RecentChanges  There is also user defined abuse filters than can detect some types of content and either prevent them or flag them for human review. https://www.wikidata.org/wiki/Wikidata:Abuse_filter  There are administrators that can delete and censor particular troublesome content, and a process for notifying them: https://www.wikidata.org/wiki/Wikidata:Administrators%27_noticeboard"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "With a strict code of conduct in the repository: https://github.com/govdirectory/website/blob/main/CODE_OF_CONDUCT.md,With a specific Child protection policy: https://meta.wikimedia.org/wiki/Child_protection Users can be totally anonymous and there is a Trust and safety team to get help from: https://meta.wikimedia.org/wiki/Trust_and_Safety"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Germany",
+            "Netherlands",
+            "Sweden"
+        ],
+        "deploymentCountries": [
+            "Belgium",
+            "Canada",
+            "Denmark",
+            "Finland",
+            "Germany",
+            "Ghana",
+            "India",
+            "Indonesia",
+            "Luxembourg",
+            "Malaysia",
+            "Netherlands",
+            "New Zealand",
+            "Norway",
+            "Philippines",
+            "Russia",
+            "Singapore",
+            "South Africa",
+            "Sweden",
+            "Timor-Leste",
+            "Ukraine",
+            "United Kingdom"
+        ]
+    },
+    "id": "10823",
+    "name": "Govdirectory",
+    "aliases": [
+        "WikiProject Govdirectory"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "A crowdsourced and fact-checked directory of official governmental online accounts and services. The easiest way to contact your government.",
+    "website": "https://govdirectory.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/govdirectory/website"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Govdirectory",
+            "website": "https://govdirectory.org",
+            "org_type": "owner",
+            "contact_name": " Jan Ainali  ",
+            "contact_email": "ainali.jan@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR Data is being edited through Wikidata, so the Wikimedia privacy policy in effect there. https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "privacyComplianceURL": "https://foundation.wikimedia.org/wiki/Privacy_policy"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
