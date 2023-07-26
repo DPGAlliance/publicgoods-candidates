@@ -1,0 +1,113 @@
+	{
+    "id": "10675",
+    "name": "Querido Di\u00e1rio",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "QD"
+    ],
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "Querido Di\u00e1rio provides access to official gazettes content of Brazilian municipalities in a single platform. Our main goal is to make the official acts of more than 5500 cities easily available through open standards. ",
+    "website": "https://queridodiario.ok.org.br/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/orgs/okfn-brasil/repositories?q=querido-diario"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "Target - 16.6 - Develop effective, accountable and transparent institutions at all levels. Querido Diario enables more accessible information about public acts in Brazilian cities, enhancing transparency and providing tools for citizens' oversight of authorities and public policy. By 'freeing' this public information, QD is also building the case for publishing open data by default.  \r\n  \r\nTarget - 16.7 - Ensure responsive, inclusive, participatory and representative decision-making at all levels. Querido Diario allows civil society, journalists, and researchers to access critical and reliable data about cities' governments and advocate for human rights in a more informed way.     \r\n\r\nTarget - 16.10 - Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements. Querido Diario helps to monitor potential human rights violations, such as surveillance technology being adopted by cities. It is also a reliable source of information that helps to fight mis- and disinformation by creating a healthier information ecosystem."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "License file on GitHub: https://github.com/okfn-brasil/querido-diario/blob/main/LICENSE.md \r\n\r\nPublic URL on the project website (Brazilian Portuguese): https://queridodiario.ok.org.br/privacidade "
+        },
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "License file on GitHub: https://github.com/okfn-brasil/querido-diario/blob/main/LICENSE.md \r\n\r\nPublic URL on the project website (Brazilian Portuguese): https://queridodiario.ok.org.br/privacidade "
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Open Knowledge Brasil (OKBR)",
+            "clearOwnershipURL": "Public URL on project website (Brazilian Portuguese): https://queridodiario.ok.org.br/privacidade \r\n\r\nPublic URL on OKBR's website (Brazilian Portuguese): https://ok.org.br/projetos/querido-diario/"
+        }
+    ],
+    "documentation": "At Querido Di\u00e1rio's website general information about the project and how it works in these two pages: https://queridodiario.ok.org.br/en-US/sobre and https://queridodiario.ok.org.br/en-US/tecnologia.\r\n\r\nAll repositories have their specific READMEs and CONTRIBUTING guides but also have redirect to this repository directed at the community (https://github.com/okfn-brasil/querido-diario-comunidade/blob/main/.github/README-en-US.md) which includes: information which applies to all repositories, the project's Roadmap (https://github.com/orgs/okfn-brasil/projects/14) and a build routine for the project's technical documentation (https://docs.queridodiario.ok.org.br/).",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HTTPS",
+        " SSL: https://www.ssllabs.com/ssltest/analyze.html?d=queridodiario.ok.org.br\r\n\r\nOpenAPI: https://validator.swagger.io/validator/debug?url=https%3A%2F%2Fqueridodiario.ok.org.br%2Fapi%2Fopenapi.json\r\n\r\nJSON: https://queridodiario.ok.org.br/api/docs\r\n\r\nJWT: https://github.com/okfn-brasil/querido-diario-backend/blob/main/app/accounts/serializers.py"
+    ],
+    "bestPractices": [
+        "Change management using version control: https://github.com/okfn-brasil/querido-diario\r\n\r\nContinous Integration & Continous Deployment (CI/CD): https://github.com/okfn-brasil/querido-diario/actions\r\n\r\nAgile development: https://github.com/orgs/okfn-brasil/projects/22\r\n\r\nCode review: https://github.com/okfn-brasil/querido-diario/pulls?q=is%3Apr+is%3Aclosed"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "Names",
+            " e-mails",
+            " addresses and document IDs that may appear in the official texts or in other official databases which are used to enrich the gazettes content."
+        ],
+        "dataPrivacySecurity": "As QD's privacy policy states, all information disclosed by Brazilian official gazettes, including personal data, is public. QD only reproduces the same data published by public entities in their official gazettes in a more accessible and friendly format, an activity foreseen and authorized by law. Because of this, OKBR is not responsible for the veracity, integrity, or quality of this information, as well as for any violations resulting from the publication of personal information. We explain this situation in the platform's Terms of Use and recommend that data subjects or other interested parties directly contact the entity responsible for the original publication, through its control bodies (such as ombudsman or controllership) or the person in charge of the processing of data at that institution, in accordance with art. 23, item III, of the General Data Protection Law - LGPD (Federal Law 13.709/2018)."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Official gazettes texts and data from other official public datasets which are used to enrich the texts such as Brazilian registered companies"
+        ],
+        "contentManagementPolicy": "Any inappropriate/illegal content found is made non-available at Querido Di\u00e1rio and the official source is contacted through a LAI request for clarification. An average response time is not defined yet since we only experienced it one time but it shouldn't take more than a couple of days on our end."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "As an open source project we mediate a large community of contributors and enforce a Code of Conduct which is described in every repository (https://github.com/okfn-brasil/querido-diario-comunidade/blob/main/.github/CODE_OF_CONDUCT-en-US.md)."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil"
+        ],
+        "deploymentCountries": [
+            "Brazil"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "The Ministry of Finance of Brazil is using as an internal tool to monitor municipal-level publications of interest."
+    ],
+    "otherDeploymentOrganisations": [
+        "- Di\u00e1rio do Clima",
+        " a consortium of Open Knowledge Brazil and 5 other journalistic organizations.\r\n- Independent and professional journalists\r\n- Scholars (Querido Diario Universities Program)\r\n- Public managers\r\n- NGOs\r\n- Use cases are documented here (Brazilian Portuguese): https://queridodiario.ok.org.br/sobre#casos\r\n"
+    ],
+    "awardsReceived": [
+        "Querido Diario was featured as an open source solutions that can help promote information integrity by DPGA and UNPD: https://digitalpublicgoods.net/information-pollution/ "
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Querido Di\u00e1rio",
+            "website": "https://queridodiario.ok.org.br/",
+            "org_type": "owner",
+            "contact_name": " Open Knowledge Brasil  ",
+            "contact_email": "financeiro@ok.org.br"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Law - LGPD (Federal Law 13.709/2018);\r\nAccess to Information Law (Federal Law 12.527/2011).",
+            "privacyComplianceURL": "Evidence can be found on the project's \"Terms of use and privacy policy\" page (Brazilian Portuguese): https://queridodiario.ok.org.br/privacidade"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
