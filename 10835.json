@@ -1,0 +1,126 @@
+	{
+    "sectors": [],
+    "stage": "DPG",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Mechanism for extracting or importing non-PII data from or into the system is necessary for several reasons like , It enables administrators to add multiple skills and certifications to the system and Users can import their skills and certifications, reducing manual data entry and improving user experience. Also , in order to Reporting and Compliance some non PII data is exported. "
+    },
+    "openStandards": [
+        "Open Standards:\r\nOpen Data Protocol (OData): A protocol for RESTful APIs",
+        " enabling publication and consumption of queryable and interoperable data.\r\nResource Description Framework (RDF): A standard for describing resources and their relationships",
+        " allowing for semantic interoperability and data integration.\r\nGeoJSON: A format for encoding geographic data structures",
+        " standardizing the representation of location-based information.\r\nW3C Web Annotation Data Model: A standard for annotating web resources",
+        " enabling users to associate comments and metadata with specific parts of a document.\r\nDublin Core Metadata Element Set: A set of metadata terms for describing resources",
+        " facilitating the discovery and management of information resources.\r\n\r\nBest Practices: \r\n\r\nFAIR Data Principles: Guidelines for enhancing data discoverability",
+        " accessibility",
+        " and usability through Findable",
+        " Accessible",
+        " Interoperable",
+        " and Reusable principles.\r\nEffective Data Governance Practices: Include data stewardship",
+        " metadata management",
+        " data lifecycle management",
+        " and privacy considerations.\r\n"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC): Agile development; Architectural Design: SOLID principles of object-oriented programming; User Interface/ User Experience (UI/UX): Human-Centered Design Principles; Open Source: Best practices For Open Source Maintainers; Data Principles: FAIR Data Principles\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "This Application is a course registration and certificate distribution application or system . In order to generate certificates we collect some PII data from the course registered students in order to generate their respected certificates. None of these data are distributed to any external application or system .\r\n"
+        ],
+        "dataPrivacySecurity": "Data Privacy Policy of my website : \r\nPrivacy Policy -  https://dpg.nise.gov.bd/pages/privacy-policy \r\n"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "This Application is a course registration and certificate distribution application or system . In order to generate certificates we collect some PII data from the course registered students in order to generate their respected certificates. Some non-pii data is collected like course details",
+            " institution details which are required to complete the courses and generate the certificates.None of this data is distributed to any external application or system . \r\n"
+        ],
+        "contentManagementPolicy": "Inappropriate and illegal content handle policy is written in the terms and policy of my solution.\r\nTerms and policy of my solution:  https://dpg.nise.gov.bd/pages/terms-conditions \r\n"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": " To safeguard users against any form of harassment, there are Terms and Conditions in place. The system's administrator can address any instances of harassment from users who disregard the code of conduct :\r\nTerms and policy of my solution: \r\nPrivacy Policy -  https://dpg.nise.gov.bd/pages/privacy-policy \r\nTerm Conditions - https://dpg.nise.gov.bd/pages/terms-conditions \r\n"
+    },
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG10: Reduced Inequalities",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG12: Responsible Consumption and Production",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "SDG 4 - Quality Education: Promoting Inclusive and Equitable Learning - E-learning website provides accessible resources worldwide, enhancing educational quality.\r\n\r\n\r\nSDG 8 - Decent Work and Economic Growth: Skill Development for Employability - Platform improves skills, contributing to economic growth; certificates boost job market competitiveness.\r\n\r\n\r\nSDG 10 - Reduced Inequalities: Bridging Educational Gaps - E-learning reduces disparities for marginalized communities, including disabled, refugees, and remote areas.\r\n\r\n\r\nSDG 5 - Gender Equality: Empowering Women and Girls - Platform empowers females in technology, engineering, and science fields.\r\n\r\n\r\nSDG 9 - Industry, Innovation, and Infrastructure: Tech-driven Learning and Advancements - Innovative platform offers tech courses for emerging fields.\r\n\r\n\r\nSDG 13 - Climate Action: Inspiring Environmental Awareness - Courses on sustainability and green tech foster climate actions.\r\n\r\n\r\nSDG 3 - Good Health and Well-being: Promoting Healthy Lifestyles - E-learning covers health, preventive measures, and mental well-being.\r\n\r\n\r\nSDG 11 - Sustainable Cities and Communities: Creating Resilient Urban Spaces - Courses on urban planning and sustainable architecture contribute to resilient cities.\r\n\r\n\r\nSDG 16 - Peace, Justice, and Strong Institutions: Fostering Understanding for Peace - Platform offers courses on conflict resolution and human rights, promoting peaceful coexistence.\r\n"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "\r\nCopyright 2022 @a2i, Bangladesh Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at  \r\nhttp://www.apache.org/licenses/LICENSE-2.0  \r\nhttps://github.com/a2i-dpg/skills-and-certification/blob/main/LICENSE\r\n\r\n\r\n\r\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\r\n https://github.com/a2i-dpg/skills-and-certification#license \r\n"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Aspire to Innovate (a2i) Programme (A Multinational Digital Transformation Catalyst from the Government of Bangladesh)",
+            "clearOwnershipURL": "Provide evidence(s) of ownership.\r\nProject Domain: https://dpg.nise.gov.bd/ \r\nSource Code: https://github.com/a2i-dpg/skills-and-certification \r\nDocumentation: https://github.com/a2i-dpg/skills-and-certification#readme \r\n"
+        }
+    ],
+    "documentation": "All the documents related to this repository will be found at  :   \r\nhttps://github.com/a2i-dpg/skills-and-certification#readme \r\n\r\n\r\nList of Documents: \r\nInstallation,\r\nUsage,\r\nAdmin Documentation,\r\nMenu Builder,\r\nDeveloper Guide (Code Documentation),\r\nContributions and Support\r\nLicense\r\n",
+    "locations": {
+        "developmentCountries": [
+            "Bangladesh"
+        ],
+        "deploymentCountries": [
+            "Bangladesh"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Bangladesh Government ",
+        " Bangladesh ICT Ministry",
+        " a2i : A Multinational Digital Transformation Catalyst from the Government of Bangladesh\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "N/A"
+    ],
+    "awardsReceived": [
+        "N/A"
+    ],
+    "id": "10835",
+    "name": "Skill and Certification",
+    "aliases": [
+        "Nise3 skills and certification"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The Skills And Certification platform is a cutting-edge virtual management environment designed to cater to the needs of both students and trainers. It seamlessly complements interactive physical learning at educational institutions, enhancing the overall learning experience. This comprehensive solution offers a wide range of services, including the creation and management of institutions, & certification along with detailed course offerings. By leveraging advanced technology, the platform aims to streamline the learning process and empower both learners and educators in their pursuit of knowledge and skill development",
+    "website": " https://dpg.nise.gov.bd/ ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/a2i-dpg/skills-and-certification"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Skill and Certification",
+            "website": " https://dpg.nise.gov.bd/ ",
+            "org_type": "owner",
+            "contact_name": " a2i  ",
+            "contact_email": "dpg@a2i.gov.bd"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "List of relevant privacy, domestic, and other applicable international laws that the platform complies with: \r\n-The Constitution of Bangladesh: The constitution provides the foundational legal framework for all activities within the country, including online platforms.\r\n-The Information and Communication Technology Act, 2006: This law governs various aspects of information technology and electronic communication, including online activities, data protection, and cybercrimes.\r\n-The Digital Security Act, 2018: This act focuses on digital security issues, including the prevention of offenses related to digital systems, computer networks, and data.\r\n-The Consumer Rights Protection Act, 2009: This law protects the rights of consumers and may be applicable if the website offers services to consumers in Bangladesh.\r\n-The Copyright Act, 2000: This law deals with copyright protection, including content that may be shared or used on the website.\r\n-The Trade Marks Act, 2009: If the website uses trademarks or service marks, this act governs their registration and protection.\r\nPlease note that laws may change over time, and new regulations may have been enacted since my last update. Therefore, it is essential to consult with legal professionals in Bangladesh to ensure compliance with the most current and accurate information.\r\n",
+            "privacyComplianceURL": "All the Evidence of adherence is listed in our privacy policy and terms and conditions are given in the Privacy Policy -  https://dpg.nise.gov.bd/pages/privacy-policy \r\nTerm Conditions - https://dpg.nise.gov.bd/pages/terms-conditions \r\n"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
