@@ -1,0 +1,124 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "ECL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/ArgusoftOpen/medplat/blob/main/LICENSE"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "documentation": "https://github.com/ArgusoftOpen/medplat/tree/main/Documents",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "id": "10838",
+    "name": "MEDPlat",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "MEDPlat is an mobile first, offline enabled, scalable, low-code CPHC platform for public healthcare. It is extensible & customizable and has tools to supports the monitoring and improvement of SDG3 goals though interfaces right for the community health workers onwards to the policy makers. It Includes preconfigured workflows that can be further customized for Reproductive, Maternal, Child health, Adolescent, Nutrition and many more health verticals. ",
+    "website": "www.medplat.co.in ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/ArgusoftOpen/medplat"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "MEDPlat has pre-configured workflows in the Reprductive, Materal, Child, Adolescent health programs. It supports the health workers right from the community level to the entire primary health care continum and beyond to register, screen, monitor the key indicators on a continuous basis, ensure timely serives such as ANC, PNC, Routine Immunization and such others based on clinical protocols, Automatically triage and identify high risk from the service data entered and provide worksflows for enhanced monitoring and mitagation of high risks to prevent needless deaths and reduce Maternal dealths (MMR), IMR (under 5), and Neonatal dealths. \r\nThe Platform has an extensive Child Health Monitoring module at population level and for school going children and includes routine immunization workflows and addresses 3.b.1 \r\nThe Platform also has tools to tools to monitor and address unmet family planning needs in eligible couples (SDG 3.7.1). Being a population based program, the platform enables and amplifies the access to health facilities thereby addressing SDG 3.8.1"
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "The MEDPlat Solution is developed and maintaned by Argu Soft India Limited. ",
+            "clearOwnershipURL": "www.argusoft.com - MEDPLat can be found listed under the OEM IPs section on our corporate website.\r\n\r\nwww.medplat.co.in - This is the product website for the MEDPlat Platform. \r\n\r\nhttps://www.medplat.co.in/privacy_policy.html - Describes the Privacy Policy and Ownership of the Platform by Argusoft India Limited. \r\n"
+        }
+    ],
+    "openStandards": [
+        "The MEDPlat system adheres to the following open standards\r\nHL7 FHIR (Fast Healthcare Interoperability Resources): The platform utilizes HL7 FHIR to enable seamless sharing and exchange of health data between different healthcare systems and applications. The platform is complient to the Government of India - National Health Authority ABHA program (Milestone M1",
+        " M2",
+        " M3) which requires FHIR r4 as mandatory and hence complience demonstrated. \r\nSNOMED CT (Systematized Nomenclature of Medicine Clinical Terms): We incorporate SNOMED CT for standardized clinical terminology",
+        " enhancing accurate communication and data exchange among healthcare professionals.\r\nOAuth 2.0 - We have implemented OAuth 2.0 for secure and standardized authentication and authorization of users and applications.\r\nThe Platform follows all best practices in transmision and persistance of data",
+        " Utilization of Private and Public keys including the following. \r\nAll data exchanges are secure using SSL / HTTPS. We use AES standards for encryption.\r\nUTF-8 standards is consistency adhered to in the platform for all encoding. \r\nAdherence to relevant and key open standards ensure that MEDPlat is interoperable and enables seemless data exchange and also aligns with the principles of the Digital Public Goods Alliance.\r\n"
+    ],
+    "bestPractices": [
+        "The Platform has been designed based on key principles and practices including the following. \r\n\r\nPrivacy by Design and Data Security - Taking full congnizance that the platform collects and uses health information",
+        " we follow the Principle of Privacy by Design. All aspects of the system is designed to ensure data privacy and security with apprpriate 'need to know' access",
+        " multiple points where MFA is enabled and other aspects to generate confidence in the user and more importantly ensure that there is reasonable care taken to ensure security and privacy of the data at every stage. \r\n\r\nUser-Centered Design: Our entire design process invovles the user. The usability and experience of the user is paramount and hence we always follow user-centered design practices to create an intuitive and accessible experience for all stakeholders.\r\n\r\nInteroperability and Standards: The platform adheres t open standards wherever applicable and appropriate to ensure seamless integration and data exchange between different healthcare systems.\r\nScalability and Performance: The application has already been proven at scale in multiple instances. Best practices for scalability and performance optimization is a continuous activity starting from the design stage thus ensuring our platform is capable of handling increased user loads and deliver a responsive experience at all times. \r\nContinuous Monitoring and Improvement:Our platform undergoes continuous monitoring",
+        " regular audits",
+        " and iterative improvements to address emerging challenges and maintain high standards.\r\nWe continuoulsy look to adopt and adhere to best practices and principles",
+        " so that MEDPlat provides a secure",
+        " user-friendly",
+        " and ethically responsible solution that aligns with the values of the Digital Public Goods Alliance at all times. \r\n\r\nIn addition to the pratices mentioned above",
+        " we follow an Agile method of software development and maintenance and create user stories based on the users perceived",
+        " felt and notional needs. A strong change management using version control ensures business continuity while upgrading the systems and combined with a continuous Integration & Continuous Deployment (CI/CD)",
+        " faults are identified early in the deployment lifecycle reducing risks.\r\nCode review and Code refactoring are scheduled at regular intervals to ensure that the code is always at its best avatar. \r\nAt the architecture level",
+        " we use a Model\u2013view\u2013controller paradigm at the core and use REST API extensively. \r\nBeing a low-code application",
+        " we have implemented a unique and effective Event-driven protocol and the entire application is database-centric"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "We collect the following Personally Identifyable data\r\n1. Name \r\n2. Age / Date of Birth\r\n3. Mobile Phone Number\r\n4. Address / Locality of place of stay. \r\n5. Aaadhar Number (Govt Issued proof of identity)\r\n\r\n"
+        ],
+        "dataPrivacySecurity": "The data collected is stored in secure data centers with very highly restricted access. The key data such as Aadhar Number is encrupted and stored in an Aadhar Vault as required and mandated by the Govt of India - UIDAI. (Unique Identification Authority of India). \r\n\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India",
+            "Nigeria"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "The Department of Health and Family Welfare",
+        " Govt of Gujarat",
+        " India - Implementation Name is TeCHO+\r\nThe National Health Mission",
+        " Govt of Uttar Pradesh",
+        " India. Implementation Name - eKavach\r\nThe UT of Dadra Nagar Havali",
+        " Daman and Diu - The Implemenation name is PHMP\r\nThe National Health Mission",
+        " Telegana - Implemenation name is AmmaKosam\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "SEWA Rural",
+        " An NGO based in Gujarat \r\n"
+    ],
+    "awardsReceived": [
+        "The MEDPlat solution was declared a winner in the global PHC Tech Challenge. The details and the certicicate can be accessed at \r\n\r\nhttps://www.path.org/resources/innovations-primary-health-care-phc-tech-challenge-winners/\r\nPDF Link: \r\nhttps://media.path.org/documents/Innovations_for_Primary_Health_Care.pdf?_gl=1*k7npjm*_gcl_au*NDAxNjcwNTY3LjE2OTA5Njk2NjU.*_ga*ODMxMDc3MjE1LjE2OTA5Njk2NjU.*_ga_YBSE7ZKDQM*MTY5MDk2OTY2NS4xLjEuMTY5MDk2OTY5OC4yNy4wLjA.\r\n(Please refer page no 40 for information about MEDPlat)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "MEDPlat",
+            "website": "www.medplat.co.in ",
+            "org_type": "owner",
+            "contact_name": " Sethuraman Venkatraman  ",
+            "contact_email": "avsethu@argusoft.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Solution is complient to the Indian IT Act ",
+            "privacyComplianceURL": "www.medplat.org"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
