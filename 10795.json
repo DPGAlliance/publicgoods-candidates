@@ -1,0 +1,116 @@
+	{
+    "id": "10795",
+    "name": "Open Terms Archive",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "Open Terms Archive publicly records every version of the terms of digital services to enable democratic oversight.",
+    "website": "https://opentermsarchive.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/OpenTermsArchive/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "SDG 16 - Peace, Justice and Strong Institutions: Open Terms Archive empowers citizens, civil society, regulators, and lawmakers to hold digital platforms accountable. This fosters:\r\n\u2022 democratic processes resilience by reinforcing protection against mis- and disinformation, as evidenced in the 2022 French elections: https://www.reset.tech/resources/memos-on-platforms-behaviour-during-the-2022-french-elections/\r\n\u2022 compliance with laws and regulations, as evidenced by the European Commission using Open Terms Archive to collect data for assessing the implementation of the platforms-to-businesses (\u201cP2B\u201d / 2019/1150) regulation\r\n\u2022 situational awareness for regulators, as evidenced by the usage of Open Terms Archive data by the French Ministry for Foreign Affairs and the French Department of Expertise in Digital Regulation.\r\n\r\nSDG 17 - Partnerships for the Goals: Open Terms Archive actively seeks and facilitates collaborations with various stakeholders, including regulators, press and media, consumer protection associations\u2026 These partnerships aim at sharing all their capabilities to achieve a common goal: a more transparent, accountable, and just digital environment. For example:\r\n\u2022 The French Ministry for Foreign Affairs leveraging data collected by the German Universit\u00e4t Bremen.\r\n\u2022 The Swiss NGO HestiaLabs.ai collaborating with French consumer protection association UFC-QueChoisir following their common contributions to Open Terms Archive.\r\n\u2022 American NGO Reset.tech providing data to researchers around the world through Open Terms Archive: https://www.reset.tech/resources/memos-on-platforms-behaviour-during-the-2022-french-elections/\r\n\u2022 American members of Congress using joint achievements of the ToS;DR NGO and Open Terms Archive in Europe to support domestic legislation mandating more transparency in terms of use: https://trahan.house.gov/news/documentsingle.aspx?DocumentID=2353\r\n\r\nSDG 9 - Industry, Innovation, and Infrastructure: Open Terms Archive ensures accountability and transparency in digital infrastructure and digital service providers. While digital tools and digital infrastructure constitute an increasingly large part of development efforts, the terms offered by providers vary widely across jurisdictions. Open Terms Archive enables time-based as well as jurisdiction-based difference tracking, meaning it can show the difference between the terms offered by providers in varying countries. It also facilitates ensuring compliance by tracking changes following the enactment of legislation. For example, when the Malabo Convention on Cybersecurity and Personal Data Protection will be ratified within the African Union, authorities and civil society will be able to check which private actors comply within the 30 days window that will be provided to them."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "EUPL-1.2",
+            "openLicenseEvidenceURLs": "- Engine: https://github.com/OpenTermsArchive/engine/blob/main/LICENSE\r\n- Website: https://github.com/OpenTermsArchive/OpenTermsArchive.org/blob/main/LICENSE\r\n- Ontology: https://github.com/OpenTermsArchive/terms-types/blob/main/LICENSE\r\n- Main collection: https://github.com/OpenTermsArchive/contrib-declarations/blob/main/LICENSE\r\n- Main dataset: https://github.com/OpenTermsArchive/contrib-versions/blob/main/LICENSE"
+        },
+        {
+            "openLicense": "ODC-By-1.0",
+            "openLicenseEvidenceURLs": "- Engine: https://github.com/OpenTermsArchive/engine/blob/main/LICENSE\r\n- Website: https://github.com/OpenTermsArchive/OpenTermsArchive.org/blob/main/LICENSE\r\n- Ontology: https://github.com/OpenTermsArchive/terms-types/blob/main/LICENSE\r\n- Main collection: https://github.com/OpenTermsArchive/contrib-declarations/blob/main/LICENSE\r\n- Main dataset: https://github.com/OpenTermsArchive/contrib-versions/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Open Terms Archive Collective",
+            "clearOwnershipURL": "https://opentermsarchive.org/about"
+        }
+    ],
+    "documentation": "- Technical documentation: https://docs.opentermsarchive.org\r\n- Contributor documentation: https://docs.opentermsarchive.org/contributing-terms/\r\n- User documentation: https://docs.opentermsarchive.org/how-to/navigate-history/\r\n- JavaScript API documentation: https://docs.opentermsarchive.org/jsdoc/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "All the data collected by Open Terms Archive consists of publicly available terms of services.\r\nThey are stored by default on the filesystem in HTML and Markdown format, and can be accessed directly on the filesystem or through the JavaScript API exposed by the engine.\r\nOptional adapters can be developed by contributors to interact with other database formats."
+    },
+    "openStandards": [
+        "- SSH \u2192 https://github.com/OpenTermsArchive/deployment\r\n- SSL \u2192 https://opentermsarchive.org\r\n- UTF-8 \u2192 https://docs.opentermsarchive.org/contributing-terms/#service-name and test example: https://github.com/OpenTermsArchive/engine/blob/main/src/archivist/recorder/index.test.js#L37\r\n- HTML",
+        " CSS and ECMAScript \u2192 https://opentermsarchive.org\r\n- ECMAScript \u2192 ESLint runs on every change",
+        " see https://github.com/OpenTermsArchive/engine/blob/main/package.json#L39\r\n- OpenAPI \u2192 generated from annotations",
+        " see https://github.com/OpenTermsArchive/engine/blob/9c236c7f18bf4888539def7c9d80e8d0876ddf4a/src/api/routes/services.js#L7-L56 and UI demo on http://54.37.5.206/api/v1/\r\n- JSON \u2192 schemas available on https://github.com/OpenTermsArchive/engine/blob/main/scripts/declarations/validate/service.schema.js and validated in CI"
+    ],
+    "bestPractices": [
+        "- Airbnb's Javascript Style Guide -> https://github.com/OpenTermsArchive/engine/blob/.eslintrc.yaml\r\n- Representational state transfer (REST) -> https://github.com/OpenTermsArchive/engine/issues/1003\r\n- Overview / Business Goal \u2192 https://opentermsarchive.org\r\n- Technology stack / Platform \u2192 https://github.com/OpenTermsArchive/engine\r\n- Installation guide \u2192 https://docs.opentermsarchive.org\r\n- User guide \u2192 https://docs.opentermsarchive.org/how-to/navigate-history/\r\n- Source code reference \u2192 https://docs.opentermsarchive.org/jsdoc/\r\n- Release notes \u2192 https://github.com/OpenTermsArchive/engine/blob/CHANGELOG.md\r\n- Contributing guide \u2192 https://github.com/OpenTermsArchive/engine/blob/CONTRIBUTING.md\r\n- User stories \u2192 https://www.pivotaltracker.com/n/projects/2637279\r\n- Create strong passwords for username/ password authentication \u2192 https://github.com/OpenTermsArchive/engine/wiki/Passwords\r\n- Enable resource access authorization i.e. access control rights/ permissions -> https://github.com/OpenTermsArchive/engine/wiki/Passwords\r\n- Change management using version control \u2192 https://github.com/OpenTermsArchive/\r\n- Test driven development using automated tests \u2192 https://github.com/OpenTermsArchive/engine/actions\r\n- Continous Integration & Continous Deployment (CI/CD) \u2192 https://github.com/OpenTermsArchive/engine/actions\r\n- Code review \u2192 https://github.com/OpenTermsArchive/engine/pulls\r\n- Code refactoring \u2192 https://github.com/OpenTermsArchive/engine/pulls?q=is%3Apr+refactor\r\n- Agile development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Contractual documents of online services",
+            " such as Terms of Use",
+            " Privacy Policy\u2026"
+        ],
+        "contentManagementPolicy": "Every contribution to track a document is reviewed a priori by a well-identified collection maintainer.\r\nUntil the review has been done, no content is collected, stored nor distributed.\r\nAs Open Terms Archive is decentralised, each collection maintainer sets its own standards, processes and delays for review."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "France"
+        ],
+        "deploymentCountries": [
+            "Belgium",
+            "France",
+            "Germany",
+            "Switzerland"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "- French Ministry for Foreign Affairs\r\n- French Center of expertise for digital regulation (PEReN",
+        " ministry of Finance)\r\n- French Competition Authority"
+    ],
+    "otherDeploymentOrganisations": [
+        "- European Commission (DGCNECT / DGIT / JRC)\r\n- Universit\u00e4t Bremen & Von Humboldt Institut"
+    ],
+    "awardsReceived": [
+        "- Open-Source Innovations for Information Integrity at Nobel Prize Summit: https://digitalpublicgoods.net/information-pollution/\r\n- GitHub Social Impact Open Source Community Manager Program: https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Terms Archive",
+            "website": "https://opentermsarchive.org",
+            "org_type": "owner",
+            "contact_name": " Matti Schneider  ",
+            "contact_email": "matti@opentermsarchive.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "All data protection regulations, as the solution itself does not collect any personal information.\r\n\r\nAs part of communication efforts, users can register to receive a product newsletter. This newsletter is handled through a GDPR-compliant service.",
+            "privacyComplianceURL": "https://opentermsarchive.org/privacy-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
