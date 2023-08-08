@@ -1,0 +1,120 @@
+	{
+    "id": "10842",
+    "name": "SmartBridge",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Showcase of \"SmartBridge\" services"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The Smart Bridge project (Service Showcase) is a simplified process of integration between government information systems and the private sector.",
+    "website": "https://sb.egov.kz/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/sbniteckz"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "Due to the current circumstances, numerous partnerships have been executed on this platform."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/sbniteckz?tab=repositories"
+        },
+        {
+            "openLicense": "PostgreSQL",
+            "openLicenseEvidenceURLs": "https://github.com/sbniteckz?tab=repositories"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "\u00abNATIONAL INFORMATION TECHNOLOGIES\u00bb JSC",
+            "clearOwnershipURL": "https://drive.google.com/file/d/1AE5pY-87oOlYcsIbCS9tGjYNXYjTSpNe/view?usp=sharing"
+        }
+    ],
+    "documentation": "https://github.com/sbniteckz/sbniteckz/tree/main",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The site uses such BI tools - analytics that collect the following data: date and time of visit, amount of time spent, language used, device used, etc. To export data, you can use ready-made reports that are created automatically and download files in . xlsx files from the SmartBridge personal account, which are available only to the administrator of the SmartBridge Services Showcase site."
+    },
+    "openStandards": [
+        "W3C",
+        " HTML",
+        " CSS",
+        " JSON",
+        " JavaScript",
+        " CI/CD"
+    ],
+    "bestPractices": [
+        "The purpose of creating the project \"Smart Bridge (Showcase of services)\" is:\r\n\r\nsimplification of organizational procedures for integration",
+        " interaction of government agencies with business and development of a competitive environment.\r\nThe \"Showcase of Services\" platform provides solutions to the following tasks:\r\n\r\ncreation of a unified catalog of information system services of government agencies and the private sector with the provision of a technical description of the service and contact details of the owner of the service and the developer of the information system;\r\nautomation of the processes of obtaining access to services published on the portal of the Showcase of services through the gateway of \"electronic government\";\r\nautomation of the process of creating new information services of information systems through connectors (service constructor)."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Full name",
+            "Email",
+            "Phone number"
+        ],
+        "dataPrivacySecurity": "To prevent unauthorized access, we use the technical and legal data protection measures described in sections 7 and 9a. - We also strive to ensure that the information posted on the site is reliable and up-to-date. However, we understand that there is a risk of misinformation due to the fact that changes are made to legislative acts from time to time, modules may be updated. In this regard, firstly, the site administrator monitors legislation once a month for changes and, if necessary, updates regulatory legal acts on the portal. We collect and use personal data exclusively for the purposes specified in the privacy policy: to combat spam and protect users from insults and hate speech, as well as to maintain contact with users, in particular to send notifications, requests, responses regarding the use of the portal, the provision of services, processing requests and requests from users. We restrict access to personal information for our employees, contractors and agents. Personal data of users is accumulated in the admin panel in the \"Users\" tab, which only the administrator and the programmer have access to. We impose contractual obligations on the administrator: in the Agreement on the confidentiality of personal data signed by the administrator, it is stated that for violation of the confidentiality of personal data, the administrator undertakes to compensate for the losses incurred by the subject of personal data in connection with the dissemination of personal data. data, in accordance with the current legislation of the Republic of Kazakhstan. Similar agreements will be concluded with all employees who have access to users' personal data. In addition, we use technical means of data protection (connection of an SSL certificate, use of the OAuth2 standard, access rights) mentioned in Section 7."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Text information",
+            " scanned copies of documents",
+            " transport signature of an employee of the organization for signature validation",
+            " SSL certificates are attached when publishing services. Examples of request-response for data exchange with the customer information system",
+            " as well as xsd laughter."
+        ],
+        "contentManagementPolicy": "On the Smart Bridge services Showcase, only the publication of services of public authorities, as well as the publication of services of the private sector, takes place to simplify the integration process between the client and the owner of the services. Also, when submitting an application for the publication of the service, each field is validated for correct filling, when filling in hints for users are used. Which excludes the placement of prohibited content."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "On the Smart Bridge services Showcase, only the publication of services of public authorities, as well as the publication of services of the private sector, takes place to simplify the integration process between the client and the owner of the services. Also, when submitting an application for the publication of the service, each field is validated for correct filling, when filling in hints for users are used. Which excludes the placement of prohibited content."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kazakhstan"
+        ],
+        "deploymentCountries": [
+            "Kazakhstan"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "The main goal of SmartBridge is to simplify the integration process between public authorities and the private sector. To date",
+        " ministries",
+        " committees",
+        " subordinate bodies",
+        " as well as private sector organizations have been registered on the integration platform."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "SmartBridge",
+            "website": "https://sb.egov.kz/",
+            "org_type": "owner",
+            "contact_name": " sb_nitec.kz  ",
+            "contact_email": "makisheva.792603@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "When working with users' personal data, our project is guided by the following laws: Law of the Republic of Kazakhstan dated May 21, 2013 No. 94-V \"On Personal data and their protection\". The Constitution of the Republic of Kazakhstan. Kazakhstan dated August 30, 1995, which proclaims that everyone has the right to inviolability of private life and protection of private and family secrets. The Law \"On Informatization\" of November 24, 2015, which provides for measures to prevent illegal access to digital information. \"On Approval of the Regulations on the Procedure for collecting and Processing Personal Data\", Order No. 395/NK of the Minister of Digital Development, Innovation and Aerospace Industry of the Republic of Kazakhstan dated October 21, 2020. To collect personal data, we request the user's consent to the collection and processing of his personal data during registration/authorization. If the user logs in or registers on the website, he automatically agrees to the collection and processing of data. We ensure the confidentiality of users' personal data, observing the requirement not to allow their dissemination without the user's consent or other legal grounds. To prevent unauthorized access to data, we take legal and technical measures to protect the information system. The measures of legal protection include an agreement on the confidentiality of personal data concluded by the owner of the information system, which establishes the working conditions, access and use of personal data, as well as responsibility for their violation. Technical measures include the use of information security tools: an SSL certificate is connected to our site. This ensures a secure connection between the user's browser and the server. When using the SSL protocol, information is transmitted encrypted over HTTPS and can only be decrypted using a special key, unlike the usual HTTP protocol. For authorization via social networks, the OAuth2 standard is used as a special means of protecting accounts. Access rights: This includes assigning the roles \"administrator\" and \"user\" and the ability to access users' personal data only by logging in using the password of the administrator account.",
+            "privacyComplianceURL": "https://github.com/sbniteckz/sbniteckz/tree/documents"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
