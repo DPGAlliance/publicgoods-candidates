@@ -1,0 +1,175 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "Backend Api License : https://github.com/GRS-DPG/GRS-API/blob/master/LICENSE \r\nFrontend Web License : https://github.com/GRS-DPG/GRS-WEB/blob/master/LICENSE \r\n"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Aspire to Innovate (a2i) Programme (A Multinational Digital Transformation Catalyst from the Government of Bangladesh)",
+            "clearOwnershipURL": "Project Hosting: https://dpg.grs.gov.bd/#/ \r\nProject Source Code Backend-API : https://github.com/GRS-DPG/GRS-API \r\nProject Source Code Frontend-WEB : https://github.com/GRS-DPG/GRS-WEB \r\n"
+        }
+    ],
+    "documentation": "All the documents are in : https://github.com/GRS-DPG/GRS-Documentations \r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The GRS incorporates mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format. The specific details of this mechanism may depend on the implementation of the GRS. However, some common approaches for extracting or importing non-PII data include: \r\nData Export/Import Functionality: The GRS offer built-in functionalities within its user interface that allow users with appropriate permissions to initiate the export or import process of non-PII data. This functionality typically supports commonly used non-proprietary formats such as CSV, JSON, or XML.\r\nAPI-based Data Exchange: The GRS can provide Application Programming Interfaces (APIs) that enable authorized external systems or applications to programmatically extract or import non-PII data. These APIs ensure standardized endpoints and data formats for seamless integration.\r\nData Feed or Integration Services: The GRS establish data feeds or integration services that facilitate the exchange of non-PII data with external systems or applications. This can involve setting up data pipelines, data synchronization mechanisms, or scheduled data transfers using standard protocols like FTP or HTTP.\r\nData Transformation and Mapping: When importing non-PII data into the system, the GRS may include data transformation and mapping capabilities. This ensures that incoming data, even in non-proprietary formats, can be properly processed and integrated into the GRS's data structure.\r\nBy employing these mechanisms, the GRS allows for the extraction or import of non-PII data in a non-proprietary format, promoting data interoperability, enhancing data sharing capabilities, and facilitating integration with external systems or applications.\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Bangladesh"
+        ],
+        "deploymentCountries": [
+            "Bangladesh"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "All Ministries of Bangladesh government uses this Data\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "N/A"
+    ],
+    "awardsReceived": [
+        "N/A"
+    ],
+    "openStandards": [
+        "Here are some widely recognized open standards and best practices in the context of GRS platform:\r\nOpen Standards:\r\nOpen Data Protocol (OData): A protocol for building and consuming RESTful APIs to enable the publication and consumption of query able and interoperable data.\r\nResource Description Framework (RDF): A standard for describing resources and their relationships using a flexible data model",
+        " allowing for semantic interoperability and data integration.\r\nGeoJSON: A format for encoding geographic data structures",
+        " enabling the representation of location-based information in a standardized and interoperable manner.\r\nW3C Web Annotation Data Model: A standard for annotating web-based resources",
+        " allowing users to associate comments",
+        " tags",
+        " and other metadata with specific parts of a document or webpage.\r\nDublin Core Metadata Element Set: A set of metadata terms for describing resources",
+        " facilitating the discovery and management of information resources.\r\n\r\nBest Practices:\r\nFAIR Data Principles: The FAIR (Findable",
+        " Accessible",
+        " Interoperable",
+        " and Reusable) principles provide guidelines for enhancing the discoverability",
+        " accessibility",
+        " and usability of data.\r\nOpenAPI Specification: A specification for designing and documenting RESTful APIs",
+        " promoting interoperability",
+        " and enabling automated API discovery.\r\nLinked Data Best Practices: A set of principles and guidelines for publishing and linking structured data on the web",
+        " allowing for the integration and enrichment of data from multiple sources.\r\nData Licensing Best Practices: Practices for applying open licenses to data",
+        " ensuring legal clarity",
+        " and promoting data reuse and sharing.\r\nData Quality Best Practices: Guidelines for ensuring data quality",
+        " including data validation",
+        " documentation",
+        " versioning",
+        " and transparency about data sources and limitations.\r\n\r\nData Governance and Data Management Best Practices: Practices for effective data governance",
+        " including data stewardship",
+        " metadata management",
+        " data lifecycle management",
+        " and privacy considerations.\r\n\r\nThese are some examples of open standards and best practices commonly associated with open data platforms. The specific standards and practices adopted by the GRS platform may vary and would depend on the platform's design",
+        " objectives",
+        " and implementation choices.\r\n"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC): Agile development; Architectural Design: SOLID principles of object-oriented programming; User Interface/ User Experience (UI/UX): Human-Centered Design Principles; Open Source: Best practices For Open Source Maintainers; Data Principles: FAIR Data Principles \r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "* Collection of Personal Identifiable (PI) Data:\r\n\r\n\r\nWe collect personal information from end users and administrative officers at various times to provide our services. The process of collecting personal data (PI) is described below.\r\n\r\n\r\n\tComplaint Registration: We collect the following information",
+            " which is not compulsory",
+            " from the complainant for grievance registration: name",
+            " mobile number",
+            " and email",
+            " date of birth",
+            " gender",
+            " educational qualification",
+            " professional qualification",
+            " NID number",
+            " country",
+            " and address. Complainants can also submit grievances anonymously without providing personal information.\r\n\tAdministrative User Registration: We collect the user's office ID and password for administrative user registration.\r\n\tGrievance Submission: When submitting a complaint",
+            " we collect the following information",
+            " if available: mobile number",
+            " email",
+            " grievance submission office",
+            " subject of the grievance",
+            " description",
+            " and any relevant grievance-related document files.\r\n\r\n\r\n* Use of PI Data:\r\n\r\n\r\n\tService Provision: Collecting personal information",
+            " such as name",
+            " mobile number",
+            " email",
+            " address",
+            " and other relevant details",
+            " is necessary to effectively provide the grievance redressed service. This information helps identify and contact the complainant",
+            " maintain accurate records",
+            " and facilitate the resolution process.\r\n\tAuthentication and Security: To prevent unauthorized access to the system and ensure account security",
+            " users",
+            " including administrative officers",
+            " may be required to provide personal information such as office ID",
+            " password",
+            " and other relevant authentication credentials.\r\n\tCommunication and Notification: Personal contact details like mobile numbers and email addresses are collected to facilitate communication between system administrators and complainants. This allows for updates on the grievance resolution process",
+            " acknowledgment of receipt",
+            " and any additional information related to the complaint.\r\n\tLegal and Regulatory Compliance: Collecting personal information",
+            " including NID numbers or other identification details",
+            " may be necessary to comply with legal and regulatory requirements specific to the grievance redressed system. This ensures the system operates in accordance with applicable laws and regulations.\r\n\tAnonymous Submissions: Some grievance redressed systems allow users to submit complaints anonymously without providing personal information",
+            " thus maintaining privacy while still accessing the system's services.\r\n\r\n\r\nIt is essential for the privacy policy to outline the specific types of personal information collected",
+            " the purpose of collection",
+            " and how the information is stored",
+            " used",
+            " and protected. This helps users understand how their data will be handled and assures them that their privacy is respected within the system.\r\n"
+        ],
+        "dataPrivacySecurity": "Data Handling Policy:\r\nThe Grievance Redressed System (GRS) is committed to ensuring the privacy and security of user data.\r\nAll data collected through the GRS will be handled in accordance with applicable data protection laws and regulations.\r\nThe GRS will only collect and process personal data necessary for the purpose of resolving grievances and ensuring effective redressed.\r\nUser data will be handled securely, protected from unauthorized access, and used solely for the intended purposes of the GRS.\r\nThe GRS will implement appropriate technical and organizational measures to safeguard user data from loss, misuse, or unauthorized disclosure.\r\nUser data will be retained for the duration necessary to fulfill the purposes for which it was collected or as required by law.\r\n\r\nOur more privacy policies are provided in : https://dpg.grs.gov.bd/#/privacy-policy"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Complain details and Required media files for complain submissions of an Apprentice to submit a complaint\r\n"
+        ],
+        "contentManagementPolicy": "The platform has certain terms and policies in place to ensure a safe and fair environment for its users. We do not tolerate listings that infringe on intellectual property rights. Intellectual property rights owners or authorized agents can report infringements by submitting an online form with the necessary details. While the system acknowledges exclusive distribution and price agreements, we do not enforce them except relevant laws. User accounts must be kept secure, and users are responsible for their actions.GRS may terminate accounts for various reasons, and users can also choose to terminate their accounts. The platform is available only to users located in approved countries.More Terms And Conditions of the system is given at - https://dpg.grs.gov.bd/#/terms-and-conditions\r\n"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The solution protects and enables users and contributors to protect themselves from harassment by ensuring some features in the solution .Such as : Reporting Mechanism, Secure Communication, Investigation and Resolution by the Higher Authprities ,Monitoring and Analytics.\r\n\r\nAnd violation of any terms of the solution can trigger some actions by the privilaged authors. All the terms and conditions are provided in our terms and condition page:\r\nhttps://dpg.grs.gov.bd/#/terms-and-conditions"
+    },
+    "id": "10567",
+    "name": "Grievance Redress  System (GRS)",
+    "aliases": [
+        "Grievance Redress  System (GRS)"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Grievance Redress  System (GRS) is recognized worldwide as one of the enabling factors for organizations to be efficient, effective, and people-oriented. A functional platform for receiving people\u2019s complaints or grievances facilitates administrators to improve their service delivery systems, thereby improving governance in general.After registering on the GRS System, users will receive a verification code via SMS or email for password setup. Due to an issue with the implementation of the SMS gateway, users aren't receiving the code. As a temporary fix, the system has set the password for new users as \"123456\" to ensure access. We're actively working on implementing the SMS gateway.",
+    "website": " https://dpg.grs.gov.bd/#/  ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "Frontend Source Code: https://github.com/GRS-DPG/GRS-WEB Backend Source Code: https://github.com/GRS-DPG/GRS-API "
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG5: Gender Equity",
+            "SDG10: Reduced Inequalities",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "SDG 3: Good Health and Well-being:-\r\nThe Grievance Redress al System (GRS) affects SDG 3: Good Health and Well-being in the following ways:\r\n1.Improving Healthcare Service Delivery: The GRS allows citizens to report grievances related to healthcare services, enabling authorities to identify and address issues promptly. By addressing complaints and resolving them effectively, the GRS helps improve the quality of healthcare service delivery. This, in turn, contributes to better health outcomes and promotes overall well-being.\r\n2.Timely Resolution of Healthcare Concerns: The GRS ensures that citizens' grievances related to healthcare are acknowledged and addressed in a timely manner. By providing a platform for individuals to report their concerns, it facilitates prompt resolution of issues, reducing the potential negative impact on health and well-being. The system helps ensure that healthcare concerns are not overlooked and are given the attention they deserve.\r\nSDG 5: Gender Equality:\r\nThe Grievance Redressal System (GRS) affects SDG 5: Gender Equality in the following ways:\r\n1.Addressing Gender-Based Violence: The GRS provides a safe and accessible platform for women to report grievances, including cases of gender-based violence and discrimination. By allowing women to voice their concerns and seek Redress , the system contributes to addressing gender-based violence and promoting a more gender-equal society.\r\n2.Ensuring Equal Access to Justice: The GRS ensures that both men and women have equal access to justice and grievance Redress mechanisms. It provides a fair and impartial platform for individuals to report grievances, regardless of their gender. This helps bridge the gender gap in accessing justice and supports gender equality.\r\nSDG 10: Reduced Inequalities:\r\nThe Grievance Redressal System (GRS) affects SDG 10: Reduced Inequalities in the following ways:\r\n1.Providing Equal Access to Grievance Redress ed: The GRS ensures that all citizens, regardless of their social or economic background, have equal access to report grievances and seek Redress . This promotes inclusivity and reduces inequalities by providing a platform for marginalized and vulnerable populations to address their concerns and seek justice.\r\n2.Addressing Discrimination and Injustice: The GRS plays a crucial role in addressing discrimination and injustice by providing a mechanism for individuals to report grievances related to inequality and unfair treatment. By addressing these concerns, the system contributes to reducing inequalities and promoting a more equitable society.\r\nSDG 11: Sustainable Cities and Communities:\r\nThe Grievance Redress System (GRS) affects SDG 11: Sustainable Cities and Communities in the following ways:\r\n1.Improving Service Delivery: The GRS allows citizens to report grievances related to public services in cities and communities. By addressing these grievances, the system contributes to improving the quality and efficiency of service delivery, ensuring sustainable and well-functioning cities and communities.\r\n2.Enhancing Community Engagement: The GRS promotes community engagement by providing a platform for citizens to voice their concerns and participate in the decision-making process. This engagement fosters collaboration between government entities and community members, leading to more sustainable urban development and community initiatives.\r\nSDG 16: Peace, Justice, and Strong Institutions:\r\nThe Grievance Redress System (GRS) affects SDG 16: Peace, Justice, and Strong Institutions in the following ways:\r\nAccess to Justice: The GRS provides citizens with a platform to seek Redress  for grievances, ensuring access to justice for all. By facilitating the resolution of disputes and addressing grievances, the system promotes a just and equitable society, contributing to SDG 16.\r\nRule of Law and Accountability: The GRS strengthens the rule of law by promoting accountability and transparency within institutions. It holds public officials and institutions accountable for their actions or inactions, ensuring that they adhere to legal and ethical standards. This fosters trust in institutions and contributes to the establishment of strong and accountable institutions.\r\nSDG 17: Partnerships for the Goals:\r\nThe Grievance Redressal System (GRS) affects SDG 17: Partnerships for the Goals in the following ways:\r\nMulti-Stakeholder Collaboration: The GRS encourages partnerships and collaboration among various stakeholders, including government institutions, civil society organizations, and citizens. By facilitating dialogue and cooperation, the system promotes effective partnerships for achieving the SDGs, fostering collective action and shared responsibility.\r\nEngaging Non-State Actors: The GRS provides an avenue for non-state actors, such as NGOs and community-based organizations, to actively participate in the grievance Redress process. This engagement strengthens partnerships between government and non-state actors, creating a conducive environment for sustainable development initiatives and achieving the SDGs.\r\n"
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Grievance Redress  System (GRS)",
+            "website": " https://dpg.grs.gov.bd/#/  ",
+            "org_type": "owner",
+            "contact_name": " a2i  ",
+            "contact_email": "dpg@a2i.gov.bd"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Privacy Standards: This GRS platform follows the privacy laws of the jurisdictions in which they operate. This includes Confidentiality, Timeliness, Accessibility and Transparency, Impartiality, Non-Retaliation and other relevant regulations that require collecting, storing, and processing personal data in a specific manner. \r\nEthical and Legal Standards: This solution adheres to ethical and legal standards, including fair business practices, intellectual property laws, and consumer protection laws. The Electronic Frontier Foundation's (EFF) Surveillance Self-Defense (SSD) ( https://ssd.eff.org/ ) guides how we protect user privacy and comply with relevant laws and regulations.\r\n",
+            "privacyComplianceURL": "All the Evidence of adherence is listed in our privacy policy and terms and conditions. Privacy Policy -  https://dpg.grs.gov.bd/#/privacy-policy\r\nTerm Conditions - https://dpg.grs.gov.bd/#/terms-and-conditions\r\n"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
