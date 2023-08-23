@@ -1,0 +1,131 @@
+	{
+    "id": "10857",
+    "name": "Tilli",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "N/A"
+    ],
+    "categories": [
+        "Open Content",
+        "Open Software"
+    ],
+    "description": "Tilli is an AI-powered, play-based Social Emotional Learning tool that builds and measures 8 foundational social emotional learning skills to help kids stay safe, healthy and happy. ",
+    "website": "https://www.tillikids.com/ ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/tillioss"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education"
+        ],
+        "relevance": "Tilli builds and measures 8 foundational social emotional learning skills in elementary learners, in the process we share actionable data and personalized strategies with caregivers and teachers to help them proactively intervene in a child\u2019s learning and development.\r\n\r\nWe directly address Indicator 4.2.1 (Ensuring children are developmentally on track), by ensuring children meet their social emotional learning milestones, Indicator 4.a.1 (Inclusive and safe schools) by equipping kids with skills in self awareness and empathy and Indicator 4.c.1 (supply of qualified teachers) by equipping teachers with the data and skills to build social emotional learning within the classroom. \r\n"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "Repos with AGPL 3.0 Licence\u200b\r\n1. https://github.com/tillioss/tilli-web-app \r\n2. https://github.com/tillioss/tilli-ide \r\n3. https://github.com/tillioss/tilli-backend-server \r\n\r\nRepos with Creative Commons Zero v1.0 Universal\u200b\r\n1. https://github.com/tillioss/tilli-docs/\r\n\r\nWe use A-GPL 3.0 License and it is provided in the Github repos. One example: https://github.com/tillioss/tilli-web-app/blob/master/LICENSE"
+        },
+        {
+            "openLicense": "CC0-1.0",
+            "openLicenseEvidenceURLs": "Repos with AGPL 3.0 Licence\u200b\r\n1. https://github.com/tillioss/tilli-web-app \r\n2. https://github.com/tillioss/tilli-ide \r\n3. https://github.com/tillioss/tilli-backend-server \r\n\r\nRepos with Creative Commons Zero v1.0 Universal\u200b\r\n1. https://github.com/tillioss/tilli-docs/\r\n\r\nWe use A-GPL 3.0 License and it is provided in the Github repos. One example: https://github.com/tillioss/tilli-web-app/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Tilli Kids",
+            "clearOwnershipURL": "Summary of the ownership is listed here: https://www.tillikids.com/opensource\r\nDetailed Terms of Service is linked here: https://www.tillikids.com/terms-of-service"
+        }
+    ],
+    "documentation": "Our website has a public open source web-page which is the first point of information, detailing what Tilli is about, our open source components and links to other documentation : https://www.tillikids.com/opensource\r\n\r\nREADME: \r\na. https://tillioss.github.io/docs/Developer-Getting-Started \r\nb. https://github.com/tillioss/tilli-web-app \r\nc. https://github.com/tillioss/tilli-backend-server \r\nd. https://github.com/tillioss/tilli-machine-learning \t\r\n\r\nDev environment, prerequisites, and instructions on local configuration/set-up: \r\nhttps://tillioss.github.io/docs/Developer-Requirements \r\n\r\nDetails about how the open source community can engage: \r\nhttps://tillioss.github.io/docs/Contribution-Guidelines\r\n  \r\nDeployment Instructions that include how and where the software is hosted: https://tillioss.github.io/docs/GitHub-Repositories \r\n \r\nInstructions for completing software setup/installation on the hardware: \r\nhttps://tillioss.github.io/docs/GitHub-Repositories  \r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Extraction: We can broadly extract non-PII data during two instances a) during sign-up: where we capture the age and gender of the player and b) during the game play: here we capture different inputs the player provides like their emotional check-in, the different answers they log in, completion rates, user ratings. \r\n\r\nImporting and storage: The data is anonymized and stored on our internally built analytics dashboard. Currently the data is only utilized for two purposes a) internal quality assurance where we view metrics around user engagement and completion and b) to personalize the strategies recommended to a player based on their past ratings of strategies "
+    },
+    "openStandards": [
+        "Our solution adheres to the following open standards:\r\n\r\nSecurity:\r\nHTTPS - Our website uses HTTPS for secure communication over TLS 1.2 as per RFC 8446\r\n\r\nWeb Standards:\r\nHTML5 - Our frontend markup adheres to HTML5 standards verified via https://validator.w3.org/\r\n\r\nCSS3 - Our styling follows CSS3 standards verified via https://jigsaw.w3.org/css-validator/\r\n\r\nData Formats:\r\nJSON - We use JSON for data exchange as per RFC 8259 \r\nCSV - Structured data is stored in CSV format per RFC 4180\r\n\r\n\r\nBy leveraging open standards in these areas",
+        " we build on established protocols and patterns for interoperability",
+        " scalability and maintenance of our solution.\r\n"
+    ],
+    "bestPractices": [
+        "Software Development:\r\nAgile Methodology - We follow agile principles like user stories",
+        " continuous integration",
+        " and frequent deliverables. User stories are defined and prioritized for development sprints.\r\nVersion Control - All code is managed through Git version control on GitHub per best practices. Branches",
+        " commits",
+        " and pull requests track code changes.\r\nAutomated Testing - Tests cases are defined for each component and run on every code change to detect regressions and validate functionality.\r\nCode Reviews - All code must pass peer review before being merged. This shares knowledge and improves quality.\r\nContinuous Integration - GitHub Actions run tests and validation on every push to detect issues early. New versions are built and deployed automatically.\r\nContinuous Deployment - New builds are deployed frequently and automatically to production once tests pass to accelerate delivery.\r\n\r\n\r\nArchitecture:\r\nLoose Coupling - Components are logically separated to allow flexible scaling and improvement. Event-driven architecture decouples backend services.\r\nREST APIs - Backend services expose REST APIs for structured communication as per industry standards.\r\nClient-Server - Distinct client-server separation of concerns improves efficiency and scalability.\r\nHorizontal Scaling - Stateless application design and use of Kubernetes allows easy horizontal scaling.\r\nCloud Native - Following cloud computing best practices around high availability",
+        " autoscaling",
+        " and infrastructure as code\r\n\r\n\r\nOpen source:\r\nGood First Issues - We tag simpler issues as \"Good First Issues\" to help onboard new contributors to the project.\r\nComplete Documentation - The repository contains a comprehensive README file explaining the project",
+        " architecture",
+        " setup",
+        " usage",
+        " and contribution guidelines.\r\nOpen Community - We foster an open community by discussing project updates and contributions on our GitHub discussions page.\r\nDefined Workflows - Contribution workflows are defined through GitHub issues",
+        " pull requests",
+        " code reviews",
+        " and branch management.\r\n\r\n\r\nAdherence is validated through extensive tests",
+        " pipeline checks",
+        " peer reviews",
+        " and architecture auditing. By leveraging industry standards across software development",
+        " architecture",
+        " and open collaboration",
+        " we create robust and evolving software. Community-driven development and public visibility help drive innovation and accountability.\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Email\r\nName\r\nAge\r\nSchool\r\nPassword"
+        ],
+        "dataPrivacySecurity": "To ensure privacy, security and integrity of user data, our project utilizes the following measures:\r\nCloud Infrastructure: We have deployed our services on Amazon Web Services (AWS) which provides a reliable and secure cloud infrastructure. AWS utilizes state-of-the-art data centers, hardware and networking to protect infrastructure.\r\nAccess Controls: User data can only be accessed by authenticated users within our organization. We maintain strict access controls to limit data access to the minimum required. Multi-factor authentication is enforced for sensitive data access.\r\nMinimal Data Collection: We only collect the minimum user data required for our stated purposes. Users explicitly consent to any data collected.\r\nNo Third Party Sharing: We do not share or sell any user data with third parties without explicit consent. Even within our organization, data access is limited to only authorized personnel on an as-needed basis for a limited time.\r\n\r\nWith this multilayered approach to security and minimal data collection, we aim to fully safeguard the privacy, confidentiality and integrity of user data in our project. \r\n\r\nPrivacy Policy: https://tillioss.github.io/docs/Privacy-Policy \r\n"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Sri Lanka",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Sri Lanka"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Ministry of Education in Sri Lanka (Nenasa Platform)\r\nNational Child Protection Authority (NCPA) - Sri Lanka\r\nDepartment of Probation and Child Services - Sri Lanka"
+    ],
+    "otherDeploymentOrganisations": [
+        "Save the Children - Sri Lanka\r\n"
+    ],
+    "awardsReceived": [
+        "Digital Thriving Challenge - IDEO",
+        " Sesame Street and Riot Games (https://www.riotgames.com/en/news/winners-riot-ideo-digital-thriving-challenge)\r\n\r\nSXSW-Edu - Launch and Impact Awards (https://www.sxswedu.com/news/2023/sxsw-edu-2023-launch-competition-winners-announced/)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Tilli",
+            "website": "https://www.tillikids.com/ ",
+            "org_type": "owner",
+            "contact_name": " Kavindya Thennakoon  ",
+            "contact_email": "kavindya@tillikids.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR) \r\nChildren's Online Privacy Protection Act (COPPA) in 1998 ",
+            "privacyComplianceURL": "Privacy Policy: https://tillioss.github.io/docs/Privacy-Policy \r\nCode of Conduct: https://tillioss.github.io/docs/code-of-conduct "
+        }
+    ],
+    "deploymentOrganisations": ""
+}
