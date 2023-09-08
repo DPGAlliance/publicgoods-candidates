@@ -1,0 +1,107 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/credebl/platform/blob/main/LICENSE"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "documentation": "https://github.com/credebl/docs\r\nhttps://docs.credebl.id",
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG2: Zero Hunger",
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG10: Reduced Inequalities",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "Governments are implementing decentralised digital identity to increase access to services for every beneficiary using the Web and mobile applications while emphasising on protecting the users' privacy. So that governments can pass the benefits (financial, education and health) directly to the beneficiaries. Both the public and private sector needs (decentralised) digital identity (AKA Self-Sovereign Identity) infrastructure to effectively organize, and in fact to build the digital societies of the future by being able to issue verifiable credentials and verify those."
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Blockster Labs Private Limited",
+            "clearOwnershipURL": "https://docs.credebl.id/en/license/copyright-and-license"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The CREDEBL platform collects PII data for platform users which is essential for the access to the platform. However, CREDEBL also enables the collection/use of non-PII data which holds system-wide importance. For example, information related to statistics and reporting of organisations and users, which is made available through relevant REST APIs. The data is available in JSON (non-proprietary) format. This data can be consumed by the platform users or external systems to provide analytics and reporting functions."
+    },
+    "openStandards": [
+        "Decentralised Identifiers: https://www.w3.org/TR/did-core/\r\nDID Method Registry: https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/docs/did-spec.md\r\nhttps://www.w3.org/TR/did-spec-registries/\r\nSelected RFCs from the following list of RFCs: https://github.com/hyperledger/aries-rfcs/tree/main/features"
+    ],
+    "bestPractices": [
+        "CREDEBL has been developed by following industry proven standards & best practices.\r\nSome of the software development practices followed (but not limited to) are -\r\n- User stories\r\n- Change management using version control\r\n- Automated tests\r\n- Continuous Integration & Continuous Deployment (CI/CD)\r\n- Continuous Code review\r\n- Code refactoring\r\n- Agile development\r\n\r\nSome of the Architectural Design practices followed are -\r\n- Architectural Principles\r\n- Microservices architecture\r\n- SOLID principles of object-oriented programming\r\n- Modularity and Maintainability\r\n- Reusability and Extensibility\r\n- Accountability & Non-repudiability\r\n- FIDO Passkey Authentication\r\n- Universal Access & Open APIs\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "CREDEBL collects following PII during the onboarding of organisations and individual users -\r\n- Email (Mandatory)\r\n- Name (Optional)"
+        ],
+        "dataPrivacySecurity": "CREDEBL platform provides standard secured transport mechanisms such as HTTPS/SSL to protect the data in transit.\r\nCREDEBL provides row-level encryption of data at rest on the back-end services so that the data is only accessed by authorised entity.\r\nCREDEBL does not distribute this data."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Code of conduct - https://github.com/credebl/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India"
+        ]
+    },
+    "id": "10902",
+    "name": "CREDEBL",
+    "aliases": [
+        "CREDEBL Digital Credentials Platform",
+        " Self-Sovereign Identity",
+        " Decentralised Identity"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The CREDEBL platform helps Governments and private entities implement a digital, foundational identity issuance and verification solution in a cost effective way by leveraging W3C Standards.",
+    "website": "https://credebl.id",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/credebl"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "CREDEBL",
+            "website": "https://credebl.id",
+            "org_type": "owner",
+            "contact_name": " Kirankalyan Kulkarni  ",
+            "contact_email": "info@blockster.global"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR",
+            "privacyComplianceURL": "CREDEBL enables the compliance of privacy laws through its security and feature implementations. However, the users and/or implementers of the solution are responsible for complying with legislations in their jurisdictions. The owners of specific implementations are responsible for complying with legislations in their jurisdictions."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
