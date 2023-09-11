@@ -1,0 +1,104 @@
+	{
+    "id": "10768",
+    "name": "Bisa Health",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Bisa"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Bisa is a health application that allows the public to receive health information and communicate with doctors.",
+    "website": "https://bisaapp.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/BisaMhealth/BisaApp"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "Bisa health platform allows the public access to doctors and receive healthcare information through their mobile devices (both smart and non-smart phones). This is an advantage to people who need medical care and advice but are not able to visit the hospital for various reasons such as poverty, delays because of long queues at the hospital and the fear of stigmatization, especially for people who have symptoms of Sexually Transmitted Diseases (STDs), which makes them embarrassed to seek the needed treatment.,\r\n \r\nBisa has partnered with GIZ ( The Deutsche Gesellschaft f\u00fcr Internationale Zusammenarbeit GmbH ) and the Ghana Health Services to enhance Ghana\u2019s public health service education of COVID-19 and manage affected cases who are self-isolating.  The Bisa App provides patients direct access to doctors and health practitioners with a click of the App, doctors are readily available to respond to all questions within minutes with absolutely no cost involved. The Bisa App is instrumental in these times because it will reduce face-to-face doctor consultations and help with reducing congestion in hospitals."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/BisaMhealth/BisaApp/blob/backend/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Bisa Health",
+            "clearOwnershipURL": "https://bisaapp.com/team/"
+        }
+    ],
+    "documentation": "https://github.com/BisaMhealth/BisaApp/blob/backend/README.md",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "ISO 13131:2021  "
+    ],
+    "bestPractices": [
+        "Principles For Digital Development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name\r\nEmail\r\nPhone Number\r\nAddress\r\nDate of birth/Age\r\nHeight",
+            " weight (optional)\r\nKnown/existing medical condition"
+        ],
+        "dataPrivacySecurity": "Bisa is certified by the Data Protection Agency of Ghana.\r\nAll doctors are certified professionals recommended by the Ghana Health Service (GHS). \r\nBisa has features like anonymous login for users to easily ask questions without keeping any user data. \r\nNames of users who do not provide usernames/pseudo names for use on the Bisa app are encrypted on the admin dashboard only to be seen by approved doctors or stakeholders.\r\nUsers are given system generated names to ensure anonymity."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "All doctors are certified professionals recommended by the Ghana Health Service (GHS).\r\nUsers are given system generated names to ensure anonymity \r\nAll content on the Bisa Platform (Articles / tips) are verified health information from the Ghana Health Service (GHS)."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Ghana"
+        ],
+        "deploymentCountries": [
+            "Ghana"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "ECOM",
+        "  ECOM is a leading agribusiness company",
+        " committed to creating rural prosperity and engages in several businesses in the agriculture value chain through a conglomerate of companies; AgroEcom Ghana Limited (AGL)",
+        " Unicom Ghana Ltd",
+        " Sustainability Management Services (SMS) just to mention a few"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Bisa Health",
+            "website": "https://bisaapp.com",
+            "org_type": "owner",
+            "contact_name": " Raindolf Owusu  ",
+            "contact_email": "raindolf@bisaapp.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Bisa Mobile Application is conscious of the sensitivity of the information/data it handles and is therefore committed to maintaining the confidence and trust with respect to the privacy of its users. \r\n The following laws of Ghana are applicable with respect to the Bisa Mobile Application and we are committed to adhering to them:-,Electronic Communications Act, 2008 (Act 775),Electronic Communications Regulations, 2011 (L.I. 1991),Credit Reporting Act, 2007 (Act 726),Public Health Act, 2012 (Act 851),Children\u2019s Act, 1998 (Act 560)",
+            "privacyComplianceURL": "Reference: https://bisaapp.com/legal-data-privacy-laws/ \r\nPrivacy policy - https://bisaapp.com/privacy-policy/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
