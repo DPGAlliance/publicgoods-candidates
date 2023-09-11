@@ -1,0 +1,114 @@
+	{
+    "openStandards": [
+        "Authentication & Authorization\r\n2FA (two-factor authentication) with OTP (one time password)\r\n\r\nInternationalization\r\nI18N\r\nUTF-8\r\n\r\nWeb standards\r\nHTML\r\nCSS\r\n\r\nData Exchange/ Configuration formats\r\nJSON\r\n\r\nStandard Content formats\r\nPDF"
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "bestPractices": [
+        "Change management using version control\r\nTest driven development using automated tests\r\nModularity and Maintainability\r\nReusability and Extensibility\r\nMultitier architecture\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "name",
+            " nickname",
+            " birth date",
+            " birth place",
+            " nationality",
+            " identification",
+            " address",
+            " sex",
+            " skin color",
+            " hair color",
+            " email",
+            " telephone"
+        ],
+        "dataPrivacySecurity": "GENis stores the information in a PostgreSQL database installed on a Debian platform, taking advantage of the security schemes of both systems. During the use of GENis only users with the appropriate permissions can consult the information."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Argentina"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Dominican Republic",
+            "Mexico"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "ARGENTINA\r\nMinisterio de Ciencia",
+        " Tecnolog\u00eda e Innovaci\u00f3n. Banco Nacional de Datos Gen\u00e9ticos\r\nMinisterio de Justicia y Derechos Humanos. Registro Nacional de Datos Gen\u00e9ticos Forenses\r\nMinisterio de Seguridad de la Naci\u00f3n. Gendarmer\u00eda Nacional\r\nMinisterio de Justicia y Seguridad de CABA. Polic\u00eda de la Ciudad de Buenos Aires\r\nMinisterio de Seguridad de la Provincia de Buenos Aires. Polic\u00eda de la prov. de Buenos Aires.\r\nLaboratorios de gen\u00e9tica forense de las provincias de:\r\na. Buenos Aires; b. Entre R\u00edos; c. Santa Fe; d. Chaco; e. Corrientes; f. Misiones; g. Formosa; h. Tucum\u00e1n; i. Salta; j. Jujuy; k. Catamarca; l. San Juan; m. Neuqu\u00e9n; n. R\u00edo Negro; o. Chubut; p. Santa Cruz; q. Tierra del Fuego.\r\nM\u00c9XICO\r\nFiscal\u00eda General de Justicia de la Ciudad de M\u00e9xico\r\nREP\u00daBLICA DOMINICANA\r\nLaboratorio Referencia  \r\n\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "Not known"
+    ],
+    "awardsReceived": [
+        "No"
+    ],
+    "id": "10308",
+    "name": "GENis",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "GENis is an open source multi-tier information system developed to run a forensic DNA database at local, regional and national levels. It is composed by three\r\ndifferent modules related to: (a) person identification and analysis of\r\nforensic evidence,(b) missing person identification (MPI) and (c)Disaster\r\nvictim identification (DVI).",
+    "website": "https://www.fundacionsadosky.org.ar/genis/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/fundacion-sadosky/genis"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "High levels of armed violence and insecurity have a destructive impact on a country\u2019s development. Sexual violence, crime, exploitation and torture are prevalent where there is conflict or no rule of law. Governments, civil society and communities need to work together to find lasting solutions to conflict and insecurity. Strengthening the rule of law and promoting human rights is key to this process, as is reducing the flow of illicit arms, combating corruption, and ensuring inclusive participation at all times.\r\n\r\nForensic DNA databases constitute an important investigative resource in contemporary criminal justice systems. The centralized and computerized storage of DNA profiles in a database enables the systematic comparison and automated matching of crime scene samples and individual profiles. When DNA profiling is used wisely it can help to convict recidivist criminals or exonerate people who are innocent. GENis is an open source software that has been developed to help organize and manage such forensic DNA databases. \r\n\r\nThe system was entirely developed with strict adherence to open source policies to encourage the application of auditing procedures, and to warrant the integrity and ownership of the stored data. In addition, the development team followed the recommendations of the International Society of Forensic Genetics and the technical software specifications have been under exhaustive consistency examination by many different argentine universities and R&D centers.\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/fundacion-sadosky/genis"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Fundacion Sadosky",
+            "clearOwnershipURL": "https://github.com/fundacion-sadosky/genis\r\nhttps://www.fundacionsadosky.org.ar/genis/"
+        }
+    ],
+    "documentation": "https://github.com/fundacion-sadosky/genis/wiki",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "GENis",
+            "website": "https://www.fundacionsadosky.org.ar/genis/",
+            "org_type": "owner",
+            "contact_name": " Gustavo Sibilla  ",
+            "contact_email": "gsibilla@fundacionsadosky.org.ar"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Not applicable",
+            "privacyComplianceURL": "Not applicable"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
