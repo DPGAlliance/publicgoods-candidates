@@ -1,0 +1,99 @@
+	{
+    "id": "10707",
+    "name": "Feluda",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Feluda is a configurable engine for analysing multi-lingual and multi-modal content. While flexible, it is built it to analyse data collected from social media - images,text and video. It is configurable to allow for different use cases such as finding trends and narratives in social media across languages, and surfacing fact checked content corresponding to image and video.",
+    "website": "https://github.com/tattle-made/feluda, https://tattle.co.in/products/kosh",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/tattle-made/feluda"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/tattle-made/feluda/blob/master/LICENSE.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Tattle Civic Tech",
+            "clearOwnershipURL": "The Feluda repository is hosted under the organization tattle-made which is ours. Relevan links : \r\n- https://github.com/tattle-made/feluda\r\n- https://github.com/tattle-made\r\n\r\nThe feluda repository is linked on our Project Page at https://tattle.co.in/products/kosh\r\n\r\nThe organization github page is also linked on our website's footer - https://tattle.co.in/"
+        }
+    ],
+    "documentation": "Our Repository has a README.md that describes how feluda can be setup locally\r\nhttps://github.com/tattle-made/feluda\r\n\r\nThe repository also has documents written in markdown about things like feluda's architecture and use of operators that can be found here - https://github.com/tattle-made/feluda/tree/master/docs/src/pages\r\n\r\n\r\nThese same documents are served as a static website here : http://feluda.tattle.co.in/\r\n",
+    "sdgs": {
+        "sdg": [
+            "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "Our solution is geared towards information integrity. As per this chart(https://www.un.org/sites/un2.un.org/files/information-integrity-and-sdgs-en.pdf), all SDGs are impacted by a lack of information integrity but we chose the 2 that are directly relevant to the short term mission of Feluda.\r\n\r\nThe lack of information integrity threatens informed civic discourse that is the bedrock of democracy. Our tool provides the ability to analyze and study social media to understand how these spaces work, and how they can enable and prioritize trusted and safe content. This directly impacts the SDGs mentioned above in that our solution helps secure the information environment to build trust in experts and institutions, and promote healthier discourses for partnerships"
+    },
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Feluda is meant to be a lean software used along other softwares. For instance",
+        " it doesn't implement authentication because it expects authenticated requests to be made against it. So a lot of th open standards mentioned in the list aren't directly applicable to feluda's scope.\r\n\r\nWe do try to make it interoperable with other softwares and so all API responses are JSON objects and configuration files are written as YAML files.\r\nProcessed data is stored in elasticsearch which can be transferred from one entity to another in file formats native to elasticsearch. Or they can be exported as JSON objects and consumed by other softwares."
+    ],
+    "bestPractices": [
+        "Change management using version control : We use github\r\n\r\nTest driven development using automated tests : We lack a comprehensive test suite but we have some integration tests for certain key components - https://github.com/tattle-made/feluda/blob/master/src/api/test_search_api_as_client.py",
+        " https://github.com/tattle-made/feluda/blob/master/src/api/test_index_api_as_client.py",
+        " https://github.com/tattle-made/feluda/blob/master/src/api/test_index_api.py",
+        " https://github.com/tattle-made/feluda/blob/master/src/api/test_health_api.py etc\r\n\r\nContinous Integration & Continous Deployment (CI/CD) : Github actions to deploy changes to master to our kubernetes cluster\r\nhttps://github.com/tattle-made/feluda/blob/master/.github/workflows/prod-deploy.yml\r\n\r\n\r\nModularity and Maintainability : Key components are written as plug and play operators(or plugins). This is separated from Feluda's core.\r\n\r\nMicroservices architecture : Feluda is meant to be deployed as a micro service and to be used in a data pipelines or a data framework\r\n\r\nRepresentational state transfer (REST) : All functionality is exposed via a REST API\r\n\r\nEvent-driven : Feluda deployes workers that listen to changes to a queue and process data. "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India"
+        ]
+    },
+    "awardsReceived": [
+        "One of the nine entries selected as an open source solution against Information Disorder at the Nobel Prize Summit\r\n\r\nhttps://digitalpublicgoods.net/information-pollution/"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Feluda",
+            "website": "https://github.com/tattle-made/feluda, https://tattle.co.in/products/kosh",
+            "org_type": "owner",
+            "contact_name": " Denny  ",
+            "contact_email": "denny@tattle.co.in"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "To the best of our knowledge, Feluda is compliant with GDPR, CCPA and the Indian IT Act. In certain configurations, due to the operators selected, an application that Feluda relies on might violate some of these regulations.  \r\n\r\nBeing open source and allowing people to tweak how it functions, Feluda could be configured in a way that violates the laws. But, this evaluation needs to be done by an application developer.\r\n",
+            "privacyComplianceURL": "PRIVACY POLICY : \r\nhttps://github.com/tattle-made/feluda/blob/master/privacy_policy.md\r\n"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": ""
+}
