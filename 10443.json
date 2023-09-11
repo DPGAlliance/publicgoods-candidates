@@ -1,0 +1,185 @@
+	{
+    "id": "10443",
+    "name": "IDB CivicLytics Citibeats",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Data"
+    ],
+    "description": "On March 25th, 2020, amidst the COVID-19 emergency, Citibeats, alongside with the Inter-American Development Bank (IADB, or BID in Spanish), published an observatory to listen and help better understand the needs of people in Latin America and the Caribbean based on Twitter data.\r\nThe observatory has been created using Citibeats\u2019s proprietary AI, which uses ML and NLP to detect changes in the needs of people in Latin America and the Caribbean.",
+    "website": "https://github.com/citibeats-labs/bidciviclytics",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/citibeats-labs/bidciviclytics"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG6: Clean Water and Sanitation",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG7: Affordable and Clean Energy",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG14: Life Below Water",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG15: Life on Land",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "The IDB Group is the main source of financing for economic and social development in Latin America and the Caribbean. The IDB Group contributes to improving lives by providing development solutions to the three development actors: governments, private sector and civil society.\r\n\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "OdbL-1.0",
+            "openLicenseEvidenceURLs": "https://github.com/citibeats-labs/bidciviclytics"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Yes",
+            "clearOwnershipURL": "https://bidciviclytics.citibeats.com/#/en"
+        }
+    ],
+    "documentation": "https://github.com/citibeats-labs/bidciviclytics",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "You can download the .csv from the page \r\n\r\nhttps://github.com/citibeats-labs/bidciviclytics/tree/master/data\r\n\r\n"
+    },
+    "openStandards": [
+        "HTTPS\r\nUTF-8\r\n\r\nhttps://github.com/citibeats-labs/bidciviclytics "
+    ],
+    "bestPractices": [
+        "https://github.com/citibeats-labs/bidciviclytics"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Spain"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Bahamas",
+            "Barbados",
+            "Belize",
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "Costa Rica",
+            "Dominican Republic",
+            "Ecuador",
+            "El Salvador",
+            "Guatemala",
+            "Guyana",
+            "Haiti",
+            "Honduras",
+            "Jamaica",
+            "Mexico",
+            "Nicaragua",
+            "Panama",
+            "Paraguay",
+            "Peru",
+            "Suriname",
+            "Trinidad and Tobago",
+            "Uruguay",
+            "Venezuela"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Inter-American Development Bank."
+    ],
+    "awardsReceived": [
+        "https://fairlac.iadb.org/civiclytics"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "IDB CivicLytics Citibeats",
+            "website": "https://github.com/citibeats-labs/bidciviclytics",
+            "org_type": "owner",
+            "contact_name": " Matteo Mezzanotte  ",
+            "contact_email": "mmezzanotte@citibeats.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR",
+            "privacyComplianceURL": "https://www.citibeats.com/privacy-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": ""
+}
