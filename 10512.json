@@ -1,0 +1,97 @@
+	{
+    "id": "10512",
+    "name": " Pegabot ",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Atrapabot"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "PegaBot (Gotcha Bot) is a project by the Instituto de Tecnologia e Sociedade do Rio de Janeiro (Institute of Tecnology and Society of Rio de Janeiro, ITS Rio) and the Instituto Equidade & Tecnologia (Technology and Equity Institute). On the platform, the user can verify a social media account\u2019s activity and check its probability of being a bot. The higher the score, the bigger the chance it\u2019s a bot.",
+    "website": "https://pegabot.com.br/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Pegabots"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "The Pegabot tool is part of a project of the Institute for Technology and Society of Rio de Janeiro (ITS-Rio) in partnership with the European Union.\r\n\r\nThe project ensures that the use of robots in social media to promote disinformation is confronted with transparency and media literacy practices. Through the use of an algorithm that promotes transparency in the behaviour of robots on social media, the project aims to strengthen civil society organisations (CSOs), media organisations and citizens in identifying and contextualising disinformation campaigns.\r\n\r\nThe main objective of the project is to combat disinformation by producing initiatives that help build resilience among citizens and empower the various actors impacted. Furthermore, the project aims to ensure that the use of robots to promote disinformation on social media is confronted with transparency and media literacy practices."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/Pegabots/Motor/blob/main/LICENSE\r\nhttps://github.com/Pegabots/Pesquisas-e-Narrativas/blob/main/LICENSE\r\nhttps://github.com/Pegabots/API/blob/main/LICENSE\r\nhttps://github.com/Pegabots/Extensao-Navegador/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Institute for Technology & Society of Rio de Janeiro (ITS Rio)",
+            "clearOwnershipURL": "Pegabot is listed as ITS Rio project on the Institute's official website: https://itsrio.org/en/projetos/pega-bot/\r\n\r\nThe logo of ITS Rio is also visible on the footer of the project page: https://pegabot.com.br/"
+        }
+    ],
+    "documentation": "All information necessary to contribute with the solution is available on .md files on our GitHub page and the FAQ on the project page.\r\n\r\nhttps://pegabot.com.br/faq/\r\nhttps://github.com/Pegabots/Pesquisas-e-Narrativas/blob/main/README.md\r\nhttps://github.com/Pegabots/Extensao-Navegador/blob/main/README.md\r\nhttps://github.com/Pegabots/API/blob/main/README.md\r\nhttps://github.com/Pegabots/Telegram-Bot/blob/main/README.md",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HTTPS\r\nUTF-8\r\nHTML\r\nCSS"
+    ],
+    "bestPractices": [
+        "https://validator.w3.org/check?uri=https%3A%2F%2Fpegabot.com.br%2F&charset=(detect+automatically)&doctype=Inline&group=0&verbose=1"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected but NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Pegabot uses the text from users public tweets to search for indications of automation. This data is not stored",
+            " nor distributed."
+        ],
+        "dataPrivacySecurity": "Our solution does not require a user login nor a Twitter account. It only uses information that is available on public tweets of the analysed profiles."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil"
+        ],
+        "deploymentCountries": [
+            "Brazil"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": " Pegabot ",
+            "website": "https://pegabot.com.br/",
+            "org_type": "owner",
+            "contact_name": " Pedro Braga  ",
+            "contact_email": "pedrohcb@itsrio.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Brazil General Personal Data Protection Law (LGPD) - 2018 \r\nhttps://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm ",
+            "privacyComplianceURL": "https://pegabot.com.br/privacidade/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
