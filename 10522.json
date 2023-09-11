@@ -1,0 +1,108 @@
+	{
+    "id": "10522",
+    "name": "ZIConnect AI Platform",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Jobzi ZIConnect AI Platform",
+        " Jobzi AI",
+        " Jobzi Data Intelligence"
+    ],
+    "categories": [
+        "Open AI Model",
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "With Unicef Innovation Fund and Giga Project, our objective is to leverage the inclusion of young people to better education and more opportunities through internet connectivity.\r\n\r\nWe also apply Machine Learning techniques to build explainable models to predict connectivity at schools. To find the model(s) that will be implemented in our service we will invest in feature selection/engineering and we will also carry-on experiments with a number of possibilities ranging from classical models (Learners) as Decision Trees and SVM's to more recent ones, including Gradient Boosting Methods and Deep Learning.",
+    "website": "https://unicef.jobzi.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Jobzi-Artificial-Intelligence"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "We are focused in spread the platform and studies around the world and essentially our initial journey is focused on Brazil. We are using information on school locations and jobs to predict connectivity and its impact on employability. The platform provides unique Brazil labor & education market information. In this project, our main goal is to build an innovative AI model to predict connectivity at the school level using jobs-related and education features with connectivity data."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "Front-End side: https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/LICENSE/  \r\nBack-End side: https://jobzi-artificial-intelligence.github.io/ziconnect-backend-fastapi/LICENSE/ "
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Giga Funding, Jobzi Data Intelligence",
+            "clearOwnershipURL": "https://unicef.jobzi.com/"
+        }
+    ],
+    "documentation": "Front-End: https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/docs/ABOUT/\r\nBack-End: https://jobzi-artificial-intelligence.github.io/ziconnect-backend-fastapi/docs/ABOUT/\r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Web standards: HTML",
+        "CSS",
+        " SQL\r\nSecurity: HTTPS\r\nAPIs: FastAPI",
+        " PostgREST\r\nDatabase management: Postgres\r\nCache management: Redis\r\nAsync work component: Celery\r\nGeographic Information System (GIS): Leaflet",
+        " Open Street Map\r\nData Exchange/ Configuration formats: JSON and CSV formats\r\nInternationalization (i18n) : UTF-8\r\n"
+    ],
+    "bestPractices": [
+        "- Workflow for implementations and developments -> https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/docs/GIT_WORKFLOW/\r\n\r\n- Workflow for contribution: https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/docs/CONTRIBUTING/\r\n\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Code of Conduct session\r\n   - https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/CODE_OF_CONDUCT/\r\n\r\nContributing session\r\n   - https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/docs/CONTRIBUTING/\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil"
+        ],
+        "deploymentCountries": [
+            "Brazil"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Not applicable for a while."
+    ],
+    "otherDeploymentOrganisations": [
+        "Not applicable for a while."
+    ],
+    "awardsReceived": [
+        "Not applicable for a while."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "ZIConnect AI Platform",
+            "website": "https://unicef.jobzi.com",
+            "org_type": "owner",
+            "contact_name": " Frances Gomes da Costa  ",
+            "contact_email": "frances@jobzi.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "Project's objective: \r\n   - Front-End side: https://jobzi-artificial-intelligence.github.io/ziconnect-app-angular/docs/ABOUT/\r\n   - Back-End side: https://jobzi-artificial-intelligence.github.io/ziconnect-backend-fastapi/docs/ABOUT/"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
