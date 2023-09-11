@@ -1,0 +1,43 @@
+{
+  "name": "OER Commons",
+  "aliases": [
+    ""
+  ],
+  "description": "A digital public library of open educational resources, which includes the ability  explore, create, and collaborate with educators around the world",
+  "website": "https://oercommons.org",
+  "license": [
+    {
+      "spdx": "CC-BY-SA-4.0",
+      "licenseURL": "https://www.oercommons.org/advanced-search"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Institute for the Study of Knowledge Management in Education(ISKME) works to make learning and knowledge-sharing participatory, equitable, and open, because we believe that the development of equitable and inclusive learning environments will contribute to the creation of a more just society. This is fully aligned to SDG 4 as we work with primary, secondary, and higher education, adult learning educators worldwide, with UNESCO and others in ensure equal access to education through the use of Open Educational Resources, and capacity building of the field. ",
+      "evidenceURL": "https://oercommons.org"
+    }
+  ],
+  "sectors": [
+    "Education"
+  ],
+  "type": [
+    "content"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://www.oercommons.org/advanced-search"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Institute for the Study of Knowledge Management in Education (ISKME)",
+      "website": "https://iskme.org",
+      "org_type": "owner",
+      "contact_name": "Lisa Petrides",
+      "contact_email": "lisa@iskme.org"
+    }
+  ],
+  "stage": "nominee"
+}
