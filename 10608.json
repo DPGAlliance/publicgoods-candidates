@@ -1,0 +1,108 @@
+	{
+    "id": "10608",
+    "name": "Open Health Information Mediator",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "OpenHIM"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The Open Health Information Mediator (OpenHIM) is a middleware component designed to ease interoperability between disparate information systems.",
+    "website": "http://openhim.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/jembi/openhim-core-js"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG9: Industry\u00b8 Innovation and Infrastructure"
+        ],
+        "relevance": "Goal: Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States by 2030.\r\n\r\nThe OpenHIM provides access to interoperability services as a key element of health information exchange as free and open source software that can be leveraged by low and middle income countries."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/jembi/openhim-core-js/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Jembi Health Systems",
+            "clearOwnershipURL": "http://openhim.org/docs/introduction/about/#what-are-the-benefits-of-using-the-openhim\r\n\r\nThe OpenHIM was initially developed by Jembi Health Systems in collaboration with the Health Architecture Laboratory ( HeAL) at the University of KwaZulu-Natal as part of the Rwanda Health Enterprise Architecture (RHEA) project, and formed the basis for Ryan Crichton\u2019s Master's thesis \u201cThe Open Health Information Mediator: an Architecture for Enabling Interoperability in Low to Middle Income Countries\u201d. The OpenHIM is a current reference technology for the interoperability layer of the OpenHIE (Open Health Information Exchange). It is supported through a number of implementation projects that drive its continuing development to meet real world needs.\r\n\r\n"
+        }
+    ],
+    "documentation": "http://openhim.org/docs/introduction/about/#what-are-the-benefits-of-using-the-openhim\r\n\r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The OpenHIM has a import/export feature which allows data to loaded and extracted in bulk in a JSON format. In additional the OpenHIM has a fully restful JSON API through which data can be inserted, read or changed at an individual object level.\r\n\r\nThese feature are documented as part of the API specification: http://openhim.org/docs/api/introduction/welcome"
+    },
+    "openStandards": [
+        "Centralised logging of all messages for auditing and reporting. This utilises ATNA and is compliant with international standards.\r\n\r\n"
+    ],
+    "bestPractices": [
+        "The OpenHIM is a current reference technology for the interoperability layer of the OpenHIE (Open Health Information Exchange). It is supported through a number of implementation projects that drive its continuing development to meet real world needs.\r\n\r\nhttps://wiki.ohie.org/download/attachments/13926693/OpenHIE%20MomConnect%20Presentation_FINAL.pdf?api=v2\r\n\r\nIn addition the following best practices are followed:\r\n\r\n* It has a RESTful JSON API\r\n* It's designed to be modular with separate frontend and backend components\r\n* It's designed to be stateless for easy scalability\r\n* It uses a client server architecture\r\n* It support standard authentication/authorisation mechanisms through OpenID Connect\r\n* It has great code coverage with automated tests\r\n* It has an long established CI/CD pipeline"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "South Africa"
+        ],
+        "deploymentCountries": [
+            "Botswana",
+            "Cameroon",
+            "Ethiopia",
+            "Rwanda",
+            "South Africa",
+            "Tanzania",
+            "Uganda",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Rwanda",
+        " South Africa"
+    ],
+    "otherDeploymentOrganisations": [
+        "PEPFAR / DATIM"
+    ],
+    "awardsReceived": [
+        "Cited at the OpenHIE Community Meeting in Malawi 2023"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Health Information Mediator",
+            "website": "http://openhim.org/",
+            "org_type": "owner",
+            "contact_name": " Christopher Seebregts  ",
+            "contact_email": "chris@jembi.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "None",
+            "privacyComplianceURL": "N/A"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
