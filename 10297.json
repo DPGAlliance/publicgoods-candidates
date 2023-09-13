@@ -1,0 +1,102 @@
+	{
+    "id": "10297",
+    "name": "OpenEyes",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "OE"
+    ],
+    "description": "OpenEyes\u2122 is the leading open source electronic patient record (EPR) for ophthalmology. It has been designed by clinicians to be fast in delivering content, fast to navigate and easy (and fun) to use.",
+    "website": "https://openeyes.apperta.org",
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "OpenEyes has been developed with the goal of improving ophthalmic outcomes for patients"
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/AppertaFoundation/openeyes"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Apperta Foundation CIC",
+            "clearOwnershipURL": "https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00003557481"
+        }
+    ],
+    "documentation": "https://openeyes.atlassian.net/wiki/spaces/OPD/pages/1570209809/Developer+Guidelines,https://github.com/AppertaFoundation/openeyes",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems",
+        "https://www.gov.uk/government/publications/cyber-essentials-scheme-overview",
+        "https://www.openchainproject.org/  https://apperta.org/assets/Apperta_Defining_an_Open_Platform.pdf",
+        "https://openeyes.atlassian.net/wiki/spaces/OPD/pages/1570209809/Developer+Guidelines"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "OpenEyes is an electronic health record and therefore collects a full range of an individual's ophthalmic medical attributes"
+        ],
+        "dataPrivacySecurity": "Only if permitted by the data controller DCB0129 / DCB0160 Clinical Assurance through the Custodian model. Technical assurance through the technical custodian, appointed via the Custodian to review security and other technical input to the project. Implementations adhere to the local information governance and security standards"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The users of OpenEyes are clinical and non-medical staff at health care organisations. This means that use of OE is controlled by the implementing organisations and end users will not be underage.  All contributors sign up to a standard set of values as part of the contributor agreement. The custodian (Apperta) set organisational values and behaviours for all members and ensure the community can contribute without grief, abuse or harassment. "
+    },
+    "locations": {
+        "developmentCountries": [
+            "United Kingdom",
+            "Australia",
+            "Hungary"
+        ],
+        "deploymentCountries": [
+            "United Kingdom",
+            "Australia",
+            "South Africa",
+            "Greece",
+            "Pakistan",
+            "Trinidad and Tobago"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenEyes",
+            "website": "https://openeyes.apperta.org",
+            "org_type": "owner",
+            "contact_name": " David Jobling  ",
+            "contact_email": "david.jobling@apperta.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR,DCB0129: Clinical Risk Management: its Application in the Manufacture of Health IT Systems,DCB0160: Clinical Risk Management: its Application in the Deployment and Use of Health IT Systems Apperta Foundation Custodian Model requires sign up to CLA and MOU, ensuring partners working with Health Care Organisations adhere to the standards set by the Custodian, through design, development, implementation and support.  ,Apperta undertake DCB0129 assurance of all contributions to the codebase "
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
