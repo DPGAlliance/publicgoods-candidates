@@ -1,0 +1,119 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG2: Zero Hunger",
+            "SDG10: Reduced Inequalities"
+        ],
+        "relevance": "We aim to improve the sharing of data across the agriculture and food system in order to enable the customization of agricultural advisory services, which will lead to improved productivity.\r\n \r\nOur approach and software puts farmers and other data providers at the center of data sharing and in control of their own data."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/digitalgreenorg/farmstack-open/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Digital Green",
+            "clearOwnershipURL": "https://www.farmstack.co/"
+        }
+    ],
+    "documentation": "https://github.com/digitalgreenorg/farmstack-open",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "id": "10948",
+    "name": "FarmStack",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Open source product suite which enables the secure transfer of data across the agricultural ecosystem",
+    "website": "https://www.farmstack.co/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/digitalgreenorg/farmstack-open"
+        }
+    ],
+    "openStandards": [
+        "Semantic web: RDF/ OWL",
+        " SPARQL",
+        " SHACL",
+        " JSON LD",
+        "Security: OAuth2.0 Authorization server Metadata (RFC8414)",
+        " JWT Bearer token type (RFC7521)",
+        " X.509 (ITU standard)",
+        " TLS (RFC 8446)",
+        "Web applications: HTTP",
+        " REST",
+        " XMLHTTPRequest",
+        " HTML",
+        " CSS",
+        "WOFF https://github.com/digitalgreenorg/farmstack-open",
+        "https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Components/IdentityProvider/DAPS/README.md",
+        "https://international-data-spaces-association.github.io/InformationModel/docs/index.html",
+        "https://github.com/International-Data-Spaces-Association/IDS-G Using open standards (ISDA) and building open source"
+    ],
+    "bestPractices": [
+        "https://farmstack.co/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow. It's open source software, so technically anyone could take it and do what they wish with it. But in the use cases we support there is no reason for underage users to engage, the network 'steward' invites and certifies participants who are typically other gov't agencies, researchers, private companies, etc. It's not an open network, it's by invite. The solution itself is open, but the application of it is more narrow."
+    },
+    "locations": {
+        "developmentCountries": [
+            "India",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Ethiopia",
+            "India",
+            "Kenya",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Kenya Agricultural and Livestock Research Organization (KALRO)"
+    ],
+    "otherDeploymentOrganisations": [
+        "N/A"
+    ],
+    "awardsReceived": [
+        "No"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "FarmStack",
+            "website": "https://www.farmstack.co/",
+            "org_type": "owner",
+            "contact_name": " Eric Firnhaber  ",
+            "contact_email": "eric@digitalgreen.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Because it is used in different jurisdictions, for example the US, India, Ethiopia and Kenya, it is necessary to set standards based on the geography. In India, the software provides the consent manager containerised application (under development) which can be configured for each project as per the need. This is built using open techno-legal standard Data empowerment and Protection Architecture (DEPA). The software also complies with the draft personal data protection bill, 2018. The software complies with GDPR wherever applicable for data exchange, most importantly it provides a means to enforce purpose limitation, time limitation and to an extent storage limitation (on consumer side). The software also complies with ECOWAS. ",
+            "privacyComplianceURL": "https://github.com/FarmStackDG"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
