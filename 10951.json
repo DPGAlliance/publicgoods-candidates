@@ -1,0 +1,118 @@
+	{
+    "id": "10951",
+    "name": "Code Your Future",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "CYF SDC",
+        " CYF+"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "A free collaboratively developed open source software development programme, with tracks in product, web development, and systems engineering",
+    "website": "https://syllabus.codeyourfuture.io/ (2022) https://curriculum.codeyourfuture.io/ (2023) , https://systems.codeyourfuture.io/ (2023)",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/CodeYourFuture/curriculum, https://github.com/CodeYourFuture/immersive-go-course/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG10: Reduced Inequalities"
+        ],
+        "relevance": "Code Your Future is a free training programme for refugees and other people excluded from education and training. Our classes are free, and our teachers are volunteers. \r\n\r\nOur free and open-source syllabus is developed and published directly on GitHub. We collaborate with other free code programmes within the MigraCode network (https://migracode.eu/) and ad-hoc in the UK, South Africa, Roma, Medellin, etc. \r\n\r\nWe do our work in public. We are committed to free, open-source education and curriculum development, and all our materials are published and shared freely. People use our syllabus alone, in a code group, within another coding programme, and within our in-person classes. \r\n\r\nCode Your Future is a learning community where total life transformation happens. We understand that transformational change must be challenging but should not be harmful. Our course recognises that change can be difficult. We create spaces of psychological safety, including online spaces, where people can feel supported during a challenging learning journey to starting careers in tech. \r\n\r\nOur work largely falls on these targets in SDG 4: - Target 4.3: Equal access to affordable technical, vocational and higher education - Target 4.4: Increase the number of people with relevant skills for financial success - Target 4.5: Eliminate all discrimination in education.\r\n\r\nOur work also supports these targets:\r\n\r\n5.5 Effective participation and access to the ICT industry and cutting-edge technology. 40% of our trainees are women, while only 12.5% of software engineers in the UK are women. \r\n\r\n8.5.1 Hourly earnings & 10.2.1 People living below 50 per cent of median income. 99% of our trainees are on a low income and 83% live in poverty. Graduates from CYF typically move from 1st or 2nd decile income group to the 8th or 9th within six months of graduation. \r\n\r\n\r\n\r\n\r\n"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://curriculum.codeyourfuture.io/ and https://systems.codeyourfuture.io/ (4.0)\r\nhttps://github.com/CodeYourFuture/CYF-Signposts/blob/main/LICENSE (1.0)"
+        },
+        {
+            "openLicense": "CC0-1.0",
+            "openLicenseEvidenceURLs": "https://curriculum.codeyourfuture.io/ and https://systems.codeyourfuture.io/ (4.0)\r\nhttps://github.com/CodeYourFuture/CYF-Signposts/blob/main/LICENSE (1.0)"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Code Your Future",
+            "clearOwnershipURL": "https://codeyourfuture.io/governance/"
+        }
+    ],
+    "documentation": "https://docs.codeyourfuture.io/,https://module-template.codeyourfuture.io/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Software development training\r\nSystems engineering training"
+        ],
+        "contentManagementPolicy": "We don't have unsupervised user generated content -- content is only contributed through a formal review process on GitHub."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Our syllabus is a website without interaction, so harassment is not possible on the website. \r\n\r\nFor our in-person programme: \r\n\r\n1. All volunteers, staff, and trainees, bound by our Code of Conduct https://codeyourfuture.io/about/code-of-conduct/ \r\n\r\n2. We have a named Safeguarding lead. Staff and buddies undergo relevant Safeguarding training. All volunteers must sign our volunteer agreement before accessing our Slack workspace. As a registered charity in the UK, we are regulated by the Charity Commission, and our governance is here: https://codeyourfuture.io/governance/ \r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium",
+            "Brazil",
+            "Colombia",
+            "Eritrea",
+            "France",
+            "India",
+            "Italy",
+            "Netherlands",
+            "Pakistan",
+            "Portugal",
+            "South Africa",
+            "Spain",
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "South Africa",
+            "United Kingdom"
+        ]
+    },
+    "openStandards": [
+        "We align to SFIA mappings for graduation \r\nhttps://sfia-online.org/en\r\nhttps://docs.google.com/document/d/1jMxqI0L7IKFENCQ8Lw-D1lhnj3c3RZI_WK808wG4YJM/edit?usp=sharing \r\nAnd we broadly use the Teach Tech Together pedagogical framework\r\nhttps://teachtogether.tech/en/index.html"
+    ],
+    "bestPractices": [
+        "Our websites are WCAG 2.1 AA accessible. \r\nWe teach and use Agile software development practices",
+        " incorporating testing and accessibility from day 1. \r\nRun Lighthouse on our front ends https://systems.codeyourfuture.io/."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Code Your Future",
+            "website": "https://syllabus.codeyourfuture.io/ (2022) https://curriculum.codeyourfuture.io/ (2023) , https://systems.codeyourfuture.io/ (2023)",
+            "org_type": "owner",
+            "contact_name": " Sally McGrath  ",
+            "contact_email": "sally@codeyourfuture.io"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The syllabus can be accessed without an account so no PII is collected unless people join our in person classes. We are a registered charity and regulated in the UK by the Charity Commission and Ofsted. \r\n\r\nWe handle our trainee data in accordance with GDPR. ",
+            "privacyComplianceURL": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5102561/charity-overview\r\nhttps://codeyourfuture.io/governance/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
