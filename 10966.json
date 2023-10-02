@@ -1,0 +1,134 @@
+	{
+    "locations": {
+        "developmentCountries": [
+            "Kazakhstan"
+        ],
+        "deploymentCountries": [
+            "Kazakhstan"
+        ]
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "otherDeploymentOrganisations": [
+        "The plugin we have provided access to is an important part of the CodiPlay platform. As of the current date",
+        " the CodiPlay application is integrated in the following schools: \r\nOur client schools in Almaty",
+        " Kazakhstan:\r\n1. School Gymnasium \u211681\r\n2. Gymnasium \u2116105\r\n3. Gymnasium \u2116140 \r\n4. Comprehensive school \u211687\r\n5. Comprehensive school \u2116 58\r\n6. Gymnasium \u2116159\r\n7. Gymnasium school \u2116202\r\n8. School Lyceum \u2116207\r\n9. Private school Zaman\r\n10. Private school Tarlan\r\n\r\nOur client schools in Astana (Kazakhstan):\r\n1. Specialized gymnasium \u211681 Astana English school\r\n2. school-lyceum \u211660 \r\n3. school-lyceum \u211650 named after Raiymbek Batyr\r\n\r\nOur client schools in Uzbekistan:\r\n1. Humo school\r\n2. Diplomat School\r\n3. School Leader\r\n4. Genesis School \r\n5. School \u21169\r\n\r\nOur client schools in South Korea:\r\nIncheon Dohwa Elementary School\r\nJeonju Yuil Girls High School\r\nUlsan Yaksa High School\r\nGimcheon Unnam Middle School\r\nSeoul Samgaksan Elementary School"
+    ],
+    "id": "10966",
+    "name": "CodiPlay",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "CodiPlay is a Kazakhstani EdTech startup with gamification elements aimed at teaching children programming. The app of the same name allows them to learn to programme and create gadgets (IoT projects) using games. The startup uses innovative code compilation technology on a smartphone to teach programming languages such as Scratch, Block Coding, C++ and Python. Through designing and building IoT gadgets, students learn the fundamentals and core concepts of robotics.",
+    "website": "https://codiplay.kz",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/codiplaykz/ArduinoSketchUploader-UnityPlugin"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity"
+        ],
+        "relevance": "The plugin we provided is mainly included in the CodiPlay platform. The CodiPlay platform contributes to Sustainable Development Goals 4 and 5. In particular, it relates to indicators 4.3 and 4.4, as by teaching programming languages in school, the platform ensures equal access for all to affordable and quality technical education, also contributing to increasing the number of youth with technical skills for employment. It is also relevant to Indicator 5.B because by providing access to information and communication technology education equally to girls and boys from school, it contributes to the empowerment of women, enabling them to take an equal share of a market that has traditionally been dominated by men. We believe that CodiPlay provides the same start for all children and the knowledge we pass on to children is of generational importance."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/codiplaykz/ArduinoSketchUploader-UnityPlugin"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "CodiPlay founder (Zhanadil Taldybayev)",
+            "clearOwnershipURL": "This is registration from the official platform of the National Institute of Intellectual Property of the Ministry of Justice, Republic of Kazakhstan - https://copyright.kazpatent.kz/?!.iD=wQEy\r\nHere the official translation to English -https://drive.google.com/file/d/1g5F1tFjnct_J6hpFOXwcx7pdONt6p2Zr/view?usp=sharing"
+        }
+    ],
+    "documentation": "Technical documentation: https://github.com/codiplaykz/ArduinoSketchUploader-UnityPlugin/blob/main/README.md\r\n",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "openStandards": [
+        "HTTPS",
+        " SSL",
+        " SSH",
+        " Internationalization(i8n)",
+        " UTF-8",
+        " ACII",
+        " Web standards",
+        " HTML",
+        "CSS",
+        "JSON",
+        "XML",
+        "SVG (Scalable Vector Graphics)",
+        " PNG (Portable Network Graphics)",
+        " JPEG (Joint Photographic Experts Group)."
+    ],
+    "bestPractices": [
+        "Our products",
+        " CodiTeach and CodiPlay",
+        " embody a suite of best practices and principles",
+        " ensuring that we deliver optimum value to our users and stakeholders. Notably",
+        " a pivotal plugin that we have developed is mainly incorporated in CodiPlay. CodiPlay has been meticulously crafted using the following best practices and principles:\r\nUser-Centered Design: Before the development of both CodiTeach and CodiPlay",
+        " we engaged with focus groups and UI/UX designers to understand the needs and preferences of our users. This involved hours of discussions and user flow creation",
+        " resulting in designs that are tailored to our audience\u2019s needs.\r\nInclusive Education: Our applications are dedicated to teaching programming to kids through interactive games and IoT gadgets",
+        " fostering an inclusive and engaging educational environment. We leverage diverse teaching materials and methodologies to cater to different learning preferences.\r\nAgile Development: We employ Agile development methodologies",
+        " ensuring our products are adaptive to changing requirements and can quickly respond to user feedback. Unity is utilized for mobile application development",
+        " facilitating rapid iterations and robust application performance.\r\nCollaboration with Stakeholders: We actively work with teachers",
+        " enabling them to monitor and guide the progress of students through our platform",
+        " thereby fostering a collaborative learning ecosystem.\r\nTechnology Stack & Development Best Practices: Our technology stack includes PostgreSQL",
+        " Node.js",
+        " and Nest.js",
+        " chosen for their reliability and performance. We utilize GitHub for version control",
+        " ensuring effective change management and collaboration among our development team.\r\nData-Driven Approach: We continually gather feedback and assess user interactions with our products to make data-informed decisions",
+        " aiming to enhance user experience and educational outcomes.\r\nSecurity and Data Protection: We adhere to industry standards for security",
+        " implementing measures such as data encryption",
+        " firewall protection",
+        " and regular backups to protect user data both at rest and in transit.\r\nOpen Source and Community Engagement: We are committed to contributing to the open-source community and sharing our learnings. A significant demonstration of this commitment is the development and maintenance of our pivotal plugin",
+        " which is mainly utilized in CodiPlay",
+        " allowing other developers and stakeholders to leverage it",
+        " fostering innovation and collective growth in the educational technology sector. We actively engage with the community",
+        " driving discussions",
+        " and incorporating valuable feedback to continually enhance the plugin's functionalities and adapt it to evolving needs.\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "CodiPlay",
+            "website": "https://codiplay.kz",
+            "org_type": "owner",
+            "contact_name": " Zhanerke  ",
+            "contact_email": "zh.tleu@codiplay.kz"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The plugin we have provided access to is a significant part of the CodiPlay platform. CodiPlay platform is adjustable by the Law of the Republic of Kazakhstan dated May 21, 2013 No. 94-V \u201cOn personal data and their protection\u201d .",
+            "privacyComplianceURL": "Privacy policy - https://github.com/codiplaykz/ArduinoSketchUploader-UnityPlugin/tree/main/Privacy%20policy\r\nTerms of use - https://github.com/codiplaykz/ArduinoSketchUploader-UnityPlugin/tree/main/Term%20of%20use"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
