@@ -1,0 +1,136 @@
+	{
+    "id": "10967",
+    "name": "Aam Digital",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Easy-to-use case management software for the social sector that improves the effectiveness and transparency of work with beneficiaries. The offline-first web app is tailored to be used by NGOs anywhere in the world.",
+    "website": "https://www.aam-digital.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Aam-Digital/ndb-core"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity",
+            "SDG8: Decent Work and Economic Growth",
+            "SDG10: Reduced Inequalities",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "Aam Digital is used by social sector organizations that directly work with beneficiaries on the ground. As a customizable software platform it is contributing to the work of organizations working towards a number of SDGs:\r\n\r\nProjects use Aam Digital to track & coordinate\r\n- living conditions and interventions to improve livelihoods (SDG 1);\r\n- beneficiaries' health status and health-related activities (SDG 3);\r\n- student support programs, learning progress and attendance at educational activities (SDG 4);\r\n- work focused on gender equity and girls' rights (SDG 5);\r\n- activities of capacity building for SMEs and their outcomes (SDG 8);\r\n- work with marginalized communities (SDG 10)\r\n- activities to overcome conflict and stereotypes (SDG 16)\r\n- ... and with its data management and reporting Aam Digital provides an easy way to evaluate and communicate work between partnerships across the globe with transparency and accountability (SDG 16)"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/Aam-Digital/ndb-core/blob/master/LICENSE.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Aam Digital GmbH",
+            "clearOwnershipURL": "https://aam-digital.com/about-us/"
+        }
+    ],
+    "documentation": "Developer documentation: https://aam-digital.github.io/ndb-core/documentation/additional-documentation/overview.html\r\n\r\nUser documentation: https://www.youtube.com/watch?v=4wXRvkLen4s&list=PLaK5xQ55siXEqgAs_FOtnu-_soZL1E2eF\r\n\r\nAam Digital Setup: \r\nhttps://github.com/Aam-Digital/ndb-setup/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Users can download data as well as generated aggregated information in .csv or .json format directly from the user interface of the application. \r\n Export formats can be configured to match custom requirements. \r\nThe underlying database (CouchDB) offers a generic REST API that can be exposed to integrate directly with other information systems."
+    },
+    "openStandards": [
+        "HTTPS/SSL (encrypted connection to the app are automatically forwarded and enforced)",
+        "\r\n\r\nUTF-8 (data can be entered in any local language/script; translated UI is available)",
+        "\r\n\r\nXLIFF (i18n translation files to make the app available in different languages; https://github.com/Aam-Digital/ndb-core/tree/master/src/locale)",
+        "\r\n\r\nHTML/CSS/ECMAScript6 (Aam Digital is built using the widely adopted Angular framework and TypeScript",
+        " following common web standards)",
+        "\r\n\r\nREST (CouchDB as our backend/database exposes data through the REST standard)",
+        "\r\n\r\nOpenAPI: our backend services provide API documentation in standard format (e.g. https://dev.aam-digital.net/db/api)\r\n\r\nJSON (backups/exports of data are available in JSON or CSV)\r\nCSV (backups/exports of data are available in JSON or CSV) https://github.com/Aam-Digital/ndb-core/tree/master/src/locale",
+        "https://user-roles.aam-digital.com/db/api/ \r\n\r\n"
+    ],
+    "bestPractices": [
+        "Principles for Digital Development - these principles are a critical guiding light for our work;\r\nAam Digital is an open source initiative co-created in close collaboration with fieldworkers and intends to make this a scalable",
+        " sustainable service through its social enterprise",
+        "\r\nAgile development - our roots are in modern software development and our processes loosely based on Scrum;\r\niterative development",
+        " process automation and detailed user feedback are key aspects for us\r\n\r\nCI/CD - extensive automation of tests and integration of code quality analytics: https://github.com/Aam-Digital/ndb-core/tree/master/.github/workflows (or see any Pull Request on GitHub)\r\n\r\nSoftware architecture and patterns - building modular",
+        " reusable",
+        " isolated components is a core principle for us",
+        " continuously pushed for by our core team holding computer science degrees and professional experience in software development. Reference - https://aam-digital.github.io/ndb-core/documentation/additional-documentation/concepts/overall-architecture.html",
+        "\r\n\r\nMicroservices & containerization - different backend services are deployed separately and deployed as docker containers to allow easy setup. Reference - https://github.com/Aam-Digital/ndb-setup/blob/master/docker-compose.yml",
+        "\r\n\r\nMaterial Design - following the design guidelines and built using the official material design components for Angular. Reference - https://github.com/Aam-Digital/ndb-core/blob/e1f94b6c3a54501df04d78289bcfb118ea37537b/package.json#L34",
+        "\r\n\r\nCode style standards- prettier and tslint are integrated in our CI pipelines to automatically ensure consistent formatting",
+        " following the default styles for Angular projects",
+        "\r\n\r\nDocumentation",
+        " on-boarding and active engagement with volunteer contributors to the Open Source project. we run weekly video call meetings and mentor contributors actively in addition to our Developer Documentation (https://aam-digital.github.io/ndb-core/documentation/additional-documentation/overview.html)",
+        "\r\n\r\nOWASP & Security Audits - regular security audits and reviews also based on the most common security threats analyzed by OWASP",
+        "\r\nEnforced strong passwords - the app forces users to set passwords of minimum length and complexity\r\n\r\nhttps://github.com/Aam-Digital/ndb-core\r\n(and see linked sources in the answer above)"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Users of Aam Digital are social sector organozations and therefore can decide to collect and process special categories of personal data (Art. 9 GDPR). \r\n\r\ntechnical error reports from devices (using Sentry.io);\r\nusage analytics to understand how users are interacting with the app (using Matomo",
+            " self-hosted)"
+        ],
+        "dataPrivacySecurity": " The protection of personal data is considered at all levels or our work, taking into account technical state of the art, cost of implementation and type, scope, context and purposes of the data processing as well as the diverse probability and impact of risks for the rights and freedom of affected persons. We already consider these implications during development of software and selection of modules and processes following the data protection principle of designing for data protection and privacy friendly defaults (Art. 25 GPDR). There is an in-house data protection management system, compliance with which is constantly monitored and evaluated on a case-by-case basis and at least every six months. \r\n Security Audits: The Aam Digital case management software including its servers and other systems are subject to an extensive annual security audit. This includes the modelling of attack scenarios, the probing of possible security holes (penetration testing), the automatic scanning of systems using tools for security analysis as well as the discussion and adaption of security measures based on these insights. The audit is taking into consideration the guidelines of the German Federal Cyber Security Authority (BSI 'IT-Grundschutz') and the 'Open Web Application Security Project' (OWASP).\r\n\r\nalso see https://aam-digital.com/aam-digital-gdpr-toms/"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Germany",
+            "India"
+        ],
+        "deploymentCountries": [
+            "Germany",
+            "India",
+            "Israel",
+            "Rwanda",
+            "South Africa",
+            "Tanzania",
+            "Uganda",
+            "United States of America"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "various iNGOs",
+        " NGOs",
+        " grass-roots project and philanthropic funding organizations"
+    ],
+    "awardsReceived": [
+        "\"Social Tides\" Social Enterprise Accelerator (https://www.socialtides.eu/community)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Aam Digital",
+            "website": "https://www.aam-digital.com",
+            "org_type": "owner",
+            "contact_name": " Sebastian Leidig  ",
+            "contact_email": "sebastian@aam-digital.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Aam Digital is GDPR compliant, implementing an extensive list of Technical and Operational Measures and signing a specific data processing agreement with each client",
+            "privacyComplianceURL": "https://aam-digital.com/privacy-policy-saas/\r\n\r\nhttps://aam-digital.com/aam-digital-gdpr-toms/\r\n\r\nhttps://aam-digital.com/aam-digital-gdpr-data-processing-agreement-sample/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": ""
+}
