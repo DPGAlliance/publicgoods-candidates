@@ -1,0 +1,98 @@
+	{
+    "id": "10973",
+    "name": "Immunization Calculation Engine",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "ICE"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "ICE is an open source immunization evaluation and forecasting clinical decision support system",
+    "website": "https://cdsframework.atlassian.net/wiki/spaces/ICE/overview",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/cdsframework/ice"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "ICE promotes best practices for immunization to ensure that infectious diseases that can be controlled through vaccination are contained."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://cdsframework.atlassian.net/wiki/spaces/CDSF/pages/14352414/Open-Source+License"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "HLN Consulting, LLC",
+            "clearOwnershipURL": "https://cdsframework.atlassian.net/wiki/spaces/CDSF/pages/14352414/Open-Source+License"
+        }
+    ],
+    "documentation": "https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23494658/Documentation\r\n\r\nhttps://github.com/cdsframework/ice",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HL7 VMR",
+        " FHIR",
+        " Terminology (US CDC CVX",
+        " SNOMED-CT) \r\n\r\nhttps://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23494658/Documentation\r\n\r\nhttps://cdsframework.atlassian.net/wiki/spaces/ICE/pages/18972704/Downloads\r\n\r\nhttps://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23920670/News\r\n\r\nhttps://cdsframework.atlassian.net/wiki/spaces/ICE/pages/1580335105/COVID-19+Vaccine+Group+with+Pfizer+Moderna+and+Janssen+Vaccines Agile development",
+        "Consultation of relevant clinical guidelines"
+    ],
+    "bestPractices": [
+        "ICT4D\r\n   - Principles For Digital Development\r\n\r\nSoftware Development Life Cycle (SDLC)\r\n   - User stories\r\n   - Change management using version control\r\n   - Test driven development using automated tests\r\n   - Code review\r\n   - Code refactoring\r\n   - Rapid application development\r\n   - Agile development\r\n   - Architectural Design\r\n\r\nArchitectural Principles\r\n   - Modularity and Maintainability\r\n   - Reusability and Extensibility\r\n   - Microservices architecture\r\n\r\nSoftware Architectural Styles\r\n   - Multitier architecture\r\n   - Representational state transfer (REST)\r\n   - Service-oriented\r\n   - Component-based\r\n   - Peer-to-peer\r\n   - Cloud computing patterns\r\n\r\nOpen Source\r\n   - Best practices For Open Source Maintainers\r\n   - Open Source Tips"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "United States of America"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Immunization Calculation Engine",
+            "website": "https://cdsframework.atlassian.net/wiki/spaces/ICE/overview",
+            "org_type": "owner",
+            "contact_name": " Noam H. Arzt  ",
+            "contact_email": "arzt@hln.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "HIPAA (US) ",
+            "privacyComplianceURL": "Under US law, clinical decision support system calls that include any of the HIPAA-identified demographic fields (such as date of birth) are considered Protected Health Information and as such fall under HIPAA's privacy and security rules if they come from what is referred to as a \"covered entity,\" typically a clinical site or health insurance provider. As ICE does not retain any of this data, and typically requires an encrypted connection to make calls to its service, we do not believe it exposes PHI in any way in violation of this regulation. In addition, ICE uses the absolute minimum of PHI - just date of birth and gender - which cannot be easily connected to a patient by themselves."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
