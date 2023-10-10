@@ -1,0 +1,111 @@
+{
+    "id": "10989",
+    "name": "Agricultural Market Information System (AMIS)",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "AMIS",
+        " G20 AMIS"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "Supported by the Group of Twenty (G20), the Agricultural Market Information System (AMIS) provides up-to-date information on the global food market situation for greater market transparency and more effective policy response for food security.",
+    "website": "https://www.amis-outlook.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://www.amis-outlook.org/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG2: Zero Hunger"
+        ],
+        "relevance": "By enhancing transparency in global food markets and providing a platform for policy dialogue among the principal trading countries of food commodities, AMIS particularly contributes to SDG 2b: Prevent agricultural trade restrictions, market distortions and export subsidies. In fact, AMIS has been credited for helping keep international food trade open during recent crises, including the COVID-19 pandemic and the war in Ukraine. AMIS information on the current food market situation as well as policy recommendations by the AMIS Secretariat, the AMIS Chair and the AMIS membership have been instrumental in guiding international policy discussions and forums, including the 2020 Extraordinary Meeting of G20 Agriculture Ministers on COVID-19 and the 2022 Extraordinary Meeting of the G7 Agriculture Ministers on the food security implications of the war in Ukraine. Indeed, trade restrictions and other market distorting measures seem to have been fewer and more short-lived in these recent crises as compared to the 2007/08 Global Food Price Crisis, for example, that led to the creation of AMIS. "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "We will start updating our terms of use to reflect the new CC-BY 4.0 license for our data which was agreed by FAO's Office of Chief Statistician in October 2023.  Note it may take some time to update the website with the new license.\r\n\r\nhttps://app.amis-outlook.org/#/market-database/supply-and-demand-overview"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "G20 Agricultural Market Information System (AMIS)",
+            "clearOwnershipURL": "https://www.amis-outlook.org/amis-about/en/"
+        }
+    ],
+    "documentation": "https://app.amis-outlook.org/#/market-database/compare-sources: Notes and Definitions\r\n\r\nhttps://www.amis-outlook.org/resources-list/detail/en/c/1060212/: Manual",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "CSV"
+    ],
+    "bestPractices": [
+        "The underlying software of the online database is using an agile software development approach. "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Italy"
+        ],
+        "deploymentCountries": [
+            "Italy"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        "World Food Programme",
+        " World Bank"
+    ],
+    "deploymentCountriesDepartments": [
+        "All AMIS participating countries",
+        " i.e. G20 members plus Spain and 7 invited participants: Egypt",
+        " Kazakhstan",
+        " Nigeria",
+        " Philippines",
+        " Thailand",
+        " Ukraine and Vietnam.\r\n\r\nhttps://www.amis-outlook.org/amis-about/en/"
+    ],
+    "otherDeploymentOrganisations": [
+        "Main stakeholders and users of our solution would be those supporting the AMIS Secretariat: i.e. Food and Agriculture Organization of the United Nations; Group on Earth Observations Global Agricultural Monitoring; International Food Policy Research Institute; International Fund for Agricultural Development; International Grains Council; Organisation for Economic Co-operation and Development; United Nations Conference on Trade and Development; World Bank Group; World Food Programme; World Trade Organization."
+    ],
+    "awardsReceived": [
+        "AMIS has been recognized as one of the 10 greatest achievements of the Food and Agriculture Organization of the United Nations (FAO): https://www.youtube.com/watch?v=wYxMwaTB_AQ"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Agricultural Market Information System (AMIS)",
+            "website": "https://www.amis-outlook.org/",
+            "org_type": "owner",
+            "contact_name": " Denis Drechsler  ",
+            "contact_email": "denis.drechsler@fao.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "As an initiative supported and hosted by the United Nations, our policies align with data protection policies around the world (including the GDPR).",
+            "privacyComplianceURL": "https://www.fao.org/contact-us/data-protection-and-privacy/en/\r\n\r\nhttps://www.fao.org/3/ng760en/ng760en.pdf"
+        }
+    ]
+}
