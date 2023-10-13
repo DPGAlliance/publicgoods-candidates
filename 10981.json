@@ -1,0 +1,125 @@
+{
+    "id": "10981",
+    "name": "Vxnaid",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Vaccination Monitoring Platform"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Vxnaid is a digital platform that supports correct vaccine administration & efficient vaccination campaigns. Enable broad adoption of Vxnaid especially in RLS countries to ensure correct administration of vaccines, identification of vaccinees, follow-up/recall of vaccinated persons and understanding of vaccination campaign effectiveness.",
+    "website": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/johnsonandjohnson/vxnaid"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "This project is selected by J&J as part of their contribution to the Health for Humanity SDGs for 2025. It enables more effective vaccine administration and monitoring of vaccination campaign efficiency."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/johnsonandjohnson/vxnaid/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Johnson & Johnson Global Public Health",
+            "clearOwnershipURL": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf"
+        }
+    ],
+    "documentation": "https://github.com/johnsonandjohnson/vxnaid/wiki",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "For exporting, CSV and access-controlled REST API can be used. \r\nOur ETL module (see https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/ETL-Lite-Module) can be used for data import of any standard."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Vaccinee number and limited demographics",
+            "Vaccination status"
+        ],
+        "dataPrivacySecurity": " Vulnerability scans are regularly performed. Encryption in rest and in transit is in place, including individual encryption of individual\u2019s health information. Application has role-based access control and segregation of duties. "
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium"
+        ],
+        "deploymentCountries": [
+            "Colombia",
+            "Democratic Republic of the Congo",
+            "Mali",
+            "Philippines",
+            "Rwanda",
+            "Sierra Leone",
+            "Tanzania"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Democratic Republic of Congo Institut National de Recherche Biom\u00e9dicale (INRB)"
+    ],
+    "openStandards": [
+        "The standards used are made available through the Open Concept Lab (OCL) module for OpenMRS. This is referenced on our wiki page:https://github.com/johnsonandjohnson/vxnaid/wiki/Install-Backend-OpenMRS-System#startup-process",
+        "OCL supports CIEL",
+        " LOINC",
+        " SNOMED-GPS",
+        " SNOMED-TEST and ICD-10.  J&J SDLC standard with agile methodology (scrum) is followed",
+        " which includes compliance analysis",
+        " user stories in Jira",
+        " SIT",
+        " UAT and automation testing in Jira",
+        " change management",
+        " traceability matrix",
+        " Continuous Integration & Continuous Deployment pipelines. "
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC)\r\n* User stories (Jira)\r\n* Change management using version control (BitBucket)\r\n* Test driven development using automated tests (Jira/XRay)\r\n* Continous Integration & Continous Deployment (CI/CD)\r\n* Code review (BitBucket)\r\n* Code refactoring (BitBucket)\r\n* Agile development (Jira)\r\n* The scrum Guide\r\n\r\nArchitectural Design\r\n* Modularity and Maintainability (OpenMRS)\r\n* Reusability and Extensibility (OpenMRS)\r\n* Security & Consented Access (OpenMRS)\r\n* Universal Access & Open APIs (OpenMRS)\r\n* SOLID principles of object oriented programming\r\n\r\nSoftware Architectural Styles\r\n* Multitier architecture (OpenMRS)\r\n* Representational state transfer (REST) (OpenMRS)\r\n* Component-based (OpenMRS)\r\n* Asynchronous messaging (OpenMRS)\r\n* Event-driven (OpenMRS)\r\n* Database-centric (OpenMRS)\r\n* Model\u2013view\u2013controller\r\n* Monolithic application\r\n\r\nCoding Styles & Standards\r\n* Google Style Guide\r\n\r\nOpen Source \r\n* Best practices For Open Source Maintainers\r\n\r\nBest practices to help secure your IT resources\r\n* Create strong passwords for username/password authentication\r\n* Protect data at rest (data encryption",
+        " using a firewall",
+        " antivirus protection",
+        " schedule backups)\r\n* Protect data in transit (encrypt data in transit using TLS/SSL",
+        " authenticate data integrity using TLS/SSL",
+        " use X.509 certificates to authenticate the remote end)\r\n\r\nData Principles\r\n* FHIR\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Vxnaid platform offers other identification modalities that are not dependent upon VeriEye. The system offers other possibilities to identify a person: \r\n- Based on the reading of a QR or barcode (this can come from a national ID card",
+            " a vaccination invitation",
+            " a study card\u2026) \r\n- Based on the manual data entry of any unique ID pin the campaign wishes to use \r\n - Based on a combination of the above with a mobile phone number being captured. \r\nOur source code is modular and the use of biometrics (making use of VeriEye) is not obliged in the identification module as these other options are offered in our code."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Vxnaid",
+            "website": "https://jjcloud.box.com/shared/static/he8cey6hbxub0jc43u1dlb64u5m6o5hz.pdf",
+            "org_type": "owner",
+            "contact_name": " Paula Mc Kenna  ",
+            "contact_email": "pmckenna@its.jnj.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "AU Treaty and EU GDPR Formal data privacy assessment of relevant legal requirements by an independent agency with a view to potential deployment of platform in RLS countries",
+            "privacyComplianceURL": "https://github.com/johnsonandjohnson/vxnaid/wiki/Software-Terms-Of-Use"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
