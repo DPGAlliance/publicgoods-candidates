@@ -1,0 +1,115 @@
+{
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/AletheiaFact/aletheia/blob/develop/LICENSE\r\nhttps://www.aletheiafact.org/ - in the footer"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/AletheiaFact/aletheia/blob/develop/LICENSE\r\nhttps://www.aletheiafact.org/ - in the footer"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Movimento Aletheia Fact",
+            "clearOwnershipURL": "https://www.aletheiafact.org/about"
+        }
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "(1) https://www.aletheiafact.org/code-of-conduct; Users can report harassment in the platform through an open communication channel to the Community Engagement team which will act accordingly\r\n(2) The only way of communication between 2 users is when a fact-checking report is rejected by a reviewer, the platform doesn't allow comments or messages between users inside it; the community engagement team oversees these interactions through monitoring in a dashboard and can act promptly by blocking harmful messages and remove the user privileges if needed."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil"
+        ],
+        "deploymentCountries": [
+            "Brazil",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "No",
+        " the movement doesn't plan to engage with any type of government in order to avoid bias and comply to the IFCN code of conduct."
+    ],
+    "otherDeploymentOrganisations": [
+        "Nobody as of this writing."
+    ],
+    "awardsReceived": [
+        "No."
+    ],
+    "id": "10585",
+    "name": "AletheiaFact.org",
+    "aliases": [
+        "Aletheia"
+    ],
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "AletheiaFact.org is a movement for the democratization of fact-checking in Brazil by providing a technological platform that offers tools that make fact-checking processes accessible and feasible for everyone.",
+    "website": "https://aletheiafact.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/AletheiaFact/aletheia"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "SDG 4 (Quality Education): By promoting access to credible and truthful information, AletheiaFact.org supports educational quality and the provision of reliable knowledge, which is essential for informed learning and decision-making.\r\n\r\nSDG 9 (Industry, Innovation, and Infrastructure): Crowdsourced fact-checking is an innovative approach to combating misinformation. By leveraging collective intelligence, the platform contributes to building resilient infrastructure for information verification.\r\n\r\nSDG 16 (Peace, Justice, and Strong Institutions): Fact-checking and the promotion of truthful information are crucial for justice, peace, and the establishment of strong institutions. By combating misinformation, AletheiaFact.org helps in promoting informed civic participation and accountability.\r\n\r\nSDG 17 (Partnerships for the Goals): Crowdsourced platforms like AletheiaFact.org demonstrate the power of collaborative efforts in achieving broader societal goals. By bringing together individuals to fact-check information, the platform fosters partnerships and community engagement towards achieving a more informed society."
+    },
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Non-PII data can only be imported by humans following specific user journeys designed to increase the quality of information in the platform.\r\n\r\nIn order to access the data, one can use our public API and the details on how to extract information about, personalities, claim, and claim reviews can be found at https://aletheiafact.org/api. The API will be rate-limited and in the future we will expose data dumps of the non-PII data in the database for 3rd parties."
+    },
+    "openStandards": [
+        "Accessibility: WCAG 2.0/2.1 (Web Content Accessibility Guidelines)\r\nSecurity: HTTPS; SSL; SSH; AES; ES256\r\nAuthentication & Authorization: OAuth 2; OIDC (OpenID Connect)\r\nInternationalization (i18n): UTF-8; ASCII\r\nWeb standards: HTML; CSS; ECMAScript (ES 5/6/7)\r\nApplication Programming Interfaces (APIs): OpenAPI\r\nData Exchange/ Configuration formats: JSON; YAML; RDF\r\nMultimedia: SVG (Scalable Vector Graphics); PNG (Portable Network Graphics); JPEG (Joint Photographic.Experts Group)\r\nComputer Communications Protocols: WebSocket"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC): User stories; Change management using version control; Test driven development using automated tests; Continous Integration & Continous Deployment (CI/CD); Code review; Code refactoring; 12 Principles Behind Agile Manifesto; [1]\r\n\r\nArchitectural Design: Modularity and Maintainability; Reusability and Extensibility; Accountability & Non-repudiability; Security & Consented Access; Universal Access & Open APIs; Microservices architecture; SOLID principles of object oriented programming. We build on top of NestJS [2] which contribute to most of these principles alongside SonarCloud and security scan tools that allows to enforce the standards [3].\r\n\r\nSoftware Architectural Styles: Monolith; Database-centric; Representational state transfer (REST); Component-based;\r\n\r\nCloud Computing: AWS [4] IaC with Terraform [4]\r\n\r\nUser Interface/ User Experience (UI /UX): Ant Design\r\n\r\nCoding Styles & Standards: opinionated Prettier\r\n\r\n[1] https://github.com/AletheiaFact/aletheia\r\n[2] https://docs.aletheiafact.org/compodoc/index.html\r\n[3] https://sonarcloud.io/organizations/aletheiafact/projects\r\n[4] https://gitlab.com/aletheiafact/terraform-modules"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name and Email"
+        ],
+        "dataPrivacySecurity": "Authentication built on top of Ory using OryCloud [1]; Database managed using MongoDB Cloud Atlas; RBAC system to filter admin actions; User is anonymised and data is not accessible in the public APIs; Analytics using umami to ensure data privacy [2];\r\n\r\n\r\n\r\n[1] https://www.ory.sh/\r\n[2] https://umami.is/privacy"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "We create profiles for public personalities",
+            " store public claims (image and text) and generate claim reviews through user activity. "
+        ],
+        "contentManagementPolicy": "AletheiaFact explores the following governance model: Personalities, Claims, and Claim Reviews can only be added by users that were educated through workshops and courses and we ensure through the RBAC system. A Code of Conduct is enforced in the platform [1] to avoid inappropriate and illegal content. Only trained fact-check reviewers can approve and public fact-checking reports. Admins (AletheiaFact staff) are responsible for monitoring and can hide and remove content from the platform. Reporting for inappropriate or illegal conduct is encouraged through the email contact@aletheiafact.org and automated tooling is in the product road-map to make sure we can scale.\r\n\r\n[1] https://aletheiafact.org/code-of-conduct"
+    },
+    "documentation": "- https://github.com/AletheiaFact\r\n- https://gitlab.com/aletheiafact/terraform-modules\r\n- https://docs.aletheiafact.org/\r\n",
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "AletheiaFact.org",
+            "website": "https://aletheiafact.org",
+            "org_type": "owner",
+            "contact_name": " Mateus Batista Santos  ",
+            "contact_email": "msantos@aletheiafact.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "LGPD: Brazil\u2019s Data Privacy Law",
+            "privacyComplianceURL": "https://www.aletheiafact.org/privacy-policy"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
