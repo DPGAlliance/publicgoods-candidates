@@ -1,0 +1,159 @@
+{
+    "id": "11002",
+    "name": "Morphic",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Morphic",
+        "   AT-on-Demand"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Utility that runs on Windows or macOS and 1) makes it easy to use the built-in accessibility and usability features  and  2 ) (with AT-on-Demand  - also open source)  allows assistive technologies to show up on computers when a user needs them - and disappear when done.    1 to 5 min video shorts available on website to demonstrate all. ",
+    "website": "https://morphic.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/raisingthefloor"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG10: Reduced Inequalities"
+        ],
+        "relevance": "It allows users who need assistive technologies to be able to use them with public use computers, just like people who do not need assistive technologies.     For the first time."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/raisingthefloor/morphic-windows/blob/master/LICENSE.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Raising the Floor - US (RTF-US)",
+            "clearOwnershipURL": "https://github.com/raisingthefloor/morphic-windows/blob/master/LICENSE.txt\r\n\r\nhttps://morphic.org"
+        }
+    ],
+    "documentation": "Morphic Overview and User features - https://morphic.org/morphic-basic/ ,\r\nMorphic API Server - https://github.com/raisingthefloor/morphic-api-server ,\r\nWindows client - https://github.com/raisingthefloor/morphic-windows ,\r\nMacOS client - https://github.com/raisingthefloor/morphic-macos\r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "API - https://github.com/raisingthefloor/morphic-api-server/blob/master/Documentation/API.md "
+    },
+    "openStandards": [
+        "* Accessibility: WCAG 2.0/2.1 (Web Content Accessibility Guidelines)\r\n\r\n* Security:\r\nHTTPS",
+        "\r\nTLS - https://www.ssllabs.com/ssltest/analyze.html?d=api.morphic.org&latest ",
+        "\r\nAES\r\n\r\n* Authentication & Authorization: OAuth 2\r\n\r\n* Internationalization (i18n): UTF-8\r\n\r\n* Web standards:\r\nHTML",
+        "\r\nCSS",
+        "\r\nECMAScript (ES 5/6/7)\r\n\r\n* Data Exchange/ Configuration formats:\r\nJSON",
+        "\r\nYAML",
+        "\r\nXML",
+        "\r\nCSV\r\n\r\n* Standard Content formats:\r\nPDF",
+        "\r\nePub",
+        "\r\nSVG (Scalable Vector Graphics)",
+        "\r\nPNG (Portable Network Graphics)",
+        "\r\nJPEG (Joint Photographic Experts Group)",
+        "\r\nMP4 (MPEG-4 Part 14)\r\n\r\n* Computer Communications Protocols: WebSockets"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC)",
+        "\r\nUser stories",
+        "\r\nChange management using version control",
+        "\r\nContinuous Integration & Continous Deployment (CI/CD)",
+        "\r\nCode review",
+        "\r\nCode refactoring",
+        "\r\nRapid application development",
+        "\r\n\r\nArchitectural Design",
+        "\r\nArchitectural Principles",
+        "\r\nModularity and Maintainability",
+        "\r\nReusability and Extensibility",
+        "\r\nAccountability & Non-repudiability",
+        "\r\nSecurity & Consented Access",
+        "\r\nUniversal Access & Open APIs",
+        "\r\nMicroservices architecture",
+        "\r\n\r\n\r\nSoftware Architectural Styles",
+        "\r\nMultitier architecture",
+        "\r\nModel\u2013view\u2013controller",
+        "\r\nRepresentational state transfer (REST)",
+        "\r\nPublish-subscribe",
+        "\r\nClient-server (multitier architecture exhibits this style)",
+        "\r\nService-oriented",
+        "\r\nComponent-based",
+        "\r\nEvent-driven",
+        "\r\nCloud computing patterns",
+        "\r\n\r\nUser Interface/ User Experience (UI /UX)",
+        "\r\nHuman Centered Design Principles",
+        "\r\n\r\nBest practices to help secure your IT resources:\r\nCreate strong passwords for username/ password authentication",
+        "\r\nEnable Multi-factor authentication (MFA)",
+        "\r\nEnable resource access authorization i.e. access control rights/ permissions",
+        "\r\nProtect data at rest (data encryption",
+        " using a firewall",
+        " antivirus protection",
+        " schedule backups)",
+        "\r\nProtect data in transit (encrypt data in transit using TLS/SSL",
+        " authenticate data integrity using TLS/SSL",
+        " use X.509 certificates to authenticate the remote end)\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "email address only -- used for login and password reset."
+        ],
+        "dataPrivacySecurity": "We do not share any PII\r\n\r\nhttps://morphic.org/privacy-policy\r\n\r\nwe also have a Privacy and Data Ethics Council - https://go.umd.edu/padec overseeing our work.\r\n\r\n"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Canada",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Just state universities"
+    ],
+    "otherDeploymentOrganisations": [
+        "see list at bottom of page   https://morphic.org/about-us/"
+    ],
+    "awardsReceived": [
+        "Not yet"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "The backend server has dependencies on MongoDB.  However any database platform can be used and we have in fact used several another platforms in the past versions including couchDB.   Since the code is all open-source -- swapping out another database can be done as desired. \r\n\r\nThis program is available for both Window and Mac -- and a version has been implemented in Linux in the past but it is currently not implements in Linux.   \r\n\r\nNOTE: Use of Morphic by both individuals and organizations is Free - using out servers",
+            " so dependency on MongoDB is not a barrier to use of the system as is.    No user data is monitored",
+            " shared",
+            " or monetized.   In fact no personal data is collected or stored that is not needed for operation - and it is only used for operation.  (See privacy) "
+        ]
+    },
+    "organizations": [
+        {
+            "name": "Morphic",
+            "website": "https://morphic.org",
+            "org_type": "owner",
+            "contact_name": " Gregg Vanderheiden  ",
+            "contact_email": "gregg@raisingthefloor.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Family Educational Rights and Privacy Act (FERPA)\r\nAmericans with Disabilities Act of 1990\r\n",
+            "privacyComplianceURL": "https://morphic.org/privacy-policy/"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
