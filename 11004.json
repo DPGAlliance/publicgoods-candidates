@@ -1,0 +1,128 @@
+{
+    "id": "11004",
+    "name": "GeoPrism Registry",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Common Geo-Registry"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "GeoPrism Registry allows for the simultaneous hosting, management, regular update, and sharing of master lists, associated hierarchies, and geospatial data for the geographic objects core to sustainable development including public health, education, agriculture, infrastructure, and other public and private services. ",
+    "website": "https://geoprismregistry.com/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/terraframe/geoprism-registry"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG16: Peace\u00b8 Justice and Strong Institutions"
+        ],
+        "relevance": "Up-to-date and historical geographic data are necessary to identify areas and populations most at risk for natural disasters or other public health emergencies; to ensure universal coverage of health, education, and other services; and to enable allocation of resources to the right places at the right time in a systematic and data-driven way.,\r\n \r\nGeoPrism Registry to stock, manage and share information that are official and non-official, actual and historic, regarding the geographic objects key to sustainable development like administrative divisions, villages, infrastructure and other relevant physical and virtual features forming our environment. The information in questions are lists, hierarchies and geospatial data accessible by any information system or user."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/terraframe/geoprism-registry/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "TerraFrame, Inc.",
+            "clearOwnershipURL": "https://www.terraframe.com/products"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Here is the documentation for importing data using non-proprietary formats - https://docs.geoprismregistry.com/readme/current/geoprism-registry-tutorial/6.5-content-management/6.5.1-lists-and-spatial-data/6.5.1.1-import \r\nHere is the documentation for exporting data using non-proprietary formats - https://docs.geoprismregistry.com/readme/current/geoprism-registry-tutorial/6.5-content-management/6.5.1-lists-and-spatial-data/6.5.1.7-export \r\nHere is the API documentation for getting data in JSON format - https://api.geoprismregistry.com/#tag/List/operation/data \r\nThat site also documents how to import data in GeoJSON format."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Laos",
+            "Mozambique",
+            "United States of America"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        "World Health Organization (WHO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "Lao People's Democratic Republic Ministry of Health \r\nMozambique National Agency for Spatial Development\r\nUnited States Department of Interior\r\nUnited States Department of Agriculture\r\nUnited States Army Corps of Engineers\r\n"
+    ],
+    "awardsReceived": [
+        "The computer science that TerraFrame developed that gives GeoPrism Registry its ability to manage dependencies between interlinked hierarchies and spatial knowledge graphs across organizations was published in an academic paper at the Free and Open Source for Geospatial (FOSS4G) 2023 Conference held in Prizren",
+        " Kosovo: \r\nhttps://isprs-archives.copernicus.org/articles/XLVIII-4-W7-2023/117/2023/\r\n\r\nGeoPrism Registry is also recognized as a digital health global good by Digital Square in 2023:\r\nhttps://digitalsquare.org/digital-health-global-goods"
+    ],
+    "documentation": "https://api.geoprismregistry.com/,https://geoprismregistry.com/,Developer documentation - https://github.com/terraframe/geoprism-registry/wiki,Installation guide (without docker) - https://github.com/terraframe/geoprism-registry/wiki/Install-on-Linux-or-Mac, Docker - https://hub.docker.com/r/terraframe/geoprism-registry, Community Forum - https://forum.geoprismregistry.com",
+    "openStandards": [
+        "OAuth 2",
+        "SAML",
+        "UTF-8",
+        "HTML",
+        "CSS",
+        "ECMAScript",
+        "REST",
+        "OpenAPI",
+        "JSON",
+        "GeoJSON",
+        "XML",
+        "VectorTiles https://github.com/terraframe/geoprism-registry/tree/master/georegistry-test Understand the Existing Ecosystem",
+        " Design for Scale",
+        " Build for Sustainability",
+        " Be Data Driven",
+        " Use Open Standards",
+        " Open Source and Open Innovation",
+        " Reuse and Improve",
+        " Address Privacy & Security",
+        " Be Collaborative"
+    ],
+    "bestPractices": [
+        "Software Development Life Cycle (SDLC)\r\n\u2022\tTest driven development using automated tests\r\n\u2022\tContinuous Integration & Continuous Deployment (CI/CD)\r\nhttps://s3-us-west-2.amazonaws.com/terraframe-sites/cgr-site/surefire-report.html\r\n\r\nArchitectural Design\r\n\u2022\tModularity and Maintainability\r\n\u2022\tReusability and Extensibility\r\n\u2022\tSOLID principles of object-oriented programming\r\nGeoPrism Registry (GPR) uses the model-driven engineering (MDE) paradigm that allows for the dynamic creation of data models for specific country needs. This can be accomplished through a GUI or declaratively using configuration files. Aside from custom integrations or enhancements",
+        " GPR has never needed any custom software development for an implementation. GPR is also fully localized. A good overview of these principles and how they are implemented",
+        " including the MDE implementation",
+        " are covered in an academic paper published at the Free and Open Source for Geospatial (FOSS4G) 2023 Conference held in Prizren",
+        " Kosovo: \r\nhttps://isprs-archives.copernicus.org/articles/XLVIII-4-W7-2023/117/2023/\r\n\r\nSoftware Architectural Styles\r\n\u2022\tMultitier architecture\r\n\u2022\tModel\u2013view\u2013controller\r\n\u2022\tRepresentational state transfer (REST)\r\nhttps://api.geoprismregistry.com\r\n\r\nCloud Computing\r\nDocker container: https://hub.docker.com/r/terraframe/geoprism-registry\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "GeoPrism Registry",
+            "website": "https://geoprismregistry.com/",
+            "org_type": "owner",
+            "contact_name": " Nathan McEachen  ",
+            "contact_email": "nmceachen@terraframe.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GeoPrism Registry does not manage personal data, but rather lists, hierarchies and geospatial data curated by the ministries with the authoritative mandate. This includes administrative divisions, villages, infrastructure, and other relevant physical and virtual features.",
+            "privacyComplianceURL": "Documentation on the user roles to ensure only the organizations with the authoritative mandate can make data public: \r\nhttps://terraframe.atlassian.net/wiki/spaces/GGR/pages/931004419/User+Management"
+        }
+    ],
+    "otherDeploymentOrganisations": ""
+}
