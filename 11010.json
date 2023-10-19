@@ -1,0 +1,125 @@
+{
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere"
+        ],
+        "relevance": "\r\n\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\r\nBomb_Ceb\r\n@bombs.example.co.in"
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "0BSD",
+            "openLicenseEvidenceURLs": "Bombs "
+        },
+        {
+            "openLicense": "CAL-1.0-Combined-Work-Exception",
+            "openLicenseEvidenceURLs": "Bombs "
+        },
+        {
+            "openLicense": "Unicode-DFS-2015",
+            "openLicenseEvidenceURLs": "Bombs "
+        },
+        {
+            "openLicense": "Unlicense",
+            "openLicenseEvidenceURLs": "Bombs "
+        },
+        {
+            "openLicense": "wxWindows",
+            "openLicenseEvidenceURLs": "Bombs "
+        }
+    ],
+    "documentation": "Bombs Kanakorn Tiamfak",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Ceb"
+    },
+    "openStandards": [
+        "Bombs "
+    ],
+    "bestPractices": [
+        "Bombs "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected but NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Both"
+        ],
+        "dataPrivacySecurity": "Bombs"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "B..."
+        ],
+        "contentManagementPolicy": "B"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Both "
+    },
+    "locations": {
+        "developmentCountries": [
+            "Thailand"
+        ],
+        "deploymentCountries": [
+            "Thailand"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Capital Development Fund",
+        "United Nations International Children"
+    ],
+    "deploymentCountriesDepartments": [
+        "Bombs"
+    ],
+    "otherDeploymentOrganisations": [
+        "Bombs"
+    ],
+    "awardsReceived": [
+        "B...."
+    ],
+    "id": "11010",
+    "name": "pm grant com.maxmpz.equalizer android.permission.SET_VOLUME_KEY_LONG_PRESS_LISTENER",
+    "aliases": [
+        "Bombs"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "B....",
+    "website": "KanakornKanakorn@BombCebbombsexamplecoin.onmicrosoft.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "pm grant com.maxmpz.equalizer android.permission.SET_VOLUME_KEY_LONG_PRESS_LISTENER"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Bombs ",
+            "clearOwnershipURL": " \u03a0 <....>"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "Bombs "
+        ]
+    },
+    "organizations": [
+        {
+            "name": "pm grant com.maxmpz.equalizer android.permission.SET_VOLUME_KEY_LONG_PRESS_LISTENER",
+            "website": "KanakornKanakorn@BombCebbombsexamplecoin.onmicrosoft.com",
+            "org_type": "owner",
+            "contact_name": " Bombs Kanakorn   ",
+            "contact_email": "Kanakorn-Tiamfak@hotmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Kanakorn ",
+            "privacyComplianceURL": "Kanakorn "
+        }
+    ]
+}
