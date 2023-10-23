@@ -1,0 +1,253 @@
+{
+    "id": "11016",
+    "name": "DHIS2",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "District Health Information System 2",
+        " DHIS 2"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "DHIS2 is a free, open-source, fully customizable platform for collecting, analyzing, visualizing, and sharing aggregate and individual-data for district-level, national, regional, and international system and program management in health, education, and other domains.",
+    "website": "https://www.dhis2.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/dhis2/dhis2-core"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "DHIS2 is the world's largest Health Management Information System platform, and is currently in use in more than 80 low- and middle-income countries, 72 are deployed at national scale. DHIS2 is also used by national health authorities and international health programs and organizations (such as WHO, the CDC, PEPFAR, The Global Fund, Gavi) for management of health programs related to specific diseases, such as HIV, TB, Malaria, and others. In addition, during the COVID-19 pandemic, more than 60 countries rapidly deployed DHIS2 for national pandemic response and/or vaccination programs.\r\n  \r\nDHIS2 has also developed a module for last-mile logistics intended for use at health facility level and integrated with a central eLMIS or ERP. The features include report and transaction based stock management, equipment management and temperature monitoring. In addition to health, DHIS2 is also now being deployed as an Education Management Information System (EMIS) in several countries, which facilitates more effective triangulation of data between health and education programs (for example, vaccination campaigns targeting school-aged children), as well as supporting purely education-related goals. "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "HISP Centre, University of Oslo",
+            "clearOwnershipURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE\r\nhttps://dhis2.org/about/"
+        }
+    ],
+    "documentation": "DHIS2 is thoroughly documented in open GitHub repos which are linked to our DHIS2 Documentation website to facilitate easier search, reading and translation. DHIS2 Documentation covers a broad range of topics, including technical architecture and data model, including thorough documentation of the open DHIS2 API, user guides for all DHIS2 applications that are regularly updated with new versions and cover both configuration and use of applications, and implementation guidance for deploying DHIS2 in a variety of contexts. It also covers extended technical topics related to DHIS2 systems such as server configuration and custom application development, and includes a capacity building section that provides adaptable guides for conducting DHIS2 training courses. Additionally, thorough documentation is provided on the DHIS2 Health Toolkits, which are produced in collaboration with the WHO to support the use of DHIS2 in priority health areas, including design guides that include documentation of data sets and indicators.\r\n\r\nThe DHIS2 documentation is maintained by the core DHIS2 team at the HISP Centre, but external members of the community can submit edits and updates to the documentation via GitHub. The HISP Centre supports translation of the documentation into priority languages such as French and Portuguese. External groups are able to contribute to these translations and translate it into additional languages through our public translation project on Transifex.\r\n\r\nhttps://docs.dhis2.org/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Non-PII data can be extracted and/or imported using the DHIS2 Web API as described here: https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-239/introduction.html and via the Import-Export App within DHIS2. Data can be exported/imported in common formats including CSV, XML and JSON, as well as the standard ADX format (https://docs.dhis2.org/archive/en/2.29/developer/html/webapi_adx_data_format.html) for aggregate data exchange."
+    },
+    "openStandards": [
+        "DHIS2 is designed as a web-based platform using common/open formats",
+        " including:\r\nHTTPS",
+        " SSL",
+        " SSH",
+        " OAuth 2",
+        " OIDC",
+        " JWT",
+        " UTF-8",
+        " ASCII",
+        " HTML",
+        " CSS",
+        " OpenAPI",
+        " JSON",
+        " XML",
+        " CSV",
+        " PDF",
+        " JPEG",
+        " PNG",
+        " SVC",
+        " etc.\r\n\r\nIn addition",
+        " we support standards specifically relevant to health information management",
+        " including:\r\nFHIR",
+        "SNOMED GPS",
+        "LOINC",
+        "CVX",
+        "ADX",
+        "ICD-10",
+        "ICD-11",
+        "mCSD",
+        "SVCM \r\n\r\n"
+    ],
+    "bestPractices": [
+        "DHIS2 software is developed in line with the Principles for Digital Development",
+        " relying on close input from the global DHIS2 community and findings from health information research. The DHIS2 development process follows agile development process",
+        " with frequent releases",
+        " development in close collaboration with end users",
+        " early delivery of working software and emphasis on simplicity."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "The DHIS2 core team provides general guidance on configuring the system for collection of personal data that include references for navigating legal privacy frameworks: https://docs.dhis2.org/en/implement/tracker-implementation/is-my-project-ready-for-tracker.html#legislation-and-policies\r\n\r\nPII collected varies per country",
+            " based on program needs and privacy regulations. Some examples include: name",
+            "date of birth",
+            "address",
+            "contact information",
+            "national ID number"
+        ],
+        "dataPrivacySecurity": "As previously described in this survey, the DHIS2 software is provided with tools and guidelines to mitigate security and privacy risks. Proper adherence to these is the responsibility of each individual organization that implements the DHIS2 software, since each instance of the software is locally owned and maintained, and the DHIS2 core team does not have access to individual country databases. To the extent that the University of Oslo is involved in implementation of the software in-country -- either directly or via our HISP network -- we strive to adhere to best practices for data security and privacy, in accordance with local laws. DHIS2 features configurable access control levels that restrict access to specific kinds of information to particular user roles, groups, and organization units. Additionally, metadata can be defined as either public or private. The DHIS2 database itself can be encrypted. A discussion of some privacy controls can be found here: \r\nhttps://community.dhis2.org/t/how-does-dhis2-protect-personal-information-the-tech-details/5335/2 \r\nhttps://docs.dhis2.org/en/implement/android-implementation/data-security-and-privacy.html\r\n\r\nAn overview of DHIS2's built-in security and privacy features can be found here: https://dhis2.org/security/\r\n"
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Interactions between users / contributors on this project are managed through an online forum, the DHIS2 Community of Practice: https://community.dhis2.org/\r\n\r\nThe target audience for this community is skilled users of the DHIS2 software (expected age 20+), and discussion is limited to topics relating to software implementation and use.,The age limit for participation on the forum is set at 13 or older. At this point, we have no reason to believe that any underage users are participating in our forum.,In regards to the DHIS2 software itself, access controls are established by the countries or organizations implementing the software, which is targeted at professional users. The DHIS2 discussion forum is governed by clearly stated community guidelines: https://community.dhis2.org/faq and is actively moderated by members of the DHIS2 core team, who can flag and remove content or comments as needed."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Norway",
+            "South Africa"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Algeria",
+            "Angola",
+            "Bangladesh",
+            "Benin",
+            "Bhutan",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "C\u00f4te d",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Central African Republic",
+            "Chad",
+            "Chile",
+            "Colombia",
+            "Comoros",
+            "Congo (Congo-Brazzaville)",
+            "Democratic Republic of the Congo",
+            "Djibouti",
+            "Ecuador",
+            "Eritrea",
+            "Ethiopia",
+            "Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Haiti",
+            "Honduras",
+            "India",
+            "Indonesia",
+            "Iraq",
+            "Jordan",
+            "Kenya",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Maldives",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Mozambique",
+            "Myanmar (formerly Burma)",
+            "Namibia",
+            "Nepal",
+            "Niger",
+            "Nigeria",
+            "Pakistan",
+            "Palestine State",
+            "Rwanda",
+            "Saint Lucia",
+            "Sao Tome and Principe",
+            "Senegal",
+            "Sierra Leone",
+            "Solomon Islands",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sri Lanka",
+            "Sudan",
+            "Syria",
+            "Tajikistan",
+            "Tanzania",
+            "Togo",
+            "Tonga",
+            "Uganda",
+            "Uzbekistan",
+            "Vanuatu",
+            "Vietnam",
+            "Yemen",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        " Gavi The Vaccine Alliance",
+        "United Nations International Children",
+        "United Nations Development Programme",
+        "World Health Organization (WHO)",
+        "World Meteorological Organization"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministries of Health use DHIS2 in more than 80 countries (the list of countries in the previous question reflects only governmental / official use of DHIS2 by Ministries of Health or similar public health organizations. In addition",
+        " DHIS2 is used by Ministries of Education in Sri Lanka",
+        " Mozambique",
+        " Togo",
+        " Eswatini",
+        " Uganda and the Gambia",
+        " by Ministries of Agriculture in Malawi",
+        " Mozambique and Burkina Faso",
+        " and by the Office of the Prime Minister in Uganda",
+        " among governmental offices and agencies."
+    ],
+    "otherDeploymentOrganisations": [
+        "PEPFAR uses DHIS2 for both in country-level work in 54 countries and for central project management. DHIS2 is also broadly used in the NGO community for program management and M&E. Some large organizations using DHIS2 include Doctors Without Borders",
+        " the International Red Cross",
+        " and Population Services International. Taking all of these uses into consideration",
+        " DHIS2 is actively being used in more than 110 countries.\r\n\r\nTo expand on our answer to the multi-lateral question above",
+        " many multi-lateral organizations support the implementation and use of DHIS2 at country level. These include WHO (through a Collaborating Centre Agreement with HISP Centre for health information system strengthening)",
+        " UNICEF (long-term agreement with HISP Centre)",
+        " UNDP and WMO. In addition",
+        " several multi-lateral organizations also use the solution for aspects of their own data management. These include The Global Fund (to facilitate reporting of key performance metrics and health indicators from country HMIS)",
+        " WHO AFRO (DHIS2 as a regional data platform for immunization",
+        " surveillance",
+        " malaria",
+        " etc)",
+        " PAHO (DHIS2 as a regional platform for basic health indicators",
+        " disease surveillance and pharmacovigilance surveillance)",
+        " and WHO EMRO (DHIS2 as a regional platform for surveillance)."
+    ],
+    "awardsReceived": [
+        "DHIS2 was featured by the UNDP and ITU as an example of a \"game-changing\" digital tool for achieving the SDGs at the SDG Digital Event at UNHQ",
+        " as part of the UN's SDG Action Weekend",
+        " and included in their joint report on the \"SDG Digital Acceleration Agenda.\"\r\n\r\nhttps://dhis2.org/itu-undp-sdg-digital/\r\nhttps://www.sdg-digital.org/accelerationagenda"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "DHIS2",
+            "website": "https://www.dhis2.org/",
+            "org_type": "owner",
+            "contact_name": " Max Krafft  ",
+            "contact_email": "max@dhis2.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "All activities pertaining to data collection, storage and analysis in the European region are governed by the General Data Protection Regulation (GDPR) and relevant Norwegian legislation. Countries using the DHIS2 software in other regions are responsible for complying with local legislation.",
+            "privacyComplianceURL": "Compliance with data and legal frameworks in the context of DHIS2 is entirely an implementation issue. The HISP Centre at UiO is responsible for developing the DHIS2 software, but does not collect or host any country\u2019s health data. We do provide guidance on how to implement DHIS2 in compliance with various standards, and are aware of DHIS2 implementations that have been certified as HIPAA and ISO 27000 compliant, for example. As an example of GDPR compliance, the Norwegian municipal government association reviewed their DHIS2 implementation for COVID-19 surveillance and found it to be GDPR compliant."
+        }
+    ]
+}
