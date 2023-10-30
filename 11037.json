@@ -1,0 +1,105 @@
+{
+    "id": "11037",
+    "name": "Glific",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "ENABLING IMPACT AT SCALE - Our WhatsApp chatbot enables you to reach the right person at the right time with the right information.",
+    "website": "https://glific.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/glific/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "Helping the Social Sector: The COVID crisis required NGOs to pivot & deliver their programming via online channels. Glific can deliver content to beneficiaries and engage them in conversations, such as: personal conversations, feedback on current activities, suggestions on future activities.,\r\n \r\nSend training or educational content & activities: Run training/educational programmes at the pace preferred by your beneficiaries. You can plan the content in advance and let them retrieve with automated messages. You can enhance the content/message with text formatting, emojis, stickers, images, videos and documents."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/glific/glific/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Project Tech4Dev",
+            "clearOwnershipURL": "https://projecttech4dev.org/\r\n\r\nGlific is an initiative of Project Tech4Dev. "
+        }
+    ],
+    "documentation": "API documentation: https://api.glific.com\r\nCode documentation: https://github.com/glific/glific\r\nEnd user documentation: https://docs.glific.com/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "An API exists which supports downloading data into CSV format.\r\nWe also export most of the NGO data into their BigQuery instance if made available."
+    },
+    "openStandards": [
+        "Our primary end-user interface is WhatsApp client which is WCAG compliant. Our platform for the NGO is not compliant as yet. \r\nhttps://faq.whatsapp.com/android/account-and-profile/about-accessibility-features-on-whatsapp/?lang=en "
+    ],
+    "bestPractices": [
+        "* User Centered Design\r\n* CI/CD pipelines\r\n* Agile Development\r\n* Rapid prototyping\r\n* In person sprints\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "This is dependent on our users. Glific is a platform",
+            " and users can use it in different ways"
+        ],
+        "contentManagementPolicy": "Glific works with NGOs that are certified and have a known presence."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "India",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "India",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "In India we are working with our NGO Partners who are talking to multiple State Governments. Some of our partners have deployed the solutions with the State Governments. We are aware of deployments in Punjab and Assam."
+    ],
+    "otherDeploymentOrganisations": [
+        "90+ NGOs across India are currently using the solution"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Glific",
+            "website": "https://glific.org/",
+            "org_type": "owner",
+            "contact_name": " Donald Lobo  ",
+            "contact_email": "lobo@chintugudiya.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "To the best of our knowledge, Glific does not store any PII for the beneficiaries. The only potential PII that we collect and store is the beneficiary phone number (i.e. their whatsapp number). As such, as an open source project, we do not think GDPR applies to Glific.",
+            "privacyComplianceURL": "https://glific.org/glific-privacy-policy/"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "awardsReceived": ""
+}
