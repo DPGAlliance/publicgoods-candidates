@@ -1,0 +1,107 @@
+{
+    "id": "11044",
+    "name": "Radioship",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Koffair"
+    ],
+    "categories": [
+        "Open AI Model",
+        "Open Software"
+    ],
+    "description": "Radioship is an open-source language model engine designed to facilitate speech-to-text conversion for under-explored languages. It utilizes the language corpora from Mozilla Common Voice, an open-ai project that supports linguistic diversity.",
+    "website": "radioship.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/koffair, https://huggingface.co/radioship"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG10: Reduced Inequalities",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "SDG4 and SDG10: Radioship contributes to SDG4 by enhancing the accessibility of audio content in lesser-known languages through transcription, making it easier for people to understand and learn from diverse linguistic resources. Additionally, our speech-to-text technology supports SDG10 by breaking barriers and ensuring inclusivity. By making vast audio archives, such as radio broadcasts, searchable, we unveil valuable hidden content, promoting cultural understanding and diversity.\r\n\r\nSDG17: Radioship aims to foster global collaborations among community radios. Our open-source speech-to-text tool facilitates audio archive searches, encouraging partnerships and knowledge sharing. By enabling community radios worldwide to use our technology, we promote SDG17's goal of strengthening partnerships for sustainable development."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/Koffair/colab_pipelines/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "People: Zolt\u00e1n Varj\u00fa,  J\u00f3zsef Venczeli, Gergely Gazda, and organizational entities: nyest.hu, civilradio.hu, tilos.hu",
+            "clearOwnershipURL": "There is a partnership agreement between the contributors at the moment to deliver this solution within one year fulfilling the donor's requirement. We have no other legal evidence or formal agreement about the actual ownership yet. We can consider the founder individuals (Zolt\u00e1n Varj\u00fa, Gergely Gazda, J\u00f3zsef Venczeli, Szabolcs Kincse, Edit K\u00f6les) and the participating organizational entities (Civil Radio, Tilos Radio, Nyest.hu) as owners.\r\n\r\nSome public evidences:\r\nContributors and committers of the GitHub organization:\r\nhttps://github.com/orgs/Koffair/people\r\n\r\nPartners are listed on the website with their logos on the top, and individuals mentioned at the bottom in the \"Who We Are\" section.\r\nhttps://www.radioship.org/\r\n"
+        }
+    ],
+    "documentation": "Our github repository is https://github.com/Koffair. \r\n\r\nThe steps of creating a language model for your own are described in a Python notebook format: https://github.com/Koffair/colab_pipelines/tree/main/notebooks\r\n\r\nThe usage of our speech-to-text CLI is documented in the readme file: https://github.com/Koffair/radioship_transcriber\r\n\r\nYou can access the existing (Hungarian) model on huggingface.co:\r\nhttps://huggingface.co/radioship/wav2vec2-large-xlsr-53-hu",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Hungary"
+        ],
+        "deploymentCountries": [
+            "Hungary"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "archivum.civilradio.hu",
+        " tilosradio.hu"
+    ],
+    "awardsReceived": [
+        "We have been one of the 75 presenters of the Code for All Summit 2023 with a 7 minute lighting talk: https://www.youtube.com/watch?v=zfPd_Edn1Zk&list=PL6kG8TTskjRP3Qfkzu10VdAFT-rBY4H-9&index=57\r\n\r\nWe have been selected for a grant (100k EUR) by the Google New Initiative 2023 as an innovative media solution."
+    ],
+    "openStandards": [
+        "HTTPS - for encryption of our and our parthers' public websites (radioship.org",
+        " archivum.civilradio.hu",
+        " tilos.hu) \r\nSSH - for the recommended remote connection method for the operation of the CLI\r\nUTF-8 - for encoding the transciption (currently Hungarian)\r\nHTML",
+        " CSS",
+        " ECMAScript - for our public websites\r\nGraphQL - for querying the archive on our partner's website (archivum.civilradio.hu) \r\nJSON - in multiple places in our app for data exchange\r\n"
+    ],
+    "bestPractices": [
+        "During the development we followed the agile principles.\r\nWe have been using epics",
+        " user stories bi-weekly plannings and retrospectives to break down our task and reflect and improve our processes.\r\nWe use standard git flow with pull request and pair-reviews."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Radioship",
+            "website": "radioship.org",
+            "org_type": "owner",
+            "contact_name": " Gergely Gazda  ",
+            "contact_email": "info@radioship.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Act V of 2013 on the Civil Code of Hungary (Polg\u00e1ri T\u00f6rv\u00e9nyk\u00f6nyv) and the Act CXII of 2011 on Informational Self-Determination and Freedom of Information (Adatv\u00e9delmi \u00e9s Inform\u00e1ci\u00f3szabads\u00e1g Alapvet\u0151 Szab\u00e1lyair\u00f3l Sz\u00f3l\u00f3 T\u00f6rv\u00e9ny) which implements the EU General Data Protection Regulation (GDPR).",
+            "privacyComplianceURL": "See the terms of use and privacy policy of our website under: https://www.radioship.org/page-terms (link can be found in the footer too)"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": ""
+}
