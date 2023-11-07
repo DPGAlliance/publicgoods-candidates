@@ -1,0 +1,280 @@
+{
+    "id": "11034",
+    "name": "Global Healthsites Mapping Project",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "healthsites.io"
+    ],
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "healthsites.io is building a baseline of health facility data by making OpenStreetMap useful to the medical\r\ncommunity and humanitarian sector.",
+    "website": "https://healthsites.io/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/healthsites/healthsites"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "In a time of crisis, such as the COVID-19 disease outbreak, there is a rush to establish accurate health care location data that can be used to support people on the ground. This has been demonstrated by events such as the Haiti earthquake and the Ebola epidemic in West Africa. As a result valuable time is wasted establishing accurate and accessible baseline data. Healthsites.io establishes this data and the tools necessary to upload, manage and make the data easily accessible"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/healthsites/healthsites/blob/develop/LICENSE-CODE.txt\r\nhttps://github.com/healthsites/healthsites/blob/develop/LICENSE-DATA.txt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Open Healthsite Consulting",
+            "clearOwnershipURL": "https://github.com/healthsites/healthsites/wiki/healthsites---privacy-policy"
+        }
+    ],
+    "documentation": "https://github.com/healthsites/healthsites",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "All health facility data is saved to OpenStreetmap and made available for download from the healthsites.io platform. Users are able to access and export data in a variety of formats, including JSON, GEOJSON, CSV, SHP, REST, #HXL. In addition the data is published to the Humanitarian Data Exchange and available in the Humanitarian Exchange Language (HXL)"
+    },
+    "openStandards": [
+        "GEOJSON",
+        "CSV",
+        "SHP",
+        "REST",
+        "#HXL REST: https://github.com/healthsites/healthsites/blob/develop/deployment/docker/REQUIREMENTS.txt",
+        "Healthsites.io proposed HXL hashtags: https://docs.google.com/spreadsheets/d/1-NYX0h9drOD6CTJg83Aq_DEyhmiev3nvpSZUM00i58c/edit?usp=sharing",
+        "Updated Healthsites CSV template: https://drive.google.com/file/d/18b5EEbCioRznemsbugvOl4EWiM4haz-l/view?usp=sharing "
+    ],
+    "bestPractices": [
+        "Principles for Digital Development",
+        "Agile Development approach"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "France",
+            "Indonesia",
+            "Netherlands",
+            "South Africa",
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Albania",
+            "Algeria",
+            "Andorra",
+            "Angola",
+            "Antigua and Barbuda",
+            "Argentina",
+            "Armenia",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Benin",
+            "Bhutan",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Botswana",
+            "Brazil",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile",
+            "China",
+            "Colombia",
+            "Comoros",
+            "Congo (Congo-Brazzaville)",
+            "Costa Rica",
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czechia (Czech Republic)",
+            "Democratic Republic of the Congo",
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt",
+            "El Salvador",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Estonia",
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "Gabon",
+            "Gambia",
+            "Georgia",
+            "Ghana",
+            "Greece",
+            "Grenada",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana",
+            "Haiti",
+            "Honduras",
+            "Hungary",
+            "Iceland",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kenya",
+            "Kiribati",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Latvia",
+            "Lebanon",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Madagascar",
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Marshall Islands",
+            "Mauritania",
+            "Micronesia",
+            "Monaco",
+            "Mongolia",
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Nauru",
+            "Nepal",
+            "New Zealand",
+            "Nicaragua",
+            "Niger",
+            "Nigeria",
+            "Norway",
+            "Oman",
+            "Pakistan",
+            "Palau",
+            "Palestine State",
+            "Panama",
+            "Papua New Guinea",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Qatar",
+            "Romania",
+            "Rwanda",
+            "Saint Kitts and Nevis",
+            "Samoa",
+            "Sao Tome and Principe",
+            "Saudi Arabia",
+            "Senegal",
+            "Serbia",
+            "Seychelles",
+            "Sierra Leone",
+            "Slovakia",
+            "Slovenia",
+            "Solomon Islands",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Spain",
+            "Sudan",
+            "Sweden",
+            "Switzerland",
+            "Syria",
+            "Tanzania",
+            "Timor-Leste",
+            "Togo",
+            "Tonga",
+            "Trinidad and Tobago",
+            "Tunisia",
+            "Turkey",
+            "Turkmenistan",
+            "Tuvalu",
+            "Uganda",
+            "Ukraine",
+            "United Arab Emirates",
+            "Uruguay",
+            "Uzbekistan",
+            "Vanuatu",
+            "Venezuela",
+            "Yemen",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Food Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "Senegalese Ministry of Health\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "ICRC\r\nM\u00e9decins Sans Fronti\u00e8res\r\nJohns Hopkins Bloomberg School of Public Health\r\nMedic Mobile\r\nUC-Berkeley\r\noecd\r\nDuke University\r\nKfW Development bank\r\nMacroeyes\r\ncug - China University of Geosciences\r\nRTI International\r\nbluesquare\r\nKIT Royal Tropical Institute"
+    ],
+    "awardsReceived": [
+        "https://github.com/healthsites/emergency-health-data/issues/16#issuecomment-1798360436"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Global Healthsites Mapping Project",
+            "website": "https://healthsites.io/",
+            "org_type": "owner",
+            "contact_name": " Mark Herringer  ",
+            "contact_email": "mark@healthsites.io"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR ",
+            "privacyComplianceURL": "https://wiki.openstreetmap.org/wiki/GDPR"
+        }
+    ]
+}
