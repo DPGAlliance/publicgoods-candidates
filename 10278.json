@@ -1,0 +1,162 @@
+	{
+    "id": "10278",
+    "name": "Oky",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Content",
+        "Open Software"
+    ],
+    "description": "Oky is the world's first mobile phone period tracker app designed for and with adolescent girls.",
+    "website": "https://okyapp.info/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Oky-period-tracker/period-tracker-app-whitelabelled-code"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "SDG 3: Universal access to SRH information, especially girls\r\nSDG 5: Tackles a gender discrimination and harmful practices; empowers girls to confidently navigate adolescence, manage their menstruation with dignity, and make informed decisions over their reproductive health\r\nSDG 6: Promotes Menstrual Health and Hygiene information"
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "SDG 3: Universal access to SRH information, especially girls\r\nSDG 5: Tackles a gender discrimination and harmful practices; empowers girls to confidently navigate adolescence, manage their menstruation with dignity, and make informed decisions over their reproductive health\r\nSDG 6: Promotes Menstrual Health and Hygiene information"
+        },
+        {
+            "sdg": "SDG6: Clean Water and Sanitation",
+            "relevance": "SDG 3: Universal access to SRH information, especially girls\r\nSDG 5: Tackles a gender discrimination and harmful practices; empowers girls to confidently navigate adolescence, manage their menstruation with dignity, and make informed decisions over their reproductive health\r\nSDG 6: Promotes Menstrual Health and Hygiene information"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/alextyers/period-tracker-app-whitelabelled/blob/main/LICENSE,https://docs.google.com/document/d/15OngEE5xjxSF5hWezCPHTssApHhG4DFZ2EcMadl0EPA/edit"
+        },
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "https://github.com/alextyers/period-tracker-app-whitelabelled/blob/main/LICENSE,https://docs.google.com/document/d/15OngEE5xjxSF5hWezCPHTssApHhG4DFZ2EcMadl0EPA/edit"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "UNICEF",
+            "clearOwnershipURL": "http://okyapp.info/ (Legal notice)"
+        }
+    ],
+    "documentation": "Software: Readme is included in the repository: https://github.com/Oky-period-tracker/period-tracker-app-whitelabelled-code\r\n\r\nContent: the folder has clear instructions on how to use the content (and the content is also present in the repository, as guidance): https://drive.google.com/open?id=1iXM8tBPdsnLciG1Pw2eFJN4zq3TsKpEA",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "All non-PII data is stored in a postgress SQL database and can be exported in standard CSV or SQL statement formats on demand. However, Oky has strict data governance processes in place, and access is very restricted."
+    },
+    "openStandards": [
+        "REST",
+        "JSON",
+        "CSV https://github.com/alextyers/period-tracker-app-whitelabelled Oky adheres to best practices",
+        " in particular to the Principles for Digital Development:",
+        "Design with the user. \r\n1. Create user personas: was undertaken at inception point. The UI/UX designer in collaboration with the Oky team created profiles of the target audience. \r\n2. Develop and validate user scenarios: test cases where written which cover main user journeys and scenarios. During user testing carried out in Mongolia and Indonesia in 2019",
+        " the main user cases were tested by Oky's target users. \r\n 3. Develop methods for user feedback and input throughout the product lifestyle: (i) Target audience (adolescent girls in Indonesia and Mongolia) was consulted during the development of Oky MVP. They selected avatars",
+        " colours and main functionalities. (ii) User testing was carried out in Mongolia and Indonesia in 2019 to help identify and iterate the features which were not intuitive or easy to use for target audience.",
+        "Understand the existing ecosystem. \r\n 1. Map out current and past digital development initiatives: this was done prior to the commencement of the work. Documentation is available. \r\n 2. Understand the local protocols you need to take into account: All content is adapted by country teams/local partners to ensure it is locally and culturally relevant. For example",
+        " in Indonesia",
+        " encyclopedia content was localized during the development of the product (prior to launch) to fulfill local government requirements in Indonesia.",
+        "Design for scale. \r\n 1. Develop a theory of change that includes scale as a goal & invest time to plan for a tool that could scale: Oky was developed from the onset with scale in mind. It\u2019s theory of change includes scaling. In addition",
+        " Oky was built in a modular approach so that new features could easily be added and removed. All of the app components and assets were segregated so they could easily be swapped out when rolling the product out to new countries. A white-label version was also placed on the GitHub repository to facilitate scaling to new countries by any interested party.",
+        "Be data driven. \r\n 1. Identify and address the risks associated with data privacy and security: no personally identifiable information is requested or kept in our records to ensure the privacy of our users. In addition",
+        " there is a privacy policy that outlines how the data is kept safe. Oky\u2019s privacy policy can be found on the Oky website (https://docs.google.com/document/d/16lW1SV-DrO4XsninP_SsMj424RDcCOapG96BS0OxSoo/preview)",
+        "Use open standards",
+        " open source. \r\n 1. Oky is an open source software: anyone in the world can download the white-labelled version of the code. \r\n 2. Oky complies with W3C standards. For instance",
+        " both the website and the app follow the guidelines written under WAI",
+        " as both are built to enable text to speech. In addition",
+        " to comply with W3C privacy standards",
+        " the Oky website does not use any cookies. Also",
+        " as Oky is offered in multiple languages (English",
+        " Bahasa",
+        " Mongolian and some more to be coming too)",
+        " it has been built to comply with the internalization principles. The app and website has been built in a way so it caters for different alphabets such as the Cyrillian",
+        " Latin alphabet etc.",
+        "Finally",
+        " to keep user's data safe",
+        " Oky follows the standards set in Cyber Essentials. This includes encryption of data and penetration testing (amongst other methods) to ensure there are no vulnerabilities in the system and potential data leaks. "
+    ],
+    "bestPractices": [
+        "Compliance with digitalprinciples.org\r\n\r\n\r\n\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Indonesia",
+            "Mongolia"
+        ],
+        "deploymentCountries": [
+            "Burundi",
+            "India",
+            "Indonesia",
+            "Kenya",
+            "Kyrgyzstan",
+            "Mexico",
+            "Mongolia",
+            "Nepal",
+            "Philippines",
+            "South Africa",
+            "Tanzania",
+            "Ukraine"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children"
+    ],
+    "deploymentCountriesDepartments": [
+        "Government counterparts across deployment countries endorse Oky and/or integrate it into their education and health programming."
+    ],
+    "otherDeploymentOrganisations": [
+        "Partners in deployment countries include MSI",
+        " IPPF",
+        " PSI",
+        " WaterAid",
+        " PLAN",
+        " LVCT",
+        " Girls NGO",
+        " NFCC SaCoDe",
+        " Lovelife and many more."
+    ],
+    "awardsReceived": [
+        "Media recognition",
+        " eg Nikkei\r\nConferences",
+        " eg SBCC\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Oky",
+            "website": "https://okyapp.info/",
+            "org_type": "owner",
+            "contact_name": " Gerda Binder  ",
+            "contact_email": "gbinder@unicef.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "UNICEF complies with relevant policies incl GDPR\r\n",
+            "privacyComplianceURL": "https://okyapp.info/privacy-policy/"
+        }
+    ],
+    "aliases": ""
+}
