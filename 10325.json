@@ -1,0 +1,104 @@
+	{
+    "id": "10325",
+    "name": "MOCHCare",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "MLC"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Digitized Maternal and Child Health Record platform where Doctors record post-natal and ante-natal information of Pregnant women and children under 5years digitally to help mitigate the effects of maternal books shortage.",
+    "website": "https://www.mochcare.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/MochCare-Gh/service-provider-portal"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/MochCare-Gh/service-provider-portal/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "MOCHCare Limited Company",
+            "clearOwnershipURL": "https://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/\r\n\r\nhttps://www.mochcare.com\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1zahl5yJPt0CFxGvRFgnLE4i0MeX05DbH"
+        }
+    ],
+    "openStandards": [
+        "ISO 13131"
+    ],
+    "bestPractices": [
+        "Principles For Digital Development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name\r\nDate of Birth\r\nPlace of Birth\r\nTelephone Number\r\nLocation\r\nLevel of Education\r\nName of spouse"
+        ],
+        "dataPrivacySecurity": "1. All data/information required by the user are that which are ONLY required by the Ghana Health Service and for health purposes only. \r\n2. All Data collected and stored are only made available to the Health Facility where the data is stored and the client (pregnant women/children)"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "N/A"
+        ],
+        "contentManagementPolicy": "1. Daily inspections are conducted on all data that are synched from all health facilities.\r\n2. An indication is built into MOCHCare that automatically detect any illegal and inappropriate content.\r\n3. Inappropriate/illegal contents are traced to the health facility where it was collected and stored and also the Health Professional who did the data entry.\r\n4. Deletion of all inappropriate and illegal content will be carried out after a week of assessment."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "1. MOCHCare deals with top Officials from the health sector directly. From Regional to District and in that manner, we prevent access by underage (Parents interact on behalf of all underage).\r\n2. All Health Facilities that are on boarded on MOCHCare will be certified health facilities from the Ghana Health Service.\r\n 3. All health workers on our system are certified Health officials from the Ghana Health Service and are logged on with their certified Pin and Registration numbers.\r\nWith the above, contributors are assured and protected from harassment."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Ghana"
+        ],
+        "deploymentCountries": [
+            "Ghana"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Ghana Health Service"
+    ],
+    "otherDeploymentOrganisations": [
+        "Not yet"
+    ],
+    "awardsReceived": [
+        "3rd Female Health Startup by Villgro Africa and Ghana Tech Lab.\r\n\r\nhttps://www.linkedin.com/posts/villgroafrica_growingwithyou-activity-6990175591568150528-ta2X?utm_source=share&utm_medium=member_desktop\r\n\r\nhttps://www.linkedin.com/posts/ghanatechlab_ghanatechlab-villgroafrica-healthtechstartup-activity-7009162275332759552-qczd?utm_source=share&utm_medium=member_desktop"
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "This solution is relevant because it is contributing in eradicating maternal mortality and infant death and also keep all data of pregnant women and children under five(5) years safer rather than the manual way of collecting and storing of the data.\r\n\r\nhttps://www.youtube.com/watch?v=XFe1pGL67Eo\r\n\r\nhttps://www.who.int/health-topics/maternal-health#tab=tab_1"
+        }
+    ],
+    "documentation": "MOCHCare solution documentation comprises of what MOCHCare solution is about, User guide, installation guide, Access Control User permission and many more. This documentation can be located on the project main website with a click on the \"learn more\" button.\r\nhttps://mochcare.gitbook.io/product-docs/59ojkfJv1gOmOLD9PiZD/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "MOCHCare",
+            "website": "https://www.mochcare.com",
+            "org_type": "owner",
+            "contact_name": " Sophia Mensah Boduwah  ",
+            "contact_email": "sophiabm90@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR), Ghana\r\n\r\nElectronic Communications Act, 2008 (Act 775),\r\nElectronic Communications Regulations, 2011 (L.I. 1991),\r\nPublic Health Act, 2012 (Act 851),\r\nChildren's Act, 1998 (Act 560)",
+            "privacyComplianceURL": "https://drive.google.com/drive/u/0/folders/1zahl5yJPt0CFxGvRFgnLE4i0MeX05DbH\r\n\r\nhttps://mochcare.com/privacy-policy/"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
