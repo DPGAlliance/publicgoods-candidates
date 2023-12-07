@@ -1,0 +1,176 @@
+	{
+    "id": "10276",
+    "name": "Primero, CPIMS+, GBVIMS+, MRMIMS+",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Primero"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "A web app for confidential case management and incident monitoring in social welfare, child protection, and gender-based violence.",
+    "website": "https://www.primero.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/primeroIMS/primero"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "SDG5: Primero's GBVIMS+ module is the globally recognized solution for GBV service providers for case management and incident monitoring with thousands of users in dozens of countries.\r\nSDG8: 8.7 Primero is widely used to tackle the worst forms of child labour including recruitment of children into armed forces and groups.\r\nSDG16: Primero is the global leader in child protection case management, including for children affected by violence and conflict.\r\nThere are currently more than 200 organizations that rely on Primero for their day-to-day data management needs in +50 countries and territories. \r\nhttps://www.unicef.org/eap/stories/how-technology-helps-protect-children \r\nhttps://mailchi.mp/a33a2a4cd851/primero-15513128 \r\n"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "SDG5: Primero's GBVIMS+ module is the globally recognized solution for GBV service providers for case management and incident monitoring with thousands of users in dozens of countries.\r\nSDG8: 8.7 Primero is widely used to tackle the worst forms of child labour including recruitment of children into armed forces and groups.\r\nSDG16: Primero is the global leader in child protection case management, including for children affected by violence and conflict.\r\nThere are currently more than 200 organizations that rely on Primero for their day-to-day data management needs in +50 countries and territories. \r\nhttps://www.unicef.org/eap/stories/how-technology-helps-protect-children \r\nhttps://mailchi.mp/a33a2a4cd851/primero-15513128 \r\n"
+        },
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "SDG5: Primero's GBVIMS+ module is the globally recognized solution for GBV service providers for case management and incident monitoring with thousands of users in dozens of countries.\r\nSDG8: 8.7 Primero is widely used to tackle the worst forms of child labour including recruitment of children into armed forces and groups.\r\nSDG16: Primero is the global leader in child protection case management, including for children affected by violence and conflict.\r\nThere are currently more than 200 organizations that rely on Primero for their day-to-day data management needs in +50 countries and territories. \r\nhttps://www.unicef.org/eap/stories/how-technology-helps-protect-children \r\nhttps://mailchi.mp/a33a2a4cd851/primero-15513128 \r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "UNICEF",
+            "clearOwnershipURL": "There is no option in this field to upload Terms of Use."
+        }
+    ],
+    "documentation": "https://support.primero.org/documentation\r\nhttps://github.com/primeroIMS",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "WCAG Yes. We use Fortify on Demand",
+        " OWASP",
+        " the Principles for Digital Development/UNICEF Innovation Principles. (All)\r\nResponsible Data for Children: https://rd4c.org/\r\nhttps://support.primero.org/assets/books-v2/1xbuDtY-JDM3SCrF7muCrOobA8Ur5arBYRSWlI3p5aGY/ \r\n"
+    ],
+    "bestPractices": [
+        "Material Design: https://github.com/primeroIMS \r\nRelease mgmt: https://support.primero.org/assets/books-v2/1SVPAerW2p6XnHNZeibjlkh1wfv-w0lU66nNxIDGbiks/"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "Child biodata",
+            "location data",
+            "unique IDs",
+            "DII",
+            "perpetrator data"
+        ],
+        "dataPrivacySecurity": "This app allows many service providers/protection actors to work on a common instance and exchange referrals and other data under strict information sharing protocols when in the best interest of the client and with their consent Primero is linked to Responsible Data for Children, which focuses on empowering frontline workers to make good decisions about the gathering, storage and use of PII. Primero has built-in features to ensure privacy and accountability.  \r\n Primero is an extension of +20 years of interagency collaboration in the Protection sector, bringing together dozens of organizations around a community of practice based on do no harm. This includes the CPIMS and GBVIMS Steering Committees, the global standard bearers in information management for child protection and gender based violence. All processes, products, deployments etc are carefully regulated and monitoring for protective outcomes. Data Breach SOP, Primero Board (interagency governance), linkages with RD4C.org, very stringent business processes including regular programme level audits. The terms of service are managed at the programme level, depending on lead agency, role of gov't., and other accountabilities."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Primero has a code of conduct feature and a legitimate basis workflow. There are no underage users."
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Bangladesh",
+            "Brazil",
+            "Burkina Faso",
+            "Cambodia",
+            "Central African Republic",
+            "Colombia",
+            "\"Eswatini (fmr. \"\"Swaziland\"\")\"",
+            "Ethiopia",
+            "Ghana",
+            "Guatemala",
+            "Indonesia",
+            "Iraq",
+            "Jordan",
+            "Kenya",
+            "Lebanon",
+            "Libya",
+            "Mali",
+            "Myanmar (formerly Burma)",
+            "Nepal",
+            "Nigeria",
+            "Pakistan",
+            "Palestine State",
+            "Panama",
+            "Papua New Guinea",
+            "Philippines",
+            "Romania",
+            "Saint Vincent and the Grenadines",
+            "Sierra Leone",
+            "South Sudan",
+            "Sudan",
+            "Syria",
+            "Tanzania",
+            "Thailand",
+            "Trinidad and Tobago",
+            "Turkey",
+            "Uganda",
+            "United Arab Emirates",
+            "Yemen"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations International Children",
+        "United Nations Development Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ghana MOGCSP",
+        " Jordan NCFA. Lebanon MOSA",
+        " Thailand MOPH",
+        " Iraq MOLSA",
+        " Sierra Leone MOSWGCA",
+        " Guatemala SBS",
+        " Children's Authority of Trinidad and Tobago",
+        " and many more"
+    ],
+    "otherDeploymentOrganisations": [
+        "UNHCR",
+        " UNICEF",
+        " UNFPA",
+        " Save the Children",
+        " IRC",
+        " Terre des Hommes",
+        " Plan International",
+        " IMC",
+        " DRC",
+        " Bantwana",
+        " LWF",
+        " WFP",
+        " OSRSG CAAC",
+        " DPPO",
+        " IOM and many more "
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Primero, CPIMS+, GBVIMS+, MRMIMS+",
+            "website": "https://www.primero.org/",
+            "org_type": "owner",
+            "contact_name": " Robert MacTavish  ",
+            "contact_email": "rmactavish@unicef.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "- GDPR,- Each domestic legal framework is distinct so this is managed on a case-by-case basis. Compliant with UNICEF and other UN Agency policy. Designed to foster rights-based approach to data management. Aligned with Responsible Data for Children https://www.rd4c.org ",
+            "privacyComplianceURL": "https://unicef.sharepoint.com/teams/PD-Primero/SitePages/Data-Protection-&-Privacy-Framework.aspx\r\n"
+        }
+    ],
+    "awardsReceived": ""
+}
