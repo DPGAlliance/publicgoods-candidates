@@ -1,0 +1,92 @@
+	{
+    "id": "10148",
+    "name": "Global Digital Library",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Content"
+    ],
+    "description": " ",
+    "website": " ",
+    "repositories": [
+        {
+            "name": "main",
+            "url": " "
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": " "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "0BSD",
+            "openLicenseEvidenceURLs": " "
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": " ",
+            "clearOwnershipURL": " "
+        }
+    ],
+    "documentation": " ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        " "
+    ],
+    "bestPractices": [
+        " "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Afghanistan"
+        ],
+        "deploymentCountries": [
+            "Afghanistan"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Global Digital Library",
+            "website": " ",
+            "org_type": "owner",
+            "contact_name": " Christer Gundersen  ",
+            "contact_email": "christer.solheim.gundersen@norad.no"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": " ",
+            "privacyComplianceURL": " "
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
