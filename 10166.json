@@ -1,0 +1,130 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Deutsche Gesellschaft f\u00fcr Internationale Zusammenarbeit (GIZ)",
+            "clearOwnershipURL": "https://openimis.atlassian.net/wiki/spaces/OP/pages/40566798/Licenses"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "id": "10166",
+    "name": "openIMIS",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "openIMIS is a versatile open source software which supports the administration of\u00a0health financing and social protection schemes. It is specially designed to manage the complex, high-volume data flows which are required to operate such schemes by seamlessly integrating beneficiary, provider and payer data in a single platform.",
+    "website": "https://openimis.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/openimis/database_postgresql"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://openimis.atlassian.net/wiki/spaces/OP/pages/40566798/Licenses"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Health Level 7 Fast Health Interoperability Resource (FHIR) \r\nhttps://openimis.atlassian.net/wiki/spaces/OP/pages/1233649676/openIMIS+FHIR+R4+Overview+Page "
+    ],
+    "bestPractices": [
+        "Principles of Digital Development",
+        " and standards prescribed by the Open Health Information Exchange (www.ohie.org)"
+    ],
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "As an open source community, the openIMIS initiative encourages interactions between various users and contributors within the initiative. In such interactions, the openIMIS community is guided by our Contributor Covenant Code of Conduct: Contributor Covenant Code of Conduct - openIMIS - Confluence (atlassian.net). The openIMIS coordination desk monitors the activities in the various forums and platforms, which can only be accessed after a registration and is committed to ensuring the safety and security of all our users and contributors. While there are no formal procedures in place, we believe in respectful, open communication between the community members and strive ensure this through constant engagement with the community."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Bangladesh",
+            "Belgium",
+            "Cameroon",
+            "Gambia",
+            "Germany",
+            "India",
+            "Kenya",
+            "Nepal",
+            "Poland",
+            "Switzerland",
+            "Tanzania"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "Cameroon",
+            "Chad",
+            "Democratic Republic of the Congo",
+            "Gambia",
+            "Mauritania",
+            "Nepal",
+            "Niger",
+            "Tanzania"
+        ]
+    },
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "openIMIS, originally released in 2012, operates within the framework of the 2030 Agenda for Sustainable Development, specifically referencing Sustainable Development Goal (SDG) 1.3, which calls for social protection systems for all, and SDG 3.8, which endorses universal health coverage.\r\n \r\nThe project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\r\n\r\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries."
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "openIMIS, originally released in 2012, operates within the framework of the 2030 Agenda for Sustainable Development, specifically referencing Sustainable Development Goal (SDG) 1.3, which calls for social protection systems for all, and SDG 3.8, which endorses universal health coverage.\r\n \r\nThe project has supported various governments and health financing scheme operators better manage their operations, and increase coverage of health care to their beneficiaries.\r\n\r\nUsing openIMIS, the National Social Health Insurance of Nepal is managing its healthcare scheme for over 3 million beneficiaries and the Community Health Funds in Tanzania also support over one million beneficiaries."
+        }
+    ],
+    "documentation": "User Documentation: http://docs.openimis.org/en/latest/\r\nProduct Documentation: https://openimis.atlassian.net/wiki/spaces/OP/pages/147390465/Documentation\r\nUse cases: https://openimis.atlassian.net/wiki/spaces/OP/pages/40665130/Implementations\r\n",
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "The openIMIS initiative as a \u2018project\u2019 only collects data through user approved sign-ups for our newsletter and our collaboration platform (Atlassian Confluence). The data collected through both the platforms are mainly email addresses and user provided names (could also be aliases). This data is not shared with any third parties and the data is collected using third party platforms (Atlassian for our collaboration platform and Mailchimp for the newsletter)",
+            " and they are governed by the GDPR.\r\n\r\nThe openIMIS product does have the functionality to collect various data of users",
+            " including names",
+            " date of birth",
+            " ID number",
+            " phone number and also a (limited) medical treatment history. However the product is not hosted by the initiative",
+            " and thus anyone wanting to implement it would need to ensure that the data protection regulations of the area of jurisdiction are met. For example",
+            " the Health Insurance Board of Nepal uses openIMIS to manage the National Health Insurance of the country \u2013 so they deploy openIMIS as their own system and ensure that data confidentiality and data privacy regulations from the Government of Nepal are met. That being said",
+            " openIMIS does offer various levels of data security functionality for the implementers of the tool to use \u2013 particularly centered around role based access (read only",
+            " write only",
+            " none",
+            " or both) to data within the openIMIS system. Additionally",
+            " the openIMIS initiative provides security guidance on deploying openIMIS: Infrastructure security - openIMIS - openIMIS Wiki (atlassian.net)",
+            " and also a template to do security assessments of implementations: Security assessment template - openIMIS - openIMIS Wiki (atlassian.net)"
+        ],
+        "dataPrivacySecurity": "openIMIS will retain any, including personal, data entered into the openIMIS demo server for a maximum period of one week. \r\n\r\nWhen you submit data using the Apps or the web interface, the data collected from you will be stored the Web-embed server. If collected via the app, they will be: \r\n -stored on the IMIS folder in your root directory for the photos and connection tokens \r\n - in the application database located in the application folder for the other information (not accessible for non-root user). \r\n\r\nThose data are erased after synchronisation with the service of generation of an export archive (encrypted via password, stored in the IMIS folder). Sensitive information exchanged between your browser and our website is transmitted in encrypted form using Transport Layer Security (TLS)"
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "openIMIS",
+            "website": "https://openimis.org",
+            "org_type": "owner",
+            "contact_name": " Bhattarai, Saurav  ",
+            "contact_email": "saurav.bhattarai@giz.de"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR\r\nThe software is deployed on local servers when implementation is done in-country, and local laws surrounding privacy are adhered to. In the schemes in Nepal and Tanzania, the Ministry of Health and the President's Office, Regional Administration and Local Government respectively responsible for the implementation of the software. https://openimis.org/privacy-policy",
+            "privacyComplianceURL": "https://openimis.org/privacy-policy"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
