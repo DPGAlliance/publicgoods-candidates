@@ -64,10 +64,11 @@ Open standards establish protocols and building blocks that can help make digita
 * [W3C VC](https://www.w3.org/TR/vc-data-model/)
 
 #### Standard Content formats
-* PDF
+* [Markdown](https://commonmark.org/)
+* [PDF](https://pdfa.org/resource/pdf-specification-archive/)
 * H5P
-* ePub
-* WebM
+* [ePub](https://www.w3.org/TR/epub/)
+* [WebM](https://www.webmproject.org/)
  
  #### Multimedia
 * SVG (Scalable Vector Graphics)
