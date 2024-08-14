@@ -90,3 +90,4 @@ Below are some of the common best practices and principles implemented by severa
 
 #### Data Principles:
 * [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
+* [Recommendations for Better Sharing of Climate Data](https://creativecommons.org/2024/01/29/recommended-best-practices-for-better-sharing-of-climate-data/)
