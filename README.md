@@ -1,3 +1,9 @@
+> [!WARNING]
+>
+> This repository is now archived in favour of the new [DPG application process](https://app.digitalpublicgoods.net) and the [dpg-resources](https://github.com/DPGAlliance/dpg-resources) help center. We will no longer attend to issues or pull request contributions from this repository. You can learn more about DPGs [here](https://digitalpublicgoods.net/digital-public-goods), review the [eligibility requirements](https://digitalpublicgoods.net/submission-guide/), or explore the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki). Thank you!
+
+---
+
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) ![CI](https://github.com/unicef/publicgoods-candidates/workflows/CI/badge.svg)
 
 
