@@ -89,6 +89,9 @@ Open standards establish protocols and building blocks that can help make digita
 #### Whistleblowing management systems
 * [ISO 37002:2021 (Whistleblowing management systems — Guidelines)](https://www.iso.org/standard/65035.html)
 
+#### Instruction Set Architecture
+* [RISC-V](https://riscv.org/)
+
 #### Sector-specific standards
 * [FHIR (Fast Healthcare Interoperability Resources)](http://fhir.org/) - Healthcare
 * [openEHR](https://www.openehr.org/) - Healthcare
