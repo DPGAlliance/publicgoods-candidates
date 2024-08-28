@@ -1,0 +1,114 @@
+	{
+    "sdgs": {
+        "sdg": [
+            "SDG8: Decent Work and Economic Growth",
+            "SDG12: Responsible Consumption and Production"
+        ],
+        "relevance": "BIOVERSE was able to identify 5 -20 X more trees than initially known by the Indigenous Community of Kayapo and the Quilombola Community of Cachoeira Porteira. The economic impact of mapping the location of non-timber-related trees and serving the data to the community in the form of abundance maps makes a big difference in the harvesters' earnings potential. Productive Forests initiative directly impacts harvesting logistics and yields and, therefore, improves the lives of non-timber-related forest harvesters.,\r\n \r\nForest communities have very few options for generating income. Most employment and revenue-generating opportunities are linked to cattle ranching, deforestation, logging, mining, illegal wildlife hunting, and animal trafficking. The Productive Forests initiative seeks to strengthen income generation from sustainable practices such as the harvest of non-timber-related trees species that produce fruits, nuts, sap, and extracts and secures perennial crop harvesting while maintaining the forest standing for subsequent generations."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/Bioverse-Labs/image-processing/blob/master/LICENSE,https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE,https://github.com/Bioverse-Labs/forest-map-app/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Bioverse Labs",
+            "clearOwnershipURL": "https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE"
+        }
+    ],
+    "documentation": "https://github.com/Bioverse-Labs/deep-learning",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Our repository provides software tool for image processing and for deep learning-based image classification. Abundance Maps can be created to serve via the Forest Map Mobile App"
+    },
+    "openStandards": [
+        "Image-processing: TIFF",
+        " TIF files (either input and outputs)",
+        "deep-learning: TIFF",
+        " TIF inputs; TIFF",
+        " TIF",
+        " PNG",
+        " JSON",
+        " CSV as outputs https://github.com/Bioverse-Labs/deep-learning This project was guided by the Principals for Digital Development such as: Design with the user",
+        " design for scale",
+        " build for sustainability while using of open standards.",
+        "The projects also leverages continous integration for testing code as well as Github as a public code repository"
+    ],
+    "bestPractices": [
+        "This project was guided by the Principals for Digital Development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil"
+        ],
+        "deploymentCountries": [
+            "Brazil"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "UNICEF Malawi",
+        " UNICEF Peru and Cooperatives in Brazil"
+    ],
+    "otherDeploymentOrganisations": [
+        "Local NFPFs cooperatives in the Amazon"
+    ],
+    "awardsReceived": [
+        "Digital Public Goods"
+    ],
+    "id": "10914",
+    "name": "Productive Forests",
+    "aliases": [
+        "Mapas da Floresta"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Satellite Imagery Processing for Machine Learning Based Image Classification. Produtive Forests creates a forest inventory to support the sustainable use of non-timber related forest products",
+    "website": "https://www.bioverse.io/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Bioverse-Labs/image-processing,https://github.com/Bioverse-Labs/deep-learning,https://github.com/Bioverse-Labs/forest-map-app"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Productive Forests",
+            "website": "https://www.bioverse.io/",
+            "org_type": "owner",
+            "contact_name": " Francisco D'Elia  ",
+            "contact_email": "Francisco@bioverselabs.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives. Privacy policy - https://www.bioverse.io/privacy-policy",
+            "privacyComplianceURL": "The project does not collect data from users. The repository serves as a resource for collaboration and scalability of forest mapping initiatives."
+        }
+    ]
+}
