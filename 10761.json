@@ -1,0 +1,136 @@
+	{
+    "id": "10761",
+    "name": "CIEL terminology",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Columbia International eHealth Lab concept dictionary"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "CIEL terminology is an open source clinical interface terminology mapped to multiple standard code systems such as ICD, SNOMED CT, LOINC, RxNORM that ensures health information systems can collect, normalize and analyze/report high quality health information.",
+    "website": "www.CIELterminology.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "www.CIELterminology.org"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG10: Reduced Inequalities"
+        ],
+        "relevance": "CIEL is primarily designed to help with the assessment of health problems, the implementation of health interventions and evaluation of health indicators (therefore most closely associated with SDG3). CIEL is also designed to empower communities and underserved areas by ensuring that the information systems are sensitive to their needs. Its multi-lingual, multi-national data dictionary allows for sharing of best practices and data to improve representation of LMICs and underrepresented populations in national reporting, research and care delivery."
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Columbia Department of Biomedical Informatics",
+            "clearOwnershipURL": "https://app.openconceptlab.org/#/orgs/CIEL/"
+        }
+    ],
+    "documentation": "https://app.openconceptlab.org/#/orgs/CIEL/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "openStandards": [
+        "CIEL terminology itself is designed to facilitate the use of international terminology standards such as the International Classification of Diseases",
+        " SNOMED CT",
+        " LOINC",
+        " RxNORM",
+        " other WHO classifications. It provides the content in a FHIR-compatible API in addition to JSON and CSV."
+    ],
+    "bestPractices": [
+        "https://openconceptlab.org/terminology-service/ describes the FHIR/IHE compatibility."
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-NC-3.0-US",
+            "openLicenseEvidenceURLs": "file:///Users/akanter/Dropbox/OpenMRS%20Concept%20Tables/CIEL%20Dictionary%20Terms%20of%20Use%20and%20License.html. Note that this has limited non-commercial limitations only to non-terminology sellers. Other commercial uses are allowed. We are in the process of updating our license to a more current version as this was originally developed in the 2010s. "
+        }
+    ],
+    "locations": {
+        "developmentCountries": [
+            "Kenya",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "Botswana",
+            "Cambodia",
+            "Chile",
+            "Colombia",
+            "Dominican Republic",
+            "Ethiopia",
+            "Haiti",
+            "India",
+            "Israel",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Malawi",
+            "Mexico",
+            "Mozambique",
+            "Nepal",
+            "Nigeria",
+            "Pakistan",
+            "Panama",
+            "Peru",
+            "Philippines",
+            "Rwanda",
+            "Sierra Leone",
+            "Spain",
+            "Sri Lanka",
+            "Uganda",
+            "United States of America",
+            "Vietnam",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Health Organization (WHO)"
+    ],
+    "deploymentCountriesDepartments": [
+        "Kenya Ministry of Health\r\nPhilippines Ministry of Health"
+    ],
+    "otherDeploymentOrganisations": [
+        "OpenMRS community\r\nOpen Concept Lab community\r\nOpenHIE community\r\nMSF\r\nPartners in Health\r\nMany other NGO and companies"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "CIEL terminology",
+            "website": "www.CIELterminology.org",
+            "org_type": "owner",
+            "contact_name": " Andrew Kanter  ",
+            "contact_email": "ask2164@cumc.columbia.edu"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Provision of data dictionary does not require compliance with privacy laws. The content itself complies with non-discrimination and non-prejudice clauses of the ADA.",
+            "privacyComplianceURL": "https://app.openconceptlab.org/#/orgs/CIEL/"
+        }
+    ],
+    "awardsReceived": ""
+}
