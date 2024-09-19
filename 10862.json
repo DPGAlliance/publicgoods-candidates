@@ -1,0 +1,153 @@
+	{
+    "id": "10862",
+    "name": "Energy Access Explorer",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "EAE"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Challenge\r\n\r\nEnergy services are highly interconnected with socio-economic development and human well-being. Yet, life without reliable energy is a reality for more than 675 million people globally. Effectively expanding energy access requires proper energy planning and access to transparent analytical tools and data. To help address this challenge, WRI, in collaboration with partners has developed the Energy Access Explorer (EAE), a data-driven, integrated and inclusive approach to achieving universal access to energy for equitable, socio-economic development.\r\n\r\nWhat is EAE? \r\nThe first, open-source, online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions. EAE functions also as a dynamic information system, reducing software engineering and data transaction costs for both data providers and users and facilitating data management and governance. \r\n",
+    "website": "energyaccessexplorer.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/energyaccessexplorer"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG2: Zero Hunger",
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG7: Affordable and Clean Energy",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "EAE provides geospatial data and analytics necessary to create a future where all people and institutions have access to affordable, reliable and modern energy (SDG7) for socio-economic development (through powering healthcare, SDG3; powering agricullture and productive uses; SDG2; powering education, SDG4; partnering with stakeholders from multiple sectors and thematic areas). \r\n"
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/orgs/energyaccessexplorer/repositories\r\nhttps://www.energyaccessexplorer.org/"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "World Resources Institute ",
+            "clearOwnershipURL": "https://www.energyaccessexplorer.org/"
+        }
+    ],
+    "documentation": "https://github.com/orgs/energyaccessexplorer/repositories (each one of the repositories comes with its documentation) ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "HTML\r\nCSS\r\nJSON\r\nCSV\r\nSVG (Scalable Vector Graphics)\r\nPNG (Portable Network Graphics)\r\nJPEG (Joint Photographic Experts Group)\r\n"
+    ],
+    "bestPractices": [
+        "All programming languages used are open source "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Ethiopia",
+            "Greece",
+            "India",
+            "Kenya",
+            "Nigeria",
+            "Spain",
+            "Sweden",
+            "Tanzania",
+            "Uganda",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Ethiopia",
+            "Greece",
+            "India",
+            "Kenya",
+            "Nepal",
+            "Nigeria",
+            "Spain",
+            "Sweden",
+            "Tanzania",
+            "Uganda",
+            "United States of America",
+            "Zambia"
+        ]
+    },
+    "deploymentOrganisations": [
+        "Food and Agriculture Organization",
+        "United Nations Human Rights Council (UNHRC)",
+        "United Nations Development Programme",
+        "United Nations Industrial Development Organization",
+        "World Health Organization (WHO)",
+        " World Bank"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministry of Water and Energy",
+        " Ethiopia\r\nAgriculture Transformation Institute",
+        " Ethiopia\r\nEEU",
+        " EEP (power utilities)",
+        " Ethiopia\r\nMinistry of Health",
+        " Uganda\r\nMinistry of Energy and Mineral Development",
+        " Uganda\r\nUEDCL",
+        " UEGCL",
+        " UETCL",
+        " UMEME (power utilities) Uganda\r\nMinistry of Energy",
+        " Kenya\r\nCounty Governments of Narok",
+        " Kitui",
+        " Makueni in Kenya \r\nRural Electrification Agency",
+        " Nigeria\r\nMinistry of Energy",
+        " Tanzania\r\nRural Energy Agency",
+        " Tanzania\r\nTANESCO",
+        " Tanzania \r\nMinistry of Energy",
+        " Zambia\r\nMinistry of Health",
+        " Zambia \r\nJharkhand Renewable Energy Development Agency (JREDA)",
+        " India \r\nInvestments & Development Authority of Nagaland",
+        " India"
+    ],
+    "otherDeploymentOrganisations": [
+        "\u2022\tEnergy Planning Agencies to strengthen integrated and inclusive planning \r\n\u2022\tState and non-state actors to strengthen effective data management and governance\r\n\u2022\tClean energy enterprises to identify new market opportunities \r\n\u2022\tDFIs and investors to identify areas where their grants or investments has the most impact \r\n\u2022\tAgriculture",
+        " Healthcare",
+        " Education departments to assess energy needs associated to development services \r\n"
+    ],
+    "awardsReceived": [
+        "Excellent presentation award at the 2022 Big Data for Sustainable Development Conference \r\nhttps://www.linkedin.com/posts/dimitris-mentis-phd-6abb4553_sdg7-dataforgood-sdgs2030-activity-6975747641242497024-QcNa?utm_source=share&utm_medium=member_desktop\r\n\r\n2023 World Resources Institute Top Outcome Award\r\nhttps://www.wri.org/outcomes/rural-health-clinics-gain-reliable-power-through-clean-energy-data-driven-and-inclusive"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Energy Access Explorer",
+            "website": "energyaccessexplorer.org",
+            "org_type": "owner",
+            "contact_name": " Dimitrios Mentis  ",
+            "contact_email": "dimitrios.mentis@wri.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR)",
+            "privacyComplianceURL": "https://www.energyaccessexplorer.org/privacy-policy/"
+        }
+    ]
+}
