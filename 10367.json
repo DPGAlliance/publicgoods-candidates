@@ -1,0 +1,104 @@
+	{
+    "id": "10367",
+    "name": "CityLearn",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "CityLearn is an open source OpenAI Gym environment for the implementation of advanced control systems, e.g., MPC, and Multi-Agent Reinforcement Learning (RL) for building energy coordination and demand response in several buildings. CityLearn allows easy implementation agents in a multi-agent setting to reshape their aggregated curve of electrical demand.",
+    "website": "www.citylearn.net",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/intelligent-environments-lab/CityLearn"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG7: Affordable and Clean Energy",
+            "relevance": "CityLearn allows to work out how end-use energy demand can be shifted throughout the day. This helps aligning demand with availability of renewable energy resources (solar, wind), which reduces the reliance on fossil fuel powered thermal power generators.\r\n\r\nA specific problem of reducing cost, emissions and providing grid services has been used in the 2022 CityLearn Challenge here https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge \r\n\r\nCityLearn can be generalized to a variety of use cases though. It is the only tool that allows to work out demand-side energy shifting at scale."
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "CityLearn allows to work out how end-use energy demand can be shifted throughout the day. This helps aligning demand with availability of renewable energy resources (solar, wind), which reduces the reliance on fossil fuel powered thermal power generators.\r\n\r\nA specific problem of reducing cost, emissions and providing grid services has been used in the 2022 CityLearn Challenge here https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge \r\n\r\nCityLearn can be generalized to a variety of use cases though. It is the only tool that allows to work out demand-side energy shifting at scale."
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "CityLearn allows to work out how end-use energy demand can be shifted throughout the day. This helps aligning demand with availability of renewable energy resources (solar, wind), which reduces the reliance on fossil fuel powered thermal power generators.\r\n\r\nA specific problem of reducing cost, emissions and providing grid services has been used in the 2022 CityLearn Challenge here https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge \r\n\r\nCityLearn can be generalized to a variety of use cases though. It is the only tool that allows to work out demand-side energy shifting at scale."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/intelligent-environments-lab/CityLearn/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "\u00a9 Copyright 2022, Jose Ramon Vazquez-Canteli, Kingsley Nweye, Zoltan Nagy",
+            "clearOwnershipURL": "https://intelligent-environments-lab.github.io/CityLearn/api/modules.html"
+        }
+    ],
+    "documentation": "https://github.com/intelligent-environments-lab/CityLearn\r\nand\r\nhttps://intelligent-environments-lab.github.io/CityLearn/api/modules.html",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "United States of America"
+        ]
+    },
+    "otherDeploymentOrganisations": [
+        "Researchers",
+        " scientists and practitioners in building energy and computer science"
+    ],
+    "openStandards": [
+        "Most of these don\u2019t apply as we follow the standard Open AI Gym interface. \r\nWe use CSV/JSON/PDF for data exchange."
+    ],
+    "bestPractices": [
+        "CI/CD best practices are followed when we deploy with PyPi\r\nCoding style is PEP8\r\nStandard best practices are followed when interfacing with libraries"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "CityLearn",
+            "website": "www.citylearn.net",
+            "org_type": "owner",
+            "contact_name": " Zoltan Nagy  ",
+            "contact_email": "nagy@utexas.edu"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "N/a",
+            "privacyComplianceURL": "N/a"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "awardsReceived": ""
+}
