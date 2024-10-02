@@ -1,0 +1,107 @@
+	{
+    "id": "10156",
+    "name": "Find Your Immunization",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "FYI"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Open source platform for aggregating and displaying vaccine availabilities in an accessible way.",
+    "website": "https://appointments.vaccinehunters.ca/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Find Your Immunization is currently being used to simplify and facilitate the process of finding a COVID-19 vaccine in Canada. It is deployed across the country which has a population of almost 40 million, and is available in over 300 cities. There have been 2.7 million unique searches since it launched on June 18th, 2021. We have an official partnership with the City of Toronto, and Canadian pharmacies, hospitals and independent retailers who share their data daily regarding COVID-19 vaccine availability which is automatically updated in FYI. "
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/Vaccine-Hunters-Canada/VaxFinder-backend/blob/main/LICENSE.md"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Supports RESTful APIs and uses Swagger for API documentation"
+    },
+    "openStandards": [
+        "WCAG 2.0",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "OpenAPI https://github.com/Vaccine-Hunters-Canada/VaxFinder-Frontend The UI is designed to comply with WCAG 2.0 standard. Some developers who worked on the project had accessibility training and did their best to ensure compliance",
+        " but the website has not been audited. The project was designed to support not just the \u201cfind a vaccine\u201d ecosystem",
+        " but a \u201cfind me anything\u201d ecosystem. Anything that can be displayed for a \u201cfind me/where is\u201d program",
+        " the front and backend can be easily tweaked to support this. The modular design of components on the website means that the majority of the components can be reused for different needs",
+        " and require minimal changes to support different use-cases. The UHN social medicine unit plans to transition into the code owners",
+        " allowing for maintainability and scalability. Third party caching and an OpenAPI are other factors contributing to low running costs. A clearly defined schema allows for simple and clearly-defined data ingestion",
+        " allowing the website to serve consistent data despite having many data inputs. As privacy was one of our top concerns",
+        " the only data being stored is publicly available pharmacy data",
+        " and site views (provided by the server analytics)."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Vaccine Hunters Canada",
+            "clearOwnershipURL": "https://vaccinehunters.ca/tos"
+        }
+    ],
+    "documentation": "https://dbdiagram.io/d/6084d79fb29a09603d11fe4c\r\nhttps://github.com/Vaccine-Hunters-Canada/VaxFinder-Frontend\r\nhttps://github.com/Vaccine-Hunters-Canada/VaxFinder-backend",
+    "locations": {
+        "developmentCountries": [
+            "Canada"
+        ],
+        "deploymentCountries": [
+            "Canada"
+        ]
+    },
+    "awardsReceived": [
+        "- #1 on Toronto Life's Top 50 Most Influential Torontonians - https://torontolife.com/city/the-50-most-influential-torontonians-of-2021/\r\n- UK Commonwealth Point of Light 2021 - recognising inspirational volunteers throughout the Commonwealth - https://www.pointsoflight.gov.uk/vaccine-hunters-canada/\r\n- Dalla Lana School of Public Health's Pillars of the Pandemic - honouring the contributions to public health and healthcare during the COVID-19 pandemic by health and healthcare professionals and volunteers across Ontario - https://healthydebate.ca/2021/11/topic/vaccine-hunters-pillars-dlsph/\r\n- #5 on Bay Street Bull's Power 50: Canada's Most Impactful Companies 2021 - groups that are redefining their respective industries to be more resilient",
+        " efficient",
+        " and thoughtful - https://baystbull.com/the-power-50-canadas-most-impactful-companies-2021/#slide__25427\r\n- OTLA (Ontario Trial Lawyers Association) Safety Leadership Award - an individual or organization that has made a remarkable and extensive contribution towards enhancing safety awareness in their community in Ontario and prevented injury to those around them - https://twitter.com/OntarioTLA/status/1453705954898415625\r\n- Urban Hero Award - award by Metroland Toronto that recognizes community champions - https://www.toronto.com/news/urban-hero-vaccine-hunters-canada-helped-1-2-million-people-get-covid-19-doses/article_eb1d5484-af80-5324-8e56-6af0b8639973.html"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Find Your Immunization",
+            "website": "https://appointments.vaccinehunters.ca/",
+            "org_type": "owner",
+            "contact_name": " Andrew Young  ",
+            "contact_email": "andryou@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Applicable laws - these Terms and any dispute, controversy, proceedings or claim of whatever nature arising out of or in any way relating to these Terms will be governed by and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable within Ontario without regard to conflict of law provisions. The Ontario Superior Court of Justice will have exclusive jurisdiction to resolve any disputes relating to these Terms. Privacy policy - https://appointments.vaccinehunters.ca/privacypolicy,Absolutely no personal data and nothing identifiable to users are being collected.",
+            "privacyComplianceURL": "https://vaccinehunters.ca/privacy"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": ""
+}
