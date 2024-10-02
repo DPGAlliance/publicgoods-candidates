@@ -1,0 +1,123 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "UNIDO ",
+            "clearOwnershipURL": "https://open.unido.org/projects/M0/projects/190326 \r\nhttps://open.unido.org/projects/M0/projects/210170 "
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "documentation": "https://open.unido.org/projects/M0/projects/210170\r\nhttps://open.unido.org/projects/M0/projects/190326\r\nhttps://iap.unido.org/methodology/ ",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "project supports HTML",
+        " CSS",
+        " PNG",
+        " JPEG",
+        " HTTPS. "
+    ],
+    "bestPractices": [
+        "IAP adheres to the Principles for Digital Development \u2013 the project adheres to the PDD specifically through principle on reuse and improve",
+        " where it uses existing methodologies and improves on their visualization",
+        " the project is collaborative",
+        " built for sustainability",
+        " it is data-driven",
+        " where applicable it uses open standards",
+        " open data and open source",
+        " and the design of the project was based on human-centric design",
+        " with the aim to design with the user",
+        " which was conducted via user journey explorations. "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Evidence-based blogs based on sound research paper. "
+        ],
+        "contentManagementPolicy": "The content is strictly curated, collected, stored and distributed by the project team. No external user can add content to the platform, therefore the risk of inappropriate and illegal content is minimal. In collaboration with the IT department, the appropriate measures have been taken for the cybersecurity adheres of the platform to the latest best practices. "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Austria",
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "Austria"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Industrial Development Organization"
+    ],
+    "deploymentCountriesDepartments": [
+        "UNIDO's Member States actively refer to the UNIDO IAP for content and data. "
+    ],
+    "otherDeploymentOrganisations": [
+        "General public",
+        " private sector firms. "
+    ],
+    "awardsReceived": [
+        "https://sdgs.un.org/partnerships/unido-industrial-analytics-platform "
+    ],
+    "id": "10363",
+    "name": "UNIDO Industrial Analytics Platform #1341",
+    "aliases": [
+        "UNIDO IAP"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "UNIDO's IAP is a data-driven knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.",
+    "website": "https://iap.unido.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://iap.unido.org"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "SDG4: The UNIDO IAP can be used for both outreach and capacity-building workshops in how to strive for evidence-based policymaking.\r\nSDG9: The SDG-9 Industry Index can be used to identify the dimensions that have an impact on the performance of a country towards achieving the SDG-9 industry-related targets. It comprises the following dimensions: manufacturing value added, manufacturing employment, technological sophistication of manufacturing production and the manufacturing sector\u2019s environmental performance. The Index tracks the performance of a country over time and in relation to other economies. https://iap.unido.org/data/sdg-9-industry\r\nSDG17: Through its blog articles, the UNIDO IAP facilitates partnerships between a variety of actors for the Common Agenda and the Agenda 2030"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "SDG4: The UNIDO IAP can be used for both outreach and capacity-building workshops in how to strive for evidence-based policymaking.\r\nSDG9: The SDG-9 Industry Index can be used to identify the dimensions that have an impact on the performance of a country towards achieving the SDG-9 industry-related targets. It comprises the following dimensions: manufacturing value added, manufacturing employment, technological sophistication of manufacturing production and the manufacturing sector\u2019s environmental performance. The Index tracks the performance of a country over time and in relation to other economies. https://iap.unido.org/data/sdg-9-industry\r\nSDG17: Through its blog articles, the UNIDO IAP facilitates partnerships between a variety of actors for the Common Agenda and the Agenda 2030"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://iap.unido.org/ footer "
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "UNIDO Industrial Analytics Platform #1341",
+            "website": "https://iap.unido.org",
+            "org_type": "owner",
+            "contact_name": " Eugenia Coman  ",
+            "contact_email": "e.coman@unido.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "IAP adheres to the principles under the GDPR, and does not collect any data on users. ",
+            "privacyComplianceURL": "Terms of use\r\nThis website is governed by the terms and conditions specified in the following disclaimer (https://www.unido.org/overview/disclaimer)."
+        }
+    ]
+}
