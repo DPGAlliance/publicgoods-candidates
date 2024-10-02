@@ -1,0 +1,136 @@
+	{
+    "id": "10980",
+    "name": "OpenSPP",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Open Source Social Protection Platform"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "OpenSPP is an integrated and digital social protection information system that enables governments and humanitarian agencies to streamline the creation and management of assistance programs.",
+    "website": "http://openspp.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/openspp-project/openspp-registry,https://github.com/openspp-project/openspp-program,https://github.com/openspp-project/openspp-grievance-redress-mechanism,https://github.com/openspp-project/documentation,https://github.com/openspp-project/openspp-docker"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG1: End Poverty in all its forms everywhere",
+            "SDG2: Zero Hunger",
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education",
+            "SDG5: Gender Equity",
+            "SDG10: Reduced Inequalities",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "OpenSPP enables governments and humanitarian agencies to support the underprivileged through assistance programs. The platform supports both cash transfer and in-kind transfer activities. OpenSPP is currently being deployed in the Middle East to support a country-wide government in-kind transfer program that targets the most vulnerable populations (helping towards the achievement of Target 1.3).,\r\n \r\nOpenSPP can be used to distribute food assistance to the most vulnerable populations thanks to offline registration and advance targeting of qualified beneficiaries. MUAC monitoring for mother and child can be implemented to distribute specialized nutritious foods to prevent stunting in children under 5 of age (helping towards the achievement of Target 2.2). OpenSPP is currently being deployed in the Middle East to support a country-wide government in-kind transfer program that targets the most vulnerable populations (helping towards the achievement of Target 2.1).,\r\n \r\nOpenSPP can be used to implement various types of health and well-being programs, from antenatal and postnatal programs to ensure maternal and child well-being to the distribution of health and hygiene kits. For instance, programs can be configured to implement cash or food distribution in the context of MUAC monitoring for mother and child (helping towards the achievement of Targets 3.1 and 3.2).,\r\n \r\nOpenSPP can be used to implement attendance tracking in school feeding programs that provide both educational and health benefits to the most vulnerable children. School feeding programs act as an incentive for families to enroll and keep children in school (helping towards the achievement of Targets 4.1 and 4.2).,\r\n \r\nFrom intent and design to implementation, OpenSPP allows for the integration of gender considerations into all aspects of a social protection program (helping towards the achievement of Target 5.1). The platform can also be used to create and manage school feeding programs that, according to WFP, empower girls by dissuading parents from marrying them off early, which halts their education and can result in child pregnancies.,\r\n \r\nFrom intent and design to implementation, OpenSPP allows for the integration of inequality considerations into all aspects of a social protection program, helping beneficiaries receive what they need. OpenSPP helps governments implement and monitor social protection policies (helping towards the achievement of Target 10.4).,\r\n \r\nOpenSPP is developed by people in the Global South (Thailand, the Philippines, Laos, and Vietnam) for the Global South (helping towards the achievement of Targets 17.6 and 17.9), and it allows and encourages local companies to provide support for the solution. OpenSPP is particularly well suited to provide support to developing countries to significantly increase the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts (helping towards the achievement of Target 17.I)."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/openspp-project/openspp-program/blob/15.0/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "OpenSPP",
+            "clearOwnershipURL": "https://github.com/openspp-project/openspp-program/blob/15.0/COPYRIGHT"
+        }
+    ],
+    "documentation": "https://docs.openspp.org/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "OpenSPP follows a role-based access control approach. If a user has the access rights to use the import/export feature and to view the data, the system offers the option to import/export it. Three formats are currently implemented: CSV, XML, and JSON."
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "Beneficiary information",
+            " identity documents",
+            " and targeting criteria",
+            " as required by a given program."
+        ],
+        "dataPrivacySecurity": "By default, the application does not share any information with third parties, but it is possible to elect to share some of the information with relevant parties, such as ministries, government agencies, or financial service providers OpenSPP encourages its users to follow the Principles for Digital Development, and more specifically the core tenets listed at: https://digitalprinciples.org/principle/address-privacy-security/ "
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Laos",
+            "Philippines",
+            "Thailand",
+            "Vietnam"
+        ],
+        "deploymentCountries": [
+            "Iraq"
+        ]
+    },
+    "deploymentOrganisations": [
+        "World Food Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "Iraq Ministry of Trade (PDS)"
+    ],
+    "openStandards": [
+        "W3C international web standards: XHTML5.0",
+        " CSS",
+        " and JSON.\r\nAuthentication standards: JSON Web Token",
+        " OAuth / OpenID Connect",
+        " and SSL. https://github.com/openspp-project/openspp-program \r\n"
+    ],
+    "bestPractices": [
+        "- Utilizes open standards for functionality exposure",
+        " ensures system extensibility",
+        " and allows configuration by other parties to avoid technology lock-in (docs.openspp.org/en/latest/architecture.html#principles).\r\n- Adheres to zero-trust architecture principles",
+        " encrypts data in transit and at rest",
+        " and employs a comprehensive consent management framework for enhanced data privacy (docs.openspp.org/en/latest/security.html#security-architecture-practices).\r\n- Designed to cater to a wide range of project sizes",
+        " ensuring scalability and adaptability to varying requirements (docs.openspp.org/en/latest/architecture.html#principles).\r\n- Functions as a standalone or integrated system with well-defined APIs for interoperability with other government systems and external integration (docs.openspp.org/technical_reference/integrations.html).\r\n- Offers a customizable",
+        " configurable",
+        " and modular architecture for tailored solutions and effective system management(docs.openspp.org/en/latest/access_management.html).\r\n- Ensures audibility",
+        " monitorability",
+        " and easy upgradeability",
+        " along with sophisticated tools for proactive security monitoring and incident response (docs.openspp.org/technical_reference/monitoring.html#).\r\n- Implements data anonymization",
+        " encryption",
+        " strong authentication",
+        " and access control for robust data management",
+        " security",
+        " and integrity. (docs.openspp.org/en/latest/security.html#data).\r\n- Accommodates multiple authentication systems allowing for integration with external ID systems",
+        " ensuring user authenticity (docs.openspp.org/en/latest/security.html#security-architecture-practices).\r\n- Provides a configurable logging mechanism covering all assets for valuable insights into system activities and enhanced security strategy. (docs.openspp.org/en/latest/security.html#security-architecture-practices).\r\n- Conducts regular vulnerability assessments and penetration testing to maintain high security standards throughout the development and post-deployment stages (docs.openspp.org/en/latest/security.html#security-architecture-practices).\r\n- OpenSPP follows best practices for code quality and code coverage",
+        " utilizing tools like SonarQube to continuously inspect code quality and identify bugs",
+        " code smells",
+        " and security vulnerabilities. (docs.openspp.org/en/latest/technical/code.html\r\n- OpenSPP incorporates audit logs to track user actions and changes made to the system",
+        " adhering to architectural principles that promote accountability and traceability. (docs.openspp.org/en/latest/technical/audit.html)"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenSPP",
+            "website": "http://openspp.org/",
+            "org_type": "owner",
+            "contact_name": " Jeremi Joslin  ",
+            "contact_email": "jeremi@openspp.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR OpenSPP is based on Odoo which is a GDPR-compliant ERP. More details at: https://www.odoo.com/gdpr",
+            "privacyComplianceURL": "OpenSPP, being an open-source project, provides a framework that can be configured to comply with various legal requirements. However, the onus of ensuring adherence to the mentioned laws rests with the implementers, based on their specific deployments and jurisdictional regulations. The OpenSPP project can offer guidance and best practices, but it's the implementers who are responsible for aligning their instances with the necessary legal frameworks. Consequently, we cannot provide links to a privacy policy or terms of service inherent to OpenSPP. "
+        }
+    ],
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
