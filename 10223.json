@@ -1,0 +1,103 @@
+	{
+    "id": "10223",
+    "name": "PrepTime Analytics",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "PrepTime Analytics is a Google Forms and Sheets add-on that enhances their functionality to analyze and report the results of assessments in a meaningful way. ",
+    "website": "https://preptimeanalytics.com/",
+    "openlicenses": [
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "SDG4: Quality Education"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "Preptime Analytics enables schools to integrate technology by enhancing the functionalities of Google Forms and Sheets to generate reports and analytics on objective tests to accurately measure learning outcomes and provide insights that helps to improve learning outcomes. With Preptime Analytics, schools do not need to invest in Learning Management Systems, which comes with cost. They can simply use Google Forms and generate insightful reports with Preptime Analytics "
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Scribble-Works/preptime-website,https://github.com/Scribble-Works/preptimeanalyser,https://github.com/Scribble-Works/screenshot"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Scribble Works",
+            "clearOwnershipURL": "https://preptimeanalytics.com/"
+        }
+    ],
+    "documentation": "https://github.com/Scribble-Works/preptime-analytics",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The application allows users to upload their questions and responses data files in csv or excel format. Template files for questions and responses are provided in csv and excel to guide the user in preparing their data files."
+    },
+    "openStandards": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON",
+        "REST https://github.com/Scribble-Works/preptime-analytics Separation of concerns - HTML",
+        " CSS",
+        " JavaScript"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Personal data - email",
+            " firstname",
+            " lastname",
+            " phone",
+            " address",
+            "cookies and usage data. See more details here - https://preptimeanalytics.com/privacy"
+        ],
+        "dataPrivacySecurity": " All processing data is run in-memory. Persisted data can also be deleted at the user's request. Functionality to do this automatically is in development. All information is transferred securely using HTTPS and raw data provided by the user for analysis can be deleted at the user's request."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Ghana"
+        ],
+        "deploymentCountries": [
+            "Ghana"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "PrepTime Analytics",
+            "website": "https://preptimeanalytics.com/",
+            "org_type": "owner",
+            "contact_name": " Daniel Amedza-Philips  ",
+            "contact_email": "danielamedzaphilips@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The site is GDPR compliant. Any data submitted by the user to be analysed can be requested by the same user to be removed by sending an email to us. https://preptimeanalytics.com/privacy"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
