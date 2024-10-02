@@ -1,0 +1,155 @@
+	{
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Ozim Platform Public Fund founders",
+            "clearOwnershipURL": "https://copyright.kazpatent.kz/?!.iD=G9qz\r\n\r\nThis is a link to the official platform of the National Institute of Intellectual Property of the Ministry of Justice, Republic of Kazakhstan\r\n\r\nHere is the official translation to English https://drive.google.com/drive/u/0/folders/1ty9FgCTaxQulsCf3Jn3vsMfCQpfaoDjv\r\n"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "According to the Terms of Use of the solution the content published by the users is divided into 2 groups: \r\no   Submissions \u2013 any question",
+            " comment",
+            " suggestion",
+            " idea",
+            " feedback",
+            " or other information about the solution sent by the users;\r\no   Contributions \u2013 the solution allows the users to participate in blogs",
+            " message boards",
+            " online forums",
+            " and other functionality during which the users may create",
+            " submit",
+            " post",
+            " display",
+            " transmit",
+            " publish",
+            " distribute",
+            " or broadcast content and materials to the solution or through the solution",
+            " including but not limited to text",
+            " writings",
+            " video",
+            " audio",
+            " photographs",
+            " music",
+            " graphics",
+            " comments",
+            " reviews",
+            " rating suggestions",
+            " personal information",
+            " or other material.\r\n"
+        ],
+        "contentManagementPolicy": "According to the Terms of Use it explicitly prohibits the users to post inappropriate and illegal content. In addition to that the Terms of Use provide for that the solution may remove or edit content of the Users, and that it shall have the right in sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorise any Contributions to place them in more appropriate locations on the solution; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice.  The Terms of Use also reinforce that the users are solely responsible for their Contributions and that they expressly agree to exonerate the solution from any and all responsibility and to refrain from any legal action regarding the Contributions. Along with this, the right is provided to suspend or disable the account of the user and report such a user to public authorities.\r\n"
+    },
+    "id": "10656",
+    "name": "Ozim Platform",
+    "aliases": [
+        "Ozim"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The Ozim Platform is a revolutionary new tool that helps parents of young children stay connected and informed. It provides a secure, easy-to-use platform for parents to access resources, connect with other parents, and stay up-to-date on the latest news about early development and intervention. The Ozim Platform provides parents with the tools to monitor their child's development and intervene early if needed.",
+    "website": "http://ozimplatform.com/en/?utm=en",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/Ozim-Platform"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being",
+            "SDG4: Quality Education"
+        ],
+        "relevance": "Ozim Platform promotes Sustainable Development Goals 3 and 4. In particular, indicator 3.D as it warns parents about children\u2019s developmental delays to seek professional help and minimize the risks of childhood disability. Moreover, it also applies to indicators 4.2 and 4.2.1 because by teaching parents, we facilitate early intervention activities and better care at home to prepare children with special needs for primary education and keep track of their health, learning, and psychosocial well-being.\r\n"
+    },
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Non-PII data can be retrieved using the export function through the administrative part of the project. The data can be retrieved as reports (in CSV format) from pre-configured server requests that restrict access to personally identifiable information and provide only the non-PII data required for reporting. Access to these reports is restricted by roles to administrators and data managers."
+    },
+    "openStandards": [
+        "HTTPS",
+        "\r\nSSL",
+        "\r\nSSH",
+        "\r\n\r\nInternationalization (i18n)",
+        "\r\nUTF-8",
+        "\r\nISO-8859-1",
+        "\r\nASCII",
+        "\r\nWeb standards",
+        "\r\nHTML",
+        "\r\nCSS",
+        "\r\nData Exchange/ Configuration formats",
+        "\r\nJSON",
+        "\r\nXML",
+        "\r\nCSV",
+        "\r\nStandard Content formats",
+        "\r\nPDF",
+        "\r\nMultimedia",
+        "\r\nSVG (Scalable Vector Graphics)",
+        "\r\nPNG (Portable Network Graphics)",
+        "\r\nJPEG (Joint Photographic Experts Group)",
+        "\r\nH.264 (H.264/MPEG-4 AVC)",
+        "\r\nMP4 (MPEG-4 Part 14)\r\n"
+    ],
+    "bestPractices": [
+        "The Ozim Platform was designed to respect the principles of digital development. \r\nDesign with the user. In order to structure and design the app we studied the informational needs of parents from different regions of Kazakhstan in two languages (Kazakh",
+        " Russian). The data showed thematic preferences",
+        " preferred study format",
+        " and size (text",
+        " video) of materials. Using the data we developed a beta version and invited an auditor with visual impairments to check the accessibility of the application for people with visual disorders. After approving the version by focus groups we launched an app in the markets: App Store",
+        " Google Play.\r\n\r\nBe data-driven. Our utmost goal is to provide parents of young children with reliable and scientifically based information and materials. We work with authors who are experts in the field of early intervention and early development. One of the important directions of our project is to convert scientific articles into an accessible language for parents. \r\n\r\nBe collaborative. At the beginning of the project",
+        " we started to work with NGOs and the private sector in the field of early development and intervention. This collaboration led to mutually beneficial partnerships. Today we started to work with government sectors and social entrepreneurs for the widest coverage of the population and a positive impact among users. "
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Nickname",
+            " email",
+            " children\u2019s birth date "
+        ],
+        "dataPrivacySecurity": "Network segmentation and management of network passages using the Linux UFW Firewall. Setting access rights for each role (Administrator, User, etc.) in the backend there is only one user. Storing user passwords in hashed form."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The administrator moderates through the admin panel the interactions with or between users to protect them from abusive comments or harassment. \r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Kazakhstan"
+        ],
+        "deploymentCountries": [
+            "Kazakhstan"
+        ]
+    },
+    "openlicenses": [
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "https://github.com/Ozim-Platform/Ozim-Platform-Front/blob/main/BSD-3-Clause"
+        }
+    ],
+    "documentation": "Admin manual - https://github.com/Ozim-Platform/Ozim-Platform/blob/b9e2d7da92cb284cf4e90f730ba00a95156a8744/documents/Ozim%20Platform%20Admin%20Manual.pdf ;\r\n\r\nRequierements for access and login - https://github.com/Ozim-Platform/Ozim-Platform/blob/b9e2d7da92cb284cf4e90f730ba00a95156a8744/documents/Ozim%20Platform%20Requirements%20for%20Access%20and%20Login.pdf\r\n\r\nUser manual - https://github.com/Ozim-Platform/Ozim-Platform/blob/b9e2d7da92cb284cf4e90f730ba00a95156a8744/documents/Ozim%20Platform%20User%20Manual.pdf\r\n\r\nTechnical documentation https://github.com/Ozim-Platform/Ozim-Platform/tree/main",
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Ozim Platform",
+            "website": "http://ozimplatform.com/en/?utm=en",
+            "org_type": "owner",
+            "contact_name": " Ozim Platform  ",
+            "contact_email": "ozim.project@gmail.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Law of the Republic of Kazakhstan dated May 21, 2013 No. 94-V \"On Personal Data and their Protection\". The General Data Protection Regulation (GDPR) 2016/679 of the European Parliament and of the Council in this Privacy Policy.\r\n",
+            "privacyComplianceURL": "Privacy policy - https://github.com/Ozim-Platform/Ozim-Platform/blob/b9e2d7da92cb284cf4e90f730ba00a95156a8744/documents/Ozim%20Platform%20PrivacyPolicy.pdf ;\r\n\r\nTerms of use - https://github.com/Ozim-Platform/Ozim-Platform/blob/b9e2d7da92cb284cf4e90f730ba00a95156a8744/documents/Ozim%20Platform%20Publicoffer.pdf"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
