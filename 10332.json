@@ -1,0 +1,115 @@
+	{
+    "id": "10332",
+    "name": "demo app",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "sdasd"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "asdas",
+    "website": "abc.com",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "abc.com"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "asdasd"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AAL",
+            "openLicenseEvidenceURLs": "asdasd sad sad"
+        },
+        {
+            "openLicense": "Apache-1.1",
+            "openLicenseEvidenceURLs": "asdasd sad sad"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "asda sd",
+            "clearOwnershipURL": "asda das"
+        }
+    ],
+    "documentation": "dasd asd ada ",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "as dasd asd"
+    },
+    "openStandards": [
+        "sad dsad asd"
+    ],
+    "bestPractices": [
+        "asd ads ad"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "as dasd "
+        ],
+        "dataPrivacySecurity": "asd asd a"
+    },
+    "userContent": {
+        "contentManagement": "Content is collected but NOT stored and NOT distributed.",
+        "contentTypes": [
+            "asd asd"
+        ],
+        "contentManagementPolicy": "asd asd"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "asd ads "
+    },
+    "locations": {
+        "developmentCountries": [
+            "Algeria",
+            "Angola"
+        ],
+        "deploymentCountries": [
+            "Algeria",
+            "Antigua and Barbuda"
+        ]
+    },
+    "deploymentOrganisations": [
+        " International Labour Organization",
+        "International Maritime Organization"
+    ],
+    "deploymentCountriesDepartments": [
+        "asd asdad"
+    ],
+    "otherDeploymentOrganisations": [
+        "sda dad "
+    ],
+    "awardsReceived": [
+        "ds ad asd "
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "asd ad asd"
+        ]
+    },
+    "organizations": [
+        {
+            "name": "demo app",
+            "website": "abc.com",
+            "org_type": "owner",
+            "contact_name": " Govind  ",
+            "contact_email": "jevero5969@usharer.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "sad asd asd",
+            "privacyComplianceURL": "sad asdadas"
+        }
+    ]
+}
