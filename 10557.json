@@ -1,0 +1,116 @@
+	{
+    "id": "10557",
+    "name": "finalsize",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "finalsize is an R package that provides estimates for the total proportion of a population infected over the course of an epidemic, and can account for a demographic distribution, demography-specific contact patterns,and heterogeneous susceptibility to infection between groups.",
+    "website": "https://github.com/epiverse-trace/finalsize",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/epiverse-trace/finalsize"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "finalsize was created under the Epiverse initiative, which is a global collaborative working to develop a trustworthy data analysis ecosystem dedicated to preparing for the next public health crisis. finalsize can provide policy makers and health agencies with rough estimates of the effectiveness of pharmaceutical interventions in the form of immunisation programmes, or the effect of naturally acquired immunity through previous infection. This information allows for greater insights and understanding around diseases transmission and the vaccine efficacy, thus helping decision makers assess the total portion of population infected over the course of an epidemic and how to distribute services and medicines to areas in most need."
+        }
+    ],
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The Epiverse Code of Conduct is upheld for each of our open source software tools: https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT.md\r\n\r\nExamples of behaviours which are not welcome in our community include (but are not limited to):\r\nUnwelcome sexual attention or physical contact.\r\nPersonal attacks, including derogatory comments, insulting, ignoring, shaming or belittling others.\r\nPublic or private harassment.\r\nPublishing others\u2019 private information without their express permission.\r\nOther conduct which could reasonably be considered inappropriate in a professional setting.\r\n\r\nThe Community Manager and members of the Epiverse-TRACE team are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective action in response to any behaviour that they deem inappropriate, threatening, offensive, or harmful.\r\n\r\nThe Community Manager and members of the Epiverse-TRACE team have the right and responsibility to remove, edit, or reject comments, commits, code, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\r\n\r\nThe Code of Conduct Committee will determine appropriate enforcement measures on a case-by-case basis. Where practicable, violations to this code of conduct will be addressed informally in the first instance. For example through a verbal or written warning. Repeated or serious violations may result in more sustained ramifications, including a temporary or permanent ban from community spaces (e.g. forums, events) and, where necessary, the involvement of law authorities.\r\n\r\nIncidents can be reported to the Epiverse-TRACE Code of Conduct Committee through completing this short form:  https://forms.gle/guKqVXPk6K43jPn59 "
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Epiverse-TRACE",
+            "clearOwnershipURL": "Pratik Gupte is the official maintainer, as shown on the CRAN page (https://cran.r-project.org/package=finalsize) and as documented by the \"cre\" role in DESCRIPTIONn. \r\n\r\nHowever, everybody who contributed to the code is a copyright holder, or \"owner\", as documented by the use of \"finalsize authors\" in the LICENSE. In the large majority of cases, there is no copyright transfer during the open-source contribution process. "
+        }
+    ],
+    "documentation": "finalsize is documented in GitHub and CRAN\r\nThe current development version of finalsize can be installed from Github using the remotes package. \r\n\r\nGitHub: https://epiverse-trace.github.io/finalsize/\r\nCRAN: https://cloud.r-project.org/web/packages/finalsize/index.html\r\n\r\nMore details on how to use finalsize can be found in the online documentation as package vignettes, under \u201cArticles\u201d: https://epiverse-trace.github.io/finalsize/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "https://github.com/epiverse-trace/finalsize/blob/main/LICENSE\r\nhttps://epiverse-trace.github.io/finalsize/LICENSE.html"
+        }
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "United Kingdom"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "N/A"
+    ],
+    "otherDeploymentOrganisations": [
+        "finalsize is relatively new and has not been formally implemented or scaled. However",
+        " it is already publicly available for everyone with the CRAN archive or the public GitHub repository."
+    ],
+    "awardsReceived": [
+        "No"
+    ],
+    "openStandards": [
+        "Epiverse-TRACE tools follow general open-source/standards principles. Our MIT License ensures that users can access",
+        " modify",
+        " and distribute the code freely. Additionally",
+        " our projects use use GitHub as our code  to manage source code and allows users to easily access the code",
+        " track changes",
+        " and collaborate on development.\r\n \r\nOur adherence to open standards/source are also demonstrated in our documentation",
+        " which provides information on install",
+        " use",
+        " and contribute to the project. We strive to make our documentation acessible and understandable to users of all skill levels.\r\n\r\nFinally",
+        " finalsize is maintained by an active community of users (Epiverse-TRACE) and contributors who provide feedback",
+        " support",
+        " and contribute to the project. This community helps to ensure the quality and sustainability of the project over time.\r\n"
+    ],
+    "bestPractices": [
+        "finalsize adheres to the Principles for Digital Development. \r\n\r\n1) It has been designed with the needs and perspectives of the end-users in mind. This can be achieved through user research",
+        " user testing",
+        " and feedback from the community.\r\n\r\n2) finalsize is designed in a way that integrates with existing tools and infrastructure",
+        " and does not create new silos or dependencies.\r\n\r\n3) finalsize designed with strong privacy and security measures in place",
+        " and should comply with relevant data protection regulations.\r\n\r\n4) finalsize is developed in a collaborative and transparent manner",
+        " with clear documentation and guidelines for contributors.\r\n\r\n5) It designed in a way that allows for easy reuse and modification",
+        " with clear licensing and documentation to support these efforts.\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "finalsize",
+            "website": "https://github.com/epiverse-trace/finalsize",
+            "org_type": "owner",
+            "contact_name": " Claudine Lim  ",
+            "contact_email": "claudine@data.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "finalsize only uses non personal, publicly available information and doesn't save or export any kind of user data or analytics.\r\n\r\nfinalsize only uses free and open source software and open data, strictly under the terms defined by their respective licenses",
+            "privacyComplianceURL": "https://cloud.r-project.org/web/packages/finalsize/LICENSE"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
