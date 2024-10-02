@@ -1,0 +1,272 @@
+{
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education",
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG10: Reduced Inequalities",
+            "SDG12: Responsible Consumption and Production"
+        ],
+        "relevance": "SDG4: OpenMandriva Lx is easy to use, and has successfully been used by children. It also has a number of educational packages for many different subjects as well as e-book readers, multimedia players, browsers etc. that can be used to access educational content, both at home and in school.\r\n\r\nSDG9: OpenMandriva Lx provides an innovative OS and related infrastructure that others can build on. By design, others in the industry can take OpenMandriva Lx, make modifications, and release their own product based on it.\r\n\r\nSDG10: By providing a completely free operating system that can run on old hardware (such as 15-years old computers that have been thrown out in a wealthy country/company) as well as cheap new hardware (such as ARM development boards), OpenMandriva Lx enables people who can not afford a brand new computer and a Microsoft or Apple license to get on equal (if not better) footing.\r\n\r\nSDG12: By supporting much lower end hardware than competing closed-source solutions, such as old computers or ARM boards, OpenMandriva Lx enables people to stick with the hardware they have for a long time, allowing responsible (lower) consumption and production compared to proprietary solutions that almost require their users to get a new computer every couple of years."
+    },
+    "sectors": [],
+    "stage": "DPG",
+    "openlicenses": [
+        {
+            "openLicense": "0BSD",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "APSL-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "Artistic-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "BSD-1-Clause",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "BSD-2-Clause",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "BSD-2-Clause-Patent",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "BSD-3-Clause",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "BSL-1.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-1.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-2.5",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-3.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-4.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-SA-1.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-SA-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-SA-2.5",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-SA-3.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CC0-1.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "CDDL-1.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "GPL-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "GPL-3.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "ISC",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "LGPL-2.1",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "LGPL-3.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "MIT-0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "PostgreSQL",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "Sleepycat",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "Unicode-DFS-2016",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "Unlicense",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "wxWindows",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "Zlib",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        },
+        {
+            "openLicense": "ZPL-2.0",
+            "openLicenseEvidenceURLs": "OpenMandriva packages a lot of 3rd party software, therefore a number of different licenses - all approved open licenses (with an exception for the separate, optional and discouraged \"non-free\" repository) - are used.\r\n\r\nOpenMandriva Lx's contributions to upstream projects are made under the same license as the upstream project's.\r\n\r\nOur own, unique developments are typically released under the GPL-2.0+, GPL-3.0 or the Apache-2.0 license (depending on which one is more suitable for the particular new project).\r\n\r\ne.g. https://github.com/OpenMandrivaSoftware/os-image-builder/blob/master/LICENSE\r\n"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "OpenMandriva Association",
+            "clearOwnershipURL": "https://wiki.openmandriva.org/en/policies/oma-tm-licence-en"
+        }
+    ],
+    "documentation": "https://wiki.openmandriva.org/en/distribution/install",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "* PKI https://github.com/OpenMandrivaAssociation/libpki\r\n* HTTPS https://github.com/OpenMandrivaAssociation/nginx https://github.com/OpenMandrivaAssociation/certbot\r\n* SSL https://github.com/OpenMandrivaAssociation/openssl https://github.com/OpenMandrivaAssociation/gnutls https://github.com/OpenMandrivaAssociation/mbedtls\r\n* SSH https://github.com/OpenMandrivaAssociation/openssh https://github.com/OpenMandrivaAssociation/dropbear\r\n* GPG https://github.com/OpenMandrivaAssociation/gnupg\r\n* RS256 https://github.com/OpenMandrivaAssociation/openssl https://github.com/OpenMandrivaAssociation/gnutls https://github.com/OpenMandrivaAssociation/mbedtls\r\n* HS256 https://github.com/OpenMandrivaAssociation/openssl https://github.com/OpenMandrivaAssociation/gnutls https://github.com/OpenMandrivaAssociation/mbedtls\r\n* AES https://github.com/OpenMandrivaAssociation/openssl https://github.com/OpenMandrivaAssociation/gnutls https://github.com/OpenMandrivaAssociation/mbedtls\r\n* ES256 https://github.com/OpenMandrivaAssociation/openssl https://github.com/OpenMandrivaAssociation/gnutls https://github.com/OpenMandrivaAssociation/mbedtls\r\n\r\n* UTF-8 https://github.com/OpenMandrivaAssociation/icu\r\n* ISO-8859-1 https://github.com/OpenMandrivaAssociation/icu\r\n* ASCII https://github.com/OpenMandrivaAssociation/icu\r\n\r\n* HTML https://github.com/OpenMandrivaAssociation/falkon https://github.com/OpenMandrivaAssociation/chromium-browser-stable https://github.com/OpenMandrivaAssociation/firefox\r\n* CSS https://github.com/OpenMandrivaAssociation/falkon https://github.com/OpenMandrivaAssociation/chromium-browser-stable https://github.com/OpenMandrivaAssociation/firefox\r\n* ECMAScript (ES 5/6/7) https://github.com/OpenMandrivaAssociation/falkon https://github.com/OpenMandrivaAssociation/chromium-browser-stable https://github.com/OpenMandrivaAssociation/firefox\r\n* Latex https://github.com/OpenMandrivaAssociation/texlive\r\n\r\n* PDF https://github.com/OpenMandrivaAssociation/poppler\r\n* SVG https://github.com/OpenMandrivaAssociation/qt6-qtsvg\r\n* PNG https://github.com/OpenMandrivaAssociation/libpng\r\n* JPEG https://github.com/OpenMandrivaAssociation/libjpeg-turbo\r\n* Ogg https://github.com/OpenMandrivaAssociation/libogg\r\n* FLAC https://github.com/OpenMandrivaAssocation/libflac\r\n"
+    ],
+    "bestPractices": [
+        "* Change management using version control https://github.com/OpenMandrivaAssociation https://github.com/OpenMandrivaSoftware\r\n* Modularity and Maintainability - split into thousands of different modules (packages)\r\n* Reusability and Extensibility - designed to be extended and modified with custom versions in mind",
+        " see e.g. https://github.com/OpenMandrivaSoftware/os-image-builder\r\n* Open Source - see previous section on licenses"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Brazil",
+            "Ecuador",
+            "France",
+            "Germany",
+            "Italy",
+            "Poland",
+            "Russia",
+            "Switzerland",
+            "Ukraine",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Brazil",
+            "Ecuador",
+            "France",
+            "Germany",
+            "Italy",
+            "Poland",
+            "Russia",
+            "Switzerland",
+            "Ukraine",
+            "United Kingdom",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Since we do not collect user data",
+        " we don't know for sure where OpenMandriva is being used."
+    ],
+    "otherDeploymentOrganisations": [
+        "Since we do not collect user data",
+        " we don't know for sure where OpenMandriva is being used."
+    ],
+    "awardsReceived": [
+        "A little longer ago",
+        " SourceForge Project of the Week\r\nhttps://sourceforge.net/blog/projects-week-february-10-2020/"
+    ],
+    "id": "11015",
+    "name": "OpenMandriva Lx",
+    "aliases": [
+        "OpenMandriva",
+        "OMLx"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "A user-friendly, free, fully open and spyware free, operating system focusing on desktop/laptop computers.",
+    "website": "https://openmandriva.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://openmandriva.org/,https://github.com/OpenMandrivaSoftware,https://github.com/OpenMandrivaAssociation"
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenMandriva Lx",
+            "website": "https://openmandriva.org/",
+            "org_type": "owner",
+            "contact_name": " Bernhard Rosenkr\u00e4nzer  ",
+            "contact_email": "bero@lindev.ch"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "GDPR",
+            "privacyComplianceURL": "As a privacy aware OS, we do not collect any user data."
+        }
+    ],
+    "deploymentOrganisations": ""
+}
