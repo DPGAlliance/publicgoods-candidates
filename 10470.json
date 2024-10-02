@@ -1,0 +1,153 @@
+	{
+    "id": "10470",
+    "name": "Janssen Project",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "A low-code digital identity platform for workforce, consumer and citizen identity platform based on open standards like OAuth, OpenID, FIDO and SCIM. ",
+    "website": "https://jans.io",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://jans.io"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "Governments are implementing digital identity to increase access to services using the Web and mobile applications. Effective registration, authentication and account recovery are critical identity journeys to rollout at scale. Both the public and private sector needs digital identity infrastrcture to effectively organize, and in fact to build the digital societies of the future."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/JanssenProject/jans/blob/main/LICENSE\r\n\r\nApache 2.0 is the preferred open source license of the Linux Foundation."
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Linux Foundation",
+            "clearOwnershipURL": "https://github.com/JanssenProject/jans/blob/main/docs/governance/charter.md\r\n\r\nThe \"Janssen Project\" name and logo are also Linux Foundation trademarks.\r\n"
+        }
+    ],
+    "documentation": "https://docs.jans.io is the official versioned documentation, although the Github repo itself (https://jans.io) has additional details. \r\n\r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "As an open source project, there is PII in the Github site, for example pull requests, discussions, and wikis all contain references to Github usernames. The Janssen Project software itself does not \"call home\" with an kind of data."
+    },
+    "openStandards": [
+        "Janssen Project has submitted its \"Certified OpenID Provider\" certification to the OpenID Foundation:. See the published results at: https://openid.net/certification/  Furthmore",
+        " the Janssen Project also passes the OpenID Provider self certification suite for the profiles: Financial-grade API (FAPI) 1.0",
+        " and FAPI Client Initiated Backchannel Authentication.\r\n\r\nThe software also implements several other standards",
+        " including SCIM",
+        " FIDO U2Fv2",
+        " FIDO 2.0",
+        " Kantara UMA 2.0 and many OAuth 2.0 RFCs.  \r\n\r\nThe Janssen Project authors a domain specific language (\"DSL\") called Agama",
+        " along with a related data standards for packaging an Agama projects into an archive file. Agama enables developers to quickly define a web-based identity journey.  The Janssen Project is evangelizing the use of Agama at other digital identity projects",
+        " to enable portability across implementations of OpenID Connect providers. \r\n\r\n"
+    ],
+    "bestPractices": [
+        "You can see our best practices here:\r\n\r\nhttps://bestpractices.coreinfrastructure.org/en/projects/4353\r\n\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Code of Conduct: \r\nhttps://github.com/JanssenProject/jans/blob/main/docs/CODE_OF_CONDUCT.md\r\n\r\nContributing Guide:\r\nhttps://github.com/JanssenProject/jans/blob/main/docs/CONTRIBUTING.md\r\n\r\nGithub Anti Bullying and Harassment Policy\r\nhttps://docs.github.com/en/site-policy/acceptable-use-policies/github-bullying-and-harassment"
+    },
+    "locations": {
+        "developmentCountries": [
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Argentina",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Belarus",
+            "Belgium",
+            "Bolivia",
+            "Botswana",
+            "Cameroon",
+            "Canada",
+            "Colombia",
+            "Dominican Republic",
+            "Egypt",
+            "Estonia",
+            "Finland",
+            "France",
+            "Germany",
+            "Hungary",
+            "India",
+            "Indonesia",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Japan",
+            "Kazakhstan",
+            "Latvia",
+            "Mexico",
+            "Netherlands",
+            "New Zealand",
+            "Palestine State",
+            "Philippines",
+            "Singapore",
+            "Scotland",
+            "Slovenia",
+            "Sri Lanka",
+            "Turkey",
+            "Ukraine",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States of America",
+            "Zimbabwe"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "USA",
+        " Canada",
+        " Montreal",
+        " Dubai",
+        " Nigeria",
+        " Singapore",
+        " UK"
+    ],
+    "otherDeploymentOrganisations": [
+        "NEC",
+        " Idemia and Sensedia use the Janssen Project as the OpenID Provider for one or more of their products."
+    ],
+    "awardsReceived": [
+        "No"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Janssen Project",
+            "website": "https://jans.io",
+            "org_type": "owner",
+            "contact_name": " Michael Schwartz  ",
+            "contact_email": "mike@gluu.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The project itself is just publishing software source code, binaries and using Github to faciliate collaboration with developers and the community. ",
+            "privacyComplianceURL": "You can see all the Janssen goverance docs here: https://github.com/JanssenProject/jans/tree/main/docs/governance\r\n\r\nAlso, Github itself is publishes it's privacy policies here:\r\nhttps://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement\r\n "
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
