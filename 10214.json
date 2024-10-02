@@ -1,0 +1,147 @@
+	{
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-SA-4.0",
+            "openLicenseEvidenceURLs": "https://notesmaster.com/termsofuse"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Notesmaster Caribbean",
+            "clearOwnershipURL": "https://notesmaster.com/termsofuse"
+        }
+    ],
+    "documentation": "System requirements - https://notesmaster.com/systemrequirements,Open Access - https://notesmaster.com/open-access",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Non-PII data/content can be exported into the following open formats - JSON, XML & CSV"
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "First Name",
+            "Surname",
+            "Email address",
+            "School or Institution of Learning",
+            "Country of teaching or learning"
+        ],
+        "dataPrivacySecurity": " Equity of Access Risk: high data costs restrict access to the notesmaster platform and in particular the video lessons for poorer learners. Mitigation: Notesmaster operates as a zero-rated platform in Malawi giving free access to all stakeholders, which makes the digital lessons programs under way in partnership with the MOE Malawi as part of their World Bank funded EQUALS project, open to all stakeholders. The same process is being adopted in Zambia with MTN and discussions are underway in the Caribbean. To enable this approach, content is hosted locally and not always with AWS Virginia or Oregon. \r\n Risk: Accuracy of content and adherence to local best practice in authoring digital lessons. Mitigation: Our project works closely with Ministries of Education in the Caribbean, Africa and the Pacific to identify challenges in covering their local curriculum accurately and in keeping it up to date The project  identifies a mixture of highly skilled and lo skilled teachers and trains them in how to use the platform and sponsored software such as H5P, Pixton, Wordwall and Vyond to create interactive lessons. A train the trainer approach is adopted to ensure skills can be cascaded down to the classrooms by program participants and workshop attendees. Risk: Sustainability of the content and adaptability to updated curricula. Mitigation: As demonstrated in the video above, the Notesmaster platform has developed an online peer review system that allows all stakeholders to contribute to a sustainable multiplier effect, leading to growing number of digital resources. These digital lessons can be copied and reversioned, then submitted for peer review by the local community. \r\n Risk: Impersonation of Teachers by students. Mitigation: The platform is designed in such away that persons impersonating teachers can do little harm. They are not able to achieve a position of influence over their peers through impersonation. The respective Ministries of Education have a roster of curriculum officers who regularly access the platform and respond to challenges or flag unruly language or behaviour. They are supported by the Notesmaster support team whose task is to ensure the smooth running of the platform. Security of your personal information: We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. \r\nYou acknowledge that the transmission of information over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.\r\n You are responsible for keeping your password and other login details confidential. We will not ask you for your password (except when you log in to the website)."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "This project supports the creation of primary",
+            " junior secondary and senior secondary digital lessons",
+            " all authored by local teachers as part of a program with the respective Ministry of Education. The lessons are authored as OER under CC-BY-SA. To do this the project stores videos",
+            " images",
+            " word documents",
+            " PowerPoint presentations and audio files uploaded by its community for use in creating the lessons."
+        ],
+        "contentManagementPolicy": "The type of permitted content is shown in the Terms of Use: please see the link:https://notesmaster.com/termsofuse In keeping with the terms of use, Notesmaster moderators and Class Editors respond to any complaints relating to cyber bullying, plagiarism and offensive content through the info@notesmaster.com email, within 24 hrs."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The project does not facilitate any private or \u2018secretive\u2019 interaction between young users and contributors. There is no email system or follow system or private messaging system when contributors may privately contact younger users. Post areas are public in the group and the class, with all posts visible by the whole community. There is no option to send a \u2018private\u2019 post to any user.,In addition to the deliberate restriction on user interaction, the platform operates a flagging system on any post, with any user able to flag a post if the deem it inappropriate. Any complaints made to the info@notesmaster.com email are dealt with in strictest confidence and treated with the utmost seriousness. The project has worked to develop a series of projects on safe browsing, the most recent being support of UNICEF\u2019s Gender Based Violence initiative in the Caribbean. Information on safe browsing is found in the Fun and Safe Online (FASO) group created on Notesmaster which has close to 5000 members and contains detailed information, games and support materials. The FASO group formed part of a national training program in Trinidad and Tobago aimed at raising awareness on safe browsing and is now open to users across all borders.,Users are able to conceal their names and appear anonymous on the platform."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Jamaica",
+            "United Kingdom"
+        ],
+        "deploymentCountries": [
+            "Antigua and Barbuda",
+            "Barbados",
+            "Belize",
+            "Botswana",
+            "Canada",
+            "Dominica",
+            "Grenada",
+            "Guyana",
+            "Jamaica",
+            "Malawi",
+            "Mozambique",
+            "Namibia",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "Vanuatu",
+            "Zambia"
+        ]
+    },
+    "openStandards": [
+        "W3C Accessibility Standards",
+        "WCAG 2.1 standards NotesMaster is adherent to the the Federal Children\u2019s Online Privacy Protection Act of 1998 (\u201cCOPPA\u201d) in the United States and the European Union\u2019s General Data Protection Regulation (GDPR) of 2018: https://notesmaster.com/termsofuse Open access to content",
+        "Tools that support quick adaptability of content. The Notesmaster platform allows you to sign-up",
+        " create a class with the curriculum from your country and then visit Ministry of Education Programs which makes available their content in online classes. You can join the class",
+        " copy the content",
+        " edit it and then share it to your own class syllabus. A picture paints a thousand words",
+        " so please see this video demonstration: https://screencast-o-matic.com/watch/criu32ViKav"
+    ],
+    "bestPractices": [
+        "The Notesmaster team uses an Agile approach for the development of the Notesmaster platform.\r\nWe use Jira by Atlassian to manage our development flows in its Kanban board feature. We also use it to keep track of the stages in the development of DPG learning resources in partnership with various Ministries of Education.\r\nhttps://www.atlassian.com/software/jira \r\n\r\nThe Notesmaster platform and its content are hosted by AWS with instances in West Virginia backed up by AWS instances in Ireland."
+    ],
+    "id": "10214",
+    "name": "NotesMaster",
+    "aliases": [
+        "Notesmaster Elearning"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "NoteMaster provides training and support to use the NotesMaster elearning platform, which is preconfigured with local curricula, so the trained teachers can create digital lessons online in Notesmaster, for students to then access. The lessons can be accessed and remixed by teachers from any other country to suit their local curricula. These lessons are then submitted to a peer review system which leads to a sustainable multiplier effect in the development of new digital lessons.",
+    "website": "https://notesmaster.com/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "This is an open content solution, not an Open Software Solution"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.,\r\n \r\nIn the OER content programs NotesMaster manages for the Commonwealth of Learning we use the Common Wealth of Learning Gender Mainstreaming Toolkit for Teachers and Teacher Educators as well as the Checklist for the Development of Gender-Responsive Learning Materials to ensure that gender equality is met in all subjects developed.,\r\n \r\nNotesMaster is an online education innovation in that it allows content to be created by local teachers, that is based around the local curriculum. The NotesMaster Library allows the content from all 31 countries to be easily accessed, used or remixed to suit local customs. The library also supports access in other popular learning platforms such as Edmodo, and Google Classroom.,\r\n \r\nThrough free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the \u2018at risk\u2019 youth population (16-30 age group) in 9 regional territories of the Caribbean.,\r\n \r\nThrough its partnership with the Namibian College of Open Learning, NotesMaster was pleased to be awarded a WSA for best societal impact for its digital resources. This program led to improved outcomes for communities in Namibia and for second chance learners aged 14-21.,\r\n \r\nThrough a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements."
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.,\r\n \r\nIn the OER content programs NotesMaster manages for the Commonwealth of Learning we use the Common Wealth of Learning Gender Mainstreaming Toolkit for Teachers and Teacher Educators as well as the Checklist for the Development of Gender-Responsive Learning Materials to ensure that gender equality is met in all subjects developed.,\r\n \r\nNotesMaster is an online education innovation in that it allows content to be created by local teachers, that is based around the local curriculum. The NotesMaster Library allows the content from all 31 countries to be easily accessed, used or remixed to suit local customs. The library also supports access in other popular learning platforms such as Edmodo, and Google Classroom.,\r\n \r\nThrough free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the \u2018at risk\u2019 youth population (16-30 age group) in 9 regional territories of the Caribbean.,\r\n \r\nThrough its partnership with the Namibian College of Open Learning, NotesMaster was pleased to be awarded a WSA for best societal impact for its digital resources. This program led to improved outcomes for communities in Namibia and for second chance learners aged 14-21.,\r\n \r\nThrough a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements."
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.,\r\n \r\nIn the OER content programs NotesMaster manages for the Commonwealth of Learning we use the Common Wealth of Learning Gender Mainstreaming Toolkit for Teachers and Teacher Educators as well as the Checklist for the Development of Gender-Responsive Learning Materials to ensure that gender equality is met in all subjects developed.,\r\n \r\nNotesMaster is an online education innovation in that it allows content to be created by local teachers, that is based around the local curriculum. The NotesMaster Library allows the content from all 31 countries to be easily accessed, used or remixed to suit local customs. The library also supports access in other popular learning platforms such as Edmodo, and Google Classroom.,\r\n \r\nThrough free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the \u2018at risk\u2019 youth population (16-30 age group) in 9 regional territories of the Caribbean.,\r\n \r\nThrough its partnership with the Namibian College of Open Learning, NotesMaster was pleased to be awarded a WSA for best societal impact for its digital resources. This program led to improved outcomes for communities in Namibia and for second chance learners aged 14-21.,\r\n \r\nThrough a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements."
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.,\r\n \r\nIn the OER content programs NotesMaster manages for the Commonwealth of Learning we use the Common Wealth of Learning Gender Mainstreaming Toolkit for Teachers and Teacher Educators as well as the Checklist for the Development of Gender-Responsive Learning Materials to ensure that gender equality is met in all subjects developed.,\r\n \r\nNotesMaster is an online education innovation in that it allows content to be created by local teachers, that is based around the local curriculum. The NotesMaster Library allows the content from all 31 countries to be easily accessed, used or remixed to suit local customs. The library also supports access in other popular learning platforms such as Edmodo, and Google Classroom.,\r\n \r\nThrough free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the \u2018at risk\u2019 youth population (16-30 age group) in 9 regional territories of the Caribbean.,\r\n \r\nThrough its partnership with the Namibian College of Open Learning, NotesMaster was pleased to be awarded a WSA for best societal impact for its digital resources. This program led to improved outcomes for communities in Namibia and for second chance learners aged 14-21.,\r\n \r\nThrough a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements."
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "As a freely accessible elearning platform, NotesMaster provides access to quality lessons in 31 countries, authored by local teachers and based around the local curriculum. The digital content authored on Notesmaster is published under Creative Commons Licenses CC BY SA 4.0 and can be copied and repurposed by all education stakeholders. The OER content can be remixed and easily shared to support diverse curricula. All content on Notesmaster is a digital public good and can be used on the platform or downloaded to MS Word and used away from the platform. It can also be accessed without login for use in other learning platforms. The recent UNICEF-NotesMaster program in Trinidad and Tobago has produced OER content that is being used and reversioned by participants of similar OER programs in Dominica, Grenada, Zambia, Namibia and Malawi.,\r\n \r\nIn the OER content programs NotesMaster manages for the Commonwealth of Learning we use the Common Wealth of Learning Gender Mainstreaming Toolkit for Teachers and Teacher Educators as well as the Checklist for the Development of Gender-Responsive Learning Materials to ensure that gender equality is met in all subjects developed.,\r\n \r\nNotesMaster is an online education innovation in that it allows content to be created by local teachers, that is based around the local curriculum. The NotesMaster Library allows the content from all 31 countries to be easily accessed, used or remixed to suit local customs. The library also supports access in other popular learning platforms such as Edmodo, and Google Classroom.,\r\n \r\nThrough free and open access to quality education resources for formal learners and also second chance learners. Notesmaster collaborated with its partner the Caribbean Examinations Council to implement the '2nd Chance Program' to the \u2018at risk\u2019 youth population (16-30 age group) in 9 regional territories of the Caribbean.,\r\n \r\nThrough its partnership with the Namibian College of Open Learning, NotesMaster was pleased to be awarded a WSA for best societal impact for its digital resources. This program led to improved outcomes for communities in Namibia and for second chance learners aged 14-21.,\r\n \r\nThrough a collaboration with Commonwealth of Learning, Ministry of Education Zambia, and local teachers, education officers and other partners, NotesMaster successfully piloted eLearning technologies in Muchinga Province, Zambia which in its first year saw an 11% increase (37% to 49%) in pass rates for secondary level exams. Muchinga province moved from 11th (last) on the results charts to 7th. The program is being scaled up in 2021-2022. The link shows the news coverage of the program, with the Provincial Education Officer, praising the achievements."
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "NotesMaster",
+            "website": "https://notesmaster.com/",
+            "org_type": "owner",
+            "contact_name": " Mr. Damon Clarke  ",
+            "contact_email": "dclarke@notesmaster.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Federal Children\u2019s Online Privacy Protection Act of 1998,U.S. Family Educational Rights and Privacy Act https://notesmaster.com/privacy",
+            "privacyComplianceURL": "Here are the following links:\r\nPrivacy Policy: https://notesmaster.com/privacy\r\n\r\nTerms of Use: https://notesmaster.com/termsofuse\r\n\r\nOpen Access: https://notesmaster.com/open-access\r\n\r\nNotesmaster System Requirements: https://notesmaster.com/systemrequirements\r\n"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
