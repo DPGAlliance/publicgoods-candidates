@@ -1,0 +1,105 @@
+	{
+    "id": "10892",
+    "name": "Interfacer",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Data",
+        "Open Software"
+    ],
+    "description": "Innovative federated open source platform for sharing and collaborating on Open Source Hardware projects. Find and share open source hardware projects, collaborate with others and discover new products and services. Import your projects to allow access to the community and grow your reputation.",
+    "website": "https://interfacer.dyne.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://interfacer.dyne.org/"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "SDG11: Sustainable Cities and Communities",
+            "SDG12: Responsible Consumption and Production",
+            "SDG13: Climate Action",
+            "SDG17: Partnerships for the Goals"
+        ],
+        "relevance": "SDG 11 - Sustainable Cities and Communities: The project's emphasis on the Interfacer model and the re-localization of production to urban areas corresponds with SDG 11's objective of creating inclusive, safe, resilient, and sustainable cities. By enabling communities to collaboratively produce goods and services, the solution actively contributes to sustainable urban development.\r\n\r\nSDG 9 - Industry, Innovation, and Infrastructure: The adoption of the Interfacer approach and the development of necessary digital infrastructure underscore the significance of innovation and technological advancement in driving circular economies. Through the promotion of open-source practices and global data sharing, the solution supports the advancement of industries and infrastructure in a sustainable manner.\r\n\r\nSDG 12 - Responsible Consumption and Production: The project's core aim of empowering communities to produce what they consume aligns seamlessly with SDG 12's target of ensuring responsible consumption and production patterns. By advocating for collaborative development and shared data, the solution contributes to minimizing waste and promoting sustainable resource management.\r\n\r\nSDG 13 - Climate Action: The focus on establishing regenerative urban models and promoting environmentally conscious production methods resonates with SDG 13's mission to combat climate change and its impacts. By endorsing sustainable practices and localized production, the solution plays a role in climate mitigation efforts.\r\n\r\nSDG 17 - Partnerships for the Goals: The project's collaborative approach in creating the Interfacer model and facilitating global data sharing aligns harmoniously with SDG 17's emphasis on forging partnerships and global cooperation. Through its encouragement of collaboration among communities, governments, and stakeholders, the solution strives to achieve shared sustainability objectives.\r\n\r\nIn summary, the Interfacer team's solution, centered around the Interfacer model, establishes a robust relationship with several key SDGs by addressing urban sustainability, innovation, responsible consumption and production, climate action, and the fostering of partnerships."
+    },
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "All the components used in the platform are in this github organization:\r\n\r\nhttps://github.com/interfacerproject/"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Dyne.org Foundation",
+            "clearOwnershipURL": "Please see here: https://github.com/interfacerproject/zenflows/blob/master/CONTRIBUTING.md"
+        }
+    ],
+    "documentation": "https://interfacerproject.github.io/interfacer-docs/#/",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "PKI\r\nHTTPS\r\nSSL\r\nSSH\r\nGPG\r\nHS256\r\nAES\r\nES256\r\n\r\nJWT (JSON Web Tokens)\r\n\r\nHTML\r\nCSS\r\nECMAScript (ES 5/6/7)\r\n\r\n\r\nOpenAPI\r\nGraphQL\r\n\r\nJSON\r\nYAML\r\n\r\nPNG (Portable Network Graphics)\r\nJPEG (Joint Photographic Experts Group)\r\n"
+    ],
+    "bestPractices": [
+        "We use privacy by design",
+        " all the transactions are cryptographically proven using signature algorithms widely accepted by the web community.  \r\n\r\nAlso:\r\n\r\nUser stories\r\nChange management using version control\r\nTest driven development using automated tests\r\nContinous Integration & Continous Deployment (CI/CD)\r\nCode review\r\nCode refactoring\r\nRapid application development\r\nAgile development\r\n12 Principles Behind Agile Manifesto\r\nThe Twelve Factor App\r\n\r\nArchitectural Principles\r\nModularity and Maintainability\r\nReusability and Extensibility\r\nAccountability & Non-repudiability\r\nSecurity & Consented Access\r\nUniversal Access & Open APIs\r\nMicroservices architecture\r\n\r\nMultitier architecture\r\nModel\u2013view\u2013controller\r\nRepresentational state transfer (REST)\r\nClient-server (multitier architecture exhibits this style)\r\nService-oriented\r\nComponent-based\r\nAsynchronous messaging\r\n\r\nHuman Centered Design Principles\r\nMaterial design\r\n\r\nPSR-12: Extended Coding Style\r\n\r\nEnable resource access authorization i.e. access control rights/ permissions\r\nLeverage IT auditing\r\nProtect data at rest (data encryption",
+        " using a firewall",
+        " antivirus protection",
+        " schedule backups)\r\nProtect data in transit (encrypt data in transit using TLS/SSL",
+        " authenticate data integrity using TLS/SSL",
+        " use X.509 certificates to authenticate the remote end)\r\n\r\n\r\n\r\n\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Email address"
+        ],
+        "dataPrivacySecurity": "We use cryptography heavily in our solution: apart from SSL, each user interaction from the web front-end results in a GraphQL query, that is signed with private keys stored ONLY in the browser storage (and not on the server). They private keys are generated determininistically based on challenges, the answers are never stored on the servers. The flow is document here: https://github.com/interfacerproject/zenflows-crypto "
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The users can not message each other directly, interaction between users happens only when users collaborate on projects - which occurs in a similar way to doing a pull request on github or including someone else's open source project as a \"submodule\". \r\n\r\nIn case of harassment/violence, the platform maintainer can be notified and remove the content."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Netherlands"
+        ],
+        "deploymentCountries": [
+            "Netherlands"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Interfacer",
+            "website": "https://interfacer.dyne.org/",
+            "org_type": "owner",
+            "contact_name": " Andrea D'Intino  ",
+            "contact_email": "andrea@dyne.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Compliant to GDPR",
+            "privacyComplianceURL": "The only personal info collected is the email, which can be deleted by the user"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
