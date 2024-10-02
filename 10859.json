@@ -1,0 +1,112 @@
+	{
+    "id": "10859",
+    "name": "Indonesian Phoneme Recognizer",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open AI Model"
+    ],
+    "description": "Indonesian speech/phoneme recognizer powered by Kaldi 2.0 (lhotse, icefall, sherpa).",
+    "website": "https://github.com/bookbot-hive/k2-indonesian-asr, https://bookbot-hive.github.io/k2-indonesian-asr/, https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id, https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id, https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG4: Quality Education"
+        ],
+        "relevance": "The main purpose of developing our Indonesian phoneme recognizer is to create an automated recognizer that could accurately transcribe phonemes of Indonesian children's speech as they learn to read. Children would read books aloud, get their speech transcribed, and obtain real-time feedback on their pronunciation. This is one core component of the development of our larger solution, Bookbot, which aims to teach literacy to Indonesian children in a fun, engaging, and self-learning fashion. One of our goals is to provide equal quality education, specifically on literacy, to all Indonesian children regardless of where and who they are -- all in a mobile app that runs offline and in real-time."
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "PT BOOKBOT INDONESIA",
+            "clearOwnershipURL": "All of our open models live on Bookbot's HuggingFace organization page, which has a verified ownership status here https://huggingface.co/bookbot. Likewise, in the license of our models, we have clearly stated ownership, e.g. here https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id/blob/main/LICENSE.txt#L189. We have also documented our model's usage in a web documentation which lives in Bookbot's GitHub pages web https://bookbot-hive.github.io/k2-indonesian-asr/. We have listed out our complete contact details on our GitHub organization page https://github.com/bookbot-kids, https://github.com/bookbot-hive"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Indonesia"
+        ],
+        "deploymentCountries": [
+            "Indonesia"
+        ]
+    },
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/bookbot-hive/k2-indonesian-asr/blob/main/LICENSE\r\nhttps://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id/blob/main/LICENSE.txt\r\nhttps://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id/blob/main/LICENSE.txt\r\nhttps://huggingface.co/bookbot/sherpa-onnx-pruned-transducer-stateless7-streaming-id/blob/main/LICENSE.txt"
+        }
+    ],
+    "documentation": "Usage & installation: https://bookbot-hive.github.io/k2-indonesian-asr/\r\nIndividual model cards: https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id, https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id, https://huggingface.co/bookbot/sherpa-onnx-pruned-transducer-stateless7-streaming-id",
+    "openStandards": [
+        "To allow for multi-platform adoption of our open AI model",
+        " we did not only distribute the original PyTorch weights (which are loadable in any PyTorch environment",
+        " regardless of operating system and compute resource)",
+        " but also released our pre-trained model weights in both ONNX (Open Neural Network Exchange) and NCNN formats. Both of these formats allow inference (serving",
+        " deployment) of our model in various devices",
+        " including mobile platforms (iOS and Android) as well as embedded devices. ONNX in particular",
+        " is a widely adopted model format for serving in different platforms. \r\n\r\nLink to PyTorch model: https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id\r\nLink to ONNX model: https://huggingface.co/bookbot/sherpa-onnx-pruned-transducer-stateless7-streaming-id\r\nLink to NCNN model: https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id"
+    ],
+    "bestPractices": [
+        "In all of our model documentation",
+        " we followed the suggested usage of Model Cards for Model Reporting (Mitchell et al.",
+        " 2019) and provided details to our models such as the training steps",
+        " model usage",
+        " evaluation procedures & results",
+        " training data",
+        " compute resources required",
+        " etc. One example can be found here: https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id. This model card clearly states the type of license allowed",
+        " as well as clear indications that we only use open datasets in training our models. Further",
+        " we have properly attributed the usage of these open datasets",
+        " citing them where necessary. Namely",
+        " we used Common Voice and LibriVox which are released under Public Domain",
+        " CC-0",
+        " and FLEURS which is licensed under the Creative Commons license (CC-BY). We made this explicit in multiple documentation pages",
+        " such as this: https://github.com/bookbot-hive/k2-indonesian-asr#license"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Indonesian Phoneme Recognizer",
+            "website": "https://github.com/bookbot-hive/k2-indonesian-asr, https://bookbot-hive.github.io/k2-indonesian-asr/, https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id, https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id",
+            "org_type": "owner",
+            "contact_name": " Wilson Wongso  ",
+            "contact_email": "wilson@bookbotkids.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Our Indonesian phoneme recognizer which we have open-sourced did not use nor collect any private data. Instead, we relied on open-source data such as Common Voice, LibriVox, and FLEURS. Common Voice, the largest subset of our training data, is a registered DPG and adheres to GDPR as stated here https://digitalpublicgoods.net/registry/mozilla-common-voice-dataset.html. Bookbot Indonesia as an organization adheres to Indonesia's PDP law for data privacy.",
+            "privacyComplianceURL": "Privacy policy (in Indonesian): https://www.bookbot.id/kebijakan-pribadi"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
