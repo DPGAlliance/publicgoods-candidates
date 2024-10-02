@@ -1,0 +1,110 @@
+	{
+    "id": "10226",
+    "name": "OpenHexa",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        ""
+    ],
+    "description": "An open-source data integration platform for public health projects.",
+    "website": "https://www.bluesquarehub.com/openhexa/",
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "Our data integration platform is focused on public health and has been designed to help data scientists and data analysts integrate and analyze a wide range of health data. Its goal is to strengthen public health programmes, such as improving Improving national surveillance systems for infectious diseases."
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/BLSQ/openhexa,https://github.com/BLSQ/openhexa-app,https://github.com/BLSQ/openhexa-frontend,https://github.com/BLSQ/openhexa-notebooks,https://github.com/BLSQ/openhexa-pipelines"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Bluesquare SA",
+            "clearOwnershipURL": "https://www.bluesquarehub.com/openhexa/"
+        }
+    ],
+    "documentation": "https://github.com/BLSQ/openhexa/blob/main/README.md,https://www.bluesquarehub.com/openhexa/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "The data collected by the platform is stored in a PostgreSQL database and can easily be exported in CSV format"
+    },
+    "openStandards": [
+        "HTML",
+        "CSS",
+        "GraphQL",
+        "Geotif",
+        "Geo(JSON)",
+        "CSV https://github.com/BLSQ/openhexa-app Test-driven development",
+        "Agile development",
+        "Principles for Digital Development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Users typically bring their own data to the platform",
+            " which may include PII."
+        ],
+        "dataPrivacySecurity": " Moderation and respect of code of conducts are handled in-person trough regular meetings with our partners that use the platform. Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Belgium",
+            "Senegal"
+        ],
+        "deploymentCountries": [
+            "Togo",
+            "Senegal",
+            "Rwanda",
+            "Niger",
+            "Morocco",
+            "Mali",
+            "Democratic Republic of the Congo",
+            "Burkina Faso",
+            "C\u00f4te d'Ivoire",
+            "Cameroon"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenHexa",
+            "website": "https://www.bluesquarehub.com/openhexa/",
+            "org_type": "owner",
+            "contact_name": " Nicolas De Borman  ",
+            "contact_email": "ndeborman@bluesquarehub.com"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "General Data Protection Regulation (GDPR) Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
