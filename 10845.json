@@ -1,0 +1,121 @@
+	{
+    "id": "10845",
+    "name": "OpenELIS Global",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "OpenELIS Global is open enterprise-level laboratory information system software tailored for public health laboratories. OpenELIS is used at a national scale in a variety of settings, from small general hospital labs, all the way up to national reference labs, and all sizes in between. ",
+    "website": "https://openelis-global.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/I-TECH-UW/OpenELIS-Global-2"
+        }
+    ],
+    "sdgs": {
+        "sdg": [
+            "SDG3: Good Health and Well-Being"
+        ],
+        "relevance": "Thousands of users use OpenELIS daily to make their laboratory jobs easier by automating work plans, importing results from clinical analyzers, and supporting complex workflows like pathology and cytology, reducing turnaround times, and increasing result accuracy for better patient care.\r\n\r\nOpenELIS Global meets all relevant ISO and SLIPTA requirements for the accreditation of labs. "
+    },
+    "openlicenses": [
+        {
+            "openLicense": "MPL-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/I-TECH-UW/OpenELIS-Global-2/blob/develop/LICENSE.md"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "The University of Washington (steward)",
+            "clearOwnershipURL": "https://www.go2itech.org/digital-initiatives-group-at-i-tech/openelis-global/"
+        }
+    ],
+    "documentation": "There are quite a few source of docs with this being our main documentation. \r\nhttps://docs.openelis-global.org/en/latest/\r\nSome video tutorials (more once the new UI is finalized).\r\nvideo.openelis-global.org\r\nDeveloper focused details\r\nhttps://github.com/I-TECH-UW/OpenELIS-Global-2/wiki\r\nInteroperability setups and overall HIE setup\r\nhttp://healthinformationexchange.org/",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "We use a FHIR R4 API primarily, to connect with national health data repositories, to other systems (like electronic medical records systems), we also support csv exports. "
+    },
+    "openStandards": [
+        "We use OpenHIE patterns for interactions",
+        " and help to validate and create new ones as needed. \r\nWe use a FHIR R4 API to allow for interactions with many systems: https://fhir.openelis-global.org/"
+    ],
+    "bestPractices": [
+        "We use the ICT4D Principals for digital development",
+        " we use an agile methodology",
+        " version control (using github)",
+        " and have a CI workflow (https://github.com/I-TECH-UW/OpenELIS-Global-2/actions/workflows/ci.yml)  which also runs a suite of automated testing. \r\n\r\n"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "PII associated with lab orders and results",
+            " name",
+            " dob",
+            " national ID number",
+            " medical information",
+            " diagnoses",
+            " etc. "
+        ],
+        "dataPrivacySecurity": "OpenELIS is a web-based application, which means that it is accessible over a network or internet connection, depending on how it is set up. This makes it a potential target for cyberattacks.\r\nTo protect against cyberattacks, OpenELIS follows rigorous security measures to protect information systems from unauthorized access, use, disclosure, disruption, modification, or destruction.\r\nOpenELIS follows security best practices by implementing a number of security measures, including:\r\n Physical security: OpenELIS systems are encouraged to be housed in secure facilities that are protected from unauthorized access.\r\n Access control: Users must be authenticated before they are allowed to access OpenELIS systems.\r\n Data encryption: All sensitive data is encrypted to protect it from unauthorized access.\r\n Vulnerability scanning: OpenELIS systems are regularly scanned for vulnerabilities to identify and fix security weaknesses.\r\n Incident response: OpenELIS has a plan in place to respond to security incidents.\r\nBy following strict security guidelines and protocols, OpenELIS helps to protect patient data from unauthorized access, use, disclosure, disruption, modification, or destruction.\r\nIn addition to following these guidelines, OpenELIS also takes a number of other steps to protect patient data, including:\r\nEducating implementers about cybersecurity: OpenELIS offers training on how to identify and avoid cybersecurity threats.\r\nMonitoring system activity: OpenELIS monitors system activity for signs of suspicious activity.\r\nKeeping software up to date: OpenELIS software is regularly updated to fix security vulnerabilities.\r\nBy taking these steps, OpenELIS helps to ensure that patient data is protected from unauthorized access, use, disclosure, disruption, modification, or destruction."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "C\u00f4te d",
+            "Canada",
+            "Uganda",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Bangladesh",
+            "C\u00f4te d",
+            "Haiti",
+            "Mauritius",
+            "Vietnam"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministries of health in all the above countries are deploying the solution",
+        " and are the ones in charge. "
+    ],
+    "otherDeploymentOrganisations": [
+        "There are many who use OpenELIS as part of the Banhmi system as well. "
+    ],
+    "awardsReceived": [
+        "UNDP Digital X program",
+        " Digital Square Global Good"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "OpenELIS Global",
+            "website": "https://openelis-global.org/",
+            "org_type": "owner",
+            "contact_name": " Casey Iiams-Hauser  ",
+            "contact_email": "caseyi@uw.edu"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Most of these deal with how the solution is deployed, but OpenELIS can be deployed in very secure scenarios. ",
+            "privacyComplianceURL": "We have partnered with the CDC to make it possible to deploy OpenELIS on US embassy networks, which put it through a very secure process."
+        }
+    ],
+    "aliases": ""
+}
