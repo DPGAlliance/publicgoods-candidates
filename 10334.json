@@ -1,0 +1,136 @@
+	{
+    "sdgs": [
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "2: Support precision agriculture in Africa by providing youth with relevant skillsets.\r\n\r\n3: Strengthen last-mile heath supply chains by providing relevant skillsets to pilot medical cargo drones. \r\n\r\n4: Skilling youth in UAS applications. The educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy accessible to all.\r\n\r\n8: Providing relevant skills and certificate training relevant to the job market. The course imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities. \r\n\r\n11: Use of drones for urban planning. This course fosters innovation in data use for the public good and building community resilience.\r\n\r\n13: The course introduces knowledge and skills necessary to use existing geospatial data to map and communicate climate change impacts and promote action.\r\n\r\n\r\n\r\n"
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "2: Support precision agriculture in Africa by providing youth with relevant skillsets.\r\n\r\n3: Strengthen last-mile heath supply chains by providing relevant skillsets to pilot medical cargo drones. \r\n\r\n4: Skilling youth in UAS applications. The educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy accessible to all.\r\n\r\n8: Providing relevant skills and certificate training relevant to the job market. The course imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities. \r\n\r\n11: Use of drones for urban planning. This course fosters innovation in data use for the public good and building community resilience.\r\n\r\n13: The course introduces knowledge and skills necessary to use existing geospatial data to map and communicate climate change impacts and promote action.\r\n\r\n\r\n\r\n"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "2: Support precision agriculture in Africa by providing youth with relevant skillsets.\r\n\r\n3: Strengthen last-mile heath supply chains by providing relevant skillsets to pilot medical cargo drones. \r\n\r\n4: Skilling youth in UAS applications. The educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy accessible to all.\r\n\r\n8: Providing relevant skills and certificate training relevant to the job market. The course imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities. \r\n\r\n11: Use of drones for urban planning. This course fosters innovation in data use for the public good and building community resilience.\r\n\r\n13: The course introduces knowledge and skills necessary to use existing geospatial data to map and communicate climate change impacts and promote action.\r\n\r\n\r\n\r\n"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "2: Support precision agriculture in Africa by providing youth with relevant skillsets.\r\n\r\n3: Strengthen last-mile heath supply chains by providing relevant skillsets to pilot medical cargo drones. \r\n\r\n4: Skilling youth in UAS applications. The educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy accessible to all.\r\n\r\n8: Providing relevant skills and certificate training relevant to the job market. The course imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities. \r\n\r\n11: Use of drones for urban planning. This course fosters innovation in data use for the public good and building community resilience.\r\n\r\n13: The course introduces knowledge and skills necessary to use existing geospatial data to map and communicate climate change impacts and promote action.\r\n\r\n\r\n\r\n"
+        },
+        {
+            "sdg": "SDG11: Sustainable Cities and Communities",
+            "relevance": "2: Support precision agriculture in Africa by providing youth with relevant skillsets.\r\n\r\n3: Strengthen last-mile heath supply chains by providing relevant skillsets to pilot medical cargo drones. \r\n\r\n4: Skilling youth in UAS applications. The educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy accessible to all.\r\n\r\n8: Providing relevant skills and certificate training relevant to the job market. The course imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities. \r\n\r\n11: Use of drones for urban planning. This course fosters innovation in data use for the public good and building community resilience.\r\n\r\n13: The course introduces knowledge and skills necessary to use existing geospatial data to map and communicate climate change impacts and promote action.\r\n\r\n\r\n\r\n"
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "2: Support precision agriculture in Africa by providing youth with relevant skillsets.\r\n\r\n3: Strengthen last-mile heath supply chains by providing relevant skillsets to pilot medical cargo drones. \r\n\r\n4: Skilling youth in UAS applications. The educational content on turning data into maps, elements of cartography, quality control, map critique, and promotion of data literacy accessible to all.\r\n\r\n8: Providing relevant skills and certificate training relevant to the job market. The course imparts knowledge and skills in geospatial technologies, remote sensing, and other highly employable skills to improve job opportunities. \r\n\r\n11: Use of drones for urban planning. This course fosters innovation in data use for the public good and building community resilience.\r\n\r\n13: The course introduces knowledge and skills necessary to use existing geospatial data to map and communicate climate change impacts and promote action.\r\n\r\n\r\n\r\n"
+        }
+    ],
+    "sectors": [],
+    "stage": "DPG",
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "UNICEF",
+            "clearOwnershipURL": "https://adda.outreach.vt.edu\r\nOn the atingi website course descriptions:\r\nhttps://online.atingi.org/course/view.php?id=791\r\nhttps://online.atingi.org/enrol/index.php?id=1329"
+        }
+    ],
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Atingi",
+        " our partner who deploys the content on their platform",
+        " follows open educational resources policy according to UNESCO OER Recommendation from 2019 with a preference for licensing as CC BY or CC BY SA. We are thus aligned with these standards. "
+    ],
+    "bestPractices": [
+        "UNESCO OER Recommendation from 2019\r\nhttps://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "We collect the following:\r\nFirst and last name\r\nEmail\r\n\r\nThe user can optionally add more info to their profile such as:\r\nNationality\r\nHometown\r\nProfile picture\r\nAge\r\n\r\nIn the MOOCs we have discussion boards which students are directed to post in and respond to other posts from students and instructors.\r\nAtingi follows GDPR. "
+        ],
+        "dataPrivacySecurity": "If the certificate online course is taken, other students and teachers in the course can see the student\u2019s name and email, in addition to the optional info they added to their profile. This is not distributed outside the moodle site. All this information is stored in the moodle server and can be accessed by the moodle owner (Atingi). Atingi follows the GDPR. https://www.atingi.org/en/data-protection\r\n"
+    },
+    "documentation": "https://adda-malawi.org/courses\r\n\r\nAtingi Hosts there ADDA MOOC content: https://www.atingi.org\r\n\r\nAtingi Site Policy: https://online.atingi.org/admin/tool/policy/viewall.php?returnurl=https%3A%2F%2Fonline.atingi.org%2Fadmin%2Ftool%2Fpolicy%2Fview.php%3Fpolicyid%3D4%26amp%3Bversionid%3D6%26amp%3Breturnurl%26amp%3Bbehalfid%26amp%3Bmanage%26amp%3Bnumpolicy%26amp%3Btotalpolicies#policy-5\r\n\r\nAtingi Privacy Policy: https://online.atingi.org/admin/tool/policy/viewall.php?returnurl=https%3A%2F%2Fonline.atingi.org%2Fadmin%2Ftool%2Fpolicy%2Fview.php%3Fpolicyid%3D4%26amp%3Bversionid%3D6%26amp%3Breturnurl%26amp%3Bbehalfid%26amp%3Bmanage%26amp%3Bnumpolicy%26amp%3Btotalpolicies#policy-6\r\n\r\n",
+    "id": "10334",
+    "name": "African Drone and Data Academy",
+    "aliases": [
+        "ADDA"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "MOOCs that provide youth with 21st-century skills related to drone technology and data analysis, thereby improving their employability and entrepreneurial mindset.    ",
+    "website": "https://adda-malawi.org/, https://www.atingi.org/, https://adda.cired.vt.edu/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://www.atingi.org/"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "CC-BY-2.5",
+            "openLicenseEvidenceURLs": "https://adda.outreach.vt.edu\r\nIn the course descriptions on atingi: \r\nhttps://online.atingi.org/course/view.php?id=791\r\nhttps://online.atingi.org/enrol/index.php?id=1329\r\n\r\n"
+        }
+    ],
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "The content is MOOCs related to working with drones and drone data. "
+        ],
+        "contentManagementPolicy": "The courses are created by university professors, where Virginia Tech University and Furman University are the lead developers. Both are accredited educational institutions in the United States. UNICEF  commissioned the creation of these courses and ensures a high quality of content is maintained. "
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "In the MOOCs we have discussion boards in which students are directed to post and respond to other posts from students and instructors.\r\n\r\nThe Atingi user agreement covers potential harassment and all users must agree with it before accessing the content. The relevant section of the user agreement is:\r\n\r\n\u201cIt is prohibited to post any content, files or data that violate legislations. This particularly applies to racist, violence-promoting, abusive and pornographic content or any other content that violates existing legislations. If users post links to external websites, it is their responsibility to check that the content on the external website does not violate this provision.\u201d\r\n "
+    },
+    "locations": {
+        "developmentCountries": [
+            "Malawi",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Germany",
+            "Malawi",
+            "Niger",
+            "United States of America"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Germany Agency for International Cooperation (GIZ) - Atingi Platform\r\n\r\n\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "Over 16",
+        "600 learning hours have been completed by the 415-course finishers doing ADDA Massive Open Online Courses (MOOCs) from 24 countries.\r\nVirginia Tech University \r\nGreen Yoma \r\n\r\n\r\n\r\n\r\n"
+    ],
+    "awardsReceived": [
+        "AUVSI XCELLENCE Humanitarian and Public Safety Award\r\nhttps://www.auvsi.org/winners-announced-2021-auvsi-xcellence-humanitarian-and-public-safety-award\r\n\r\nEndorsement by  CANSO as the \u201cglobal gold standard in remote pilot license training\u201d\r\n\r\nhttps://canso.org/why-unicef-and-canso-are-joining-forces-to-support-drone-pilot-training-in-africa/\r\n\r\nWomen and DronesAward 2022 (Ndapile Mkuwu ADDA Lead Instructor) https://womenanddrones.com/wtw-2022/\r\n\r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "The courses need to be taken with an active internet connection on moodle or the atingi platform",
+            " which any browser can access. We have created a content download folder to view all course content for offline / self-study. The download folder link is accessible once a student has enrolled on the atingi platform. This makes the course contents available more broadly; however",
+            " to receive a certificate",
+            " students need to complete the online course on atingi or the open courses repository of Virginia Tech University. "
+        ]
+    },
+    "organizations": [
+        {
+            "name": "African Drone and Data Academy",
+            "website": "https://adda-malawi.org/, https://www.atingi.org/, https://adda.cired.vt.edu/",
+            "org_type": "owner",
+            "contact_name": " Denise  ",
+            "contact_email": "dsoesilo@unicef.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Our partner, atingi how deploys the content uses GDPR:  \r\nhttps://www.atingi.org/en/data-protection\r\nAtingi Privacy Policy https://online.atingi.org/admin/tool/policy/view.php?policyid=4",
+            "privacyComplianceURL": "GDPR:  https://www.atingi.org/en/data-protection"
+        }
+    ],
+    "deploymentOrganisations": ""
+}
