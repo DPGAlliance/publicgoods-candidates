@@ -1,0 +1,336 @@
+	{
+    "id": "10164",
+    "name": "ODK",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "ODK lets you build powerful offline forms to collect the data you need wherever it is. It is the global standard for offline data collection.",
+    "website": "https://getodk.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/getodk/central"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "https://github.com/getodk/central/blob/master/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Get ODK Inc",
+            "clearOwnershipURL": "https://github.com/getodk/governance"
+        }
+    ],
+    "documentation": "Code: https://github.com/getodk\r\nDocs: https://docs.getodk.org",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Data can be exported via the UI and the API in a variety of standard formats."
+    },
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Organizations that use ODK determine what PII is collected and stored. These organizations typically collect demographic data."
+        ],
+        "dataPrivacySecurity": "ODK follows industry-standard best practices to ensure the privacy and security of data. Our practices and policies can be found below. \r\nTerms of Service: https://getodk.org/legal/tos.html \r\nPrivacy Policy: https://getodk.org/legal/privacy.html \r\nBusiness Agreement: https://getodk.org/legal/ba.html \r\nData Processing Agreement: https://getodk.org/legal/dpa.html \r\n\r\nODK software, regardless of if it's self-hosted or running on ODK Cloud, supports end-to-end encryption with self-managed keys as well as role-based permissions. \r\n\r\nOrganizations that use ODK Cloud have all their data encrypted in transit and at rest. Our data centers are GDPR compliant and ISO27K, CSA STAR, and SOC 2 certified. \r\n\r\nODK Cloud data is backed up continuously and can be restored to a specific moment in time. Backups are kept for 30 days."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Documentation",
+            " forum posts"
+        ],
+        "contentManagementPolicy": "https://forum.getodk.org/guidelines \r\n\r\nODK uses a combination of automated and manual systems to detect and moderate inappropriate content. Response time is typically 8 hours. \r\n\r\nhttps://getodk.org/legal/aup.html\r\nhttps://github.com/getodk/governance/blob/master/CODE-OF-CONDUCT.md"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "ODK does not identify the target age of our audience, enforce age limits, or provide any parental/guardian controls.,\r\n\r\nODK requires that organizations who use our software comply with applicable laws about underage users.\r\n\r\nhttps://getodk.org/legal/aup.html\r\nhttps://forum.getodk.org/guidelines\r\nhttps://github.com/getodk/governance/blob/master/CODE-OF-CONDUCT.md"
+    },
+    "locations": {
+        "developmentCountries": [
+            "Canada",
+            "Kenya",
+            "Poland",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Afghanistan",
+            "Albania",
+            "Algeria",
+            "Andorra",
+            "Angola",
+            "Antigua and Barbuda",
+            "Argentina",
+            "Armenia",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Benin",
+            "Bhutan",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Botswana",
+            "Brazil",
+            "Brunei",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile",
+            "China",
+            "Colombia",
+            "Comoros",
+            "Congo (Congo-Brazzaville)",
+            "Costa Rica",
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czechia (Czech Republic)",
+            "Democratic Republic of the Congo",
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt",
+            "El Salvador",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Estonia",
+            "\"Eswatini (fmr. \"\"Swaziland\"\")\"",
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "France",
+            "Gabon",
+            "Gambia",
+            "Georgia",
+            "Germany",
+            "Ghana",
+            "Greece",
+            "Grenada",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana",
+            "Haiti",
+            "Holy See",
+            "Honduras",
+            "Hungary",
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kenya",
+            "Kiribati",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Latvia",
+            "Lebanon",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Madagascar",
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Marshall Islands",
+            "Mauritania",
+            "Mauritius",
+            "Mexico",
+            "Micronesia",
+            "Moldova",
+            "Monaco",
+            "Mongolia",
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Myanmar (formerly Burma)",
+            "Namibia",
+            "Nauru",
+            "Nepal",
+            "Netherlands",
+            "New Zealand",
+            "Nicaragua",
+            "Niger",
+            "Nigeria",
+            "North Macedonia",
+            "Norway",
+            "Oman",
+            "Pakistan",
+            "Palau",
+            "Palestine State",
+            "Panama",
+            "Papua New Guinea",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Qatar",
+            "Romania",
+            "Russia",
+            "Rwanda",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Samoa",
+            "San Marino",
+            "Sao Tome and Principe",
+            "Saudi Arabia",
+            "Senegal",
+            "Serbia",
+            "Seychelles",
+            "Sierra Leone",
+            "Singapore",
+            "Slovakia",
+            "Slovenia",
+            "Solomon Islands",
+            "Somalia",
+            "South Africa",
+            "South Korea",
+            "South Sudan",
+            "Spain",
+            "Sri Lanka",
+            "Sudan",
+            "Suriname",
+            "Sweden",
+            "Switzerland",
+            "Syria",
+            "Tajikistan",
+            "Tanzania",
+            "Thailand",
+            "Timor-Leste",
+            "Togo",
+            "Tonga",
+            "Trinidad and Tobago",
+            "Tunisia",
+            "Turkey",
+            "Turkmenistan",
+            "Tuvalu",
+            "Uganda",
+            "Ukraine",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States of America",
+            "Uruguay",
+            "Uzbekistan",
+            "Vanuatu",
+            "Venezuela",
+            "Vietnam",
+            "Yemen",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "openStandards": [
+        "ODK XForms (built on W3C XForms)",
+        " XLSForm",
+        " OpenROSA. \r\n\r\nSee https://getodk.org/about/ecosystem.html for more."
+    ],
+    "bestPractices": [
+        "ODK follows an agile and iterative design process and strive for simplicity",
+        " clarity",
+        " and robustness in the artifacts we create.\r\n\r\nODK has endorsed the Principles for Digital Development."
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG1: End Poverty in all its forms everywhere",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG6: Clean Water and Sanitation",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG7: Affordable and Clean Energy",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG14: Life Below Water",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG15: Life on Land",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        },
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "SDG1: IFRC uses ODK to monitor cash assistance to 1.6M foreigners in T\u00fcrkiye\r\nSDG2: WFP uses ODK to provide actionable food security assessments.\r\nSDG3: WHO uses ODK to collect millions of data points for disease surveillance.\r\nSDG4: Honduras uses ODK to ensure the education of millions of students.\r\nSDG6: Red Cross uses ODK to improve the efficiency of humanitarian action.\r\nSDG7: Guyana uses ODK to ensure operational efficiency of its power grid.\r\nSDG8: FINCA uses ODK to measure household consumption and job creation.\r\nSDG13: Sierra Leone uses ODK to help plant millions of trees and create jobs.\r\nSDG14: Australia uses ODK to guide the conservation of flatback turtles.\r\nSDG15: Jane Goodall Institute uses ODK to track the health of ape habitat.\r\nSDG16: The Carter Center uses ODK to assess the fairness of elections."
+        }
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "ODK",
+            "website": "https://getodk.org",
+            "org_type": "owner",
+            "contact_name": " Yaw Anokwa  ",
+            "contact_email": "yanokwa@getodk.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "ODK follows industry-standard best practices to ensure adherence with relevant privacy, domestic, and international laws, including GDPR and CCPA.",
+            "privacyComplianceURL": "Terms of Service: https://getodk.org/legal/tos.html,\r\nPrivacy Policy: https://getodk.org/legal/privacy.html\r\nBusiness Agreement: https://getodk.org/legal/ba.html\r\nData Processing Agreement: https://getodk.org/legal/dpa.html\r\nAcceptable Use Policy: https://getodk.org/legal/aup.html"
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
