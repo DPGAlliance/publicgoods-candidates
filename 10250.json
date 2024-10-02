@@ -1,0 +1,113 @@
+	{
+    "id": "10250",
+    "name": "E-Heza",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "E-Heza Digital Data Solutions"
+    ],
+    "description": "E-Heza Data Solutions is a digital app designed by and for the frontline health worker that can be used on a smartphone or tablet.",
+    "website": "https://tip-global-health.github.io/eheza-documentation/",
+    "openlicenses": [
+        {
+            "openLicense": "Apache-2.0",
+            "openLicenseEvidenceURLs": "SDG2: Zero Hunger,SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG2: Zero Hunger",
+            "relevance": "E-Heza is used to support community-based nutrition programs and to screen patients for signs of malnutrition in order to suggest early intervention and referral to nutrition programs as necessary. Data collected in E-Heza supports reporting on all SDG 2.2 indicators. Additionally, E-Heza will be used to monitor the impact of Rwanda\u2019s national nutrition and childhood development program.  In the health centers that have implemented E-Heza, there has been a 27% drop in severe malnutrition after three visits. ,&#013; &#010;E-Heza supports the good health and well being goal by providing healthcare workers with an efficient interface for providing maternal and child healthcare according to protocols and international standards, and to pass patient data, including diagnosis and treatments, across levels of care.    Among the hundreds of healthcare workers using E-Heza, quality of care has been shown to have increased by 120% and have documented 150 minutes saved per patient interaction. E-Heza supports comprehensive primary care across the entire spectrum of maternal and child health, as well as non-communicable diseases of hypertension and type 2 diabetes. Data collected can easily provide reports on most SDG indicators, particularly for SDG 3.1 (Decrease global maternal mortality), SDG 3.2 (End preventable deaths of newborns and children under 5), SDG 3.3 (Fight communicable diseases), SDG 3.4 (Reduce mortality from non-communicable diseases and promote mental health), and SDG 3.8 (Achieve Universal Health Coverage- RMNCH branch)."
+        },
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "E-Heza is used to support community-based nutrition programs and to screen patients for signs of malnutrition in order to suggest early intervention and referral to nutrition programs as necessary. Data collected in E-Heza supports reporting on all SDG 2.2 indicators. Additionally, E-Heza will be used to monitor the impact of Rwanda\u2019s national nutrition and childhood development program.  In the health centers that have implemented E-Heza, there has been a 27% drop in severe malnutrition after three visits. ,&#013; &#010;E-Heza supports the good health and well being goal by providing healthcare workers with an efficient interface for providing maternal and child healthcare according to protocols and international standards, and to pass patient data, including diagnosis and treatments, across levels of care.    Among the hundreds of healthcare workers using E-Heza, quality of care has been shown to have increased by 120% and have documented 150 minutes saved per patient interaction. E-Heza supports comprehensive primary care across the entire spectrum of maternal and child health, as well as non-communicable diseases of hypertension and type 2 diabetes. Data collected can easily provide reports on most SDG indicators, particularly for SDG 3.1 (Decrease global maternal mortality), SDG 3.2 (End preventable deaths of newborns and children under 5), SDG 3.3 (Fight communicable diseases), SDG 3.4 (Reduce mortality from non-communicable diseases and promote mental health), and SDG 3.8 (Achieve Universal Health Coverage- RMNCH branch)."
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/TIP-Global-Health/eheza-app"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "TIP Global Health",
+            "clearOwnershipURL": "https://github.com/TIP-Global-Health/eheza-app/blob/main/LICENSE.txt"
+        }
+    ],
+    "documentation": "https://tip-global-health.github.io/eheza-documentation/,https://github.com/TIP-Global-Health/eheza-app",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Non-PII data can be extracted using the export function within the E-Heza backend application. Data can be extracted in the form of reports (CSV formatted) from preconfigured backend queries that restrict access to personally identifiable information and provide only non-PII data needed for reporting. These reports are restricted based on roles to administrators and data managers."
+    },
+    "openStandards": [
+        "FHIR",
+        "ICD-11",
+        "WCAG 2.1 https://github.com/TIP-Global-Health/eheza-app E-Heza is developed in line with the Principles for Digital Development.",
+        "E-Heza development follows an agile development process",
+        " with frequent releases",
+        " development in close collaboration with end users",
+        " early delivery of working software and emphasis on simplicity."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name",
+            "Date of Birth",
+            "Address",
+            "Contact Information",
+            "National ID number"
+        ],
+        "dataPrivacySecurity": " E-Heza adheres to all 'Do No Harm' policies established by our parent organization, TIP Global Health. This policy is available here - https://tip-global-health.github.io/eheza-documentation/policy_docs/do-no-harm/.  E-Heza's 'Do No Harm' approach focuses on patient and caregiver safety by: \n1. Preventing Errors:\n - \nE-Heza's decision logic model and all aspects of clinical care are governed by a clinical review process that includes physicians, healthcare workers, and digital health specialists. This work is reviewed by the E-Heza Executive committee. \n- Development work is open source and follows a peer review process in which all code is first reviewed by another developer before it is submitted to the QA process. \n- E-Heza adheres to best practices  privacy and data security standards to ensure the protection of private patient information. \n2. Learning from mistakes: \n- TIP Global Health's Model is based on gathering feedback and acting on it. There is a regular process of understanding challenges and potential errors which may cause harm. (https://tipglobalhealth.org/our-model/) \n- The feedback process is governed by the E-Heza Executive committee and overseen by the TIP Global Health Steering Committee. \n3. Promoting a culture of safety through safe practices and safe systems. \n - E-Heza\u2019s training model is built to encourage co-design and encourages the foundational feedback mechanisms in order to understand both errors of omission and errors of commission. TIP  Global Health takes the following steps to ensure the privacy and security of data collected: \n- Healthcare workers sign and commit to a \u201cProtected Health Information Confidentiality Agreement\u201d and receive initial and ongoing training regarding privacy and security. \n - Access to E-Heza\u2019s backend (where private data is held) is secured with role-based permission access and only site administrators with proper need are given access to private data. \n- Transfer of data between E-Heza\u2019s front-end client and backend storage is through SSL-encrypted channels only and performed only with authenticated devices. \n- E-Heza maintains an access log which tracks all access and both to backend accounts and front end data collection. Weekly audits are performed on the access logs, and the  logs are maintained for one year (and then archived through the prescribed backup retention plan). \n- E-Heza\u2019s development operation prohibits the use of non-anonymized data in the development process. No developer may hold personal information on their local system to transfer any personal information from a non-production environment outside the course of the normal backup procedure. \n - E-Heza engages in third-party security audits in order to procure recommendations for further privacy and security procedures."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "E-Heza is designed to be used only by healthcare workers and implementing organizations are responsible for screening healthcare workers for age. Each device is prescribed a unique pairing PIN which can only be set by an administrator and access is provided to healthcare workers with a unique PIN which identifies them on the device E-Heza discussion and development is guided by: https://tip-global-health.github.io/eheza-documentation/community_docs/contribute-eheza/#code-of-conduct,E-Heza is actively moderated by the E-Heza project lead, who can flag and remove content or comments as needed."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Rwanda",
+            "United States of America",
+            "Canada",
+            "Israel",
+            "Hungary",
+            "Argentina",
+            "Spain",
+            "Russia"
+        ],
+        "deploymentCountries": [
+            "Rwanda"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "E-Heza",
+            "website": "https://tip-global-health.github.io/eheza-documentation/",
+            "org_type": "owner",
+            "contact_name": " Dr. Wendy Leonard  ",
+            "contact_email": "wendy@tipglobalhealth.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Rwandan Data Protection Law For countries using the E-Heza software in other regions are responsible for complying with local legislation.,E-Heza uses the following template agreements and policies in work with implementation teams and systems to ensure adherence to all relevant domestic and international privacy laws:,- Data Protection Policy: https://tip-global-health.github.io/eheza-documentation/policy_docs/data-protection-policy/\u00a0,- Protected Health Information Confidentiality Agreement: https://tip-global-health.github.io/eheza-documentation/policy_docs/confidentiality-policy/,- Business Agreement Template: https://tip-global-health.github.io/eheza-documentation/policy_docs/business-agreement-template/"
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
