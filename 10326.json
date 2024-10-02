@@ -1,0 +1,108 @@
+	{
+    "id": "10326",
+    "name": "Product Catalog Management Tool",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "PCMT"
+    ],
+    "description": "The Product Catalog Management Tool aims to connect product catalogs in order to show a clear journey from manufacturer to patient. It establishes master data that includes GS1 identifiers, global categories, and mappings to local identifiers. This enables end-to-end visibility, allows shipments to flow between systems, and helps supply chains perform.",
+    "website": "http://productcatalog.io",
+    "openlicenses": [
+        {
+            "openLicense": "NPOSL-3.0",
+            "openLicenseEvidenceURLs": "SDG3: Good Health and Well-Being"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "PCMT is aimed at improving product catalog data governance, so that public health systems are more efficient and serve their people better with available supply. \nTarget\u2019s 3.7 and 3.8 are focuses of PCMT.  Both of these targets require more efficient health supply chains, and that\u2019s a primary goal of PCMT.   In particular PCMT aims to achieve this by increasing the connectivity between health domains (e.g. clinical coding) and supply chain operations by allowing local product catalog contexts to be mapped to adjacent (e.g. public and private care and supply chains) and global (e.g. manufacturing, suppliers, shipping) contexts.  In our experience this work of mapping product catalog codings between contexts happens already, however the typical tools are spreadsheets and disconnected databases (e.g. regulatory or supplier).  PCMT aims to supplement the use of these disconnected datasets and associated people, and bring their workflow into a common tool and community of practice, where those stakeholders follow a workflow of data curation that fits changing health requirements (e.g. new diseases and their medicines) supply characteristics (availability, regulatory approval, lead times, cost). \nAs evidence for the application of to both of these targets, PCMT is already in use as a backing technology to curate datasets for family planning, essential medicines, vaccines and other medical product catalogs, both in local and global operations teams."
+        }
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://gitlab.com/pcmt/pcmt"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "VillageReach",
+            "clearOwnershipURL": "https://gitlab.com/pcmt/pcmt/-/blob/master/COPYRIGHT.md"
+        }
+    ],
+    "documentation": "https://gitlab.com/pcmt/pcmt/-/wikis/home",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Imports and exports into CSV or excel formats"
+    },
+    "openStandards": [
+        "FHIR",
+        "REST",
+        "JSON  Design w/ User",
+        " understand ecosystem",
+        " scale",
+        " sustainability",
+        " data driven",
+        " open standards",
+        " reuse and improve",
+        " security",
+        " collaborative"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name and email for admistrators"
+        ],
+        "dataPrivacySecurity": " The product catalog system has PII on catalog administrators, however the catalog specifically discourages tying catalog entries to patients or procedures. PCMT is a set of extensions to the larger Open Source project Akeneo PIM Community Edition, which includes a set of standard deployment descriptors that make it easier to start Akeneo in a more secure manner.  Primarily this includes deployment descriptors that will by default obtain a certificate from Lets Encrypt, and renew it automatically.  All internet traffic is then encrypted using x509 certificates.  Internally the data is stored in an unencrypted relational database (though passwords are hashed using a one-way mechanism), however the default networking ensures that the database access is restricted outside of a local connection.  \nAll data in the system remains with the organization that deploys the system."
+    },
+    "userContent": {
+        "contentManagement": "Content is NOT collected NOT stored and NOT distributed.",
+        "contentTypes": [],
+        "contentManagementPolicy": ""
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "PCMT is a set of extensions to the larger Open Source Akeneo PIM Community Edition.  At present the Akeneo CE community has not adopted a code of conduct (https://www.contributor-covenant.org/version/1/4/code-of-conduct/), however the PCMT development group has adopted the Contributor Covenant v1.4.  This applies only to the PCMT extensions, though we'd support the Akeneo community adopting this, or a similar, code of conduct. PCMT is a set of extensions to the larger Open Source Akeneo PIM Community Edition.  At present the Akeneo CE community has not adopted a code of conduct (https://www.contributor-covenant.org/version/1/4/code-of-conduct/), however the PCMT development group has adopted the Contributor Covenant v1.4.  This applies only to the PCMT extensions, though we'd support the Akeneo community adopting this, or a similar, code of conduct."
+    },
+    "locations": {
+        "developmentCountries": [
+            "France",
+            "Poland",
+            "United States of America",
+            "Kenya"
+        ],
+        "deploymentCountries": [
+            "Rwanda",
+            "Zambia",
+            "Ethiopia",
+            "Malawi"
+        ]
+    },
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Product Catalog Management Tool",
+            "website": "http://productcatalog.io",
+            "org_type": "owner",
+            "contact_name": " Josh Zamor  ",
+            "contact_email": "josh.zamor@villagereach.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "PCMT is a set of extensions to the larger Open Source project Akeneo PIM Community Edition (CE).  From our understanding of the EU\u2019s GDPR and the EU cookie policy, PCMT and Akeneo CE comply with both.  First the open source projects are self-hosted, and when self-hosted, do not have any tracking or other communication back to either Akeneo nor VillageReach (stewards of PCMT).  This lack of tracking and data collection extends to the cookies that are used \u2013 the only cookies are essential for the authentication and authorization mechanism of the logged in user, and are not used to track the person or collect information outside the authorization envelope, and so no notice to the end user is required.  Further PCMT and Akeneo are back-end data management systems, not intended for general public use.  The extent of the personally identifiable information within the system is placed there by the system administrators when they create a user\u2019s account, and includes their name, email, phone number and locality.  There is no sign-up or invitation process. PCMT is a set of extensions to the larger Open Source project Akeneo PIM Community Edition.  At this time the Akeneo community does not have a privacy policy or terms of service when self-hosting the software.  The Akeneo website however does have this terms of service for use of their website:  https://www.akeneo.com/terms-of-service/ .  Likewise the PCMT extensions to Akeneo do not have a terms of service, rather the software is released for others to self-host it.  VillageReach does offer limited managed hosting options, and in those cases we lay out the terms in a contract that the data is not owned by VillageReach, and we lay no claim to use it outside of the intended purpose."
+        }
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
