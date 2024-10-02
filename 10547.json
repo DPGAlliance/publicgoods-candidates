@@ -1,0 +1,142 @@
+	{
+    "id": "10547",
+    "name": "Open Digital Development Data Exchange",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Digital Development Compass Database"
+    ],
+    "categories": [
+        "Open Data"
+    ],
+    "description": "The Open Digital Development Data Exchange is an exhaustive collection of a all nations' digital indicators, sourced from publicly available datasets, aggregated, and normalized to be usable for the first time.",
+    "website": "https://www.digitaldevelopmentcompass.org/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/undp/digital-development-compass/blob/main/Open%20Digital%20Development%20Data%20Exchange.xlsx"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "Our digital development data compilation helps to identify gaps in gender equity, opportunities for technical work, areas where certain populations have greater inequalities, success metrics for technical production, and enables governments to strengthen digital services."
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "Our digital development data compilation helps to identify gaps in gender equity, opportunities for technical work, areas where certain populations have greater inequalities, success metrics for technical production, and enables governments to strengthen digital services."
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "Our digital development data compilation helps to identify gaps in gender equity, opportunities for technical work, areas where certain populations have greater inequalities, success metrics for technical production, and enables governments to strengthen digital services."
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "Our digital development data compilation helps to identify gaps in gender equity, opportunities for technical work, areas where certain populations have greater inequalities, success metrics for technical production, and enables governments to strengthen digital services."
+        },
+        {
+            "sdg": "SDG16: Peace\u00b8 Justice and Strong Institutions",
+            "relevance": "Our digital development data compilation helps to identify gaps in gender equity, opportunities for technical work, areas where certain populations have greater inequalities, success metrics for technical production, and enables governments to strengthen digital services."
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/undp/digital-development-compass/blob/main/license"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "United Nations Development Programme",
+            "clearOwnershipURL": "https://data.undp.org/digitalcompass/"
+        }
+    ],
+    "documentation": "https://github.com/undp/digital-development-compass#readme",
+    "NonPII": {
+        "collectsNonPII": "No",
+        "nonPIIAccessMechanism": ""
+    },
+    "openStandards": [
+        "Internationalization (i18n): UTF-8"
+    ],
+    "bestPractices": [
+        "ICT4D: Principles For Digital Development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is NOT collected NOT stored and NOT distributed.",
+        "typesOfPIIDataCollected": [],
+        "dataPrivacySecurity": ""
+    },
+    "userContent": {
+        "contentManagement": "Content is collected stored and distributed.",
+        "contentTypes": [
+            "Data is aggregated that is open license"
+        ],
+        "contentManagementPolicy": "Inappropriate content can be reported directly to UNDP with contact information available on the website."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "No",
+        "harassmentPolicy": ""
+    },
+    "locations": {
+        "developmentCountries": [
+            "Sri Lanka",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Armenia",
+            "Bolivia",
+            "Colombia",
+            "Dominica",
+            "Dominican Republic",
+            "El Salvador",
+            "Grenada",
+            "Guatemala",
+            "Guinea-Bissau",
+            "Jamaica",
+            "Maldives",
+            "Mauritius",
+            "Moldova",
+            "Nauru",
+            "Samoa",
+            "Solomon Islands",
+            "Suriname",
+            "Tonga",
+            "Trinidad and Tobago",
+            "Tuvalu",
+            "Uzbekistan"
+        ]
+    },
+    "deploymentOrganisations": [
+        "International Telecommunication Union",
+        "United Nations Development Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "This data is actively used as part of UNDP's Digital Readiness Assessment",
+        " used in many countries."
+    ],
+    "awardsReceived": [
+        "Nominated for a Webby."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Open Digital Development Data Exchange",
+            "website": "https://www.digitaldevelopmentcompass.org/",
+            "org_type": "owner",
+            "contact_name": " Mark Belinsky  ",
+            "contact_email": "mark.belinsky@undp.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "n/a",
+            "privacyComplianceURL": "n/a"
+        }
+    ],
+    "otherDeploymentOrganisations": ""
+}
