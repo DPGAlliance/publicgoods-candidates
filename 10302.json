@@ -1,0 +1,120 @@
+	{
+    "id": "10302",
+    "name": "MentorED",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "MentorED is an open source mentoring application that facilitates lifelong learning and continuous professional development by enabling discovery of trusted mentors and mechanisms.",
+    "website": "https://elevate-docs.shikshalokam.org/docs/2.1/intro",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://elevate-docs.shikshalokam.org/docs/2.1/intro"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG3: Good Health and Well-Being",
+            "relevance": "MentorED is an open source mentoring application that facilitates lifelong learning and continuous professional development by enabling discovery of trusted mentors and mechanisms. National Education Policy 2020 in India proposes mentoring as a solution at various levels to improve the quality of outcomes. \r\nThe National Council for Teacher Education (NCTE) proposes a nationwide mission to incorporate mentoring to improve the acquisition and sharing of knowledge, skills, and mindsets across the Indian education system.\r\nTeachers and School Heads need new solutions to today\u2019s unprecedented demands and challenges. The community of educators and leaders in education in itself is rich with experts, who have the knowledge and skills to contribute towards problem-solving and capacity building of peers. Systems capable of adapting to the rapidly changing environment can empower their citizens with the right mix of skills to allow them to lead satisfying professional and personal lives. This leads to inclusive and sustainable economic growth. \r\nA structure of mentoring, therefore, offers a solution to address the existing gaps in a more decentralised manner. These are the gaps in accessing expertise, continuous professional development, connecting with peers from similar contexts and the absence of a platform to leverage cross-learning. MentorED will be leveraged to implement this nationwide mentoring mission for various outcomes of public education in India.\r\nMentorED, which is also an open-source NDEAR Compliant modular building block, is designed for scale and reliability. \r\nMentoringBlueBook - https://ncte.gov.in/WebAdminFiles/PublicNotice/English_0_04_11_2021_637716090580188670.pdf\r\n\r\nGood Health and Well Being : MentorED is an open source application that can be adopted in the health sector for using the application to increase knowledge among providers and hence provide better health and good well being for people. This is inspired by ECHO model- https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html. \r\n\r\nReduced Inequalities :\r\nMentorED is an open source application which provides an opportunity to leverage cross learning amongst different individuals leading to their continuous professional development. It makes mentoring accessible to any individual who needs it, regardless of age, background or ethnicities. Several programs will be conceptualised for grassroots inequity by nonprofits and government institutions.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG4: Quality Education",
+            "relevance": "MentorED is an open source mentoring application that facilitates lifelong learning and continuous professional development by enabling discovery of trusted mentors and mechanisms. National Education Policy 2020 in India proposes mentoring as a solution at various levels to improve the quality of outcomes. \r\nThe National Council for Teacher Education (NCTE) proposes a nationwide mission to incorporate mentoring to improve the acquisition and sharing of knowledge, skills, and mindsets across the Indian education system.\r\nTeachers and School Heads need new solutions to today\u2019s unprecedented demands and challenges. The community of educators and leaders in education in itself is rich with experts, who have the knowledge and skills to contribute towards problem-solving and capacity building of peers. Systems capable of adapting to the rapidly changing environment can empower their citizens with the right mix of skills to allow them to lead satisfying professional and personal lives. This leads to inclusive and sustainable economic growth. \r\nA structure of mentoring, therefore, offers a solution to address the existing gaps in a more decentralised manner. These are the gaps in accessing expertise, continuous professional development, connecting with peers from similar contexts and the absence of a platform to leverage cross-learning. MentorED will be leveraged to implement this nationwide mentoring mission for various outcomes of public education in India.\r\nMentorED, which is also an open-source NDEAR Compliant modular building block, is designed for scale and reliability. \r\nMentoringBlueBook - https://ncte.gov.in/WebAdminFiles/PublicNotice/English_0_04_11_2021_637716090580188670.pdf\r\n\r\nGood Health and Well Being : MentorED is an open source application that can be adopted in the health sector for using the application to increase knowledge among providers and hence provide better health and good well being for people. This is inspired by ECHO model- https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html. \r\n\r\nReduced Inequalities :\r\nMentorED is an open source application which provides an opportunity to leverage cross learning amongst different individuals leading to their continuous professional development. It makes mentoring accessible to any individual who needs it, regardless of age, background or ethnicities. Several programs will be conceptualised for grassroots inequity by nonprofits and government institutions.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "MentorED is an open source mentoring application that facilitates lifelong learning and continuous professional development by enabling discovery of trusted mentors and mechanisms. National Education Policy 2020 in India proposes mentoring as a solution at various levels to improve the quality of outcomes. \r\nThe National Council for Teacher Education (NCTE) proposes a nationwide mission to incorporate mentoring to improve the acquisition and sharing of knowledge, skills, and mindsets across the Indian education system.\r\nTeachers and School Heads need new solutions to today\u2019s unprecedented demands and challenges. The community of educators and leaders in education in itself is rich with experts, who have the knowledge and skills to contribute towards problem-solving and capacity building of peers. Systems capable of adapting to the rapidly changing environment can empower their citizens with the right mix of skills to allow them to lead satisfying professional and personal lives. This leads to inclusive and sustainable economic growth. \r\nA structure of mentoring, therefore, offers a solution to address the existing gaps in a more decentralised manner. These are the gaps in accessing expertise, continuous professional development, connecting with peers from similar contexts and the absence of a platform to leverage cross-learning. MentorED will be leveraged to implement this nationwide mentoring mission for various outcomes of public education in India.\r\nMentorED, which is also an open-source NDEAR Compliant modular building block, is designed for scale and reliability. \r\nMentoringBlueBook - https://ncte.gov.in/WebAdminFiles/PublicNotice/English_0_04_11_2021_637716090580188670.pdf\r\n\r\nGood Health and Well Being : MentorED is an open source application that can be adopted in the health sector for using the application to increase knowledge among providers and hence provide better health and good well being for people. This is inspired by ECHO model- https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html. \r\n\r\nReduced Inequalities :\r\nMentorED is an open source application which provides an opportunity to leverage cross learning amongst different individuals leading to their continuous professional development. It makes mentoring accessible to any individual who needs it, regardless of age, background or ethnicities. Several programs will be conceptualised for grassroots inequity by nonprofits and government institutions.\r\n\r\n"
+        },
+        {
+            "sdg": "SDG10: Reduced Inequalities",
+            "relevance": "MentorED is an open source mentoring application that facilitates lifelong learning and continuous professional development by enabling discovery of trusted mentors and mechanisms. National Education Policy 2020 in India proposes mentoring as a solution at various levels to improve the quality of outcomes. \r\nThe National Council for Teacher Education (NCTE) proposes a nationwide mission to incorporate mentoring to improve the acquisition and sharing of knowledge, skills, and mindsets across the Indian education system.\r\nTeachers and School Heads need new solutions to today\u2019s unprecedented demands and challenges. The community of educators and leaders in education in itself is rich with experts, who have the knowledge and skills to contribute towards problem-solving and capacity building of peers. Systems capable of adapting to the rapidly changing environment can empower their citizens with the right mix of skills to allow them to lead satisfying professional and personal lives. This leads to inclusive and sustainable economic growth. \r\nA structure of mentoring, therefore, offers a solution to address the existing gaps in a more decentralised manner. These are the gaps in accessing expertise, continuous professional development, connecting with peers from similar contexts and the absence of a platform to leverage cross-learning. MentorED will be leveraged to implement this nationwide mentoring mission for various outcomes of public education in India.\r\nMentorED, which is also an open-source NDEAR Compliant modular building block, is designed for scale and reliability. \r\nMentoringBlueBook - https://ncte.gov.in/WebAdminFiles/PublicNotice/English_0_04_11_2021_637716090580188670.pdf\r\n\r\nGood Health and Well Being : MentorED is an open source application that can be adopted in the health sector for using the application to increase knowledge among providers and hence provide better health and good well being for people. This is inspired by ECHO model- https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html. \r\n\r\nReduced Inequalities :\r\nMentorED is an open source application which provides an opportunity to leverage cross learning amongst different individuals leading to their continuous professional development. It makes mentoring accessible to any individual who needs it, regardless of age, background or ethnicities. Several programs will be conceptualised for grassroots inequity by nonprofits and government institutions.\r\n\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "MIT",
+            "openLicenseEvidenceURLs": "License URL : \r\nhttps://github.com/ELEVATE-Project/mentoring/blob/master/LICENSE\r\n\r\nhttps://elevate-docs.shikshalokam.org/docs/2.1/intro"
+        }
+    ],
+    "documentation": "Documentation URL for MentorED : \r\nhttps://elevate-docs.shikshalokam.org/docs/2.1/intro\r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "MentorED is a building block on ELEVATE(Energizing Leadership with Enhanced Visibility and Administrative Transformation towards Excellence) is an Open Source under MIT License. MentorEd software has implemented many best practices to keep user data safe and secure. Users are empowered to safeguard and share their data with appropriate consent management mechanisms. Default software has implemented data collection in an open and transparent manner. \r\nMentorEd  has APIs and tools to manage users and transactional data which uses JSON as the native data format. In some cases, tools have been developed to support import and export in CSV format.\r\nMentorEd follows best practices for keeping data secure, safe, and encrypted wherever required. The software by itself is open source and hence the adopter may modify it as per the requirements. \r\nReports with non-PII are available for extraction via scripts.\r\n\r\nAdopters of MentorEd globally in different countries will be able to extend and configure it to comply with the various laws and regulations governing the data privacy, protection, and sharing. "
+    },
+    "openStandards": [
+        "Open Web Standard - HTML",
+        " CSS",
+        " JavaScript",
+        " SVG\r\nSecurity - HTTPS\r\nNetworking - TCP/IP\r\nData exchange - CSV\r\n"
+    ],
+    "bestPractices": [
+        "Standards support evidence :\r\nhttps://elevate-docs.shikshalokam.org/docs/2.1/settingup-overview\r\nFind more details of principles :  https://elevate.shikshalokam.org/building-blocks/#architecture\r\n\r\n[The list below is an abridged version taken from the link shared above]\r\nUnified and not Uniform\r\nMicroservice Architecture \r\nSecure and reliable \r\nOpen Standards\r\nScalable and Resilient \r\nObservability\r\nTrusted Platform \r\nDecentralised and distributed \r\nPlatform Thinking \r\nEnabling Ecosystem \r\nExtensibility\r\nInclusive by design\r\nAdopt open standards and open source"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Email ID is collected and stored .It is not distributed.  But",
+            " adopters can attach more automated detection services within the curation pipeline.\r\n"
+        ],
+        "dataPrivacySecurity": "MentorED follows many best practices to keep user data safe and secure. No personal data is shared among collaborators and only with explicit consent of all participating individuals, a collaboration flow can be triggered. \r\n\r\nRegistrations of users are done in a regulated manner , for example there is a help page for reporting any issue. MentorED software implements principles of minimalism, consent, transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy and data security.\r\n\r\nSome of the steps taken to ensure safety of users are:\r\n\r\nProfile controls to modify and manage data stored against user profile \r\nTwo-Factor Authentication (OTP based)\r\nUsers join a Group by accepting an invite. No one can add a user to a group without their consent.\r\nUsers can exit discussion areas at any time\r\nUsers agree to terms and condition \r\n\r\nWhile MentorED is built with all of the above capabilities and best practices, it is upto the adopter to implement these. MentorED as an open-source software is free to use and modify as required.\r\n\r\n"
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "MentorED follows many best practices to keep user data safe and secure. No personal data is shared among collaborators and only with explicit consent of all participating individuals, a collaboration flow can be triggered. \r\n\r\nRegistrations of users are done in a regulated manner , for example there is a help page for reporting any issue. MentorED software implements principles of minimalism, consent, transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy and data security. In 24 hours the issues reported are addressed. \r\n\r\nSome of the steps taken to ensure safety of users are:\r\n\r\nProfile controls to modify and manage data stored against user profile \r\nTwo-Factor Authentication (OTP based)\r\nUsers join a Group by accepting an invite. No one can add a user to a group without their consent.\r\nUsers can exit discussion areas at any time\r\nUsers agree to terms and condition \r\n\r\nProcess that addresses safety and security of underage users :\r\nSessions are recorded for ensuring security; \r\nA support page to raise concerns; \r\nNo PII data is shared within the users ;\r\nNo communication is possible between the users outside the session;\r\n\r\nMentorED has a microservices for reporting . But, typically adopters extend this to cater to specific needs of the users and processes within their context.\r\n"
+    },
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "ShikshaLokam",
+            "clearOwnershipURL": "1. ShikshaLokam page hosting the documentation publically : \r\n\r\nhttps://elevate-docs.shikshalokam.org/docs/2.1/intro\r\n\r\n2. License with ownership of ShikshaLokam clearly stated : \r\n\r\nhttps://github.com/ELEVATE-Project/mentoring/blob/master/LICENSE\r\n\r\n3. Terms and conditions and Privacy policy\r\nhttps://shikshalokam.org/mentoring/privacy-policy\r\n\r\nhttps://shikshalokam.org/mentoring/term-of-use"
+        }
+    ],
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "Content like Session Meta and Recording of Mentoring sessions are collected and stored but not distributed. "
+        ],
+        "contentManagementPolicy": "MentorED follows many best practices to keep user data safe and secure. No personal data is shared among collaborators and only with explicit consent of all participating individuals, a collaboration flow can be triggered. \r\n\r\nRegistrations of users are done in a regulated manner , for example there is a help page for reporting any issue. MentorED software implements principles of minimalism, consent, transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy and data security. The average response time for the reported issue is 24 hours \r\n\r\nSome of the steps taken to ensure safety of users are:\r\n\r\nProfile controls to modify and manage data stored against user profile \r\nTwo-Factor Authentication (OTP based)\r\nUsers join a Group by accepting an invite. No one can add a user to a group without their consent.\r\nUsers can exit discussion areas at any time\r\nUsers agree to terms and condition \r\n\r\nSessions are recorded for ensuring security; \r\nA support page to raise concerns; \r\nNo PII data is shared within the users ;\r\nNo communication is possible between the users outside the session;\r\n\r\nWhile MentorED is built with all of the above capabilities and best practices, it is upto the adopter to implement these. MentorED as an open-source software is free to use and modify as required.\r\n\r\n"
+    },
+    "locations": {
+        "developmentCountries": [
+            "India"
+        ],
+        "deploymentCountries": [
+            "India"
+        ]
+    },
+    "deploymentCountriesDepartments": [
+        "Department of National Council for Teacher Education",
+        " Ministry of Education ",
+        " Government of India"
+    ],
+    "otherDeploymentOrganisations": [
+        "No other organization has adopted the solution as of now. "
+    ],
+    "awardsReceived": [
+        "NA"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "MentorED",
+            "website": "https://elevate-docs.shikshalokam.org/docs/2.1/intro",
+            "org_type": "owner",
+            "contact_name": " priyanka k mohan  ",
+            "contact_email": "priyanka@shikshalokam.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "MentorED is a building block on ELEVATE(Energizing Leadership with Enhanced Visibility and Administrative Transformation towards Excellence) is an Open Source under MIT License.\r\n\r\nMentorED software has implemented many best practices to keep user data safe and secure. Default software has implemented data collection in an open and transparent manner. MentorED software implements principles of minimalism, consent, transparency of data collection, and other best practices. \r\nMentorED enables adopters to collect data in an open, transparent, and consented manner - stores it safely & securely - and shares data in an anonymised manner.\r\nMentorED is also compliant with National Digital Education Architecture (NDEAR) design principles architecture and building blocks. \r\nhttps://microimp.ndear.gov.in/about-ndear.html\r\n\r\nLinks to Privacy Policy and terms of use : \r\nhttps://shikshalokam.org/mentoring/privacy-policy\r\nhttps://shikshalokam.org/mentoring/term-of-use\r\n\r\nAdopters of MentorED globally in different countries will be able to extend and configure it to comply with the various laws and regulations governing the data privacy, protection, and sharing.",
+            "privacyComplianceURL": "As an open source-code solution, MentorED will have to be viewed differently from hosted service/product solutions. While the source code is open, free and available to all interested implementers/adopters (on GitHub), individual implementations may have their own view of how they may have addressed data management (PII/non-PII), hosting of the solution and so forth. \r\n\r\nManagement of PII/non-PII data in MentorED is purely a \u201chighly extensible/configurable/non-opinionated open-software solution\u201d, and it\u2019s source code lies in GitHub (MentorED is not a \u2018hosted service or product\u2019). Implementers/adopters of MentorED , have the autonomy to decide \u201cwhat\u201d fields to be capture/maintain, \u201cwhat\u201d other systems will they integrate with, \u201cwill\u201d they share this data with other authorized parties (e.g. one Government sharing this dataset with other Government, or one Department sharing this dataset with other Department). While the MentorED technical architecture has taken privacy and security controls into consideration as default implementation, it is up to the Implementers/Adopters to establish a privacy policy at their end to cover the various implementation scenarios (e.g. management & sharing of PII/non PII data)."
+        }
+    ],
+    "aliases": "",
+    "deploymentOrganisations": ""
+}
