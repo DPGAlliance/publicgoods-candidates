@@ -1,0 +1,157 @@
+	{
+    "id": "10403",
+    "name": "National Carbon Credit Registry",
+    "sectors": [],
+    "stage": "DPG",
+    "categories": [
+        "Open Software"
+    ],
+    "description": "The National Carbon Registry enables carbon credit trading in order to reduce greenhouse gas emissions.",
+    "website": "https://test.carbreg.org",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/undp/carbon-registry"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG7: Affordable and Clean Energy",
+            "relevance": "7. Lowering costs of green energy programmes 8. Creating green job ecosystem 9. Encouraging micro to large-scale green innovation initiatives 12. Establishing international green trade technical schemas 13. Encouraging faster adoption of carbon credit offsets to reduce greenhouse gasses 17. Allowing government ownership as well as private participation in an open marketplace"
+        },
+        {
+            "sdg": "SDG8: Decent Work and Economic Growth",
+            "relevance": "7. Lowering costs of green energy programmes 8. Creating green job ecosystem 9. Encouraging micro to large-scale green innovation initiatives 12. Establishing international green trade technical schemas 13. Encouraging faster adoption of carbon credit offsets to reduce greenhouse gasses 17. Allowing government ownership as well as private participation in an open marketplace"
+        },
+        {
+            "sdg": "SDG9: Industry\u00b8 Innovation and Infrastructure",
+            "relevance": "7. Lowering costs of green energy programmes 8. Creating green job ecosystem 9. Encouraging micro to large-scale green innovation initiatives 12. Establishing international green trade technical schemas 13. Encouraging faster adoption of carbon credit offsets to reduce greenhouse gasses 17. Allowing government ownership as well as private participation in an open marketplace"
+        },
+        {
+            "sdg": "SDG12: Responsible Consumption and Production",
+            "relevance": "7. Lowering costs of green energy programmes 8. Creating green job ecosystem 9. Encouraging micro to large-scale green innovation initiatives 12. Establishing international green trade technical schemas 13. Encouraging faster adoption of carbon credit offsets to reduce greenhouse gasses 17. Allowing government ownership as well as private participation in an open marketplace"
+        },
+        {
+            "sdg": "SDG13: Climate Action",
+            "relevance": "7. Lowering costs of green energy programmes 8. Creating green job ecosystem 9. Encouraging micro to large-scale green innovation initiatives 12. Establishing international green trade technical schemas 13. Encouraging faster adoption of carbon credit offsets to reduce greenhouse gasses 17. Allowing government ownership as well as private participation in an open marketplace"
+        },
+        {
+            "sdg": "SDG17: Partnerships for the Goals",
+            "relevance": "7. Lowering costs of green energy programmes 8. Creating green job ecosystem 9. Encouraging micro to large-scale green innovation initiatives 12. Establishing international green trade technical schemas 13. Encouraging faster adoption of carbon credit offsets to reduce greenhouse gasses 17. Allowing government ownership as well as private participation in an open marketplace"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/undp/carbon-registry/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "United Nations Development Programme",
+            "clearOwnershipURL": "https://github.com/undp/carbon-registry/tree/main#support"
+        }
+    ],
+    "documentation": "Background, deployment instructions & use cases, mathmatical methodology of library components, and explanation of how users can use the system are detailed in https://github.com/undp/carbon-registry\r\nProduct Overview & Installation guidelines: https://github.com/undp/carbon-registry/blob/main/README.md\r\nTerms of Reference for National Installation: https://github.com/undp/carbon-registry/blob/main/TOR%20National%20Implementation.md \r\nFront end Installation Guidelines: https://github.com/undp/carbon-registry/blob/main/web/README.md \r\nAPI Documentation: https://api.carbreg.org/api/national/docs \r\nCarbon Credit Calculation Schema: https://github.com/undp/carbon-registry/blob/main/libs/carbon-credit-calculator/README.md \r\nSerial Number Generator Schema: https://github.com/undp/carbon-registry/blob/main/libs/serial-number-gen/README.md\r\n",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Data is available via REST API. Data can be exported upon request and shared in a machine-readable format."
+    },
+    "openStandards": [
+        "This technology was built in accordance with the Principles for Digital Development and the Contributor Covenant Code of Conduct"
+    ],
+    "bestPractices": [
+        "This technology was built in accordance with the Principles for Digital Development and the Contributor Covenant Code of Conduct. Anywhere possible it was built with open standards across accessibility",
+        " security",
+        " authentication",
+        " internationalization",
+        " web",
+        " API",
+        " data",
+        " GIS",
+        " testing",
+        " content formats",
+        " multimedia",
+        " and computer communications protocols."
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored but NOT distributed.",
+        "typesOfPIIDataCollected": [
+            "Name",
+            " email",
+            " phone number",
+            " IP address",
+            " interactions with our website (abstracted & GDPR compliant)",
+            " device location (abstracted & GDPR compliant)"
+        ],
+        "dataPrivacySecurity": "This is an opt-in marketplace where transactions are public and immutable, tracked on a private blockchain database. We minimize the amount of PII to the minimal necessary for functionality and track the transactions of users with regards to the organizations they belong to, not their own. We perform constant security & privacy checks on our code and through our quality assurance systems. We check the policies of the code modules that we use in our architecture stack. We have strict guidelines for who on the team can access private keys and ensure these are never shared nor exposed. We stay up-to-date on the international and national laws that impact our technology and ensure adherence accordingly."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "We collect profile images for accounts. The creation is only available to government employees or appointed administrators who have been previously approved by a government official. "
+        ],
+        "contentManagementPolicy": "We have a strict code of conduct both for the website itself as well as for interactions in our open source community https://test.carbreg.org/codeconduct . We also have strict terms of use https://test.carbreg.org/terms . Both outline behavior guidelines as well as actions that will be taken if behavior standards are violated."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "Our solution allows for interactions between users only in comments on transactions. Nevertheless, we have a strict code of conduct both for the website itself as well as for interactions in our open source community https://test.carbreg.org/codeconduct . It outlines behavior guidelines as well as actions that will be taken if behavior standards are violated."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Ghana",
+            "Kenya",
+            "Spain",
+            "Sri Lanka",
+            "Switzerland",
+            "United States of America"
+        ],
+        "deploymentCountries": [
+            "Gambia",
+            "Kenya",
+            "Sudan",
+            "United States of America"
+        ]
+    },
+    "deploymentOrganisations": [
+        "United Nations Development Programme"
+    ],
+    "deploymentCountriesDepartments": [
+        "We are currently in the process of deploying this technology in Namibia",
+        " Indonesia",
+        " Ghana",
+        " Georgia and others."
+    ],
+    "otherDeploymentOrganisations": [
+        "We are currently in the process of integrating with software from The World Bank",
+        " United Nations Climate Change (UNFCCC)."
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "Yes",
+        "openAlternatives": [
+            "https://github.com/undp/carbon-registry/tree/main#architecture\r\nOpen source elements are prioritized and make up the vast majority of the system. When closed-source tools are used",
+            " they are using the free tier so that there are no recurring costs related to deployment as much as possible. Each closed source elements are not vendor-specific and can be abstracted in future deployments",
+            " such as the serverless functions",
+            " blockchain database",
+            " analytics",
+            " mapping."
+        ]
+    },
+    "organizations": [
+        {
+            "name": "National Carbon Credit Registry",
+            "website": "https://test.carbreg.org",
+            "org_type": "owner",
+            "contact_name": " Mark Belinsky  ",
+            "contact_email": "mark.belinsky@undp.org"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "Privacy policy is available on our website https://test.carbreg.org . We are adherent in all countries where we are currently deployed as well as to the General Data Protection Regulation (GDPR), Indian IT Act, Persons with Disabilities Act 2020, Canadian Disabilities Act, Americans with Disabilities Act of 1990, and more. ",
+            "privacyComplianceURL": "https://test.carbreg.org/privacy"
+        }
+    ],
+    "aliases": "",
+    "awardsReceived": ""
+}
