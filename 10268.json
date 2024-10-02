@@ -1,0 +1,31 @@
+	{
+    "id": "10268",
+    "name": "Agroconsultas",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "ACO"
+    ],
+    "categories": [
+        "Open Content"
+    ],
+    "description": "At Agroconsultas we use digital technologies to help farmers make better decisions and get better results. We provide them with access to world-class technical support and training so they can be more productive and sustainable.",
+    "website": "www.agroconsultasonline.com",
+    "platformIndependence": [],
+    "organizations": [
+        {
+            "name": "Agroconsultas",
+            "website": "www.agroconsultasonline.com",
+            "org_type": "owner",
+            "contact_name": " Federico  ",
+            "contact_email": "federico.bert@agroconsultasonline.com.ar"
+        }
+    ],
+    "privacy": [
+        []
+    ],
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
