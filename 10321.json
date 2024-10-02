@@ -1,0 +1,125 @@
+	{
+    "id": "10321",
+    "name": "Safe YOU",
+    "sectors": [],
+    "stage": "DPG",
+    "aliases": [
+        "Safe YOU",
+        " IMIN"
+    ],
+    "categories": [
+        "Open Software"
+    ],
+    "description": "Safe YOU is an innovative technological solution created to reduce Gender-Based Violence through a mobile application and multifunctional web platform which work to streamline prevention programmes and ensure safety and access to resources for all women and girls. \r\n",
+    "website": "https://safeyou.space/",
+    "repositories": [
+        {
+            "name": "main",
+            "url": "https://github.com/safeyou-space/safeyou"
+        }
+    ],
+    "sdgs": [
+        {
+            "sdg": "SDG5: Gender Equity",
+            "relevance": "Our Safe YOU solution is an innovative technical solution that aims to break down societal structural barriers in order to protect & empower women. It consists of a mobile application that provides immediate emergency help to women at risk of violence, as well as acts as a bridge between women and pre-existing services (i.e. shelters/NGOs, medical professionals, social workers) which struggle to reach their beneficiaries, due to geographical or financial constraints. Women from low socioeconomic backgrounds are often at higher risk of GBV. By providing free access to services for these and all women, we are strengthening their social and economic empowerment, which will reduce their vulnerability to GBV.\u00a0Safe YOU is also a platform which allows stakeholders access to case management tools and a data analysis system designed to collect non-personally identifiable data (non-PII) and provide evidence-based policy recommendations. This helps to solve the global issue of a data gap and will lead to a long-term prevention of future cases of GBV. Therefore, our solution is intended to reach most of the targets set out by SDG 5, \u201cGender Equality\u201d (targets: 5.1, 5.2, 5.3, 5.5, 5.6, 5a, 5b, 5c).\r\n"
+        }
+    ],
+    "openlicenses": [
+        {
+            "openLicense": "AGPL-3.0",
+            "openLicenseEvidenceURLs": "https://github.com/safeyou-space/safeyou/blob/main/LICENSE"
+        }
+    ],
+    "clearOwnership": [
+        {
+            "clearOwnershipName": "Impact Innovations Institute LLC",
+            "clearOwnershipURL": "https://www.linkedin.com/showcase/safe-you\r\n"
+        }
+    ],
+    "documentation": "https://github.com/safeyou-space/safeyou/blob/main/README.md",
+    "NonPII": {
+        "collectsNonPII": "Yes",
+        "nonPIIAccessMechanism": "Extraction of non PII is made through a manual mechanism from database. It still remains a restricted information and can be extracted only by authorized personnel."
+    },
+    "openStandards": [
+        "Web Design and Applications: HTML",
+        " CSS",
+        "Web Architecture: URIs",
+        "Web of Services: HTTP",
+        " REST",
+        " JSON https://github.com/safeyou-space/safeyou/blob/main/README.md Principles for Digital Development"
+    ],
+    "dataPrivacySecurity": {
+        "collectsPII": "PII data is collected and stored and distributed.",
+        "typesOfPIIDataCollected": [
+            "Name",
+            "Surname",
+            "mobile number",
+            "marital status (non compulsory)",
+            "birthdate",
+            "geolocation (when help function is used)",
+            "e-mail (when an e-mail is sent to third parties through our platform)."
+        ],
+        "dataPrivacySecurity": "User's name, surname, mobile number, and geolocation are shared with the prechosen contacts: when the user is in danger, she can press the help button of the App, this will send a free alert SMS, with user's Name, Surname, and geolocation to up to 7 directions of prechosen contacts to let them know that the user is in danger. These contacts may be anyone from user's phone's contacts list, NGOs or state authorities that are included in our Apps 'Network' section, as well as the Police, if the 'Contact Police' function is enabled by the user. Since the usage of the mobile App may itself become a problem for already vulnerable groups, we have created two advanced security layers to minimize the risk of abusers discovering the app: a Dual PIN and a camouflage icon setting. The Dual PIN acts as a safety measure, allowing users to create a real PIN to access the app and a fake PIN that displays a photo gallery. The camouflage setting hides the app icon by displaying it as an image editing app so that women can use the app without fear of reprisal. The content in Forums is generated through our organization's content creators and by the personnel of governmental and non-governmental organizations who are partnering with us and have access to the tools of content generation and management. Contributors of the Forums section are thoroughly chosen making sure that they adhere to the general principle of \u201cDo no harm\u201d, while they create content and/or consult adolescent girls and women. Our Partner organizations are responsible to make sure that their engaged personnel acts appropriately e.g.: \r\n- Avoids questions, attitudes or comments that are judgmental or insensitive to cultural values or status; \r\n -Does not use language, make suggestions, provide misleading information or offer advice, which is inappropriate, offensive or abusive. \r\n In the Forums users engage with each other in discussions and can ask questions  to our partner organizations or to verified consultants, who are identifiable in the forums by a \u201cverified badge\u201d. That is why we clearly define in our Terms and Conditions and relevant policies that the users should refrain from abusing, threatening or otherwise violating the rights of others they are not allowed to publish, post, distribute or disseminate any inappropriate, threatening, infringing, obscene or unlawful topic, material or information. To adhere the principle of \u201cDo no harm\u201d we have moderation access in our \u201cForums\u201d section, which permits our partner organizations to moderate and remove content (user comments) that violates our terms, in some cases (when the users continue acting the same way after two notifications) the moderators have the right to block the users, who create content violating our terms. For now, the moderation in the platform is done manually by moderating the content daily. We are also currently working on functionality so that the users and contributors can report the abusive comments from mobile App and management dashboard, respectively. \r\n The Terms and Conditions as well as our Privacy Policies clearly describe these circumstances, and the users give consent to such data sharing. We ensure the security of collected data both by technical and policy means, more specifically the number of personnel, who has access to such data is strictly limited, moreover all the personnel has signed non-disclosure agreementS (NDAs), which clearly define user\u2019s personal data as a confidential information subject to confidentiality terms, the NDAs also imply strict monetary penalties in case of breach. \r\n As to the technical level of ensuring security of the data, we use SSL certificates, database connection is private -> connection to the DB is available only via local server (outbound connections are disabled)."
+    },
+    "userContent": {
+        "contentManagement": "Content is collected and stored but NOT distributed.",
+        "contentTypes": [
+            "The content in forums are related to vast variety of topics that may interest women (e.g. reproductive health",
+            " psychological help",
+            " parenting",
+            " maternity",
+            " law etc.)"
+        ],
+        "contentManagementPolicy": "We have included the list (non-exhaustive) of inappropriate content that is not allowed to be distributed through Safe YOU in Ground Rules section of our Terms and Conditions: https://docs.google.com/document/d/1Px4lfHdbUUzgH5tEW2AyQOkvorPPOau7NglPfZdBEdA/edit We have moderators, who are monitoring users\u2019 comments on a daily basis and reviewing their compliance to our general terms. If an inappropriate content is detected, the author of the content is warned that the comment does not correspond to our ground rules, and it should be removed by moderator. \r\n The users and contributors themselves have the option to contact moderator through e-mail to report the abusive content. The response time usually varies from 24-48 hours. Currently we are developing tools for users and contributors to report comments, which they find inappropriate. \r\n Our Terms and conditions state that Safe YOU can review user\u2019s conduct and content for compliance with the T&C and reserves the right to remove any violating content."
+    },
+    "protectionFromHarassment": {
+        "facilitatesUserInteraction": "Yes",
+        "harassmentPolicy": "The users can access the content in \u201cForums\u201d section of the mobile app, if the content has age restrictions it should be clearly mentioned both in the subject of the Forum and in its banner photo. No age-specific age restrictions have been made so far (e.g., blocking limiting access to relevant content for users under specific age). The Project team is currently working on creating a separate environment for users under the age 18. The users and contributors can contact project team and report the issues that they have had related to the App or the content. As mentioned above we are currently working on developing tools for users and contributors to be able to report the content, which they find harassing. Our users are encouraged to hide their identity when they interact in forums with contributors and other users, this is to ensure the anonymity and safety of the users themselves."
+    },
+    "locations": {
+        "developmentCountries": [
+            "Armenia"
+        ],
+        "deploymentCountries": [
+            "Armenia",
+            "Georgia",
+            "Iraq"
+        ]
+    },
+    "deploymentOrganisations": [
+        "The UN maintains various offices:"
+    ],
+    "deploymentCountriesDepartments": [
+        "Ministry of Interior of Kurdistan Regional Government and Police\r\nHuman Rights Defender Office Armenia \r\nNew system is currently being conceptualized for Police in Armenia \r\n\r\n"
+    ],
+    "otherDeploymentOrganisations": [
+        "United Nations Population Fund (UNFPA) Iraq\r\n"
+    ],
+    "awardsReceived": [
+        "In July of 2022",
+        " Safe YOU won the UNFPA-WIPO-ITU-ITC Joint Innovation Challenge 2022. \r\n\r\nIn 2022",
+        " Safe YOU was accepted into UNDP\u2019s Boost Program for Women Innovators. At the end of this program",
+        " Safe YOU was selected as one of the eight grant awardees from Track 1 of the BOOST: Women Innovators programme. \r\n\r\nAs of September 2022",
+        " Safe YOU has been featured in UNDP\u2019s Digital X Catalogue",
+        " presenting innovative digital solutions ready for scale. \r\n\r\nSafe YOU has also been selected as Armenia\u2019s nominee for the 2022 World Summit Awards (WSA) and is now shortlisted internationally. The Safe YOU team was also selected as one of the winners of the WSA European Young Innovators award. \r\n"
+    ],
+    "platformIndependence": {
+        "isPlatformIndependent": "No",
+        "openAlternatives": []
+    },
+    "organizations": [
+        {
+            "name": "Safe YOU",
+            "website": "https://safeyou.space/",
+            "org_type": "owner",
+            "contact_name": " Mariam Torosyan  ",
+            "contact_email": "mariam@safeyou.space"
+        }
+    ],
+    "privacy": [
+        {
+            "privacyCompliance": "The Project is currently active in Armenia and Georgia. Our Policies comply with Domestic information Security laws, both in Armenia and Georgia. More specifically, this refers to \u201cRA Civil Code\u201d adopted on 5 May 1998, \u201cRA Law on protection of personal data\u201d adopted on 18 May 2015. For Georgia: \"Law of Georgia on Information Security\" adopted on 01/07/2012. We are currently reviewing our policies to comply with GDPR. https://docs.google.com/document/d/1OMw2OnSP-_SaXWai7kZzPeqd71RrQo2VEP_T2NUxazo/edit?usp=sharing https://docs.google.com/document/d/1Px4lfHdbUUzgH5tEW2AyQOkvorPPOau7NglPfZdBEdA/edit?usp=sharing"
+        }
+    ]
+}
