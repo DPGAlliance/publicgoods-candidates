@@ -1,0 +1,20 @@
+	{
+    "id": "10315",
+    "name": "OSDG Community Dataset",
+    "sectors": [],
+    "platformIndependence": [],
+    "organizations": [
+        {
+            "name": "OSDG Community Dataset"
+        }
+    ],
+    "privacy": [
+        []
+    ],
+    "stage": "DPG",
+    "aliases": "",
+    "deploymentOrganisations": "",
+    "deploymentCountriesDepartments": "",
+    "otherDeploymentOrganisations": "",
+    "awardsReceived": ""
+}
